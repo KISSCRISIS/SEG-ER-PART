@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { AlertCircle, Home } from "lucide-react";
-import Bi from "@/components/Bi";
 import { biText } from "@/lib/seg-i18n";
 import { useLocation } from "wouter";
 
