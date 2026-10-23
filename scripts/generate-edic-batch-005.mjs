@@ -292,8 +292,8 @@ writeFileSync(OUTPUT_PATH, output);
 
 // Re-read and validate
 const reRead = readFileSync(OUTPUT_PATH, 'utf8').trim().split('\n');
-const data = reRead.map(l => { try { return JSON.parse(l) } catch(e) { return null } }).filter(Boolean);
-const sourceMap = new Map(lines.map(l => { try { return [JSON.parse(l).id, JSON.parse(l)] } catch(e) { return [null, null] } }).filter(([k]) => k));
+const data = reRead.map(l => { try { return JSON.parse(l) } catch { return null } }).filter(Boolean);
+const sourceMap = new Map(lines.map(l => { try { return [JSON.parse(l).id, JSON.parse(l)] } catch { return [null, null] } }).filter(([k]) => k));
 let crossIssues = [];
 for (const q of data) {
   const orig = sourceMap.get(q.id);
