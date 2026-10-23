@@ -1,5 +1,3 @@
-import { readFile, writeFile, readdir, stat } from "node:fs/promises";
-import path from "node:path";
 
 export type RawQuestion = {
   id: string;
@@ -24,10 +22,6 @@ export type ImportRow = {
   errors: string[];
   duplicateOf?: string;
 };
-
-function isObject(obj: unknown): obj is Record<string, unknown> {
-  return typeof obj === "object" && obj !== null && !Array.isArray(obj);
-}
 
 function parseCsvLine(line: string): string[] {
   const out: string[] = [];
