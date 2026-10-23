@@ -78,7 +78,6 @@ export const pdfLibraryRouter = router({
     .input(z.object({ pdfId: z.string().min(1).max(200) }))
     .query(async ({ ctx, input }) => {
       if (!(await pdfLib.getOwnedPdfPath(ctx.user.id, input.pdfId))) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
-      const key = `pdf-pos:${ctx.user.id}:${input.pdfId}`;
       const { localStorageEnabled, localStore } = await import("./localStore");
       if (localStorageEnabled()) {
         const docs = localStore().list<{ page: number }>("pdf-library-positions", ctx.user.id);
