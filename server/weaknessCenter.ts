@@ -1,6 +1,5 @@
 import { localStorageEnabled, localStore } from "./localStore";
 import * as db from "./db";
-import { getResidentQuestion } from "./residentContent";
 
 export const CLASSIFICATIONS = [
   "Knowledge Gap",
@@ -25,7 +24,6 @@ export type WeaknessDoc = {
 export async function getWeaknessCenterData(userId: number) {
   const history = await db.getQuestionHistory(userId);
   const attempts = history.attempts ?? [];
-  const states = history.states ?? [];
   const wrongIds = new Set(attempts.filter(a => a.correct === 0).map(a => a.questionId));
   const repeatedIds = new Set<string>();
   const counts = new Map<string, number>();
