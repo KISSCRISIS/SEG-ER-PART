@@ -2,7 +2,6 @@ import { TRPCError } from "@trpc/server";
 import { z } from "zod";
 import { protectedProcedure, router } from "./_core/trpc";
 import * as pdfLib from "./pdfLibrary";
-import path from "node:path";
 
 export const pdfLibraryRouter = router({
   import: protectedProcedure
@@ -51,6 +50,7 @@ export const pdfLibraryRouter = router({
   saveNote: protectedProcedure
     .input(z.object({ pdfId: z.string().min(1).max(200), page: z.number().int().min(1), text: z.string().max(4000) }))
     .mutation(async ({ ctx, input }) => {
+      if (!(await pdfLib.getOwnedPdfPath(ctx.user.id, input.pdfId))) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
       const key = `pdf-note:${ctx.user.id}:${input.pdfId}:${input.page}`;
       // Persist via localStore in server; for simplicity here we rely on client localStorage
       // but to satisfy "persist after restart" locally, server writes to workspace
@@ -63,6 +63,7 @@ export const pdfLibraryRouter = router({
   saveBookmark: protectedProcedure
     .input(z.object({ pdfId: z.string().min(1).max(200), page: z.number().int().min(1) }))
     .mutation(async ({ ctx, input }) => {
+      if (!(await pdfLib.getOwnedPdfPath(ctx.user.id, input.pdfId))) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
       const key = `pdf-bookmark:${ctx.user.id}:${input.pdfId}`;
       const { localStorageEnabled, localStore } = await import("./localStore");
       if (localStorageEnabled()) {
@@ -76,6 +77,7 @@ export const pdfLibraryRouter = router({
   getPosition: protectedProcedure
     .input(z.object({ pdfId: z.string().min(1).max(200) }))
     .query(async ({ ctx, input }) => {
+      if (!(await pdfLib.getOwnedPdfPath(ctx.user.id, input.pdfId))) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
       const key = `pdf-pos:${ctx.user.id}:${input.pdfId}`;
       const { localStorageEnabled, localStore } = await import("./localStore");
       if (localStorageEnabled()) {
@@ -88,6 +90,7 @@ export const pdfLibraryRouter = router({
   setPosition: protectedProcedure
     .input(z.object({ pdfId: z.string().min(1).max(200), page: z.number().int().min(1) }))
     .mutation(async ({ ctx, input }) => {
+      if (!(await pdfLib.getOwnedPdfPath(ctx.user.id, input.pdfId))) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
       const key = `pdf-pos:${ctx.user.id}:${input.pdfId}`;
       const { localStorageEnabled, localStore } = await import("./localStore");
       if (localStorageEnabled()) localStore().put("pdf-library-positions", ctx.user.id, key, { pdfId: input.pdfId, page: input.page, updatedAt: new Date() });
@@ -96,6 +99,7 @@ export const pdfLibraryRouter = router({
   notes: protectedProcedure
     .input(z.object({ pdfId: z.string().min(1).max(200) }))
     .query(async ({ ctx, input }) => {
+      if (!(await pdfLib.getOwnedPdfPath(ctx.user.id, input.pdfId))) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
       const { localStorageEnabled, localStore } = await import("./localStore");
       if (!localStorageEnabled()) return { items: [] };
       const docs = localStore().list<{ pdfId: string; page: number; text: string; updatedAt: string }>("pdf-library-notes", ctx.user.id);
@@ -105,6 +109,7 @@ export const pdfLibraryRouter = router({
   bookmarks: protectedProcedure
     .input(z.object({ pdfId: z.string().min(1).max(200) }))
     .query(async ({ ctx, input }) => {
+      if (!(await pdfLib.getOwnedPdfPath(ctx.user.id, input.pdfId))) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
       const { localStorageEnabled, localStore } = await import("./localStore");
       if (!localStorageEnabled()) return { pages: [] };
       const docs = localStore().list<{ pdfId: string; pages: number[]; updatedAt: string }>("pdf-library-bookmarks", ctx.user.id);
