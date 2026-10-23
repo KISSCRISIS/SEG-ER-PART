@@ -2,7 +2,7 @@
 // ===============================================================
 import { readFileSync } from "node:fs";
 
-const lines = readFileSync("edic-arabic-batch-002.jsonl", "utf8").trim().split("\\n");
+const lines = readFileSync("edic-arabic-batch-002.jsonl", "utf8").trim().split(/\r?\n/);
 
 // Topic → {prefix, focus, keyTerms}
 const topicMap = {
