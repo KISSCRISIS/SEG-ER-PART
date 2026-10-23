@@ -22,13 +22,12 @@ export function countPagesAndExtract(pdfBuffer: Buffer): { pageCount: number; pa
   const text = pdfBuffer.toString("latin1");
   const pages: ExtractedText[] = [];
   const textRegexes = [
-    /\(([^(\\\)]+)\)\s*Tj/g,
+    /\(([^(\\)]+)\)\s*Tj/g,
     /\[([^\]]+)\]\s*TJ/g,
   ];
 
   // Count pages by finding /Type /Page (excluding Pages)
-  let pageCount = 0;
-  pageCount = Array.from(text.matchAll(/\/Type\s*\/Page\s*(?!\w)/g)).length;
+  const pageCount = Array.from(text.matchAll(/\/Type\s*\/Page\s*(?!\w)/g)).length;
 
   // For text extraction, split by content streams roughly
   const streamRegex = /stream\r?\n([\s\S]*?)endstream/g;
@@ -37,7 +36,7 @@ export function countPagesAndExtract(pdfBuffer: Buffer): { pageCount: number; pa
     streamIndex++;
     const raw = streamMatch[1];
     if (raw.length < 10) continue;
-    let decompressed = "";
+    let decompressed: string;
     try {
       const compressed = Buffer.from(raw.replace(/\r?\n/g, "").trim(), "latin1");
       // Only attempt inflate if it looks compressed (starts with zlib header or has FlateDecode)
@@ -69,6 +68,8 @@ export function countPagesAndExtract(pdfBuffer: Buffer): { pageCount: number; pa
 
   // If stream-based extraction didn't find much, fall back to simple text extraction from PDF body
   if (pages.length === 0) {
+    // PDF binary data legitimately contains control bytes; strip them before the text fallback.
+    // eslint-disable-next-line no-control-regex
     const bodyText = pdfBuffer.toString("latin1").replace(/[\x00-\x08\x0B-\x0C\x0E-\x1F]/g, " ");
     // Just report total pages and one summary page
     pages.push({ page: 1, text: bodyText.slice(0, 8000), isImageOnly: bodyText.trim().length < 50, sourcePages: Array.from({ length: pageCount }, (_, i) => i + 1) });
