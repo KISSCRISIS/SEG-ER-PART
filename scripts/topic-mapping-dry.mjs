@@ -1,11 +1,8 @@
 // Improved Topic Classification System for EDIC Batch 2 (Q101-Q200)
 // ===============================================================
+import { readFileSync } from "node:fs";
 
-const approvedPrefixes = [
-  'آلية العمل:', 'علم الأمراض:', 'الأهمية السريرية:', 'الفيزيولوجيا:',
-  'التعريف:', 'التشخيص:', 'التدبير:', 'آلية المقاومة:',
-  'السمات الإشعاعية:', 'التعريف والطبقات:', 'المقدمة:', 'حماية الكظرية:'
-];
+const lines = readFileSync("edic-arabic-batch-002.jsonl", "utf8").trim().split("\\n");
 
 // Topic → {prefix, focus, keyTerms}
 const topicMap = {
