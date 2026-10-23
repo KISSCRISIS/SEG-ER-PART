@@ -28,9 +28,7 @@ export function countPagesAndExtract(pdfBuffer: Buffer): { pageCount: number; pa
 
   // Count pages by finding /Type /Page (excluding Pages)
   let pageCount = 0;
-  for (const match of text.matchAll(/\/Type\s*\/Page\s*(?!\w)/g)) {
-    pageCount++;
-  }
+  pageCount = Array.from(text.matchAll(/\/Type\s*\/Page\s*(?!\w)/g)).length;
 
   // For text extraction, split by content streams roughly
   const streamRegex = /stream\r?\n([\s\S]*?)endstream/g;
