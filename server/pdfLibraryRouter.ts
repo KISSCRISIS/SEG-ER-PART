@@ -5,7 +5,7 @@ import * as pdfLib from "./pdfLibrary";
 
 export const pdfLibraryRouter = router({
   import: protectedProcedure
-    .input(z.object({ fileName: z.string().min(1).max(120), fileBase64: z.string().max(47_000_000) }))
+    .input(z.object({ fileName: z.string().min(1).max(120), fileBase64: z.string().max(50_000_000) }))
     .mutation(async ({ ctx, input }) => {
       try {
         const buffer = Buffer.from(input.fileBase64, "base64");
