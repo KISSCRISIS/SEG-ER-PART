@@ -51,7 +51,7 @@ function getTrustProxySetting() {
 }
 
 function getBodyLimit() {
-  return process.env.BODY_SIZE_LIMIT ?? "48mb";
+  return process.env.BODY_SIZE_LIMIT ?? "52mb";
 }
 
 async function startServer() {
