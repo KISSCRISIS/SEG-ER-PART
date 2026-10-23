@@ -30,7 +30,7 @@ export const pdfLibraryRouter = router({
       if (!filePath) throw new TRPCError({ code: "NOT_FOUND", message: "PDF not found in your library." });
       const { stat } = await import("node:fs/promises");
       const info = await stat(filePath);
-      return { filePath, exists: true, size: info.size };
+      return { exists: true, size: info.size };
     }),
   summarize: protectedProcedure
     .input(z.object({ pdfId: z.string().min(1).max(240), pageRange: z.array(z.number().int().min(1)).max(500).optional() }))
