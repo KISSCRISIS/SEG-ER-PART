@@ -1,0 +1,14 @@
+{
+  "allowed_example_files": [
+    ".env.example"
+  ],
+  "forbidden_paths": [
+    ".manus-logs/browserConsole.log",
+    ".manus-logs/networkRequests.log",
+    ".manus-logs/sessionReplay.log"
+  ],
+  "root": "/home/ubuntu/seg-manus-status",
+  "scanned_files": 1028,
+  "secret_matches": [],
+  "status": "REVIEW_REQUIRED"
+}

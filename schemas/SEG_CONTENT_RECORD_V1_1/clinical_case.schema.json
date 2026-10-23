@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg-guide.example/schemas/seg-content-record.v1.1.clinical-case.schema.json",
+  "title": "SEG v1.1 Clinical Case content",
+  "description": "Type-specific content definition for clinical_case. This is educational content, not a patient record, clinical protocol, or competency approval.",
+  "$ref": "#/$defs/clinicalCase",
+  "$defs": {
+    "sourceSection": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["state"],
+      "properties": {
+        "state": {
+          "type": "string",
+          "enum": ["present", "absent", "unresolved"]
+        },
+        "origin": {
+          "type": "string",
+          "enum": ["source_verbatim", "source_derived", "seg_original"]
+        },
+        "value": {
+          "type": ["string", "array", "object"]
+        },
+        "source_locator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "review_note": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"state": {"const": "present"}},
+            "required": ["state"]
+          },
+          "then": {
+            "required": ["origin", "value"]
+          }
+        },
+        {
+          "if": {
+            "properties": {"state": {"enum": ["absent", "unresolved"]}},
+            "required": ["state"]
+          },
+          "then": {
+            "not": {"required": ["value"]}
+          }
+        },
+        {
+          "if": {
+            "properties": {"origin": {"enum": ["source_verbatim", "source_derived"]}},
+            "required": ["origin"]
+          },
+          "then": {
+            "required": ["source_locator"]
+          }
+        }
+      ]
+    },
+    "referenceEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reference_id", "locator", "supports"],
+      "properties": {
+        "reference_id": {"type": "string", "minLength": 1},
+        "locator": {"type": "string", "minLength": 1},
+        "supports": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "clinicalCase": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "case_type",
+        "presentation",
+        "history",
+        "examination",
+        "investigations",
+        "assessment",
+        "differential",
+        "management",
+        "clinical_reasoning",
+        "references"
+      ],
+      "properties": {
+        "case_type": {"type": "string", "minLength": 1},
+        "presentation": {"$ref": "#/$defs/sourceSection"},
+        "history": {"$ref": "#/$defs/sourceSection"},
+        "examination": {"$ref": "#/$defs/sourceSection"},
+        "investigations": {"$ref": "#/$defs/sourceSection"},
+        "assessment": {"$ref": "#/$defs/sourceSection"},
+        "differential": {"$ref": "#/$defs/sourceSection"},
+        "management": {"$ref": "#/$defs/sourceSection"},
+        "clinical_reasoning": {"$ref": "#/$defs/sourceSection"},
+        "references": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/referenceEntry"}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "seg-acute-coronary-syndrome",
+      "title": "Acute Coronary Syndrome and STEMI",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "التخطيط خلال دقائق وتقييم الاستقرار أولوية؛ عالج متلازمة الشريان التاجي الحادة وفق البروتوكول، ونسّق إعادة التروية العاجلة عند وجود STEMI.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-heart-failure",
+      "title": "Acute Heart Failure and Pulmonary Edema",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "قيّم نقص الأكسجة والضغط والسبب المحرض، وابدأ دعم التنفس والعلاج الموجه للسوائل والاحتقان مع مراقبة الاستجابة.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-stroke",
+      "title": "Acute Ischemic Stroke and Intracranial Hemorrhage",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "حدد آخر وقت طبيعي، افحص العجز العصبي، وأجرِ تصويرًا عاجلًا لاستبعاد النزف؛ القرارات العلاجية مرتبطة بالزمن ومعايير الأهلية.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-diabetic-emergencies",
+      "title": "Diabetic Ketoacidosis and Hyperosmolar State",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الإماهة وتقييم البوتاسيوم والبحث عن السبب المحرض أساسية؛ يُعطى الإنسولين بعد التأكد من أمان البوتاسيوم وتُصحح الشوارد تدريجيًا.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-liver-failure",
+      "title": "Acute Liver Failure and Hepatic Encephalopathy",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "احمِ مجرى الهواء عند اضطراب الوعي، ابحث عن السموم والعدوى ونقص السكر، وتواصل مبكرًا مع مركز زراعة الكبد عند علامات الفشل الحاد.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

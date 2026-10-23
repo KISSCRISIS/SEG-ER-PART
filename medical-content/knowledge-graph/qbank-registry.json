@@ -1,0 +1,813 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-24",
+  "origin": "SEG Qbank inventory. Counts were verified against JSONL files in this repository; the PEER for Physicians 2026 bank was normalized from supplied source files. No topicId was assigned.",
+  "qbankSources": [
+    {
+      "questionSourceId": "qbank-edic-sba-2026",
+      "sourceName": "EDIC SBA 2026",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/edic-sba-2026-question-bank.jsonl",
+      "totalQuestions": 995,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 995,
+          "coverage": "100%",
+          "example": "ilovepdf_merged-batch-1-q-1"
+        },
+        "source": {
+          "fields": [
+            "family",
+            "sourceId"
+          ],
+          "available": true,
+          "count": 995,
+          "coverage": "100%",
+          "value": "EDIC / qbank-edic-sba-2026"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 995,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 995,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 995,
+          "arabicCount": 0,
+          "coverage": "English 100%; Arabic 0%",
+          "arabicStatus": "not provided in imported EDIC file"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "family",
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterNumberCount": 995,
+          "chapterTitleCount": 995,
+          "sourceQuestionNumberCount": 995
+        },
+        "additionalFields": {
+          "options": 995,
+          "clinicalPearl": 995,
+          "clinicalPearlArabic": 0,
+          "governanceStatus": 995,
+          "duplicateGroupId": 995,
+          "isDuplicate": 995,
+          "sourceId": 995
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 34,
+        "coverage": "100% (995/995 records carry chapterNumber + chapterTitle)",
+        "distributionSample": {
+          "1": 30,
+          "2": 30,
+          "3": 30,
+          "4": 30,
+          "5": 30
+        },
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "notes": "EDIC SBA 2026 imported as a qbank source only. No topicId assignment performed in this integration."
+      },
+      "mappingReadiness": "ready — chapter-anchored EDIC SBA bank; awaiting future per-question topicId assignment"
+    },
+    {
+      "questionSourceId": "qbank-frcem",
+      "sourceName": "FRCEM Question Bank",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/frcem-question-bank.jsonl",
+      "totalQuestions": 1529,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 1529,
+          "coverage": "100%",
+          "example": "frcem-ch-01-q-0001"
+        },
+        "source": {
+          "field": "family",
+          "available": true,
+          "count": 1529,
+          "coverage": "100%",
+          "value": "FRCEM"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 1529,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 1529,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 1529,
+          "arabicCount": 1529,
+          "coverage": "100%"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "family",
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterNumberCount": 1529,
+          "chapterTitleCount": 1529,
+          "sourceQuestionNumberCount": 1529
+        },
+        "additionalFields": {
+          "options": 1529,
+          "references": 482,
+          "rawSourceBlock": 1529,
+          "governanceStatus": 1529,
+          "englishExplanationStatus": 0
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 32,
+        "coverage": "100% (1529/1529 records carry chapterNumber + chapterTitle)",
+        "distributionSample": {
+          "1": 32,
+          "2": 32,
+          "3": 154,
+          "4": 171,
+          "5": 26
+        },
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "referenceCoverage": "31.5% (482/1529 carry references array)",
+        "notes": "System-level chapters (e.g. 'SURGICAL EMERGENCIES' 32 qs, 'TRAUMA' 171 qs). No per-question topicId yet; mapping must not invent missing topics."
+      },
+      "mappingReadiness": "ready — chapter-anchored (system-level); mapping to canonical topicId requires topic-level curation, not one-to-one chapter reuse"
+    },
+    {
+      "questionSourceId": "qbank-hippo",
+      "sourceName": "Hippo EM Question Bank",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/hippo-question-bank.jsonl",
+      "totalQuestions": 1927,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 1927,
+          "coverage": "100%",
+          "example": "hippo-ch-01-q-0001"
+        },
+        "source": {
+          "field": "family",
+          "available": true,
+          "count": 1927,
+          "coverage": "100%",
+          "value": "HIPPO"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 1927,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 1927,
+          "coverage": "100%",
+          "answerKeys": [
+            "A"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 1927,
+          "arabicCount": 1927,
+          "coverage": "100%",
+          "arabicStatusField": "englishExplanationStatus"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "family",
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterNumberCount": 1927,
+          "chapterTitleCount": 1927,
+          "sourceQuestionNumberCount": 1927
+        },
+        "additionalFields": {
+          "options": 1927,
+          "references": 0,
+          "rawSourceBlock": 1927,
+          "governanceStatus": 1927,
+          "englishExplanationStatus": 1927
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 18,
+        "coverage": "100% (1927/1927 records carry chapterNumber + chapterTitle)",
+        "distributionSample": {
+          "1": 74,
+          "2": 156,
+          "3": 161,
+          "4": 148,
+          "5": 73
+        },
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "answerKeyNote": "All records carry correctAnswerKey 'A' in the normalized file (single-key artifact); original option mapping requires audit before use as difficulty signal.",
+        "notes": "System-level chapters (e.g. 'CARDIOVASCULAR DISORDERS' 148 qs). Topic mapping needs per-question review, not chapter-name reuse."
+      },
+      "mappingReadiness": "ready — chapter-anchored (system-level) with answer-key audit flag; awaiting topicId assignment in Phase 4-E.4-B"
+    },
+    {
+      "questionSourceId": "qbank-oxford-sce",
+      "sourceName": "Oxford SCE Question Bank",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/oxford-sce-question-bank.jsonl",
+      "totalQuestions": 356,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 356,
+          "coverage": "100%",
+          "example": "oxford-ch-01-q-0001"
+        },
+        "source": {
+          "field": "family",
+          "available": true,
+          "count": 356,
+          "coverage": "100%",
+          "value": "OXFORD_SCE"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 356,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 356,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 356,
+          "arabicCount": 356,
+          "coverage": "100%",
+          "arabicStatusField": "arabicExplanationStatus"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "family",
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterNumberCount": 356,
+          "chapterTitleCount": 356,
+          "sourceQuestionNumberCount": 356
+        },
+        "additionalFields": {
+          "options": 356,
+          "references": 0,
+          "sourceLocator": 356,
+          "governanceStatus": 356,
+          "usageScope": 356
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 16,
+        "coverage": "100% (356/356 records carry chapterNumber + chapterTitle)",
+        "distributionSample": {
+          "1": 20,
+          "2": 40,
+          "3": 40,
+          "4": 32,
+          "5": 22
+        },
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "notes": "Smallest bank (16 chapters). Same system-level pattern; mapping must not invent topics."
+      },
+      "mappingReadiness": "ready — chapter-anchored (system-level); awaiting topicId assignment in Phase 4-E.4-B"
+    },
+    {
+      "questionSourceId": "qbank-peer-physicians-case-series-2026",
+      "sourceName": "PEER for Physicians - Case Series 2026",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/peer-physicians-case-series-2026-question-bank.jsonl",
+      "totalQuestions": 685,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 685,
+          "coverage": "100%",
+          "example": "peer2026-1-batch-1-q-1"
+        },
+        "source": {
+          "fields": [
+            "source",
+            "family"
+          ],
+          "available": true,
+          "count": 685,
+          "coverage": "100%",
+          "value": "PEER_PHYSICIANS / qbank-peer-physicians-case-series-2026 (runtime normalized)"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 685,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 685,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation"
+          ],
+          "available": true,
+          "englishCount": 685,
+          "arabicCount": 204,
+          "coverage": "English 100%; Arabic 29.8%",
+          "arabicStatus": "present in 204 imported records"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterTitleCount": 685,
+          "sourceQuestionNumberCount": 685,
+          "chapterNumberCount": 685
+        },
+        "additionalFields": {
+          "options": 685,
+          "governanceStatus": 685,
+          "reviewStatus": 0,
+          "reviewIssues": 0,
+          "sourceId": 0
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 10,
+        "coverage": "100% (685/685 records carry chapterNumber and chapterTitle)",
+        "distributionSample": {},
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "notes": "PEER for Physicians - Case Series 2026 imported as an independent qbank source. All 685 records have A-D options. The imported file is preserved verbatim; the application normalizes family and sourceId at runtime. No topicId assignment performed in this integration."
+      },
+      "mappingReadiness": "ready — case-series chapter-title anchored PEER bank; awaiting future per-question topicId assignment"
+    },
+    {
+      "questionSourceId": "qbank-peer-physicians-2026-unified",
+      "sourceName": "PEER for Physicians 2026",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/peer-physicians-2026-unified-question-bank.jsonl",
+      "totalQuestions": 2139,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 2139,
+          "coverage": "100%",
+          "example": "PEER-2026-volume-1-text-q-1"
+        },
+        "source": {
+          "fields": [
+            "source",
+            "sourceId",
+            "sourceFile",
+            "family"
+          ],
+          "available": true,
+          "count": 2139,
+          "coverage": "100%",
+          "value": "PEER_PHYSICIANS in source; PEER_2026 at runtime / qbank-peer-physicians-2026-unified"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 2139,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 2139,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 2139,
+          "arabicCount": 989,
+          "coverage": "English 100%; Arabic 46.2%",
+          "arabicStatus": "present in 989 imported records"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber",
+            "sourceFile"
+          ],
+          "available": true,
+          "chapterNumberCount": 2139,
+          "chapterTitleCount": 2139,
+          "sourceQuestionNumberCount": 2139,
+          "sourceFileCount": 2139,
+          "pdfPageCount": 1150
+        },
+        "additionalFields": {
+          "options": 2139,
+          "governanceStatus": 2139,
+          "sourceId": 2139
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 18,
+        "coverage": "100% (2,139/2,139 records carry chapterNumber and chapterTitle)",
+        "distributionSample": {},
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "notes": "Independent 18-chapter PEER for Physicians 2026 bank. SEG normalizes the source family to PEER_2026 at runtime. The 685-question PEER case-series bank remains separately registered. No topicId assignment was performed."
+      },
+      "mappingReadiness": "ready — chapter-title anchored; awaiting future per-question topicId assignment"
+    },
+    {
+      "questionSourceId": "qbank-rosen-10e",
+      "sourceName": "Rosen 10e Question Bank",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/rosen-10e-question-bank.jsonl",
+      "totalQuestions": 1044,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 1044,
+          "coverage": "100%",
+          "example": "rosen-ch-01-q-0001"
+        },
+        "source": {
+          "field": "family",
+          "available": true,
+          "count": 1044,
+          "coverage": "100%",
+          "value": "ROSEN_10E"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 1044,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 1044,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 1044,
+          "arabicCount": 1044,
+          "coverage": "100%",
+          "arabicStatusField": "arabicExplanationStatus"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "family",
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterNumberCount": 1044,
+          "chapterTitleCount": 1044,
+          "sourceQuestionNumberCount": 1044
+        },
+        "additionalFields": {
+          "options": 1044,
+          "references": 0,
+          "sourceLocator": 1044,
+          "governanceStatus": 1044,
+          "usageScope": 1044
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 185,
+        "coverage": "100% (1044/1044 records carry chapterNumber + chapterTitle)",
+        "distributionSample": {
+          "1": 6,
+          "2": 4,
+          "3": 3,
+          "4": 5,
+          "5": 5
+        },
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "notes": "185 distinct chapters (sparse: 3–6 questions each). Mapping must preserve chapterNumber as the primary key; title aliasing alone would collapse distinct chapters."
+      },
+      "mappingReadiness": "ready — chapter-anchored; awaiting topicId assignment in Phase 4-E.4-B"
+    },
+    {
+      "questionSourceId": "qbank-rosh-initial-certification-2026",
+      "sourceName": "ROSH Review EM Initial Certification 2026",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/rosh-initial-certification-2026-merged-four-files-question-bank.jsonl",
+      "totalQuestions": 5025,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 5025,
+          "coverage": "100%"
+        },
+        "source": {
+          "field": "family",
+          "available": true,
+          "count": 5025,
+          "coverage": "100%",
+          "value": "ROSH_2026"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 5025,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 5025,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 5025,
+          "arabicCount": 0,
+          "coverage": "100% English"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "family",
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterNumberCount": 5025,
+          "chapterTitleCount": 5025,
+          "sourceQuestionNumberCount": 5025
+        },
+        "additionalFields": {
+          "options": 5025,
+          "practiceEligible": 5025,
+          "reviewIssues": 1031,
+          "governanceStatus": 5025
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 20,
+        "coverage": "100%",
+        "governanceStatus": "under-review",
+        "notes": "3,994 practice-eligible records; 1,031 unique records withheld for duplicate stems and/or missing visual or audio assets. All 2,728 records from the prior two-file bank are preserved; 2,297 novel records were added from the third and fourth files. Source-only chapter metadata; no topicId assigned."
+      },
+      "mappingReadiness": "partial — chapter anchored; question-level topic mapping awaits curation"
+    },
+    {
+      "questionSourceId": "qbank-tintinalli-9e",
+      "sourceName": "Tintinalli 9e Question Bank",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/tintinalli-9e-question-bank.jsonl",
+      "totalQuestions": 756,
+      "availableMetadata": {
+        "questionId": {
+          "field": "id",
+          "available": true,
+          "count": 756,
+          "coverage": "100%",
+          "example": "tintinalli-ch-01-q-0001"
+        },
+        "source": {
+          "field": "family",
+          "available": true,
+          "count": 756,
+          "coverage": "100%",
+          "value": "TINTINALLI_9E"
+        },
+        "stem": {
+          "field": "question",
+          "available": true,
+          "count": 756,
+          "coverage": "100%"
+        },
+        "answer": {
+          "fields": [
+            "correctAnswerKey",
+            "correctAnswer"
+          ],
+          "available": true,
+          "count": 756,
+          "coverage": "100%",
+          "answerKeys": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        "explanation": {
+          "fields": [
+            "englishExplanation",
+            "arabicExplanation"
+          ],
+          "available": true,
+          "englishCount": 756,
+          "arabicCount": 756,
+          "coverage": "100%",
+          "arabicStatusField": "arabicExplanationStatus"
+        },
+        "existingTopicChapterMetadata": {
+          "fields": [
+            "family",
+            "chapterNumber",
+            "chapterTitle",
+            "sourceQuestionNumber"
+          ],
+          "available": true,
+          "chapterNumberCount": 756,
+          "chapterTitleCount": 756,
+          "sourceQuestionNumberCount": 756
+        },
+        "additionalFields": {
+          "options": 756,
+          "references": 0,
+          "sourceLocator": 756,
+          "governanceStatus": 756,
+          "usageScope": 756
+        }
+      },
+      "chapterInformation": {
+        "hasChapterNumbers": true,
+        "hasChapterTitles": true,
+        "distinctChapters": 24,
+        "coverage": "100% (756/756 records carry chapterNumber + chapterTitle)",
+        "distributionSample": {
+          "1": 20,
+          "2": 21,
+          "3": 21,
+          "4": 20,
+          "5": 67
+        },
+        "titlesAreDistinctPerChapter": true,
+        "governanceStatus": "under-review",
+        "notes": "Chapter titles are per-question copies of the same book chapter (e.g. chapter 5 = 67 questions). TopicId mapping must group by chapterNumber, not by free-text inference."
+      },
+      "mappingReadiness": "ready — chapter-anchored; awaiting topicId assignment in Phase 4-E.4-B (priority: chapter metadata → category → keywords → explanation concepts)"
+    }
+  ],
+  "totals": {
+    "sources": 9,
+    "questions": 14456
+  },
+  "invariants": "All 14,456 registered Qbank records have unique ids, nonempty stems, answer text, and English explanations. Runtime validation requires at least two nonempty options, unique option keys, and an explicit valid answer key or one exact unique option-text match. All 176 previously malformed records across FRCEM, Oxford SCE, Rosen, and Tintinalli have been repaired by deduplicating option keys and correcting answer fields. The 1,031 ROSH records remain withheld for duplicate stems and/or missing media assets. All 13,425 questions are now answerable in practice. No topicId assigned in this integration."
+}

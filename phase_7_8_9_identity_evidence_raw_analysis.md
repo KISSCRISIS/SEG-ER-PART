@@ -1,0 +1,256 @@
+# Phase 7.8.9 Identity Evidence Discovery — Raw Analysis
+
+Read-only structural and identity-signal analysis of priority legacy files. No mapping rows were created.
+
+## /home/ubuntu/seg-staging-prep-input/SEG_LEGACY_CONTENT_HANDOFF/03_DATA/flashcards/src/data/APP_DATABASE.json
+- bytes: 2375945
+- sha256: bc3429093cc5a32d7727080e03c39e720665dbf925879d8d1bf8c09ffed96996
+- shape: {'root_type': 'object', 'keys': ['algorithms', 'antidotes', 'arabicMentorExplanations', 'chapterStudyMap', 'examTraps', 'expandedDerivedTopics', 'flashcards', 'keywords', 'metadata', 'numericals', 'officialUnifiedTopics', 'referenceLibrary', 'searchIndex', 'sourceCoverage', 'topicFamilyIndex', 'topics', 'visualSigns']}
+- string_values: 26714
+- detected_identity_values: 2590
+- top_keys: [index]=5929, source=2276, topic=2024, id=1991, type=1738, topicId=1519, text=1422, referenceId=1308, title=978, answer=897, keyword=781, cardId=760, question=760, yield=760, arabicMentorExplanation=630, explanation=504, topicName=436, specialty=436, chapterTitle=388, chapterNumber=331, sourceFile=265, boardSafeLogic=194, questionNumber=137, _batchFile=102, family=99, name=45, version=1, generatedAt=1, description=1, importantNote=1
+- relation_key_hits: [index]=5929, source=2276, topic=2024, id=1991, topicId=1519, referenceId=1308, cardId=760, topicName=436, chapterTitle=388, chapterNumber=331, sourceFile=265, family=99
+- detected_ids: LEGACY_ID:UNI_012=14, LEGACY_ID:UNI_006=13, LEGACY_ID:UNI_011=13, LEGACY_ID:UNI_004=12, LEGACY_ID:UNI_020=12, LEGACY_ID:UNI_027=12, LEGACY_ID:DERIVED_087=12, LEGACY_ID:DERIVED_139=12, LEGACY_ID:DERIVED_155=12, LEGACY_ID:DERIVED_162=12, LEGACY_ID:DERIVED_180=12, LEGACY_ID:UNI_005=11, LEGACY_ID:UNI_014=11, LEGACY_ID:UNI_019=11, LEGACY_ID:UNI_021=11, LEGACY_ID:UNI_025=11, LEGACY_ID:UNI_028=11, LEGACY_ID:DERIVED_045=11, LEGACY_ID:DERIVED_046=11, LEGACY_ID:DERIVED_054=11, LEGACY_ID:DERIVED_061=11, LEGACY_ID:DERIVED_063=11, LEGACY_ID:DERIVED_090=11, LEGACY_ID:DERIVED_133=11, LEGACY_ID:DERIVED_134=11, LEGACY_ID:DERIVED_140=11, LEGACY_ID:DERIVED_151=11, LEGACY_ID:DERIVED_157=11, LEGACY_ID:DERIVED_167=11, LEGACY_ID:DERIVED_173=11, LEGACY_ID:DERIVED_176=11, LEGACY_ID:DERIVED_179=11, LEGACY_ID:DERIVED_194=11, LEGACY_ID:UNI_002=10, LEGACY_ID:UNI_009=10, LEGACY_ID:UNI_010=10, LEGACY_ID:UNI_015=10, LEGACY_ID:UNI_017=10, LEGACY_ID:UNI_022=10, LEGACY_ID:UNI_030=10, LEGACY_ID:UNI_031=10, LEGACY_ID:UNI_033=10, LEGACY_ID:UNI_035=10, LEGACY_ID:UNI_036=10, LEGACY_ID:UNI_037=10, LEGACY_ID:UNI_039=10, LEGACY_ID:DERIVED_057=10, LEGACY_ID:DERIVED_060=10, LEGACY_ID:DERIVED_082=10, LEGACY_ID:DERIVED_111=10, LEGACY_ID:DERIVED_122=10, LEGACY_ID:DERIVED_127=10, LEGACY_ID:DERIVED_128=10, LEGACY_ID:DERIVED_135=10, LEGACY_ID:DERIVED_147=10, LEGACY_ID:DERIVED_148=10, LEGACY_ID:DERIVED_154=10, LEGACY_ID:DERIVED_164=10, LEGACY_ID:DERIVED_168=10, LEGACY_ID:DERIVED_171=10, LEGACY_ID:DERIVED_172=10, LEGACY_ID:DERIVED_178=10, LEGACY_ID:DERIVED_186=10, LEGACY_ID:DERIVED_188=10, LEGACY_ID:DERIVED_189=10, LEGACY_ID:UNI_001=9, LEGACY_ID:UNI_008=9, LEGACY_ID:UNI_013=9, LEGACY_ID:UNI_016=9, LEGACY_ID:UNI_038=9, LEGACY_ID:DERIVED_043=9, LEGACY_ID:DERIVED_049=9, LEGACY_ID:DERIVED_051=9, LEGACY_ID:DERIVED_052=9, LEGACY_ID:DERIVED_053=9, LEGACY_ID:DERIVED_055=9, LEGACY_ID:DERIVED_056=9, LEGACY_ID:DERIVED_062=9, LEGACY_ID:DERIVED_064=9, LEGACY_ID:DERIVED_067=9
+- sample_identity_paths:
+  - topics[0].topicId :: topicId = UNI_001
+  - topics[1].topicId :: topicId = UNI_002
+  - topics[2].topicId :: topicId = UNI_003
+  - topics[3].topicId :: topicId = UNI_004
+  - topics[4].topicId :: topicId = UNI_005
+  - topics[5].topicId :: topicId = UNI_006
+  - topics[6].topicId :: topicId = UNI_007
+  - topics[7].topicId :: topicId = UNI_008
+  - topics[8].topicId :: topicId = UNI_009
+  - topics[9].topicId :: topicId = UNI_010
+  - topics[10].topicId :: topicId = UNI_011
+  - topics[11].topicId :: topicId = UNI_012
+  - topics[12].topicId :: topicId = UNI_013
+  - topics[13].topicId :: topicId = UNI_014
+  - topics[14].topicId :: topicId = UNI_015
+  - topics[15].topicId :: topicId = UNI_016
+  - topics[16].topicId :: topicId = UNI_017
+  - topics[17].topicId :: topicId = UNI_018
+  - topics[18].topicId :: topicId = UNI_019
+  - topics[19].topicId :: topicId = UNI_020
+  - topics[20].topicId :: topicId = UNI_021
+  - topics[21].topicId :: topicId = UNI_022
+  - topics[22].topicId :: topicId = UNI_023
+  - topics[23].topicId :: topicId = UNI_024
+  - topics[24].topicId :: topicId = UNI_025
+  - topics[25].topicId :: topicId = UNI_026
+  - topics[26].topicId :: topicId = UNI_027
+  - topics[27].topicId :: topicId = UNI_028
+  - topics[28].topicId :: topicId = UNI_029
+  - topics[29].topicId :: topicId = UNI_030
+  - topics[30].topicId :: topicId = UNI_031
+  - topics[31].topicId :: topicId = UNI_032
+  - topics[32].topicId :: topicId = UNI_033
+  - topics[33].topicId :: topicId = UNI_034
+  - topics[34].topicId :: topicId = UNI_035
+  - topics[35].topicId :: topicId = UNI_036
+  - topics[36].topicId :: topicId = UNI_037
+  - topics[37].topicId :: topicId = UNI_038
+  - topics[38].topicId :: topicId = UNI_039
+  - topics[39].topicId :: topicId = UNI_040
+  - topics[40].topicId :: topicId = DERIVED_041
+  - topics[41].topicId :: topicId = DERIVED_042
+  - topics[42].topicId :: topicId = DERIVED_043
+  - topics[43].topicId :: topicId = DERIVED_044
+  - topics[44].topicId :: topicId = DERIVED_045
+  - topics[45].topicId :: topicId = DERIVED_046
+  - topics[46].topicId :: topicId = DERIVED_047
+  - topics[47].topicId :: topicId = DERIVED_048
+  - topics[48].topicId :: topicId = DERIVED_049
+  - topics[49].topicId :: topicId = DERIVED_050
+  - topics[50].topicId :: topicId = DERIVED_051
+  - topics[51].topicId :: topicId = DERIVED_052
+  - topics[52].topicId :: topicId = DERIVED_053
+  - topics[53].topicId :: topicId = DERIVED_054
+  - topics[54].topicId :: topicId = DERIVED_055
+  - topics[55].topicId :: topicId = DERIVED_056
+  - topics[56].topicId :: topicId = DERIVED_057
+  - topics[57].topicId :: topicId = DERIVED_058
+  - topics[58].topicId :: topicId = DERIVED_059
+  - topics[59].topicId :: topicId = DERIVED_060
+  - topics[60].topicId :: topicId = DERIVED_061
+  - topics[61].topicId :: topicId = DERIVED_062
+  - topics[62].topicId :: topicId = DERIVED_063
+  - topics[63].topicId :: topicId = DERIVED_064
+  - topics[64].topicId :: topicId = DERIVED_065
+  - topics[65].topicId :: topicId = DERIVED_066
+  - topics[66].topicId :: topicId = DERIVED_067
+  - topics[67].topicId :: topicId = DERIVED_068
+  - topics[68].topicId :: topicId = DERIVED_069
+  - topics[69].topicId :: topicId = DERIVED_070
+  - topics[70].topicId :: topicId = DERIVED_071
+  - topics[71].topicId :: topicId = DERIVED_072
+  - topics[72].topicId :: topicId = DERIVED_073
+  - topics[73].topicId :: topicId = DERIVED_074
+  - topics[74].topicId :: topicId = DERIVED_075
+  - topics[75].topicId :: topicId = DERIVED_076
+  - topics[76].topicId :: topicId = DERIVED_077
+  - topics[77].topicId :: topicId = DERIVED_078
+  - topics[78].topicId :: topicId = DERIVED_079
+  - topics[79].topicId :: topicId = DERIVED_080
+
+## /home/ubuntu/seg-staging-prep-input/SEG_LEGACY_CONTENT_HANDOFF/05_APPLICATION_STRUCTURE/src/data/APP_DATABASE.json
+- bytes: 2375945
+- sha256: bc3429093cc5a32d7727080e03c39e720665dbf925879d8d1bf8c09ffed96996
+- shape: {'root_type': 'object', 'keys': ['algorithms', 'antidotes', 'arabicMentorExplanations', 'chapterStudyMap', 'examTraps', 'expandedDerivedTopics', 'flashcards', 'keywords', 'metadata', 'numericals', 'officialUnifiedTopics', 'referenceLibrary', 'searchIndex', 'sourceCoverage', 'topicFamilyIndex', 'topics', 'visualSigns']}
+- string_values: 26714
+- detected_identity_values: 2590
+- top_keys: [index]=5929, source=2276, topic=2024, id=1991, type=1738, topicId=1519, text=1422, referenceId=1308, title=978, answer=897, keyword=781, cardId=760, question=760, yield=760, arabicMentorExplanation=630, explanation=504, topicName=436, specialty=436, chapterTitle=388, chapterNumber=331, sourceFile=265, boardSafeLogic=194, questionNumber=137, _batchFile=102, family=99, name=45, version=1, generatedAt=1, description=1, importantNote=1
+- relation_key_hits: [index]=5929, source=2276, topic=2024, id=1991, topicId=1519, referenceId=1308, cardId=760, topicName=436, chapterTitle=388, chapterNumber=331, sourceFile=265, family=99
+- detected_ids: LEGACY_ID:UNI_012=14, LEGACY_ID:UNI_006=13, LEGACY_ID:UNI_011=13, LEGACY_ID:UNI_004=12, LEGACY_ID:UNI_020=12, LEGACY_ID:UNI_027=12, LEGACY_ID:DERIVED_087=12, LEGACY_ID:DERIVED_139=12, LEGACY_ID:DERIVED_155=12, LEGACY_ID:DERIVED_162=12, LEGACY_ID:DERIVED_180=12, LEGACY_ID:UNI_005=11, LEGACY_ID:UNI_014=11, LEGACY_ID:UNI_019=11, LEGACY_ID:UNI_021=11, LEGACY_ID:UNI_025=11, LEGACY_ID:UNI_028=11, LEGACY_ID:DERIVED_045=11, LEGACY_ID:DERIVED_046=11, LEGACY_ID:DERIVED_054=11, LEGACY_ID:DERIVED_061=11, LEGACY_ID:DERIVED_063=11, LEGACY_ID:DERIVED_090=11, LEGACY_ID:DERIVED_133=11, LEGACY_ID:DERIVED_134=11, LEGACY_ID:DERIVED_140=11, LEGACY_ID:DERIVED_151=11, LEGACY_ID:DERIVED_157=11, LEGACY_ID:DERIVED_167=11, LEGACY_ID:DERIVED_173=11, LEGACY_ID:DERIVED_176=11, LEGACY_ID:DERIVED_179=11, LEGACY_ID:DERIVED_194=11, LEGACY_ID:UNI_002=10, LEGACY_ID:UNI_009=10, LEGACY_ID:UNI_010=10, LEGACY_ID:UNI_015=10, LEGACY_ID:UNI_017=10, LEGACY_ID:UNI_022=10, LEGACY_ID:UNI_030=10, LEGACY_ID:UNI_031=10, LEGACY_ID:UNI_033=10, LEGACY_ID:UNI_035=10, LEGACY_ID:UNI_036=10, LEGACY_ID:UNI_037=10, LEGACY_ID:UNI_039=10, LEGACY_ID:DERIVED_057=10, LEGACY_ID:DERIVED_060=10, LEGACY_ID:DERIVED_082=10, LEGACY_ID:DERIVED_111=10, LEGACY_ID:DERIVED_122=10, LEGACY_ID:DERIVED_127=10, LEGACY_ID:DERIVED_128=10, LEGACY_ID:DERIVED_135=10, LEGACY_ID:DERIVED_147=10, LEGACY_ID:DERIVED_148=10, LEGACY_ID:DERIVED_154=10, LEGACY_ID:DERIVED_164=10, LEGACY_ID:DERIVED_168=10, LEGACY_ID:DERIVED_171=10, LEGACY_ID:DERIVED_172=10, LEGACY_ID:DERIVED_178=10, LEGACY_ID:DERIVED_186=10, LEGACY_ID:DERIVED_188=10, LEGACY_ID:DERIVED_189=10, LEGACY_ID:UNI_001=9, LEGACY_ID:UNI_008=9, LEGACY_ID:UNI_013=9, LEGACY_ID:UNI_016=9, LEGACY_ID:UNI_038=9, LEGACY_ID:DERIVED_043=9, LEGACY_ID:DERIVED_049=9, LEGACY_ID:DERIVED_051=9, LEGACY_ID:DERIVED_052=9, LEGACY_ID:DERIVED_053=9, LEGACY_ID:DERIVED_055=9, LEGACY_ID:DERIVED_056=9, LEGACY_ID:DERIVED_062=9, LEGACY_ID:DERIVED_064=9, LEGACY_ID:DERIVED_067=9
+- sample_identity_paths:
+  - topics[0].topicId :: topicId = UNI_001
+  - topics[1].topicId :: topicId = UNI_002
+  - topics[2].topicId :: topicId = UNI_003
+  - topics[3].topicId :: topicId = UNI_004
+  - topics[4].topicId :: topicId = UNI_005
+  - topics[5].topicId :: topicId = UNI_006
+  - topics[6].topicId :: topicId = UNI_007
+  - topics[7].topicId :: topicId = UNI_008
+  - topics[8].topicId :: topicId = UNI_009
+  - topics[9].topicId :: topicId = UNI_010
+  - topics[10].topicId :: topicId = UNI_011
+  - topics[11].topicId :: topicId = UNI_012
+  - topics[12].topicId :: topicId = UNI_013
+  - topics[13].topicId :: topicId = UNI_014
+  - topics[14].topicId :: topicId = UNI_015
+  - topics[15].topicId :: topicId = UNI_016
+  - topics[16].topicId :: topicId = UNI_017
+  - topics[17].topicId :: topicId = UNI_018
+  - topics[18].topicId :: topicId = UNI_019
+  - topics[19].topicId :: topicId = UNI_020
+  - topics[20].topicId :: topicId = UNI_021
+  - topics[21].topicId :: topicId = UNI_022
+  - topics[22].topicId :: topicId = UNI_023
+  - topics[23].topicId :: topicId = UNI_024
+  - topics[24].topicId :: topicId = UNI_025
+  - topics[25].topicId :: topicId = UNI_026
+  - topics[26].topicId :: topicId = UNI_027
+  - topics[27].topicId :: topicId = UNI_028
+  - topics[28].topicId :: topicId = UNI_029
+  - topics[29].topicId :: topicId = UNI_030
+  - topics[30].topicId :: topicId = UNI_031
+  - topics[31].topicId :: topicId = UNI_032
+  - topics[32].topicId :: topicId = UNI_033
+  - topics[33].topicId :: topicId = UNI_034
+  - topics[34].topicId :: topicId = UNI_035
+  - topics[35].topicId :: topicId = UNI_036
+  - topics[36].topicId :: topicId = UNI_037
+  - topics[37].topicId :: topicId = UNI_038
+  - topics[38].topicId :: topicId = UNI_039
+  - topics[39].topicId :: topicId = UNI_040
+  - topics[40].topicId :: topicId = DERIVED_041
+  - topics[41].topicId :: topicId = DERIVED_042
+  - topics[42].topicId :: topicId = DERIVED_043
+  - topics[43].topicId :: topicId = DERIVED_044
+  - topics[44].topicId :: topicId = DERIVED_045
+  - topics[45].topicId :: topicId = DERIVED_046
+  - topics[46].topicId :: topicId = DERIVED_047
+  - topics[47].topicId :: topicId = DERIVED_048
+  - topics[48].topicId :: topicId = DERIVED_049
+  - topics[49].topicId :: topicId = DERIVED_050
+  - topics[50].topicId :: topicId = DERIVED_051
+  - topics[51].topicId :: topicId = DERIVED_052
+  - topics[52].topicId :: topicId = DERIVED_053
+  - topics[53].topicId :: topicId = DERIVED_054
+  - topics[54].topicId :: topicId = DERIVED_055
+  - topics[55].topicId :: topicId = DERIVED_056
+  - topics[56].topicId :: topicId = DERIVED_057
+  - topics[57].topicId :: topicId = DERIVED_058
+  - topics[58].topicId :: topicId = DERIVED_059
+  - topics[59].topicId :: topicId = DERIVED_060
+  - topics[60].topicId :: topicId = DERIVED_061
+  - topics[61].topicId :: topicId = DERIVED_062
+  - topics[62].topicId :: topicId = DERIVED_063
+  - topics[63].topicId :: topicId = DERIVED_064
+  - topics[64].topicId :: topicId = DERIVED_065
+  - topics[65].topicId :: topicId = DERIVED_066
+  - topics[66].topicId :: topicId = DERIVED_067
+  - topics[67].topicId :: topicId = DERIVED_068
+  - topics[68].topicId :: topicId = DERIVED_069
+  - topics[69].topicId :: topicId = DERIVED_070
+  - topics[70].topicId :: topicId = DERIVED_071
+  - topics[71].topicId :: topicId = DERIVED_072
+  - topics[72].topicId :: topicId = DERIVED_073
+  - topics[73].topicId :: topicId = DERIVED_074
+  - topics[74].topicId :: topicId = DERIVED_075
+  - topics[75].topicId :: topicId = DERIVED_076
+  - topics[76].topicId :: topicId = DERIVED_077
+  - topics[77].topicId :: topicId = DERIVED_078
+  - topics[78].topicId :: topicId = DERIVED_079
+  - topics[79].topicId :: topicId = DERIVED_080
+
+## /home/ubuntu/seg-staging-prep-input/SEG_LEGACY_CONTENT_HANDOFF/03_DATA/modules/src/data/supplementalSummary.json
+- bytes: 19829
+- sha256: dc8105414667bf3b4aee58efdaa797ef50c5831e4b953a20c7b72d70d3bb8d1d
+- shape: {'root_type': 'object', 'keys': ['drugList', 'summaryData', 'trapsList']}
+- string_values: 352
+- detected_identity_values: 0
+- top_keys: name=47, use=47, dose=47, contraindications=47, sub=21, eng=21, arabic=21, symptoms=21, diagnosis=21, treatment=21, id=19, title=19
+- relation_key_hits: id=19
+- detected_ids: 
+- sample_identity_paths:
+
+## /home/ubuntu/seg-staging-prep-input/SEG_LEGACY_CONTENT_HANDOFF/05_APPLICATION_STRUCTURE/src/data/supplementalSummary.json
+- bytes: 19829
+- sha256: dc8105414667bf3b4aee58efdaa797ef50c5831e4b953a20c7b72d70d3bb8d1d
+- shape: {'root_type': 'object', 'keys': ['drugList', 'summaryData', 'trapsList']}
+- string_values: 352
+- detected_identity_values: 0
+- top_keys: name=47, use=47, dose=47, contraindications=47, sub=21, eng=21, arabic=21, symptoms=21, diagnosis=21, treatment=21, id=19, title=19
+- relation_key_hits: id=19
+- detected_ids: 
+- sample_identity_paths:
+
+## Duplicate-copy checks
+- APP_DATABASE copies identical: True
+- supplementalSummary copies identical: True
+
+## Relationship-oriented filenames in handoff inventory
+- inventory_paths: 2088
+- filename_candidates: 40
+- 01_CONTENT/content/imported/airway-intubation-ventilator/_pack/source_mapping.md	1217 bytes	8ebe07c380ece848acdaf1979ae922eda773926d19cf89169043eb680e96dfc5
+- 01_CONTENT/content/imported/critical-care/_pack/source_mapping.md	840 bytes	2fb8cd37fd107dc08e0fbc47fe99c5ff0b8091fd8ceac07903b67fbbf929f30d
+- 01_CONTENT/content/imported/drug-essentials/_pack/source_mapping.md	1001 bytes	fbd591ed9f16b02af90a597ccc6bc6dcc1353537484b2990059eac08f9526e14
+- 01_CONTENT/content/imported/emergency-cases/_pack/source_mapping.md	883 bytes	b8d87530cc5a6d743ac5fe82f9134eaf0693565322a9deafdbc4fae65e790a39
+- 01_CONTENT/content/imported/pocus/_pack/source_mapping.md	819 bytes	b7a3fbd64c17bcc6173b7e960fb07f7a85774dc23a63e36c2a52fbb809f2b750
+- 01_CONTENT/content/internship-source/questions/index.md	1399 bytes	719aa25f6d867b6b45d24ae02605ad4e6376559038d55955eb62c514e22e367a
+- 01_CONTENT/content/internship-source/study/index.md	1415 bytes	1b700754f2ef64d776847a7d16f961b81c068145dd8ec69c01fa24bc3ec2c040
+- 03_DATA/cases/content/imported/emergency-cases/_pack/data/emergency_cases_index.csv	20150 bytes	b88289ac35be42770db4ce1cf7580e82a181522e987216da3311abe6353824dd
+- 03_DATA/cases/content/imported/emergency-cases/_pack/data/emergency_cases_index.json	30709 bytes	e57fac665ebce7c4b4fe2649fe1d9039d8338816ef1ef7afee62848c78cf5782
+- 03_DATA/flashcards/src/data/APP_DATABASE.json	2375945 bytes	bc3429093cc5a32d7727080e03c39e720665dbf925879d8d1bf8c09ffed96996
+- 03_DATA/modules/content/imported/airway-intubation-ventilator/_pack/data/airway_index.csv	17829 bytes	aca8cb73d853cb395f2bab3d459b0faf8f64cba9cad30444c17d0b39db401af4
+- 03_DATA/modules/content/imported/airway-intubation-ventilator/_pack/data/airway_index.json	34513 bytes	a8cc16f1ee76911c147591819a42197453afc9bc3e732bd202f9ad14498108ee
+- 03_DATA/modules/content/imported/critical-care/_pack/data/critical_care_index.csv	6305 bytes	9dac89197918c1369a35ca6f3fd5cc48f0df06becb3b6efdcc37f7875ee5bf72
+- 03_DATA/modules/content/imported/critical-care/_pack/data/critical_care_index.json	11979 bytes	c183583b93d98102811eab1ffa631b7cf6f73f1d280a4d6cd8aa97b407e660cc
+- 03_DATA/modules/content/imported/drug-essentials/_pack/data/drug_index.csv	10380 bytes	270b2aad381aa86de00735a541fbcd10166c62a967fbb5d370f9ab21a4f23f3e
+- 03_DATA/modules/content/imported/drug-essentials/_pack/data/drug_index.json	28720 bytes	2b1caeeacfdb8e6e996c4a735433cb1adf950c5f2f8c2407c8dbbc9f61e0f692
+- 03_DATA/modules/content/imported/ecg/_pack/data/ecg-content-index.csv	9875 bytes	fba6bc54e160d9575dbbb1713040b1857b5b1e551cf2eff9e556ba7323ba76b0
+- 03_DATA/modules/content/imported/ecg/_pack/data/ecg-content-index.json	26025 bytes	1c23c0cb86b14fc66e337c730d8b28b1250006ec6b7c352463aeb26c58d709f4
+- 03_DATA/modules/content/imported/pocus/_pack/metadata/pocus_index.csv	29233 bytes	c19bb937c193f976ea115fe00bd30f3d92322694cbcaa55204d9151e1279508b
+- 03_DATA/modules/content/imported/pocus/_pack/metadata/pocus_index.json	38553 bytes	0ddabea31622db1e3c69b7ce9a6d9e49e3d7bd51bcaa5a65b4f489ff84a945cc
+- 03_DATA/modules/content/imported/toxicology/_pack/data/toxicology_index.csv	11151 bytes	aa3457a830aa53a757cf19364891a39f7f1d93394ee78a4efa3d3e0f9213cee6
+- 03_DATA/modules/content/imported/toxicology/_pack/data/toxicology_index.json	17867 bytes	2b82daa1e4daa155b6b9a74ca4d35ed8d4f2aeae14c2dbe82e533b4b209d3d82
+- 04_DOCUMENTATION/content/imported/_blueprints/ecg-essentials-preparation/ecg_topic_map_intern_level.md	4779 bytes	d1eb3621c6cd2623c22263f72e463eadb3facb8daa112649f30b7f88499ee682
+- 04_DOCUMENTATION/content/imported/_blueprints/master-qa-integration/TOPIC_PAGE_SCHEMA.md	1079 bytes	583f5ff32a8cabcaf2626428680e0f8b10e1fb93a2ef5eef04141399de6b7eeb
+- 04_DOCUMENTATION/content/imported/_blueprints/master-qa-integration/segContentRegistry.ts.reference.txt	1945 bytes	72b5d8942b10c50f86c1baae0444b7aff58ea45c3664c7a38523ed842b0ed637
+- 04_DOCUMENTATION/content/imported/airway-intubation-ventilator/_pack/source_mapping.md	1217 bytes	8ebe07c380ece848acdaf1979ae922eda773926d19cf89169043eb680e96dfc5
+- 04_DOCUMENTATION/content/imported/critical-care/_pack/source_mapping.md	840 bytes	2fb8cd37fd107dc08e0fbc47fe99c5ff0b8091fd8ceac07903b67fbbf929f30d
+- 04_DOCUMENTATION/content/imported/drug-essentials/_pack/source_mapping.md	1001 bytes	fbd591ed9f16b02af90a597ccc6bc6dcc1353537484b2990059eac08f9526e14
+- 04_DOCUMENTATION/content/imported/emergency-cases/_pack/source_mapping.md	883 bytes	b8d87530cc5a6d743ac5fe82f9134eaf0693565322a9deafdbc4fae65e790a39
+- 04_DOCUMENTATION/content/imported/pocus/_pack/source_mapping.md	819 bytes	b7a3fbd64c17bcc6173b7e960fb07f7a85774dc23a63e36c2a52fbb809f2b750
+- 04_DOCUMENTATION/content/internship-source/questions/index.md	1399 bytes	719aa25f6d867b6b45d24ae02605ad4e6376559038d55955eb62c514e22e367a
+- 04_DOCUMENTATION/content/internship-source/study/index.md	1415 bytes	1b700754f2ef64d776847a7d16f961b81c068145dd8ec69c01fa24bc3ec2c040
+- 04_DOCUMENTATION/docs/PDF_VISUAL_MAPPING_SYSTEM.md	2028 bytes	fc0dbe7792667448ca7916a00c1e775a7e3a91fb0313cfd7756975591d9ef61d
+- 04_DOCUMENTATION/docs/SUPABASE_SETUP.md	2739 bytes	c70e0744a0179dc73ba42b06eee0e8e5cba1c53e6d9fd9cf3f1f765218165df6
+- 05_APPLICATION_STRUCTURE/src/components/VisualMappingReviewClient.tsx	8534 bytes	9d43637b31112afc8915c4f83707d1274f795c8e54f6bfd5af30fbdccb17a67b
+- 05_APPLICATION_STRUCTURE/src/components/VisualMappingWorkbench.tsx	8636 bytes	f03d0031d04a97c55fb63ba45648e522bdcddd23bbb278e79617e0cac681692a
+- 05_APPLICATION_STRUCTURE/src/data/APP_DATABASE.json	2375945 bytes	bc3429093cc5a32d7727080e03c39e720665dbf925879d8d1bf8c09ffed96996
+- 05_APPLICATION_STRUCTURE/src/lib/database.ts	10878 bytes	bfd4184b524bf624381d1b7ff5526a0a14ae37a50de86ba7c831ae72cabe24cb
+- 05_APPLICATION_STRUCTURE/src/lib/supabase.ts	958 bytes	8254327193351eb19c1637fed20a73971cce94d48478d7808262df62aa634f65
+- 06_METADATA/MIGRATION_MAPPING.md	6331 bytes	009cc49d411bddd03d71c35f5edd5a0c23e6f93c7fc6b4d1cb976c25bb13e3dd
+

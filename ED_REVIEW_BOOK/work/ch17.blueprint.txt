@@ -1,0 +1,906 @@
+[PEER-PHYS PEER-2026-volume-1-text-q-220] When evaluating an otherwise healthy patient who presents with "stomach flu," which finding should prompt consideration for ordering stool studies?
+    ANSWER: Fever &gt;40°C (104°F)   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-221] A 63-year-old woman presents with nausea and severe, frequent vomiting that started about 3 hours after she and a friend ate at a church picnic; her friend is ex- periencing similar symptoms. The patient ate barbecued chicken, spinach salad, potato salad, and some cookies. On examination, she appears weak and dehy- drated. She has no fever, and her hemoccult test result is negative.
+    ANSWER: Staphylococcus aureus   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-222] A prisoner presents with a 1-day history of blurry vision, voice changes, and diffi- culty swallowing after drinking “prison wine.” What is the most likely cause of their symptoms?
+    ANSWER: Botulism   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-223] A mother brings in her 5-month-old baby because he has been constipated for the past week. She says he has been eating less for the past 3 days and seems "sluggish and weak." He has had no fever, vomiting, rash, or other concerns. His vital signs are BP 107/74, P 111, R 22, and T 36.6°C (97.9°F); SpO is 100% on room air. The child is awake and interactive but lies still during the examination.
+    ANSWER: Botulism immune globulin 0.5 mL/kg/hr   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-224] A 6-month-old boy presents with hypotonia, poor feeding, and constipation. His mother says he has recently started eating “table food,” but no other family mem- ber has similar symptoms. What is the most likely diagnosis?
+    ANSWER: Botulism   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-225] A 3-month-old presents with a 2-day history of constipation, lethargy, and poor feeding. They have a weak cry on examination. What is the most likely explanation for their symptoms?
+    ANSWER: Ingestion of spores from environmental dust   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-226] What is the expected presentation of wound botulism?
+    ANSWER: Bilateral cranial neuropathies and descending weakness   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-227] Which finding must be established prior to the administration of botulinum antitoxin?
+    ANSWER: Appropriate clinical context   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-228] A patient with a history of heroin use presents with diplopia and bilateral arm weakness that has worsened over the past 2 days. On examination, they also have a poorly healing wound on their left thigh. What is the most important initial intervention?
+    ANSWER: Administration of antitoxin   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-229] Which organization should be contacted first in cases of suspected human botulism?
+    ANSWER: State or local health department   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-230] A 17-year-old girl presents with dysuria, vaginal discharge, and bilateral pelvic pain. She was seen 5 days earlier for dysuria only; urine culture was negative, and she has been taking ciprofloxacin to treat a presumptive UTI. Physical examina- tion reveals cervical motion tenderness and nonphysiologic discharge from the cervical os. She is afebrile, nontoxic appearing, and in no distress.
+    ANSWER: Administer one dose of ceftriaxone IM and prescribe doxycycline and metronidazole PO for 14 days   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-231] A young, nonpregnant woman has been diagnosed with chlamydia. What informa- tion should be conveyed as part of counseling?
+    ANSWER: Infection may place her at higher risk for infertility in the future   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-232] A man presents with dysuria and urethral discharge. Testing demonstrates chlamydial urethritis. Which communication strategy is appropriate for conveying this serious news to the patient?
+    ANSWER: Deliver news in a private setting so the patient can ask questions   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-233] Doxycycline 100 mg twice daily for 21 days should be prescribed for treating which diagnosis?
+    ANSWER: Lymphogranuloma venereum   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-234] A young adult presents with transient pain in multiple joints, posterior heel pain, intermittent fever, and malaise. On examination, multiple pustular lesions are noted on the hands. What is the most likely causative organism?
+    ANSWER: Neisseria gonorrhoeae   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-235] What are the most common symptoms of genital gonococcal infection in men?
+    ANSWER: Dysuria and penile discharge   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-236] A patient presents with left knee pain, right elbow pain, fever, and the lesions shown below to all four extremities. Which sexually transmitted microorganism is most likely to be the culprit? Credit: CDC/Dr. Wiesner.
+    ANSWER: Neisseria gonorrhoeae   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-237] What is the recommended dosage for treating gonococcal infection of a male pa- tient (85 kg) with no allergies who presents with penile discharge only?
+    ANSWER: Ceftriaxone 500 mg IM   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-238] Which antibiotic is indicated for empiric coverage of Neisseria meningitidis meningitis?
+    ANSWER: Ceftriaxone   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-239] What is a major risk factor for contracting Neisseria meningitidis meningitis?
+    ANSWER: Communal living   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-240] Which CSF finding is most consistent with Neisseria meningitidis meningitis?
+    ANSWER: Neutrophilic pleocytosis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-241] What is an appropriate oral antibiotic prophylaxis for a close contact of a patient with Neisseria meningitidis meningitis?
+    ANSWER: Ciprofloxacin   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-242] Which waterborne pathogen is primarily associated with cutaneous findings?
+    ANSWER: Mycobacterium marinum   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-243] Which infection is thought to be associated with development of bronchiectasis?
+    ANSWER: Mycobacterium avium complex   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-244] A patient presents with fever and cough that has been insidious over the past sev- eral weeks. A sputum culture demonstrates Mycobacterium avium complex. Which common comorbid infection should this patient be tested for?
+    ANSWER: HIV   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-245] What is the appropriate management plan for a healthy hospital employee with no history of tuberculosis who experiences an unprotected respiratory exposure to a patient with active pulmonary tuberculosis?
+    ANSWER: Perform a tuberculin skin test now and again in 3 months   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-246] A 32-year-old prison inmate presents with cough, fever, blood-tinged sputum, and weight loss of 2 weeks' duration. A chest x-ray is obtained and shown below. What is the most likely causative organism? Credit: Credit: Copyright 2023 Associate Professor Frank Gaillard. Image courtesy of Associate Professor Frank Gaillard and Radiopaedia.org, rID: 8632. Used under license.
+    ANSWER: Mycobacterium tuberculosis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-247] A patient's chest x-ray demonstrates calcified perihilar lymph nodes, as in the im- age provided. The patient has stable vital signs, and latent tuberculosis is sus- pected. What consultation is indicated in the next step of this patient's care? Credit: Copyright 2023 Dr. Jeremy Jones. Image courtesy of Dr. Jeremy Jones and Radiopaedia.org, rID: 8812. Used under license.
+    ANSWER: Infectious disease   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-248] A patient has a suspected pulmonary tuberculosis infection. What additional infec- tious disease is most important to test for in this patient?
+    ANSWER: HIV   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-249] A nurse is concerned that a patient in the waiting room has hemoptysis with known TB exposure. What is the best recommendation on how to safely manage this patient with precautions?
+    ANSWER: Patient: surgical mask; staff: N95 and airborne precautions   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-250] A diabetic patient comes in due to concern for a positive PPD (Mantoux) skin test for tuberculosis. The patient is employed as a schoolteacher. What skin finding would be interpreted as a positive test in this patient?
+    ANSWER: Area of induration ≥10 mm   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-251] A 54-year-old man presents with abdominal pain and malodorous diarrhea after recently completing a prolonged course of intravenous antibiotics. His vital signs are BP 72/48, P 126, R 24, and T 39.1°C (102.4°F); SpO is 93% on room air. His CT scans show evidence of diffuse colitis.
+    ANSWER: Oral vancomycin   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-252] A diabetic patient presents with severe pain in the hand for 1 day. The entire hand is red, swollen, warm, and extremely tender. There is blistering noted with crepi- tus on palpation. What is the most appropriate management?
+    ANSWER: Meropenem, vancomycin, and clindamycin intravenously and emergent operative debridement   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-253] What is a diagnostic criterion for systemic inflammatory response syndrome?
+    ANSWER: Tachypnea   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-254] What increases the risk of early neonatal sepsis?
+    ANSWER: Chorioamnionitis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-255] Fever at what age necessitates a lumbar puncture in an infant?
+    ANSWER: 20-day-old infant born at 37 weeks' gestation   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-256] When treating septic patients, which antibiotic regimen is considered broad spectrum?
+    ANSWER: Cefepime and vancomycin   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-257] For an adult patient with concern for hypoperfusion from sepsis, what is the rec- ommended amount of crystalloid fluid resuscitation that should be given prior to initiating vasopressors?
+    ANSWER: 30 mL/kg   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-258] Which fluid is most appropriate for resuscitation of a hypotensive adult with con- cern for sepsis and need for multiple liters of intravenous fluid?
+    ANSWER: Lactated Ringer   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-259] What is the most appropriate empiric antimicrobial treatment for a febrile, full- term, 20-day-old neonate presenting from home?
+    ANSWER: Ampicillin plus gentamicin   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-260] Which medication is recommended for the initial treatment of a previously healthy 5-month-old infant presenting in septic shock who failed fluid resuscitation?
+    ANSWER: Epinephrine   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-261] What is thought of as adjunctive or second-line treatment for septic shock in a pa- tient not responding to routine care as part of a sepsis bundle?
+    ANSWER: Stress-dose glucocorticoids   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-262] What is the recommended first-line vasopressor for septic shock?
+    ANSWER: Norepinephrine   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-263] What is an appropriate vasopressor titration target for an adult patient in septic shock following adequate fluid resuscitation?
+    ANSWER: MAP greater than 65 mm Hg   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-264] Which characteristic do both staphylococcal and streptococcal toxic shock syn- dromes have?
+    ANSWER: Toxin-producing gram-positive causative organism   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-265] Toxic shock syndrome is most likely to be caused by which organism?
+    ANSWER: Staphylococcus aureus   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-266] A 19-year-old woman presents with fever, hypotension, and a diffuse macular rash that involves her palms and soles. Her symptoms have been rapidly progressive over the course of 48 hours. She currently has her menses. What is the most likely diagnosis?
+    ANSWER: Toxic shock syndrome   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-267] A 26-year-old man presents with a painless ulcer on his penis. When asked, he says that he had unprotected sex with a new partner 2 weeks ago. What is the best treatment for his condition?
+    ANSWER: Penicillin G benzathine IM once   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-268] A 29-year-old with a history of HIV and untreated syphilis presents with 1 week of constant right eye pain. The ocular examination is concerning for uveitis. Which treatment is recommended for this condition?
+    ANSWER: Penicillin G 3 to 4 million units IV every 4 hours   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-269] Which condition is most consistent with painful generalized muscle contractions in response to minimal stimuli?
+    ANSWER: Tetanus   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-270] Which patient needs tetanus immune globulin based on wound and vaccination status?
+    ANSWER: Second-degree burn; never received tetanus vaccinations   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-271] A 57-year-old man presents with muscle tightness that has been worsening over the past 4 days. The tightness started in his jaw, but he now reports similar tight- ness in his neck and arms. He was seen 12 days ago in the emergency department after cutting his leg while working on his farm. He can open his mouth and is an- swering questions appropriately without any increased work of breathing.
+    ANSWER: Consult surgery for wound debridement   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-272] A 30-year-old woman presents with a laceration on her foot. She says she received vaccines when she was a child but has not had any since she was a teenager. She was born and raised in the United States. Which formulation of tetanus vaccine should be ordered?
+    ANSWER: Tetanus, diphtheria toxoid, and acellular pertussis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-273] What is the mechanism of action of tetanus toxin (tetanospasmin)?
+    ANSWER: Inactivation of inhibitory interneurons in the spinal cord   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-274] A 35-year-old man presents with painful involuntary contractions of his head, trunk, back, and extremities that began an hour ago. He was completely immu- nized as a child and denies recent illness or injury, although he admits to heroin use earlier in the day. What is the most appropriate initial treatment?
+    ANSWER: Lorazepam IV   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-275] A 10-year-old girl presents to a rural hospital with 2 days of headache, back ache, and grimacing. Today, she developed fevers and difficulty walking. She is confused and has full-body spasms when stimulated. Her family reports that she works out- side in their orchards and is often barefoot. She has not had immunizations. What is the most likely explanation for the patient's symptoms?
+    ANSWER: Clostridium tetani infection   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-276] Which treatment for tetanus eliminates circulating toxin and prevents progression of toxicity?
+    ANSWER: Immune globulin   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-277] An unvaccinated 7-year-old presents with several days of gradually worsening tris- mus and full-body involuntary contractions. The patient is hypertensive, tachy- cardic, and diaphoretic. Acute tetanus is suspected. What is the best initial treatment?
+    ANSWER: Diazepam   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-278] A 7-year-old boy presents for evaluation of a rash that developed after being sick with a fever and sore throat. His mother first noticed it on his face and got worried when it spread to his neck. The physical examination reveals a red rash on the child's face, neck, and upper trunk that feels like sandpaper. Which pharmacother- apy should be administered?
+    ANSWER: Penicillin   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-279] In an otherwise healthy adult with sepsis, what is an appropriate threshold for packed RBC transfusion?
+    ANSWER: Hgb less than 7 g/dL   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-280] Which findings are components of the qSOFA score for patients with a suspected infection?
+    ANSWER: Altered mental status, tachypnea, and hypotension   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-281] When evaluating a potentially septic patient, what can cause noninfectious eleva- tion in serum procalcitonin?
+    ANSWER: Malignancy   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-282] Which antibiotic can treat sepsis due to an organism containing extended-spec- trum beta-lactamase?
+    ANSWER: Imipenem   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-283] Which biological warfare agent requires airborne and contact isolation for sus- pected cases?
+    ANSWER: Smallpox   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-284] In the setting of bioterrorism, what is the first-line treatment for bubonic plague?
+    ANSWER: Streptomycin   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-285] A 32-year-old man presents with fever, nausea, vomiting, and a headache that has worsened over the past 3 weeks. He is HIV positive but is not taking antiretroviral medications; he does not know his CD4 count. His vital signs are BP 110/74, P 124, R 18, and T 39.0°C (102.2°F). He appears ill and is bothered by the overhead lights.
+    ANSWER: Cryptococcal antigen   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-286] A 10-year-old patient with acute lymphoblastic leukemia presents with oral pain while eating, “cottony mouth,” and white curd-like plaques on the tongue. What is the most appropriate treatment?
+    ANSWER: Oral fluconazole   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-287] What annular rash is the most likely diagnosis in the photo below? Credit: bankrx/iStock/Getty Images Plus.
+    ANSWER: Tinea capitis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-288] A patient presents with a severe headache that started yesterday. The patient was diagnosed with pneumonia on a recent work trip to Ohio, but states fevers and cough have persisted. On examination, the patient has positive Kernig and Brudzinski signs. Which element of this presentation is most suggestive of coccid- ioidal meningitis?
+    ANSWER: Recent pneumonia unresponsive to antibiotics   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-289] A 28-year-old woman presents with abdominal bloating, diarrhea, and flatulence for the past week. She recently returned from a hiking trip and, when asked, ad- mits to drinking water from a spring. Her vital signs include BP 110/68, P 82, R 18, and T 37.1°C (98.8°F). The physical examination is normal, and she is other- wise healthy. What is the best test to confirm the diagnosis of giardiasis?
+    ANSWER: Stool antigen   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-290] Which helminth causes a fatal hyperinfestation in immunocompromised patients?
+    ANSWER: Strongyloides stercoralis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-291] A 44-year-old man presents with sudden-onset high fever and sharp right upper quadrant pain that worsens when he inhales or coughs. He has also had abdominal pain, cramps, and diarrhea with mucus and blood in it since returning from a year abroad in Mexico. CT abdomen shows a cystic liver abscess. What pharmacother- apy should resolve the underlying condition?
+    ANSWER: Metronidazole   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-292] Which diagnostic study confirms a diagnosis of malaria?
+    ANSWER: Thick and thin blood smears   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-293] Which malarial Plasmodium species causes the greatest overall morbidity and mortality?
+    ANSWER: P . falciparum   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-294] What is the most common symptom in an acute malaria infection?
+    ANSWER: Fever   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-295] What is the greatest risk factor for malaria mortality?
+    ANSWER: Young age   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-296] What is the most appropriate treatment for an uncomplicated, chloroquine-resis- tant Plasmodium falciparum infection?
+    ANSWER: Atovaquone-proguanil   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-297] Which finding on a contrast enhanced CT of the brain is most consistent with neu- rotoxoplasmosis in a patient with HIV/AIDS?
+    ANSWER: Ring-enhancing lesions with surrounding edema   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-298] What is an indication to treat toxoplasmosis in an immunocompetent host?
+    ANSWER: Posterior uveitis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-299] What finding does this contrast-enhanced CT scan demonstrate? Credit: Copyright 2024 Assoc Prof Frank Gaillard. Image courtesy of Assoc Prof Frank Gaillard and Radiopaedia.org, rID: 76689. Used under license.
+    ANSWER: Ring-enhancing lesions representing toxoplasmosis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-300] Which tick-borne disease is caused by a spirochete organism?
+    ANSWER: Tick-borne relapsing fever   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-301] Which laboratory abnormality is classically associated with ehrlichiosis?
+    ANSWER: Decreased platelet count   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-302] An 8-year-old girl presents with dizziness and one episode of fainting at school. Her medical history is significant for ventricular septal defect repair. The physical examination reveals no abnormalities; her vital signs include BP 97/50, P 126, R 20, and T 36.1°C (97°F). An ECG is obtained and shown below.
+    ANSWER: Lyme antibody   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-303] A 32-year-old man presents with a 2-day history of headaches and confusion. He has an erythematous targetoid rash on his arm that appeared after he returned from a camping trip in New England 1 month ago, but he is otherwise healthy. A lumbar puncture is performed, and the patient is admitted. What is the best next step in management?
+    ANSWER: Administer intravenous ceftriaxone   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-304] What is the most common cardiac manifestation of Lyme disease?
+    ANSWER: Palpitations   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-305] What is the treatment of choice for Rocky Mountain spotted fever in pediatric patients?
+    ANSWER: Doxycycline   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-306] In the first week of illness, what is an early finding in diagnostic testing for Rocky Mountain spotted fever?
+    ANSWER: CSF pleocytosis can be present   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-307] A patient presents with fever and fatigue after being bitten by a tick in Connecticut. Laboratory studies detect malarial-like parasites on the patient's blood smear. There is no history of travel outside the United States in the patient's lifetime. What is the most likely infectious organism?
+    ANSWER: Babesia microti   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-308] A 20-year-old woman presents with malaise and a rash. Her vital signs include BP 110/70, P 90, and T 38.3°C (100.9°F). The physical examination reveals tonsillar swelling with exudates, posterior cervical lymphadenopathy, splenomegaly, and a morbilliform rash. She says she has been taking antibiotics for a sore throat but is otherwise "never sick." What is the most likely diagnosis?
+    ANSWER: Epstein-Barr virus   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-309] A 20-year-old woman presents with a severe sore throat, fatigue, and fever that started 7 days ago. Her temperature is 38.5°C (101.3°F). On examination, exuda- tive pharyngitis is noted, and the cervical lymph nodes are enlarged. Rapid strep test is negative. What is the most likely laboratory finding?
+    ANSWER: Positive heterophile antibodies   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-310] A 10-month-old girl presents with difficulty breathing and a 3-day history of cold symptoms. On examination, the patient is hypoxic and in respiratory distress. A chest x-ray reveals a lobar pneumonia, and laboratory testing is positive for in- fluenza A. Which statement describes the use of oseltamivir for this patient's treatment?
+    ANSWER: It should be administered as an oral liquid   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-311] The number of novel influenza A cases being diagnosed in a small geographic area starts to rise. Over the following weeks, the number of infections spreads rapidly across the United States, followed by multiple areas of infection reported across Europe. How is this infection pattern best described?
+    ANSWER: Pandemic   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-312] A 70-year-old patient with a history of hypertension presents to urgent care with cough, congestion, and fever. A point-of-care PCR test results as positive for in- fluenza B. Which finding should prompt a transfer to the emergency department for further evaluation?
+    ANSWER: Leg swelling   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-313] What is the best estimate for average influenza vaccine efficacy over the past decade?
+    ANSWER: 30% to 50%   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-314] Which patient would likely benefit most from the use of oseltamivir in treating in- fluenza A?
+    ANSWER: 75-year-old woman with a history of diabetes and COPD and 36 hours of flu symptoms   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-315] What is the sensitivity and specificity of point-of-care PCR flu swabs for testing influenza?
+    ANSWER: &gt;95% sensitive, &gt;95% specific   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-316] What is the primary strategy for preventing hantavirus infection and hantavirus pulmonary syndrome (HPS)?
+    ANSWER: Rodent control   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-317] What symptom in a patient's history best supports concern for severe dengue fever?
+    ANSWER: Hematemesis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-318] What is the recommended treatment for arboviral infections such as dengue fever or yellow fever?
+    ANSWER: Acetaminophen   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-319] A 25-year-old woman presents with fever, altered mental status, vesicular sores on her lower lip, and new-onset seizures. Given the most likely diagnosis, what CSF analysis results are expected?
+    ANSWER: 360 WBCs with a high lymphocyte differential   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-320] Which clinical presentation of herpes zoster most suggests an underlying immuno- compromised state?
+    ANSWER: Lesions in three or more dermatomes   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-321] A 24-year-old woman who is 12 weeks pregnant presents with a widespread itchy rash, shortness of breath, and nonproductive cough. The physical examination re- veals a diffuse, vesicular rash in various stages of development. A chest x-ray demonstrates a bilateral interstitial pattern. What is the correct management? Credit: CDC/J.D. Millar, MD, MPH, DTPH.
+    ANSWER: Start acyclovir intravenously and admit   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-322] Which finding most strongly suggests that a patient has chickenpox (varicella) and not smallpox (variola)?
+    ANSWER: Diffuse rash of vesicles in various stages of development   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-323] In a patient who has HIV/AIDS and suspected pneumocystis pneumonia, which finding is an indication to administer steroids?
+    ANSWER: PaO 2 less than 70 mm Hg   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-324] Which patient should be evaluated for a significant immunocompromising condition?
+    ANSWER: 32-year-old who has white plaques in the posterior pharynx with odynophagia and redness   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-325] Which finding is most commonly associated with acute retroviral syndrome?
+    ANSWER: Diffuse adenopathy   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-326] An HIV patient presents with altered mental status, severe headaches, and fever. Brain MRI is obtained and shown below. What is the most appropriate treatment for this patient? Credit: Copyright 2022 Dr. Ian Bickle. Image courtesy of Dr. Ian Bickle and Radiopaedia.org. rID: 53993. Used under license.
+    ANSWER: Sulfadiazine and pyrimethamine   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-327] Below what CD4 count does cryptococcal meningitis become much more likely in a patient with AIDS?
+    ANSWER: 100 cells/mm 3   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-328] A patient with HIV and a CD4 count of 100 cells/mm presents with symptoms of pneumonia. The following chest x-ray is obtained, and antibiotics are started. Under what circumstance should the physician also administer prednisone? 3 Credit: Tomatheart/Shutterstock.com.
+    ANSWER: SaO 2 of 65 mm Hg   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-329] A 25-year-old man presents for a psychiatric evaluation after a 2-week history of difficulty sleeping due to recurrent nightmares. His partner mentions that when he is awake, he often seems to be having conversations with people who are not present. The patient was recently diagnosed with HIV and was started on a new medication last month.
+    ANSWER: Efavirenz   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-330] A patient presents with a 2-week history of fever, body aches, malaise, and diar- rhea. The patient has multiple sexual partners and rarely uses protection. A rapid HIV test comes back positive. The patient asks about the prognosis. What is the appropriate counsel?
+    ANSWER: With medication compliance and normal CD4 counts, HIV patients have near- normal life spans   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-331] Which patient requires immediate postexposure prophylaxis for rabies?
+    ANSWER: Toddler who woke up in the same room as a bat   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-332] A 46-year-old man presents with concern for rabies exposure after waking to find a bat in his cabin. A small bite wound is noted on physical examination. He was vaccinated for rabies 3 years ago after a dog bite. What is the correct management?
+    ANSWER: Vaccination only   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-333] A mother brings in her 17-month-old son for a fever of 39.4°C (102.9°F) and a runny nose 4 days ago. The fever resolved on the day of presentation. He has a maculopapular rash on his stomach, back, and neck that the mother says "cropped up" a couple of hours before they came in. The rash is pink and blanchable without involvement of the mucous membranes.
+    ANSWER: Roseola infantum   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-334] A 14-month-old girl presents for evaluation of a rash that started today. She had a high fever of 3 days' duration, but it resolved with acetaminophen administration yesterday. She has been acting normally otherwise, without cough, congestion, or alteration of bowel or bladder habits. What is the most likely diagnosis? Credit: Dina M. Kulik, MD, FRCPC, PEM.
+    ANSWER: Roseola infantum   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-335] A 14-month-old boy presents with the rash shown. He had a high fever lasting 4 days that has since resolved without treatment. The rash developed once the fever subsided. He has remained well-appearing throughout this illness without the presence of other symptoms or a source of his fever. What is the most likely diagnosis? Credit: cha_cha/Shutterstock.com.
+    ANSWER: Roseola infantum   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-336] A 3-year-old boy presents with pink spots on his face after an international trip. A blood test confirms the diagnosis of rubella. What additional condition is likely to develop?
+    ANSWER: Polyarticular joint pain   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-337] A 5-year-old child presents with a severe measles infection and requires hospital- ization. Which treatment is most appropriate?
+    ANSWER: Vitamin A   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-338] What is the most common cause of pediatric death in the United States from measles complications?
+    ANSWER: Pneumonia   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-339] A child with fever, cough, and malaise has the following physical examination find- ing. This finding is most consistent with which diagnosis? Credit: CDC/Heinz F. Eichenwald, MD.
+    ANSWER: Measles   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-340] A child presents with abdominal tenderness, arthritis, and this skin finding on the lower extremities. What is the most likely diagnosis? Credit: Okwikikim, public domain, via Wikimedia Commons.
+    ANSWER: Henoch-Schönlein purpura   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-341] During a local measles outbreak, a patient presents with fever, cough, and con- junctivitis but has not yet developed a rash. The diagnosis of measles is confirmed. What is the next best step to mitigate ongoing spread?
+    ANSWER: Notify Occupational Health of exposed staff   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-342] An unvaccinated 12-year-old boy presents with fever, headache, left-sided facial pain, swelling near the angle of the jaw, and left-sided testicular pain. What is the most likely diagnosis?
+    ANSWER: Mumps   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-343] For which clinical presentation is empiric corticosteroid treatment recommended in the setting of COVID-19 infection?
+    ANSWER: Low peripheral oxygen saturation   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-344] What is the major etiology of potential drug-drug interactions in the setting of nir- matrelvir-ritonavir treatment for COVID-19?
+    ANSWER: Cytochrome P450 system inhibition   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-345] A 27-year-old patient with no medical history presents after 3 days' of fever and coughing. Their vital signs are within normal limits. The chest x-ray and pul- monary examination results are unremarkable. The SARS-CoV-2 PCR test result is positive. What is the most appropriate management plan?
+    ANSWER: Outpatient management with supportive care   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-346] An otherwise healthy 65-year-old patient presents with shortness of breath. Their vital signs are BP 122/67, P 102, R 24, and T 38.4°C (101.1°F); SpO is 87% on room air. SpO improves to 96% on 4 L/min of oxygen through a nasal cannula. Pulmonary examination is notable for diffuse crackles. The patient's chest x-ray is shown below; their SARS-CoV-2 test result is positive.
+    ANSWER: Inpatient admission for corticosteroids and remdesivir   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-347] You receive a signout on a 68-year-old patient boarding in the emergency depart- ment with moderate COVID-19 infection with mild hypoxia and multifocal pneu- monia. The patient has received two doses of remdesivir and dexamethasone. The patient had normal laboratory test results on arrival.
+    ANSWER: ALT 1067 U/L   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-348] In the setting of SARS-CoV-2 infection, which aerosol-generating respiratory in- tervention is considered the highest risk of infectious exposure to others?
+    ANSWER: Endotracheal intubation   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-349] A patient presents for shortness of breath and fever. The patient is noted to be hy- poxic and is intubated. The patient is SARS-CoV-2 positive and unvaccinated. A chest x-ray is obtained and shown below. Which disease process is most consistent with this clinical presentation? Credit: Copyright 2023 Dr. Fabio Macori. Image courtesy of Dr. Fabio Macori and Radiopaedia.org, rID: 74867.
+    ANSWER: Acute respiratory distress syndrome   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-350] A patient presents with shortness of breath and fever. The patient is noted to be hypoxic and is intubated. The patient is SARS-CoV-2 positive and has a BMI of 35. A chest x-ray is obtained and shown below. In this situation, which tidal volume is most appropriate? Credit: Copyright 2023 Dr. Fabio Macori. Image courtesy of Dr. Fabio Macori and Radiopaedia.org, rID: 74867. Used under license.
+    ANSWER: 6 mL/kg ideal body weight   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-351] A patient presents for shortness of breath and fever. The patient is noted to be hy- poxic and is intubated. The patient is SARS-CoV-2 positive and unvaccinated. A chest x-ray is obtained and shown below. Despite appropriate sedation and venti- lator titration, the patient has persistent hypoxia. Which intervention is the most appropriate next step? Credit: Copyright 2023 Dr. Fabio Macori.
+    ANSWER: Neuromuscular blockade   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-352] Which virus most likely caused this rash? Credit: CDC/Dr. Philip S. Brachman.
+    ANSWER: Parvovirus B19   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-353] A 38-year-old woman presents with a 3-day history of fever, fatigue, diarrhea, and bleeding gums. She is an international aid worker who returned from West Africa 8 days ago. What is the best initial management?
+    ANSWER: Isolate the patient, notify hospital infection control, and don full PPE   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-354] A 19-year-old man presents with a possible spider bite on his thigh, shown below. His doctor prescribed amoxicillin, but the lesion has spread. On examination, it is erythematous, indurated, tender, and warm. There is no clearly localized abscess formation; the patient is otherwise well. Which pharmacotherapy should be administered? Credit: CDC/Bruno Coignard, MD; Jeff Hageman, MHS.
+    ANSWER: Trimethoprim-sulfamethoxazole   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-001] A 53-year-old woman presents to the ED with confusion. She is unable to offer a history on arrival, so her partner is giving the information. She has a history of type 1 diabetes with multiple visits for diabetic ketoacidosis, as she does not take her diabetes medications. Her T is 101°F (38.3°C), BP is 102/81 mm Hg, HR is 122 bpm, RR is 32/min, and SpO2 is 96% on room air.
+    ANSWER: Amphotericin B and surgical debridement   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-002] A 65-year-old man with a history of IV drug use presents with a fever and confusion. His only medical history includes chronic obstructive pulmonary disease managed with inhalers and steroids. His T is 103°F (39.4°C), BP is 65/20 mm Hg, HR is 142 bpm, RR is 28/min, and SpO2 is 95% on room air. The patient is given 3,000 mL of fluids with an unchanged blood pressure.
+    ANSWER: Hydrocortisone   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-003] A 4-year-old girl presents to the emergency department after her family found her chasing a bat around a room. They are visiting from out of town and renting a cabin about 2 hours away. They found the patient jumping on her bed and trying to reach a bat that was on top of the curtains. She has no injuries or bites and otherwise appears well. What is the best next step in management?
+    ANSWER: Administer rabies immunoglobulin now and the rabies vaccine over 2 weeks   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-004] A 45-year-old man with unknown medical history is brought in by ambulance after being found unconscious at a bus stop. The patient is protecting his airway and breathing 24/min with a blood pressure of 180/110 mm Hg. He is noted to have a fever of 39.5°C. He has no signs of trauma, and his pupils are equal, round, and reactive to light.
+    ANSWER: Flucytosine   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-005] Which description below is most consistent with the exanthem associated with rubella?
+    ANSWER: Pinpoint, pink, maculopapular rash that starts on the face and spreads caudally to the trunk and extremities with associated fevers   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-006] A 20-month-old girl is brought to the ED with her parent for a rash. The patient is fully immunized and has no significant medical history. The parent states the rash started this morning. Which history is most suggestive of roseola?
+    ANSWER: Abrupt resolution of high fever followed by a maculopapular rash that spreads from trunk to extremities   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-007] In late summer, many individuals are presenting to your ED over a few days with fever, headache, malaise, rash, nausea, and vomiting. Several neighborhood crows and jays have been found dead over the past week, and local news has reported an uptick in mosquito activity. Which of the following infections is most likely responsible for these patients’ illness?
+    ANSWER: West Nile virus   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-008] A parent presents with their healthy 18-day-old male infant for evaluation of a fever. They report that he was hot to the touch today and had a rectal temperature of 100.9°F (38.3°C) at home. The patient has no symptoms of cough, congestion, vomiting, or diarrhea. There are no known sick contacts. The child was born full term, and there were no complications with the birth or the pregnancy.
+    ANSWER: Obtain urinalysis and blood culture and perform a lumbar puncture   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-009] What is the causative agent for the above rash?
+    ANSWER: Herpes simplex virus   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-010] A 27-year-old man presents to the ED after he crashed his dirt bike going over a jump. He has a 5 cm wound to his right leg with a significant amount of dirt and debris in the wound. He does not think he has ever received a tetanus vaccine in the past, as his parents were against vaccinations. Administration of which of the following is the most appropriate next step in management?
+    ANSWER: Tetanus immune globulin and tetanus vaccine   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-011] Which of the following is typically the most common incubation period for Ebola virus disease?
+    ANSWER: 3–12 days   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-012] A 55-year-old man with a history of diabetes presents to the emergency department with scrotal pain. He notes a history of skin rash in his groin for a few days, and he has felt unwell for the past few hours. Temperature is 39°C (102.2°F), heart rate is 144 bpm, respirations are 22/min, blood pressure is 115/70 mm Hg, and SpO2 is 99%. His rhythm on telemetry is irregularly irregular.
+    ANSWER: Administer intravenous piperacillin-tazobactam, vancomycin, and clindamycin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-013] A 32-year-old man presents with fever, headaches, and a rash. He started having fevers 3 days ago after returning from a hiking trip. The rash appeared yesterday on his hands and feet, before spreading to his ankles and wrists, and then to the rest of the body. What is the best next step in management?
+    ANSWER: The body should be exposed and inspected   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-014] What is the vector for transmission of Zika virus?
+    ANSWER: Aedes mosquito   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-015] A 62-year-old man who lives with his daughter and her family of four children presents with 3 days of fever, chills, and generalized weakness. His medical history includes end-stage kidney disease on hemodialysis, chronic anemia, diabetes, and peripheral arterial disease. Vital signs include T 38.7°C (101.7°F), BP 102/62 mm Hg, HR 122 bpm, RR 20/min, and SpO2 97% on room air.
+    ANSWER: Presence of a chronic indwelling hemodialysis catheter   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-016] A 27-year-old woman presents to the ED for evaluation of a rash and fever. She has a diffuse erythematous and vesicular rash that began as a single papule that evolved into an eschar. Before the rash, she had a prodrome of headache, myalgias, nausea, and vomiting. She reports no recent travel or outdoor activities but recently moved into a new apartment and has seen mouse droppings.
+    ANSWER: Rickettsialpox   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-017] A 10-year-old girl presents with a diffuse erythroderma, lethargy, headache, and hypotension 2 days after developing a pustule on her knee. Based on her history, exam, and laboratory evaluation, you begin treating her for toxic shock syndrome. Which of the following antibiotics should be administered to inhibit exotoxin production?
+    ANSWER: Clindamycin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-018] A 21-year-old woman presents to the ED with a cough, fever, and headache. Symptoms started soon after returning from a mission trip to Rwanda. She has had intermittent fevers over the last 10 days, along with chills, headaches, and a nonproductive, sporadic cough.
+    ANSWER: Blood smear   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-019] A 56-year-old man presents to the ED with rapidly progressing pain and swelling of his right lower leg after a shark fishing trip the day prior. He states that he sustained a small cut on his leg from a large fishing hook that bled briefly but quickly stopped. His medical history includes cirrhosis from chronic hepatitis C.
+    ANSWER: Doxycycline and ceftriaxone   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-020] A 13-month-old boy presents with a rash that developed yesterday on his neck. His parent notes that he had a high fever for 3 days earlier in the week and resolved yesterday. The child has been a little fussier than usual but has otherwise been acting normally. On examination, he is afebrile. A diffuse maculopapular rash is noted on his face, trunk, and extremities.
+    ANSWER: Human herpesvirus 6   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-021] A 25-year-old woman presents to the emergency department for tuberculin skin test interpretation 52 hours after it was placed. You note 6 mm of induration. She has a history of well-controlled HIV and is asymptomatic. Which of the following is the most appropriate?
+    ANSWER: Interpretation is positive, treat with isoniazid if chest X-ray and sputum smear are negative   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-022] Which of the following clinical findings is most characteristic of measles?
+    ANSWER: Bluish-white spots on the buccal mucosa   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-023] Which of the following is the most common complication in a child presenting with a fever, sore mouth, and the above findings?
+    ANSWER: Dehydration   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-024] A 30-year-old woman presents to the ED with a fever and vomiting after a mission trip to Liberia 1 week ago. She states she has had 10 episodes of watery diarrhea. Vital signs are a T of 102°F (38.9°C), HR of 120 bpm, BP of 95/60 mm Hg, and SpO2 of 97% on room air. On physical exam, she is noted to have scattered petechiae.
+    ANSWER: Ebola virus   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-025] Which of the following is the most common presentation of nontuberculous Mycobacterium in children 1–5 years of age?
+    ANSWER: Lymphadenitis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-026] A previously healthy 17-year-old girl presents to the emergency department with a report of sore throat and rash. She states that her symptoms began 5 days ago with headache and fatigue that progressed to a sore throat. She was seen at an urgent care 2 days ago and was discharged home with amoxicillin that she has been taking daily. Today, she developed a diffuse maculopapular rash.
+    ANSWER: Advise against contact sports   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-027] A 2-year-old boy develops a facial rash associated with fever. Several pimple-like sores were first noted on the forehead and have progressed to involve the entire right forehead and right malar surface over 3 days, as shown above. The highest temperature noted is 102.5°F (39.2°C). The sores on the forehead seem both painful and itchy.
+    ANSWER: Herpes zoster ophthalmicus   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-028] A 6-month-old boy is brought in by his grandparents for feeding difficulties. They were flown in from an Inuit community. They state that they added a few teaspoons from the family’s store of seal oil to the baby’s formula to encourage weight gain.
+    ANSWER: Identification of toxin in stool samples   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-029] A 3-year-old boy presents to the ED with a rash. He has had a fever and sore throat for the past 3 days. Yesterday, his parent noticed a fine rash with a rough texture. It started on his neck but has now spread to the rest of his body. Vital signs are BP 100/60 mm Hg, HR 100 bpm, RR 20/minute, SpO2 98% on room air, and T 100.8°F (38.2°C).
+    ANSWER: Scarlet fever   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-030] Which of the following patients with chickenpox will benefit the most from treatment with acyclovir?
+    ANSWER: Vaccinated pregnant 16-year-old adolescent with moderate persistent asthma   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-031] Which of the following is the most common pulmonary complication of influenza?
+    ANSWER: Pneumonia secondary to superimposed bacterial infection   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-032] A 7-year-old boy presents to the ED in North Carolina with fever and chills. His parents report a temperature of 102°F (38.9°C) for 2 days, but they became concerned when the patient developed a rash to his wrists and ankles that has quickly spread to include his extremities. His physical examination is notable for an ill-appearing boy with the rash shown above.
+    ANSWER: Dermacentor andersoni   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-033] A 20-year-old otherwise healthy woman presents to the ED with bloody diarrhea 3 days after eating a hamburger at a local fast-food restaurant. Her diarrhea started yesterday, but she became concerned after she noticed a small amount of blood in her stool earlier today. Vital signs include T 37.8°C and HR 102 bpm. She has no abdominal tenderness with palpation.
+    ANSWER: Intravenous fluids   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-034] A 3-year-old girl presents to the ED with 7 days of fever, sore throat, and decreased oral intake. Vital signs include T 38.6°C (101.5°F), HR 118 bpm, RR 22/min, BP 102/64 mm Hg, and SpO2 99% on room air. Examination shows bilateral posterior cervical lymphadenopathy and enlarged tonsils with exudate. A rapid antigen detection test for group A Streptococcus is negative.
+    ANSWER: Epstein-Barr virus immunoglobulin viral antigen serology   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-035] A 24-year-old woman presents to the emergency department with a concern about a rash on her palms. She reports associated subjective fevers and intermittent pain in her elbows and knees. Her physical examination is notable for the rash above. Which of the following is the most likely cause of her symptoms?
+    ANSWER: Neisseria gonorrhoeae   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-036] Several individuals have presented to your ED with lesions similar to those shown above over the last 2 days. Each patient also reports a prodrome of fever, malaise, and back pain. Upon further investigation, they all recently returned from London on the same flight. Which of the following is the most likely diagnosis?
+    ANSWER: Variola   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-037] A 28-year-old man presents 4 hours after being bitten on the right forearm by a stray dog while jogging. He reports no prior rabies vaccination. Examination shows two shallow puncture wounds on the mid-forearm without neurovascular abnormalities. The dog ran away and cannot be located for observation.
+    ANSWER: Administer rabies immune globulin in and around the wound with the remainder in the ipsilateral deltoid and the rabies vaccine in the contralateral deltoid   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-038] A 32-year-old man presents with an eschar on his right forearm and malaise. He recently returned from a hunting trip in Missouri, where he encountered many ticks that he removed. The skin lesion is shown above. His heart rate is 67 bpm, respiratory rate is 18/min, blood pressure is 130/70 mm Hg, temperature is 101°F (38.3°C), and oxygen saturation is 99% on room air.
+    ANSWER: A gram-negative coccobacillus   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-039] A 27-year-old woman who was treated for malaria shortly after returning from a trip recently presents with fever, malaise, and myalgias, characteristic of the way she felt when she had malaria before. She has not traveled again. She completed her initial malaria treatment but reports she did not take another medication she was told to take. She felt fine, so she did not take the other medicine.
+    ANSWER: Plasmodium vivax   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-040] What is the classic exposure seen in cases of infantile botulism?
+    ANSWER: Contaminated honey   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-041] Which of the following is the most common manifestation of extrapulmonary tuberculosis?
+    ANSWER: Lymphadenitis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-042] A 33-year-old man is brought to the ED with neurologic symptoms that developed overnight after attending a local banquet. According to the patient’s partner, other people from the event have developed similar strange symptoms. The patient has difficulty swallowing, blurred vision, and generalized weakness.
+    ANSWER: Endotracheal intubation with mechanical ventilation   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-043] What is the most likely vector for Southern tick-associated rash illness in a patient presenting with an erythema migrans-like rash after a tick bite in the southeastern United States?
+    ANSWER: Amblyomma americanum   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-044] A 5-year-old boy who has never received a vaccine presents to the emergency department with painful swollen testicles. His parents report that he had subjective fevers and malaise about a week ago, with mild swelling to the left side of his face that has resolved. His vital signs are within normal limits, and he is otherwise well-appearing.
+    ANSWER: Reassurance and discharge home   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-045] A 7-year-old boy is brought to the ED by his parent for evaluation of a rash. The parent reports that the patient had a low-grade fever and fatigue 5 days ago, which has since resolved. Today, the caregiver noticed a rash on his face, trunk, and extremities. Vital signs are within normal limits.
+    ANSWER: Erythema infectiosum   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-046] A 33-year-old cattle farmer presents with a rash on his lower arm, as seen above. What treatment is indicated?
+    ANSWER: Ciprofloxacin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-047] Which of the following is characteristic of the rash associated with Rocky Mountain spotted fever?
+    ANSWER: Centripetal   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-048] A 6-year-old boy with a history of sickle cell disease presents with a fever, rhinorrhea, and nausea that started 5 days ago. Yesterday, his parent noticed a rash that started on his cheeks and then spread to his trunk. On examination, the child is afebrile. There is an erythematous rash on the cheeks with circumoral pallor. The rash on the trunk has a lacy appearance.
+    ANSWER: Transient aplastic crisis   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-049] A 32-year-old man presents to the ED after opening a suspicious envelope that local health officials have confirmed is a powder containing Francisella tularensis. The patient is asymptomatic. What is the best next step in postexposure prophylaxis?
+    ANSWER: PO ciprofloxacin for 14 days   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-050] A 34-year-old man presents to the ED with bilateral eyelid weakness and associated diplopia that began yesterday morning upon waking. Today, he noted weakness with his grip when attempting to eat breakfast and difficulty lifting his arms to dress.
+    ANSWER: Botulism   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-051] A 47-year-old man presents for evaluation of a whitish discoloration on his tongue for the last several days. He reports no fever or other systemic signs. Exam findings are seen in the image above. You are unable to scrape the base of the plaque off with a tongue depressor. Which of the following tests is likely to be positive?
+    ANSWER: Rapid HIV test   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-052] A 3-month-old vaccinated girl presents with a fever. She has no other symptoms. She has a rectal temperature of 39.2°C that began today. She is vigorous and appears well. The rest of her exam is unremarkable. Which of the following tests is most likely to reveal the source of this patient’s fever?
+    ANSWER: Urinalysis   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-053] A 35-year-old man who returned 1 week ago from a whitewater rafting trip in northern Chile presents with a severe headache, low-grade fever, chills, and severe myalgias. On exam, you note bilateral conjunctival redness without exudates. Which of the following is the most likely diagnosis?
+    ANSWER: Leptospirosis   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-054] A 21-year-old man presents to the ED after being bitten by an Ixodes scapularis tick on Cape Cod. He has no concerns and no rash. Based on history, you suspect that the tick was present for 48 hours. Which of the following is the most appropriate treatment plan?
+    ANSWER: Doxycycline 200 mg PO x 1 dose   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-055] A 24-year-old man presents to the emergency department with fevers. Associated symptoms include headache, nausea, vomiting, and diarrhea. His symptoms started 3 days ago. He has no rash. He was hiking on the Appalachian Trail 2 weeks ago. His blood work shows leukopenia and thrombocytopenia. Which of the following is the most likely diagnosis?
+    ANSWER: Ehrlichiosis   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-056] An 80-year-old woman presents from the local nursing facility with altered mental status. She is febrile, tachycardic, and hypotensive. Following adequate fluid resuscitation, she continues to be hypotensive, and the decision is made to initiate vasopressors. Which of the following is the most appropriate vasopressor for this patient?
+    ANSWER: Norepinephrine   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-057] A 45-day-old boy presents to the emergency department with a fever and a cough that began yesterday. He was born at 38 weeks gestation at home, his mother did not receive prenatal care, and he was not given any immunizations. His temperature is 38.2°C, heart rate is 168 bpm, respiratory rate is 60/min, and oxygen saturation is 92% on room air.
+    ANSWER: He has bronchiolitis symptoms   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-058] A 2-month-old term female infant is brought to an exam room in the emergency department, limp and apneic. She is febrile to 39.0°C, has a heart rate of 190 bpm, and a systolic blood pressure of 59 mm Hg. She has extremely delayed capillary refill and cold extremities.
+    ANSWER: Intravenous epinephrine   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-059] A 30-year-old woman presents to the emergency department with a new onset rash. She has no significant medical history but is known to the emergency department for the treatment of frequent sexually transmitted infections. She reports no preceding genital ulcers. Vital signs are unremarkable. Physical examination is remarkable for the rash noted above, which appears pustular in nature.
+    ANSWER: Ceftriaxone 1 g IM daily for 2 days followed by cefixime BID for 1 week plus doxycycline BID for 1 week   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-060] Which of the following patients with flu is paired with the appropriate treatment?
+    ANSWER: Oseltamivir: 24-year-old pregnant woman with 72 hours of symptoms   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-061] Which of the following infections is most likely to lead to microcytic anemia?
+    ANSWER: Necator americanus (hookworm)   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-062] Which of the following patients would have the lowest risk of contracting HIV?
+    ANSWER: A patient who had receptive penile-oral intercourse with a partner with HIV   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-063] A 36-year-old man with a several-day history of flu-like illness, nausea, vomiting, and shortness of breath presents to an ED in New Mexico. He states his symptoms began approximately 1 week after cleaning out his barn, where he noticed a large amount of mouse droppings. Which organ system most commonly fails in this illness, resulting in death?
+    ANSWER: Pulmonary   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-064] A 37-year-old man with a history of human immunodeficiency virus with a previous CD4+ count of 90 cells/µL presents to the emergency department feeling poorly with a mild headache, neck pain with stiffness, and nausea. He has not been taking his medications. Physical examination shows vital signs of HR 97 bpm, BP 133/70 mm Hg, RR 16/min, and T 99.0℉ (37.2ºC).
+    ANSWER: India ink stain   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-065] A 16-year-old boy presents to the emergency department with agitation, confusion, hydrophobia, and left arm pain several weeks after returning home from a mission trip to Uganda, where he was bitten by a stray dog. What is the best next step in management?
+    ANSWER: Supportive intensive care   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-066] A 62-year-old man presents with fever, productive cough, and progressive confusion. He has a history of type 2 diabetes mellitus and hypertension. He weighs 65 kg, and vital signs include T of 39.2°C (102.6°F), BP of 78/46 mm Hg, HR of 128 bpm, RR of 28/min, and SpO2 of 90% on room air. Capillary refill is delayed, and the skin is cool. Bedside lactate level is 5.1 mmol/L.
+    ANSWER: Administer additional 1 L of lactated Ringer solution   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-067] A 35-year-old man diagnosed with HIV 5 years ago and who is not currently taking antiretroviral therapy presents to the emergency department with persistent, watery diarrhea associated with abdominal cramps and occasional nausea. The frequency of bowel movements is around six to eight times per day, and the diarrhea is not improving with over-the-counter antidiarrheal medications.
+    ANSWER: Cryptosporidium   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-068] A 39-year-old woman presents to the ED with rigors. She smokes marijuana and uses intravenous heroin. She has been living in a nearby shelter and became ill 2 weeks ago with a cough and night sweats. Her vital signs are T 101.4°F (38.6°C), BP 109/73 mm Hg, HR 110 bpm, RR 20/minute, and SpO2 94% on room air. She appears thin and has asymmetric breath sounds without wheezes.
+    ANSWER: Acid-fast bacillus   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-069] A 68-year-old woman presents to the emergency department with headache and right eye pain for 2 days. She reports the feeling of a foreign body sensation in her right eye with redness and blurry vision. On physical examination, you notice some blotchy redness on her forehead and the tip of her nose. She reports pain when you touch her skin in those areas.
+    ANSWER: Oral acyclovir   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-070] A 4-day-old infant born of a normal full-term pregnancy, labor, and delivery presents to the emergency department with a 1-day history of 102.2°F (39°C) fever, poor feeding, irritability, and fitful sleeping. Parental and infant history is unremarkable, with the exception that the parent had a urinary tract infection at the end of their second trimester, which was not cultured, and low-grade fever …
+    ANSWER: Streptococcus agalactiae   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-071] A 3-year-old child presents with a harsh raspy cough that has progressed over 24 hours. On exam, they are somewhat agitated with moderate subcostal retractions. They receive nebulized racemic epinephrine and oral dexamethasone and are observed for 3 hours.
+    ANSWER: Work of breathing   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-072] A 22-year-old man who works as a landscaper presents to the ED with a rash that began approximately 3 weeks ago. He says it started with a single bump on his right forearm that has been oozing fluid. He subsequently developed lesions tracking up the arm. The patient reports no joint pain, decreased range of movement, fever, numbness, or weakness.
+    ANSWER: Oral itraconazole   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-073] A 26-day-old boy presents with a fever. He was born at 39 weeks gestation, and his mother received no prenatal care. He was not immunized at birth. He has a rectal temperature of 38.1°C (100.6°F), and his exam is otherwise unremarkable. He appears well and is feeding normally. Blood and urine cultures are obtained. The parents are not interested in him being admitted to the hospital.
+    ANSWER: Cerebral spinal fluid testing shows no pleocytosis   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-074] A 75-year-old man presents from the local nursing facility with severe lower extremity pain. His vital signs on arrival are T 39.3℃, HR 160 bpm, BP 72/40 mm Hg, and RR 40/min. Physical examination shows erythema and crepitus in the lower extremity. An X-ray of the extremity is shown above. Which of the following antibiotics is indicated for direct inhibition of toxin synthesis?
+    ANSWER: Clindamycin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-075] A 3-year-old girl presents to the ED with 1 hour of a barking cough and inspiratory stridor when crying but not at rest. On exam, she has mild retractions but does not have hypoxia and has good air entry. She is not significantly agitated. Which of the following interventions has been shown to reduce hospital length of stay in this patient?
+    ANSWER: Dexamethasone   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-076] A 75-year-old man with a history of coronary artery disease, end-stage kidney disease on hemodialysis, and remote history of IV drug use presents with 3 days of progressive erythema and tenderness of the right lower extremity. Temperature is 38°C (100.4°F), heart rate is 114 bpm, respirations are 18/min, blood pressure is 150/90 mm Hg, and oxygen saturation is 98%.
+    ANSWER: IV vancomycin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-077] A 62-year-old man with a long-standing history of alcohol-related cirrhosis presents to the emergency department with rapid worsening of what he states began as a small cut on his hand 6 hours ago. The patient cut his hand shucking oysters, and his hand now appears diffusely erythematous with the presence of multiple hemorrhagic bullae.
+    ANSWER: Vibrio vulnificus   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-078] A 32-year-old woman presents with acute onset of low-grade fever, pruritic rash, and joint pain in her hands and feet after returning from a trip to Brazil last week. Her vital signs are unremarkable other than a temperature of 100.2°F (37.9ºC). She has an erythematous maculopapular rash on the face, trunk, and extremities, as well as conjunctival injection without discharge.
+    ANSWER: Zika virus infection   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-079] A 19-year-old woman presents to the ED via EMS after her roommate found her to have altered mental status and frequent emesis. She reports a severe headache. Her initial vital signs include an HR of 112 bpm, BP of 89/45 mm Hg, SpO2 of 98% on room air, and T of 38.9°C. On physical examination, passive neck flexion leads to bilateral flexion at the hips. Her skin examination is demonstrated above.
+    ANSWER: Ceftriaxone and vancomycin   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-080] A 2-year-old boy presents to the emergency department lethargic with a fever. The patient is minimally responsive with a temperature of 39.5°C, heart rate of 190 bpm, and blood pressure of 56/28 mm Hg. Within the first hour, your team treats his presumptive septic shock by performing endotracheal intubation, administering 60 mL/kg of normal saline and a dose of ceftriaxone, and starting a peripher …
+    ANSWER: Hydrocortisone 3 mg/kg   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-081] A 28-year-old man presents to the ED with blurry vision, arm and trunk weakness, and dyspnea. Vital signs include a BP of 122/78 mm Hg, HR of 90 bpm, RR of 24/min, SpO2 of 90% on room air, and T of 37.0°C (97.6°F). Physical exam reveals bilateral fixed pupillary dilation, symmetrical upper extremity weakness, and palsies of cranial nerves III, IV, and VI.
+    ANSWER: Clostridium botulinum infection   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-082] Which of the following patients has a positive Mantoux test result?
+    ANSWER: A 32-year-old man who is immunocompetent with 15 mm induration   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-083] A 24-year-old man who is sexually active presents with flu-like symptoms for the past 3 weeks. Specifically, he reports generalized weakness, malaise, myalgias, a low-grade fever, and anorexia. He reports no upper respiratory infection symptoms or a cough. He has intercourse with male individuals and does not always use condoms. He is concerned that he may have contracted HIV.
+    ANSWER: If the result is positive, discharge with confirmatory blood testing   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-084] A 24-year-old soldier in combat presents to a military field hospital due to the abrupt onset of fever, chills, headache, myalgias, and malaise. Several other soldiers present at the same time with similar symptoms. Vital signs are significant for a temperature of 101.4°F (38.6ºC) and heart rate of 118 bpm.
+    ANSWER: Tularemia   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-085] A 68-year-old woman with a history of psoriatic arthritis on methotrexate presents with a facial rash. She states that she has had intermittent headaches and itching of her nose and forehead for the past several days. Today, she noticed painful bumps on her face. Her vital signs are unremarkable.
+    ANSWER: Punctate keratitis   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-086] A 10-day-old boy presents to the ED with copious purulent drainage from his right eye that started that morning. He was the product of a normal spontaneous vaginal delivery. His mother developed vaginal irritation 1 day after delivery. Which of the following is the most likely etiology of the patient’s presentation?
+    ANSWER: Chlamydia trachomatis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-087] A 19-year-old college student is brought by paramedics to the emergency department after his roommate called 911 for altered mental status. The roommate states the patient has not been feeling well, with a cough, rhinorrhea, and malaise for the past week. His symptoms worsened and he did not want to get out of bed yesterday due to a severe headache.
+    ANSWER: Ceftriaxone and vancomycin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-088] A 19-year-old man presents to the emergency department with his roommate due to fever, altered mental status, and a diffuse rash, as shown in the image above. The roommate states that the patient’s symptoms began with a headache and neck pain 2 days ago. The patient is treated appropriately and admitted to the hospital.
+    ANSWER: Hepatotoxicity   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-089] A 68-year-old man is boarding in the ED and is being treated for urosepsis caused by multidrug-resistant Escherichia coli. Infection control measures are implemented to reduce nosocomial spread. What measure is most effective in preventing transmission in this setting?
+    ANSWER: Hand hygiene adherence among health care workers   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-090] A 7-year-old boy is brought to the ED with a fever and rash. He has no other medical conditions. His T is 103°F (39.4°C), BP is 105/70 mm Hg, HR is 112 bpm, RR is 22/min, and SpO2 is 100% on room air. Physical exam reveals the rash as pictured above without involvement of the nasolabial triangle. The patient’s tongue has prominent red papillae.
+    ANSWER: Penicillin   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-091] A 33-year-old man presents with fever, tachycardia, and hypotension. Chest X-ray reveals a multifocal pneumonia. After adequate fluid resuscitation, the patient’s BP is 85/43 mm Hg. What vasopressor is recommended in this situation?
+    ANSWER: Norepinephrine   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-092] A 19-year-old man presents with a painless ulcer on the shaft of his penis present for the last 3 days. He reports he is sexually active with multiple male partners. Physical examination shows the findings above, as well as bilateral nontender inguinal adenopathy. Which of the following is the most appropriate next step in the management of this patient’s condition?
+    ANSWER: IM penicillin G once   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-093] A 33-year-old woman with a history of HIV presents after a generalized tonic-clonic seizure. Vital signs include BP of 112/76 mm Hg, HR of 112 bpm, RR of 18/min, SpO2 of 97%, and T of 100.9°F. Physical examination reveals a lethargic patient with decreased strength in the right extremities and nontender cervical lymphadenopathy. A CT scan of the head is shown above. CD4 count is 89 cells/µL.
+    ANSWER: Pyrimethamine and sulfadiazine   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-094] A 30-year-old woman with AIDS presents to your ED in rural Arizona with shortness of breath, fever, skin ulcers, and weight loss. An initial chest radiograph shows a cavitary lesion with an air-fluid level in the right lung. Which pathogen is the most likely cause of these findings and should be on the differential diagnosis besides tuberculosis?
+    ANSWER: Coccidioides immitis   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-095] Which of the following children has the highest risk for rabies and requires rabies vaccination and rabies immune globulin?
+    ANSWER: Child who slept in a tent that a bat flew out of this morning with no bite wounds noted on the child   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-096] A 72-day-old female infant is brought in for a rectal temperature of 39.6°C (103.3°F) measured at home. She appears well, is feeding normally, is vaccinated, and has no history of prematurity, chronic medical conditions, or perinatal complications. Vital signs are now within normal limits for age after her parent gave her acetaminophen, and her examination is unremarkable.
+    ANSWER: Urinalysis and urine culture   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-097] A 28-year-old woman presents to the ED on day 5 of a febrile illness. She recently returned from visiting family in Puerto Rico, where she recalls multiple mosquito bites. Initially, she experienced abrupt-onset fever, headache, and myalgias. Over the past 24 hours, she has developed abdominal discomfort, severe myalgias, lightheadedness, and new bruising on her legs.
+    ANSWER: Initiate IV fluid resuscitation and analgesics   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-098] Which of the following patients is at greatest risk of developing West Nile meningoencephalitis?
+    ANSWER: 82-year-old woman with dementia   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-099] A 14-year-old girl presents to the emergency department with a fever, headache, and myalgias. Symptoms started abruptly yesterday. She recently returned from a month-long summer camp in the Ozarks of Arkansas. On physical examination, her vital signs are temperature 101.4°F (38.6ºC), heart rate 112 bpm, blood pressure 100/70 mm Hg, respirations 18/minute, and oxygen saturation 99% on room air.
+    ANSWER: Ehrlichiosis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-100] A 4-month-old term infant presents without passing stool for 3 days. He had routine newborn care and passed meconium immediately after birth. He is growing well, and his stools have been soft, but he has not been eating as well lately. He is well appearing, and his abdomen is soft and nondistended with normal bowel sounds. He has less head control than expected for his age.
+    ANSWER: Evaluation of overall tone and reflexes   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-101] A 33-year-old man presents to the emergency department after finding a bat in his bedroom upon awakening this morning. He is unsure how long the bat was present. He reports no current symptoms or trauma, and his vital signs are within normal limits. The animal is not available for testing. Which of the following would be appropriate care for this patient?
+    ANSWER: Rabies immunoglobulin and rabies vaccine   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-102] A 67-year-old man presents to the ED in July with 5 days of fever, malaise, myalgias, and headache after returning from a hiking trip in rural Missouri. He reports no rash, vomiting, or recent antibiotic use. Vital signs are a T of 38.7°C (101.7°F), HR of 95 bpm, BP of 110/72 mm Hg, RR of 18/min, and SpO2 of 98% on room air.
+    ANSWER: Amblyomma americanum (lone star tick)   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-103] A 42-year-old man presents to the ED after returning from a humanitarian medical mission trip in West Africa. He reports a 2-day history of fever, chills, myalgias, and nonbloody diarrhea. He also reports bleeding gums earlier today. He mentions that several patients he treated abroad had hemorrhagic symptoms.
+    ANSWER: Full barrier protection with powered air-purifying respirator   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-104] A 52-year-old man presents to the ED with mental status changes. He appears cachectic and has evidence of skin popping on his extremities. He is transported for a CT of his head. What is the most appropriate next step in care, given this patient's CT scan above?
+    ANSWER: Intravenous pyrimethamine, sulfadiazine, and leucovorin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-105] A previously healthy 4-year-old boy presents with neck swelling. His parents report he was seen by his primary care clinician a few days earlier and prescribed cephalexin, which he has been taking daily, but it does not seem to be helping. He had several bumps on his left arm a few weeks ago after playing with his neighbor’s new kitten. His temperature is 38°C (100.4°F).
+    ANSWER: Azithromycin   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-106] A 25-year-old man presents to the ED with difficulty swallowing and blurry vision after eating canned tuna for lunch. On physical exam, he is noted to have slurred speech and nonreactive dilated pupils. Which of the following is the most likely diagnosis?
+    ANSWER: Botulism   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-107] A 29-year-old man presents to the ED with 5 days of fever, sore throat, rash, myalgias, and headache. He reports unprotected receptive and insertive anal intercourse with multiple partners approximately 2 weeks ago. Vital signs show a T of 38.6°C (101.5°F), BP of 118/74 mm Hg, HR of 98 bpm, RR of 16/min, and SpO2 of 99% on room air.
+    ANSWER: Human immunodeficiency virus type 1 RNA PCR   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-108] A 67-year-old man is brought to the ED after he was found confused and minimally responsive at home. According to his spouse, he has had a fever and malaise for the last several days. On exam, he is somnolent and disoriented with no signs of head trauma. Vital signs are a T of 38.8°C (101.8°F), BP of 132/76 mm Hg, HR of 102 bpm, RR of 18/min, and SpO2 of 96% on room air.
+    ANSWER: West Nile virus neuroinvasive disease   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-109] Which of the following is the hallmark characteristic of mumps?
+    ANSWER: Nonsuppurative parotid swelling   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-110] A 22-year-old man presents with the rash seen above. He otherwise feels well and has no other concerns. A small amount of purulence is noted near the wound without any fluctuant masses. Which of the following is the most appropriate treatment for this patient’s condition?
+    ANSWER: Trimethoprim-sulfamethoxazole   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-111] A 42-year-old woman presents to the emergency department with acute onset of nausea, diarrhea, rash, and palpitations after eating dinner this evening. She ate tuna and rice and shortly afterward developed a rash to her chest and neck, itching around her mouth, and watery diarrhea. She has a mild headache but no shortness of breath.
+    ANSWER: Diphenhydramine   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-112] A 15-year-old boy presents to the ED with muscle twitches and confusion. Over the past year, the patient has had worsening memory and performance in school, in addition to changes in his personality and abnormal behavior. The patient has never received medical care or seen a pediatrician.
+    ANSWER: Subacute sclerosing panencephalitis   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-113] A 42-year-old man presents to the ED with a 3-week history of a lesion on his right forearm. He reports sustaining a scratch on his hand while working in his flower garden about 1 month ago. Vital signs are within normal limits. Physical examination shows several firm, erythematous, nontender nodules in a linear pattern on the right forearm, with a small ulcerated lesion distally.
+    ANSWER: Fungal tissue culture   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-114] A 4-year-old boy presents with his parents for a new onset of a rash. The patient has no significant medical history, but he is not up-to-date on any immunizations because his parents do not believe in them. The patient and his family just returned 10 days ago from overseas. Mom states the patient has not been feeling well for the past 48 hours with a fever and a cough.
+    ANSWER: Rubella   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-115] What is the most appropriate treatment for erythema migrans?
+    ANSWER: Doxycycline 100 mg orally twice a day X 14 days   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-116] A 42-year-old woman presents to the ED with fatigue and a rash on her thigh. She returned 3 days ago from a camping trip in Missouri, where she recalls removing the above tick. She noticed a red, expanding rash at the bite site about 2 days later. The lesion is round with central clearing and measures approximately 6 cm in diameter. She reports no fever, headache, or joint pain.
+    ANSWER: Clinical diagnosis without laboratory testing   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-117] A 33-year-old man presents to the ED from the local correctional facility for a cough, fever, night sweats, and weight loss. His temperature is 101°F (38.3°C), blood pressure is 117/58 mm Hg, heart rate is 110 bpm, respiratory rate is 25/min, and oxygen saturation is 95% on room air. Physical exam is notable for a thin man who appears fatigued.
+    ANSWER: Mycobacterium tuberculosis infection   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-118] A 45-year-old man presents to the emergency department with a headache, mental status changes, and a rash. According to his partner, the patient has felt weak and fatigued and has had a headache that is worsened by bright lights. His temperature is 102°F (38.9°C) and heart rate is 120 bpm. Physical exam is notable for the finding above.
+    ANSWER: Ceftriaxone   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-119] A 23-year-old man presents to an emergency department in Connecticut with 1 week of fevers, night sweats, fatigue, and generalized body aches. On exam, there is a 20 cm targetoid rash in the right popliteal fossa that he notes has been slowly enlarging over the past 4 days. The patient was started on the appropriate antibiotic yesterday for the most likely diagnosis.
+    ANSWER: Acetaminophen and sunscreen   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-120] Which of the following organisms is most likely to cause bacteremia in an 8-year-old boy with sickle cell disease?
+    ANSWER: Streptococcus pneumoniae   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-121] A 4-year-old boy is brought to the emergency department by his parents due to a fever and a rash. The parents report that he developed a high-grade fever 3 days ago, which has persisted despite treatment with antipyretics. They also noticed a rash that started on his wrists and ankles and has now spread to his trunk and extremities.
+    ANSWER: Start antibiotic treatment with oral doxycycline now   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-122] A 13-year-old boy presents to the emergency department with 2 days of fever, headache, fatigue, and progressive bilateral swelling below his ears. He reports difficulty chewing due to pain. His vaccinations are not up to date per his caregiver. On exam, he has tender bilateral parotid enlargement that elevates the earlobes and obscures the mandibular angle.
+    ANSWER: Aseptic meningitis   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-123] A 34-year-old woman presents to the emergency department for 3 days of fever, malaise, vomiting, and diarrhea. She has also noted a diffuse, painless, nonpruritic rash in the past day. She is employed as a school teacher. She is sexually active with multiple partners, and her last menstrual period was 1 week ago. She reports no recent exposure to ticks.
+    ANSWER: Vancomycin and clindamycin IV   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-124] A 23-year-old man presents with sudden-onset nausea, vomiting, and diarrhea. He states he is not able to eat or drink without having more episodes. His symptoms started 1 hour after a dinner party. His vital signs are unremarkable, and his abdomen is nontender. Which of the following is the most appropriate management?
+    ANSWER: Ondansetron, PO challenge, and discharge   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-125] A 17-year-old girl presents with a fever, myalgias, and headache. She noted a rash that began 4 days after she developed her fever. The macular rash began on her wrists and ankles and spread toward her chest. She recently returned from hiking the Appalachian Trail in North Carolina about 1 week ago. Which of the following is the most likely diagnosis?
+    ANSWER: Rocky Mountain spotted fever   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-126] A 71-year-old man with a history of diabetes, hypertension, COPD, asthma, and peptic ulcer disease presents to the ED with fatigue, myalgias, nasal congestion, nonproductive cough, and fever for 1 day. Multiple members of his family are ill with similar symptoms. His rapid influenza swab is positive. A chest X-ray is normal. He is prescribed an antiviral and discharged home.
+    ANSWER: Zanamivir   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-127] A 19-year-old college student presents to the ED with fever and headache. On physical exam, you note nuchal rigidity and the skin finding seen above. Which of the following is a known complication of this disease process?
+    ANSWER: Waterhouse-Friderichsen syndrome   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-128] A nursing home patient was directed to the emergency department for further evaluation after a blood culture result revealed gram-negative bacilli. Infection with which of the following organisms is most likely?
+    ANSWER: Escherichia coli   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-129] An 83-year-old man is brought to the ED from his nursing home for shortness of breath, cough, and fever. His SpO2 is 81% on room air. His chest X-ray shows bilateral multifocal opacities in the lower lung fields. He has not received any vaccinations in the past 10 years. What is the most likely etiology of his current condition?
+    ANSWER: SARS-CoV-2   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-130] A 47-year-old man with diabetes presents to the ED with 2 weeks of fever, fatigue, weight loss, and dry cough. He recently returned from a spelunking trip in Missouri and reports inhaling dust in a bat-infested cave. Vital signs are a T of 38.6 °C (101.5 °F), BP of 118/74 mm Hg, HR of 102 bpm, RR of 22/min, and SpO2 of 95% on room air.
+    ANSWER: “You are likely to fully recover with or without treatment.”   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-131] A 4-year-old unimmunized boy presents to the emergency department with the rash shown above. This was accompanied by fever, sore throat, and decreased activity for the last 24 hours. The rash is pruritic and appears to be in different stages of development. Which of the following is the most common complication of this disease requiring hospitalization at this age?
+    ANSWER: Bacterial skin infection   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-132] Which of the following is the most appropriate first-line regimen for the treatment of systemic toxoplasmosis in a nonpregnant, immunocompetent patient?
+    ANSWER: Pyrimethamine plus clindamycin and leucovorin for 2 weeks   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-133] A 25-year-old man with a medical history of acquired immunodeficiency syndrome presents with fever, confusion, and neck stiffness. Kernig and Brudzinski tests are positive. A lumbar puncture is performed with an opening pressure > 55 cm H2O. Cerebrospinal fluid studies grow budding yeast with large capsules under India ink stain. Which of the following is the recommended therapy?
+    ANSWER: Amphotericin B and flucytosine   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-134] A 72-year-old woman presents to the ED with 2 days of fever, dysuria, and suprapubic discomfort. Her medical history includes type 2 diabetes mellitus, hypertension, and a urinary tract infection 4 weeks ago caused by a bacterium that produced extended-spectrum beta-lactamase. She completed a 10-day course of oral antibiotics at that time and has not been hospitalized since.
+    ANSWER: Review her prior urine culture results   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-135] A 27-year-old man presents to the ED with a fever, cough, and malaise for the past 7 days. The patient does not have housing and is known to use IV drugs. His temperature is 102°F (38.9°C), blood pressure is 97/48 mm Hg, and heart rate is 120 bpm. An ultrasound is performed demonstrating a vegetation on the tricuspid valve, and a chest radiograph demonstrates interstitial infiltrates.
+    ANSWER: Pseudomonas aeruginosa   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-136] A 6-year-old vaccinated girl presents to the emergency department with a fever after recently returning from an international trip. She has had fevers up to 40.1°C every other day for the last week, along with nonspecific symptoms of nausea and headache. Her temperature is 36.8°C, heart rate 168 bpm, respiratory rate 26/min, and blood pressure is 104/82 mm Hg.
+    ANSWER: Plasmodium vivax   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-137] A 43-year-old man presents with 2 days of worsening blurry vision and trouble swallowing. His heart rate is 72 bpm, respiratory rate is 18/min, blood pressure is 130/70 mm Hg, temperature is 98°F (36.7°C), and oxygen saturation is 99% on room air. He is fully alert and oriented, although his speech is dysarthric.
+    ANSWER: Equine botulinum antitoxin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-138] A 37-year-old man presents to the ED with joint pain and a rash, as well as fever, fatigue, and malaise. He states that his joint pain has affected different joints over the past week. The patient has a medical history of IV drug use and is currently sexually active. His temperature is 100°F (37.8°C), blood pressure is 117/68 mm Hg, and heart rate is 100 bpm.
+    ANSWER: Ceftriaxone and doxycycline   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-139] A 34-year-old man presents to the emergency department with a 5-day history of cyclical fevers, chills, headache, and fatigue. He recently returned from a trip to Central America, where he was primarily staying in rural areas.
+    ANSWER: Malaria   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-140] A 3-year-old boy with a history of severe asthma presents in the winter with 1 day of fever, cough, rhinorrhea, and decreased appetite. Multiple family members are sick with the same symptoms, and one was diagnosed with influenza. His T is 38.5°C (101.3°F), HR is 110 bpm, RR is 22/min, and SpO2 is 98% on room air.
+    ANSWER: Administer oral oseltamivir   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-141] A 62-year-old man presents to the ED in July with 5 days of fever, malaise, and dark urine. He returned from a trip to coastal New England 1 week ago. Vital signs include T of 38.8°C (101.8°F), BP of 108/64 mm Hg, HR of 104 bpm, RR of 18/min, and SpO2 of 98% on room air. Examination reveals scleral icterus and mild splenomegaly.
+    ANSWER: Thick and thin blood smear   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-142] A 37-year-old man presents with persistent fever and night sweats. He reports weight loss, frequent diarrhea, malaise, and poor appetite. He has a history of HIV but has resisted taking antiretroviral therapy. In addition to antiretroviral therapy, which of the following medications is indicated?
+    ANSWER: Clarithromycin, ethambutol, and rifabutin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-143] A 25-year-old man presents to the emergency department with a fever, headache, and confusion. He is brought by his roommates and is unable to offer a history. His T is 103°F (39.4°C), BP is 75/40 mm Hg, HR is 152 bpm, RR is 29/min, and SpO2 is 95% on room air. Physical exam reveals the rash above. The patient is given 2 L of normal saline and started on a norepinephrine drip.
+    ANSWER: Neisseria meningitidis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-144] A 36-year-old man with untreated HIV presents to the ED with progressive headache, nausea, photophobia, and intermittent confusion over the past week. He reports no focal weakness or recent trauma. He has a T of 38.3°C (100.9°F). On examination, he is oriented to person only and has neck stiffness but no focal neurologic deficits.
+    ANSWER: Repeat lumbar puncture   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-145] Which of the following animals is the leading cause of rabies transmission in the United States?
+    ANSWER: Bats   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-146] A 2-year-old boy presents with fever, rash, and decreased oral intake. His vital signs are within normal limits. On physical exam, he is irritable but appears well-hydrated. Scattered papules and vesicles are noted on the hands, feet, and buttocks, and there are vesicles on the buccal mucosa and soft palate. What is the best next step in management?
+    ANSWER: Nonsteroidal anti-inflammatory agent and oral hydration   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-147] A 30-year-old man presents to the ED with 3 weeks of diarrhea. He reports colicky abdominal pain associated with frequent episodes of pale, loose, foul-smelling stools. He returned from a camping trip in New Hampshire 1 month prior. His vital signs are temperature 37.1°C, heart rate 85 bpm, and blood pressure 125/80 mm Hg.
+    ANSWER: Metronidazole 250 mg tid for 7 days   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-148] A 62-year-old woman with a history of a recent complicated intra-abdominal infection treated with a prolonged course of cefepime and who has a history of colonization with extended-spectrum beta-lactamase-producing organisms presents to the ED with a new onset of fever and a purulent, erythematous, and tender peripherally inserted central catheter insertion site.
+    ANSWER: Ertapenem   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-149] A 15-year-old girl presents with fever after returning from a trip to Africa. She states that she has been getting fevers every 3 days for the last 10 days. Vital signs include a blood pressure of 110/70 mm Hg, heart rate of 78 bpm, respiratory rate of 16/min, oxygen saturation of 99% on room air, and temperature of 100.8°F. What test will confirm a diagnosis of malaria?
+    ANSWER: Thick and thin smears   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-150] How can rubella infection be clinically differentiated from rubeola infection?
+    ANSWER: Infection with rubella is generally mild and not associated with significant complications   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-151] Which medication is the drug of choice for the parenteral treatment of severe, complicated malaria in the United States?
+    ANSWER: Artesunate   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-152] A 58-year-old man with type 2 diabetes mellitus presents to the ED with worsening left facial pain, eye swelling, and nasal congestion over the past 4 days. He was recently treated for diabetes-related ketoacidosis. On examination, he appears acutely ill. Vital signs are a T of 38.8°C (101.8°F), HR of 122 bpm, BP of 136/82 mm Hg, RR of 24/min, and SpO2 of 98% on room air.
+    ANSWER: No, person-to-person transmission does not occur   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-153] A healthy 25-year-old man presents to the ED with a rash on his trunk, extremities, and palms bilaterally, accompanied by lymphadenopathy and general malaise. He had a painless ulcerative penile lesion several weeks ago that resolved without treatment. The exam shows normal vital signs and 1 cm macules on his palms, arms, chest, and upper back. What treatment regimen is indicated for this patient?
+    ANSWER: Penicillin IM once   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-154] A 16-year-old girl presents to your rural emergency department with a fever and a rash that began only 24 hours ago. She also reports headache, muscle pain, vomiting, and diarrhea. She has a temperature of 39.4°C, a heart rate of 140 bpm, and a blood pressure of 87/49 mm Hg. She has diffuse erythroderma with some skin peeling over her palms and mucous membrane redness.
+    ANSWER: Genitourinary examination   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-155] A 35-year-old man presents to the ED for altered mental status. His roommate reports he has had a cough, headache, and vomiting for 2 weeks. He has a history of intravenous drug use. CT of the head with and without contrast reveals no acute findings. A lumbar puncture is performed and demonstrates elevated protein, notably low glucose, and a WBC count with lymphocyte predominance.
+    ANSWER: Cryptococcus neoformans   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-156] A 72-year-old man presents to the ED in mid-August in the US with a fever, headache, malaise, and progressive weakness over the past 5 days. His medical history includes diabetes, hypertension, and chronic kidney disease. On exam, he is febrile (38.7°C), has a coarse tremor, and exhibits flaccid paralysis in his right upper and lower extremities with intact sensation.
+    ANSWER: Supportive care with admission for monitoring   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-157] A 49-year-old man presents to the emergency department with weakness and trouble speaking. He believes he has food poisoning after consuming home-canned vegetables. While his vital signs are being obtained, the patient is noted to have mild dysarthria and drooling. He has 4/5 strength in his upper extremities. Which of the following treatments is most likely to be helpful?
+    ANSWER: Antitoxin   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-158] A 23-year-old man presents to the emergency department with a fever and mental status changes. According to his sibling, he was involved in a motor vehicle collision 4 weeks ago and underwent splenectomy because of uncontrolled bleeding in that area. He improved during his hospital stay and did not have other complications from the collision or injury.
+    ANSWER: Streptococcus pneumoniae   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-159] A 16-year-old boy with no medical history presents to the ED after a syncopal episode. The patient was playing football prior to arrival when he caught the ball and collapsed. He was awake and alert within 30 seconds but reports abdominal pain. He reports a 1-week history of a sore throat and fatigue.
+    ANSWER: Epstein-Barr virus infection   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-160] A 38-year-old man with a history of HIV presents to the ED with hemoptysis and fever. He reports associated weight loss, night sweats, and hemoptysis. Which of the following tests is the best for ruling out the most likely diagnosis?
+    ANSWER: Culture of bodily secretion or fluid   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-161] A 12-year-old boy presents to the ED with fever and a rash. He was at a friend’s house, playing outdoors, 4 days prior. The patient has the finding shown above. Which of the following is the therapy of choice?
+    ANSWER: Doxycycline   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-162] A 62-year-old man presents to the ED with a painful, erythematous lesion on his left thigh that developed over the past 2 days. He describes it as warm, swollen, and tender to the touch. He reports a subjective fever at home. He has a history of type 2 diabetes mellitus and undergoes hemodialysis three times per week for end-stage kidney disease.
+    ANSWER: Two   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-163] A 22-year-old man presents to the emergency department after cutting his hand on a gardening tool. He states the tool was old and that the wound became contaminated with soil and debris. He has no other medical concerns. He reports that he had immigrated to this country recently and has never received any vaccinations.
+    ANSWER: Tdap vaccination, tetanus immune globulin, and referral to complete the vaccination series   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-164] A 29-year-old woman with a history of diabetes presents to the emergency department after a house fire. She is intubated and sedated upon arrival. Physical exam reveals a mix of superficial and deep partial burns spanning a total of 45% total body surface area. Her abdomen reveals a gravid uterus with the fundus just above the umbilicus.
+    ANSWER: Tetanus toxoid and tetanus immunoglobulin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-165] A 44-year-old woman reports 12 hours of left-sided facial droop and left ear pain. Examination reveals complete left-sided paralysis of her face and vesicular lesions in her left external auditory canal. What is the most likely cause of her symptoms?
+    ANSWER: Varicella zoster virus   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-166] A 10-year-old girl, fully vaccinated including for influenza, with chronic persistent asthma presents to the emergency department with a 3-day history of fever, cough, and nasal congestion. She is there with her 5-month-old sister who has a fever and mild cough. Their history, vital signs, and physical exams are otherwise unremarkable.
+    ANSWER: Prescribe both children oral influenza antivirals   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-167] An 18-year-old man presents to the ED near where he resides in southern Missouri, reporting fever and shortness of breath for 2 weeks. His temperature is 37.5°C, heart rate is 107 bpm, blood pressure is 115/76 mm Hg, respiratory rate is 22/min, and oxygen saturation on room air is 94%. He is a construction worker whose hobbies include hiking, caving, and hunting.
+    ANSWER: Histoplasma capsulatum   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-168] A 55-year-old woman with diabetes mellitus, hypertension, and peripheral vascular disease presents to the ED with extreme leg pain, tachycardia, and confusion. She sustained a superficial laceration on her left lateral leg while cleaning out a shed 2 days ago. Her left leg is exquisitely tender to touch with brownish skin. An X-ray of her leg is shown above.
+    ANSWER: Clindamycin and surgery   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-169] A 76-year-old woman was discharged from the ED a few days ago after evaluation for a mechanical ground-level fall. She was afebrile during her visit and reported no urinary symptoms. Her medical history includes type 2 diabetes mellitus and hypertension. A urinalysis performed during the ED visit showed leukocyte esterase and nitrites.
+    ANSWER: No further antibiotic therapy is needed   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-170] A previously healthy 3-year-old boy presents with malaise. He recently arrived in the U.S. after emigrating from Afghanistan, where he did not have access to childhood vaccinations. His parents state that he was well until yesterday when he developed a maculopapular rash on the head and neck and wanted to be carried everywhere. He has had a mild cough and eye redness.
+    ANSWER: Arthralgias   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-171] A 13-year-old boy presents with a rash. He was recently seen at an urgent care clinic 2 days ago with throat pain and fever and prescribed amoxicillin for presumed streptococcal pharyngitis. His symptoms did not improve, and today he developed a diffuse rash. His parent is concerned about a possible allergic reaction, as the patient’s brother has a severe peanut allergy.
+    ANSWER: Heterophile antibody test   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-172] A 55-year-old woman presents to the ED with 3 days of left ear pain, followed by a vesicular rash in her left ear canal and progressive facial weakness on the same side. She reports difficulty closing her left eye, drooping of the mouth, and loss of taste on the anterior part of the tongue.
+    ANSWER: Grade VI   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-173] A 32-year-old man presents to the ED with 3 days of fever, chills, nausea, and vomiting after returning from a 2-week trip to Brazil. He reports myalgias and yellowing of his eyes that began earlier today. On examination, he is alert and oriented. Vital signs are a T of 39.6°C (103.3°F), BP of 105/70 mm Hg, HR of 88 bpm, RR of 18/min, and SpO2 of 98% on room air.
+    ANSWER: Enveloped single-stranded RNA virus   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-174] A 10-year-old boy develops a progressive rash associated with fever. The parents note the fever began approximately 18 hours earlier, and the rash, which they describe as tender bruises, began to appear randomly on his body over the past 8 hours. The rash shown above on his right leg and left shoulder is also scattered on various locations of his body.
+    ANSWER: Platelet count, international normalized ratio, Sequential Organ Failure Assessment score   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-175] A 25-year-old man presents to the ED with shortness of breath. He attended a political rally 2 days ago that was held in an enclosed space where he and others were exposed to a suspicious powder released into the air. Since yesterday, he has been experiencing increasing malaise, muscle aches, and a dry cough that has now progressed to significant respiratory distress.
+    ANSWER: Ciprofloxacin, meropenem, and doxycycline   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-176] A 14-year-old previously healthy boy is brought to the ED with 2 days of fever, fatigue, and a rapidly spreading pruritic rash. His parents report that the rash began on his chest and has since spread to his face and extremities. He has not received any childhood vaccines since early infancy. On examination, he is febrile and appears uncomfortable.
+    ANSWER: Oral acyclovir for 5 days   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-177] A 6-year-old unvaccinated boy presents with a fever and rash. The fever started 3 days ago, followed by a rash that started on the head and spread to the rest of the body. Examination reveals a well-appearing child with a maculopapular rash and posterior cervical lymphadenopathy. Which of the following is the most likely causative pathogen for this disease?
+    ANSWER: Rubella virus   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-178] A 10-year-old boy presents with lethargy and vomiting. His parent states the patient had 3 days of cough, rhinorrhea, sore throat, and fever, during which time the nanny had been giving the patient an effervescent over-the-counter medicine to help with his upset stomach. He seemed to be doing much better for a few days, until this morning when he became confused and agitated and vomited.
+    ANSWER: Aspirin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-179] Which of the following is most suggestive of roseola?
+    ANSWER: Abrupt resolution of high fever followed by a maculopapular rash that spreads from trunk to extremities   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-180] A 75-year-old man presents to the emergency department with altered mental status. His spouse presents with him and states he has had a cough for the past 2 weeks that has progressively worsened in intensity and frequency over 6 days. When she went to wake him up this morning, he was minimally responsive, and she called 911.
+    ANSWER: Administer hydrocortisone and levothyroxine   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-181] An 84-year-old man presents from a nursing home with lethargy and a fever. He is unable to provide any history. The transfer record reports a new cough and chills and a hospitalization 2 months ago for a urinary tract infection when he was treated with IV antibiotics before discharge back to the nursing home.
+    ANSWER: Cefepime, vancomycin, and azithromycin   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-182] A 51-year-old man presents to the ED with leg pain. He has a medical history of hypertension treated with losartan and type 2 diabetes treated with metformin. Vital signs include a BP of 105/80 mm Hg, HR of 122 bpm, RR of 18/min, and T of 38.4°C (101.1°F). Fingerstick blood glucose is 445 mg/dL. On physical exam, the patient’s leg is edematous and tender to palpation.
+    ANSWER: Begin antibiotics and consult general surgery   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-183] A 40-year-old man from the southeastern US presents to the ED for several days of fever and myalgias. He is an avid outdoorsman and hunter, and he noted a lone star tick bite 1 week ago after a hunting trip. Examination is significant only for a temperature of 102.2°F (39.0°C). Laboratory studies reveal a WBC count of 3.5/µL and platelet count of 75,000/µL.
+    ANSWER: Oral doxycycline for 14 days   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-184] A 66-year-old man presents to the ED in respiratory distress. His medical history is significant for hypertension and chronic obstructive pulmonary disease. His spouse states he was well up until 1 week ago when he started having a cough and fever. Vital signs are T of 40°C, HR 138 bpm, BP 85/50 mm Hg, RR 35/min, and SpO2 88%. The patient has rales in his right lower lung field.
+    ANSWER: Dynamic assessment of fluid responsiveness   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-185] A 20-year-old woman presents to the emergency department with a fever after camping in Tennessee 1 week ago. She reports myalgias and increasing fatigue. Vital signs are a BP of 125/70 mm Hg, HR of 110 bpm, RR of 18/minute, SpO2 of 99% on room air, and T of 101.5°F (38.6ºC).
+    ANSWER: Doxycycline   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-186] Which of the following is the most frequently reported wildlife species associated with rabies in the United States?
+    ANSWER: Bats   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-187] A 6-year-old girl presents to the ED with her parent for fevers and rash. The parent noticed the rash pictured above on the patient a few days after returning from a camping trip in New York. Which of the following is the recommended treatment for this patient’s condition?
+    ANSWER: Doxycycline   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-188] A 57-year-old man with a history of acute myeloid leukemia undergoing induction chemotherapy presents to the ED with fever, dyspnea, and pleuritic chest pain for 4 days. He reports no recent travel. His medications include prophylactic ciprofloxacin and acyclovir. Vital signs are a T of 38.7 °C (101.7 °F), BP of 112/68 mm Hg, HR of 118 bpm, RR of 26/min, and SpO2 of 94% on room air.
+    ANSWER: Invasive aspergillosis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-189] A 7-year-old boy presents with a fever, cough, runny nose, and conjunctivitis for 3 days, followed by the above pictured rash that initially appeared on his face. Exam of his oral mucosa reveals pinpoint gray spots. Which of the following is the most likely diagnosis?
+    ANSWER: Measles   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-190] A 28-year-old G2P1 woman at 12 weeks gestation presents with a rash after a weekend of camping with her spouse. Vital signs are within normal limits. Physical exam shows the findings above. Which of the following is the most appropriate treatment for this patient’s condition?
+    ANSWER: Oral amoxicillin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-191] A 35-year-old man with recently diagnosed human immunodeficiency syndrome presents for evaluation due to a positive tuberculin skin test of 5 mm. The patient feels well and reports no recent cough, fever, weight loss, night sweats, or hemoptysis. His CD4 count is 650/µL. He reports no previous diagnosis of tuberculosis. A sputum culture sent earlier was negative. His chest radiograph is normal.
+    ANSWER: Isoniazid and rifampin for 3 months   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-192] A biological attack has struck a nearby metropolitan area, and cases of smallpox have begun to develop outside the containment zone. A 52-year-old woman presents due to concern for exposure. She notes an episode of fever, myalgias, and vomiting starting 1 week ago. What is the earliest mucocutaneous finding expected to develop if her symptoms are due to smallpox infection?
+    ANSWER: Oral enanthem   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-193] A 36-year-old woman presents to the ED with a rash that began 1 day ago. She also reports lightheadedness and muscle aches. Her medical history includes chronic rhinosinusitis for which she underwent endoscopic sinus surgery 5 days ago. Vital signs are a T of 39.3°C (102.7°F), BP of 82/48 mm Hg, HR of 124 bpm, RR of 22/min, and SpO2 of 96% on room air.
+    ANSWER: Linezolid and clindamycin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-194] A 23-year-old man presents to the emergency department with an abrasion on his right hand and painful lymph nodes in his right axilla. The patient sustained several scratches from his kitten on his hand. He has no other concerns and otherwise feels well. Exam reveals a small area of erythema over a scratch on his hand. Tender lymph nodes are palpated in the right axillary region.
+    ANSWER: Bartonella henselae   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-195] An 8-year-old unvaccinated boy presents with a fever for 3 days. He had a fever, cough, and nasal congestion 2 days ago, and this morning, he developed a rash that started on his face. Vital signs are a T of 102.1°F, HR of 124 bpm, RR of 24/min, and SpO2 of 99%. Examination reveals red maculopapular lesions over the face, neck, and chest. You also note conjunctivitis. He otherwise appears well.
+    ANSWER: Supportive care   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-196] Which of the following best describes the classic presentation of botulism?
+    ANSWER: Cranial nerve palsies and descending motor weakness   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-197] A 2-day-old infant presents to the emergency department with fever, poor feeding, and irritability. She was born at home at 38 weeks gestation. Which of the following is the most likely pathogen associated with this patient's illness?
+    ANSWER: Group B Streptococcus   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-198] Which of the following findings on history or physical examination is most consistent with Rocky Mountain spotted fever?
+    ANSWER: Centripetal rash   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-199] A 54-year-old man with a history of HIV and recent CD4 count of 85 presents with headache for 3 days. The patient’s sister says that he has been increasingly confused over the last 3 days. While in the Emergency Department, he has a seizure which resolves spontaneously. Electrolytes are within normal limits. A CT scan is performed and is shown above.
+    ANSWER: Pyrimethamine, sulfadiazine, and leucovorin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-200] A 17-year-old girl presents with the above rash a week after hiking in the woods. She reports no tick bite. She otherwise has no symptoms. What management is indicated?
+    ANSWER: Doxycycline 100 mg twice a day for 3 weeks   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-201] A 5-year-old boy presents to the emergency department with rash, fever, headache, and diffuse joint pain. He has a history of sickle cell anemia. On physical exam, his cheeks appear bright red. This infection places the patient at risk of developing which of the following serious complications?
+    ANSWER: Bone marrow suppression   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-202] Which of the following substances interferes with laboratory testing for GI parasites?
+    ANSWER: Bismuth subsalicylate   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-203] A 4-year-old girl presents to the emergency department with the above rash. It does not itch and is minimally painful. It began about a week ago and has slowly been increasing in size. Which of the following is the most likely diagnosis for the rash?
+    ANSWER: Erythema migrans   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-204] A 62-year-old man is brought to the ED with fever, productive cough, and confusion. He is hypotensive despite an initial 1 L crystalloid bolus given by EMS en route. His weight is 70 kg. Which of the following is the best initial intravenous fluid treatment strategy in the ED for this patient?
+    ANSWER: Lactated Ringer solution 1,100 mL   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-205] Which of these symptoms are most suggestive of Ramsay Hunt syndrome?
+    ANSWER: Ear pain, facial paralysis, hearing loss   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-206] A 24-year-old man presents with abrupt onset of fever, malaise, and headache 6 days ago. Yesterday, he noticed a red rash on his ankles which has since spread to his trunk. On examination, he has a temperature of 39.1°C. He has a diffuse petechial rash. He is alert and oriented with no nuchal rigidity and a normal neurological exam.
+    ANSWER: Rickettsia rickettsii   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-207] A 30-year-old woman presents to the ED after being sexually assaulted 4 months ago. Today, she is concerned she may have a sexually transmitted infection. On physical exam, she is noted to have a diffuse macular rash and moist broad-based papular lesions on her external genitalia. Which of the following tests is most likely to confirm the diagnosis?
+    ANSWER: Fluorescent treponemal antibody absorption   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-208] An 18-month-old girl presents to the ED with a fever of 104.9°F (40.5°C). She tests positive for influenza and is discharged with a prescription for oseltamivir. Which of the following is the most accurate way to describe how this medication works?
+    ANSWER: It prevents the release of virus from infected cells   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-209] In which of the following patients is oseltamivir most indicated for the treatment of influenza A or B virus infection?
+    ANSWER: 32-year-old woman with a history of psoriasis on methotrexate with 4 days of symptoms   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-210] A 5-year-old boy is brought to the clinic with 2 days of fever and rash. His vital signs include a temperature of 100.9°F, a heart rate of 108/min, a respiratory rate of 22/min, a blood pressure of 96/58 mm Hg, and an oxygen saturation of 99% on room air. Examination reveals a well-appearing child with marked erythema to both cheeks, as seen above.
+    ANSWER: Acetaminophen   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-211] A 42-year-old man with a history of HIV presents to the emergency department with acute vision loss. He reports noncompliance with his antiretrovirals, and review of his chart shows that his most recent CD4 count 1 year ago was 63 cells/mm3. Funduscopy shows white perivascular lesions with areas of hemorrhage.
+    ANSWER: Ganciclovir   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-212] A 12-year-old patient presents to the ED for evaluation of a swollen lump in the axilla, as shown above. The swelling has been present for about 3 weeks, is painful, and seems to be increasing in size. The patient has had intermittent fevers as high as 100.9°F (38.3°C) and increased fatigue. There is no one at home with similar symptoms.
+    ANSWER: Bartonella henselae   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-213] A 3-year-old boy presents to the emergency department with decreased appetite and fever. Vital signs are a BP of 88/50 mm Hg, HR of 110 beats per minute, RR of 18 breaths per minute, and T of 101.9°F (38.3ºC). On physical exam, you note the oral lesions seen above. Which of the following is the most likely causative agent?
+    ANSWER: Coxsackievirus A   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-214] Which scenario describes a patient with the highest likelihood of rapidly developing rabies?
+    ANSWER: 30-year-old man bitten on the face by a raccoon   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-215] An 8-year-old boy is brought to the emergency department after the parents saw a bat in his room when they went to wake him up this morning. The child has no symptoms. No obvious bite marks are seen on the child. What is the best next step in management?
+    ANSWER: Give rabies immunoglobulin 20 IU/kg and the first dose of the rabies vaccine 1 mL IM with instructions to have repeat vaccine doses on days 3, 7, and 14   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-216] A 36-year-old man presents to the ED with a 2-week history of fatigue, dry cough, fever, and pleuritic chest pain. He recently returned from a camping trip in the California Central Valley. He reports night sweats and unintentional weight loss of 4 lbs (1.8 kg). Vital signs are normal except a T of 38.1°C (100.6°F). His chest radiograph is shown above. Basic laboratory studies are unremarkable.
+    ANSWER: Enzyme immunoassay for IgM and IgG antibodies   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-217] A 19-year-old man presents to the ED, accompanied by his parents, with fever and headache. He has no significant medical history, takes no medications, and has not traveled outside of the US recently. He has been outdoors for much of the summer and frequently has mosquito bites. He reported myalgias and nausea 2 days ago, and last night, he developed a fever with a severe headache.
+    ANSWER: West Nile virus meningitis   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-218] A 6-year-old boy presents to the emergency department with a fever, cough, and malaise. He recently participated in a cultural event in which he played animal skin drums that were later discovered to be contaminated with Bacillus anthracis. The patient is well appearing, with vital signs that are normal for his age. The chest X-ray shows a widened mediastinum.
+    ANSWER: Intravenous ciprofloxacin, doxycycline, and meropenem   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-219] A 20-year-old woman presents to the ED with a fever. Her vital signs are BP 70/40 mm Hg, HR 120 bpm, RR 22/min, SpO2 99% on room air, and T 101°F (38.3°C). On physical exam, she has diffuse erythroderma. Which of the following physical exam findings would be most consistent with this disease process?
+    ANSWER: Retained vaginal foreign body   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-220] A 7-year-old girl presents with a rash. Her parent states it appeared 7 days after hiking through the woods near their home in New Jersey. The patient has no known drug allergies. Vital signs include BP of 100/76 mm Hg, HR of 105 bpm, RR of 22/min, SpO2 of 100%, and T of 99.0°F. Physical examination reveals the rash shown above.
+    ANSWER: Doxycycline   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-221] What is the most common and most recognizable presentation of tularemia?
+    ANSWER: An erythematous and tender papule or ulcer with regional lymphadenopathy   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-222] A 28-year-old man is brought to the ED by EMS after being found confused, short of breath, and coughing up blood. He recently returned from a trip and was at a major train station 36 hours ago, and several other patients from the same location are arriving with similar symptoms.
+    ANSWER: Plague   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-223] A 3-day-old, full-term girl presents to the ED with her parent for evaluation of a rash over the umbilicus. She was born at home with the aid of a certified nurse midwife. The mother was recently hospitalized for chorioamnionitis. The patient's parent reports the infant has been very irritable this morning and has not fed well since last night.
+    ANSWER: Gentamicin, metronidazole, and vancomycin   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-224] A 2-year-old girl is brought in by her parent, who says the girl had a high fever for 3 days that has now subsided. The parent also mentions noticing a pink rash on the girl’s trunk and neck this morning. The patient appears well and is playful and alert.
+    ANSWER: Human herpesvirus 6   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-225] A 7-year-old boy presents to the emergency department with a rash. He has had a mild fever at home but no respiratory symptoms. Vitals signs are BP of 100/60 mm Hg, HR of 90 beats per minute, RR of 18 breaths per minute, and T of 100.9°F. On physical exam, you note the above rash and postauricular and suboccipital lymphadenopathy.
+    ANSWER: Pregnant patients   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-226] A 15-month-old boy is brought to the ED with painful mouth lesions and decreased oral intake for 2 days. His parent reports that the child has been fussy and has had a low-grade fever. On examination, the patient is febrile with a temperature of 38.7°C (101.7°F) and appears uncomfortable. There are several vesicular and ulcerated lesions on the lips, gingiva, tongue, and buccal mucosa.
+    ANSWER: Direct contact with infected oral secretions   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-227] A 25-year-old man presents with generalized body aches and a rash, as shown above. Which of the following ocular manifestations may result during the progression of his condition?
+    ANSWER: Keratitis   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-228] Which of the following is the most common cause of death in unvaccinated children infected with measles?
+    ANSWER: Pneumonia   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-229] Which of the following STIs has the highest rate of cotransmission with HIV infection?
+    ANSWER: Treponema pallidum   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-230] A 29-year-old man presents to the ED in Arizona with a rash, fever, and bilateral calf pain. On physical exam, you note a maculopapular rash. It began on the wrists and ankles and spread centrally. Vital signs are BP 100/65 mm Hg, HR 130 bpm, RR 18/minute, and T 103.2°F (39.6ºC). Which of the following is the most appropriate treatment for the most likely diagnosis?
+    ANSWER: Doxycycline   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-231] A 75-year-old woman with a medical history of hypertension and congestive heart failure presents with fever and leg pain. Her vital signs are a T of 102°F (38.9°C), BP of 85/50 mm Hg, HR of 123 bpm, RR of 22/min, and SpO2 of 96% on room air. On exam, her left calf is erythematous, warm, and tender to touch.
+    ANSWER: Norepinephrine   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-232] A 3-year-old unvaccinated boy presents to the emergency department with 2 days of fever and a rash that began yesterday. His symptoms include malaise, decreased appetite, eye redness, coryza, and cough. He recently returned with his family from a trip to Europe. While in Europe, he finished a course of amoxicillin for otitis media.
+    ANSWER: Measles   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-233] A 32-year-old man presents to the ED with 6 days of fever, sore throat, and generalized malaise. He also reports retrosternal chest pain, abdominal discomfort, and recent-onset decreased hearing in both ears. He recently returned from visiting family in rural Sierra Leone. On examination, he appears acutely ill.
+    ANSWER: Lassa virus infection   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-234] A 24-year-old man presents with 5 days of fevers, chills, myalgias, nausea, and malaise. He noticed a pink rash on his ankles and wrists yesterday, which today spread to his chest, abdomen, and back. Vital signs are BP 122/58 mm Hg, RR 20/min, HR 102 bpm, SpO2 98% on room air, and T 39.6°C.
+    ANSWER: Rocky Mountain spotted fever   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-235] A man with diabetes mellitus arrives in the ED with a hand laceration sustained while preparing raw shellfish. Hemorrhagic bullae are noted immediately proximal to the wound site. Which of the following organisms is most likely responsible?
+    ANSWER: Vibrio vulnificus   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-236] Which of the following organs is involved in the life cycle of malaria in humans?
+    ANSWER: Liver   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-237] An 18-year-old woman presents to the ED with a diffuse erythematous rash that started yesterday. She was seen at a local urgent care 3 days ago for a sore throat, fatigue, and low-grade fever. She was started on amoxicillin pending the results of her throat culture. On examination, she has posterior pharyngeal erythema with tonsillar exudates and a diffuse maculopapular rash.
+    ANSWER: Splenomegaly   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-238] A 32-year-old woman with no significant medical history presents to the ED with a 1-week history of bloody diarrhea and abdominal cramping. She states that her partner is having similar symptoms but does not want to come to the hospital. Their symptoms started 2 days after they shared a meal at their favorite fried chicken restaurant.
+    ANSWER: Discharge home with ciprofloxacin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-239] A 14-year-old girl presents to the ED with agitation, hallucinations, and myalgias. Her father notes she has been sick recently with a viral upper respiratory illness. Upon attempting to drink water, she begins to choke and retch violently. Which of the following exposures is the most likely cause of her symptoms?
+    ANSWER: Skunk bite   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-240] A 25-year-old man who has a history of intravenous drug use is brought to the emergency department with a fever and confusion. His T is 104°F (40°C), BP is 95/50 mm Hg, HR is 133 bpm, RR is 19/min, and SpO2 is 93% on room air. The patient is started on fluids and broad-spectrum antibiotics.
+    ANSWER: Lactic acid   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-241] A 27-year-old woman presents to the ED in the evening, 5 days after returning from a trip to Puerto Rico. She reports a fever for the past 2 days (including a temperature of 38.6°C earlier that morning), headache, retro-orbital pain, and severe arthralgias and myalgias. After she defervesced, she noticed a pink, blanching, lacy rash that began on her trunk and spread to her extremities.
+    ANSWER: Dengue fever   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-242] A 16-year-old boy with no medical history presents to the ED with a headache. A few hours ago, he developed a generalized headache and neck pain accompanied by photophobia and nausea. The physical exam is notable for neck stiffness and the rash seen above. Temperature is 40.8°C, heart rate is 131 bpm, respirations are 24/min, and blood pressure is 91/50 mm Hg.
+    ANSWER: Ceftriaxone   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-243] A 21-year-old man presents with a macular rash on his palms and soles. He recalls a red mark on his penis last month but did not seek evaluation. Which is the most appropriate treatment?
+    ANSWER: Penicillin   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-244] A 30-year-old woman with no significant medical history presents with fever, rash, and diarrhea. She recently underwent rhinoplasty and has nasal packing in place. Her vital signs are a T of 102.5°F (39.2°C), BP of 85/50 mm Hg, HR of 135 bpm, RR of 22/min, and SpO2 of 95% on room air. On physical exam, she appears ill but is alert and oriented. She has a diffuse erythematous macular rash.
+    ANSWER: Suppression of bacterial toxin production   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-245] A 26-year-old man presents to the emergency department with fevers, chills, malaise, and joint pain that started in his right knee 4 days ago and is now in his left wrist. On exam, his temperature is 39.0°C, and he looks ill.
+    ANSWER: Gonococcemia   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-246] A 21-year-old woman presents to the ED with cyclical fevers after traveling through Thailand. On physical exam, you note mosquito bites and moderate hepatomegaly. Which of the following laboratory abnormalities would you expect to find?
+    ANSWER: Low haptoglobin   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-247] A 2-day-old term male newborn is brought to the ED with lethargy and poor feeding. The mother had rupture of membranes 24 hours before delivery and an intrapartum fever of 38.9°C (102.0°F). Which of the following is the best next step in care?
+    ANSWER: Obtain a blood culture and give ampicillin and gentamicin   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-248] A 3-day-old newborn presents to the ED with right eye redness and copious purulent discharge. A physical examination is demonstrated above. Pupils are 2 mm and reactive to light. Extraocular motion is intact. What treatment is indicated at this time?
+    ANSWER: Intravenous ceftriaxone   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-249] A 72-year-old man living in a skilled nursing facility presents with altered mental status. He has a blood pressure of 88/50 mm Hg, oxygen saturation of 92%, and rectal temperature of 101.1°F (38.4°C). On physical exam, he is lethargic but responds to verbal stimuli.
+    ANSWER: WBC count of 13,000/µL with 76% neutrophils, 10% lymphocytes, and 12% bands   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-250] Which of the following patients meets systemic inflammatory response syndrome criteria?
+    ANSWER: 25-year-old woman with T 98.0ºF (36.7ºC), HR 94 bpm, RR 22/min, and BP 120/80 mm Hg   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-251] A 21-year-old woman presents with sudden onset of right-sided hearing loss for 1 day. She also has severe vertigo associated with nausea and vomiting. The patient reports upper respiratory infection symptoms over the previous 3 days. Currently, she feels fullness and mild otalgia in her right ear and abnormal taste when she eats food.
+    ANSWER: Prednisone and acyclovir   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-252] Which of the following is most consistent with a diagnosis of neurosyphilis?
+    ANSWER: Reactive rapid plasma reagin titer and diminished visual acuity   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-253] A 25-year-old woman presents with an acute onset of vomiting and diarrhea tonight. She thinks she ate some bad food earlier because she was well before and now she cannot control the vomiting. When she vomits, she ends up having diarrhea at about the same time. She reports crampy abdominal pain. She reports no fever or blood in her stool.
+    ANSWER: Bacillus cereus   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-254] A healthy 38-year-old man presents to the emergency department for evaluation of a rash on his arm. He has had the rash for approximately 5 weeks and completed a course of trimethoprim-sulfamethoxazole without any improvement of his symptoms. He has not had any known bug bites and works as a florist.
+    ANSWER: Itraconazole   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-255] A 16-month-old boy presents to the emergency department with a rash. According to his parent, the child has been febrile and ill over the last few days. His fever was as high as 104.8℉ (40.4ºC) 2 days ago, but it has been improving.
+    ANSWER: Supportive care and acetaminophen as needed   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-256] A 31-year-old woman presents to the emergency department for vaginal lesions. She has had them for 1 week and she thinks they are warts. She reports no pain. Physical examination shows flat, white, velvety, wart-like lesions on both sides of the vulva and perineum.
+    ANSWER: Rapid plasma reagin test   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-257] A 2-week-old girl presents with a fever. She was born at 38 weeks gestation, and the pregnancy was complicated by being small for gestational age. Her birth was a planned C-section, and her delivery was uncomplicated. Her exam is remarkable only for a rectal temperature of 39.4°C (102.9°F). Serum blood cultures and a urine culture are obtained.
+    ANSWER: Cerebral spinal fluid cell count result   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-258] A community is currently affected by a bioterrorist incident. Affected patients are presenting to the ED with high fevers, followed 1 to 2 days later by a maculopapular rash with lesions in the same stage of development. What is the most likely causative biological warfare agent?
+    ANSWER: Variola major   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-259] Which of the following is the most common laboratory abnormality seen in ehrlichiosis?
+    ANSWER: Leukopenia   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-260] A 24-year-old man presents to the emergency department with fatigue, aches, and fevers that have been worsening over the past 7 days. He states his symptoms started after a vacation to Hawaii, where he participated in many outdoor activities. He is otherwise healthy. His T is 104°F (40°C), BP is 100/62 mm Hg, HR is 132 bpm, RR is 21/min, and SpO2 is 97% on room air.
+    ANSWER: Leptospira interrogans   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-261] A 23-year-old man presents to the emergency department for a new-onset rash over 12 hours. He reports having a sore throat, malaise, and a mild cough for 2 days. He visited urgent care yesterday and was given an antibiotic for which he cannot remember the name. Today he developed a rash over his entire body. He is afebrile with normal vital signs.
+    ANSWER: Infectious mononucleosis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-262] A 45-year-old man presents to the emergency department with the above lesion on his arm that he noticed 2 days ago. It does not hurt or itch. Initially, the lesion was small, but it has expanded, so he came to the emergency department for evaluation. He does not know of any new exposures. He was hiking with his children a few weeks ago but does not remember anything remarkable about the hike.
+    ANSWER: Lyme disease   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-263] Which of the following patients may obtain the most benefit from treatment with oseltamivir twice a day for 5 days during influenza season?
+    ANSWER: A 73-year-old woman with a history of arthritis diagnosed with influenza A after 3 days of symptoms   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-264] A 10-year-old boy is brought to the ED by his parent for evaluation of a tender lump in the right axilla. His parent reports that the boy was scratched on the hand by a kitten 2 weeks ago. The scratch has healed, but he has since developed fatigue and a mild fever. On examination, there is a 2 cm tender, mobile lymph node in the right axilla without overlying erythema or fluctuance.
+    ANSWER: Complete resolution in 2–4 months   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-265] A 25-year-old woman presents to the ED with nausea, vomiting, and nonbloody diarrhea. She reports the symptoms started about 2 hours after she ate at a picnic. On examination, she appears nontoxic but is actively vomiting. Her abdominal exam is notable for hyperactive bowel sounds and mild, diffuse tenderness without signs of peritonitis.
+    ANSWER: Bacillus cereus   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-266] A parent presents to the ED with their 6-week-old infant for evaluation of a fever. The infant was born full term and has no other symptoms. Physical exam is normal and vital signs are HR is 160 bpm, SpO2 is 99%, and a rectal T is 101.4°F (38.6°C).
+    ANSWER: Oral antibiotics and discharge home with close outpatient follow-up   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-267] Several individuals have presented to your ED with lesions similar to those shown above over the last 2 days. Each patient reports a prodrome of fever, malaise, and back pain. Upon further investigation, it is noted that they all travel on the same subway route at a similar time each day. Which of the following is a hallmark of this disease process?
+    ANSWER: Lesions appear at the same stage of development   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-268] A 29-year-old previously healthy man presents to the ED with fever, myalgias, and a dry cough that began 4 days ago. He recently returned from a hiking trip in rural New Mexico, where he stayed in an old cabin and discovered a dead rodent inside. He now appears ill and is in moderate respiratory distress.
+    ANSWER: Supportive care with cardiorespiratory support   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-269] A 37-year-old man with a known history of uncontrolled diabetes mellitus, human immunodeficiency virus without current antiretroviral therapy, and ongoing intravenous heroin use presents to the emergency department reporting 3 days of worsening fevers, lethargy, sinus pain, purulent nasal discharge, and facial swelling.
+    ANSWER: Amphotericin B   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-270] A 1-year-old boy is brought to the emergency department for a rash. His parent states the child has had a fever for the past 3 days. The fever resolved, and he appears much better today, according to the parent, but then he developed the rash, as seen above. His T is 97°F (36.1°C), BP is 95/60 mm Hg, HR is 90 bpm, RR is 15/min, and SpO2 is 100% on room air.
+    ANSWER: Roseola infantum   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-271] A 68-year-old man presents to the ED with 2 days of left-sided facial pain, tearing, and sensitivity to light. He reports developing a painful vesicular rash confined to the tip of his nose earlier today. Physical examination shows crusted vesicles limited to the nasal tip. What is the most common ocular complication associated with this patient's condition?
+    ANSWER: Keratitis   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-272] A 65-year-old man presents with left leg pain. He reports progressive erythema and pain of his left lower leg after cutting it while working on his car. His examination is notable for a 5 x 5 cm area of induration and erythema with yellow purulent drainage. The area is warm to touch and tender to palpation.
+    ANSWER: Doxycycline   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-273] A 12-month-old girl presents with the above rash that developed after 3 days of high fevers. The fever has subsided, and she has no other symptoms of illness. Which of the following is the most appropriate advice to give to this family?
+    ANSWER: She can return to daycare immediately   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-274] A 33-year-old man with a past medical history of HIV and a CD4 count of 40 cells/µL presents to the ED with generalized weakness. He stopped taking all of his medications last month due to financial issues. He states he has experienced fever, night sweats, abdominal pain, and profuse diarrhea for the past week.
+    ANSWER: Azithromycin, rifabutin, and ethambutol   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-275] A 24-day-old female infant is brought to the ED for rectal temperature of 38.4°C (101.1°F). She appears well, is feeding normally, and has vital signs within normal limits for her age. Which of the following is necessary to avoid a lumbar puncture in this patient?
+    ANSWER: Normal serum inflammatory markers   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-276] A 65-year-old man presents with 48 hours of burning left flank pain that radiates to the epigastrium. He reports no dysuria or recent trauma. His vital signs are within normal limits. The pain is worse with light palpation. He has hyperesthesia to touch along the left flank. No rash or costovertebral angle tenderness is present. The remainder of his physical exam is unremarkable.
+    ANSWER: Herpes zoster   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-277] A 58-year-old man presents to the ED with severe fever and chills, a diffuse headache, abdominal cramping, nausea and vomiting, and general weakness with lethargy. He returned from a lengthy business trip to Central America 6 days ago and has been experiencing such symptoms every 3 days. He notes he had some generalized irregular fever while in Central America but did not seek help at that time.
+    ANSWER: Malaria   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-278] Which of the following foodborne bacteria causes illness through a preformed toxin?
+    ANSWER: Bacillus cereus   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-279] A 54-year-old man with HIV presents with a fever. He is not aware of his CD4 count. Which of the following is predictive of the lowest CD4 count?
+    ANSWER: Azithromycin on medication list   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-280] A 41-year-old woman presents to the ED with fever, cough, headache, and confusion. She works as a nurse and recently cared for a patient diagnosed with a viral encephalitis after travel to Bangladesh. Several health care workers from the same ward have developed similar symptoms.
+    ANSWER: Person-to-person transmission via respiratory secretions   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-281] A 27-year-old woman who is 12 weeks pregnant presents to the ED after returning from a 2-week trip to Puerto Rico. She reports low-grade fever, arthralgias, myalgias, and a pruritic maculopapular rash for 2 days. She reports no vaginal bleeding or abdominal pain. Vital signs are within normal limits.
+    ANSWER: Serum Zika virus IgM antibody and serum and urine reverse transcription polymerase chain reaction   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-282] A 6-year-old child presents to the ED with a several-week history of a progressively worsening, pruritic, patchy rash on their scalp. The examination is shown above. No pustules or significant tenderness are noted. Which of the following is the most appropriate initial treatment for this patient?
+    ANSWER: Oral griseofulvin   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-283] A 27-day-old female infant is brought to the emergency department for evaluation of a fever. The parents state that the patient was born full term without any pregnancy or delivery complications. Today, the child was noted to be hot to the touch and had a rectal temperature of 102.1°F (38.9°C). The parents report no other symptoms besides the fever.
+    ANSWER: Perform a lumbar puncture   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-284] A 27-year-old woman presents to the ED with fever, arthralgias, and copious bloody stool. She states she recently returned from Uganda. Vital signs are a T of 102.3°F (39.1°C), BP of 92/64 mm Hg, HR of 120 bpm, and RR of 24/min. For which of the following should you have a high index of suspicion in this patient?
+    ANSWER: Ebola virus   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-285] Which of the following is the typical examination finding in cutaneous anthrax?
+    ANSWER: Painless black eschar surrounded by edema   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-286] A previously healthy 4-year-old girl presents to the ED after a 6-minute generalized tonic-clonic seizure. Her parents state that, over the past 2 days, the patient appeared drowsy and seemed to be off-balance when she walked. Vital signs are an HR of 130 bpm, RR of 24/min, and T of 39.5°C (103.1℉). On exam, you note the findings seen in the image above, which are limited to the mouth.
+    ANSWER: Perform head CT scan and lumbar puncture, and administer IV acyclovir   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-287] A 70-year-old woman presents to the emergency department with continued cough, shortness of breath, and fever. She has had symptoms for almost 1 week and seems to be worsening. She was diagnosed with influenza in her primary clinician's office at the beginning of the week and has been taking all necessary medications to help with her symptoms.
+    ANSWER: Staphylococcus aureus   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-288] A 65-year-old man presents to the emergency department with dysuria, increased urinary frequency, and a recent history of hospitalization for prostate surgery. He was on oral ciprofloxacin for a week following his surgical procedure.
+    ANSWER: Meropenem   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-289] A 60-year-old patient with a history of chronic lymphoblastic leukemia currently undergoing chemotherapy presents to the ED with the above facial findings. He reports no trauma but has vision changes and headaches. His vital signs are within normal limits for his age. He does not have any other skin findings on examination. Which of the following is the best next step in management at this time?
+    ANSWER: Liposomal amphotericin B   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-290] Which of the following best describes the expected clinical presentation of a patient with Chlamydia pneumoniae infection?
+    ANSWER: Subacute onset of nonproductive cough, hoarseness, and interstitial infiltrates   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-291] A 45-year-old man with a known history of HIV presents to the ED with fever, weight loss, night sweats and diarrhea. He states he has been off his antiretroviral therapy for the last 6 months. On physical exam he appears cachectic. He is febrile with diffuse, tender lymphadenopathy and hepatosplenomegaly. Laboratory analysis reveals a CD4 count < 50 cells/μL. What is the most likely diagnosis?
+    ANSWER: Disseminated Mycobacterium avium complex   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-292] A 51-year-old man with diabetes presents with perineal pain and fever. Physical examination reveals crepitus along the scrotum and left inner thigh. Which of the following is the best next step in management?
+    ANSWER: Clindamycin, vancomycin, piperacillin-tazobactam, and surgical consultation   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-293] A 34-year-old man presents to the emergency department with facial flushing, nausea, vomiting, and palpitations after eating tuna just 1 hour prior to presentation. His vital signs are T of 36.7°C, HR of 120 bpm, BP of 130/70 mm Hg, and RR of 18/min. On physical exam, he appears diaphoretic and anxious. He has normal bowel sounds and no abdominal tenderness on exam.
+    ANSWER: Histamine fish poisoning   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-294] A 3-year-old unvaccinated boy is brought to the ED with a 4-day history of high fever, cough, rhinorrhea, and red eyes. His parents report that he has become increasingly irritable and developed a rash that began on his face and is now spreading downward.
+    ANSWER: Small white spots on the buccal mucosa with an erythematous base   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-295] You have been asked to review blood culture results at the start of your morning ED shift. Which of the following is most likely to be a contaminant?
+    ANSWER: Coagulase-negative Staphylococcus   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-296] A 32-year-old woman with a history of diabetes is brought to the ED with rapidly progressive erythema of the left thigh after sustaining an abrasion the previous day. She reports severe, relentless pain at the site. Her vital signs are a T of 38.7°C (101.7°F), BP of 84/52 mm Hg, HR of 122 bpm, RR of 24/min, and SpO2 of 98% on room air.
+    ANSWER: Streptococcal toxic shock syndrome   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-297] A 31-year-old man presents to the ED with fever, rigors, myalgias, and a dry cough for 1 day. He works at a pet store but mainly spends time with the birds and fish, not the dogs and cats. He does not have any significant medical history. His vital signs are a T of 38.9°C (102°F), HR of 124 bpm, BP of 111/68 mm Hg, RR of 24/min, and SpO2 of 98% on room air.
+    ANSWER: Doxycycline   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-298] A 45-year-old man with a history of recent kidney transplant presents with a painful vesicular rash. He is adherent to his antirejection therapy. He has an erythematous, vesicular rash extending from his left axilla to his left hip. A chest X-ray shows a left pleural effusion. You are concerned about disseminated disease.
+    ANSWER: Reduces visceral complications   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-299] A 30-year-old man presents to the ED after a wild animal bit his finger. After obtaining history and completing the physical exam, the patient receives tetanus immunoglobulin and vaccine. While explaining rabies to the patient, he asks how the virus spreads from the bite area to his brain. Which of the following is the correct explanation?
+    ANSWER: Retrograde axonal transport   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-300] A 45-year-old man presents to the emergency department with stiffness in his neck, trunk, and extremities. His partner reports that he was reporting lockjaw and some muscle aches yesterday. He cut his hand with a hunting knife about a week ago, but it has been healing without issue. His vital signs are T 38.2°C, HR 120 bpm, BP 180/100 mm Hg, and RR 22/min.
+    ANSWER: Impairment of inhibitory neurotransmitter release   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-301] A 52-year-old man presents to the emergency department with a fever and confusion after placement of nasal tampon packing for a significant nosebleed 4 days ago. His T is 102°F (38.9°C), BP is 85/40 mm Hg, HR is 132 bpm, RR is 22/min, and SpO2 is 98% on room air. Physical examination reveals diffuse blanching erythroderma.
+    ANSWER: Staphylococcus aureus   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-302] A 2-year-old unvaccinated child presents to the ED with a 6-day history of fever (up to 104.5°F [40.3°C]), cough, runny nose, and red eyes, followed by a maculopapular rash that started on the face 3 days ago and has spread to the trunk and extremities. On examination, you note Koplik spots on the buccal mucosa, a generalized rash, and mild dehydration.
+    ANSWER: Oral vitamin A supplementation   (key E)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-303] A 73-year-old woman with an indwelling Foley catheter is sent for evaluation from the nursing home because of fever. Which of the following is a criterion for systemic inflammatory response syndrome?
+    ANSWER: Respiratory rate 22/min   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-304] A 63-year-old patient who is currently undergoing chemotherapy for breast cancer presents after being sent in by her oncologist for positive blood cultures. The blood cultures showed gram-positive cocci in clusters in two bottles. She had a fever 2 days ago when the cultures were drawn. Other than generalized fatigue and mild nausea, she has been asymptomatic.
+    ANSWER: Vancomycin   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-305] A 36-year-old man presents to the ED with fever, headache, and diffuse myalgias that began 4 days ago. He recently returned from a hiking trip in western North Carolina. His vital signs are a T of 38.9°C (102.0 F), BP of 102/68 mm Hg, HR of 110 bpm, and RR of 18/min.
+    ANSWER: Endothelial cell invasion with subsequent vascular injury   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-306] Which of the following patients requires human rabies immune globulin?
+    ANSWER: A person who was not previously vaccinated awakens to find a bat in his room, and animal was not captured   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-307] A 24-year-old medical student presents to the emergency department with a fever. She reports returning from a trip to Mozambique 1 week ago. She has had subjective fevers, chills, myalgias, and a cough for a week, which she attributed to a viral infection. She seeks evaluation now because she is having nausea and vomiting, generalized weakness, and confusion.
+    ANSWER: Thick and thin blood smears   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-308] You have a patient in whom you suspect influenza. It is best to provide treatment within 48 hours of symptom onset, but treatment is recommended as early as possible for patients at high risk for complications from the illness.
+    ANSWER: The patient has a history of diabetes   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-309] Which of the following is the appropriate treatment for a 4-year-old child with suspected ehrlichiosis?
+    ANSWER: Doxycycline   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-310] An 18-day-old male infant is brought into the ED for agitation and vomiting. He was born via uncomplicated spontaneous vaginal delivery. His vital signs are T 102.2°F (39°C), HR 140 bpm, RR 34/min, BP 84/55 mm Hg, and SpO2 100% on room air. He is ill-appearing and has delayed capillary refill, normal muscle tone, and no jaundice. Which of the following is the best initial therapy?
+    ANSWER: Ampicillin and cefotaxime   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-311] A 21-year-old man presents to the ED with a sore throat, low-grade fever, and swelling in his neck for 3 days. He is nontoxic-appearing with normal vital signs. On the oropharyngeal exam, he has significant symmetric tonsillar swelling with diffuse exudates. He also has bilateral cervical lymphadenopathy in the neck.
+    ANSWER: B lymphocytes   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-312] A 36-year-old man with known HIV infection presents with 2 weeks of headache, confusion, and fever. He has no focal neurologic deficits on exam. CD4 count is 45 cells/µL. A head CT is performed. What imaging findings are most expected in this patient?
+    ANSWER: Multiple ring-enhancing lesions predominantly at the gray-white matter junction   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-313] Which of the following populations of patients has the greatest risk of severe neurologic complications from the influenza virus, such as encephalopathy, encephalitis, and aseptic meningitis?
+    ANSWER: Children unvaccinated for influenza and naive to the virus   (key B)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-314] A 45-year-old man presents to the emergency department with swelling, pain, and a reddish-purple area over his lateral calf that has worsened over the last 4 hours. The patient and his family were caught in heavy evacuation traffic from severe river flooding in the Southeast and finally made it to a hospital. When leaving his home, the patient cut his leg on something in the mud.
+    ANSWER: Clostridium perfringens   (key A)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-315] A 6-year-old girl presents to the ED with 4 days of fever, mild headache, and fatigue. Yesterday she developed a facial rash, as shown above. She is also noted to have a reticular rash on her trunk that her parent states started this morning. Which of the following is the most likely cause of her symptoms?
+    ANSWER: Human parvovirus B19   (key C)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-316] Which of the following is commonly seen in patients during the initial period of infection with yellow fever?
+    ANSWER: Transaminitis   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-317] A 4-year-old boy with hereditary spherocytosis presents to the ED with fever, rash, and fatigue. He had a fever for 4 days, which resolved before he developed the rash depicted above. During his evaluation, he is found to have a hemoglobin level of 5 g/dL and an undetectable reticulocyte count. Which of the following is the most likely cause of this patient’s illness?
+    ANSWER: Parvovirus B19 infection   (key D)
+[ROSH rosh-em-initial-2026-systemic-infectious-disorders-q-318] A 7-year-old boy presents to the clinic with a history of fatigue, headache, rhinorrhea, and chills for 3 days. He has no significant past medical history and does not take any daily medications. Vital signs include a T of 38.0°C (100.4°F), HR of 108 bpm, RR of 18/min, SpO2 of 98% on room air, and BP of 100/65 mm Hg. Physical examination reveals the above finding.
+    ANSWER: Parvovirus B19   (key D)

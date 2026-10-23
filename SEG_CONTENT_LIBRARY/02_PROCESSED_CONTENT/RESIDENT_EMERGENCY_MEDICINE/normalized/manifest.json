@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-24T20:51:38.785Z",
+  "total": 13950,
+  "duplicatesRemoved": 5204,
+  "canonicalFields": [
+    "Question_ID",
+    "Question",
+    "Options",
+    "Answer",
+    "CorrectAnswer",
+    "ExplanationEN",
+    "ExplanationAR",
+    "Source",
+    "Chapter",
+    "Category",
+    "Difficulty",
+    "ClinicalScenario",
+    "Page",
+    "References",
+    "ReviewStatus",
+    "Provenance"
+  ]
+}

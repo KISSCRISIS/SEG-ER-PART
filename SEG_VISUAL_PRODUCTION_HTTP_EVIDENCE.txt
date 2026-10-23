@@ -1,0 +1,113 @@
+=== SEG target HTTP evidence ===
+UTC 2026-08-15T22:09:36Z
+
+--- GET / ---
+HTTP/2 200 
+date: Sat, 15 Aug 2026 22:09:40 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a2bb865d39fdc78a-AMM
+accept-ranges: bytes
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+expires: 0
+last-modified: Sat, 15 Aug 2026 17:00:30 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+pragma: no-cache
+x-cloud-trace-context: b319d35ecece019f492eb72fc8af552d;o=1
+x-manus-proxy-mode: transparent/1
+x-powered-by: Express
+
+BODY_BYTES:370331
+BODY_PREFIX:
+<!doctype html> <html lang="en">   <head>     <meta charset="UTF-8" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <meta name="theme-color" content="#0B1120" />     <meta name="description" content="SEG — Smart Emergency Guide medical learning platform." />    
+
+--- GET /register ---
+HTTP/2 200 
+date: Sat, 15 Aug 2026 22:09:44 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a2bb867a4f58e834-AMM
+accept-ranges: bytes
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+expires: 0
+last-modified: Sat, 15 Aug 2026 17:00:30 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+pragma: no-cache
+x-cloud-trace-context: d0dae5daf1c3893f2ac013faade283e8
+x-manus-proxy-mode: transparent/1
+x-powered-by: Express
+
+BODY_BYTES:370347
+BODY_PREFIX:
+<!doctype html> <html lang="en">   <head>     <meta charset="UTF-8" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <meta name="theme-color" content="#0B1120" />     <meta name="description" content="SEG — Smart Emergency Guide medical learning platform." />    
+
+--- GET /login ---
+HTTP/2 200 
+date: Sat, 15 Aug 2026 22:09:48 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a2bb86947bbee834-AMM
+accept-ranges: bytes
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+expires: 0
+last-modified: Sat, 15 Aug 2026 17:00:30 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+pragma: no-cache
+x-cloud-trace-context: 21e8bd236193074d2ac013faade284d7
+x-manus-proxy-mode: transparent/1
+x-powered-by: Express
+
+BODY_BYTES:370341
+BODY_PREFIX:
+<!doctype html> <html lang="en">   <head>     <meta charset="UTF-8" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <meta name="theme-color" content="#0B1120" />     <meta name="description" content="SEG — Smart Emergency Guide medical learning platform." />    
+
+--- GET /dashboard ---
+HTTP/2 200 
+date: Sat, 15 Aug 2026 22:09:53 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a2bb86af2e6a78e2-AMM
+accept-ranges: bytes
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+expires: 0
+last-modified: Sat, 15 Aug 2026 17:00:30 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+pragma: no-cache
+x-cloud-trace-context: 9d2660b73cc1ac4e80a6765985339823;o=1
+x-manus-proxy-mode: transparent/1
+x-powered-by: Express
+
+BODY_BYTES:370349
+BODY_PREFIX:
+<!doctype html> <html lang="en">   <head>     <meta charset="UTF-8" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <meta name="theme-color" content="#0B1120" />     <meta name="description" content="SEG — Smart Emergency Guide medical learning platform." />    
+
+--- GET /healthz ---
+HTTP/2 404 
+date: Sat, 15 Aug 2026 22:09:57 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a2bb86cc3ec72891-AMM
+server: cloudflare
+referrer-policy: no-referrer
+x-manus-proxy-mode: transparent/1
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+
+BODY_BYTES:1568
+BODY_PREFIX:
+<!DOCTYPE html> <html lang=en>   <meta charset=utf-8>   <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">   <title>Error 404 (Not Found)!!1</title>   <style>     *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:1
+
+--- selected deployed assets ---
+ASSET /assets/index-QumL5cbf.js
+status=200 type=text/javascript; charset=utf-8 bytes=575851 url=https://seg-guide-bjjkqn7t.manus.space/assets/index-QumL5cbf.js
+ASSET /assets/index-DYmvRKgr.css
+status=200 type=text/css; charset=utf-8 bytes=221202 url=https://seg-guide-bjjkqn7t.manus.space/assets/index-DYmvRKgr.css
+ASSET /manus-storage/seg-landing-official-lockup-transparent_a6d5e55a.png
+status=200 type=image/png bytes=31411 url=https://d36hbw14aib5lz.cloudfront.net/310519663823040962/bJJKQn7TeiDnuBKJ9JTNte/seg-landing-official-lockup-transparent_a6d5e55a.png?Expires=1786835409&Signature=BS3ZM9McrhpUjUtDhmabdch154Jjz5CHD7wXcfgmwkClluUR3tYzx5hpc~nkjE9NYnUrFtEouEBHlLb1PSeMdvJG-YqIrefCB14GRYG0wxwp-JnlYIrcuDWXuMoPkx-ouvVQpM46CHSwdh6EVjAKwllOCzHf7joxOqzbimuDaXCTztQKRy9TiHrmN9kHvgcnp9O8gE38cWnsV6eMabe68KeB6B783TU0bWaQchF8b~PtFgLO7Zp3w0JpAVs7RP-Vhrw2YUcoNJ3h-9qsqhAvT20R6eCVwFzAhW3sfbgtjW9kR0UXv9INtN5fzkSbXzmfaXawfV3B5wvxb5PaQTgMuQ__&Key-Pair-Id=K1MP89RTKNH4J
+ASSET /manus-storage/SEG_Registration_Approved_Heart_ECG_Stage_4079b3c9.png
+status=200 type=image/png bytes=241399 url=https://d36hbw14aib5lz.cloudfront.net/310519663823040962/bJJKQn7TeiDnuBKJ9JTNte/SEG_Registration_Approved_Heart_ECG_Stage_4079b3c9.png?Expires=1786835413&Signature=HWv1gxXKUn0FhwyIlou-Q6fJTuP5vO6T-cUujV8t6OfopSFGwrfPime3B2jCfnMJXCGfpJHlnZ30-1hkKcRbL6ZEvDR8eurcfbX0aplmFrk1o86Kk9ftuvwOPFLzuPAjJm6G73ySkCTRbF6QDhOdcBVA2BTdawZuqn9saNCECdErypbOXoujaT9GvCFD4bpPtLqIH45LCKV7KnC4DZumbzs-mMcf3adeJzg3RSshZqqHZlDAdikMoMCy~vnTiB54PZ6Uiiz2uwoYWrJ196sVJ5gv11WOkvgBEsDyyZFcszwMrOf05iaSgJSjzO7XDTJxXm8LroR1-1b~P08KuBSJdg__&Key-Pair-Id=K1MP89RTKNH4J
+ASSET /manus-storage/SEG_Login_Official_Lockup_Transparent_Approved_d46ab5c8.png
+status=200 type=image/png bytes=179244 url=https://d36hbw14aib5lz.cloudfront.net/310519663823040962/bJJKQn7TeiDnuBKJ9JTNte/SEG_Login_Official_Lockup_Transparent_Approved_d46ab5c8.png?Expires=1786835416&Signature=SxsQcesdcNFiWK3UAAdRZiuN8EKoHF4OV8-WKi2IaV1ESLFA8fN2S3YYRKihCoNM1F2wRlBTAqhYwUII7Nz3QjgfV5gZ1q~TsqVnnJDeEm8QDjcmiSBKQC4GvqqJiavW2WDPvrKU1AFpC7iyq7vyD1iP7EmW~r~CJgY~CZrrby4e0XMnkehwmVvkXyrChkcW9qpwCcVxv4DU72-ptJkvFoq63g62yTi~v3P3mJ6ceUnq7-R4qBUcmdqpCpKSoogFvN6pgTTmEmdo11yU69NR8~lX9glzxFkx4JxXkF6KeKXZiic4zY1eFPiDkmtqCTIAClf1Bd6e86~vAVJLHTU6Xg__&Key-Pair-Id=K1MP89RTKNH4J

@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14T22:02:25.661Z",
+  "origin": "SEG Phase 4-D Content Intelligence Foundation",
+  "topics": [
+    {
+      "topicId": "EM_CRIT_ARREST",
+      "topicName": "Cardiac Arrest",
+      "system": "Resuscitation & Critical Care",
+      "systemId": "critical-care",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_CRIT_SHOCK",
+      "topicName": "Shock Approach",
+      "system": "Resuscitation & Critical Care",
+      "systemId": "critical-care",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_CRIT_ANAPHYLAXIS",
+      "topicName": "Anaphylaxis",
+      "system": "Resuscitation & Critical Care",
+      "systemId": "critical-care",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_CARDIO_ACS",
+      "topicName": "Acute Coronary Syndrome",
+      "system": "Cardiovascular",
+      "systemId": "cardiovascular",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "topicName": "Cardiac Tamponade",
+      "system": "Cardiovascular",
+      "systemId": "cardiovascular",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_RESP_ASTHMA",
+      "topicName": "Acute Asthma Exacerbation",
+      "system": "Respiratory",
+      "systemId": "respiratory",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_RESP_COPD",
+      "topicName": "COPD Exacerbation",
+      "system": "Respiratory",
+      "systemId": "respiratory",
+      "priority": "Medium",
+      "blueprintWeight": {
+        "value": "Medium",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_RESP_PNEUMOTHORAX",
+      "topicName": "Pneumothorax / Tension Pneumothorax",
+      "system": "Respiratory",
+      "systemId": "respiratory",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_RESP_PE",
+      "topicName": "Pulmonary Embolism",
+      "system": "Respiratory",
+      "systemId": "respiratory",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "topicName": "Primary Trauma Survey (ABCDE)",
+      "system": "Trauma",
+      "systemId": "trauma",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_TRAUMA_TBI",
+      "topicName": "Traumatic Brain Injury",
+      "system": "Trauma",
+      "systemId": "trauma",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_NEURO_STROKE",
+      "topicName": "Acute Stroke",
+      "system": "Neurology",
+      "systemId": "neurology",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_NEURO_STATUS",
+      "topicName": "Status Epilepticus",
+      "system": "Neurology",
+      "systemId": "neurology",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_GI_ABD_PAIN",
+      "topicName": "Acute Abdominal Pain Approach",
+      "system": "Gastrointestinal",
+      "systemId": "gastrointestinal",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_GI_BLEED",
+      "topicName": "GI Bleeding",
+      "system": "Gastrointestinal",
+      "systemId": "gastrointestinal",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_ID_SEPSIS",
+      "topicName": "Sepsis / Septic Shock",
+      "system": "Infectious Diseases",
+      "systemId": "infectious-disease",
+      "priority": "Very High",
+      "blueprintWeight": {
+        "value": "Very High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_ENDO_DKA_HHS",
+      "topicName": "DKA / HHS",
+      "system": "Endocrinology",
+      "systemId": "endocrinology",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_ENDO_HYPERK",
+      "topicName": "Hyperkalemia",
+      "system": "Endocrinology",
+      "systemId": "endocrinology",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_ENDO_HYPO",
+      "topicName": "Hypoglycemia",
+      "system": "Endocrinology",
+      "systemId": "endocrinology",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_TOX_OPIOID",
+      "topicName": "Opioid Overdose",
+      "system": "Toxicology",
+      "systemId": "toxicology",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_OBGYN_ECTOPIC",
+      "topicName": "Ectopic Pregnancy",
+      "system": "Obstetrics & Gynecology",
+      "systemId": "obstetrics-gynecology",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_PEDS_FEVER",
+      "topicName": "Pediatric Fever Approach",
+      "system": "Pediatrics",
+      "systemId": "pediatrics",
+      "priority": "Medium",
+      "blueprintWeight": {
+        "value": "Medium",
+        "basis": [
+          "Rosen",
+          "Tintinalli"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_HEME_ANEMIA_COAG",
+      "topicName": "Hematologic Anemia & Coagulation",
+      "system": "Hematology",
+      "systemId": "hematologic",
+      "priority": "High",
+      "blueprintWeight": {
+        "value": "High",
+        "basis": [
+          "Evidence: Qbank Hematologic 182 Qs (Tintinalli 39, Hippo 75, FRCEM 56, Oxford 10) — not a blueprint claim"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_DERM_RASH",
+      "topicName": "Dermatologic Rash & Cutaneous Emergencies",
+      "system": "Dermatology",
+      "systemId": "dermatology",
+      "priority": "Medium",
+      "blueprintWeight": {
+        "value": "Medium",
+        "basis": [
+          "Evidence: Qbank Cutaneous/Dermatology 116 Qs (Tintinalli Dermatology 17, Hippo Cutaneous 73, FRCEM Dermatology 21, Oxford Dermatology 5) — not a blueprint claim"
+        ]
+      },
+      "status": "under-review"
+    },
+    {
+      "topicId": "EM_ENV_HEAT_COLD",
+      "topicName": "Environmental Heat & Cold Injuries",
+      "system": "Environmental",
+      "systemId": "environmental",
+      "priority": "Medium",
+      "blueprintWeight": {
+        "value": "Medium",
+        "basis": [
+          "Evidence: Qbank Environmental 134 Qs (Tintinalli Environmental Injuries 20, Hippo Environmental 74, FRCEM Environmental 40) — not a blueprint claim"
+        ]
+      },
+      "status": "under-review"
+    }
+  ]
+}

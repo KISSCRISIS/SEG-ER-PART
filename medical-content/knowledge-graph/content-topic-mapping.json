@@ -1,0 +1,767 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14T04:08:32.691Z",
+  "origin": "Deterministic Phase 4-E.2 join; no guessed mappings",
+  "mappings": [
+    {
+      "contentId": "ALG_CARDIAC_ARREST",
+      "contentType": "algorithm",
+      "topicId": "EM_CRIT_ARREST",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_CARDIAC_ARREST_001",
+      "contentType": "examPearl",
+      "topicId": "EM_CRIT_ARREST",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_CARDIAC_ARREST_002",
+      "contentType": "examPearl",
+      "topicId": "EM_CRIT_ARREST",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_CARDIAC_ARREST_003",
+      "contentType": "examPearl",
+      "topicId": "EM_CRIT_ARREST",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_CARDIAC_ARREST_001",
+      "contentType": "table",
+      "topicId": "EM_CRIT_ARREST",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_SHOCK_APPROACH",
+      "contentType": "algorithm",
+      "topicId": "EM_CRIT_SHOCK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_SHOCK_APPROACH_001",
+      "contentType": "examPearl",
+      "topicId": "EM_CRIT_SHOCK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_SHOCK_APPROACH_002",
+      "contentType": "examPearl",
+      "topicId": "EM_CRIT_SHOCK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_SHOCK_APPROACH_001",
+      "contentType": "table",
+      "topicId": "EM_CRIT_SHOCK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_SEPSIS_SEPTIC_SHOCK",
+      "contentType": "algorithm",
+      "topicId": "EM_ID_SEPSIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_SEPSIS_SEPTIC_SHOCK_001",
+      "contentType": "examPearl",
+      "topicId": "EM_ID_SEPSIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_SEPSIS_SEPTIC_SHOCK_002",
+      "contentType": "examPearl",
+      "topicId": "EM_ID_SEPSIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_SEPSIS_SEPTIC_SHOCK_003",
+      "contentType": "examPearl",
+      "topicId": "EM_ID_SEPSIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_SEPSIS_SEPTIC_SHOCK_001",
+      "contentType": "table",
+      "topicId": "EM_ID_SEPSIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_SEPSIS_SEPTIC_SHOCK_002",
+      "contentType": "table",
+      "topicId": "EM_ID_SEPSIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_ACUTE_CORONARY_SYNDROME",
+      "contentType": "algorithm",
+      "topicId": "EM_CARDIO_ACS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_CORONARY_SYNDROME_001",
+      "contentType": "examPearl",
+      "topicId": "EM_CARDIO_ACS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_CORONARY_SYNDROME_002",
+      "contentType": "examPearl",
+      "topicId": "EM_CARDIO_ACS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_ACUTE_CORONARY_SYNDROME_001",
+      "contentType": "table",
+      "topicId": "EM_CARDIO_ACS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_CARDIAC_TAMPONADE",
+      "contentType": "algorithm",
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_CARDIAC_TAMPONADE_001",
+      "contentType": "examPearl",
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_CARDIAC_TAMPONADE_002",
+      "contentType": "examPearl",
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_CARDIAC_TAMPONADE_001",
+      "contentType": "table",
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_ACUTE_ASTHMA",
+      "contentType": "algorithm",
+      "topicId": "EM_RESP_ASTHMA",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_ASTHMA_001",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_ASTHMA",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_ASTHMA_002",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_ASTHMA",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_ACUTE_ASTHMA_001",
+      "contentType": "table",
+      "topicId": "EM_RESP_ASTHMA",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_COPD_EXACERBATION",
+      "contentType": "algorithm",
+      "topicId": "EM_RESP_COPD",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_COPD_EXACERBATION_001",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_COPD",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_COPD_EXACERBATION_002",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_COPD",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_COPD_EXACERBATION_003",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_COPD",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_COPD_EXACERBATION_001",
+      "contentType": "table",
+      "topicId": "EM_RESP_COPD",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_PNEUMOTHORAX",
+      "contentType": "algorithm",
+      "topicId": "EM_RESP_PNEUMOTHORAX",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PNEUMOTHORAX_001",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_PNEUMOTHORAX",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PNEUMOTHORAX_002",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_PNEUMOTHORAX",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_PNEUMOTHORAX_001",
+      "contentType": "table",
+      "topicId": "EM_RESP_PNEUMOTHORAX",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_PULMONARY_EMBOLISM",
+      "contentType": "algorithm",
+      "topicId": "EM_RESP_PE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PULMONARY_EMBOLISM_001",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_PE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PULMONARY_EMBOLISM_002",
+      "contentType": "examPearl",
+      "topicId": "EM_RESP_PE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_PULMONARY_EMBOLISM_001",
+      "contentType": "table",
+      "topicId": "EM_RESP_PE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_PRIMARY_TRAUMA_SURVEY",
+      "contentType": "algorithm",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PRIMARY_TRAUMA_SURVEY_001",
+      "contentType": "examPearl",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PRIMARY_TRAUMA_SURVEY_002",
+      "contentType": "examPearl",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_PRIMARY_TRAUMA_SURVEY_001",
+      "contentType": "table",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_TRAUMATIC_BRAIN_INJURY",
+      "contentType": "algorithm",
+      "topicId": "EM_TRAUMA_TBI",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_TRAUMATIC_BRAIN_INJURY_001",
+      "contentType": "examPearl",
+      "topicId": "EM_TRAUMA_TBI",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_TRAUMATIC_BRAIN_INJURY_002",
+      "contentType": "examPearl",
+      "topicId": "EM_TRAUMA_TBI",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_TRAUMATIC_BRAIN_INJURY_001",
+      "contentType": "table",
+      "topicId": "EM_TRAUMA_TBI",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_ACUTE_STROKE",
+      "contentType": "algorithm",
+      "topicId": "EM_NEURO_STROKE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_STROKE_001",
+      "contentType": "examPearl",
+      "topicId": "EM_NEURO_STROKE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_STROKE_002",
+      "contentType": "examPearl",
+      "topicId": "EM_NEURO_STROKE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_ACUTE_STROKE_001",
+      "contentType": "table",
+      "topicId": "EM_NEURO_STROKE",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_STATUS_EPILEPTICUS",
+      "contentType": "algorithm",
+      "topicId": "EM_NEURO_STATUS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_STATUS_EPILEPTICUS_001",
+      "contentType": "examPearl",
+      "topicId": "EM_NEURO_STATUS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_STATUS_EPILEPTICUS_002",
+      "contentType": "examPearl",
+      "topicId": "EM_NEURO_STATUS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_STATUS_EPILEPTICUS_001",
+      "contentType": "table",
+      "topicId": "EM_NEURO_STATUS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_ACUTE_ABDOMINAL_PAIN",
+      "contentType": "algorithm",
+      "topicId": "EM_GI_ABD_PAIN",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_ABDOMINAL_PAIN_001",
+      "contentType": "examPearl",
+      "topicId": "EM_GI_ABD_PAIN",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ACUTE_ABDOMINAL_PAIN_002",
+      "contentType": "examPearl",
+      "topicId": "EM_GI_ABD_PAIN",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_ACUTE_ABDOMINAL_PAIN_001",
+      "contentType": "table",
+      "topicId": "EM_GI_ABD_PAIN",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_GI_BLEEDING",
+      "contentType": "algorithm",
+      "topicId": "EM_GI_BLEED",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_GI_BLEEDING_001",
+      "contentType": "examPearl",
+      "topicId": "EM_GI_BLEED",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_GI_BLEEDING_002",
+      "contentType": "examPearl",
+      "topicId": "EM_GI_BLEED",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_GI_BLEEDING_001",
+      "contentType": "table",
+      "topicId": "EM_GI_BLEED",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_DKA_HHS",
+      "contentType": "algorithm",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_DKA_HHS_001",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_DKA_HHS_002",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_DKA_HHS_003",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_DKA_HHS_004",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_DKA_HHS_001",
+      "contentType": "table",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_DKA_HHS_002",
+      "contentType": "table",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_HYPERKALEMIA",
+      "contentType": "algorithm",
+      "topicId": "EM_ENDO_HYPERK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_HYPERKALEMIA_001",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_HYPERK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_HYPERKALEMIA_002",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_HYPERK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_HYPERKALEMIA_001",
+      "contentType": "table",
+      "topicId": "EM_ENDO_HYPERK",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_HYPOGLYCEMIA",
+      "contentType": "algorithm",
+      "topicId": "EM_ENDO_HYPO",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_HYPOGLYCEMIA_001",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_HYPO",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_HYPOGLYCEMIA_002",
+      "contentType": "examPearl",
+      "topicId": "EM_ENDO_HYPO",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_HYPOGLYCEMIA_001",
+      "contentType": "table",
+      "topicId": "EM_ENDO_HYPO",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_OPIOID_OVERDOSE",
+      "contentType": "algorithm",
+      "topicId": "EM_TOX_OPIOID",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_OPIOID_OVERDOSE_001",
+      "contentType": "examPearl",
+      "topicId": "EM_TOX_OPIOID",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_OPIOID_OVERDOSE_002",
+      "contentType": "examPearl",
+      "topicId": "EM_TOX_OPIOID",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_OPIOID_OVERDOSE_001",
+      "contentType": "table",
+      "topicId": "EM_TOX_OPIOID",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_ANAPHYLAXIS",
+      "contentType": "algorithm",
+      "topicId": "EM_CRIT_ANAPHYLAXIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ANAPHYLAXIS_001",
+      "contentType": "examPearl",
+      "topicId": "EM_CRIT_ANAPHYLAXIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ANAPHYLAXIS_002",
+      "contentType": "examPearl",
+      "topicId": "EM_CRIT_ANAPHYLAXIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_ANAPHYLAXIS_001",
+      "contentType": "table",
+      "topicId": "EM_CRIT_ANAPHYLAXIS",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_ECTOPIC_PREGNANCY",
+      "contentType": "algorithm",
+      "topicId": "EM_OBGYN_ECTOPIC",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ECTOPIC_PREGNANCY_001",
+      "contentType": "examPearl",
+      "topicId": "EM_OBGYN_ECTOPIC",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_ECTOPIC_PREGNANCY_002",
+      "contentType": "examPearl",
+      "topicId": "EM_OBGYN_ECTOPIC",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_ECTOPIC_PREGNANCY_001",
+      "contentType": "table",
+      "topicId": "EM_OBGYN_ECTOPIC",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "ALG_PEDIATRIC_FEVER",
+      "contentType": "algorithm",
+      "topicId": "EM_PEDS_FEVER",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PEDIATRIC_FEVER_001",
+      "contentType": "examPearl",
+      "topicId": "EM_PEDS_FEVER",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "PEARL_PEDIATRIC_FEVER_002",
+      "contentType": "examPearl",
+      "topicId": "EM_PEDS_FEVER",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "contentId": "TABLE_PEDIATRIC_FEVER_001",
+      "contentType": "table",
+      "topicId": "EM_PEDS_FEVER",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    }
+  ]
+}

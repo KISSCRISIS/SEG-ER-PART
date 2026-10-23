@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/topic-normalization.schema.json",
+  "title": "SEG Topic Normalization",
+  "description": "Bridges a source taxonomy category (e.g., Tintinalli chapterTitle) to SEG canonical topicIds. No Qbank question is modified; this layer normalizes source categories only. Multiple candidates and uncertainty are preserved.",
+  "type": "object",
+  "required": ["sourceCategory", "sourceId", "candidateTopicIds", "confidence", "uncertainty", "evidenceBasis", "status"],
+  "properties": {
+    "sourceCategory": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Raw source category as stored in Qbank (e.g., Tintinalli chapterTitle, Rosen chapterTitle). Truncated values are kept verbatim to preserve uncertainty."
+    },
+    "sourceId": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Qbank sourceId from source-registry.json (e.g., qbank-tintinalli-9e)"
+    },
+    "candidateTopicIds": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$" },
+      "description": "0-3 SEG canonical topicIds that this source category may correspond to. Empty when no safe bridge exists (uncertainty high).",
+      "maxItems": 3
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low", "Unmapped"],
+      "description": "High: direct clinical domain match. Medium: probable requiring review. Low: uncertain. Unmapped: no safe candidate."
+    },
+    "uncertainty": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable reason for uncertainty (e.g., truncated source title, broad chapter, multiple possible topics)."
+    },
+    "evidenceBasis": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["chapter-title", "topic-keyword", "curated-map", "source-category"] },
+      "description": "Evidence that produced the bridge, in priority order.",
+      "maxItems": 4
+    },
+    "status": {
+      "$ref": "mapping-status.schema.json",
+      "description": "Lifecycle of this normalization entry. AUTO_MAPPED/VERIFIED only for High confidence with curated evidence."
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "confidence": { "const": "Unmapped" } } },
+      "then": { "properties": { "candidateTopicIds": { "maxItems": 0 } } }
+    },
+    {
+      "if": { "properties": { "confidence": { "const": "High" } } },
+      "then": { "properties": { "candidateTopicIds": { "minItems": 1 } } }
+    }
+  ],
+  "additionalProperties": false
+}

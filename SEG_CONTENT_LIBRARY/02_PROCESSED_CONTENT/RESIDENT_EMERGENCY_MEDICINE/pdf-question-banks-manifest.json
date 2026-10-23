@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "generatedBy": "scripts/extract-pdf-question-banks.py",
+  "governanceStatus": "under-review",
+  "usageScope": "private-pilot",
+  "sources": {
+    "OXFORD_SCE": {
+      "path": "D:\\study\\best+of+five+MCQs+acute+medicine++sce+2016.pdf",
+      "sha256": "648f28f0ea487733872f301deaf38fd4d2a145b81d74556a50814a973879599e",
+      "questions": 356,
+      "duplicateIds": 0,
+      "missingQuestion": 0,
+      "fewerThanThreeOptions": 0,
+      "missingAnswer": 0,
+      "missingEnglishExplanation": 0,
+      "pendingArabicExplanation": 356
+    },
+    "ROSEN_10E": {
+      "path": "D:\\study\\Rosen s+Emergency+Medicine+10e+(Q A).pdf",
+      "sha256": "578eb88cfd9dafd03b89c2b52219df9d21b72bd0fae09c12d8d81434b7aa85d7",
+      "questions": 1044,
+      "duplicateIds": 0,
+      "missingQuestion": 0,
+      "fewerThanThreeOptions": 0,
+      "missingAnswer": 0,
+      "missingEnglishExplanation": 0,
+      "pendingArabicExplanation": 1043
+    },
+    "TINTINALLI_9E": {
+      "path": "D:\\study\\Tintinallis+EM+Examination+and+board+review+2023.pdf",
+      "sha256": "c6c6ec470085daa5e4949e1b9aaecaed09fc422020f90e8b47f8c06678a798b4",
+      "questions": 756,
+      "duplicateIds": 0,
+      "missingQuestion": 0,
+      "fewerThanThreeOptions": 0,
+      "missingAnswer": 0,
+      "missingEnglishExplanation": 0,
+      "pendingArabicExplanation": 756
+    }
+  }
+}

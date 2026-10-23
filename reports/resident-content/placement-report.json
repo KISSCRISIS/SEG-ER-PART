@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-09-05T12:11:57.244Z",
+  "placements": [
+    {
+      "source": "flashcards.json",
+      "count": 760,
+      "placement": "Learn high-yield flashcards; Practice home quick drill",
+      "status": "active-private-pilot"
+    },
+    {
+      "source": "appFlashcards.json",
+      "count": 128,
+      "placement": "Deduplicated against flashcards.json",
+      "status": "duplicate-sidecar-128-covered"
+    },
+    {
+      "source": "examTraps.json",
+      "count": 415,
+      "placement": "Learn exam traps; Practice home trap drill",
+      "status": "active-private-pilot"
+    },
+    {
+      "source": "arabicMentorExplanations.json",
+      "count": 367,
+      "placement": "Merged into Medical Journal references; standalone mentor notes for items missing from fullReferenceLibrary",
+      "status": "active-private-pilot-264-mentor-only"
+    },
+    {
+      "source": "fullReferenceLibrary.json",
+      "count": 126,
+      "placement": "Medical Journal references",
+      "status": "active-private-pilot"
+    },
+    {
+      "source": "masterTopicFamilyIndex.json",
+      "count": 38,
+      "placement": "Learn topic family chips; Practice performance topic map",
+      "status": "active-private-pilot"
+    },
+    {
+      "source": "chapterStudyMap.json",
+      "count": 85,
+      "placement": "API-ready chapter map for future chapter-scoped reader routing",
+      "status": "api-ready"
+    },
+    {
+      "source": "1400q_Questions_and_Arabic_Explanations_UTF8.txt",
+      "count": 1,
+      "placement": "Learn content review queue",
+      "status": "quarantined-missing-correct-answers"
+    },
+    {
+      "source": "PreTest_All_Chapters_Questions_and_Arabic_Explanations_UTF8.txt",
+      "count": 1,
+      "placement": "Learn content review queue",
+      "status": "quarantined-ocr-corruption"
+    },
+    {
+      "source": "OSCE_Emergency_Medicine_Imaging_Section_UTF8.txt",
+      "count": 1,
+      "placement": "Atlas recovered station index",
+      "status": "active-index-images-missing"
+    }
+  ],
+  "mentorOnly": 264
+}

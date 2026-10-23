@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14",
+  "origin": "SEG source inventory with final approved maturity classification. Every entry was verified against a file present in this repository; counts are exact line/record/chapter totals. mappingDepth full allows chapter/unit mapping; partial restricts mapping to available layers only — missing chapters or summaries are never created. No content is mapped here.",
+  "sources": [
+    {
+      "sourceId": "frcem-study-book",
+      "name": "FRCEM Study Book",
+      "category": "study-book",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/frcem-study-book.json",
+      "records": 32,
+      "notes": "Available layers: 32 indexed chapters (system-level). Allowed depth: map only available content; system-level chapters must not be forced onto single clinical topics, and missing chapters or summaries are never invented."
+    },
+    {
+      "sourceId": "global-learning-layer",
+      "name": "SEG Emergency Medicine Master Library (enhancement layer)",
+      "category": "enhancement-layer",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "medical-content/emergency-medicine/layer.json",
+      "records": 22,
+      "notes": "Available layers: 22 authored enhancements with algorithms, pearls, and tables (SEG Original Content). Allowed depth: enhancement nodes only; curated links resolve through topics.json."
+    },
+    {
+      "sourceId": "hippo-study-book",
+      "name": "HIPPO Study Book",
+      "category": "study-book",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/hippo-study-book.json",
+      "records": 18,
+      "notes": "Available layers: 18 indexed chapters (system-level). Allowed depth: map only available content; no invented chapters, summaries, or sections."
+    },
+    {
+      "sourceId": "pdf-frcem-high-yield",
+      "name": "FRCEM High-Yield (reference PDF)",
+      "category": "reference-pdf",
+      "availability": "reference-only",
+      "mappingDepth": "partial",
+      "sourceMaturity": "PARTIAL",
+      "ref": "client/public/study-books/frcem-high-yield-colored.pdf",
+      "records": null,
+      "notes": "Available layers: in-project reference PDF only (FRCEM family). Allowed depth: citation only; FRCEM family is PARTIAL."
+    },
+    {
+      "sourceId": "pdf-hippo-high-yield",
+      "name": "HIPPO High-Yield (reference PDF)",
+      "category": "reference-pdf",
+      "availability": "reference-only",
+      "mappingDepth": "partial",
+      "sourceMaturity": "PARTIAL",
+      "ref": "client/public/study-books/hippo-high-yield-colored.pdf",
+      "records": null,
+      "notes": "Available layers: in-project reference PDF only (Hippo EM family). Allowed depth: citation only; Hippo EM family is PARTIAL."
+    },
+    {
+      "sourceId": "pdf-oxford-essentials",
+      "name": "Oxford Essentials (reference PDF)",
+      "category": "reference-pdf",
+      "availability": "reference-only",
+      "mappingDepth": "partial",
+      "sourceMaturity": "PARTIAL",
+      "ref": "client/public/study-books/emergency-oxford-essentials.pdf",
+      "records": null,
+      "notes": "Available layers: in-project reference PDF only (Oxford family). Allowed depth: citation only; Oxford family is PARTIAL."
+    },
+    {
+      "sourceId": "pdf-rosen-5min",
+      "name": "Rosen 5-Minute (reference PDF)",
+      "category": "reference-pdf",
+      "availability": "reference-only",
+      "mappingDepth": "partial",
+      "sourceMaturity": "FULL",
+      "ref": "client/public/study-books/rosen-5min.pdf",
+      "records": null,
+      "notes": "Available layers: in-project reference PDF only (Rosen family). Allowed depth: citation of available pages/chapters; reference-only, nothing ingested."
+    },
+    {
+      "sourceId": "pdf-rosh-rotation-2019",
+      "name": "Rosh Rotation 2019 (reference PDF)",
+      "category": "reference-pdf",
+      "availability": "reference-only",
+      "mappingDepth": "partial",
+      "sourceMaturity": "FULL",
+      "ref": "client/public/study-books/rosh-rotation-2019.pdf",
+      "records": null,
+      "notes": "Available layers: in-project reference PDF only (Rosh family). Allowed depth: citation of available pages/chapters; FULL applies strictly to this in-project file — no external Rosh resources assumed, nothing ingested."
+    },
+    {
+      "sourceId": "qbank-edic-sba-2026",
+      "name": "EDIC SBA 2026",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/edic-sba-2026-question-bank.jsonl",
+      "records": 995,
+      "notes": "Available layers: 995 indexed EDIC SBA 2026 questions with family/source metadata, chapter numbers, chapter titles, A-E options, correct answer keys, English explanations, and clinical pearls. Arabic explanations are not provided in the imported file. Allowed depth: question-level mapping only after future per-question topicId curation; EDIC family is PARTIAL."
+    },
+    {
+      "sourceId": "qbank-frcem",
+      "name": "FRCEM Question Bank",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/frcem-question-bank.jsonl",
+      "records": 1529,
+      "notes": "Available layers: 1529 indexed questions with family and chapter numbers. Allowed depth: question-level mapping only after per-question topic curation; FRCEM family is PARTIAL."
+    },
+    {
+      "sourceId": "qbank-hippo",
+      "name": "HIPPO Question Bank",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/hippo-question-bank.jsonl",
+      "records": 1927,
+      "notes": "Available layers: 1927 indexed questions with family and chapter numbers. Allowed depth: question-level mapping only after per-question topic curation; Hippo EM family is PARTIAL."
+    },
+    {
+      "sourceId": "qbank-oxford-sce",
+      "name": "Oxford SCE Question Bank",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/oxford-sce-question-bank.jsonl",
+      "records": 356,
+      "notes": "Available layers: 356 indexed questions. Allowed depth: question-level mapping only after per-question topic curation; Oxford family is PARTIAL."
+    },
+    {
+      "sourceId": "qbank-peer-physicians-case-series-2026",
+      "name": "PEER for Physicians - Case Series 2026",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/peer-physicians-case-series-2026-question-bank.jsonl",
+      "records": 685,
+      "notes": "Available layers: 685 indexed PEER for Physicians case-series questions with source metadata, chapter numbers and titles, A-D options, correct answer keys, and English explanations. Arabic explanations are present in 204 records. Runtime Qbank family is PEER_PHYSICIANS. Allowed depth: question-level mapping only after future per-question topicId curation; source maturity is PARTIAL."
+    },
+    {
+      "sourceId": "qbank-peer-physicians-2026-unified",
+      "name": "PEER for Physicians 2026",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/peer-physicians-2026-unified-question-bank.jsonl",
+      "records": 2139,
+      "notes": "Available layers: 2,139 indexed A-D questions across 18 source chapters, with answer keys, English explanations, and 989 Arabic explanations. The source file carries family PEER_PHYSICIANS; SEG uses runtime family PEER_2026 to keep this bank independent of the 685-question PEER case-series bank. Question-level mapping requires future per-question topicId curation; medical content remains under review."
+    },
+    {
+      "sourceId": "qbank-rosen-10e",
+      "name": "Rosen 10e Question Bank",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "FULL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/rosen-10e-question-bank.jsonl",
+      "records": 1044,
+      "notes": "Available layers: 1044 indexed questions with family and chapter numbers. Allowed depth: chapter, section, and unit mapping within the FULL Rosen family, after per-question topic curation."
+    },
+    {
+      "sourceId": "qbank-rosh-initial-certification-2026",
+      "name": "ROSH Review EM Initial Certification 2026",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/rosh-initial-certification-2026-merged-four-files-question-bank.jsonl",
+      "records": 5025,
+      "notes": "Four supplied source files merged while preserving all 2,728 records from the previous two-file bank unchanged. The third and fourth files added 1,000 and 1,297 non-overlapping questions. The second file had 718 stems identical to the first with matching answers and options, so they were not added twice. Twenty distinct chapters and 5,025 preserved records; 3,994 are practice eligible. 242 later duplicate stems and 853 records referencing absent visual/audio media are flagged (1,031 unique withheld records). No topicId assignment; medical content remains under review."
+    },
+    {
+      "sourceId": "qbank-tintinalli-9e",
+      "name": "Tintinalli 9e Question Bank",
+      "category": "qbank",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "FULL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/RESIDENT_EMERGENCY_MEDICINE/tintinalli-9e-question-bank.jsonl",
+      "records": 756,
+      "notes": "Available layers: 756 indexed questions with family and chapter numbers. Allowed depth: chapter, section, and unit mapping within the FULL Tintinalli family, after per-question topic curation."
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "name": "Rosen High-Yield Summaries",
+      "category": "summary",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "FULL",
+      "ref": "client/public/content/summary-books/rosen-high-yield.json",
+      "records": 626,
+      "notes": "Available layers: 626 source-indexed topics with unitIds, titles, and PDF page ranges. Allowed depth: chapter, section, unit, summary, and page-reference mapping."
+    },
+    {
+      "sourceId": "rosh-summaries",
+      "name": "Rosh High-Yield Summaries",
+      "category": "summary",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "FULL",
+      "ref": "client/public/content/summary-books/rosh-high-yield.json",
+      "records": 12,
+      "notes": "Available layers: 12 indexed chapters with unitIds, titles, and PDF page ranges. FULL applies only to this in-project processed content; no external Rosh resources are assumed. Allowed depth: chapter, section, unit, summary, and page-reference mapping."
+    },
+    {
+      "sourceId": "seg-unified-guide",
+      "name": "SEG Unified Review Guide",
+      "category": "synthesis",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "PARTIAL",
+      "ref": "SEG_CONTENT_LIBRARY/02_PROCESSED_CONTENT/SEG_UNIFIED_REVIEW_GUIDE/outline.json",
+      "records": 204,
+      "notes": "Available layers: 204 outline units (SEG Original Content). Allowed depth: map only available content; system-level mirrors and opaque units stay unmapped until topic-level curation exists."
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "name": "Tintinalli High-Yield Summaries",
+      "category": "summary",
+      "availability": "indexed",
+      "mappingDepth": "full",
+      "sourceMaturity": "FULL",
+      "ref": "client/public/content/summary-books/tintinalli-high-yield.json",
+      "records": 189,
+      "notes": "Available layers: 189 indexed chapters with unitIds, titles, and PDF page ranges. Allowed depth: chapter, section, unit, summary, and page-reference mapping."
+    }
+  ]
+}

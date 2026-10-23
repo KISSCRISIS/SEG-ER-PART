@@ -1,0 +1,432 @@
+[
+  {
+    "family": "Trauma",
+    "entries": [
+      "rosen_c22_t1",
+      "rosen_c32_t1",
+      "rosen_c32_t2",
+      "rosen_c34_t1",
+      "rosen_c36_t1",
+      "rosen_c37_t1",
+      "rosen_c38_t1",
+      "rosen_c46_t1",
+      "rosen_c51_t1",
+      "rosen_c107_t1",
+      "rosen_c177_t1",
+      "rosen_ce15_t1",
+      "rosen_c38_t2",
+      "rosen_c95_t1",
+      "tint_c10_t1",
+      "tint_c10_t2",
+      "tint_c24_t3",
+      "tint_c25_t1",
+      "tint_ce15_t1"
+    ],
+    "count": 19
+  },
+  {
+    "family": "Social / Ethics / Systems",
+    "entries": [
+      "rosen_ce15_t1",
+      "tint_c1_t1",
+      "tint_c1_t3",
+      "tint_c22_t1",
+      "tint_c23_t1",
+      "tint_c23_t2",
+      "tint_c24_t2",
+      "tint_c24_t3",
+      "tint_ce1_t1",
+      "tint_ce4_t1",
+      "tint_ce11_t1",
+      "tint_ce12_t1",
+      "tint_ce14_t1",
+      "tint_c1_t2",
+      "tint_c8_t2",
+      "tint_ce7_t1",
+      "tint_ce8_t1",
+      "tint_ce15_t1"
+    ],
+    "count": 18
+  },
+  {
+    "family": "Infectious Disease / Sepsis",
+    "entries": [
+      "rosen_c102_t1",
+      "rosen_c112_t1",
+      "rosen_c118_t1",
+      "rosen_c155_t2",
+      "tint_c6_t1",
+      "tint_c11_t1",
+      "tint_c11_t2",
+      "tint_c11_t3",
+      "tint_c21_t2",
+      "tint_c21_t3",
+      "tint_c24_t1",
+      "tint_c8_t1"
+    ],
+    "count": 12
+  },
+  {
+    "family": "Ultrasound Signs / Views",
+    "entries": [
+      "rosen_c86_t1",
+      "rosen_c173_t1",
+      "rosen_c17_t1",
+      "tint_c17_t1",
+      "tint_c25_t1",
+      "tint_c25_t2",
+      "tint_c25_t3",
+      "tint_c25_t4",
+      "tint_c25_t5",
+      "tint_c5_t3",
+      "tint_c9_t1",
+      "tint_c10_t3"
+    ],
+    "count": 12
+  },
+  {
+    "family": "Toxicology / Antidotes",
+    "entries": [
+      "rosen_c9_t1",
+      "rosen_c10_t1",
+      "rosen_c122_t1",
+      "rosen_c136_t1",
+      "rosen_c138_t1",
+      "rosen_c142_t1",
+      "tint_c13_t1",
+      "tint_c13_t2",
+      "tint_c14_t2",
+      "tint_c22_t2",
+      "tint_c5_t2"
+    ],
+    "count": 11
+  },
+  {
+    "family": "HEENT / Eye Emergencies",
+    "entries": [
+      "rosen_c34_t1",
+      "rosen_c51_t1",
+      "rosen_c56_t1",
+      "rosen_c91_t1",
+      "rosen_c17_t1",
+      "tint_c12_t1",
+      "tint_c17_t1",
+      "tint_c17_t2",
+      "tint_c25_t4",
+      "tint_c4_t2"
+    ],
+    "count": 10
+  },
+  {
+    "family": "Pregnancy / OB",
+    "entries": [
+      "rosen_c14_t1",
+      "rosen_c30_t1",
+      "rosen_c86_t1",
+      "rosen_c173_t1",
+      "rosen_c177_t1",
+      "rosen_c177_t2",
+      "tint_c19_t1",
+      "tint_c9_t1",
+      "tint_c9_t2"
+    ],
+    "count": 9
+  },
+  {
+    "family": "Airway Failure / Intubation",
+    "entries": [
+      "rosen_c36_t1",
+      "rosen_c37_t1",
+      "rosen_c105_t1",
+      "rosen_c118_t1",
+      "rosen_c156_t1",
+      "tint_c10_t1",
+      "tint_c17_t2"
+    ],
+    "count": 7
+  },
+  {
+    "family": "Cardiac Arrest / ROSC / TTM",
+    "entries": [
+      "rosen_c4_t1",
+      "rosen_c64_t1",
+      "rosen_c128_t1",
+      "rosen_c177_t1",
+      "tint_c1_t2",
+      "tint_c2_t1",
+      "tint_c2_t3"
+    ],
+    "count": 7
+  },
+  {
+    "family": "Endocrine / DKA / Electrolytes",
+    "entries": [
+      "rosen_c3_t2",
+      "rosen_c113_t1",
+      "rosen_c117_t1",
+      "rosen_c136_t1",
+      "tint_c15_t1",
+      "tint_c15_t2",
+      "tint_c22_t3"
+    ],
+    "count": 7
+  },
+  {
+    "family": "GI / Abdominal Pain",
+    "entries": [
+      "rosen_c25_t1",
+      "rosen_c28_t1",
+      "rosen_c75_t1",
+      "rosen_c77_t1",
+      "rosen_c78_t1",
+      "rosen_c121_t1",
+      "rosen_c138_t1"
+    ],
+    "count": 7
+  },
+  {
+    "family": "Paediatrics / Neonatal",
+    "entries": [
+      "rosen_c32_t1",
+      "rosen_c155_t1",
+      "rosen_c156_t1",
+      "rosen_c155_t2",
+      "tint_c10_t1",
+      "tint_c10_t2",
+      "tint_c10_t3"
+    ],
+    "count": 7
+  },
+  {
+    "family": "Hemorrhagic Shock / MTP",
+    "entries": [
+      "rosen_c32_t2",
+      "rosen_c38_t1",
+      "rosen_c107_t1",
+      "rosen_c38_t2",
+      "tint_c19_t1",
+      "tint_c2_t4"
+    ],
+    "count": 6
+  },
+  {
+    "family": "Pneumothorax / Hemothorax",
+    "entries": [
+      "rosen_c22_t1",
+      "rosen_c37_t1",
+      "tint_c1_t3",
+      "tint_c19_t2",
+      "tint_c25_t2",
+      "tint_c6_t2"
+    ],
+    "count": 6
+  },
+  {
+    "family": "ACS / Chest Pain / Cardiovascular Risk Stratification",
+    "entries": [
+      "rosen_c64_t1",
+      "rosen_ce15_t1",
+      "tint_c5_t1",
+      "tint_ce12_t1",
+      "tint_c5_t2"
+    ],
+    "count": 5
+  },
+  {
+    "family": "Dermatology Emergencies",
+    "entries": [
+      "rosen_c94_t1",
+      "tint_c18_t1",
+      "tint_c4_t1",
+      "tint_c4_t2",
+      "tint_c8_t1"
+    ],
+    "count": 5
+  },
+  {
+    "family": "Environmental Emergencies",
+    "entries": [
+      "rosen_c122_t1",
+      "rosen_c128_t1",
+      "tint_c14_t1",
+      "tint_c14_t2",
+      "tint_ce15_t1"
+    ],
+    "count": 5
+  },
+  {
+    "family": "Orthopedics / Fractures",
+    "entries": [
+      "rosen_c102_t1",
+      "tint_c20_t1",
+      "tint_c20_t2",
+      "tint_c21_t1",
+      "tint_c21_t3"
+    ],
+    "count": 5
+  },
+  {
+    "family": "Septic Shock",
+    "entries": [
+      "rosen_c2_t2",
+      "rosen_c3_t2",
+      "rosen_c155_t1",
+      "tint_c15_t2",
+      "tint_c2_t2"
+    ],
+    "count": 5
+  },
+  {
+    "family": "Stroke / Brainstem / Dissection",
+    "entries": [
+      "rosen_c9_t1",
+      "rosen_c91_t1",
+      "rosen_c93_t1",
+      "rosen_c108_t1",
+      "tint_c12_t1"
+    ],
+    "count": 5
+  },
+  {
+    "family": "FAST / eFAST",
+    "entries": [
+      "rosen_c38_t1",
+      "rosen_c38_t2",
+      "tint_c19_t2",
+      "tint_c5_t3"
+    ],
+    "count": 4
+  },
+  {
+    "family": "Foreign Body / Button Battery / Caustic",
+    "entries": [
+      "rosen_c75_t1",
+      "rosen_c121_t1",
+      "tint_c13_t1",
+      "tint_c7_t2"
+    ],
+    "count": 4
+  },
+  {
+    "family": "Procedural Sedation / Analgesia",
+    "entries": [
+      "rosen_c6_t1",
+      "rosen_c7_t1",
+      "tint_c3_t1",
+      "tint_c3_t2"
+    ],
+    "count": 4
+  },
+  {
+    "family": "Dysrhythmias / ECG Patterns",
+    "entries": [
+      "rosen_c117_t1",
+      "rosen_c142_t1",
+      "tint_c22_t3"
+    ],
+    "count": 3
+  },
+  {
+    "family": "Renal Colic / Urinary",
+    "entries": [
+      "rosen_c46_t1",
+      "rosen_c95_t1",
+      "tint_c8_t2"
+    ],
+    "count": 3
+  },
+  {
+    "family": "Hematologic Disorders",
+    "entries": [
+      "rosen_c108_t1",
+      "tint_c16_t1"
+    ],
+    "count": 2
+  },
+  {
+    "family": "RSI / Paralytics / Sedation physiology",
+    "entries": [
+      "rosen_c7_t1",
+      "tint_c3_t2"
+    ],
+    "count": 2
+  },
+  {
+    "family": "Seizures / Status",
+    "entries": [
+      "rosen_c14_t1",
+      "tint_c12_t2"
+    ],
+    "count": 2
+  },
+  {
+    "family": "Anaphylaxis / Hereditary Angioedema",
+    "entries": [
+      "rosen_c105_t1"
+    ],
+    "count": 1
+  },
+  {
+    "family": "Aortic Dissection",
+    "entries": [
+      "rosen_c71_t1"
+    ],
+    "count": 1
+  },
+  {
+    "family": "Asthma / COPD",
+    "entries": [
+      "rosen_c59_t1"
+    ],
+    "count": 1
+  },
+  {
+    "family": "Cardiogenic Shock",
+    "entries": [
+      "rosen_c3_t1"
+    ],
+    "count": 1
+  },
+  {
+    "family": "ETCO2 / Capnography",
+    "entries": [
+      "tint_c2_t3"
+    ],
+    "count": 1
+  },
+  {
+    "family": "GI Bleed",
+    "entries": [
+      "tint_c7_t1"
+    ],
+    "count": 1
+  },
+  {
+    "family": "Mechanical Ventilation",
+    "entries": [
+      "rosen_c2_t1"
+    ],
+    "count": 1
+  },
+  {
+    "family": "Mesenteric Ischemia",
+    "entries": [
+      "rosen_c78_t1"
+    ],
+    "count": 1
+  },
+  {
+    "family": "Pulmonary Embolism",
+    "entries": [
+      "rosen_c177_t2"
+    ],
+    "count": 1
+  },
+  {
+    "family": "Toxidromes / Antidotes",
+    "entries": [
+      "tint_c3_t1"
+    ],
+    "count": 1
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/qbank-mapping-statistics.schema.json",
+  "title": "SEG Qbank Mapping Statistics",
+  "description": "Aggregated counts for qbank-topic mapping. Generated from candidate-mapping records; never hand-edited.",
+  "type": "object",
+  "required": ["schemaVersion", "generatedAt", "totalQuestions", "byStatus", "byConfidence", "bySource"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "totalQuestions": { "type": "integer", "minimum": 0, "description": "Sum across all Qbank sources (currently 5612)" },
+    "byStatus": {
+      "type": "object",
+      "required": ["UNMAPPED", "CANDIDATE_FOUND", "AUTO_MATCHED", "REVIEW_REQUIRED", "VERIFIED"],
+      "properties": {
+        "UNMAPPED": { "type": "integer", "minimum": 0 },
+        "CANDIDATE_FOUND": { "type": "integer", "minimum": 0 },
+        "AUTO_MATCHED": { "type": "integer", "minimum": 0 },
+        "REVIEW_REQUIRED": { "type": "integer", "minimum": 0 },
+        "VERIFIED": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false
+    },
+    "byConfidence": {
+      "type": "object",
+      "description": "Mapped questions only; buckets match status thresholds.",
+      "required": ["high", "medium", "low"],
+      "properties": {
+        "high": { "type": "integer", "minimum": 0, "description": "confidenceScore ≥85" },
+        "medium": { "type": "integer", "minimum": 0, "description": "60-84" },
+        "low": { "type": "integer", "minimum": 0, "description": "<60 or no candidate" }
+      },
+      "additionalProperties": false
+    },
+    "bySource": {
+      "type": "object",
+      "description": "Per Qbank source totals; keys are sourceId from source-registry.json",
+      "patternProperties": {
+        "^qbank-.+$": {
+          "type": "object",
+          "required": ["total", "mapped", "unmapped"],
+          "properties": {
+            "total": { "type": "integer", "minimum": 0 },
+            "mapped": { "type": "integer", "minimum": 0 },
+            "unmapped": { "type": "integer", "minimum": 0 }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

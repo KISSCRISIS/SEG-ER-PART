@@ -1,0 +1,382 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg-guide.example/schemas/seg-content-record.v1.1.schema.json",
+  "title": "SEG governed content record v1.1 additive profile",
+  "description": "Isolated additive SEG profile. It preserves the v1.0 record envelope and adds clinical_case, clinical_skill, and an explicit reference_framework relationship. It does not authorize clinical approval, rights approval, activation, publication, or learner exposure.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "record_id",
+    "title",
+    "content_type",
+    "language",
+    "source",
+    "version",
+    "references",
+    "rights",
+    "taxonomy",
+    "medical_review",
+    "audit"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9._-]{2,127}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "content_type": {
+      "type": "string",
+      "enum": [
+        "lesson",
+        "question_bank",
+        "book",
+        "clinical_case",
+        "clinical_skill"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "minLength": 2
+    },
+    "source": {
+      "$ref": "#/$defs/source"
+    },
+    "version": {
+      "$ref": "#/$defs/version"
+    },
+    "references": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/referenceEntry"
+      }
+    },
+    "rights": {
+      "$ref": "#/$defs/rights"
+    },
+    "taxonomy": {
+      "$ref": "#/$defs/taxonomy"
+    },
+    "medical_review": {
+      "$ref": "#/$defs/medicalReview"
+    },
+    "audit": {
+      "$ref": "#/$defs/audit"
+    },
+    "content": {
+      "oneOf": [
+        {"$ref": "#/$defs/clinicalCase"},
+        {"$ref": "#/$defs/clinicalSkill"}
+      ]
+    },
+    "relationships": {
+      "$ref": "#/$defs/relationships"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "content_type": {"const": "clinical_case"}
+        },
+        "required": ["content_type"]
+      },
+      "then": {
+        "required": ["content"],
+        "properties": {
+          "content": {"$ref": "#/$defs/clinicalCase"}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "content_type": {"const": "clinical_skill"}
+        },
+        "required": ["content_type"]
+      },
+      "then": {
+        "required": ["content"],
+        "properties": {
+          "content": {"$ref": "#/$defs/clinicalSkill"}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "content_type": {
+            "enum": ["lesson", "question_bank", "book"]
+          }
+        },
+        "required": ["content_type"]
+      },
+      "then": {
+        "not": {"required": ["content"]}
+      }
+    }
+  ],
+  "$defs": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_id",
+        "publisher_or_owner",
+        "location",
+        "accessed_at"
+      ],
+      "properties": {
+        "source_id": {"type": "string", "minLength": 1},
+        "publisher_or_owner": {"type": "string", "minLength": 1},
+        "location": {"type": "string", "minLength": 1},
+        "accessed_at": {"type": "string", "format": "date-time"}
+      }
+    },
+    "version": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "checksum"],
+      "properties": {
+        "value": {"type": "string", "minLength": 1},
+        "checksum": {
+          "type": "string",
+          "pattern": "^[A-Fa-f0-9]{64}$"
+        },
+        "published_at": {"type": "string", "format": "date-time"}
+      }
+    },
+    "referenceEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reference_id", "locator", "supports"],
+      "properties": {
+        "reference_id": {"type": "string", "minLength": 1},
+        "locator": {"type": "string", "minLength": 1},
+        "supports": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text_usage", "image_usage", "display_scope"],
+      "properties": {
+        "text_usage": {"type": "string", "minLength": 1},
+        "image_usage": {"type": "string", "minLength": 1},
+        "display_scope": {"type": "string", "minLength": 1},
+        "license": {"type": "string", "minLength": 1}
+      }
+    },
+    "taxonomy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["taxonomy_id", "taxonomy_version"],
+      "properties": {
+        "taxonomy_id": {"type": "string", "minLength": 1},
+        "taxonomy_version": {"type": "string", "minLength": 1}
+      }
+    },
+    "medicalReview": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reviewer", "decision"],
+      "properties": {
+        "reviewer": {"type": "string", "minLength": 1},
+        "decision": {
+          "type": "string",
+          "enum": ["draft", "under_review", "approved", "rejected", "withdrawn"]
+        },
+        "reviewed_at": {"type": "string", "format": "date-time"},
+        "notes": {"type": "string"}
+      }
+    },
+    "auditEvent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["event", "actor", "at"],
+      "properties": {
+        "event": {"type": "string", "minLength": 1},
+        "actor": {"type": "string", "minLength": 1},
+        "at": {"type": "string", "format": "date-time"},
+        "reason": {"type": "string"}
+      }
+    },
+    "audit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["created_by", "created_at", "events"],
+      "properties": {
+        "created_by": {"type": "string", "minLength": 1},
+        "created_at": {"type": "string", "format": "date-time"},
+        "events": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/auditEvent"}
+        }
+      }
+    },
+    "sourceSection": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["state"],
+      "properties": {
+        "state": {
+          "type": "string",
+          "enum": ["present", "absent", "unresolved"]
+        },
+        "origin": {
+          "type": "string",
+          "enum": ["source_verbatim", "source_derived", "seg_original"]
+        },
+        "value": {
+          "type": ["string", "array", "object"]
+        },
+        "source_locator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "review_note": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"state": {"const": "present"}},
+            "required": ["state"]
+          },
+          "then": {
+            "required": ["origin", "value"]
+          }
+        },
+        {
+          "if": {
+            "properties": {"state": {"enum": ["absent", "unresolved"]}},
+            "required": ["state"]
+          },
+          "then": {
+            "not": {"required": ["value"]}
+          }
+        },
+        {
+          "if": {
+            "properties": {"origin": {"enum": ["source_verbatim", "source_derived"]}},
+            "required": ["origin"]
+          },
+          "then": {
+            "required": ["source_locator"]
+          }
+        }
+      ]
+    },
+    "clinicalCase": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "case_type",
+        "presentation",
+        "history",
+        "examination",
+        "investigations",
+        "assessment",
+        "differential",
+        "management",
+        "clinical_reasoning",
+        "references"
+      ],
+      "properties": {
+        "case_type": {"type": "string", "minLength": 1},
+        "presentation": {"$ref": "#/$defs/sourceSection"},
+        "history": {"$ref": "#/$defs/sourceSection"},
+        "examination": {"$ref": "#/$defs/sourceSection"},
+        "investigations": {"$ref": "#/$defs/sourceSection"},
+        "assessment": {"$ref": "#/$defs/sourceSection"},
+        "differential": {"$ref": "#/$defs/sourceSection"},
+        "management": {"$ref": "#/$defs/sourceSection"},
+        "clinical_reasoning": {"$ref": "#/$defs/sourceSection"},
+        "references": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/referenceEntry"}
+        }
+      }
+    },
+    "clinicalSkill": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "skill_name",
+        "category",
+        "indication",
+        "contraindication",
+        "steps",
+        "equipment",
+        "assessment_method",
+        "competency_level"
+      ],
+      "properties": {
+        "skill_name": {"type": "string", "minLength": 1},
+        "category": {"type": "string", "minLength": 1},
+        "indication": {"$ref": "#/$defs/sourceSection"},
+        "contraindication": {"$ref": "#/$defs/sourceSection"},
+        "steps": {"$ref": "#/$defs/sourceSection"},
+        "equipment": {"$ref": "#/$defs/sourceSection"},
+        "assessment_method": {"$ref": "#/$defs/sourceSection"},
+        "competency_level": {"type": "string", "minLength": 1}
+      }
+    },
+    "referenceFramework": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "book_record_id",
+        "framework_name",
+        "framework_role",
+        "citation_locator_policy",
+        "display_scope"
+      ],
+      "properties": {
+        "book_record_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._-]{2,127}$"
+        },
+        "framework_name": {"type": "string", "minLength": 1},
+        "framework_role": {"type": "string", "minLength": 1},
+        "citation_locator_policy": {
+          "type": "string",
+          "enum": [
+            "exact_locator_required",
+            "exact_locator_required_for_verbatim_display",
+            "locator_required_when_available"
+          ]
+        },
+        "display_scope": {
+          "type": "string",
+          "enum": [
+            "reference_only",
+            "learner_displayed_derived",
+            "learner_displayed_verbatim"
+          ]
+        }
+      }
+    },
+    "relationships": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "reference_framework": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/referenceFramework"}
+        }
+      }
+    }
+  }
+}

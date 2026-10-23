@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "registryId": "JEM_BOARD_TOPIC_REGISTRY_V1",
+  "registryName": "Jordan EM Board Topic Registry",
+  "version": "1.0",
+  "joinKey": "topicId",
+  "primaryKey": "topicId",
+  "topicRegistryPath": "../topic-registry/topic-registry.json",
+  "purpose": "Prepare SEG Emergency Medicine Knowledge Graph compatibility contracts without mapping books or Qbank content in Phase 4-D.1.",
+  "connections": [
+    {
+      "target": "MCQ Metadata",
+      "join": "mcq.topicId -> topic-registry.topics[].topicId",
+      "phase": "contract-only"
+    },
+    {
+      "target": "Algorithm Metadata",
+      "join": "algorithm.topicId -> topic-registry.topics[].topicId",
+      "phase": "contract-only"
+    },
+    {
+      "target": "Exam Pearl Metadata",
+      "join": "examPearl.topicId -> topic-registry.topics[].topicId",
+      "phase": "contract-only"
+    },
+    {
+      "target": "Table Metadata",
+      "join": "table.topicId -> topic-registry.topics[].topicId",
+      "phase": "contract-only"
+    },
+    {
+      "target": "Book Mapping",
+      "join": "bookMapping.topicId -> topic-registry.topics[].topicId",
+      "phase": "contract-only-no-mapping"
+    },
+    {
+      "target": "Study Plan Tasks",
+      "join": "studyPlanTask.topicId -> topic-registry.topics[].topicId",
+      "phase": "contract-only"
+    }
+  ],
+  "rules": {
+    "topicIdIsSinglePrimaryKey": true,
+    "doNotRenameTopicIds": true,
+    "preventDuplicateTopics": true,
+    "invalidReferences": "reject",
+    "unknownMappings": "needs-review",
+    "phase4EKnowledgeGraphMapping": "not-started"
+  }
+}

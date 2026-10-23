@@ -1,0 +1,263 @@
+### [PEER-CS | PEER-key-advances-q-161]
+Q: A 60-year-old man with stage II CKD and hypertension, presents with fever and productive cough for 3 days. Vital signs normal except T 38.2°C. Labs: BUN 18, Na 136, WBC 12,000. CXR shows infiltrate. What is the most appropriate disposition?
+A: Discharge home
+EXPLANATION: Multiple studies evaluated which patients with community-acquired pneumonia are appropriate for discharge home. Two validated decision rules are the Pneumonia Severity Index (PSI/PORT) and CURB-65. This patient's scores under both suggest outpatient management is appropriate. Clinical judgment supersedes decision tools.
+ARABIC: ذات الرئة المكتسبة (CAP) منخفضة الخطورة حسب PSI/CURB-65 → إخراج للمنزل مع مضادات حيوية فموية. إدخال ICU فقط مع حاجة للرافعات الوعائية أو التهوية الميكانيكية (معايير IDSA/ATS للـ severe CAP).
+
+### [PEER-CS | PEER-key-advances-q-162]
+Q: A 55-year-old man with CAD risk factors has sudden chest pain, collapses, receives dispatcher CPR. Fire department performs CPR, epinephrine, defibrillation with ROSC. Intubated. What should be done after achieving ROSC?
+A: Obtain an ECG
+EXPLANATION: One of the most important components of post-resuscitation care is determining whether or not a STEMI was the cause of the cardiac arrest. Performing an ECG after ROSC allows for rapid recognition of a STEMI. Treatment should be with PCI or thrombolytics.
+ARABIC: بعد استعادة الدورة (ROSC): يجب عمل ECG فورًا لتحديد STEMI كسبب للتوقف القلبي. إن وُجد STEMI → PCI أو حالات التخثر. لا تُستخدم beta-blockers أو lidocaine روتينيًا.
+
+### [PEER-CS | PEER-key-advances-q-163]
+Q: A 31-year-old man with ulcerative colitis presents with left wrist pain after a fall. X-rays show no fracture. Placed in thumb spica splint. What is the most appropriate outpatient pain regimen?
+A: Acetaminophen
+EXPLANATION: This patient likely has a wrist sprain or occult scaphoid fracture. Splinting, acetaminophen, and NSAIDs are typically all that are needed. The ACEP clinical policy on opioids recommends that nonopioid pain medications be prescribed from the ED for initial treatment of acute pain.
+ARABIC: التواء الرسغ أو كسر زورقي كامن (occult scaphoid fracture): الأكثر أمانًا هو acetaminophen + NSAIDs. لا تُوصف الأفيونات (opioids) روتينيًا في الطوارئ للألم الحاد حسب سياسة ACEP.
+
+### [PEER-CS | PEER-key-advances-q-164]
+Q: A woman at 41 weeks' gestation delivers a baby. Almost 2 minutes after delivery, the newborn's heart rate is 85 bpm. What is the next step?
+A: Administer positive-pressure ventilation
+EXPLANATION: Neonatal resuscitation. At 60 seconds after birth, if the infant is apneic, hypoventilatory, or has a heart rate between 60 and 100 bpm, positive-pressure ventilation with a BVM should be initiated. Chest compressions are for HR <60 bpm.
+ARABIC: إنعاش حديثي الولادة: HR 60-100 بعد دقيقة → تهوية بالضغط الموجب (PPV) بالقناع. ضغطات الصدر للحالات HR <60 فقط. الأدرينالين إذا استمر <60 بعد التهوية والضغطات.
+
+### [PEER-CS | PEER-key-advances-q-165]
+Q: A 13-day-old infant presents with a fever. Which factor portends the most increased risk of neonatal sepsis in this patient?
+A: Febrile maternal chorioamnionitis
+EXPLANATION: Fever in the neonatal period is concerning for neonatal sepsis. Risk factors include prematurity <37 weeks, chorioamnionitis, maternal fever, active maternal HSV or genital lesions, and complicated postpartum course. GBS colonization risk is reduced with intrapartum antibiotics.
+ARABIC: حمى الوليد → إنتان محتمل. أقوى عامل خطر هو التهاب السلى والمشيمة الحموي (chorioamnionitis). GBS يُخفف خطرها بالمضادات الحيوية أثناء المخاض.
+
+### [PEER-CS | PEER-key-advances-q-166]
+Q: A 27-year-old woman at 24 weeks' gestation with new elevated BP 150/95, no proteinuria, normal labs. What is the most appropriate treatment of her hypertension?
+A: Labetalol
+EXPLANATION: Gestational hypertension is hypertension after the 20th week of pregnancy or immediately postpartum without preexisting hypertension. Differentiated from preeclampsia by absence of proteinuria or systemic abnormalities. First-line therapy is labetalol or nifedipine. ACE inhibitors and ARBs are contraindicated.
+ARABIC: ارتفاع ضغط الحمل (gestational hypertension): العلاج الأول هو labetalol أو nifedipine. مثبطات ACE (lisinopril) وحاصرات مستقبلات الأنجيوتنسين (valsartan) ممنوعة في الحمل.
+
+### [PEER-CS | PEER-key-advances-q-167]
+Q: A 40-year-old man with pleuritic chest pain 2 weeks after COVID-19. CT shows subsegmental PE without right heart strain. What is the best treatment strategy?
+A: Discharge home on apixaban PO
+EXPLANATION: Low-risk PE can be discharged on oral anticoagulation. The Hestia criteria and simplified PESI score help determine appropriateness. DOACs (apixaban, rivaroxaban) are first-line for uncomplicated VTE. This patient meets criteria for outpatient management.
+ARABIC: PE منخفض الخطورة حسب Hestia/sPESI: يُخرج على مضاد تخثر فموي مباشر (apixaban). DOACs هي الخط الأول للـ VTE غير المعقد.
+
+### [PEER-CS | PEER-key-advances-q-168]
+Q: According to ACLS updates 2018 and 2019, which medication should be considered after 1 mg IV epinephrine every 5 minutes for a patient in cardiac arrest?
+A: Vasopressin
+EXPLANATION: According to the 2019 ACLS update, vasopressin has been added back as an additional therapy to be considered (Class 2b), but not to replace epinephrine. High-dose epinephrine, magnesium, and beta-blockers are not recommended.
+ARABIC: تحديث ACLS 2019: يمكن اعتبار vasopressin كعلاج إضافي بعد epinephrine (Class 2b) لكنه لا يستبدله. لا يُنصح بـ high-dose epinephrine أو المغنيزيوم أو حاصرات بيتا في التوقف القلبي.
+
+### [PEER-CS | PEER-key-advances-q-169]
+Q: According to ACEP's 2020 Clinical Policy on opioids, what is the best initial treatment for a patient who presents in acute opioid withdrawal?
+A: Buprenorphine
+EXPLANATION: According to the 2020 ACEP Clinical Policy on opioids, buprenorphine is the most effective therapy to treat acute withdrawal symptoms. Preferentially treat opioid withdrawal in the ED with buprenorphine rather than methadone. COWS score >8 indicates buprenorphine administration.
+ARABIC: انسحاب الأفيونات الحاد: buprenorphine هو العلاج المفضل (يفضّل على methadone). يُعطى عند COWS >8. يعمل كـ partial agonist على مستقبلات mu.
+
+### [PEER-CS | PEER-key-advances-q-170]
+Q: According to the 2019 AHA focused update on PALS, what is the recommended airway management for pediatric patients in out-of-hospital cardiac arrest?
+A: Bag-mask ventilation
+EXPLANATION: According to the 2019 AHA update on PALS, BVM ventilation should be continued in pediatric patients in out-of-hospital cardiac arrest. Advanced airways do not improve survival or neurologic outcomes. Consider advanced airway only if BVM is unsuccessful.
+ARABIC: PALS 2019: في التوقف القلبي خارج المستشفى عند الأطفال، يُستمر في تهوية القناع (BVM). المسالك المتقدمة (ETT/SGA) لا تُحسن البقاء أو النتائج العصبية.
+
+### [PEER-CS | PEER-key-advances-q-171]
+Q: According to the ACEP Clinical Policy on acute headaches and the Ottawa SAH Rule, what indicates the need to obtain neuroimaging for SAH in a patient with acute headache?
+A: Loss of consciousness
+EXPLANATION: Ottawa SAH Rule can rule out SAH in neurologically intact patients. Cannot rule out if any of: age >40, neck pain/stiffness, loss of consciousness, thunderclap headache, limited neck flexion, onset during exertion. Only one criterion needed for neuroimaging.
+ARABIC: قاعدة أوتاوا للنزف تحت العنكبوتية: LOC هو أحد المعايير التي تستدعي التصوير. معايير أخرى: عمر >40، ألم/تصلب رقبي، صداع رعدي، محدودية انثناء الرقبة، بدء أثناء الجهد.
+
+### [PEER-CS | PEER-key-advances-q-172]
+Q: A 67-year-old man with history of MRSA, hypertension, hyperlipidemia, productive cough for 3 days. Which laboratory test should be obtained to tailor empiric therapy?
+A: MRSA nasal PCR
+EXPLANATION: IDSA/ATS recommend MRSA nasal PCR or culture for any patient with history of MRSA or when MRSA treatment is being started empirically. The HCAP category no longer exists. If empiric coverage for MRSA is given, PCR or culture data should be obtained.
+ARABIC: CAP مع تاريخ MRSA: يجب الحصول على MRSA nasal PCR لتوجيه العلاج التجريبي. إن بدأ تغطية MRSA (vancomycin) فيجب الحصول على PCR/ثقافة لإمكانية التعديل.
+
+### [PEER-CS | PEER-key-advances-q-173]
+Q: A 55-year-old man with cardiac arrest on dispatcher CPR. What medication should be administered next?
+A: Standard-dose epinephrine
+EXPLANATION: Standard-dose epinephrine (1 mg every 3-5 minutes) is the only medication strongly recommended by the AHA in cardiac arrest. Atropine is no longer recommended in cardiac arrest. High-dose epinephrine has not shown benefit.
+ARABIC: في التوقف القلبي: epinephrine بالجرعة القياسية (1 mg كل 3-5 دقائق) هو العلاج الوحيد الذي توصي به AHA بقوة. الأتروبين لم يُعد موصى به، والجرعات العالية غير مفيدة.
+
+### [PEER-CS | PEER-key-advances-q-174]
+Q: A 36-year-old woman with headache and nausea, started at rest 12 hours ago, gradual worsening over first hour. No syncope, LOC, or neck pain/stiffness. Normal neuro exam. Ibuprofen and acetaminophen do not relieve. What is the best next step?
+A: No study is indicated
+EXPLANATION: Ottawa SAH Clinical Decision Tool: this patient meets all criteria to rule out SAH based on history and physical exam alone. Answering no to age ≥40, neck pain/stiffness, witnessed LOC, onset during exertion, thunderclap headache, and limited neck flexion. 100% sensitive.
+ARABIC: قاعدة أوتاوا للنزف تحت العنكبوتية: جميع المعايير سلبية → لا حاجة لتصوير. القاعدة حساسة 100% لاستبعاد SAH.
+
+### [PEER-CS | PEER-key-advances-q-175]
+Q: A 36-year-old woman with headache that started at rest, gradual worsening, no red flags. Ibuprofen and acetaminophen do not relieve. What is the best treatment for this patient's pain?
+A: Prochlorperazine
+EXPLANATION: Prochlorperazine and metoclopramide are antiemetics that, when combined with diphenhydramine, show a high rate of success in the treatment of acute headache. ALTO (alternatives to opioids) should be the modality of choice. Opioids increase risk of medication misuse and progression to chronic migraine.
+ARABIC: صداع حاد: يُفضل بدائل الأفيونات (ALTO) مثل prochlorperazine + diphenhydramine + NSAIDs. الأفيونات والباربيتورات تزيد خطر الإدمان والصداع المزمن.
+
+### [PEER-CS | PEER-key-advances-q-176]
+Q: A 26-year-old woman with body aches, nausea, vomiting, diarrhea, piloerection, 3 days after stopping oxycodone. What medication should be administered?
+A: Buprenorphine
+EXPLANATION: Opioid withdrawal after stopping chronic oxycodone. ACEP Clinical Policy on Opioids recommends opioid withdrawal in the ED be treated with buprenorphine or methadone rather than non-opioid-based management. Buprenorphine is preferred over methadone.
+ARABIC: انسحاب الأفيونات بعد إيقاف الأوكسيكودون المزمن: buprenorphine هو المفضل (partial mu agonist) على methadone. يعالج الانسحاب ويُبقي على العلاج الدوائي المساعد.
+
+### [PEER-CS | PEER-key-advances-q-177]
+Q: A 7-year-old girl with UTI on antibiotics, worsening, PEA cardiac arrest at rural hospital. EMT can bag-mask ventilate. What intervention should be prioritized?
+A: Crystalloid fluid bolus
+EXPLANATION: Likely cardiac arrest from septic shock due to UTI, resulting in hypovolemia and vasoplegia. First-line treatment is crystalloid fluid bolus (20 mL/kg in pediatrics). Can repeat up to 60 mL/kg.
+ARABIC: توقف قلبي من صدمة إنتانية (septic shock) من UTI: العلاج الأول هو محلول بلوري (20 mL/kg) للأطفال. يمكن تكراره حتى 60 mL/kg.
+
+### [PEER-CS | PEER-key-advances-q-178]
+Q: A 7-year-old girl post-ROSC remains comatose after septic shock cardiac arrest. Broad-spectrum antibiotics given. What should be prioritized for post-ROSC care?
+A: Targeted temperature management
+EXPLANATION: According to the AHA 2019 focused update on PALS, patients who remain comatose after out-of-hospital cardiac arrest should undergo targeted temperature management. Starting range either 32-34°C or 36-37.5°C with continuous core temperature measurement.
+ARABIC: بعد ROSC في الأطفال مع غياب الوعي: التدبير الحراري الموجّه (TTM) بمدى 32-34°C أو 36-37.5°C مع قياس حرارة مركزية مستمرة. لا بيكربونات روتينية.
+
+### [PEER-CS | PEER-key-advances-q-179]
+Q: An academic ED that primarily cares for adults with pediatric hospital nearby. How should this ED best prepare to care for pediatric patients?
+A: Maintain a pediatric crash cart
+EXPLANATION: The National Pediatric Readiness Project (PRP) ensures all hospitals that care for children are ready to provide high-quality pediatric emergency care. 70% of pediatric visits take place at EDs with few pediatric patients. Focus on staff education, protocols, and pediatric-dosed medications/equipment.
+ARABIC: مشروع الجهوزية لطب الأطفال (PRP): يجب أن تحتفظ كل أقسام الطوارئ بعربة طوارئ أطفال (pediatric crash cart) وأدوية بجرعات الأطفال + تدريب الموظفين. مراجعة البروتوكولات سنويًا.
+
+### [PEER-CS | PEER-key-advances-q-180]
+Q: A 56-year-old man with hypertension and diabetes presents with shortness of breath, BP 180/110, crackles. What is most likely seen on bedside ultrasound?
+A: Sonographic B-lines
+EXPLANATION: Acute congestive heart failure (CHF). Sonographic B-lines are hyperechoic reverberating lines indicating thickening of interlobular septa (pulmonary edema). Diffuse bilateral B-lines strongly suggest pulmonary edema. Other findings: IVC collapse 7 mm.
+ARABIC: فشل قلب حاد على الإيكو: B-lines ثنائية منتشرة (دليل وذمة رئوية). علامات أخرى: انخبار IVC أقل من 50%، EPSS >7 mm (كفاءة انقباضية منخفضة).
+
+### [PEER-CS | PEER-key-advances-q-181]
+Q: A 25-year-old man with unknown medical history presents with acute agitation. Verbal deescalation unsuccessful, tries to punch a security guard. What pharmacotherapy is most appropriate?
+A: Droperidol IM with midazolam IM
+EXPLANATION: After failed verbal deescalation, physical and chemical restraint is appropriate. For unknown medical history, preferred first-line is antipsychotic + benzodiazepine IM. IM is preferred when no IV access. Consider underlying causes: hypoglycemia, electrolytes, CNS, hypoxia.
+ARABIC: هياج حاد فشل فيه التهدئة اللفظية: يُعطى مضاد ذهان + بنزوديازيبين عضليًا (droperidol IM + midazolam IM) لأن الوصول الوريدي صعب في مريض عنيف.
+
+### [PEER-CS | PEER-key-advances-q-182]
+Q: A 25-kg, 5-year-old boy with acute respiratory distress from bronchiolitis, hypoxic to 85%, RR 46 despite albuterol. What would be the next most appropriate treatment?
+A: High-flow nasal cannula
+EXPLANATION: Bronchiolitis (usually RSV). HFNC improves clinical course and reduces hospital stay compared to low-flow oxygen. Starting flow rate 1-2 L/kg/min, FiO2 21-30%. Early use of HFNC can prevent the need for more aggressive interventions.
+ARABIC: التهاب القصيبات (bronchiolitis) مع نقص أكسجة مستمر: HFNC هو الخيار التالي (1-2 L/kg/min). يقلل جهد التنفس ويوفر PEEP خفيف ويقي من التنبيب.
+
+### [PEER-CS | PEER-key-advances-q-183]
+Q: A patient presents in diabetic ketoacidosis. Glucose 650 mg/dL, potassium 3.8 mEq/L. What is the most appropriate next step?
+A: Insulin infusion plus maintenance normal saline with 20 mEq/L potassium
+EXPLANATION: DKA. Mainstay is fluid resuscitation and IV insulin. If K is 3.5-5.0 mEq/L, insulin may be started but maintenance IV fluids (NS or LR) with 20-30 mEq/L of potassium should be given simultaneously to keep serum K around 4 mEq/L. If K <3.5, replace before insulin.
+ARABIC: الحماض الكيتوني السكري (DKA) مع بوتاسيوم 3.8: يُبدأ الأنسولين مع سوائل صيانة (NS) مضاف إليها 20-30 mEq/L بوتاسيوم للحفاظ على K ~4. لا يُبدأ الأنسولين إذا K <3.5 قبل التعويض.
+
+### [PEER-CS | PEER-key-advances-q-184]
+Q: A patient with opioid withdrawal is given buprenorphine. What is the mechanism of action of buprenorphine?
+A: Partial mu opioid receptor agonist
+EXPLANATION: Buprenorphine is a partial mu opioid receptor agonist used to treat opioid withdrawal symptoms. Partial binding abates withdrawal symptoms without causing an acute 'high' (unlike full agonists like heroin). Frequently formulated with naloxone to discourage IV injection.
+ARABIC: buprenorphine هو ناهض جزئي لمستقبلات الأفيون mu (partial mu agonist): يخفف الانسحاب دون إحداث نشوة كاملة مثل الهيروين. يُدمج مع naloxone لمنع سوء الاستخدام الوريدي.
+
+### [PEER-CS | PEER-key-advances-q-185]
+Q: A patient presents with severe sepsis. Based on CMS core measures, which finding meets the definition of septic shock?
+A: BP 70/50 after 30 mL/kg of lactated Ringer
+EXPLANATION: CMS defines septic shock as severe sepsis plus persistent hypotension after 30 mL/kg crystalloid resuscitation OR lactate ≥4 mmol/L. CMS criteria must be met for reimbursement. Lactate >2 but <4 is 'severe sepsis' not 'septic shock'.
+ARABIC: CMS: الصدمة الإنتانية = هبوط ضغط مستمر بعد 30 mL/kg محلول بلوري، أو لاكتات ≥4 mmol/L. لاكتات >2 ولكن <4 = إنتان شديد وليس صدمة إنتانية.
+
+### [PEER-CS | PEER-key-advances-q-186]
+Q: A minimally responsive patient with right flank bruise. RUSH examination shows free fluid between kidney and liver. What is the best interpretation?
+A: Right upper quadrant intraperitoneal free fluid
+EXPLANATION: RUSH shows free fluid in Morison's pouch (between kidney and liver) in the right upper quadrant. RUSH evaluates cardiac, IVC, lung, abdomen, aorta, DVT. Free fluid in RUQ with flank bruising suggests intra-abdominal bleeding.
+ARABIC: فحص RUSH: سائل حر في جيب موريسون (Morison's pouch) في الربع العلوي الأيمن = نزف داخل الصفاق. مع كدمة الجنبة = دليل على نزف داخل البطن.
+
+### [PEER-CS | PEER-key-advances-q-187]
+Q: In which case of acute asthma exacerbation should a chest x-ray be obtained?
+A: 22-year-old with persistent hypoxia and tachypnea after three albuterol nebulizer treatments
+EXPLANATION: Chest x-rays are not routinely indicated for acute asthma exacerbations, particularly in pediatric patients. A chest x-ray should be obtained when there is concern for other pathologies (pneumonia, pneumothorax) or if the patient is not improving with initial interventions.
+ARABIC: لا تُطلب صور الصدر روتينيًا في نوبة الربو. تُطلب فقط عند عدم التحسن مع العلاج الأولي أو الاشتباه بمضاعفات (ذات الرئة، استرواح الصدر).
+
+### [PEER-CS | PEER-key-advances-q-188]
+Q: A 7-year-old boy undergoing procedural sedation with ketamine develops stridor concerning for laryngospasm and desaturates. What is the next best management step?
+A: Perform positive-pressure ventilation while applying pressure to the Larson point
+EXPLANATION: If a patient develops laryngospasm, stop the procedure immediately. First step: apply positive-pressure ventilation while providing pressure at the Larson point (base of skull between mastoid and mandibular condyle). Most cases resolve with this. If not, deepen sedation (propofol). If still refractory, paralyze and intubate.
+ARABIC: تشنج الحنجرة (laryngospasm) بعد التهدئة الإجرائية: التهوية بالضغط الموجب (PPV) + ضغط نقطة Larson (قاعدة الجمجمة بين الخشاء ونتوء الفك) هو الخط الأول. إن استمر: تعميق التهدئة ثم التحلل العضلي والتنبيب.
+
+### [PEER-CS | PEER-key-advances-q-189]
+Q: A 64-year-old man awakens with right-sided arm/leg weakness, facial droop, and aphasia. Last known well 2 am, presented at 8 am. NIHSS 15, CTA shows MCA thrombus. What is the most appropriate next step?
+A: Consult neurointerventional radiology for a mechanical thrombectomy
+EXPLANATION: This patient meets criteria for mechanical thrombectomy within 6 hours of symptom onset (mRS 0-1, large-vessel occlusion, NIHSS ≥6, no hemorrhage, ASPECTS ≥6). Also meets DAWN criteria for 6-24 hours. Outside 4.5-hour window for IV tPA.
+ARABIC: سكتة إسكيمية مع انسداد وعاء كبير (MCA) و NIHSS ≥6 وبداية منذ >4.5 ساعات: الاستئصال الميكانيكي (mechanical thrombectomy) هو العلاج، وليس tPA.
+
+### [PEER-CS | PEER-key-advances-q-190]
+Q: A 77-year-old man on a blood thinner that does not require lab checks, presents obtunded with subdural hematoma and 5 mm midline shift. What is the most appropriate pharmacotherapy for reversal?
+A: 4-factor prothrombin complex concentrate
+EXPLANATION: Life-threatening bleeding with unknown anticoagulant that does not require lab monitoring. Treat with 4-factor PCC. Specific reversal agents (idarucizumab for dabigatran, andexanet alfa for Xa inhibitors) are preferred if drug is known and available.
+ARABIC: نزف مهدد للحياة مع مضاد تخثر غير معروف (لا يحتاج مراقبة مخبرية): 4-factor PCC هو العلاج التجريبي. إن كان الدواء معروفًا، يُستخدم العامل العكسي المحدد.
+
+### [PEER-CS | PEER-key-advances-q-191]
+Q: A 77-year-old man on rivaroxaban after craniotomy recovery, presents 10 months later with epistaxis, Hgb 12.1 (prior 12.3). What is the most appropriate course of management?
+A: Hold rivaroxaban temporarily
+EXPLANATION: Minor bleeding (nosebleed, easily controlled) in the setting of DOAC use. Routine care plus holding the next dose is recommended. Reversal agents are not needed for minor bleeding. Restart anticoagulation after resolution.
+ARABIC: نزف بسيط (epistaxis) على DOAC: أوقف الجرعة التالية مؤقتًا (hold) + رعاية موضعية. لا تُستخدم عوامل العكس (andexanet) إلا في النزف المهدد للحياة أو الموضع الحرج.
+
+### [PEER-CS | PEER-key-advances-q-192]
+Q: A 45-year-old diabetic woman with COVID-19, SpO2 85% on 4 L NC, accessory muscle use, CXR diffuse inflammatory changes. What is the most appropriate next step to improve oxygenation?
+A: Replace the simple nasal cannula with HFNC
+EXPLANATION: COVID-19 respiratory failure is primarily oxygenation failure. HFNC delivers up to 100% FiO2 and flows up to 60 L/min with small PEEP, and can reduce need for intubation. First-line noninvasive therapy for isolated hypoxemic respiratory failure.
+ARABIC: فشل تنفسي نقص أكسجة من COVID-19: HFNC هو الخط الأول (تدفق حتى 60 L/min، FiO2 حتى 100%، PEEP 1-4 سم ماء). NIPPV محجوز لـ COPD/فرط الكابنيا.
+
+### [PEER-CS | PEER-key-advances-q-193]
+Q: A 45-year-old woman with SOB, increased work of breathing, SpO2 88%, ABG: pH 7.40, PaO2 70, PaCO2 35 (hypoxemic, nonhypercapnic). After nasal cannula at 6 L/min, no improvement. What is the best next step?
+A: Start HFNC
+EXPLANATION: HFNC significantly improves work of breathing, respiratory rate, and oxygenation in primarily hypoxemic respiratory failure. Lower mortality compared to face masks and NIPPV in hypoxemic patients. NIPPV remains first-line for COPD/hypercapnic respiratory failure.
+ARABIC: فشل تنفسي نقص أكسجة (hypoxemic nonhypercapnic) لا يتحسن بـ NC: HFNC هو الخيار الأول. أظهرت الدراسات انخفاض الوفيات مقارنة بـ NIPPV في هذه الحالة.
+
+### [PEER-CS | PEER-key-advances-q-194]
+Q: A 75-year-old man with chronic AF presents with tachycardia, cough, fever, BP 105/64, P 140, T 38.9°C. What is the most appropriate management of this patient's heart rate?
+A: Initiate sepsis care with IV lactated Ringer solution and antibiotics
+EXPLANATION: This is secondary atrial fibrillation with RVR due to sepsis. Treating with diltiazem could worsen hypotension by preventing the compensatory response. Treat the underlying cause (sepsis) first.
+ARABIC: رجفان أذيني ثانوي لعدوى (sepsis-induced AF): العلاج هو معالجة الإنتان (سوائل + مضادات حيوية)، وليس diltiazem الذي يُفاقم الهبوط. لا تقويم كهربائي في حال الاستقرار النسبي.
+
+### [PEER-CS | PEER-key-advances-q-195]
+Q: A 5-year-old with status epilepticus. Two doses of lorazepam ineffective. What medication should be administered next?
+A: Levetiracetam IV
+EXPLANATION: Status epilepticus after 2 benzodiazepine doses. Second-line agents include phenytoin/fosphenytoin, levetiracetam, valproic acid, phenobarbital. Additional benzodiazepines are ineffective and increase respiratory depression risk.
+ARABIC: حالة صرعية (status epilepticus) بعد جرعتين بنزوديازيبين: يُنتقل للخط الثاني (levetiracetam، phenytoin، valproate، phenobarbital). جرعة ثالثة بنزوديازيبين غير فعالة وتزيد خطر تثبيط التنفس.
+
+### [PEER-CS | PEER-key-advances-q-196]
+Q: Procedural sedation on a 65-year-old. Repeated sternal rubbing required to elicit any response, transient hypopnea and airway obstruction managed with BVM and jaw thrust. HR and BP normal. What level of sedation does this represent?
+A: Deep sedation
+EXPLANATION: Deep sedation occurs when the patient requires repeated painful stimulation to cause any response. Spontaneous breathing and airway patency may be transiently compromised. Minimal = anxiolysis; moderate = responds to verbal/painful stimuli; general = unresponsive even to painful stimuli.
+ARABIC: تهدئة عميقة (deep sedation): استجابة فقط للمنبهات المؤلمة المتكررة مع احتمال اضطراب مؤقت في التنفس والمجرى الهوائي. لا يفقد الاستجابة الكاملة كما في التخدير العام.
+
+### [PEER-CS | PEER-key-advances-q-197]
+Q: A 70-year-old man with untreated HTN, altered, lactate 5.1. Which additional element of history or exam would suggest benefit from fluid resuscitation and serial lactate checks?
+A: Hypothermia and flank pain
+EXPLANATION: Hypothermia and flank pain may point to the source of sepsis (pyelonephritis) responsible for lactatemia. The patient would benefit from fluid bolus and antibiotics. Lactate is a suitable surrogate for perfusion and need for resuscitation.
+ARABIC: حمى + ألم في الخاصرة = التهاب حويضة وكلية (pyelonephritis) → إنتان قد يستفيد من السوائل والمضادات والمتابعة المتسلسلة للاكتات. اللاكتات المرتفعة تدل على نقص تروية الأنسجة.
+
+### [PEER-CS | PEER-key-advances-q-198]
+Q: A 56-year-old woman with flu-like symptoms, several family members have similar symptoms, cluster indoors in cold weather. Lactate 3.4, VBG pH 7.22. Which additional laboratory test is essential?
+A: Carboxyhemoglobin level
+EXPLANATION: Family cluster indoors in cold weather = possible carbon monoxide poisoning. Elevated lactate from cellular hypoxia. CO poisoning can cause hypotension, falsely normal SpO2, and neurologic symptoms. Essential to test carboxyhemoglobin.
+ARABIC: تسمم بأول أكسيد الكربون (CO poisoning): عائلة في مكان مغلق بجو بارد + حماض لبني. SpO2 يبدو طبيعيًا كاذبًا. الفحص الأساسي هو carboxyhemoglobin.
+
+### [PEER-CS | PEER-key-advances-q-199]
+Q: A morbidly obese patient with COPD exacerbation and worsening mental status despite NIPPV. Decision for RSI. Which strategy should be used to facilitate intubation?
+A: Video laryngoscopy with hyperangulated blade
+EXPLANATION: Morbidly obese patients have difficult intubation due to increased soft tissue and reduced pulmonary reserve. Video laryngoscopy (VL) improves first-pass intubation success. Hyperangulated blade provides better visualization of glottic opening with less soft-tissue manipulation.
+ARABIC: مريض بدين مع مسلك هوائي صعب متوقع: التنظير بالفيديو (video laryngoscopy) مع نصل شديد التقوس (hyperangulated blade) هو الأفضل لتحسين الرؤية وتقليل مناورة الأنسجة الرخوة.
+
+### [PEER-CS | PEER-key-advances-q-200]
+Q: A 62-year-old woman with chest pain, HEART score 2. ECG, CBC, chemistry, chest x-ray, troponin, D-dimer all normal. What is the most appropriate management?
+A: Discharge home with primary care physician follow-up
+EXPLANATION: HEART score is a tool used to risk stratify chest pain patients. Low HEART score (0-3) indicates low short-term risk of major adverse cardiac events (<2.5%) and can be discharged with follow-up.
+ARABIC: ألم صدري مع HEART score منخفض (0-3): خطر الأحداث القلبية الكبرى خلال 30-45 يومًا منخفض جدًا (<2.5%). يمكن إخراج المريض مع متابعة طبيب الأسرة.
+
+### [PEER-CS | PEER-key-advances-q-201]
+Q: A 20-year-old woman with tick bite noted after a hike in New York 48 hours ago. What further management is needed after removal?
+A: Administer a single 200-mg dose of doxycycline to prevent Lyme disease
+EXPLANATION: A single dose of doxycycline 200 mg can prevent Lyme disease if given within 72 hours of tick removal in endemic areas with deer tick identified and attached >36 hours. Amoxicillin is ineffective for prophylaxis.
+ARABIC: قرصة قراد في منطقة موبوءة + قراد متغذٍّ >36 ساعة: جرعة واحدة وقائية من doxycycline 200 mg خلال 72 ساعة تمنع داء لايم. الأموكسيسيلين غير فعال للوقاية.
+
+### [PEER-CS | PEER-key-advances-q-202]
+Q: A 28-year-old man with epilepsy presents with status epilepticus. After 8 mg lorazepam IV, seizure continues. What is the appropriate next treatment?
+A: Valproate 2000 mg IV
+EXPLANATION: Status epilepticus is a seizure lasting >5 minutes or intermittent without return to baseline. After adequate benzodiazepine dosing, IV antiepileptics include phenytoin, fosphenytoin, valproate, levetiracetam, propofol, or barbiturates. Valproate dosing for status: 20-30 mg/kg.
+ARABIC: حالة صرعية (status epilepticus) بعد جرعة كافية من بنزوديازيبين: يُعطى الخط الثاني وريديًا (valproate 20-30 mg/kg، levetiracetam، phenytoin). لا جرعات إضافية من بنزوديازيبين.
+
+### [PEER-CS | PEER-key-advances-q-203]
+Q: A 50-year-old woman after camping in Portland, Maine. Fever, chills, lymphadenopathy, fatigue, myalgias, headache, rash (targetoid). What is the best next step in risk stratification of this patient?
+A: ECG
+EXPLANATION: Lyme disease with erythema migrans. An ECG will allow risk stratification of Lyme carditis (mild: first-degree AV block with PR <300 ms; severe: PR ≥300 ms, second- or third-degree block). Symptomatic patients with severe findings require hospitalization and IV antibiotics.
+ARABIC: داء لايم مع حمامى مهاجرة (erythema migrans): يجب عمل ECG لتقييم التهاب القلب اللايمي (Lyme carditis) — حصار AV من الدرجة الأولى أو الأعلى. الحالات الشديدة (PR ≥300 ms أو حصار من الدرجة الثانية/الثالثة) تتطلب إدخالًا ومضادات وريدية.
+
+### [PEER-CS | PEER-key-advances-q-204]
+Q: A 61-year-old woman with HTN, T2DM, depression presents with 2 hours of substernal chest pressure. ECG unremarkable, troponin elevated. Concern for NSTEMI. Which intervention is no longer recommended in the initial treatment because it has shown no efficacy and is potentially harmful?
+A: Start supplemental oxygen via nasal cannula
+EXPLANATION: Current ACC/AHA recommendations state that patients with oxygen saturations of 90% or above should not be given supplemental oxygen unless they have obvious respiratory distress. Lack of benefit and possible harm from hyperoxia.
+ARABIC: في NSTEMI مع SpO2 ≥90% بدون ضائقة تنفسية: لا يُعطى الأكسجين التكميلي روتينيًا (لا فائدة وقد يضر). أما الأسبرين والكلوبيدوغريل والهيبارين فهي علاجات موصى بها.

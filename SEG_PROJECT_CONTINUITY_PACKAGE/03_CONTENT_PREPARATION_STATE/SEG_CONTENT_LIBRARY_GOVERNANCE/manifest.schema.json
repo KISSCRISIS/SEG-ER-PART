@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg-guide.example/schemas/seg-content-record.schema.json",
+  "title": "SEG governed content record",
+  "description": "Schema only. It does not contain medical content or approve any record.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "record_id",
+    "title",
+    "content_type",
+    "language",
+    "source",
+    "version",
+    "references",
+    "rights",
+    "taxonomy",
+    "medical_review",
+    "audit"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9._-]{2,127}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "content_type": {
+      "type": "string",
+      "enum": [
+        "book",
+        "html",
+        "image",
+        "video",
+        "question_bank",
+        "knowledge_unit",
+        "module",
+        "lesson",
+        "flashcard",
+        "assessment"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "minLength": 2
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_id", "publisher_or_owner", "location", "accessed_at"],
+      "properties": {
+        "source_id": { "type": "string", "minLength": 1 },
+        "publisher_or_owner": { "type": "string", "minLength": 1 },
+        "location": { "type": "string", "minLength": 1 },
+        "accessed_at": { "type": "string", "format": "date-time" }
+      }
+    },
+    "version": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "checksum"],
+      "properties": {
+        "value": { "type": "string", "minLength": 1 },
+        "published_at": { "type": "string", "format": "date-time" },
+        "checksum": {
+          "type": "string",
+          "pattern": "^[A-Fa-f0-9]{64}$"
+        }
+      }
+    },
+    "references": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["reference_id", "locator", "supports"],
+        "properties": {
+          "reference_id": { "type": "string", "minLength": 1 },
+          "locator": { "type": "string", "minLength": 1 },
+          "supports": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 },
+            "minItems": 1
+          }
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text_usage", "image_usage", "display_scope"],
+      "properties": {
+        "license": { "type": "string" },
+        "text_usage": { "type": "string", "minLength": 1 },
+        "image_usage": { "type": "string", "minLength": 1 },
+        "display_scope": { "type": "string", "minLength": 1 }
+      }
+    },
+    "taxonomy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["taxonomy_id", "taxonomy_version"],
+      "properties": {
+        "taxonomy_id": { "type": "string", "minLength": 1 },
+        "taxonomy_version": { "type": "string", "minLength": 1 }
+      }
+    },
+    "medical_review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reviewer", "decision"],
+      "properties": {
+        "reviewer": { "type": "string", "minLength": 1 },
+        "decision": {
+          "type": "string",
+          "enum": ["draft", "under_review", "approved", "rejected", "withdrawn"]
+        },
+        "reviewed_at": { "type": "string", "format": "date-time" },
+        "next_review_at": { "type": "string", "format": "date-time" }
+      }
+    },
+    "audit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["created_by", "created_at", "events"],
+      "properties": {
+        "created_by": { "type": "string", "minLength": 1 },
+        "created_at": { "type": "string", "format": "date-time" },
+        "events": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["event", "actor", "at"],
+            "properties": {
+              "event": { "type": "string", "minLength": 1 },
+              "actor": { "type": "string", "minLength": 1 },
+              "at": { "type": "string", "format": "date-time" },
+              "reason": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

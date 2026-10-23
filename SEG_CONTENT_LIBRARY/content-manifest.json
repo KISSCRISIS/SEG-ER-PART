@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-09",
+  "canonicalRoot": "SEG_CONTENT_LIBRARY",
+  "idFields": ["Book_ID", "Chapter_ID", "Question_ID", "Image_ID", "StudyPlan_ID", "Note_ID"],
+  "reviewStatuses": ["draft", "under-review", "approved", "retired"],
+  "sources": [
+    {"Book_ID":"rosh-rotation-2019","title":"Rosh Review Emergency Medicine Rotation Exam","edition":"1st ed, 2019","processedPath":"02_PROCESSED_CONTENT/ROSH_ROTATION_2019","ReviewStatus":"under-review"},
+    {"Book_ID":"tintinalli-manual-8e","title":"Tintinalli's Emergency Medicine Manual","edition":"8th ed, 2018","processedPath":"02_PROCESSED_CONTENT/TINTINALLI_MANUAL_8E","ReviewStatus":"under-review"},
+    {"Book_ID":"rosen-barkin-5min","title":"Rosen & Barkin's 5-Minute Emergency Medicine Consult","edition":"5th ed, 2015","processedPath":"02_PROCESSED_CONTENT/ROSEN_BARKIN_5MIN","ReviewStatus":"under-review"}
+  ],
+  "governance": "Original PDFs are retained in recovery/source artifacts; processed content is derived, traceable, and never published as official guidance without clinical review."
+}

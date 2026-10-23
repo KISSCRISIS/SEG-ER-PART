@@ -1,0 +1,1397 @@
+{
+  "mode": "dark",
+  "results": [
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 320,
+        "scrollWidth": 320,
+        "horizontalOverflow": false
+      },
+      "route": "landing",
+      "rects": {
+        "title": {
+          "left": 10.8,
+          "top": 194.56,
+          "right": 309.2,
+          "bottom": 269.17,
+          "width": 298.41,
+          "height": 74.61
+        },
+        "intro": {
+          "left": 10.8,
+          "top": 289.17,
+          "right": 309.2,
+          "bottom": 365.95,
+          "width": 298.41,
+          "height": 76.78
+        },
+        "cta": {
+          "left": 25.59,
+          "top": 592.34,
+          "right": 294.39,
+          "bottom": 641.94,
+          "width": 268.8,
+          "height": 49.59
+        },
+        "benefits": {
+          "left": 16,
+          "top": 385.95,
+          "right": 304,
+          "bottom": 572.34,
+          "width": 288,
+          "height": 186.39
+        }
+      },
+      "focus": {
+        "selector": ".seg-landing-v4-action",
+        "outlineStyle": "solid",
+        "outlineWidth": "2px",
+        "outlineColor": "rgb(0, 229, 208)",
+        "outlineOffset": "3px",
+        "parent": null
+      },
+      "interactive": {
+        "count": 11,
+        "under44px": 8,
+        "examples": [
+          {
+            "tag": "A",
+            "label": "My Home",
+            "width": 40.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Pathway",
+            "width": 40.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Learn",
+            "width": 40.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Practice",
+            "width": 40.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Atlas & Visual Assets",
+            "width": 40.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Medical Journal",
+            "width": 40.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Account",
+            "width": 40.9,
+            "height": 29.6
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Notifications",
+            "width": 35.2,
+            "height": 35.2
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/landing-320x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 360,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "horizontalOverflow": false
+      },
+      "route": "landing",
+      "rects": {
+        "title": {
+          "left": 10.8,
+          "top": 194.56,
+          "right": 349.2,
+          "bottom": 277.61,
+          "width": 338.41,
+          "height": 83.05
+        },
+        "intro": {
+          "left": 12,
+          "top": 297.61,
+          "right": 348,
+          "bottom": 348.8,
+          "width": 336,
+          "height": 51.19
+        },
+        "cta": {
+          "left": 45.59,
+          "top": 575.19,
+          "right": 314.39,
+          "bottom": 624.78,
+          "width": 268.8,
+          "height": 49.59
+        },
+        "benefits": {
+          "left": 36,
+          "top": 368.8,
+          "right": 324,
+          "bottom": 555.19,
+          "width": 288,
+          "height": 186.39
+        }
+      },
+      "focus": {
+        "selector": ".seg-landing-v4-action",
+        "outlineStyle": "solid",
+        "outlineWidth": "2px",
+        "outlineColor": "rgb(0, 229, 208)",
+        "outlineOffset": "3px",
+        "parent": null
+      },
+      "interactive": {
+        "count": 11,
+        "under44px": 8,
+        "examples": [
+          {
+            "tag": "A",
+            "label": "My Home",
+            "width": 46.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Pathway",
+            "width": 46.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Learn",
+            "width": 46.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Practice",
+            "width": 46.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Atlas & Visual Assets",
+            "width": 46.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Medical Journal",
+            "width": 46.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Account",
+            "width": 46.6,
+            "height": 29.6
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Notifications",
+            "width": 35.2,
+            "height": 35.2
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/landing-360x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "horizontalOverflow": false
+      },
+      "route": "landing",
+      "rects": {
+        "title": {
+          "left": 12.8,
+          "top": 194.56,
+          "right": 377.2,
+          "bottom": 283.91,
+          "width": 364.41,
+          "height": 89.34
+        },
+        "intro": {
+          "left": 27,
+          "top": 303.91,
+          "right": 363,
+          "bottom": 355.09,
+          "width": 336,
+          "height": 51.19
+        },
+        "cta": {
+          "left": 60.59,
+          "top": 581.48,
+          "right": 329.39,
+          "bottom": 631.08,
+          "width": 268.8,
+          "height": 49.59
+        },
+        "benefits": {
+          "left": 59,
+          "top": 375.09,
+          "right": 331,
+          "bottom": 561.48,
+          "width": 272,
+          "height": 186.39
+        }
+      },
+      "focus": {
+        "selector": ".seg-landing-v4-action",
+        "outlineStyle": "solid",
+        "outlineWidth": "2px",
+        "outlineColor": "rgb(0, 229, 208)",
+        "outlineOffset": "3px",
+        "parent": null
+      },
+      "interactive": {
+        "count": 11,
+        "under44px": 8,
+        "examples": [
+          {
+            "tag": "A",
+            "label": "My Home",
+            "width": 50.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Pathway",
+            "width": 50.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Learn",
+            "width": 50.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Practice",
+            "width": 50.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Atlas & Visual Assets",
+            "width": 50.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Medical Journal",
+            "width": 50.9,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Account",
+            "width": 50.9,
+            "height": 29.6
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Notifications",
+            "width": 35.2,
+            "height": 35.2
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/landing-390x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 430,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 430,
+        "scrollWidth": 430,
+        "horizontalOverflow": false
+      },
+      "route": "landing",
+      "rects": {
+        "title": {
+          "left": 12.8,
+          "top": 194.56,
+          "right": 417.2,
+          "bottom": 288.98,
+          "width": 404.41,
+          "height": 94.42
+        },
+        "intro": {
+          "left": 47,
+          "top": 308.98,
+          "right": 383,
+          "bottom": 360.17,
+          "width": 336,
+          "height": 51.19
+        },
+        "cta": {
+          "left": 80.59,
+          "top": 586.56,
+          "right": 349.39,
+          "bottom": 636.16,
+          "width": 268.8,
+          "height": 49.59
+        },
+        "benefits": {
+          "left": 79,
+          "top": 380.17,
+          "right": 351,
+          "bottom": 566.56,
+          "width": 272,
+          "height": 186.39
+        }
+      },
+      "focus": {
+        "selector": ".seg-landing-v4-action",
+        "outlineStyle": "solid",
+        "outlineWidth": "2px",
+        "outlineColor": "rgb(0, 229, 208)",
+        "outlineOffset": "3px",
+        "parent": null
+      },
+      "interactive": {
+        "count": 11,
+        "under44px": 8,
+        "examples": [
+          {
+            "tag": "A",
+            "label": "My Home",
+            "width": 56.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Pathway",
+            "width": 56.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Learn",
+            "width": 56.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Practice",
+            "width": 56.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Atlas & Visual Assets",
+            "width": 56.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "Medical Journal",
+            "width": 56.6,
+            "height": 29.6
+          },
+          {
+            "tag": "A",
+            "label": "My Account",
+            "width": 56.6,
+            "height": 29.6
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Notifications",
+            "width": 35.2,
+            "height": 35.2
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/landing-430x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 320,
+        "scrollWidth": 320,
+        "horizontalOverflow": false
+      },
+      "route": "login",
+      "rects": {
+        "card": {
+          "left": 12,
+          "top": 147.19,
+          "right": 308,
+          "bottom": 672.02,
+          "width": 296,
+          "height": 524.83
+        },
+        "heading": {
+          "left": 26.59,
+          "top": 174.58,
+          "right": 293.41,
+          "bottom": 236.97,
+          "width": 266.81,
+          "height": 62.39
+        },
+        "field": {
+          "left": 26.59,
+          "top": 261.77,
+          "right": 293.41,
+          "bottom": 315.36,
+          "width": 266.81,
+          "height": 53.59
+        },
+        "submit": {
+          "left": 26.59,
+          "top": 439.63,
+          "right": 293.41,
+          "bottom": 494.81,
+          "width": 266.81,
+          "height": 55.19
+        },
+        "socials": {
+          "left": 26.59,
+          "top": 555.53,
+          "right": 293.41,
+          "bottom": 606.72,
+          "width": 266.81,
+          "height": 51.19
+        },
+        "register": {
+          "left": 26.59,
+          "top": 628.31,
+          "right": 293.41,
+          "bottom": 649.42,
+          "width": 266.81,
+          "height": 21.11
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"email\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(108, 190, 245, 0.65)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 10,
+        "under44px": 5,
+        "examples": [
+          {
+            "tag": "INPUT",
+            "label": "Email Address",
+            "width": 201.8,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "Password",
+            "width": 167.4,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 19.2,
+            "height": 19.2
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Forgot password?",
+            "width": 123.4,
+            "height": 21.1
+          },
+          {
+            "tag": "A",
+            "label": "Register",
+            "width": 58.3,
+            "height": 17
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/login-320x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 360,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "horizontalOverflow": false
+      },
+      "route": "login",
+      "rects": {
+        "card": {
+          "left": 12,
+          "top": 147.19,
+          "right": 348,
+          "bottom": 674.83,
+          "width": 336,
+          "height": 527.64
+        },
+        "heading": {
+          "left": 26.59,
+          "top": 174.58,
+          "right": 333.41,
+          "bottom": 239.78,
+          "width": 306.81,
+          "height": 65.2
+        },
+        "field": {
+          "left": 26.59,
+          "top": 264.58,
+          "right": 333.41,
+          "bottom": 318.17,
+          "width": 306.81,
+          "height": 53.59
+        },
+        "submit": {
+          "left": 26.59,
+          "top": 442.44,
+          "right": 333.41,
+          "bottom": 497.63,
+          "width": 306.81,
+          "height": 55.19
+        },
+        "socials": {
+          "left": 26.59,
+          "top": 558.34,
+          "right": 333.41,
+          "bottom": 609.53,
+          "width": 306.81,
+          "height": 51.19
+        },
+        "register": {
+          "left": 26.59,
+          "top": 631.13,
+          "right": 333.41,
+          "bottom": 652.23,
+          "width": 306.81,
+          "height": 21.11
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"email\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(108, 190, 245, 0.65)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 10,
+        "under44px": 5,
+        "examples": [
+          {
+            "tag": "INPUT",
+            "label": "Email Address",
+            "width": 241.8,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "Password",
+            "width": 207.4,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 19.2,
+            "height": 19.2
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Forgot password?",
+            "width": 123.4,
+            "height": 21.1
+          },
+          {
+            "tag": "A",
+            "label": "Register",
+            "width": 58.3,
+            "height": 17
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/login-360x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "horizontalOverflow": false
+      },
+      "route": "login",
+      "rects": {
+        "card": {
+          "left": 16,
+          "top": 147.19,
+          "right": 374,
+          "bottom": 676.02,
+          "width": 358,
+          "height": 528.83
+        },
+        "heading": {
+          "left": 33,
+          "top": 174.58,
+          "right": 357,
+          "bottom": 240.97,
+          "width": 324,
+          "height": 66.39
+        },
+        "field": {
+          "left": 33,
+          "top": 265.77,
+          "right": 357,
+          "bottom": 319.36,
+          "width": 324,
+          "height": 53.59
+        },
+        "submit": {
+          "left": 33,
+          "top": 443.63,
+          "right": 357,
+          "bottom": 498.81,
+          "width": 324,
+          "height": 55.19
+        },
+        "socials": {
+          "left": 33,
+          "top": 559.53,
+          "right": 357,
+          "bottom": 610.72,
+          "width": 324,
+          "height": 51.19
+        },
+        "register": {
+          "left": 33,
+          "top": 632.31,
+          "right": 357,
+          "bottom": 653.42,
+          "width": 324,
+          "height": 21.11
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"email\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(108, 190, 245, 0.65)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 10,
+        "under44px": 5,
+        "examples": [
+          {
+            "tag": "INPUT",
+            "label": "Email Address",
+            "width": 259,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "Password",
+            "width": 224.6,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 19.2,
+            "height": 19.2
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Forgot password?",
+            "width": 123.4,
+            "height": 21.1
+          },
+          {
+            "tag": "A",
+            "label": "Register",
+            "width": 58.3,
+            "height": 17
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/login-390x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 430,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 430,
+        "scrollWidth": 430,
+        "horizontalOverflow": false
+      },
+      "route": "login",
+      "rects": {
+        "card": {
+          "left": 16,
+          "top": 147.19,
+          "right": 414,
+          "bottom": 676.02,
+          "width": 398,
+          "height": 528.83
+        },
+        "heading": {
+          "left": 33,
+          "top": 174.58,
+          "right": 397,
+          "bottom": 240.97,
+          "width": 364,
+          "height": 66.39
+        },
+        "field": {
+          "left": 33,
+          "top": 265.77,
+          "right": 397,
+          "bottom": 319.36,
+          "width": 364,
+          "height": 53.59
+        },
+        "submit": {
+          "left": 33,
+          "top": 443.63,
+          "right": 397,
+          "bottom": 498.81,
+          "width": 364,
+          "height": 55.19
+        },
+        "socials": {
+          "left": 33,
+          "top": 559.53,
+          "right": 397,
+          "bottom": 610.72,
+          "width": 364,
+          "height": 51.19
+        },
+        "register": {
+          "left": 33,
+          "top": 632.31,
+          "right": 397,
+          "bottom": 653.42,
+          "width": 364,
+          "height": 21.11
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"email\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(108, 190, 245, 0.65)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 10,
+        "under44px": 5,
+        "examples": [
+          {
+            "tag": "INPUT",
+            "label": "Email Address",
+            "width": 299,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "Password",
+            "width": 264.6,
+            "height": 21.6
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 19.2,
+            "height": 19.2
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Forgot password?",
+            "width": 123.4,
+            "height": 21.1
+          },
+          {
+            "tag": "A",
+            "label": "Register",
+            "width": 58.3,
+            "height": 17
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/login-430x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 320,
+        "scrollWidth": 320,
+        "horizontalOverflow": false
+      },
+      "route": "register",
+      "rects": {
+        "form": {
+          "left": 0,
+          "top": 0,
+          "right": 320,
+          "bottom": 1755.08,
+          "width": 320,
+          "height": 1755.08
+        },
+        "heading": {
+          "left": 14.59,
+          "top": 85,
+          "right": 305.41,
+          "bottom": 181,
+          "width": 290.81,
+          "height": 96
+        },
+        "field": {
+          "left": 14.59,
+          "top": 291.38,
+          "right": 305.41,
+          "bottom": 348.17,
+          "width": 290.81,
+          "height": 56.8
+        },
+        "roleGrid": {
+          "left": 14.59,
+          "top": 699.97,
+          "right": 305.41,
+          "bottom": 1089.56,
+          "width": 290.81,
+          "height": 389.59
+        },
+        "submit": {
+          "left": 14.59,
+          "top": 1358.19,
+          "right": 305.41,
+          "bottom": 1419.78,
+          "width": 290.81,
+          "height": 61.59
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"fullName\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(148, 163, 184, 0.3)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 29,
+        "under44px": 9,
+        "examples": [
+          {
+            "tag": "BUTTON",
+            "label": "Show password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Show confirm password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "SELECT",
+            "label": "Professional role",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "JordanSaudi ArabiaUnited Arab EmiratesEgypt",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "20262025202420232022202120202019201820172016201520142013201220112010",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 14.9,
+            "height": 18.4
+          },
+          {
+            "tag": "A",
+            "label": "Terms of Service",
+            "width": 115.9,
+            "height": 17
+          },
+          {
+            "tag": "A",
+            "label": "Privacy Policy",
+            "width": 95.2,
+            "height": 17
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Sign in",
+            "width": 51,
+            "height": 22.8
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/register-320x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 360,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "horizontalOverflow": false
+      },
+      "route": "register",
+      "rects": {
+        "form": {
+          "left": 0,
+          "top": 0,
+          "right": 360,
+          "bottom": 1686.2,
+          "width": 360,
+          "height": 1686.2
+        },
+        "heading": {
+          "left": 14.59,
+          "top": 85,
+          "right": 345.41,
+          "bottom": 133,
+          "width": 330.81,
+          "height": 48
+        },
+        "field": {
+          "left": 14.59,
+          "top": 222.5,
+          "right": 345.41,
+          "bottom": 279.3,
+          "width": 330.81,
+          "height": 56.8
+        },
+        "roleGrid": {
+          "left": 14.59,
+          "top": 631.09,
+          "right": 345.41,
+          "bottom": 1020.69,
+          "width": 330.81,
+          "height": 389.59
+        },
+        "submit": {
+          "left": 14.59,
+          "top": 1289.31,
+          "right": 345.41,
+          "bottom": 1350.91,
+          "width": 330.81,
+          "height": 61.59
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"fullName\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(148, 163, 184, 0.3)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 29,
+        "under44px": 9,
+        "examples": [
+          {
+            "tag": "BUTTON",
+            "label": "Show password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Show confirm password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "SELECT",
+            "label": "Professional role",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "JordanSaudi ArabiaUnited Arab EmiratesEgypt",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "20262025202420232022202120202019201820172016201520142013201220112010",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 16.7,
+            "height": 18.4
+          },
+          {
+            "tag": "A",
+            "label": "Terms of Service",
+            "width": 115.9,
+            "height": 17
+          },
+          {
+            "tag": "A",
+            "label": "Privacy Policy",
+            "width": 293.5,
+            "height": 38.6
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Sign in",
+            "width": 51,
+            "height": 22.8
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/register-360x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "horizontalOverflow": false
+      },
+      "route": "register",
+      "rects": {
+        "form": {
+          "left": 0,
+          "top": 0,
+          "right": 390,
+          "bottom": 1686.2,
+          "width": 390,
+          "height": 1686.2
+        },
+        "heading": {
+          "left": 17,
+          "top": 85,
+          "right": 373,
+          "bottom": 133,
+          "width": 356,
+          "height": 48
+        },
+        "field": {
+          "left": 17,
+          "top": 222.5,
+          "right": 373,
+          "bottom": 279.3,
+          "width": 356,
+          "height": 56.8
+        },
+        "roleGrid": {
+          "left": 17,
+          "top": 631.09,
+          "right": 373,
+          "bottom": 1020.69,
+          "width": 356,
+          "height": 389.59
+        },
+        "submit": {
+          "left": 17,
+          "top": 1289.31,
+          "right": 373,
+          "bottom": 1350.91,
+          "width": 356,
+          "height": 61.59
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"fullName\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(148, 163, 184, 0.3)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 29,
+        "under44px": 9,
+        "examples": [
+          {
+            "tag": "BUTTON",
+            "label": "Show password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Show confirm password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "SELECT",
+            "label": "Professional role",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "JordanSaudi ArabiaUnited Arab EmiratesEgypt",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "20262025202420232022202120202019201820172016201520142013201220112010",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 17.9,
+            "height": 18.4
+          },
+          {
+            "tag": "A",
+            "label": "Terms of Service",
+            "width": 115.9,
+            "height": 17
+          },
+          {
+            "tag": "A",
+            "label": "Privacy Policy",
+            "width": 293.5,
+            "height": 38.6
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Sign in",
+            "width": 51,
+            "height": 22.8
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/register-390x844.png"
+    },
+    {
+      "theme": "dark",
+      "viewport": {
+        "width": 430,
+        "height": 844
+      },
+      "document": {
+        "clientWidth": 430,
+        "scrollWidth": 430,
+        "horizontalOverflow": false
+      },
+      "route": "register",
+      "rects": {
+        "form": {
+          "left": 0,
+          "top": 0,
+          "right": 430,
+          "bottom": 1664.59,
+          "width": 430,
+          "height": 1664.59
+        },
+        "heading": {
+          "left": 17,
+          "top": 85,
+          "right": 413,
+          "bottom": 133,
+          "width": 396,
+          "height": 48
+        },
+        "field": {
+          "left": 17,
+          "top": 222.5,
+          "right": 413,
+          "bottom": 279.3,
+          "width": 396,
+          "height": 56.8
+        },
+        "roleGrid": {
+          "left": 17,
+          "top": 631.09,
+          "right": 413,
+          "bottom": 1020.69,
+          "width": 396,
+          "height": 389.59
+        },
+        "submit": {
+          "left": 17,
+          "top": 1267.7,
+          "right": 413,
+          "bottom": 1329.3,
+          "width": 396,
+          "height": 61.59
+        }
+      },
+      "focus": {
+        "selector": "input[name=\"fullName\"]",
+        "outlineStyle": "none",
+        "outlineWidth": "0px",
+        "outlineColor": "rgb(255, 255, 255)",
+        "outlineOffset": "3px",
+        "parent": {
+          "borderColor": "rgba(148, 163, 184, 0.3)",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      },
+      "interactive": {
+        "count": 29,
+        "under44px": 9,
+        "examples": [
+          {
+            "tag": "BUTTON",
+            "label": "Show password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Show confirm password",
+            "width": 52,
+            "height": 43
+          },
+          {
+            "tag": "SELECT",
+            "label": "Professional role",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "JordanSaudi ArabiaUnited Arab EmiratesEgypt",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "SELECT",
+            "label": "20262025202420232022202120202019201820172016201520142013201220112010",
+            "width": 1,
+            "height": 1
+          },
+          {
+            "tag": "INPUT",
+            "label": "",
+            "width": 18.4,
+            "height": 18.4
+          },
+          {
+            "tag": "A",
+            "label": "Terms of Service",
+            "width": 115.9,
+            "height": 17
+          },
+          {
+            "tag": "A",
+            "label": "Privacy Policy",
+            "width": 95.2,
+            "height": 17
+          },
+          {
+            "tag": "BUTTON",
+            "label": "Sign in",
+            "width": 51,
+            "height": 22.8
+          }
+        ]
+      },
+      "file": "/home/ubuntu/seg-manus-status/SEG_UI_PATCH1_EVIDENCE/dark/register-430x844.png"
+    }
+  ]
+}

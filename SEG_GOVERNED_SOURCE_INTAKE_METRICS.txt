@@ -1,0 +1,54 @@
+=== /home/ubuntu/upload/SEGFinalSourceValidationandFileReview.zip ===
+entries=272
+pdf=0
+html=1
+image=66
+video=0
+question_bank=0
+book=0
+medical_governance=0
+review=33
+rights=0
+copyright=0
+provenance=0
+checksum=0
+reference=24
+citation=24
+signature=0
+approval=9
+audit=28
+manifest=4
+=== /home/ubuntu/SEG_TRANSFER_BUNDLE.zip ===
+entries=313
+pdf=0
+html=2
+image=7
+video=0
+question_bank=0
+book=0
+medical_governance=0
+review=25
+rights=0
+copyright=0
+provenance=0
+checksum=0
+reference=4
+citation=4
+signature=0
+approval=5
+audit=20
+manifest=3
+=== current governed template readiness terms ===
+      1 Approved
+      2 Audit
+      1 Checksum
+      1 Provenance
+      2 Rights
+      6 approved
+      3 audit
+      6 checksum
+      2 medical_review
+      1 reviewed_at
+      9 reviewer
+      6 rights
+      2 signed

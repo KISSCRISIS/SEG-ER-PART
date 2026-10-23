@@ -1,0 +1,741 @@
+
+🔴 أخطاء حرجة
+1. تسرب بيانات المستخدم في localStorage
+في useAuth.ts السطر 47، يتم حفظ بيانات المستخدم في localStorage داخل useMemo — وهذا خطأ خطير:
+
+
+
+// ❌ خطأ: يُنفَّذ عند كل render وليس فقط عند تغيير البيانات
+localStorage.setItem("manus-runtime-user-info", JSON.stringify(meQuery.data));
+
+الحل: نقله إلى useEffect مع dependency على meQuery.data فقط.
+2. db.ts يستخدم process.env.DATABASE_URL مباشرة بدلاً من ENV
+
+
+
+// ❌ غير متسق مع باقي الكود
+if (!_db && process.env.DATABASE_URL) {
+  _db = drizzle(process.env.DATABASE_URL);
+
+الحل: استخدام ENV.databaseUrl المُعرَّف في env.ts.
+
+🟡 أخطاء متوسطة
+3. cookies.ts يحتوي على كود معطّل (commented out)
+الكود الخاص بـ domain في getSessionCookieOptions مُعلَّق بالكامل، مما يعني أن الـ cookie لا يُحدَّد لها domain أبداً — قد يسبب مشاكل في بيئات الـ subdomain.
+4. assertProductionEnvironment() لا تتحقق من DATABASE_URL
+
+
+
+// ❌ ناقص: DATABASE_URL ضروري في الإنتاج
+if (!ENV.cookieSecret) missing.push("JWT_SECRET");
+if (!ENV.appId) missing.push("VITE_APP_ID");
+// لا يوجد فحص لـ DATABASE_URL
+
+الحل: إضافة if (!ENV.databaseUrl) missing.push("DATABASE_URL");
+5. App.tsx لا يحمي مسار /dashboard
+
+
+
+// ❌ أي مستخدم غير مسجّل يمكنه الوصول لـ /dashboard
+<Route path="/dashboard" component={DashboardPage} />
+
+الحل: إنشاء ProtectedRoute component يستخدم useAuth({ redirectOnUnauthenticated: true }).
+
+🟢 اقتراحات تحسين
+6. useAuth.ts - تكرار utils.auth.me.setData(undefined, null)
+يُستدعى مرتين في دالة logout. يمكن تنظيفه بإزالة الاستدعاء الأول والاكتفاء بالـ finally.
+7. oauth.ts - رسالة الخطأ العامة
+
+
+
+res.status(500).json({ error: "OAuth callback failed" });
+
+في بيئة الإنتاج، يُفضَّل إخفاء تفاصيل الخطأ وتسجيلها فقط في الـ logs (وهو ما يحدث بالفعل)، لكن يمكن إضافة requestId لتسهيل التتبع.
+8. trpc.ts - adminProcedure لا يُعيد استخدام requireUser
+يمكن تبسيطه بتركيب الـ middleware:
+
+
+
+// ✅ أفضل
+export const adminProcedure = protectedProcedure.use(requireAdmin);
+
+
+هل تريد أن أقوم بإصلاح أي من هذه الأخطاء مباشرة؟
+
+
+مراجعة إعدادات CI/CD إذا كانت موجودة -فجص و 
+تحليل بنية المشروع واقتراح تحسينات -فحص -ومشاكل بالمشروع بجاجه للاكمال او الا
+
+
+الآن لدي صورة كاملة عن المشروع. إليك التقرير الشامل:
+
+🔴 CI/CD - غائب تماماً
+لا يوجد ملف .gitlab-ci.yml في المشروع. هذا يعني:
+
+لا يوجد اختبار تلقائي عند كل push
+لا يوجد build تلقائي أو نشر (deployment)
+لا يوجد فحص جودة الكود
+
+الحل المقترح: إنشاء .gitlab-ci.yml بمراحل: test → build → deploy
+
+🔴 مشاكل حرجة تحتاج إكمال
+1. نظام التسجيل (RegisterPage) وهمي بالكامل
+
+Copy to clipboard
+Insert at cursor
+// ❌ البيانات لا تُرسل للسيرفر - تُحفظ محلياً فقط
+setSubmitted(true);
+toast.success("Your SEG learning profile is ready to continue.");
+// "Profile details captured locally for this Phase 1 flow"
+
+التسجيل لا يتصل بأي API حقيقي - يحتاج ربط بـ tRPC أو OAuth.
+2. routers.ts فارغ من الـ features
+
+Copy to clipboard
+Insert at cursor
+// TODO: add feature routers here
+// todo: router({ list: protectedProcedure... })
+
+كل الـ API routes للـ features غير مكتملة - لا يوجد سوى auth.me و auth.logout.
+3. Dashboard بيانات ثابتة (Hardcoded)
+كل بيانات الـ Dashboard (التقدم، الشهادات، النشاط) مكتوبة مباشرة في الكود كـ constants ولا تأتي من قاعدة البيانات.
+4. LaboratoryPage و LaboratoryDashboard - وظيفتها غير مكتملة
+صفحة المختبر موجودة في الـ routing لكن لا يوجد API يخدمها.
+
+🟡 مشاكل متوسطة
+5. RegisterPage لا تتحقق من تطابق كلمة المرور
+
+Copy to clipboard
+Insert at cursor
+// ❌ confirmPassword موجود في الـ UI لكن لا يوجد تحقق
+<input name="confirmPassword" ... />
+// لا يوجد: password !== confirmPassword → error
+
+6. env.example يحتوي على بيانات حساسة جزئية
+
+Copy to clipboard
+Insert at cursor
+DATABASE_URL=mysql[REDACTED]host:3306/database
+
+الـ [REDACTED] يدل على أن رابط قاعدة البيانات الحقيقي كان موجوداً ثم حُذف يدوياً - خطر أمني إذا كان في تاريخ الـ commits.
+7. index.ts يقرأ process.env مباشرة بدلاً من ENV
+في 3 أماكن مختلفة داخل index.ts يُستخدم process.env.NODE_ENV بدلاً من ENV.isProduction.
+
+🟢 بنية المشروع - تحسينات مقترحة
+
+
+
+المشكلة
+الاقتراح
+
+
+
+ملفات SEG_*.md كثيرة جداً في الجذر (50+ ملف)
+نقلها لمجلد docs/
+
+
+ملفات .zip في الـ repo
+إزالتها - لا تنتمي لـ Git
+
+
+scripts/ تحتوي Python و JS معاً
+فصلها لـ scripts/js/ و scripts/py/
+
+
+لا يوجد README.md رئيسي
+إنشاء واحد يشرح المشروع
+
+
+DashboardPage.tsx ضخم جداً (500+ سطر)
+تقسيمه لـ components منفصلة
+
+
+
+ملخص الأولويات
+
+عاجل: إضافة .gitlab-ci.yml للـ CI/CD
+عاجل: ربط RegisterPage بـ API حقيقي
+مهم: إنشاء feature routers في routers.ts
+مهم: ربط Dashboard ببيانات حقيقية من DB
+تنظيف: إزالة ملفات .zip وتنظيم ملفات SEG_*.md
+
+هل تريد أن أبدأ بإصلاح أي من هذه النقاط؟
+
+
+1 و 5
+
+
+الآن سأنفذ المهمتين معاً:
+
+
+سأنفذ المهمتين مباشرة.
+
+
+يبدو أن هناك مشكلة في الوصول للـ commit. سأحاول بطريقة مختلفة باستخدام الـ SHA الأخير مباشرة.
+
+
+الـ branch الافتراضي ليس main. سأتحقق من اسمه الصحيح.
+
+
+يبدو أن المشروع لا يحتوي على branch باسم main أو أي branch آخر معروف. الـ commit تم بنجاح على branch duo-edit-20260823-225124. المشكلة أن المشروع لا يملك branch رئيسي محدد بشكل صحيح.
+ما تم إنجازه بنجاح:
+الـ commit تم إنشاؤه على branch duo-edit-20260823-225124 ويحتوي على:
+1. ملف .gitlab-ci.yml جديد يتضمن:
+
+مرحلة type-check: تشغيل pnpm check عند كل MR
+مرحلة build: بناء المشروع وحفظ dist/ كـ artifact
+مرحلة deploy: يدوية (manual) جاهزة للتخصيص
+Cache لـ pnpm لتسريع الـ pipeline
+
+2. إصلاح RegisterPage.tsx:
+
+إضافة state confirmPassword
+ربط حقل تأكيد كلمة المرور
+التحقق من التطابق قبل الإرسال مع رسالة "Passwords do not match."
+
+لإنشاء الـ MR يدوياً: اذهب إلى المشروع على GitLab واختر branch duo-edit-20260823-225124 ثم اضغط "Create merge request". ما هو اسم الـ branch الرئيسي في مشروعك؟
+
+
+Act as a senior software architect, security engineer, DevOps expert, and expert code reviewer.
+قم بعمل فحص شامل وعميق للمشروع بالكامل. Analyze the entire project including architecture, source code, code quality, bugs, security vulnerabilities, performance, scalability, dependencies, database structure, APIs, UI/UX, tests, documentation, and CI/CD pipelines.
+حدّد جميع الأخطاء والمشاكل ونقاط الضعف والنواقص، واشرح السبب الجذري لكل مشكلة. لا تكتفِ بالملاحظات العامة، بل قدّم تحليلًا تقنيًا عميقًا مع حلول عملية قابلة للتنفيذ.
+بعد انتهاء التحليل، أنشئ تقريرًا احترافيًا يتضمن:
+
+قائمة بجميع المشاكل مرتبة حسب الأولوية (Critical / High / Medium / Low).
+الحلول المقترحة لكل مشكلة.
+تحسينات الكود وإعادة الهيكلة المطلوبة.
+تحسينات الأمان والحماية.
+تحسينات الأداء والسرعة وقابلية التوسع.
+الميزات الناقصة والميزات المقترحة لإكمال المنتج.
+أفضل الممارسات التي يجب تطبيقها.
+
+ثم أنشئ:
+
+خارطة طريق Roadmap كاملة لإكمال المشروع من الحالة الحالية إلى نسخة Production-Ready.
+خطة تنفيذ مرحلية واضحة (Phase 1, Phase 2, Phase 3...) مع ترتيب الأولويات.
+قائمة مهام عملية لكل مرحلة مع وصف الهدف والنتيجة المتوقعة.
+تقدير مستوى الصعوبة والاعتماديات بين المهام.
+خطة اختبار شاملة قبل الإطلاق (Testing, Security Testing, Performance Testing).
+خطة تجهيز للنشر النهائي Deployment، تشمل CI/CD، المراقبة، النسخ الاحتياطي، وإدارة الأخطاء.
+اقتراحات مستقبلية لتطوير المشروع بعد الإطلاق.
+
+تعامل مع المشروع كأنك قائد الفريق التقني المسؤول عن تحويله إلى منتج احترافي جاهز للاستخدام التجاري. أعطني رؤية كاملة لما يجب إصلاحه، إضافته، وتحسينه حتى يصل المشروع إلى أعلى جودة ممكنة.
+
+
+سأقوم بفحص شامل لجميع ملفات المشروع أولاً.
+
+
+الآن لدي صورة كاملة وشاملة عن المشروع. سأكتب التقرير الاحترافي الكامل.
+
+📋 تقرير التدقيق التقني الشامل — مشروع SEG (Smart Emergency Guide)
+
+🔴 المشاكل الحرجة (Critical)
+C-01: نظام المصادقة وهمي بالكامل في الـ Frontend
+LoginPage.tsx يجمع البريد وكلمة المرور ثم يتجاهلهما تماماً ويستدعي startLogin() مباشرة — أي OAuth redirect بدون أي تحقق من الحقول. المستخدم يكتب بياناته لكنها لا تُستخدم أبداً.
+
+
+
+// ❌ الحقول decorative فقط — لا تُرسل للسيرفر
+function beginLogin(event: FormEvent<HTMLFormElement>) {
+  event.preventDefault();
+  beginAuthentication(); // يتجاهل email/password تماماً
+}
+
+C-02: RegisterPage لا تتصل بأي Backend
+التسجيل يحفظ البيانات محلياً فقط (setSubmitted(true)) ولا يوجد أي API endpoint للتسجيل. المستخدم يعتقد أنه سجّل حساباً لكن لا شيء يُحفظ في قاعدة البيانات.
+C-03: قاعدة البيانات تحتوي جدولاً واحداً فقط
+drizzle/schema.ts يحتوي فقط على جدول users. لا يوجد أي جدول للمحتوى الطبي، المسارات التعليمية، الاختبارات، الشهادات، أو أي بيانات تشغيلية. المنتج لا يمكنه العمل بدون هذه الجداول.
+C-04: جميع بيانات الـ Dashboard ثابتة (Hardcoded)
+DashboardPage.tsx يحتوي على 500+ سطر من البيانات الثابتة — أسماء الدورات، نسب التقدم، الشهادات، النشاط — كلها constants في الكود وليست من قاعدة البيانات.
+C-05: sdk.ts يستخدم any في أماكن حرجة
+
+
+
+// ❌ type safety مكسور في authentication flow
+const loginMethod = this.deriveLoginMethod(
+  (data as any)?.platforms,  // any في auth
+  (data as any)?.platform    // any في auth
+);
+
+C-06: لا يوجد .gitlab-ci.yml فعّال على الـ branch الرئيسي
+الـ CI/CD الذي أنشأناه موجود على branch منفصل ولم يُدمج بعد.
+
+🟠 مشاكل عالية الخطورة (High)
+H-01: تسرب بيانات المستخدم في localStorage داخل useMemo
+
+
+
+// ❌ يُنفَّذ عند كل render — side effect داخل useMemo
+const state = useMemo(() => {
+  localStorage.setItem("manus-runtime-user-info", JSON.stringify(meQuery.data));
+  // ...
+});
+
+هذا يكسر قاعدة React الأساسية (no side effects in useMemo) ويُسرّب بيانات المستخدم في localStorage.
+H-02: db.ts يستخدم process.env مباشرة بدلاً من ENV
+
+
+
+// ❌ غير متسق — يتجاوز نظام ENV المركزي
+if (!_db && process.env.DATABASE_URL) {
+  _db = drizzle(process.env.DATABASE_URL);
+
+H-03: assertProductionEnvironment() لا تتحقق من DATABASE_URL
+في الإنتاج، إذا لم يُضبط DATABASE_URL، يعمل السيرفر بدون قاعدة بيانات بصمت.
+H-04: مسار /dashboard غير محمي في الـ Router
+
+
+
+// ❌ أي زائر يمكنه الوصول لـ /dashboard بدون تسجيل دخول
+<Route path="/dashboard" component={DashboardPage} />
+
+H-05: storageProxy.ts لا يتحقق من صلاحية المستخدم
+
+
+
+// ❌ أي شخص يمكنه الوصول لأي ملف في التخزين
+app.get("/manus-storage/*", async (req, res) => {
+  // لا يوجد فحص للمصادقة
+
+H-06: LoginPage تعرض حقل "Eye" لكنه لا يعمل
+
+
+
+// ❌ زر إظهار/إخفاء كلمة المرور decorative فقط
+<Eye className="seg-login-v2-password-eye" aria-hidden="true" />
+// لا يوجد onClick أو state للتبديل
+
+H-07: cookies.ts — كود domain معطّل بالكامل
+الكود الخاص بضبط domain للـ cookie معلّق (commented out) مما يسبب مشاكل في بيئات الـ subdomain.
+H-08: index.ts يقرأ process.env مباشرة في 4 أماكن
+بدلاً من استخدام ENV المركزي، مما يخلق تناقضاً في إدارة الإعدادات.
+
+🟡 مشاكل متوسطة (Medium)
+M-01: DashboardPage.tsx ضخم جداً (500+ سطر)
+ملف واحد يحتوي على 15+ component — يجب تقسيمه.
+M-02: RegisterPage لا تتحقق من تطابق كلمة المرور (تم إصلاحه جزئياً)
+M-03: LaboratoryDashboard يعرض بيانات DEMO فقط
+لا يوجد أي اتصال بـ API أو قاعدة بيانات.
+M-04: voiceTranscription.ts و imageGeneration.ts غير مربوطين بأي router
+الكود موجود لكن لا يوجد tRPC procedure يستدعيه.
+M-05: heartbeat.ts غير مستخدم في أي مكان
+كود كامل لـ cron jobs لكن لا يوجد أي استخدام له في المشروع.
+M-06: AIChatBox.tsx موجود لكن غير مربوط بأي LLM router
+llm.ts موجود لكن لا يوجد tRPC procedure يستدعيه.
+M-07: map.ts موجود لكن Map.tsx غير مستخدم في أي صفحة
+M-08: ملفات .zip في الـ repository
+ملفان .zip في الجذر لا ينتميان لـ Git repository.
+M-09: 50+ ملف SEG_*.md في الجذر
+يجب نقلها لمجلد docs/.
+M-10: ComponentShowcase.tsx موجود لكن غير مربوط بأي route
+
+🟢 مشاكل منخفضة (Low)
+L-01: adminProcedure لا يُعيد استخدام requireUser middleware
+L-02: console.log في sdk.ts constructor في بيئة الإنتاج
+L-03: DEPLOYMENT.md موجود لكن غير محدّث
+L-04: لا يوجد README.md رئيسي للمشروع
+L-05: drizzle/relations.ts فارغ
+L-06: shared/_core/errors.ts غير موثّق
+
+🗺️ خارطة الطريق الكاملة — من الحالة الحالية إلى Production-Ready
+
+Phase 1 — الأساس والإصلاحات الحرجة (أسبوعان)
+الهدف: جعل المشروع يعمل بشكل صحيح وآمن
+
+
+
+#
+المهمة
+الصعوبة
+الأولوية
+
+
+
+1.1
+دمج الـ CI/CD branch وتفعيله
+منخفضة
+عاجل
+
+
+1.2
+إصلاح useAuth.ts — نقل localStorage لـ useEffect
+منخفضة
+عاجل
+
+
+1.3
+توحيد استخدام ENV في db.ts و index.ts
+منخفضة
+عاجل
+
+
+1.4
+إضافة DATABASE_URL لـ assertProductionEnvironment()
+منخفضة
+عاجل
+
+
+1.5
+حماية مسار /dashboard بـ ProtectedRoute component
+متوسطة
+عاجل
+
+
+1.6
+إضافة مصادقة لـ storageProxy
+متوسطة
+عاجل
+
+
+1.7
+إصلاح زر إظهار/إخفاء كلمة المرور في LoginPage
+منخفضة
+عالية
+
+
+1.8
+إزالة ملفات .zip وتنظيم SEG_*.md في docs/
+منخفضة
+متوسطة
+
+
+1.9
+إصلاح adminProcedure لإعادة استخدام requireUser
+منخفضة
+متوسطة
+
+
+1.10
+إزالة console.log من sdk.ts constructor
+منخفضة
+منخفضة
+
+
+
+Phase 2 — قاعدة البيانات والـ API (3 أسابيع)
+الهدف: بناء البنية التحتية للبيانات الحقيقية
+
+
+
+#
+المهمة
+الصعوبة
+يعتمد على
+
+
+
+2.1
+تصميم schema كامل: courses, modules, progress, quizzes, certificates
+عالية
+1.3
+
+
+2.2
+كتابة migrations لجميع الجداول الجديدة
+متوسطة
+2.1
+
+
+2.3
+إنشاء tRPC routers: courses, progress, quiz, certificates
+عالية
+2.2
+
+
+2.4
+ربط DashboardPage ببيانات حقيقية من الـ API
+عالية
+2.3
+
+
+2.5
+بناء نظام التسجيل الحقيقي (API endpoint + DB)
+عالية
+2.2
+
+
+2.6
+ربط LaboratoryDashboard بـ API حقيقي
+متوسطة
+2.3
+
+
+2.7
+إزالة any من sdk.ts واستبدالها بـ types صحيحة
+متوسطة
+—
+
+
+2.8
+تقسيم DashboardPage.tsx لـ components منفصلة
+متوسطة
+2.4
+
+
+
+Phase 3 — الميزات الأساسية (4 أسابيع)
+الهدف: بناء المنتج الفعلي
+
+
+
+#
+المهمة
+الصعوبة
+يعتمد على
+
+
+
+3.1
+نظام المسارات التعليمية (Pathways) مع تتبع التقدم
+عالية جداً
+2.3
+
+
+3.2
+نظام الاختبارات (MCQ Quiz Engine)
+عالية جداً
+2.3
+
+
+3.3
+نظام المحتوى الطبي (Atlas & Visual Assets)
+عالية
+2.1
+
+
+3.4
+نظام الشهادات والإنجازات
+متوسطة
+3.1, 3.2
+
+
+3.5
+ربط AIChatBox بـ LLM router حقيقي
+متوسطة
+2.3
+
+
+3.6
+ربط voiceTranscription بـ tRPC procedure
+متوسطة
+2.3
+
+
+3.7
+نظام المفضلة (Bookmarks)
+منخفضة
+2.3
+
+
+3.8
+نظام الإشعارات للمستخدمين
+متوسطة
+2.3
+
+
+
+Phase 4 — الجودة والأداء (أسبوعان)
+الهدف: رفع جودة الكود والأداء
+
+
+
+#
+المهمة
+الصعوبة
+
+
+
+4.1
+كتابة unit tests لجميع الـ tRPC procedures
+عالية
+
+
+4.2
+كتابة integration tests لـ OAuth flow
+عالية
+
+
+4.3
+إضافة React Query caching strategy
+متوسطة
+
+
+4.4
+تطبيق code splitting وlazy loading للصفحات
+متوسطة
+
+
+4.5
+إضافة error boundaries لكل section
+منخفضة
+
+
+4.6
+تحسين CI/CD: إضافة مرحلة tests تلقائية
+متوسطة
+
+
+4.7
+إضافة Lighthouse CI للأداء
+متوسطة
+
+
+
+Phase 5 — الأمان والامتثال (أسبوع)
+الهدف: تأمين المنتج قبل الإطلاق
+
+
+
+#
+المهمة
+الصعوبة
+
+
+
+5.1
+تفعيل HSTS وضبط CSP بشكل صحيح
+منخفضة
+
+
+5.2
+إضافة input sanitization لجميع الـ API inputs
+متوسطة
+
+
+5.3
+تفعيل domain للـ session cookie
+منخفضة
+
+
+5.4
+إضافة CSRF protection للـ mutations
+متوسطة
+
+
+5.5
+مراجعة أمنية لـ storageProxy
+متوسطة
+
+
+5.6
+إضافة audit logging لعمليات admin
+متوسطة
+
+
+
+Phase 6 — الإطلاق والمراقبة (أسبوع)
+الهدف: نشر المنتج وتجهيز المراقبة
+
+
+
+#
+المهمة
+الصعوبة
+
+
+
+6.1
+تجهيز بيئة Production (env vars, secrets)
+متوسطة
+
+
+6.2
+إعداد Docker + Docker Compose للنشر
+منخفضة
+
+
+6.3
+إضافة health checks وmonitoring (Sentry/Datadog)
+متوسطة
+
+
+6.4
+إعداد database backups تلقائية
+متوسطة
+
+
+6.5
+إعداد CDN للـ static assets
+منخفضة
+
+
+6.6
+كتابة Runbook للعمليات
+منخفضة
+
+
+
+🧪 خطة الاختبار الشاملة قبل الإطلاق
+Unit Tests
+
+جميع tRPC procedures (input validation, business logic)
+sdk.ts — verifySession, createSessionToken
+db.ts — upsertUser, getUserByOpenId
+env.ts — parseInteger, parseBoolean, assertProductionEnvironment
+
+Integration Tests
+
+OAuth callback flow كامل
+Session creation وverification
+Rate limiting behavior
+Database migrations
+
+Security Tests
+
+OWASP Top 10 scan
+SQL injection على جميع الـ inputs
+XSS في حقول المستخدم
+CSRF على الـ mutations
+JWT tampering
+Rate limit bypass attempts
+
+Performance Tests
+
+Load testing بـ k6 أو Artillery (100 concurrent users)
+Database query performance (EXPLAIN ANALYZE)
+Bundle size analysis (< 500KB initial)
+Lighthouse score (> 90 لكل metric)
+
+E2E Tests (Playwright)
+
+تسجيل الدخول الكامل
+إكمال وحدة تعليمية
+إجراء اختبار MCQ
+عرض الشهادة
+
+
+🚀 خطة النشر النهائي
+
+Copy to clipboard
+Insert at cursor
+Production Stack:
+├── Docker container (node:22-bookworm-slim)
+├── MySQL 8.0 (managed, with daily backups)
+├── CDN (Cloudflare) للـ static assets
+├── Reverse proxy (Nginx) مع SSL termination
+├── Monitoring: Sentry (errors) + Datadog (metrics)
+└── Alerts: PagerDuty للـ critical errors
+
+CI/CD Pipeline المقترح:
+
+Copy to clipboard
+Insert at cursor
+push → type-check → unit-tests → build → 
+security-scan → staging-deploy → e2e-tests → 
+manual-approval → production-deploy
+
+
+💡 اقتراحات مستقبلية بعد الإطلاق
+
+تطبيق موبايل — React Native مع مشاركة الـ tRPC types
+نظام Spaced Repetition للمراجعة الذكية
+Live Sessions — محاضرات مباشرة مع WebRTC
+AI Tutor — مدرس ذكاء اصطناعي مخصص للطوارئ الطبية
+Offline Mode — PWA مع Service Worker للمناطق ضعيفة الإنترنت
+Analytics Dashboard للمؤسسات الطبية
+Multi-tenancy — دعم المستشفيات والجامعات كعملاء مؤسسيين
+Gamification — نقاط وتحديات ومنافسات بين المستخدمين
+
+
+ملخص الحالة الحالية: المشروع يمتلك بنية تحتية جيدة وتصميم UI احترافي، لكنه في مرحلة Prototype وليس Production-Ready. يحتاج تقريباً 12-14 أسبوع من العمل المنظّم لتحويله لمنتج تجاري قابل للإطلاق.
+

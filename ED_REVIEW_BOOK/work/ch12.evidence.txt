@@ -1,0 +1,986 @@
+### [PEER-PHYS | PEER-core-q-352]
+Q: A medical director witnesses a conflict between a consultant and an emergency department faculty member. Which type of communication is best for conflict resolution?
+A: Face-to-face conversation
+EXPLANATION: Conflict resolution: face-to-face is best (eye contact, no interruptions, sitting down). Email/text subject to misinterpretation. Video conference as alternative.
+ARABIC: حل الخلافات: التواصل وجهًا لوجه هو الأفضل. البريد الإلكتروني والرسائل النصية عرضة لسوء التفسير.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-467]
+Q: Which of the following situations requires written authorization from the patient for disclosure of protected health information?
+A: A request for psychotherapy notes in a patient undergoing credentialing evaluation to work in a health care facility
+EXPLANATION: The Health Insurance Portability and Accountability Act (HIPAA) protects health care privacy and confidentiality of individuals. This legislation has established standards for the security, exchange, and integrity of electronic health information. Under HIPAA, covered entities can use protected health information (PHI) without authorization for purposes of treatment, payment, and operations. However, an exception to this rule is that psychotherapy notes require written consent for their use, except for treatment, certain legal matters, and the protection of the public from a serious threat.
+
+### [PEER-PHYS | PEER-core-q-353]
+Q: What has been shown to facilitate communication and decrease medical errors during patient handoffs in the emergency department?
+A: Using a formal patient handoff tool
+EXPLANATION: 80% of medical errors involve miscommunication during transitions. 24% of malpractice from faulty handoffs. I-PASS tool significantly decreases errors.
+ARABIC: 80% من الأخطاء الطبية تشمل سوء تواصل أثناء الانتقال. 24% من الدعاوى من تسليم رديء. أداة I-PASS تقلل الأخطاء.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-468]
+Q: Under which of the following contexts would it be appropriate to share a patient’s protected health information per the Health Insurance Portability and Accountability Act?
+A: Quality improvement evaluations
+EXPLANATION: The Health Insurance Portability and Accountability Act (HIPAA) has stipulations surrounding health insurance and safeguarding health care information. This law mandates that health information should be kept protected and should only be shared with health care clinicians directly involved with the patient’s care. This means that physicians, nurses, and consultants not caring for the patient should not be given any information regarding the patient. This law also stipulates that health care information must be stored and transferred in a secure fashion to prevent the theft of this information.
+
+### [PEER-PHYS | PEER-core-q-354]
+Q: Which activity led by a child life specialist may help ease a 4-year-old child's fear of having an intravenous line placed?
+A: Medical play
+EXPLANATION: Medical play: child life specialist technique - child plays with/explores medical equipment (e.g., angiocatheter without needle on stuffed animal). Desensitizes and provides control.
+ARABIC: اللعب الطبي (medical play): تقنية أخصائي حياة الطفل - يلعب الطفل مع معدات طبية (كانيولا بدون إبرة على دمية).
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-469]
+Q: A 2-year-old boy presents to the emergency department after falling from a third story window. The EMS team placed an intraosseous line and started normal saline during transport. They placed the patient in a cervical collar, and his end-tidal carbon dioxide is monitored.
+A: Advanced emergency medical technician
+EXPLANATION: The scope of practice is the description of what a licensed emergency medical provider legally can or cannot do. The actual scope of practice of each varies somewhat as the accreditation, certification, and licensure vary from state to state. The National Association of State Emergency Medical Services Officials released guidelines in 2019 and an update in 2021 describing the expected scope of practice of each level of emergency medical provider, recognizing there is still some state-to-state variation.
+
+### [PEER-PHYS | PEER-core-q-355]
+Q: In the event of a child's death, which important service may be led by a child life specialist?
+A: Supporting siblings
+EXPLANATION: Child life specialist: expert at explaining death to siblings of all developmental stages. Breaking bad news = physician. Staff debriefing = varies. Coroner reporting = physician.
+ARABIC: أخصائي حياة الطفل: خبير في شرح الموت للأشقاء بجميع المراحل التطورية. نقل الأخبار السيئة للطبيب.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-470]
+Q: Which of the following patients is more appropriate for an ED observation unit versus admission?
+A: 65-year-old man with syncope, normal ECG, and negative troponin
+EXPLANATION: ED observation units are designed to extend the care of patients seen in the ED for up to 24 hours. Patients who benefit most from an observation unit have an unclear diagnosis in the ED and require only limited further evaluation to rule in or out a specific diagnosis. This is different from a holding unit, where patients wait for inpatient beds not available at the time of disposition. Observation units use protocol-driven care pathways with specific inclusion and exclusion criteria, whereas holding units serve as waiting areas for admitted patients.
+
+### [PEER-PHYS | PEER-core-q-356]
+Q: Which statement describes the impact of implementing a complaint management and patient satisfaction program?
+A: There is a clear relationship between patient satisfaction and medical liability lawsuits
+EXPLANATION: Patient satisfaction directly linked to medical liability risk - unhappy patients more likely to sue. Joint Commission requires complaint system. Financial benefit (competition + ACA reimbursement).
+ARABIC: رضا المرضى مرتبط مباشرة بخطر الدعاوى الطبية - المرضى غير الراضين أكثر عرضة للمقاضاة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-471]
+Q: A 4-month-old girl presents to the emergency department after a fall when she rolled off of a couch during a diaper change. She has had no loss of consciousness or vomiting, and no injuries are discovered on a head-to-toe examination. During the visit, it becomes clear the family are first-time parents with low health literacy.
+A: Safe sleep habits
+EXPLANATION: One of the leading causes of morbidity and mortality in children is injuries. Infants lack the ability to consistently move to avoid asphyxiation while sleeping, toddlers lack the situational awareness and mental skills needed to recognize and avoid hazards, and school-age children and adolescents are more likely to participate in risk-taking behavior. Injuries to children can be reduced through education and environmental changes. Programs such as car seat and bicycle helmet fitting greatly help families to ensure use of proper safety techniques. Certain injuries are more common at specific ages.
+
+### [PEER-PHYS | PEER-core-q-357]
+Q: Which conflict management technique can be used to de-escalate an angry patient?
+A: Acknowledge the patient's grievance or frustration
+EXPLANATION: Angry patient de-escalation: acknowledge grievance, sit at same height, respect personal space, shift to problem-solving, small concessions. If fails → sedation/restraint.
+ARABIC: تهدئة المريض الغاضب: اعترف بمظلمته، اجلس على نفس الارتفاع، احترم المساحة الشخصية، انتقل لحل المشكلة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-472]
+Q: In an emergency medical services system, which of the following has the highest level of training and advanced practice?
+A: Paramedic
+EXPLANATION: The paramedic is the most advanced provider in the EMS system. Training includes classroom didactics, clinical rotations, and field experience. Depending on the model, which varies by state, certification may run from 1 to 4 years. The four-year model may include a bachelor’s degree. Paramedics have a wide scope of practice that includes cardiac rhythm analysis, pharmacologic treatments, and advanced airway techniques. Advanced emergency medical technicians (AEMTs) (A) are advanced emergency medical technicians (EMTs) and previously were called EMT-I (intermediate). AEMTs have a wider scope of practice than basic EMTs but do not achieve the level of paramedics.
+
+### [PEER-PHYS | PEER-core-q-358]
+Q: What is a 'microaggression'?
+A: Subtle negative message conveyed against certain people groups
+EXPLANATION: Microaggression: subtle negative messages (verbal or implied) derogatory to a people group. Categories: microassaults (intentional), microinsults (unintentional insensitive), microinvalidations (diminish experiences).
+ARABIC: التعدي الصغير (microaggression): رسائل سلبية خفية ضد مجموعة. أنواع: microassaults، microinsults، microinvalidations.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-473]
+Q: A 40-year-old woman presents to the emergency department with a headache. She was jogging when she suddenly developed a severe headache that she rated 10/10 on the pain scale. She reports associated dizziness, but that symptom has improved from headache onset. Vital signs show HR of 94 bpm, BP of 147/92 mm Hg, and T of 37.3°C. She does not have any focal neurologic findings on examination.
+A: Emergency severity index level 2
+EXPLANATION: The emergency severity index is a five-level emergency department triage system that organizes patients based on the acuity of their illness and resource needs beyond the physical exam. Patients who require immediate life-saving intervention are triaged into the emergency severity index as level 1. Patients who are ill-appearing with either a potential high-risk diagnosis, confusion or disorientation, or severe pain and distress are triaged as emergency severity index level 2. All of the other patients are categorized into emergency severity index levels 3, 4, and 5 based on the resources needed to care for the patient.
+
+### [PEER-PHYS | PEER-core-q-359]
+Q: Which technique is used by team leaders in crisis resource management training?
+A: Assign specific roles to team members
+EXPLANATION: Crisis resource management (CRM): team leader assigns roles, monitors globally (not on details), bidirectional communication, closed-loop communication.
+ARABIC: إدارة الموارد في الأزمات (CRM): قائد الفريق يوزع الأدوار، يراقب عالميًا (ليس التفاصيل)، تواصل ثنائي الاتجاه، تواصل مغلق الحلقة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-474]
+Q: A 27-year-old woman presents with pleuritic chest pain and mild shortness of breath. A D-dimer is performed and is negative. What value best estimates the likelihood that this patient does not have a pulmonary embolism, given the negative test result?
+A: Negative predictive value
+EXPLANATION: Negative predictive value (NPV) is a statistical measure used in diagnostic testing to estimate the probability that a patient with a negative test result truly does not have the condition of interest. NPV helps clinicians and researchers assess the reliability of a negative test result in ruling out the presence of a disease. The formula for NPV involves two components: true negatives (the number of individuals who truly do not have the condition and receive a negative test result) and false negatives (the number of individuals who truly have the condition but are incorrectly classified as not having it based on a negative test result).
+
+### [PEER-PHYS | PEER-core-q-360]
+Q: A 60-year-old man dies in cardiac arrest despite best efforts. What is considered best practice for delivering the news to family?
+A: Asking the family a few questions to gauge what they understand about the situation
+EXPLANATION: GRIEV_ING mnemonic: gather info first (what do they know?). Be direct (use 'dead', not euphemisms). Physician delivers. Stay for questions.
+ARABIC: اختصار GRIEV_ING: اجمع المعلومات أولًا (ماذا يعرفون؟). كن مباشرًا (استخدم 'مات'). الطبيب ينقل الخبر. ابق للأسئلة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-475]
+Q: A study has been reported on a new rapid COVID test. In this study, 1,000 individuals were tested using the new rapid test, and they also had serum antibodies drawn to be used as the comparative gold standard. Of the total patients, 600 had both a positive rapid test and antibody titer, while 100 patients had both a negative rapid test and antibody titer.
+A: C 75%
+EXPLANATION: In developing and using new tests, it is important to understand their strengths and limitations. Understanding these limitations, as well as the possibility of false-positive and false-negative results, helps the clinician make appropriate diagnostic and treatment decisions. In the emergency department, screening tests are most often performed. Ideal screening tests have a high sensitivity (few false negatives) but may do this at the detriment of specificity. Understanding how to calculate these values from published data is important, especially in the early adoption of new testing techniques.
+
+### [PEER-PHYS | PEER-core-q-361]
+Q: A neonate brought in with CPR in progress after home birth. Pronounced dead. Mother asks 'Is this my fault?' What is the most appropriate response?
+A: 'I know this is shocking; of course this isn't what you wanted to happen.'
+EXPLANATION: NURSE mnemonic (Name, Understand, Respect, Support, Explore). Identify emotion (shock, guilt) and connect - don't provide factual medical answer or false reassurance.
+ARABIC: اختصار NURSE: حدد العاطفة (صدمة، ذنب) وتواصل - لا تقدم إجابة طبية واقعية أو تطمينًا كاذبًا.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-476]
+Q: During patient encounters in the emergency department, a seated posture for the clinician, as opposed to standing, is shown to have what effect on a patient’s perception of care?
+A: Time spent with the clinician is perceived as longer
+EXPLANATION: In comparison to other medical fields, emergency medicine is unique because it requires the rapid development of rapport and trust with patients in a brief time frame without any prior engagement. To this end, multiple studies have been conducted to demonstrate practices that improve patient satisfaction and enhance the perception of care. Specific interpersonal skills highlighted within this research include cliician attire, closed-loop communication, and posture. With respect to patient encounters in the emergency department, multiple studies have shown that a seated posture results in patients feeling that encounters are longer by up to 25%.
+
+### [PEER-PHYS | PEER-core-q-362]
+Q: Which word should generally be avoided when discussing a patient's death with their family members?
+A: Intubated
+EXPLANATION: Death notification: use lay terms (breathing tube, not intubation). Use 'dead' (direct, not euphemism). 'Sorry' appropriate for death. 'Understand' shows empathy.
+ARABIC: إبلاغ الوفاة: استخدم مصطلحات عادية (أنبوب تنفس، ليس تنبيب). استخدم 'مات' (مباشر). 'آسف' مناسب.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-477]
+Q: A newly graduated emergency physician is comparing contracts for multiple job offers. Some jobs will have her working as an employee while others would compensate her as an independent contractor. Which of the following should she be aware of as an independent contractor?
+A: Independent contractors are more likely to be audited by the IRS
+EXPLANATION: Emergency medicine contracts, like any employment contract, require a basic understanding of legal and financial concepts that every physician should possess. Without careful scrutiny and attention, physicians may enter into a contract that may be unfair, difficult to get out of, or contain items that may portend a difficult work environment. In general, there are three employment models under which most contracts are written: employee, independent contractor, or partner. Employees are hired by the hospital and are generally paid a yearly salary for an agreed-upon number of hours worked.
+
+### [PEER-PHYS | PEER-core-q-363]
+Q: When delivering bad news to the parents of a child who has died, what is the best first step after introductions?
+A: Ask, 'What have you been told so far?'
+EXPLANATION: SPIKES: Setting, Perception (ask what they know), Invitation, Knowledge, Emotions, Strategy. Assess perception first, then warn ('I have bad news'), then deliver.
+ARABIC: SPIKES: الإعداد، الإدراك (اسأل ماذا يعرفون)، الدعوة، المعرفة، العواطف، الاستراتيجية.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-478]
+Q: You have been asked by a colleague to edit her manuscript for publication. She enrolled 100 patients equally into two arms of a trial treating acute sinusitis with a new antibiotic regimen versus standard treatment. Her outcome measure was treatment failure within 3 days. In the experimental group, 35 of 50 patients achieved symptom resolution in 3 days.
+A: 4
+EXPLANATION: The number needed to treat (NNT) measures how many patients must be treated with an intervention to prevent one adverse outcome compared to a control group. In this scenario, the outcome is treatment failure, so we are calculating the NNT to avoid one additional case of treatment failure within 3 days. To calculate the NNT, you first determine the absolute risk reduction (ARR), which is the difference in risk (or event rates) between the control and experimental groups. Then, the NNT is calculated as the inverse of the ARR. Finally, any decimal result from the calculation is rounded up, since a person cannot be treated as a fraction.
+
+### [PEER-PHYS | PEER-core-q-364]
+Q: What best summarizes a physician's most effective use of a medical interpreter for translation services?
+A: Explaining goals of the encounter to an interpreter before the interview
+EXPLANATION: Interpreter best practices: brief on goals, maintain eye contact with PATIENT, one question at a time, plain language (no jargon).
+ARABIC: أفضل ممارسات المترجم: اشرح الأهداف، حافظ على التواصل البصري مع المريض، سؤال واحد في المرة، لغة بسيطة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-479]
+Q: A nurse practitioner working under your medical license repeatedly introduces himself as “doctor” to patients who you see together in your emergency department. You are frustrated because multiple patients have expressed confusion about the arrangement. What is the most appropriate approach to managing this situation?
+A: Express your concerns and ask him to clarify his motivations
+EXPLANATION: When conflict arises in the medical setting, expressing your concerns and seeking to understand the actions of others is a constructive start to conflict management. A number of conflict management principles can help process differences between team members. Expressing your concerns directly can help illuminate discord. Listening to the perspectives of others can help you understand their goals and find a mutually beneficial solution. Focusing on problem behaviors (“It’s frustrating when we cannot get antibiotics started within an hour”) rather than personal characteristics (“You are so lazy”) can help decrease defensiveness.
+
+### [PEER-PHYS | PEER-core-q-365]
+Q: A 12-year-old from Guatemala. Mother doesn't speak English. Child interprets for the mother. What is the best next step?
+A: Obtain an interpreter for the remainder of the encounter
+EXPLANATION: Section 1557 ACA: minors explicitly prohibited from ad hoc interpreting unless emergency + no formal interpretation available. Obtain professional interpreter.
+ARABIC: قسم 1557 من ACA: يُمنع القاصرون من الترجمة العشوائية إلا في الطوارئ مع عدم توفر مترجم رسمي. احصل على مترجم محترف.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-480]
+Q: Which of the following is the most common cause of medical malpractice?
+A: Misdiagnosis
+EXPLANATION: Most physicians will be involved in a lawsuit at some point in their career, which is highly stressful and costly. Documenting meticulously, performing a thorough medical workup, setting up appropriate follow-up, and always following the standard of care is critical to avoiding or at least mitigating lawsuits. The most common cause of lawsuits is misdiagnosis. Failure to make the correct diagnosis and address it appropriately or a delay in diagnosis are both common causes of medical malpractice. It is important to understand the limitations of your workup and care, including the limitations of testing.
+
+### [PEER-PHYS | PEER-core-q-366]
+Q: A Spanish-speaking parent presents with a cyanotic baby. Colleague has some Spanish but not certified. What is the most appropriate next step?
+A: Ask your colleague to obtain a basic history while arranging for a formal interpreter
+EXPLANATION: Ad hoc interpreters allowed in truly emergent (life-or-death) situations when no formal interpreter available. HHS permits minor children in emergencies.
+ARABIC: المترجمون العشوائيون مسموحون في الحالات الطارئة الحقيقية (حياة أو موت) عند عدم توفر مترجم رسمي.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-482]
+Q: The mean blood glucose concentration for a cohort of 1,000 newborns is 95 mg/dL. The standard deviation for these measurements is 15 mg/dL. Based on the standard deviation of the test, you expect the glucose measurements to fall between which of the following values 95% of the time?
+A: 65 and 125 mg/dL
+EXPLANATION: Standard deviation (SD) is a measure of variability of individual values around the mean or average value. The SD provides information about how tightly the data are clustered around the mean. When data are grouped closely together, the SD is small. When data are highly variable, the SD is large. One common data distribution is the normal or bell-shaped distribution. A normal distribution has most of its values near the mean, with progressively fewer values found farther from the mean. One SD above and below the mean encompasses 68.2 percent of the values. Two or three standard deviations represent 95.4 percent or 99.7 percent of data values surrounding the mean, respectively.
+
+### [PEER-PHYS | PEER-core-q-367]
+Q: A resident with medical Spanish training (not certified) offers to interpret for a stable Spanish-speaking patient. Formal interpreters busy. Patient has waited 3.5 hours. What is the most appropriate action?
+A: Insist that the resident wait for a formal interpreter
+EXPLANATION: Stable patient (not emergency): ad hoc interpretation prohibited. Ad hoc interpreters make 2x more errors. Section 1557 ACA mandates formal interpretation. HHS does not allow asking patient permission for uncertified staff.
+ARABIC: مريض مستقر (ليس طارئًا): الترجمة العشوائية ممنوعة. المترجمون العشوائيون يخطئون ضعفين. ACA يفرض الترجمة الرسمية.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-483]
+Q: According to the Beers criteria, which of the following medications carries a higher risk of severe prolonged hypoglycemia in older adults?
+A: Glyburide
+EXPLANATION: Glyburide is a sulfonylurea used in the management of diabetes. It is listed on the Beers criteria of potentially inappropriate medication use in older adults, and it should be avoided in older patients due to its associated increased risk of severe prolonged hypoglycemia in older adults. Glimepiride is also a sulfonylurea medication used to treat diabetes that is on the Beers criteria list. Compared to younger individuals, older adults are more likely to have an adverse drug event resulting in unnecessary hospitalizations.
+
+### [PEER-PHYS | PEER-core-q-368]
+Q: What differentiates interpretation from translation?
+A: Interpretation is spoken
+EXPLANATION: Interpretation: converts one SPOKEN language into another spoken language. Translation: converts one WRITTEN language into another written language. Neither is verbatim (cultural reframing).
+ARABIC: الترجمة الفورية (interpretation): تحويل لغة منطوقة إلى أخرى. الترجمة المكتوبة (translation): تحويل لغة مكتوبة إلى أخرى.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-484]
+Q: Which of the following terms best describes the use of male pronouns by a 14-year-old adolescent who was assigned female sex at birth?
+A: Gender identity
+EXPLANATION: Gender is commonly misinterpreted to be binary, fitting people into a category aligned with male or female sex. Instead, it is a complex concept determined by chromosomes, gonads, hormonal expression, hormonal response, and societal pressures (e.g., assignment and rearing). More definitions are now used to better label and understand the role of gender in peoples’ lives. Many newborns are assigned a sex of male or female at birth or before birth, using ultrasound or blood tests. Cases in which infants have ambiguous genitalia are more difficult to assign a sex to at birth, even with the help of specialists, hormone testing, and chromosomal analysis.
+
+### [PEER-PHYS | PEER-core-q-369]
+Q: Where is the ideal location for an interpreter of a spoken language to sit during a clinical encounter?
+A: Behind the patient
+EXPLANATION: Spoken language interpreter: sit BEHIND patient (neutral, out of line of vision). Physician makes eye contact with PATIENT. Sign language: in line of sight.
+ARABIC: المترجم الفوري للغة منطوقة: يجلس خلف المريض (محايد، خارج خط الرؤية). الطبيب يحافظ على التواصل البصري مع المريض.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-485]
+Q: In a rural emergency department, there is only one surgeon who works on call. The surgeon is becoming overwhelmed with the volume of consults that occur and, as a result, is considering quitting and moving to an academic hospital. This would result in significant issues in caring for patients in this region.
+A: Collaboration
+EXPLANATION: There are many methods of conflict resolution. It is important to approach conflicts with the mindset that the issue at hand needs to be resolved while considering future rapport that can be built or tarnished in the process. It is best to pick methods that involve working together and coming to a resolution acceptable to both parties. Sometimes, accommodation is the most appropriate method of resolving conflict when it comes with minimal cost to the accommodating party and does not set a bad precedent. Negotiation is another method in which both parties have an exchange. There is a give-and-take approach to the issue, and finally, both parties come to an agreement that is acceptable.
+
+### [PEER-PHYS | PEER-core-q-370]
+Q: A 25-year-old Spanish-speaking patient with abdominal pain brings their 8-year-old son. Physician speaks limited Spanish. What is the most appropriate way to obtain an accurate history?
+A: Use a hospital-based interpreter service
+EXPLANATION: Any patient with limited English proficiency must be offered interpreter services. Medical interpreters trained. Use of children prohibited (except emergency). Language barrier = social determinant of health.
+ARABIC: أي مريض بمحدودية اللغة الإنجليزية يجب عرض خدمات الترجمة عليه. المترجمون الطبيون مدربون. استخدام الأطفال ممنوع.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-486]
+Q: Your emergency department has decided to add a new geriatric emergency wing that will house 15 new beds. You have volunteered to join the task force that will design this new addition. You have been reading information on how this area should differ from the typical emergency department.
+A: The Identification of Seniors at Risk Tool should be used to assess each patient’s functional status
+EXPLANATION: There are currently more than 55 million Americans over the age of 65. The number of people in this population who are aging is increasing at a faster rate than the growth of the total U.S. population. This means there is an increased need for health care in older adults, which strains an already strained system. Since 2008, geriatric emergency departments have become more common. Their role is to improve overall care for the aging population. Older patients represent almost 50% of all hospital admissions. On average, an older patient has a longer emergency department stay, uses twice as many laboratory and imaging resources, and is overwhelmingly more likely to require social services.
+
+### [PEER-PHYS | PEER-core-q-371]
+Q: What has been shown to manage patient expectations and improve patient satisfaction in the emergency department?
+A: Continual updates about triage and wait times
+EXPLANATION: Patient satisfaction drivers: staff communication, empathy, wait times. Continued communication about wait times + triage improves overall satisfaction. Amenities/staff experience less important.
+ARABIC: محركات رضا المرضى: التواصل مع الطاقم، التعاطف، أوقات الانتظار. التواصل المستمر حول الانتظار والفرز يحسّن الرضا.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-487]
+Q: A 23-year-old man presents to the ED with back pain. He has been seen for back pain every day this week. Each time, the patient has demanded hydromorphone and was discharged and escorted out by security. The patient is currently without housing and has a history of heroin and cocaine use. Today, the patient is presenting with the same symptoms as previous visits.
+A: Perform an MRI of the spine and obtain laboratory studies
+EXPLANATION: The anchoring bias can negatively affect medical decision-making and patient care. The anchoring bias is when specific information, history, and exam findings are overemphasized in medical decision-making, often leading to incorrect decisions. While this may simplify and speed up patient care, it increases the rate of missed diagnoses. In this patient, his repeat visits, demands for intravenous narcotic pain medications, being without housing, and use of illicit substances may create a stereotype that ignores the objective abnormalities on presentation, including his fever and unstable gait.
+
+### [PEER-PHYS | PEER-core-q-372]
+Q: A 22-year-old woman presents for examination after a sexual assault. Apprehensive, does not wish to speak to police. What should you tell her?
+A: She may have evidence collected without reporting to police in most states
+EXPLANATION: VAWA: patients may have evidence collected without speaking to law enforcement (unless state mandates). Trauma-informed care: patient decides reporting. Support person allowed.
+ARABIC: VAWA: يمكن للمرضى جمع الأدلة دون التحدث مع القانون (إلا إذا فرضت الولاية). رعاية الصدمة: المريض يقرر الإبلاغ.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-488]
+Q: A patient presents with only nausea and an ECG with a unique finding. After an appropriate workup, the patient undergoes cardiac catheterization, revealing multiple vessel occlusions requiring stents. Which of the following is the most appropriate with regard to sharing this case on social media for the purpose of learning and improving skills for managing this condition?
+A: Give a general description of the case and post the ECG without any identifiers
+EXPLANATION: When sharing medical cases for educational purposes, it is crucial to maintain patient confidentiality and adhere to the Health Insurance Portability and Accountability Act guidelines or equivalent regulations outside the United States. In the medical profession, the cautious use of social media is advised due to patient privacy and the negative impacts on one’s career if privacy is violated. Social media also offers a robust opportunity for learning within a broad community. When sharing case details, it is important never to divulge personal identifiers and protected health information.
+
+### [PEER-PHYS | PEER-core-q-373]
+Q: An infant brought in by EMS with CPR in progress. Parents arrive. What is the most appropriate response?
+A: Have a supportive staff member update the parents and invite them into the resuscitation room
+EXPLANATION: Witnessed pediatric resuscitation: AHA Class I. Invite family. Supportive staff member accompanies. Studies show decreased PTSD/anxiety. Do not delegate to code leader.
+ARABIC: إنعاش الأطفال المشهود: AHA Class I. ادعُ العائلة. موظف داعم يرافقهم. دراسات تظهر انخفاض PTSD/القلق.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-489]
+Q: You are conducting a research study comparing the heart rates of two groups of senior residents while taking a mock emergency medicine in-service examination. Group A will take a 2-week preparatory course prior to the exam, and group B will not take the course. You hypothesize that participation in the preparatory course will lead to a lower mean heart rate at the moment residents start the exam.
+A: Student t -test
+EXPLANATION: Student t-test is used to compare continuous variables (such as heart rate, blood pressure, or respiratory rate) between two groups. It tests whether the mean values in the two groups are equal. The use of this test assumes the data in both groups have a normal distribution and equal variance. The Wilcoxon rank-sum (i.e., Mann-Whitney U) test also compares continuous variables between two groups but does not require the data to be normally distributed. Chi-square test (A) and Fisher exact test (B) are used with categorical variables (two or more discrete treatments with two or more discrete outcomes) to test the null hypothesis that the treatment has no effect on the outcome.
+
+### [PEER-PHYS | PEER-core-q-374]
+Q: Where do most microaggressions tend to originate from?
+A: Implicit bias
+EXPLANATION: Microaggressions from implicit bias (subconscious, formed by genetics, upbringing, experiences). Explicit bias/overt racism = conscious.
+ARABIC: التعديات الصغيرة تنبع من التحيز الضمني (اللاواعي، من الجينات والتربية والتجارب). التحيز الصريح = واعٍ.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-490]
+Q: With respect to malpractice insurance, what is the appropriate description of a policy with $1,000,000/$3,000,000 limits of liability?
+A: Payment of up to $1,000,000 for each occurrence and a total of $3,000,000 in payments per year for claims
+EXPLANATION: The threat of litigation due to medical malpractice is a hazard that all clinicians must address, regardless of their field of practice. To this end, whether hospital-employed, an independent contractor, or part of a democratic clinician group, maintaining quality and comprehensive malpractice insurance is vital to ensure the protection of one’s practice and personal assets. Knowledge of the details of one’s coverage is imperative, including the specific type of policy held (occurrence vs. claims made) and the limits of liability, or what an insurance company will pay on your behalf in the event of a claim.
+
+### [PEER-PHYS | PEER-core-q-375]
+Q: An adult patient discloses that she was abused as a child. What is the most appropriate response?
+A: Listen nonjudgmentally
+EXPLANATION: Trauma-informed care: active listening, no judgement, respect boundaries. Open-ended questions. Don't interrupt or ask for specific details (retraumatization).
+ARABIC: الرعاية المستنيرة بالصدمة: استماع نشط، بدون حكم، احترام الحدود. أسئلة مفتوحة. لا تقاطع.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-491]
+Q: A clinician is taking care of a patient with sickle cell disease who presents with fever, hypotension, and new pulmonary infiltrates on his chest X-ray. The patient has frequent visits to the ED requesting pain medication and usually disappears after he receives opioid analgesia.
+A: Willful misconduct
+EXPLANATION: This clinician is demonstrating willful misconduct, which is behavior in which someone acts with a conscious disregard for the safety of another person despite knowing that injury or harm is likely to result from their actions. Clinicians are expected to uphold the standard of care for patients and have a duty to care for them. Failure to provide at least the standard of care is considered a breach of professional duty and referred to as negligence. Negligence in the legal sense often implies that damage or loss has occurred as a result of this breach of duty and is often the basis of malpractice litigation.
+
+### [PEER-PHYS | PEER-core-q-376]
+Q: What piece of information is most important to review when signing out a patient to an oncoming team?
+A: Anticipated disposition
+EXPLANATION: Sign out: anticipated disposition most important. Concise + relevant info. Prioritize sickest. Review pending info. Protect sign out time. Full H&P/history/med list not needed.
+ARABIC: تسليم المرضى: التصرف المتوقع هو الأهم. معلومات موجزة وذات صلة. رتب المرضى الأشد مرضًا أولًا.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-492]
+Q: Which of the following is the appropriate order of the methods to deliver the death notification when notifying a family member of a death?
+A: Gather the family, introduce staff present, educate about the events, verify understanding, pause to allow for information processing
+EXPLANATION: Death notifications that provide limited or incorrect information about the death or occur in chaotic settings with limited support may worsen all of the survivors’ grief. For these reasons, an organized methodological approach is essential to clear communication and effective death notification delivery. You should start by asking support staff to gather the family. When in front of the family, introduce yourself and the other staff members. Then educate the family about the events that led to the death and inform them of the death. Verify they know their loved one is dead by stating it unequivocally and offer condolences.
+
+### [PEER-PHYS | PEER-core-q-377]
+Q: What is the primary goal when signing out to an oncoming team?
+A: Ensure patient safety and quality care
+EXPLANATION: Sign out goal: patient safety + quality care. Safer Sign Out model: Record, Review, Round, Relay to Team, Receive Feedback.
+ARABIC: هدف تسليم المرضى: سلامة المريض وجودة الرعاية. نموذج Safer Sign Out: سجل، راجع، جولة، انقل للفريق، استقبل الملاحظات.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-493]
+Q: In a population of 78 children being evaluated for influenza, 30 have influenza and 48 do not. A rapid viral test is positive in 24 children with influenza and in 8 children without influenza. What is this test’s positive predictive value in this population?
+A: A 75%
+EXPLANATION: Sensitivity, specificity, positive predictive value, and negative predictive value are common terms that describe how well a test performs. Before a test is performed, sensitivity and specificity are the most useful. Sensitivity describes the percentage of people with the disease who will test positive. Specificity describes the percentage of people without the disease who will have a negative test. After a test is performed, positive and negative predictive values are more useful. The negative predictive value describes the percentage of people with a negative test who do not have the disease.
+
+### [PEER-PHYS | PEER-core-q-378]
+Q: A 25-year-old with seizure presenting 30 minutes before shift change. What is the most appropriate sign out?
+A: Concise ED I-PASS report
+EXPLANATION: ED I-PASS: Expected disposition, Illness severity, Patient summary, Action list, Situational awareness, Synthesis by receiver. Concise + relevant. Avoid irrelevant details.
+ARABIC: ED I-PASS: التصرف المتوقع، شدة المرض، ملخص المريض، قائمة الإجراءات، الوعي الظرفي، تركيب المستلم. موجز وذو صلة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-494]
+Q: A sexually active 15-year-old girl presents with her friend to the ED with a concern about dysuria and vaginal discharge. On physical exam, she is found to have marked cervical motion tenderness but no significant adnexal or upper abdominal tenderness. Her urinalysis has 5–10 WBCs/hpf, and her urine pregnancy test is negative.
+A: The patient can be treated immediately even without parental consent or knowledge
+EXPLANATION: This patient has evidence of a sexually transmitted infection with cervical motion tenderness, dysuria, and vaginal discharge. All fifty states have provisions for these patients to be treated expeditiously without parental consent. Some states require adult consent prior to the age of 14 for certain presenting concerns. Some allow clinician discretion to inform supervising adults following treatment if they believe it to be in the best interest of the minor. However, none precludes treatment or requires notification in this circumstance. The patient can be treated for a sexually transmitted infection without parental consent or knowledge.
+
+### [PEER-PHYS | PEER-core-q-379]
+Q: A 70-year-old in septic shock from multifocal pneumonia, intubated, boarding in ED. Which is the best sign out report?
+A: ED I-PASS report with key details
+EXPLANATION: Boarding patients signed out same as active ED patients (emergency physicians may need to reassess). Code status critical. Concise + relevant + actionable. Avoid irrelevant/normal findings.
+ARABIC: المرضى المنتظرون يُسلَّمون كالمرضى النشطين (قد يحتاج طبيب الطوارئ لإعادة التقييم). حالة الكود مهمة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-495]
+Q: A 42-year-old man is worked up for acute coronary syndrome and his ultimate disposition is to the observation unit. Which of the following has been shown to occur with observation unit use?
+A: Decreased health care costs
+EXPLANATION: Observation units are a useful tool in the emergency department and should be utilized by physicians for patients who are not sick enough to warrant admission yet have a concerning enough history that discharging them could be risky. One of the most common uses for an observation unit is for further evaluation of low- to moderate-risk chest pain. Proper observation unit use can reduce health care costs with no difference in safety events, quality of life, or patient satisfaction. By dispositioning patients to the observation unit, resources can be freed up from the emergency department and dedicated to critically ill patients.
+
+### [PEER-PHYS | PEER-core-q-381]
+Q: Which term describes the proportion of a test's positive results that are truly positive?
+A: Positive predictive value
+EXPLANATION: PPV = likelihood that a patient with positive test actually has disease. Depends on prevalence. Sensitivity = detect disease. Specificity = detect absence. LR = ratio.
+ARABIC: PPV = احتمال أن المريض بنتيجة إيجابية لديه المرض فعلًا. يعتمد على الانتشار. الحساسية = كشف المرض.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-496]
+Q: Which of the following is an example of primary prevention?
+A: Varicella vaccine
+EXPLANATION: Prevention traditionally has been divided into three categories: primary, secondary, and tertiary. Primary prevention targets individuals who may be at risk of developing a medical condition and intervenes to prevent the onset of that condition. Examples include childhood vaccinations, water fluoridation, smoking cessation, and education about safe sex. The varicella vaccine is an example of primary prevention. Tertiary prevention can include modifying risk factors, such as helping patients with cardiac conditions lose weight, or making environmental modifications to reduce exposure to allergens in patients with asthma (A).
+
+### [PEER-PHYS | PEER-core-q-382]
+Q: For a hospital to create a culture of safety and become a high-reliability organization, which action is most helpful in reducing errors?
+A: Developing a system to report and track errors and near misses
+EXPLANATION: High-reliability organizations: robust error/near-miss reporting system. Only 15% of errors from individuals; 85% from flawed systems. All staff stakeholders.
+ARABIC: منظمات الموثوقية العالية: نظام قوي للإبلاغ عن الأخطاء والحوادث الوشيكة. 15% فقط من الأخطاء فردية؛ 85% من أنظمة معيبة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-497]
+Q: A 7-year-old boy with autism presents to the emergency department with an arm injury. His parent reports he is recently potty trained and fell while alone in the bathroom. He is guarding his left arm and is not allowing a clinician exam. On visual examination, there is no swelling or deformity, and he is able to move and use the arm to prevent a thorough clinician exam.
+A: Involve the parent in the examination
+EXPLANATION: Autism spectrum disorders are a group of disorders characterized by persistent social interaction and communication deficits with neurodevelopmental delay. These delays and communication deficits require the team to modify their approach to a typical emergency department visit. All children wish to feel safe. Using the parents’ expertise in understanding what is needed for their child with autism to feel safe greatly aids in allowing needed interventions to occur. Children with autism tend to be distressed by busy and noisy environments, which is challenging when they arrive at peak emergency hours when other disruptive children are present.
+
+### [PEER-PHYS | PEER-core-q-383]
+Q: A physician recently named in malpractice lawsuit behaves erratically, shows up late, yells at staff, drinking in car. What is the most likely cause?
+A: Second victim syndrome
+EXPLANATION: Second victim syndrome: trauma response behaviors after medical error/adverse event/lawsuit. Patient = first victim; physician = second victim. Includes burnout, depression, substance use.
+ARABIC: متلازمة الضحية الثانية: سلوكيات استجابة للصدمة بعد خطأ طبي/حدث ضار/دعوى. المريض = الضحية الأولى؛ الطبيب = الثانية.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-498]
+Q: During a tactical law enforcement operation utilizing a team with embedded tactical paramedics, a team member sustains a gunshot wound to the neck, resulting in partial airway obstruction. Team medics are with the patient, but they are still under fire. Blood loss is controlled with a hemostatic dressing, and the airway is maintained with a nasopharyngeal airway.
+A: Extraction from the hot zone
+EXPLANATION: Civilian tactical emergency medical support (TEMS) originated as an extension of concepts developed to provide medical support for military units on the battlefield prior to evacuation to higher levels of care. Beginning in the 1990s, civilian law enforcement, emergency medical service, and trauma care organizations have worked cooperatively to incorporate medical care providers into field tactical teams during planned high-risk operations and responses to violent or potentially violent incidents. Specific tactical medical training courses, such as the Tactical Combat Casualty Care (TCCC) course, have been developed and adapted to the civilian environment (TCCC-Medical Provider).
+
+### [PEER-PHYS | PEER-core-q-384]
+Q: Near the end of a 12-hr night shift, a physician forgets to prepare skin with antiseptic before lumbar puncture. What should they do?
+A: Disclose the specific error to the patient and provide information about monitoring for infection
+EXPLANATION: Medical errors must be disclosed to patient. Even without immediate harm (risk of infection). Provide monitoring info. Document. ACEP recommends apology.
+ARABIC: الأخطاء الطبية يجب الإفصاح عنها للمريض. حتى بدون ضرر فوري (خطر عدوى). قدم معلومات المراقبة.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-499]
+Q: You are working in the emergency department when you note a colleague has ordered a cardiac workup on your patient with an ankle sprain. You cancel the orders and go to talk to him. He apologies stating, “I must have mixed our patients up. They have similar last names.” You note the smell of alcohol on his breath. Which of the following is the best next course of action?
+A: Offer to take his patients and send him home
+EXPLANATION: Impairment occurs when a mental disorder, physical disorder, or substance misuse interferes with a medical professional’s ability to provide safe and competent care. Impairment comes in many forms, for example, working while sick with the flu, bipolar disorder, incessant worry over a sick loved one, cognitive decline, a shoulder fracture, and alcohol misuse. Medical professionals must not only be cognizant of their own possible impairment but must look for signs of impairment in their colleagues as well. Signs of impairment include poor hygiene, arriving late to work, emotional lability, and increased work-related errors.
+
+### [PEER-PHYS | PEER-core-q-385]
+Q: An intern performing chest tube placement; the senior instructs lidocaine, but intern remembers bupivacaine allergy. What should the intern do?
+A: Pause and ask to check the patient's allergies
+EXPLANATION: Speak up! Hierarchy in medicine prevents safety concerns. Lidocaine + bupivacaine are amide local anesthetics with cross-reactivity. Lidocaine often in kits without EHR alerts.
+ARABIC: تحدث! التسلسل الهرمي في الطب يمنع طرح مخاوف السلامة. الليدوكايين والبوبيفاكايين أميدات مع تفاعل متصالب.
+
+### [ROSH | rosh-em-initial-2026-other-components-and-core-competencies-q-500]
+Q: A 6-year-old boy is about to undergo IV insertion. Which of the following is the most effective statement to offer the parents to help their child cope with the procedure?
+A: “When I count to three, blow the feeling away from your body”
+EXPLANATION: When children need procedure-based medical care, the situation can be stressful for both the parent and the child. Cognitive and behavioral techniques can significantly assist with painful procedures in children. Parental involvement enhances the impact of behavioral pain management when they are properly prepared to play a supportive role. Statements like “when I count to three, blow the feeling away from your body” suggested to a parent provides an effective option to help their child cope with anticipated feelings while providing distraction and an element of control for the parent and child during the procedure.
+
+### [PEER-PHYS | PEER-core-q-386]
+Q: A patient and family ask about hospice referral but inquire whether the patient can remain on full code status. What is the best approach?
+A: Ask the patient about their understanding of their illness and end-of-life care goals
+EXPLANATION: Goals-of-care conversation starts with patient's understanding + values. Patients on full code ARE eligible for hospice. Explore values first, then recommendations.
+ARABIC: محادثة أهداف الرعاية تبدأ بفهم المريض + قيمه. المرضى بكود كامل مؤهلون للرعاية التلطيفية (hospice).
+
+### [PEER-PHYS | PEER-core-q-387]
+Q: What is the safest way to store medications in the home?
+A: Out of sight and reach
+EXPLANATION: Medication safety: out of sight AND reach, preferably locked. 60,000 child ED visits/year. 'One pill kills': cardiac meds, antidepressants, imidazolines, clonidine, opioids, sulfonylureas.
+ARABIC: سلامة الأدوية: بعيد عن النظر والمتناول، ويفضل مقفلًا. 60,000 زيارة طوارئ سنويًا للأطفال.
+
+### [PEER-PHYS | PEER-core-q-388]
+Q: When treating acute pain, what should be considered?
+A: Anticipated benefits and known risks of opioid therapy
+EXPLANATION: Acute pain: screen for risk factors, educate on risks/benefits. Maximize nonopioid + nonpharmacologic therapies. Short-acting, lowest dose, shortest course.
+ARABIC: الألم الحاد: افحص عوامل الخطر، علّم عن المخاطر/الفوائد. عزز العلاجات غير الأفيونية. قصير المفعول، أقل جرعة، أقصر مدة.
+
+### [PEER-PHYS | PEER-core-q-389]
+Q: A patient on naproxen, lidocaine, and baclofen for chronic pain requests additional therapies. Which is most likely to be harmful?
+A: Morphine
+EXPLANATION: Opioid + sedative-hypnotic (baclofen) = higher risk of respiratory depression/arrest. Polypharmacy danger. Avoid combining opioids with sedatives.
+ARABIC: أفيوني + منوم مهدئ (baclofen) = خطر أعلى لتثبيط/توقف التنفس. خطر تعدد الأدوية.
+
+### [PEER-PHYS | PEER-core-q-390]
+Q: A patient with an ICD being admitted to hospice. Patient confirms they want the device deactivated. What is the next step?
+A: Place a magnet over the device and leave it there
+EXPLANATION: ICD deactivation: magnet must remain in place until reprogrammed. Removed → device returns to active. Deactivation prevents shocks but keeps pacing if desired. Discuss goals of care.
+ARABIC: تعطيل ICD: المغناطيس يجب أن يبقى في مكانه حتى إعادة البرمجة. يُزال → يعود الجهاز للنشاط.
+
+### [PEER-PHYS | PEER-core-q-391]
+Q: A senior EM resident precepting a new intern. After 30 minutes, the intern is still reviewing the chart. What should the senior have done prior to assigning the patient?
+A: Set expectations for being in the emergency department
+EXPLANATION: Setting expectations: critical for new residents. ED pace unique - senior staff often assume newcomers understand customs. Set clear boundaries + realistic goals.
+ARABIC: وضع التوقعات: حاسم للمقيمين الجدد. إيقاع الطوارئ فريد - كبار الطاقم يفترضون أن القادمين يفهمون الأعراف.
+
+### [PEER-PHYS | PEER-core-q-392]
+Q: Which perception of feedback is most common between educators and learners in the emergency department?
+A: Learners feel they receive too little feedback; teachers feel they give a lot of feedback
+EXPLANATION: Attending satisfaction with feedback quality > resident satisfaction. Real-time feedback (One-min Preceptor) more effective than end-of-shift. Signal phrases to alert student.
+ARABIC: رضا الأطباء عن جودة التغذية الراجعة > رضا المقيمين. التغذية الفورية (One-min Preceptor) أكثر فعالية.
+
+### [PEER-PHYS | PEER-core-q-393]
+Q: What is least helpful when giving constructive feedback to a medical student at the end of a busy shift?
+A: Identify general actions or behaviors that the learner can aim for on their next shift
+EXPLANATION: Constructive feedback: specific examples > generalized advice. Self-evaluation, positive reinforcement, teaching pearls are helpful. 'Be more efficient next shift' = unhelpful.
+ARABIC: التغذية البناءة: أمثلة محددة > نصائح عامة. التقييم الذاتي، التعزيز الإيجابي، لآلئ التعليم مفيدة.
+
+### [PEER-PHYS | PEER-core-q-394]
+Q: When working on a quality improvement initiative for large-scale change, what is an effective first step?
+A: Create a sense of urgency and need for the desired change
+EXPLANATION: Kotter's 8-step model: 1) urgency, 2) coalition, 3) vision, 4) communicate, 5) remove obstacles, 6) short-term wins, 7) consolidate, 8) embed in culture.
+ARABIC: نموذج كوتر ذو 8 خطوات: 1) الإلحاح، 2) التحالف، 3) الرؤية، 4) التواصل، 5) إزالة العقبات، 6) انتصارات قصيرة، 7) الدمج، 8) التضمين في الثقافة.
+
+### [PEER-PHYS | PEER-core-q-395]
+Q: When caring for a transgender patient, what is the most appropriate way for a physician to start the interview after introducing themselves?
+A: State their own pronouns and ask the patient which pronouns they use
+EXPLANATION: Transgender care: exchange pronouns first (builds trust). Avoid assuming man/woman (could be nonbinary). Sexual/surgical history later if relevant.
+ARABIC: رعاية المتحولين جنسيًا: تبادل الضمائر أولًا (يبني الثقة). تجنب افتراض رجل/امرأة. التاريخ الجنسي/الجراحي لاحقًا.
+
+### [PEER-PHYS | PEER-core-q-396]
+Q: Which policy was established by the US government to provide grants to support mental health and resiliency in healthcare workers?
+A: Dr. Lorna Breen Health Care Provider Protection Act
+EXPLANATION: Dr. Lorna Breen Act (2022): grants to promote mental health/resiliency in healthcare workers. Named for ED physician who died by suicide during COVID-19 pandemic.
+ARABIC: قانون د. لورنا برين (2022): منح لتعزيز الصحة النفسية والمرونة لدى العاملين الصحيين. سُميَ لطبيبة طوارئ توفيت بالانتحار خلال جائحة COVID-19.
+
+### [PEER-PHYS | PEER-core-q-397]
+Q: Rodney develops an initiative to educate clinicians about buprenorphine and take-home naloxone for opiate overdose patients. What form of allyship?
+A: Advocacy
+EXPLANATION: Allyship tools: advocacy, self-reflection, education, bias confrontation, accountability, empathy, listening. Rodney = advocacy (speaking up for marginalized group).
+ARABIC: أدوات التحالف: المناصرة، التأمل الذاتي، التعليم، مواجهة التحيز، المساءلة، التعاطف، الاستماع.
+
+### [PEER-PHYS | PEER-core-q-398]
+Q: What helps to reduce the impact of implicit bias in medical care?
+A: Use standardized medical protocols when applicable
+EXPLANATION: Implicit bias reduction: standardized protocols (e.g., hemorrhage protocol eliminated racial disparity). Individuation. Remove gender/race from presentations unless relevant. Harvard IAT.
+ARABIC: تقليل التحيز الضمني: بروتوكولات موحدة (مثل بروتوكول النزف أزال التباين العنصري). الفردية.
+
+### [PEER-PHYS | PEER-core-q-399]
+Q: What is an example of a physician exhibiting an implicit bias?
+A: Attributing a woman's epigastric pain to anxiety despite elevated troponin
+EXPLANATION: Implicit bias = unconscious. Gender bias in ACS: women less likely diagnosed with MI, less catheterization, fewer cardiac meds despite same features.
+ARABIC: التحيز الضمني = لا واعٍ. التحيز الجنسي في ACS: النساء أقل تشخيصًا بـ MI، أقل قسطرة، أدوية قلبية أقل.
+
+### [PEER-PHYS | PEER-core-q-400]
+Q: A 65-year-old woman with chest pain and elevated troponin discharged with anxiety; later found to have old MI. Which factor contributed to her misdiagnosis?
+A: Gender
+EXPLANATION: Gender bias: women less likely diagnosed with MI, less catheterization, fewer cardiac meds despite same features. Standardized tools (HEART score) do not include gender.
+ARABIC: التحيز الجنسي: النساء أقل تشخيصًا بـ MI، أقل قسطرة، أدوية قلبية أقل رغم نفس الميزات.
+
+### [PEER-PHYS | PEER-core-q-401]
+Q: How can physicians make their care less biased?
+A: Get to know patients as individuals
+EXPLANATION: Individuation: ask about background, preferences, family - decision based on individual not stereotype. 3 conditions: pay attention to biases, intend to change, practice strategies.
+ARABIC: الفردية (individuation): اسأل عن الخلفية، التفضيلات، العائلة - قرار بناءً على الفرد لا الصورة النمطية.
+
+### [PEER-PHYS | PEER-core-q-402]
+Q: A Hispanic man seen at multiple EDs for epigastric pain and vomiting, feels treated differently. Extensive testing negative. No improvement with PPI. What is the most likely reason?
+A: This patient is less likely to follow the treatment plan
+EXPLANATION: Perceived bias → lower patient satisfaction → lower adherence to medical recommendations. Implicit bias affects patient-physician interaction.
+ARABIC: التحيز المدرك → رضا أقل → التزام أقل بالتوصيات الطبية. التحيز الضمني يؤثر على التفاعل.
+
+### [PEER-PHYS | PEER-core-q-403]
+Q: Linda (ED nurse, 20 years) realizes her implicit bias and actively confronts it via seminars and engagement. What behavior is Linda demonstrating?
+A: Allyship
+EXPLANATION: Allyship: active, consistent practice of unlearning/re-evaluating in which a person in power operates in solidarity with marginalized group. Lifelong process.
+ARABIC: التحالف (allyship): ممارسة نشطة ومستمرة لإلغاء التعلم وإعادة التقييم حيث يعمل شخص في موقع قوة بالتضامن مع مجموعة مهمشة.
+
+### [PEER-PHYS | PEER-core-q-404]
+Q: What is the benefit of a physician mortgage loan?
+A: It allows a physician to purchase a home with zero down payment
+EXPLANATION: Physician loans: no 20% down (high earning potential), no PMI, higher limits. Slightly higher interest rate. Adjustable-rate.
+ARABIC: قروض الأطباء: لا دفعة أولى 20% (إمكانية دخل عالي)، لا PMI، حدود أعلى. فائدة أعلى قليلًا.
+
+### [PEER-PHYS | PEER-core-q-405]
+Q: What is the recommended amount of money physicians should save annually?
+A: 15% to 25% of gross annual income
+EXPLANATION: Save 15-25% of gross income (assumes 30 years working, 30 years retired, 50% final salary). Adjust for early retirement or higher retirement income.
+ARABIC: وفر 15-25% من الدخل الإجمالي (يفترض 30 سنة عمل، 30 تقاعد، 50% من آخر راتب).
+
+### [PEER-PHYS | PEER-core-q-406]
+Q: An emergency physician working with and indirectly supervising a PA. Which supervision method is ideal?
+A: Evaluate every patient seen by the PA with abnormal vital signs
+EXPLANATION: Physician is fully liable for PA patients regardless of evaluation. Ideal: see all, but impractical. Practical: see abnormal vitals, discuss all cases, see early on.
+ARABIC: الطبيب مسؤول بالكامل عن مرضى PA بغض النظر عن التقييم. العملي: رؤية العلامات الحيوية غير الطبيعية، مناقشة كل الحالات.
+
+### [PEER-PHYS | PEER-core-q-407]
+Q: A PA evaluates a 25-year-old with chest pain and cough. Discussed with supervising physician who didn't see the patient. CXR normal. Discharged with 'viral URI'. Returns next day with aortic dissection and dies. What is the malpractice risk?
+A: The physician is fully liable for this case as the supervising physician
+EXPLANATION: Physicians are fully liable for PA care regardless of personal evaluation. May be dropped from case leaving physician with sole responsibility.
+ARABIC: الأطباء مسؤولون بالكامل عن رعاية PA بغض النظر عن التقييم الشخصي. قد يُسقط PA من الدعوى تاركًا الطبيب مسؤولًا وحده.
+
+### [PEER-PHYS | PEER-core-q-408]
+Q: A new medical director trying to improve working culture. Nurse-physician conflicts, multiple resignations. Physician yelling at nurse. What is the first step?
+A: Investigate the incident
+EXPLANATION: Take time to understand underlying causes. Discuss with both parties. High turnover suggests unhealthy culture. Foster collaborative environment.
+ARABIC: خذ وقتك لفهم الأسباب الكامنة. ناقش مع الطرفين. دوران عالٍ يشير إلى ثقافة غير صحية. عزز بيئة تعاونية.
+
+### [PEER-PHYS | PEER-core-q-409]
+Q: Which consideration should be a top priority for savings and financial wellness?
+A: Funding employer-provided retirement plans to maximize employer's match
+EXPLANATION: Priority: 401(k)/403(b) match (free money) > high-interest debt (>8%) > retirement contributions > college savings/home down payment.
+ARABIC: الأولوية: مطابقة 401(k)/403(b) (مال مجاني) > الديون عالية الفائدة (>8%) > مساهمات التقاعد > مدخرات الكلية/المنزل.
+
+### [PEER-PHYS | PEER-core-q-410]
+Q: What is a benefit of a Health Savings Account?
+A: Ability to withdraw money for medical expenses without taxation
+EXPLANATION: HSA triple tax advantage: contributions pre-tax, growth tax-free, withdrawals for medical expenses untaxed. Requires high-deductible plan. 2025 max: $4,300 individual.
+ARABIC: HSA ميزة ثلاثية ضريبية: مساهمات قبل الضريبة، نمو معفى، سحب للطبي بدون ضريبة. يتطلب خطة عالية الخصم.
+
+### [PEER-PHYS | PEER-core-q-411]
+Q: According to the financial hedonic treadmill model, which phenomenon is likely to occur?
+A: A person's expectations and desires will rise as their income increases
+EXPLANATION: Financial hedonic treadmill: as income rises, expectations/desires rise in tandem → no permanent happiness gain. Spending does not affect overall happiness. New attendings must balance spending with long-term goals.
+ARABIC: نموذج السير المتحرك المالي (hedonic treadmill): مع زيادة الدخل، تزيد التوقعات والرغبات بالمقابل → لا زيادة دائمة في السعادة. الإنفاق لا يؤثر على السعادة العامة.
+
+### [PEER-PHYS | PEER-core-q-412]
+Q: Which type of life insurance covers a predetermined period of time before it expires?
+A: Term life insurance
+EXPLANATION: Term life: covers predetermined period (10/20/30 years), no return if survives. Cheaper, more affordable. Universal/variable/whole life = permanent (no term limit, cash value).
+ARABIC: التأمين على الحياة المؤقت (term): يغطي فترة محددة (10/20/30 سنة)، لا عائد إذا بقي على قيد الحياة. أرخص.
+
+### [PEER-PHYS | PEER-core-q-413]
+Q: Which optional disability insurance rider allows the insured to collect disability even after partial but not total disability?
+A: Residual disability rider
+EXPLANATION: Residual (partial) disability rider: pays if drop in income (15-20%) due to disability but still can perform some duties. Covers recovery period. COLA = inflation adjustment. Future purchase = buy more later.
+ARABIC: ملحق العجز الجزئي (residual): يدفع عند انخفاض الدخل (15-20%) بسبب عجز مع القدرة على أداء بعض الواجبات. COLA = تعديل تضخم.
+
+### [PEER-PHYS | PEER-core-q-414]
+Q: Which statement describes a group disability policy?
+A: Provides fully taxable disability payments
+EXPLANATION: Group disability: premiums from pretax earnings → payments fully taxable. Not portable. No COLA. No medical underwriting. Weaker definition of disability than individual.
+ARABIC: التأمين الجماعي للعجز: الأقساط من الأرباح قبل الضريبة → المدفوعات خاضعة للضريبة بالكامل. غير قابل للنقل. تعريف أضعف للعجز.
+
+### [PEER-PHYS | PEER-core-q-415]
+Q: When choosing disability insurance, which option will give the most protection in the case of disability?
+A: Own occupation
+EXPLANATION: 'Own occupation, specialty-specific' = best protection. Pays if can't work in specialty, allows work outside specialty. 'Any occupation' = least desirable (must be unable to work in ANY field).
+ARABIC: 'المهنة الخاصة، تخصص محدد' (own occupation, specialty-specific) = أفضل حماية. يدفع إذا لم يستطع العمل في تخصصه، ويسمح بالعمل خارجه.
+
+### [PEER-PHYS | PEER-core-q-416]
+Q: As of 2025, what is a requirement for the Public Service Loan Forgiveness (PSLF) program?
+A: 120 qualifying payments
+EXPLANATION: PSLF: 120 on-time monthly payments (not >15 days late) in IDR plan + full-time employment at 501(c)(3) or government. Only direct federal loans eligible. Annual employer certification required.
+ARABIC: PSLF: 120 دفعة شهرية في موعدها (ليس >15 يومًا متأخرًا) في خطة IDR + عمل بدوام كامل في 501(c)(3) أو حكومي. القروض الفيدرالية المباشرة فقط.
+
+### [PEER-PHYS | PEER-core-q-417]
+Q: An otherwise healthy 47-year-old emergency physician complains of difficulty sleeping, irritability, poor short-term memory, excessive fatigue when working night shifts. What is the most likely diagnosis?
+A: Shift work sleep disorder
+EXPLANATION: Shift work sleep disorder: circadian rhythm disruption. Delayed sleep latency, fragmented sleep, fatigue, impaired cognition. Risks: metabolic syndrome, CVD, pregnancy complications, cancer.
+ARABIC: اضطراب نوم العمل بنظام الورديات: اضطراب الإيقاع اليومي. تأخر بدء النوم، نوم متقطع، إرهاق، ضعف إدراكي.
+
+### [PEER-PHYS | PEER-core-q-418]
+Q: Which factor may lead to delays in care and reduce efficiency in the emergency department?
+A: Performing sequential rather than simultaneous tests
+EXPLANATION: Sequential testing = delays + inefficiency. Order all needed labs/imaging simultaneously. Collateral info and PCP contact are essential (not delays).
+ARABIC: الفحوصات التسلسلية = تأخير + عدم كفاءة. اطلب كل التحاليل والتصوير المطلوبة في وقت واحد.
+
+### [PEER-PHYS | PEER-core-q-419]
+Q: What outcome may result from poor work-life balance?
+A: Depersonalization and emotional exhaustion
+EXPLANATION: Poor work-life balance → burnout (depersonalization, emotional exhaustion, reduced sense of accomplishment). Family-friendly policies improve balance.
+ARABIC: ضعف التوازن بين العمل والحياة → الإنهاك الوظيفي (تبلد، استنزاف عاطفي، انخفاض الإنجاز).
+
+### [PEER-PHYS | PEER-core-q-420]
+Q: What is a symptom of burnout related to depersonalization?
+A: Negative attitude towards patients
+EXPLANATION: Burnout: depersonalization (negative attitude, detachment from patients), emotional exhaustion (fatigue), reduced accomplishment. Physicians higher rate than other specialties.
+ARABIC: الإنهاك الوظيفي: تبلد (موقف سلبي، انفصال عن المرضى)، استنزاف عاطفي (إرهاق)، انخفاض الإنجاز.
+
+### [PEER-PHYS | PEER-core-q-421]
+Q: Which definition best describes gender identity?
+A: The gender(s) with which someone identifies
+EXPLANATION: Gender identity: gender(s) a person identifies with. Sex = assigned at birth (genitalia). Gender expression = outward communication. Sexual orientation = attraction.
+ARABIC: الهوية الجنسانية (gender identity): الجنس/الأجناس التي يعرّف بها الشخص نفسه. الجنس البيولوجي = يُعيَّن عند الولادة.
+
+### [PEER-PHYS | PEER-core-q-422]
+Q: An individual assigned male at birth currently identifies as female. What is the appropriate terminology?
+A: Transgender woman
+EXPLANATION: Transgender woman: assigned male at birth, identifies as female. Cisgender = gender aligns with sex assigned at birth. Patients always identified by preferred gender.
+ARABIC: امرأة متحولة جنسيًا (transgender woman): عُيّن ذكرًا عند الولادة ويعرّف نفسه كأنثى.
+
+### [PEER-PHYS | PEER-core-q-423]
+Q: According to the DSM-5, individuals who experience distress based on incongruence between birth sex and gender identity are experiencing what condition?
+A: Gender dysphoria
+EXPLANATION: Gender dysphoria (DSM-5): distress from incongruence between birth sex and gender identity. Older terms (gender identity disorder, transsexualism) no longer used. Treatment varies.
+ARABIC: خلل الهوية الجنسانية (gender dysphoria, DSM-5): ضيق بسبب عدم توافق الجنس البيولوجي مع الهوية الجنسانية.
+
+### [PEER-PHYS | PEER-core-q-424]
+Q: A patient refers to themself as 'transmasculine.' What does this most likely mean?
+A: The patient was assigned female at birth and identifies as a man
+EXPLANATION: Transmasculine: assigned female at birth, gender identity is masculine (includes transgender men + some nonbinary). Transfeminine: assigned male at birth, feminine identity.
+ARABIC: Transmasculine: عُيّن أنثى عند الولادة، الهوية الجنسانية ذكورية (يشمل الرجال المتحولين وبعض غير الثنائيين).
+
+### [PEER-PHYS | PEER-core-q-425]
+Q: A 45-year-old transgender woman with SOB, fever, hypoxia, petechial hemorrhage. CXR shows pulmonary edema. Reports 'pumping party' for hip/buttock silicone injections. What is the most likely cause?
+A: Silicone embolism syndrome
+EXPLANATION: Silicone embolism syndrome: illicit silicone injections → respiratory failure + petechial rash + pulmonary edema. Supportive care. Steroids considered. ECMO for severe ARDS.
+ARABIC: متلازمة انصمام السيليكون: حقن سيليكون غير مشروعة → فشل تنفسي + طفح نمشي + وذمة رئوية. علاج داعم.
+
+### [PEER-PHYS | PEER-core-q-426]
+Q: Which complication is most commonly seen in transgender men who perform chest binding?
+A: Back pain
+EXPLANATION: Chest binding complications: back pain (54%) most common, then skin problems, chest pain, SOB, overheating. Rare: chest wall scarring (8%), rib fractures (3%).
+ARABIC: مضاعفات ربط الصدر: ألم الظهر (54%) الأكثر شيوعًا، ثم مشاكل جلدية، ألم صدري، ضيق نفس. نادرة: ندبات جدار الصدر (8%)، كسور أضلاع (3%).
+
+### [PEER-PHYS | PEER-core-q-427]
+Q: A 6-year-old boy with GSW to abdomen, inflicted accidentally by brother who found a gun. In homes with firearms, how can these injuries best be prevented?
+A: Keep firearms unloaded in a safe that only adults can access
+EXPLANATION: Firearm safety: avoid having guns in home. If present: unloaded in locked safe, ammunition separately locked. Never loaded storage, drawer, or under bed.
+ARABIC: سلامة الأسلحة: تجنب وجود الأسلحة في المنزل. إذا كانت موجودة: غير محشوة في خزانة مقفلة، والذخيرة منفصلة ومقفلة.
+
+### [PEER-PHYS | PEER-core-q-428]
+Q: Which is a principle of trauma-informed care?
+A: Collaboration and mutuality
+EXPLANATION: TIC 6 principles: safety; trust/transparency; peer support; collaboration/mutuality; empowerment/voice/choice; cultural/gender/historical acknowledgments. Beneficence/justice/nonmaleficence = medical ethics.
+ARABIC: مبادئ TIC الستة: السلامة؛ الثقة/الشفافية؛ دعم الأقران؛ التعاون/التشارك؛ التمكين/الصوت/الاختيار؛ الاعتراف الثقافي/الجنساني/التاريخي.
+
+### [PEER-PHYS | PEER-core-q-429]
+Q: What is the window of tolerance, as it pertains to trauma-informed care?
+A: The optimal zone of arousal in which a patient is able to process emotions and events going on around them
+EXPLANATION: Window of tolerance: optimal arousal zone. Trauma shrinks window. Outside: freeze (detached) or fight/flight (agitated). Unique per person.
+ARABIC: نافذة التحمل: منطقة الاستثارة المثالية. الصدمة تضيّق النافذة. خارجها: تجمد (منفصل) أو قتال/هروب (هائج).
+
+### [PEER-PHYS | PEER-core-q-430]
+Q: How might an emergency physician best provide trauma-informed care to a transgender woman presenting with a headache?
+A: Ask the patient for their preferred name and pronouns
+EXPLANATION: Transgender care: ask preferred name/pronouns (respect, humanize). Do not ask genital status unless medically relevant. Screen depression/suicide (higher rates). Document with preferred name/pronouns.
+ARABIC: رعاية المتحولين: اسأل عن الاسم والضمائر المفضلة (احترام، إنسانية). لا تسأل عن الحالة التناسلية إلا إذا كانت ذات صلة طبية.
+
+### [PEER-PHYS | PEER-core-q-431]
+Q: Which is an example of a restrictive covenant that may be included in an employment contract?
+A: Physician cannot work within a 5-mile radius of the hospital
+EXPLANATION: Restrictive covenant (noncompete): limits where a physician can work after leaving. ACEP opposes noncompetes. Force majeure = releases obligations for unforeseen events.
+ARABIC: العهد التقييدي (noncompete): يحد من مكان عمل الطبيب بعد المغادرة. ACEP تعارض.
+
+### [PEER-PHYS | PEER-core-q-432]
+Q: When should a resident applying for an academic faculty position have their application materials ready?
+A: By the summer before their final year of residency
+EXPLANATION: Academic job search starts earlier. Have materials ready by summer before final year - time for letters, cover letter, CV, mentor review. Submit by September.
+ARABIC: البحث عن وظيفة أكاديمية يبدأ مبكرًا. جهّز المواد بحلول الصيف قبل السنة الأخيرة - وقت للرسائل، خطاب التغطية، السيرة الذاتية.
+
+### [PEER-PHYS | PEER-core-q-433]
+Q: What is a primary benefit of working locum tenens?
+A: Higher salaries
+EXPLANATION: Locum tenens: temporary positions, fills coverage gaps. Higher salaries (attract to rural), flexibility, travel. Found through recruitment companies. Ancillary support varies.
+ARABIC: العمل المؤقت (locum tenens): وظائف مؤقتة، تسد فجوات التغطية. رواتب أعلى، مرونة، سفر.
+
+### [PEER-PHYS | PEER-core-q-434]
+Q: Which element should a job candidate omit from a cover letter?
+A: A description of why they decided to pursue a career in medicine
+EXPLANATION: Cover letter: 1-2 pages, 4 sections (Who am I? What skills? Ideal role? Thank you + contact). Don't include reason for pursuing medicine (unnecessary).
+ARABIC: خطاب التغطية: 1-2 صفحة، 4 أقسام (من أنا؟ ما المهارات؟ الدور المثالي؟ شكرًا + جهة الاتصال). لا تذكر سبب اختيار الطب.
+
+### [PEER-PHYS | PEER-core-q-435]
+Q: What is the best next step after receiving an employment contract?
+A: Meet with a contract lawyer to review the contract
+EXPLANATION: Employment contract: always have a contract lawyer review (physician employment expertise). Read yourself too. Never sign immediately. Negotiate salary/benefits/nights.
+ARABIC: عقد العمل: دائمًا راجعه مع محامي عقود (خبرة توظيف الأطباء). اقرأه بنفسك أيضًا. لا توقّع فورًا. تفاوض على الراتب/المزايا.
+
+### [PEER-PHYS | PEER-core-q-436]
+Q: Which type of malpractice insurance will cover the physician no matter when a lawsuit is filed?
+A: Occurrence malpractice insurance
+EXPLANATION: Occurrence policy: covers incident regardless of when claim filed (broadest protection). Claims-made: only if policy active when both incident and claim. Nose = prior acts. Tail = after policy ends.
+ARABIC: بوليصة الحدوث (occurrence): تغطي الحادث بغض النظر عن وقت رفع الدعوى (أوسع حماية). claims-made: فقط إذا كانت البوليصة نشطة.
+
+### [PEER-PHYS | PEER-core-q-437]
+Q: What type of insurance will protect a physician from alleged medical malpractice?
+A: Malpractice insurance
+EXPLANATION: Malpractice insurance protects from alleged medical malpractice. 8% of EPs sued annually; 93% don't reach court; 79% jury verdict for physician. Disability = lost income. Life = beneficiaries.
+ARABIC: تأمين سوء الممارسة (malpractice) يحمي من ادعاءات الأخطاء الطبية. 8% من أطباء الطوارئ يُقاضون سنويًا؛ 93% لا تصل للمحكمة.
+
+### [PEER-PHYS | PEER-core-q-438]
+Q: What is a successful conclusion to the end of the first interview day?
+A: Thank parties involved for their time and hospitality
+EXPLANATION: End of interview day: thank in person + follow-up email/call. Contract discussion only after offer. Salary negotiation later. Don't press for timeline aggressively.
+ARABIC: نهاية يوم المقابلة: اشكر شخصيًا + بريد/اتصال متابعة. مناقشة العقد فقط بعد العرض. لا تضغط على الجدول الزمني.
+
+### [PEER-PHYS | PEER-core-q-439]
+Q: When is it advisable for an emergency physician to consult a contract lawyer during the job search process?
+A: At the beginning of their job search
+EXPLANATION: Contract lawyer: consult EARLY (before anything in writing). Time to find experienced lawyer. Can save thousands. Physicians not trained in contract review.
+ARABIC: محامي العقود: استشره مبكرًا (قبل أي شيء مكتوب). وقت لإيجاد محامٍ ذي خبرة. قد يوفر الآلاف.
+
+### [PEER-PHYS | PEER-core-q-440]
+Q: What important element should be negotiated in a physician's employment contract?
+A: Malpractice insurance
+EXPLANATION: Negotiate malpractice insurance (type + amount). Tail coverage if claims-made. Noncompete = restrictive (negotiate distance/duration). Avoid one-sided termination.
+ARABIC: تفاوض على تأمين سوء الممارسة (النوع + المبلغ). تغطية tail إذا claims-made. noncompete = تقييدي (تفاوض على المسافة/المدة).
+
+### [PEER-PHYS | PEER-core-q-441]
+Q: What is a crucial part of the history when assessing a patient with dementia who presents with a caregiver?
+A: Assess caregiver stress and strain
+EXPLANATION: Assess caregiver stress/strain (Kingston Caregiver Stress Scale). Include caregivers in care. Only 29% of caregivers report being asked about needs.
+ARABIC: قيّم إجهاد مقدم الرعاية (مقياس Kingston). أشرك مقدمي الرعاية في الرعاية. 29% فقط يُسألون عن احتياجاتهم.
+
+### [PEER-PHYS | PEER-core-q-442]
+Q: What is the best example of a clinical decision support intervention found in the electronic health record?
+A: Reminder to give aspirin to a patient with a positive troponin
+EXPLANATION: Clinical decision support: rule-based alerts combining patient info + medical evidence. Reminder for aspirin with positive troponin = real-time alert. Documentation/billing calculator = administrative.
+ARABIC: دعم القرار السريري: تنبيهات مبنية على قواعد تجمع معلومات المريض + الأدلة الطبية. تذكير بالأسبرين مع تروبونين موجب.
+
+### [PEER-PHYS | PEER-core-q-443]
+Q: A 55-year-old with cellulitis on upper left arm (2 days ago, given cephalexin). Chart shows normal right leg exam despite prior BKA. What is the most likely cause of the documentation error?
+A: Macro
+EXPLANATION: Macro: predetermined text inserted with keystroke. Must review/edit carefully. Inaccurate exam (normal right leg with BKA) = macro not edited. Legal/billing risk.
+ARABIC: الماكرو: نص محدد مسبقًا يُدرج بضغطة. يجب مراجعته/تحريره بعناية. فحص غير دقيق = ماكرو لم يُحرّر.
+
+### [PEER-PHYS | PEER-core-q-444]
+Q: A sole emergency physician at MVC scene performs triage. Which patient has the highest treatment priority?
+A: 40-year-old woman with R 20, strong radial pulse, and inability to follow simple commands
+EXPLANATION: START triage: Immediate (unable to follow commands) = highest priority. Dead (apneic despite airway) = lowest. Minor (ambulatory) = delayed. Delayed (normal vitals + follows commands) = can wait.
+ARABIC: فرز START: فوري (لا يمكنه اتباع الأوامر) = أعلى أولوية. ميت (انقطاع نفس رغم مجرى هواء) = الأقل. بسيط (يمشي) = مؤجل.
+
+### [PEER-PHYS | PEER-core-q-445]
+Q: What is a known benefit of emergency department observation units?
+A: Higher patient satisfaction scores
+EXPLANATION: ED observation units: higher satisfaction, shorter stays, decreased costs, comparable/better outcomes. NOT for holding admitted patients (that's holding units).
+ARABIC: وحدات المراقبة في الطوارئ: رضا أعلى، إقامة أقصر، تكاليف أقل، نتائج مماثلة أو أفضل. ليست لحفظ المرضى المُدخلين.
+
+### [PEER-PHYS | PEER-core-q-446]
+Q: What is a requirement for billing critical care services in the care of an emergency department patient?
+A: Critical illness or injury with a high probability of deterioration
+EXPLANATION: Critical care billing: critical illness/injury with high probability of imminent/life-threatening deterioration. Minimum 30 min (not 45). No specific interventions required.
+ARABIC: فوترة الرعاية الحرجة: مرض/إصابة حرجة مع احتمال كبير للتدهور الوشيك/المهدد للحياة. الحد الأدنى 30 دقيقة.
+
+### [PEER-PHYS | PEER-core-q-447]
+Q: A 15-year-old with anaphylaxis to peanuts (wheezing, vomiting, lip swelling, hives). Improves then requires additional epinephrine 1 hour later. What E/M code level of care should be billed?
+A: Critical care
+EXPLANATION: Anaphylaxis with potential progression to respiratory failure/death = critical care. IM epinephrine + frequent reassessment = critical care billing. Minimum 30 minutes.
+ARABIC: التأق (anaphylaxis) مع احتمال تطور لفشل تنفسي/موت = رعاية حرجة. إبينفرين عضلي + إعادة تقييم متكررة.
+
+### [PEER-PHYS | PEER-core-q-448]
+Q: Which intervention can be included in critical care billing time for a case of high-energy trauma with scapula fracture, posterior shoulder dislocation, multiple rib fractures, and GCS 5?
+A: Ventilator management
+EXPLANATION: Critical care billing includes ventilator management (direct care), but NOT separately billable procedures (intubation, reductions). Trauma team activation = separate code.
+ARABIC: فوترة الرعاية الحرجة تشمل إدارة المنفسة (رعاية مباشرة)، لكن ليس الإجراءات القابلة للفوترة المنفصلة (تنبيب، إرجاع).
+
+### [PEER-PHYS | PEER-core-q-449]
+Q: In the medical oversight of an EMS system, what is an example of online medical direction?
+A: Communication of medication orders by radio from an emergency physician to a paramedic
+EXPLANATION: Online medical direction (direct/real-time): orders from command physician to paramedic. Offline (indirect): protocol development, QI, education, chart review.
+ARABIC: التوجيه الطبي المباشر (online): أوامر من الطبيب القائد للمسعف. غير المباشر (offline): تطوير البروتوكولات، QI، التعليم، مراجعة الملفات.
+
+### [PEER-PHYS | PEER-core-q-450]
+Q: Under what circumstance may a hospital waive standard staff credentialing procedures?
+A: Hospital Emergency Operations Plan has been activated
+EXPLANATION: Joint Commission: credentialing waived ONLY when Emergency Operations Plan activated. Hospital bylaws designate who grants privileges. 72-hour oversight required.
+ARABIC: Joint Commission: إعفاء الاعتماد فقط عند تنشيط خطة عمليات الطوارئ. لوائح المستشفى تحدد من يمنح الامتيازات.
+
+### [PEER-PHYS | PEER-core-q-451]
+Q: Which staff members are mostly likely to be victims of workplace violence in the emergency department?
+A: Nurses
+EXPLANATION: Workplace violence ED: nurses most common victims, then physicians, then other staff. Reasons: crowding, understaffing, lack of security. Report to police (criminal offense).
+ARABIC: العنف في مكان العمل في الطوارئ: الممرضون الأكثر ضحية، ثم الأطباء، ثم الطاقم الآخر.
+
+### [PEER-PHYS | PEER-core-q-452]
+Q: A 55-year-old man waiting for cough threatens to get a gun and shoot staff. What is the most appropriate response?
+A: Call law enforcement to file a police report regarding the threat
+EXPLANATION: Verbal threats = workplace violence (OSHA) = assault legally. File police report (assess criminal history/firearm status). Also file incident report + notify administration.
+ARABIC: التهديدات اللفظية = عنف في مكان العمل (OSHA) = اعتداء قانونيًا. ارفع تقرير بوليسي (يقيّم السجل الجنائي/حالة السلاح).
+
+### [PEER-PHYS | PEER-core-q-453]
+Q: During a busy shift, someone walks into the emergency department and starts shooting a rifle. What is the most appropriate response?
+A: Run, hide, and fight
+EXPLANATION: Active shooter: RUN first (as far as possible). Then HIDE (lock/barricade, close shades, quiet, concealed). FIGHT last resort (incapacitate).
+ARABIC: مطلق نار نشط: اهرب أولًا (بعيدًا قدر الإمكان). ثم اختبئ (اقفل/احجب، أغلق الستائر، صمت). قاتل كملاذ أخير.
+
+### [PEER-PHYS | PEER-core-q-454]
+Q: An 89-year-old man with terminal cancer, DNR with comfort care only, presents with severe dyspnea, chest pain, fever, and productive cough. CXR shows lobar pneumonia. What is the appropriate action?
+A: Administer an opioid and a benzodiazepine
+EXPLANATION: End-of-life care in ED: opioids for pain/dyspnea + benzodiazepines for anxiety/dyspnea. DNR does not mean 'do nothing'. Discuss goals of care. Palliative consult.
+ARABIC: رعاية نهاية الحياة في الطوارئ: أفيونات للألم/ضيق النفس + بنزوديازيبين للقلق/ضيق النفس. DNR لا يعني 'لا تفعل شيئًا'.
+
+### [PEER-PHYS | PEER-core-q-455]
+Q: An 89-year-old man with severe dementia, poor oral intake. Family considering feeding tube. Which specialist would be most helpful?
+A: Palliative medicine
+EXPLANATION: Advanced dementia + artificial nutrition question: palliative medicine for goals-of-care discussion. No health benefit from artificial nutrition in advanced dementia. Hand-feeding recommended.
+ARABIC: الخرف المتقدم + سؤال التغذية الاصطناعية: الطب التلطيفي لمناقشة أهداف الرعاية. لا فائدة صحية من التغذية الاصطناعية.
+
+### [PEER-PHYS | PEER-core-q-456]
+Q: An 88-year-old with end-stage COPD intubated by paramedics. POLST indicates no CPR/intubation, comfort-focused. Son agrees. What is the best next step?
+A: Extubate in the emergency department and provide comfort care
+EXPLANATION: POLST valid + son agrees + patient's wishes clear: honor by extubating in ED + comfort care. Use 'liberating from ventilator' language, not 'withdrawing care'. Offer chaplain, family time.
+ARABIC: POLST ساري + الابن يوافق: احترم رغبات المريض بإزالة الأنبوب في الطوارئ + رعاية مريحة. استخدم لغة 'التحرير من المنفسة'، لا 'سحب الرعاية'.
+
+### [PEER-PHYS | PEER-core-q-457]
+Q: A 67-year-old with end-stage pancreatic cancer. Goals: die at home, avoid admission. Worried about pain worsening. Wants something stronger. What is the best approach?
+A: Referral for hospice care
+EXPLANATION: Terminal cancer + goals: die at home, avoid hospital, symptom control = hospice (Medicare benefit if ≤6 months prognosis). Inpatient hospice for symptom crises.
+ARABIC: سرطان نهائي + أهداف: الموت في المنزل، تجنب المستشفى، السيطرة على الأعراض = hospice (ميزة Medicare إذا ≤6 أشهر).
+
+### [PEER-PHYS | PEER-core-q-458]
+Q: Which finding suggests that a cancer patient's functional status may be too poor to continue with chemotherapy?
+A: In bed more than 50% of waking hours
+EXPLANATION: ECOG ≥3 (>50% in bed) = poor prognosis. ASCO recommends avoiding chemo in solid tumors with ECOG ≥3 + prior non-beneficial treatment. Discuss goals, hospice.
+ARABIC: ECOG ≥3 (>50% في السرير) = إنذار سيئ. ASCO توصي بتجنب العلاج الكيميائي في الأورام الصلبة مع ECOG ≥3.
+
+### [PEER-PHYS | PEER-core-q-459]
+Q: Which criterion is required for a patient to qualify for hospice?
+A: Potential life expectancy is ≤6 months
+EXPLANATION: Hospice Medicare benefit: ≤6 months prognosis. Full code status OK. Patients can continue meds + PCP. Hospice = benefit (home, nursing facility, inpatient).
+ARABIC: ميزة hospice من Medicare: توقع حياة ≤6 أشهر. حالة الكود الكامل مقبولة. المرضى يمكنهم الاستمرار بالأدوية وطبيبهم.
+
+### [PEER-PHYS | PEER-core-q-460]
+Q: According to HIPAA, which circumstance requires written patient authorization for disclosure of protected health information?
+A: Disclosure of psychotherapy notes for use in insurance billing
+EXPLANATION: HIPAA: psychotherapy notes require written authorization (except treatment, specific legal matters, public safety). TPO (Treatment, Payment, Operations) generally no written consent.
+ARABIC: HIPAA: ملاحظات العلاج النفسي تتطلب إذنًا كتابيًا (باستثناء العلاج، مسائل قانونية محددة، السلامة العامة).
+
+### [PEER-PHYS | PEER-core-q-461]
+Q: A 12-year-old brought by neighbor with severe lawnmower injuries. Tourniquets placed, bleeding difficult. Specialty hospital accepts transfer, but parents don't answer. Regarding consent?
+A: The patient should be transferred prior to obtaining consent
+EXPLANATION: EMTALA: any patient presenting to ED must receive stabilizing treatment. If unable to stabilize, transfer to facility that can (regardless of consent). Life-threatening injury = exception to parental consent.
+ARABIC: EMTALA: أي مريض يأتي للطوارئ يجب أن يحصل على علاج مثبت. إذا لم يُستطع، يُنقل لمنشأة قادرة (بغض النظر عن الموافقة).
+
+### [PEER-PHYS | PEER-core-q-462]
+Q: A 47-year-old with suicide attempt (wrist cutting), grandiose delusions, flight of ideas, history of bipolar disorder not on meds. Calm, no significant injury, wants discharge. What is the best next step?
+A: Arrange for an emergency psychiatric hold per local state laws
+EXPLANATION: Psychiatric hold: gravely disabled (harm to self or inability to self-care) + unable to make informed decisions. Patient lacks capacity to refuse. Involuntary hold.
+ARABIC: حجز نفسي: عاجز بشكل خطير (إيذاء النفس أو عدم القدرة على الرعاية الذاتية) + غير قادر على اتخاذ قرارات مستنيرة.
+
+### [PEER-PHYS | PEER-core-q-463]
+Q: A 58-year-old with head injury. Yelling expletives, slurring, alcohol smell, large scalp hematoma. Refuses care, demands release. What is the best way to proceed?
+A: Involuntarily sedate her to facilitate workup
+EXPLANATION: Intoxicated + head injury + lacks capacity to refuse essential evaluation. Sedate/restrain as needed for safety + workup. Determining capacity = any physician.
+ARABIC: سكر + إصابة رأس + يفقد الأهلية لرفض التقييم الأساسي. هدئه/قيّده حسب الحاجة للسلامة والتقييم.
+
+### [PEER-PHYS | PEER-core-q-464]
+Q: Approximately what percentage of emergency department patients leave against medical advice?
+A: 2%
+EXPLANATION: AMA rate: 0.1-2.7% (about 2%). LWBS: ~3%. AMA patients: increased 30-day return + need for emergent hospitalization. Insurance still covers.
+ARABIC: معدل المغادرة ضد النصيحة الطبية (AMA): 0.1-2.7% (حوالي 2%). LWBS: ~3%.
+
+### [PEER-PHYS | PEER-core-q-465]
+Q: How does the 30-day return rate for adult patients discharged against medical advice compare to those discharged per standard processes?
+A: Increased
+EXPLANATION: AMA patients: significantly greater 30-day return rate + need for emergent hospitalization. Myth: insurance won't cover AMA - FALSE.
+ARABIC: مرضى AMA: معدل عودة 30 يومًا أعلى بشكل ملحوظ + حاجة للاستشفاء الطارئ. خرافة: التأمين لا يغطي AMA - خطأ.
+
+### [PEER-PHYS | PEER-core-q-466]
+Q: What is an emergency physician's best defense against liability when managing patients who leave against medical advice?
+A: Document completely and thoroughly
+EXPLANATION: AMA defense: thorough documentation in real time (discussion, risks, capacity, patient understanding). AMA forms are supporting, not replacing documentation.
+ARABIC: دفاع AMA: توثيق شامل في الوقت الفعلي (النقاش، المخاطر، الأهلية، فهم المريض). نماذج AMA دعم وليست بديلًا.
+
+### [PEER-PHYS | PEER-core-q-467]
+Q: Hospital gets transfer request for unstable patient with AAA. Normally accepts, but vascular surgeon just started 8-hr case. Can hospital decline and remain EMTALA compliant?
+A: Yes, because it lacks the capacity to care for the patient
+EXPLANATION: EMTALA: accepting hospital may decline if no capacity/capability. Surgeon unavailable + no space = lack capacity. Cannot refuse for money/convenience.
+ARABIC: EMTALA: المستشفى المستقبل قد يرفض إذا انعدمت السعة/القدرة. الجراح غير متوفر + لا مساحة = انعدام السعة.
+
+### [PEER-PHYS | PEER-core-q-468]
+Q: What is one responsibility of the critical care transportation team's medical director during hospital-to-hospital transfer?
+A: Ensuring proper training of transportation teams to care for patients
+EXPLANATION: EMS medical director: training + scope of practice. Transferring physician: mode + monitoring. Accepting physician: bed choice.
+ARABIC: المدير الطبي لـ EMS: التدريب + نطاق الممارسة. الطبيب المُحوِّل: الوضع + المراقبة. الطبيب المستقبل: اختيار السرير.
+
+### [PEER-PHYS | PEER-core-q-469]
+Q: What types of responders are critical care transportation teams most commonly composed of?
+A: Paramedic and nurse
+EXPLANATION: Critical care transport: nurse-paramedic most common (2 advanced-care clinicians + 3rd non-practitioner). ALS: EMT-paramedic. BLS: 2 EMTs.
+ARABIC: النقل للرعاية الحرجة: ممرض-مسعف الأكثر شيوعًا (2 أطباء متقدمين + ثالث غير ممارس).
+
+### [PEER-PHYS | PEER-core-q-470]
+Q: What level of training for EMS personnel allows them to perform rapid sequence intubation per national scope of practice, if allowed by medical director?
+A: Paramedic
+EXPLANATION: RSI: paramedic only (with medical director approval + local protocol). EMR = CPR/first aid. EMT = BLS. AEMT = BLS + limited ALS (IV, supraglottic but not RSI).
+ARABIC: RSI: المعالج (paramedic) فقط (بموافقة المدير الطبي + بروتوكول محلي).
+
+### [PEER-PHYS | PEER-core-q-471]
+Q: A 65-year-old with chest pain, hemodynamically stable, no STEMI, requires transfer to cath lab. What is the most appropriate level of care?
+A: Advanced life support
+EXPLANATION: Stable chest pain + no STEMI: ALS (cardiac monitoring + IV access + cardiac meds). BLS lacks these. Air reserved for critically ill. Critical care for unstable.
+ARABIC: ألم صدري مستقر بدون STEMI: ALS (مراقبة قلبية + وريد + أدوية قلبية). BLS يفتقر لهذه.
+
+### [PEER-PHYS | PEER-core-q-472]
+Q: A 65-year-old with inferior STEMI. Nearest PCI center 1 hour away. After aspirin and heparin, what is the most appropriate next step?
+A: Transfer to PCI center
+EXPLANATION: STEMI: PCI preferred if within 2 hours. If transfer can be done within 2 hours of first medical contact → transfer. Thrombolytics if PCI not achievable within 2 hours.
+ARABIC: STEMI: PCI مفضل إذا خلال ساعتين. إذا النقل ممكن خلال ساعتين من أول اتصال طبي → نقل. حالات التخثر إذا PCI غير ممكن.
+
+### [PEER-PHYS | PEER-core-q-473]
+Q: A stable patient at rural hospital with ischemic colitis. Pages to on-call general surgeon unanswered for 20 minutes. What is the most appropriate next step?
+A: Escalate attempts to reach the surgeon by contacting a supervisor
+EXPLANATION: EMTALA: escalate attempts to contact on-call surgeon before transfer. Stable patient → not immediate transfer. Transfer only if unable to manage (after escalation).
+ARABIC: EMTALA: صعّد محاولات الاتصال بالجراح المناوب قبل النقل. مريض مستقر → نقل فوري ليس ضروريًا.
+
+### [PEER-PHYS | PEER-core-q-474]
+Q: Under EMTALA guidelines, what is an appropriate reason for a stroke center to refuse the transfer of a patient with acute stroke?
+A: The hospital is at at full capacity and diverting ambulances
+EXPLANATION: EMTALA: refuse only for capability (lacking specialty service) or capacity (no space/personnel). Diversion = capacity. Insurance status illegal. On-call OK (must still accept).
+ARABIC: EMTALA: الرفض فقط لعدم القدرة (خدمة تخصصية) أو السعة (مساحة/طاقم). التحويل = السعة. حالة التأمين غير قانونية.
+
+### [PEER-PHYS | PEER-core-q-475]
+Q: A 25-year-old at 37 weeks in active labor at critical-access hospital without obstetric/neonatal services. Nearest hospital 45 min away. What is the most appropriate action?
+A: Deliver the infant and placenta, then arrange for transfer
+EXPLANATION: EMTALA: active labor = unstable (can't transfer until stable). Stabilize by delivering infant + placenta. Then transfer both for specialty care. Newborn requires medical screening.
+ARABIC: EMTALA: المخاض النشط = غير مستقر (لا نقل حتى الاستقرار). استقرار بولادة الجنين + المشيمة. ثم نقل كليهما.
+
+### [PEER-PHYS | PEER-core-q-476]
+Q: A patient at critical-access hospital with STEMI. PCI center 40 minutes away. While awaiting transfer, respiratory status declines - on NRB at 90-92%. Which type of EMS responder should transport?
+A: Paramedic
+EXPLANATION: Critically ill + respiratory distress + potential intubation = paramedic (only responder with intubation capability). BLS inadequate. AEMT can't intubate.
+ARABIC: مريض حرج + ضائقة تنفسية + تنبيب محتمل = paramedic (الوحيد بقدرة التنبيب). BLS غير كافٍ.
+
+### [PEER-PHYS | PEER-core-q-477]
+Q: Which quality measurement by CMS is part of the Hospital Outpatient Quality Reporting Program?
+A: Rate of patients who left without being seen
+EXPLANATION: Hospital OQR: LWBS rate, median ED arrival-to-departure, abdominal CT contrast, head CT/MRI within 45 min for stroke, MRI lumbar spine for back pain. Failure = 2% payment reduction.
+ARABIC: برنامج Hospital OQR: معدل LWBS، وسيط وقت الوصول-المغادرة، تباين CT البطن، CT/MRI الرأس خلال 45 دقيقة للسكتة.
+
+### [PEER-PHYS | PEER-core-q-478]
+Q: In most states, Good Samaritan laws protect physicians from liability under which circumstance?
+A: Physicians who are providing care outside of their clinical setting
+EXPLANATION: Good Samaritan: protects for ordinary negligence outside clinical setting. Not gross negligence. No duty to treat. Not compensated. Not on-call.
+ARABIC: قوانين السامري الصالح: تحمي من الإهمال العادي خارج بيئة العمل السريرية. لا تحمي من الإهمال الجسيم.
+
+### [PEER-PHYS | PEER-core-q-479]
+Q: A patient suffers complication from retained guidewire during central line placement. Under which doctrine may the plaintiff not be required to provide direct factual evidence proving negligence?
+A: Res ipsa loquitur
+EXPLANATION: Res ipsa loquitur ('the thing speaks for itself'): retains guidewire = evidence of malpractice. Requirements: incident wouldn't occur without negligence, instrument under defendant's control, plaintiff didn't contribute.
+ARABIC: مبدأ Res ipsa loquitur ('الشيء يتحدث عن نفسه'): سلك محتبس = دليل على سوء الممارسة.
+
+### [PEER-PHYS | PEER-core-q-480]
+Q: A physician named in malpractice lawsuit. Which development would be consistent with second victim syndrome?
+A: The physician develops feelings of guilt and sleeping difficulties
+EXPLANATION: Second victim syndrome: emotional/psychological distress after medical error/adverse event. Guilt, sleep difficulty, depression, anxiety, burnout, substance use.
+ARABIC: متلازمة الضحية الثانية: ضيق عاطفي/نفسي بعد خطأ طبي/حدث ضار. ذنب، صعوبة نوم، اكتئاب، قلق.
+
+### [PEER-PHYS | PEER-core-q-481]
+Q: A patient diagnosed with diverticulitis discharged. Labs show WBC 1,000 with severe lymphopenia - not communicated. 6 months later diagnosed with HIV/AIDS. Correct statement regarding liability?
+A: There is a medical liability risk; the physician breached their duty to treat the patient
+EXPLANATION: Incidental finding (severe lymphopenia) not communicated → breach of duty. 4 components of liability: duty, breach, harm, causation. Emergency physicians have duty to treat.
+ARABIC: اكتشاف عرضي (نقص لمفاويات شديد) لم يُبلَّغ → خرق للواجب. 4 مكونات المسؤولية: الواجب، الخرق، الضرر، السببية.
+
+### [PEER-PHYS | PEER-core-q-482]
+Q: In the context of professional liability insurance, what is the definition of tail coverage?
+A: A policy that covers incidents that occurred during the insured period but were not brought as claims until after the insurance terminated
+EXPLANATION: Tail coverage: covers claims made AFTER claims-made policy ends for incidents during policy. Prior acts (nose): incidents before policy. Umbrella: broader.
+ARABIC: تغطية الذيل (tail): تغطي المطالبات المقدمة بعد انتهاء بوليصة claims-made عن حوادث خلال البوليصة. Prior acts (nose): حوادث قبل البوليصة.
+
+### [PEER-PHYS | PEER-core-q-483]
+Q: Which diagnoses are most frequently associated with malpractice claims in emergency medicine?
+A: Missed fractures
+EXPLANATION: Missed fractures = 23% of diagnosis-related claims (highest). Missed MI = largest indemnities. Intracranial bleeding = 3% but high monetary loss.
+ARABIC: الكسور المُغفَلة = 23% من المطالبات المرتبطة بالتشخيص (الأعلى). احتشاء عضلة القلب المُغفل = أكبر تعويضات.
+
+### [PEER-PHYS | PEER-core-q-484]
+Q: A 70-year-old woman with gout given morphine 8 mg becomes delirious, falls, and sustains femoral neck fracture. Which intervention could have prevented this?
+A: Consideration of nonopioid analgesics to treat the patient's pain
+EXPLANATION: Geriatric pain: opioid may cause delirium → falls. Low-dose titration + nonopioid alternatives. Fall risk identifiers don't prevent falls. Foley worsens delirium.
+ARABIC: ألم الشيخوخة: الأفيونات قد تسبب هذيانًا → سقوط. جرعات منخفضة + بدائل غير أفيونية. معرّفات خطر السقوط لا تمنع السقوط.
+
+### [PEER-PHYS | PEER-core-q-485]
+Q: Amoxicillin ordered mistakenly for penicillin-allergic patient who has anaphylaxis requiring prolonged stay. How should error be disclosed?
+A: Report the error to the patient and to the hospital reporting system
+EXPLANATION: Disclose error to patient + family + report to QI system. Apologies DECREASE litigation risk. Data: open/honest disclosure reduces litigation.
+ARABIC: أفصح عن الخطأ للمريض + العائلة + سجّل في نظام QI. الاعتذار يقلل خطر الدعاوى. البيانات: الإفصاح الصادق يقلل الدعاوى.
+
+### [PEER-PHYS | PEER-core-q-486]
+Q: A patient with thrombocytopenia transfused with a platelet unit meant for another patient. No adverse reaction. What is the best next step?
+A: Inform the patient of the error in person and describe what follow-up care will be provided
+EXPLANATION: Disclose medical errors to patient (regardless of adverse event). In person + describe potential effects + follow-up + monitoring. File incident report.
+ARABIC: أفصح عن الأخطاء الطبية للمريض (بغض النظر عن الحدث الضار). شخصيًا + وصف الآثار المحتملة + المتابعة.
+
+### [PEER-PHYS | PEER-core-q-487]
+Q: Which is a primary goal of lobbying and public policy statements by emergency medicine professional associations?
+A: Improve care and resources for patients
+EXPLANATION: Public policy (e.g., ACEP): protect ability of EPs to care for patients, expand access, reduce medication cost, protect from lawsuits. Examples: antimicrobial stewardship, safer working conditions.
+ARABIC: السياسة العامة (مثل ACEP): حماية قدرة أطباء الطوارئ على رعاية المرضى، توسيع الوصول، خفض تكاليف الأدوية.
+
+### [PEER-PHYS | PEER-core-q-488]
+Q: What is an advantage of regionalization of care?
+A: Ensures that acutely injured or ill patients receive the most appropriate care
+EXPLANATION: Regionalization: time-critical diagnoses (trauma, STEMI, stroke) transported directly to designated facilities with resources. Benefits: streamlined care, resource stewardship, avoiding duplication.
+ARABIC: الإقليمية: التشخيصات الحرجة زمنيًا (رضح، STEMI، سكتة) تُنقل مباشرة لمنشآت مخصصة بالموارد.
+
+### [PEER-PHYS | PEER-core-q-489]
+Q: What discharge practice is contraindicated for older patients?
+A: Compress all discharge instructions to fit on one sheet of paper
+EXPLANATION: Elderly discharge: DON'T compress to one page (font too small, critical info lost). DO: engage family, PCP handoff, simple language, personal review.
+ARABIC: إخراج المسنين: لا تضغط في صفحة واحدة (خط صغير، فقدان معلومات حرجة). افعل: أشرك العائلة، تسليم PCP، لغة بسيطة، مراجعة شخصية.

@@ -1,0 +1,970 @@
+{
+  "id": "tintinalli-manual-8e",
+  "title": "Tintinalli's Emergency Medicine Manual",
+  "edition": 8,
+  "year": 2018,
+  "publisher": "McGraw-Hill Education",
+  "pages": 1089,
+  "sha256": "19299366976d170f9380b394f18e37de300129d99cc3a7b78680f99d8162fc95",
+  "source": "D:\\New folder\\ER BOOKS\\Tintinalli’s Emergency Medicine Manual ( PDFDrive ).pdf",
+  "status": "under-review",
+  "ownerApproval": "approved-for-private-pilot-use",
+  "usageScope": "private-pilot",
+  "jordanBoardApproval": "not-verified",
+  "expectedChapters": 189,
+  "detectedChapters": 189,
+  "chapters": [
+    {
+      "number": 1,
+      "pdfStart": 20,
+      "pdfEnd": 28
+    },
+    {
+      "number": 2,
+      "pdfStart": 29,
+      "pdfEnd": 47
+    },
+    {
+      "number": 3,
+      "pdfStart": 48,
+      "pdfEnd": 55
+    },
+    {
+      "number": 4,
+      "pdfStart": 56,
+      "pdfEnd": 78
+    },
+    {
+      "number": 5,
+      "pdfStart": 79,
+      "pdfEnd": 82
+    },
+    {
+      "number": 6,
+      "pdfStart": 83,
+      "pdfEnd": 85
+    },
+    {
+      "number": 7,
+      "pdfStart": 86,
+      "pdfEnd": 95
+    },
+    {
+      "number": 8,
+      "pdfStart": 96,
+      "pdfEnd": 99
+    },
+    {
+      "number": 9,
+      "pdfStart": 100,
+      "pdfEnd": 103
+    },
+    {
+      "number": 10,
+      "pdfStart": 104,
+      "pdfEnd": 114
+    },
+    {
+      "number": 11,
+      "pdfStart": 115,
+      "pdfEnd": 119
+    },
+    {
+      "number": 12,
+      "pdfStart": 120,
+      "pdfEnd": 126
+    },
+    {
+      "number": 13,
+      "pdfStart": 127,
+      "pdfEnd": 130
+    },
+    {
+      "number": 14,
+      "pdfStart": 131,
+      "pdfEnd": 133
+    },
+    {
+      "number": 15,
+      "pdfStart": 134,
+      "pdfEnd": 139
+    },
+    {
+      "number": 16,
+      "pdfStart": 140,
+      "pdfEnd": 143
+    },
+    {
+      "number": 17,
+      "pdfStart": 144,
+      "pdfEnd": 149
+    },
+    {
+      "number": 18,
+      "pdfStart": 150,
+      "pdfEnd": 156
+    },
+    {
+      "number": 19,
+      "pdfStart": 157,
+      "pdfEnd": 159
+    },
+    {
+      "number": 20,
+      "pdfStart": 160,
+      "pdfEnd": 164
+    },
+    {
+      "number": 21,
+      "pdfStart": 165,
+      "pdfEnd": 167
+    },
+    {
+      "number": 22,
+      "pdfStart": 168,
+      "pdfEnd": 170
+    },
+    {
+      "number": 23,
+      "pdfStart": 171,
+      "pdfEnd": 178
+    },
+    {
+      "number": 24,
+      "pdfStart": 179,
+      "pdfEnd": 185
+    },
+    {
+      "number": 25,
+      "pdfStart": 186,
+      "pdfEnd": 193
+    },
+    {
+      "number": 26,
+      "pdfStart": 194,
+      "pdfEnd": 199
+    },
+    {
+      "number": 27,
+      "pdfStart": 200,
+      "pdfEnd": 205
+    },
+    {
+      "number": 28,
+      "pdfStart": 206,
+      "pdfEnd": 209
+    },
+    {
+      "number": 29,
+      "pdfStart": 210,
+      "pdfEnd": 217
+    },
+    {
+      "number": 30,
+      "pdfStart": 218,
+      "pdfEnd": 222
+    },
+    {
+      "number": 31,
+      "pdfStart": 223,
+      "pdfEnd": 226
+    },
+    {
+      "number": 32,
+      "pdfStart": 227,
+      "pdfEnd": 229
+    },
+    {
+      "number": 33,
+      "pdfStart": 230,
+      "pdfEnd": 231
+    },
+    {
+      "number": 34,
+      "pdfStart": 232,
+      "pdfEnd": 235
+    },
+    {
+      "number": 35,
+      "pdfStart": 236,
+      "pdfEnd": 240
+    },
+    {
+      "number": 36,
+      "pdfStart": 241,
+      "pdfEnd": 243
+    },
+    {
+      "number": 37,
+      "pdfStart": 244,
+      "pdfEnd": 251
+    },
+    {
+      "number": 38,
+      "pdfStart": 252,
+      "pdfEnd": 255
+    },
+    {
+      "number": 39,
+      "pdfStart": 256,
+      "pdfEnd": 257
+    },
+    {
+      "number": 40,
+      "pdfStart": 258,
+      "pdfEnd": 262
+    },
+    {
+      "number": 41,
+      "pdfStart": 263,
+      "pdfEnd": 265
+    },
+    {
+      "number": 42,
+      "pdfStart": 266,
+      "pdfEnd": 270
+    },
+    {
+      "number": 43,
+      "pdfStart": 271,
+      "pdfEnd": 274
+    },
+    {
+      "number": 44,
+      "pdfStart": 275,
+      "pdfEnd": 277
+    },
+    {
+      "number": 45,
+      "pdfStart": 278,
+      "pdfEnd": 280
+    },
+    {
+      "number": 46,
+      "pdfStart": 281,
+      "pdfEnd": 283
+    },
+    {
+      "number": 47,
+      "pdfStart": 284,
+      "pdfEnd": 291
+    },
+    {
+      "number": 48,
+      "pdfStart": 292,
+      "pdfEnd": 300
+    },
+    {
+      "number": 49,
+      "pdfStart": 301,
+      "pdfEnd": 305
+    },
+    {
+      "number": 50,
+      "pdfStart": 306,
+      "pdfEnd": 310
+    },
+    {
+      "number": 51,
+      "pdfStart": 311,
+      "pdfEnd": 314
+    },
+    {
+      "number": 52,
+      "pdfStart": 315,
+      "pdfEnd": 317
+    },
+    {
+      "number": 53,
+      "pdfStart": 318,
+      "pdfEnd": 321
+    },
+    {
+      "number": 54,
+      "pdfStart": 322,
+      "pdfEnd": 324
+    },
+    {
+      "number": 55,
+      "pdfStart": 325,
+      "pdfEnd": 330
+    },
+    {
+      "number": 56,
+      "pdfStart": 331,
+      "pdfEnd": 334
+    },
+    {
+      "number": 57,
+      "pdfStart": 335,
+      "pdfEnd": 337
+    },
+    {
+      "number": 58,
+      "pdfStart": 338,
+      "pdfEnd": 341
+    },
+    {
+      "number": 59,
+      "pdfStart": 342,
+      "pdfEnd": 346
+    },
+    {
+      "number": 60,
+      "pdfStart": 347,
+      "pdfEnd": 353
+    },
+    {
+      "number": 61,
+      "pdfStart": 354,
+      "pdfEnd": 358
+    },
+    {
+      "number": 62,
+      "pdfStart": 359,
+      "pdfEnd": 362
+    },
+    {
+      "number": 63,
+      "pdfStart": 363,
+      "pdfEnd": 365
+    },
+    {
+      "number": 64,
+      "pdfStart": 366,
+      "pdfEnd": 368
+    },
+    {
+      "number": 65,
+      "pdfStart": 369,
+      "pdfEnd": 371
+    },
+    {
+      "number": 66,
+      "pdfStart": 372,
+      "pdfEnd": 379
+    },
+    {
+      "number": 67,
+      "pdfStart": 380,
+      "pdfEnd": 384
+    },
+    {
+      "number": 68,
+      "pdfStart": 385,
+      "pdfEnd": 390
+    },
+    {
+      "number": 69,
+      "pdfStart": 391,
+      "pdfEnd": 397
+    },
+    {
+      "number": 70,
+      "pdfStart": 398,
+      "pdfEnd": 403
+    },
+    {
+      "number": 71,
+      "pdfStart": 404,
+      "pdfEnd": 406
+    },
+    {
+      "number": 72,
+      "pdfStart": 407,
+      "pdfEnd": 413
+    },
+    {
+      "number": 73,
+      "pdfStart": 414,
+      "pdfEnd": 418
+    },
+    {
+      "number": 74,
+      "pdfStart": 419,
+      "pdfEnd": 425
+    },
+    {
+      "number": 75,
+      "pdfStart": 426,
+      "pdfEnd": 427
+    },
+    {
+      "number": 76,
+      "pdfStart": 428,
+      "pdfEnd": 430
+    },
+    {
+      "number": 77,
+      "pdfStart": 431,
+      "pdfEnd": 435
+    },
+    {
+      "number": 78,
+      "pdfStart": 436,
+      "pdfEnd": 438
+    },
+    {
+      "number": 79,
+      "pdfStart": 439,
+      "pdfEnd": 443
+    },
+    {
+      "number": 80,
+      "pdfStart": 444,
+      "pdfEnd": 446
+    },
+    {
+      "number": 81,
+      "pdfStart": 447,
+      "pdfEnd": 450
+    },
+    {
+      "number": 82,
+      "pdfStart": 451,
+      "pdfEnd": 461
+    },
+    {
+      "number": 83,
+      "pdfStart": 462,
+      "pdfEnd": 473
+    },
+    {
+      "number": 84,
+      "pdfStart": 474,
+      "pdfEnd": 479
+    },
+    {
+      "number": 85,
+      "pdfStart": 480,
+      "pdfEnd": 486
+    },
+    {
+      "number": 86,
+      "pdfStart": 487,
+      "pdfEnd": 491
+    },
+    {
+      "number": 87,
+      "pdfStart": 492,
+      "pdfEnd": 498
+    },
+    {
+      "number": 88,
+      "pdfStart": 499,
+      "pdfEnd": 502
+    },
+    {
+      "number": 89,
+      "pdfStart": 503,
+      "pdfEnd": 509
+    },
+    {
+      "number": 90,
+      "pdfStart": 510,
+      "pdfEnd": 515
+    },
+    {
+      "number": 91,
+      "pdfStart": 516,
+      "pdfEnd": 523
+    },
+    {
+      "number": 92,
+      "pdfStart": 524,
+      "pdfEnd": 531
+    },
+    {
+      "number": 93,
+      "pdfStart": 532,
+      "pdfEnd": 535
+    },
+    {
+      "number": 94,
+      "pdfStart": 536,
+      "pdfEnd": 541
+    },
+    {
+      "number": 95,
+      "pdfStart": 542,
+      "pdfEnd": 545
+    },
+    {
+      "number": 96,
+      "pdfStart": 546,
+      "pdfEnd": 549
+    },
+    {
+      "number": 97,
+      "pdfStart": 550,
+      "pdfEnd": 558
+    },
+    {
+      "number": 98,
+      "pdfStart": 559,
+      "pdfEnd": 564
+    },
+    {
+      "number": 99,
+      "pdfStart": 565,
+      "pdfEnd": 573
+    },
+    {
+      "number": 100,
+      "pdfStart": 574,
+      "pdfEnd": 582
+    },
+    {
+      "number": 101,
+      "pdfStart": 583,
+      "pdfEnd": 584
+    },
+    {
+      "number": 102,
+      "pdfStart": 585,
+      "pdfEnd": 592
+    },
+    {
+      "number": 103,
+      "pdfStart": 593,
+      "pdfEnd": 598
+    },
+    {
+      "number": 104,
+      "pdfStart": 599,
+      "pdfEnd": 602
+    },
+    {
+      "number": 105,
+      "pdfStart": 603,
+      "pdfEnd": 609
+    },
+    {
+      "number": 106,
+      "pdfStart": 610,
+      "pdfEnd": 616
+    },
+    {
+      "number": 107,
+      "pdfStart": 617,
+      "pdfEnd": 620
+    },
+    {
+      "number": 108,
+      "pdfStart": 621,
+      "pdfEnd": 631
+    },
+    {
+      "number": 109,
+      "pdfStart": 632,
+      "pdfEnd": 635
+    },
+    {
+      "number": 110,
+      "pdfStart": 636,
+      "pdfEnd": 639
+    },
+    {
+      "number": 111,
+      "pdfStart": 640,
+      "pdfEnd": 642
+    },
+    {
+      "number": 112,
+      "pdfStart": 643,
+      "pdfEnd": 644
+    },
+    {
+      "number": 113,
+      "pdfStart": 645,
+      "pdfEnd": 649
+    },
+    {
+      "number": 114,
+      "pdfStart": 650,
+      "pdfEnd": 655
+    },
+    {
+      "number": 115,
+      "pdfStart": 656,
+      "pdfEnd": 661
+    },
+    {
+      "number": 116,
+      "pdfStart": 662,
+      "pdfEnd": 664
+    },
+    {
+      "number": 117,
+      "pdfStart": 665,
+      "pdfEnd": 667
+    },
+    {
+      "number": 118,
+      "pdfStart": 668,
+      "pdfEnd": 673
+    },
+    {
+      "number": 119,
+      "pdfStart": 674,
+      "pdfEnd": 676
+    },
+    {
+      "number": 120,
+      "pdfStart": 677,
+      "pdfEnd": 684
+    },
+    {
+      "number": 121,
+      "pdfStart": 685,
+      "pdfEnd": 688
+    },
+    {
+      "number": 122,
+      "pdfStart": 689,
+      "pdfEnd": 691
+    },
+    {
+      "number": 123,
+      "pdfStart": 692,
+      "pdfEnd": 693
+    },
+    {
+      "number": 124,
+      "pdfStart": 694,
+      "pdfEnd": 696
+    },
+    {
+      "number": 125,
+      "pdfStart": 697,
+      "pdfEnd": 704
+    },
+    {
+      "number": 126,
+      "pdfStart": 705,
+      "pdfEnd": 710
+    },
+    {
+      "number": 127,
+      "pdfStart": 711,
+      "pdfEnd": 713
+    },
+    {
+      "number": 128,
+      "pdfStart": 714,
+      "pdfEnd": 719
+    },
+    {
+      "number": 129,
+      "pdfStart": 720,
+      "pdfEnd": 727
+    },
+    {
+      "number": 130,
+      "pdfStart": 728,
+      "pdfEnd": 729
+    },
+    {
+      "number": 131,
+      "pdfStart": 730,
+      "pdfEnd": 733
+    },
+    {
+      "number": 132,
+      "pdfStart": 734,
+      "pdfEnd": 737
+    },
+    {
+      "number": 133,
+      "pdfStart": 738,
+      "pdfEnd": 744
+    },
+    {
+      "number": 134,
+      "pdfStart": 745,
+      "pdfEnd": 747
+    },
+    {
+      "number": 135,
+      "pdfStart": 748,
+      "pdfEnd": 752
+    },
+    {
+      "number": 136,
+      "pdfStart": 753,
+      "pdfEnd": 757
+    },
+    {
+      "number": 137,
+      "pdfStart": 758,
+      "pdfEnd": 763
+    },
+    {
+      "number": 138,
+      "pdfStart": 764,
+      "pdfEnd": 769
+    },
+    {
+      "number": 139,
+      "pdfStart": 770,
+      "pdfEnd": 777
+    },
+    {
+      "number": 140,
+      "pdfStart": 778,
+      "pdfEnd": 783
+    },
+    {
+      "number": 141,
+      "pdfStart": 784,
+      "pdfEnd": 793
+    },
+    {
+      "number": 142,
+      "pdfStart": 794,
+      "pdfEnd": 799
+    },
+    {
+      "number": 143,
+      "pdfStart": 800,
+      "pdfEnd": 802
+    },
+    {
+      "number": 144,
+      "pdfStart": 803,
+      "pdfEnd": 810
+    },
+    {
+      "number": 145,
+      "pdfStart": 811,
+      "pdfEnd": 814
+    },
+    {
+      "number": 146,
+      "pdfStart": 815,
+      "pdfEnd": 818
+    },
+    {
+      "number": 147,
+      "pdfStart": 819,
+      "pdfEnd": 824
+    },
+    {
+      "number": 148,
+      "pdfStart": 825,
+      "pdfEnd": 831
+    },
+    {
+      "number": 149,
+      "pdfStart": 832,
+      "pdfEnd": 844
+    },
+    {
+      "number": 150,
+      "pdfStart": 845,
+      "pdfEnd": 849
+    },
+    {
+      "number": 151,
+      "pdfStart": 850,
+      "pdfEnd": 856
+    },
+    {
+      "number": 152,
+      "pdfStart": 857,
+      "pdfEnd": 863
+    },
+    {
+      "number": 153,
+      "pdfStart": 864,
+      "pdfEnd": 869
+    },
+    {
+      "number": 154,
+      "pdfStart": 870,
+      "pdfEnd": 874
+    },
+    {
+      "number": 155,
+      "pdfStart": 875,
+      "pdfEnd": 883
+    },
+    {
+      "number": 156,
+      "pdfStart": 884,
+      "pdfEnd": 887
+    },
+    {
+      "number": 157,
+      "pdfStart": 888,
+      "pdfEnd": 891
+    },
+    {
+      "number": 158,
+      "pdfStart": 892,
+      "pdfEnd": 895
+    },
+    {
+      "number": 159,
+      "pdfStart": 896,
+      "pdfEnd": 898
+    },
+    {
+      "number": 160,
+      "pdfStart": 899,
+      "pdfEnd": 904
+    },
+    {
+      "number": 161,
+      "pdfStart": 905,
+      "pdfEnd": 910
+    },
+    {
+      "number": 162,
+      "pdfStart": 911,
+      "pdfEnd": 915
+    },
+    {
+      "number": 163,
+      "pdfStart": 916,
+      "pdfEnd": 921
+    },
+    {
+      "number": 164,
+      "pdfStart": 922,
+      "pdfEnd": 927
+    },
+    {
+      "number": 165,
+      "pdfStart": 928,
+      "pdfEnd": 932
+    },
+    {
+      "number": 166,
+      "pdfStart": 933,
+      "pdfEnd": 934
+    },
+    {
+      "number": 167,
+      "pdfStart": 935,
+      "pdfEnd": 938
+    },
+    {
+      "number": 168,
+      "pdfStart": 939,
+      "pdfEnd": 941
+    },
+    {
+      "number": 169,
+      "pdfStart": 942,
+      "pdfEnd": 947
+    },
+    {
+      "number": 170,
+      "pdfStart": 948,
+      "pdfEnd": 952
+    },
+    {
+      "number": 171,
+      "pdfStart": 953,
+      "pdfEnd": 960
+    },
+    {
+      "number": 172,
+      "pdfStart": 961,
+      "pdfEnd": 967
+    },
+    {
+      "number": 173,
+      "pdfStart": 968,
+      "pdfEnd": 974
+    },
+    {
+      "number": 174,
+      "pdfStart": 975,
+      "pdfEnd": 979
+    },
+    {
+      "number": 175,
+      "pdfStart": 980,
+      "pdfEnd": 984
+    },
+    {
+      "number": 176,
+      "pdfStart": 985,
+      "pdfEnd": 987
+    },
+    {
+      "number": 177,
+      "pdfStart": 988,
+      "pdfEnd": 993
+    },
+    {
+      "number": 178,
+      "pdfStart": 994,
+      "pdfEnd": 997
+    },
+    {
+      "number": 179,
+      "pdfStart": 998,
+      "pdfEnd": 1001
+    },
+    {
+      "number": 180,
+      "pdfStart": 1002,
+      "pdfEnd": 1006
+    },
+    {
+      "number": 181,
+      "pdfStart": 1007,
+      "pdfEnd": 1013
+    },
+    {
+      "number": 182,
+      "pdfStart": 1014,
+      "pdfEnd": 1016
+    },
+    {
+      "number": 183,
+      "pdfStart": 1017,
+      "pdfEnd": 1021
+    },
+    {
+      "number": 184,
+      "pdfStart": 1022,
+      "pdfEnd": 1025
+    },
+    {
+      "number": 185,
+      "pdfStart": 1026,
+      "pdfEnd": 1028
+    },
+    {
+      "number": 186,
+      "pdfStart": 1029,
+      "pdfEnd": 1031
+    },
+    {
+      "number": 187,
+      "pdfStart": 1032,
+      "pdfEnd": 1034
+    },
+    {
+      "number": 188,
+      "pdfStart": 1035,
+      "pdfEnd": 1039
+    },
+    {
+      "number": 189,
+      "pdfStart": 1040,
+      "pdfEnd": 1043
+    }
+  ],
+  "lowTextPages": [
+    1,
+    737,
+    883
+  ],
+  "summaryStatus": "pending",
+  "note": "Page-linked raw extraction is not a summary; tables/images and current clinical validity need review."
+}

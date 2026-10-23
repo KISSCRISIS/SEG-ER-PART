@@ -1,0 +1,13 @@
+=== deployed asset verification ===
+UTC 2026-08-15T22:14:40Z
+SEG_Dashboard_Brain_Heart_Core_Clean_Approved.png                           status=403 type=application/xml bytes=111
+SEG_Dashboard_Brain_Heart_Core_Clean_Approved_45d2f500.png                  status=200 type=image/png bytes=1827352
+SEG_ATLAS_VISUAL_ASSETS_HERO_v1.0.png                                       status=403 type=application/xml bytes=111
+SEG_ATLAS_VISUAL_ASSETS_HERO_v1.0_b0cd2819.png                              status=200 type=image/png bytes=2140928
+SEG_Primary_Logo_Approved_1f60ebe3.png                                      status=200 type=image/png bytes=424809
+SEG_Hero_Logo_Heart_Brain_ECG_Approved_c28d10bb.png                         status=200 type=image/png bytes=1536510
+SEG_MedicalJournal_Reference_Final_6449012a.png                             status=200 type=image/png bytes=1754065
+SEG_Official_Brain_Heart_Mark_Crop_a8cd393c.png                             status=200 type=image/png bytes=120180
+SEG_Registration_Approved_Heart_ECG_Stage_4079b3c9.png                      status=200 type=image/png bytes=241399
+SEG_Login_Heart_Intelligence_Stage_Approved_48b67481.png                    status=200 type=image/png bytes=340410
+SEG_Login_Brain_Heart_Intelligence_Stage_Approved_0602fd64.png              status=200 type=image/png bytes=331027

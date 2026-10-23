@@ -1,0 +1,29 @@
+=== production bundle evidence ===
+UTC 2026-08-15T22:15:52Z
+bundle_bytes=575851
+
+--- section labels ---
+My Pathway                   PRESENT
+Learn                        PRESENT
+Practice                     PRESENT
+Atlas & Visual Assets        PRESENT
+Medical Journal              PRESENT
+My Account                   PRESENT
+pathway                      PRESENT
+learn                        PRESENT
+practice                     PRESENT
+reference                    PRESENT
+journal                      PRESENT
+account                      PRESENT
+
+--- route strings ---
+"/"                          PRESENT
+"/register"                  PRESENT
+"/login"                     PRESENT
+"/dashboard"                 PRESENT
+api/oauth/callback           PRESENT
+auth.me                      PRESENT
+
+--- medical content boundary indicators ---
+No approved journal article is available for display                        PRESENT
+An approved item must include source, version, review status, and audit trail before it can open here PRESENT

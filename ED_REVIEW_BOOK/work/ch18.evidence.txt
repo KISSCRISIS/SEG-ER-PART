@@ -1,0 +1,1294 @@
+### [PEER-PHYS | PEER-toxic-q-46]
+Q: Which medication combination is most likely to trigger serotonin syndrome?
+A: Citalopram and dextromethorphan
+EXPLANATION: Serotonin syndrome risk increases with two serotonergic agents. Citalopram (SSRI) + dextromethorphan (OTC cough suppressant with serotonin reuptake inhibition) is a classic combination.
+ARABIC: متلازمة السيروتونين (serotonin syndrome): تحدث عند الجمع بين دوائين سيروتونيين. citalopram (SSRI) + dextromethorphan (مثبط سعال يثبط استرداد السيروتونين) مزيج كلاسيكي.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-319]
+Q: Which of the following findings suggests ethylene glycol ingestion?
+A: Lactate of 0.9 mmol/L, pH of 7.12, and creatinine of 2.5 mg/dL
+EXPLANATION: The toxic alcohols include ethanol, ethylene glycol, methanol, and isopropanol. Each toxic alcohol overdose has its own clinical characteristics. Markers of intoxication with ethylene glycol include high anion gap metabolic acidosis with an absence of significantly elevated lactate or ketone concentrations and calcium oxalate formation, leading to acute kidney injury. Therefore, lactate of 0.9 mmol/L, pH of 7.12, and creatinine of 2.5 mg/dL would be characteristic of ethylene glycol poisoning. Although lactate can be slightly elevated (both falsely or truly), it is not at levels that would explain the significant acidosis.
+
+### [PEER-PHYS | PEER-toxic-q-47]
+Q: Which physical finding is most specific for serotonin syndrome?
+A: Clonus
+EXPLANATION: New-onset clonus in the setting of serotonergic agent use is highly specific for serotonin syndrome. Hunter criteria rely heavily on clonus. Rigidity, hyperthermia, and tachycardia are sensitive but nonspecific.
+ARABIC: الرجفان العضلي (clonus) هو الأكثر نوعية لمتلازمة السيروتونين. معايير Hunter تعتمد عليه بشكل كبير. الصلابة (rigidity) والحرارة والسرعة ليست نوعية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-320]
+Q: A 13-year-old boy presents to the ED with nausea, headaches, blurred vision, and ataxia. He notes that his parents and sisters all have similar symptoms. Which of the following will confirm the diagnosis?
+A: Co-oximetry
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with carbon monoxide poisoning. Carbon monoxide is the leading cause of poisoning morbidity and mortality in the United States. The pathophysiology of carbon monoxide poisoning involves the binding of carbon monoxide to hemoglobin to form carboxyhemoglobin. Carboxyhemoglobin does not carry oxygen and thus shifts the oxygen-hemoglobin dissociation curve to the left, impairing the delivery of oxygen to the tissues. Pulse oximetry is normal in patients with carbon monoxide toxicity. To detect carbon monoxide, co-oximetry must be used to measure carboxyhemoglobin.
+
+### [PEER-PHYS | PEER-toxic-q-48]
+Q: Which medication should be avoided to prevent serotonin syndrome after an uncomplicated intubation of a patient taking paroxetine?
+A: Fentanyl
+EXPLANATION: Paroxetine is an SSRI. Fentanyl has serotonergic properties and can precipitate serotonin syndrome. Dexmedetomidine, midazolam, and propofol lack serotonergic properties.
+ARABIC: الباروكستين (paroxetine) هو SSRI. الفنتانيل (fentanyl) له خصائص سيروتونينية وقد يسبب متلازمة السيروتونين. البدائل الآمنة: dexmedetomidine, midazolam, propofol.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-321]
+Q: A 35-year-old woman with a history of depression presents to the ED with altered mental status. Her medication was changed from fluoxetine to phenelzine 2 days ago. Upon arrival, her vital signs are temperature 39.5°C, heart rate 110 bpm, blood pressure 170/110 mm Hg, and respiratory rate 16/minute. Her exam is notable for lower extremity myoclonus.
+A: Serotonin syndrome
+EXPLANATION: Serotonin syndrome occurs when there is an excess of systemic serotonin, usually due to a combination of medications, in this case, fluoxetine and phenelzine. Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) that has a long half-life and active metabolites. Phenelzine is a monoamine oxidase inhibitor (MAOI) that inhibits serotonin breakdown. Because of fluoxetine’s long half-life and the consequent risk of serotonin syndrome, a 6-week washout period is recommended after discontinuation before starting an MAOI. Serotonin syndrome is characterized by altered mental status, hyperreflexia, clonus, rigidity, and autonomic instability.
+
+### [PEER-PHYS | PEER-toxic-q-49]
+Q: Cyproheptadine is the preferred agent to treat which condition?
+A: Serotonin syndrome
+EXPLANATION: Cyproheptadine is the main antidote for serotonin syndrome. It is a first-generation antihistamine with unique serotonin receptor antagonism. Reserved for cases failing supportive care.
+ARABIC: سايبروهيبتادين (cyproheptadine) هو الترياق الرئيسي لمتلازمة السيروتونين. مضاد هيستامين من الجيل الأول مع تثبيط مستقبلات السيروتونين. يُحفظ للحالات المقاومة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-322]
+Q: A 3-year-old boy presents to the ED with his distraught grandparent. The boy was playing with an old chemistry set in the basement, and was witnessed to ingest a silvery metallic liquid 30 minutes prior to arrival. The grandparent provides a vial labeled Hg. Vital signs are significant for an HR of 109 bpm, BP of 94/56 mm Hg, RR of 24/min, SpO2 of 99%, and T of 97.7°F (36.6°C).
+A: Discharge home
+EXPLANATION: Mercury (Hg) exists in many different forms, including elemental, organic, and inorganic, with variable toxicities. The most readily recognized form of mercury is elemental mercury, also called quicksilver, which is a silver metal and is liquid at room temperature. Elemental mercury exposure may occur by inhalation of vapor during gold mining or while vacuuming a spill. Aerosolized mercury is absorbed through the lungs and can result in respiratory failure. Typical symptoms include dyspnea, chest tightness, fever, chills, and burning in the throat, followed by bloody diarrhea and kidney failure.
+
+### [PEER-PHYS | PEER-toxic-q-50]
+Q: A patient with opioid use disorder on methadone presents with altered mental status, hyperthermia, and sustained clonus. Started a new medication yesterday. Which likely precipitated this?
+A: Sumatriptan
+EXPLANATION: Sumatriptan (triptan) is a serotonin receptor agonist. Combined with methadone (serotonergic) causes serotonin syndrome. Clonus is the most specific finding.
+ARABIC: سوماتريبتان (sumatriptan) ناهض لمستقبلات السيروتونين. مع الميثادون (methadone - سيروتونيني) يسبب متلازمة السيروتونين. الرجفان العضلي هو الأكثر نوعية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-323]
+Q: A 31-year-old farmer presents to the ED with signs of organophosphate poisoning. Which of the following is the clinical end point of atropine administration?
+A: Attenuation of bronchial secretions
+EXPLANATION: Organophosphate poisoning is a cholinergic crisis characterized clinically by salivation, lacrimation, emesis, diarrhea, bronchorrhea, urinary incontinence, diaphoresis, miosis, hypotension, and bradycardia. Organophosphates inhibit cholinesterase breakdown of acetylcholine at the neuromuscular junction. Their effects manifest as excess acetylcholine at nicotinic and muscarinic receptors. Central nervous system effects may include anxiety, tremor, headache, restlessness, emotional lability, dizziness, confusion, delirium, hallucinations, agitation, lethargy, coma, and seizures.
+
+### [PEER-PHYS | PEER-toxic-q-51]
+Q: How do patients with alcoholic ketoacidosis most commonly present?
+A: Abdominal pain and vomiting
+EXPLANATION: Alcoholic ketoacidosis typically occurs in undernourished alcoholics after a binge. Abdominal pain and vomiting are common. Normal mental status despite severe acidosis distinguishes from toxic alcohol.
+ARABIC: الحماض الكيتوني الكحولي (alcoholic ketoacidosis): ألم بطني وقيء شائعان. المستوى العقلي طبيعي رغم الحماض الشديد - يميزه عن التسمم بالكحولات السامة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-324]
+Q: Which of the following can help distinguish cocaine toxicity from anticholinergic toxicity?
+A: Presence of bowel sounds
+EXPLANATION: Cocaine use causes the release of multiple neurotransmitters, including dopamine, epinephrine, norepinephrine, and serotonin, and also inhibits neurotransmitter reuptake at the synapse. This results in excitation of the sympathetic nervous system and signs and symptoms of sympathomimetic toxidrome on exam. Patients may be agitated and combative with mydriasis, diaphoresis, and increased bowel sounds. Hyperthermia, hypertension, and tachycardia are also common. Cocaine-induced hypertension and vasoconstriction can result in myocardial ischemia and infarction, aortic dissection, intracranial hemorrhage, and stroke.
+
+### [PEER-PHYS | PEER-toxic-q-52]
+Q: What distinguishes the ethanol metabolism of chronic users from users intolerant of ethanol?
+A: Zero-order kinetics metabolism
+EXPLANATION: In chronic users, alcohol dehydrogenase becomes saturated and ethanol follows zero-order kinetics (fixed amount per hour). Tolerance develops so they may appear sober at higher levels.
+ARABIC: في شاربي الكحول المزمنين: إنزيم ADH يشبع ويتبع الأيض حركية الرتبة الصفرية (كمية ثابتة/ساعة). يتطور التحمل فيبدون واعين بمستويات مرتفعة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-325]
+Q: A 28-year-old man is brought in by his family for altered mental status. On arrival, he is extremely agitated and reaching for objects that are not there. Vital signs are a T of 101.3°F (38.5°C), HR of 130 bpm, BP of 170/100 mm Hg, and RR of 30/min with SpO2 of 97% on room air.
+A: Belladonna ingestion
+EXPLANATION: Belladonna (Atropa bella-donna), also called deadly nightshade, is a member of the nightshade family of plants native to Europe, North Africa, and Western Asia and was introduced in North America. The berries and leaves contain tropane alkaloids, including atropine, scopolamine, and hyoscyamine. These tropane alkaloids are anticholinergic agents, and their ingestion results in findings of anticholinergic toxicity. Symptoms of the anticholinergic toxidrome include hyperthermia, agitation or altered mental status, and tachycardia.
+
+### [PEER-PHYS | PEER-toxic-q-53]
+Q: A patient with elevated anion gap acidosis. Blood gas lactate 19 mmol/L; serum lactate 3.4 mmol/L. What is the most likely causative agent?
+A: Ethylene glycol
+EXPLANATION: Ethylene glycol causes 'lactate gap' - glycolate metabolite falsely interpreted as lactate by blood gas analyzers (lactate oxidase). Serum lactate (LDH method) is unaffected.
+ARABIC: إيثيلين غليكول (ethylene glycol): يسبب 'lactate gap' - مستقلب glycolate يُفسر خطأً كللاكتات في أجهزة غازات الدم. قياس اللاكتات في المصل لا يتأثر.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-326]
+Q: A 53-year-old man presents to the emergency department with vomiting, diarrhea, and abdominal cramping that occurred 1 hour after eating a meal prepared from mushrooms he found growing in the forest. Which of the following most predicts a benign course of disease?
+A: Symptoms occurring within 2 hours of ingestion
+EXPLANATION: This patient has early-onset GI symptoms, occurring within 2 hours of mushroom ingestion, which is most suggestive of a benign course. Supportive care measures are indicated, and the patient may be discharged home after a period of observation if symptoms resolve. Late-onset symptoms, occurring > 6 hours after mushroom ingestion, predict a more serious and potentially fatal course. Most fatalities from mushroom ingestion occur from the Amanita species, which contains amatoxin, a potent kidney and liver toxin. There are four stages of amatoxin poisoning. The first (latent) stage, lasts up to 24 hours after ingestion and is associated with an absence of any signs or symptoms.
+
+### [PEER-PHYS | PEER-toxic-q-54]
+Q: Which ingestion is associated with VBG pH 7.29, pCO2 29, Na 141, K 3.9, Cl 101, HCO3 14, BUN 21, Cr 2.4, glucose 97, lactate 0.7, calcium oxalate crystals in urine?
+A: Ethylene glycol
+EXPLANATION: Ethylene glycol classically produces metabolic acidosis with anion and osmolar gaps, AKI, and calcium oxalate crystals in urine. Osmolar and anion gaps are inversely related.
+ARABIC: إيثيلين غليكول (ethylene glycol): حماض استقلابي مع فجوة أنيونية وأسمولية + AKI + بلورات أوكزالات الكالسيوم في البول. الفجوتان معكوستان.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-327]
+Q: A 17-year-old boy presents to the ED with a headache, blurred vision, and ataxia. He states that his mother is exhibiting similar symptoms and his pet dog has been “walking strangely” as well. Which of the following is the most likely diagnosis?
+A: Carbon monoxide poisoning
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with carbon monoxide poisoning, the leading cause of poisoning morbidity and mortality in the United States. Carbon monoxide comes from the incomplete combustion of any carbonaceous fossil fuel. It is often found in places with fires, vehicle exhaust, or home heating devices and appliances. The pathophysiology of carbon monoxide poisoning involves the binding of carbon monoxide to hemoglobin to form carboxyhemoglobin. Carboxyhemoglobin does not carry oxygen and thus shifts the oxygen-hemoglobin dissociation curve to the left, impairing the delivery of oxygen to the tissues.
+
+### [PEER-PHYS | PEER-toxic-q-55]
+Q: A 54-year-old man with alcohol abuse presents with altered mental status and vomiting. P 116. Normal anion gap, normal glucose, ketonuria. What is the best next step?
+A: Intravenous hydration
+EXPLANATION: Isopropyl alcohol intoxication - ketosis with normal anion gap (no metabolic acidosis). Treatment is supportive: IV hydration, thiamine, folate. No role for fomepizole.
+ARABIC: تسمم كحول الأيزوبروبيل (isopropyl alcohol): كيتوز بدون حماض استقلابي ولا فجوة أنيونية. العلاج داعم: سوائل وريدية، ثيامين، فولات. لا دور للفوميبزول.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-328]
+Q: A 35-year-old man presents to the emergency department with several hours of abdominal pain. The patient notes that he was suicidal earlier in the day and took two bottles of acetaminophen. Examination reveals diffuse abdominal pain that localizes to the epigastrium. Which of the following is the active metabolite seen in acetaminophen toxicity?
+A: N-acetyl-p-benzoquinoneimine
+EXPLANATION: Acetaminophen toxicity is one of the most common reasons for hospital admissions, antidote usage, and fatalities following ingestion in the United States. Acetaminophen is rapidly absorbed into the bloodstream and, at therapeutic levels, is broken down into harmless metabolites that are excreted in the urine. Following a large ingestion or repeated supratherapeutic ingestions, the amount of N-acetyl-p-benzoquinoneimine (NAPQI) produced overwhelms the body’s natural glutathione stores and causes hepatocellular death. The decision to treat is based on the Rumack-Matthew nomogram.
+
+### [PEER-PHYS | PEER-toxic-q-56]
+Q: In which scenario of known methanol ingestion is immediate treatment with both fomepizole and hemodialysis most indicated?
+A: pH/pCO2 7.10/10; methanol level 80 mg/dL; ethanol level 0 mg/dL
+EXPLANATION: Fomepizole prevents further metabolism of methanol; hemodialysis removes formic acid and corrects acidemia. Both indicated with severe acidemia + persistent methanol.
+ARABIC: فوميبزول (fomepizole) يمنع استقلاب الميثانول. الغسيل الكلوي يزيل حمض الفورميك ويصحح الحماض. كلاهما مُستطب في الحماض الشديد مع بقاء الميثانول.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-329]
+Q: A 75-year-old patient with atrial fibrillation on anticoagulation presents with altered mental status after a fall. His CT scan is shown above. He is treated with idarucizumab. What is the mechanism of action of the anticoagulant this patient takes?
+A: Direct thrombin inhibition
+EXPLANATION: This patient is presenting with altered mental status due to an acute subdural hematoma while on anticoagulation, necessitating emergent reversal of anticoagulation. Idarucizumab is a monoclonal antibody fragment that is used to reverse the direct oral anticoagulant dabigatran, a direct thrombin inhibitor, preventing the conversion of fibrinogen to fibrin in the coagulation cascade. Dabigatran is commonly used to reduce the risk of recurrent venous thromboembolism, cerebral vascular accident, and systemic embolism in nonvalvular atrial fibrillation. Anticoagulation can cause life-threatening complications, such as intracranial hemorrhage, necessitating emergent reversal, as in this patient.
+
+### [PEER-PHYS | PEER-toxic-q-57]
+Q: A 3-year-old girl with fever 3 days, given acetaminophen every 2 hours. What is the correct use of N-acetylcysteine?
+A: It should be guided by specific laboratory tests
+EXPLANATION: Rumack-Matthew nomogram is only for acute single-ingestion overdose. This is subacute/chronic overdose - NAC treatment guided by acetaminophen level, LFTs, and clinical status.
+ARABIC: مخطط Rumack-Matthew مخصص فقط للجرعة الزائدة الحادة الأحادية. هذه حالة جرعة زائدة تحت حادة/مزمنة - يُوجه العلاج بـ NAC حسب المستوى ووظائف الكبد.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-330]
+Q: A 55-year-old man with an unknown cardiac dysrhythmia and an unclear psychiatric diagnosis presents to the emergency department with a neighbor who found him confused with nausea, vomiting, and diarrhea. His T is 97°F (36.1°C), BP is 127/86 mm Hg, HR is 112 bpm, RR is 18/min, and SpO2 is 98% on room air.
+A: Lithium
+EXPLANATION: Lithium is primarily used in bipolar disease and is a mortality-lowering agent. It is metabolized by the kidney, and toxicity can occur with intentional overdose, kidney dysfunction, or inappropriate dosing and monitoring. Acute toxicity presents with gastrointestinal symptoms (nausea, vomiting, diarrhea, and abdominal pain), cardiac changes (bradycardia, QT prolongation, T wave flattening and inversions), and neurological symptoms (confusion and somnolence). Chronic toxicity is more common in patients taking too high of a dose for prolonged periods and may be worsened by poor kidney function.
+
+### [PEER-PHYS | PEER-toxic-q-58]
+Q: An awake and alert patient presents 2 hours after an overdose of acetaminophen. What action should come first?
+A: Oral activated charcoal
+EXPLANATION: Activated charcoal should be given ASAP in patients presenting within several hours of ingestion. Acetaminophen level at 4 hours to plot on Rumack-Matthew. NAC guided by nomogram.
+ARABIC: الفحم المنشط (activated charcoal) يجب أن يُعطى بأسرع وقت في أول ساعات ما بعد الجرعة الزائدة. قياس الأسيتامينوفين عند 4 ساعات ثم NAC حسب المخطط.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-331]
+Q: A 45-year-old man presents to the ED with chest pain that started about 1 hour after using cocaine. His temperature is 98.5°F (36.9ºC), heart rate is 122 bpm, and blood pressure is 200/120 mm Hg. He receives multiple doses of IV benzodiazepines and nitroglycerin, but his blood pressure remains elevated at 210/110 mm Hg.
+A: Phentolamine IV
+EXPLANATION: Cocaine is a sympathomimetic that is commonly used recreationally. It can cause tachycardia, hypertension, and vasoconstriction. It can also directly injure endothelium, increase platelet aggregation, and reduce thrombolysis. The risk of an acute myocardial infarction is increased 24-fold in the 60 minutes after use. The diagnostic workup for cocaine-related chest pain is similar to that of chest pain that is not cocaine-related. Treatment for cocaine-related chest pain and hypertension should start with benzodiazepines and nitrates. For hypertension refractory to benzodiazepines and nitrates, phentolamine 1–5 mg IV can be given.
+
+### [PEER-PHYS | PEER-toxic-q-59]
+Q: A 15-year-old presents with abdominal pain, vomiting, drowsiness. Labs: metabolic acidosis, AKI. Drug test negative. What is the most likely ingested substance?
+A: Ibuprofen
+EXPLANATION: Ibuprofen overdose: large ingestions (>400 mg/kg) cause seizures, coma, renal failure, metabolic acidosis. Not routinely tested in drug screens. Treatment supportive.
+ARABIC: جرعة زائدة من الإيبوبروفين (ibuprofen): >400 mg/kg تسبب اختلاجات وغيبوبة وفشل كلوي وحماض استقلابي. لا يُكشف عادةً في فحوصات المخدرات الروتينية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-332]
+Q: A 32-year-old man with an unknown medical history presents to the ED with altered mental status. He was found by police talking to buildings and mentioning "shadows" around him. He points to staff, calling them "waving shadows". His vital signs are HR 102 bpm, BP 148/92 mm Hg, RR 14/min, T 37.1°C, SpO2 96% on room air.
+A: Phencyclidine
+EXPLANATION: This patient has likely ingested a hallucinogen called phencyclidine (PCP). Hallucinogen is a misnomer, as this class of drug rarely causes true hallucinations and instead creates a distorted perception of time and space. PCP distorts reality differently than other hallucinogens because it clouds the patient’s sensorium rather than heightens it. While diagnosis can be made for some hallucinogens with urine testing, the mainstay of diagnosis should rely on clinical evidence. This requires an understanding of the typical toxidromes of each hallucinogen and how to differentiate between them.
+
+### [PEER-PHYS | PEER-toxic-q-60]
+Q: A 16-year-old found unresponsive. pH 7.07, CO2 27, Cr 1.54, K 5.4, HCO3 13. Salicylates and acetaminophen negative. What is the most likely ingestion?
+A: Ibuprofen
+EXPLANATION: Massive ibuprofen overdose causes seizures, coma, acidosis, AKI, hyperkalemia. Salicylate screen negative excludes oil of wintergreen. Treatment: fluids, bicarb, dialysis if severe.
+ARABIC: جرعة كبيرة من إيبوبروفين: اختلاجات، غيبوبة، حماض، فشل كلوي، فرط بوتاسيوم. سكرين الساليسيلات سلبي يستبعد زيت wintergreen.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-333]
+Q: A 49-year-old man presents to the ED in January for syncope. He was found unconscious by a neighbor and says he “passed out” while working on his running car all night in his garage. He reports a dull headache and fatigue. His oxygen saturation is 95% on room air, and the remainder of his vital signs are within normal limits for his age. An ECG is unremarkable.
+A: Deliver supplemental oxygen
+EXPLANATION: Carbon monoxide toxicity causes hundreds of deaths per year but is difficult to diagnose because the presentation is variable, few diagnostic clues are readily available, and a high index of suspicion is needed. In the past, automotive sources were the most common source of carbon monoxide exposure. Other common sources include natural gas forklifts, motorboats, propane heaters, indoor hibachi grills, clothes dryers, wood or coal-burning heaters or stoves, hookah use, Zamboni machines used on ice rinks and gas-powered generators, heaters, motors, and furnaces. Carbon monoxide is a colorless and odorless gas that is the product of incomplete combustion of carbon compounds.
+
+### [PEER-PHYS | PEER-toxic-q-61]
+Q: What is a clinical manifestation of opioid withdrawal?
+A: Piloerection
+EXPLANATION: Opioid withdrawal: piloerection (goosebumps), diarrhea, tachycardia, mydriasis, rhinorrhea, yawning. NOT life-threatening. Constipation and miosis are signs of opioid intoxication.
+ARABIC: انسحاب الأفيونات: انتصاب الشعر (piloerection/goosebumps)، إسهال، تسرع قلب، توسع حدقة، سيلان أنفي، تثاؤب. الإمساك وتضيق الحدقة علامات تسمم.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-334]
+Q: A 25-year-old man presents to the ED after ingesting an entire bottle of acetaminophen. Which of the following is the most likely side effect of the treatment of choice?
+A: Anaphylactoid reaction
+EXPLANATION: Acetaminophen overdose is one of the most common means of overdose and often leads to death. Patients may present with a spectrum of symptoms, depending on the dose and duration since ingestion. Patients may be asymptomatic or can have severe GI symptoms and sequelae of liver failure. Whenever this diagnosis is suspected, the acetaminophen level should be plotted on the Rumack-Matthew nomogram to determine if there is a need for N-acetylcysteine (NAC) treatment. NAC regenerates depleted hepatic glutathione stores, avoiding the formation of hepatotoxic byproducts. It is generally a safe medication, and the use of NAC should not be avoided in acetaminophen overdoses, as it is life saving.
+
+### [PEER-PHYS | PEER-toxic-q-62]
+Q: A patient on multiple psychiatric medications presents in severe opioid withdrawal. Which medication is best to manage the withdrawal?
+A: Buprenorphine
+EXPLANATION: Buprenorphine is a high-affinity partial opioid agonist - safer than methadone when psychiatric meds prolong QT. Buccal preparation with naloxone discourages misuse.
+ARABIC: البيبري نورفين (buprenorphine): ناهض جزئي عالي الألفة لمستقبلات الأفيون. أأمن من الميثادون خاصة مع أدوية نفسية تُطيل QT.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-335]
+Q: A 2-year-old boy presents to the emergency department after a possible accidental ingestion. His parent states his son was playing while he was working in the garage. Suddenly the parent heard crying and noticed his son’s shirt was soaked with kerosene. The parent is concerned that the boy may have ingested kerosene. His physical exam is normal, and he is playing with his toys.
+A: Obtain a chest X-ray in 6 hours and discharge if normal
+EXPLANATION: Hydrocarbons are a common cause of accidental pediatric ingestions. Gasoline, motor oil, lighter fluid, kerosene, pine oil, lamp oil, and mineral spirits are the most commonly implicated hydrocarbons in accidental pediatric ingestions. Clinical manifestations of hydrocarbon ingestion involve the central nervous system as well as the respiratory and cardiovascular systems. Symptoms post-ingestion can progress rapidly. Central nervous system findings include lethargy, coma, seizures, ataxia, and visual changes. The cardiopulmonary effects of hydrocarbons are related to direct lung injury and myocardial sensitization to catecholamines.
+
+### [PEER-PHYS | PEER-toxic-q-63]
+Q: For which ingested agent is it most appropriate to administer activated charcoal?
+A: Acetylsalicylic acid
+EXPLANATION: Aspirin is well absorbed by charcoal. Avoid charcoal with alcohols (rapid absorption), metals (poor binding), and caustics (contraindicated).
+ARABIC: الأسبرين (acetylsalicylic acid) يُمتز جيدًا بالفحم. تجنب الفحم مع: الكحولات (امتصاص سريع)، المعادن (ارتباط ضعيف)، المواد الكاوية (ممنوعة).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-336]
+Q: Which of the following is a contraindication to flumazenil?
+A: Mixed overdose
+EXPLANATION: Benzodiazepine overdose is a life-threatening condition characterized by somnolence, respiratory depression, and hypotension. It is one of the few toxicological emergencies for which an antidote exists. Flumazenil is a benzodiazepine antagonist that prevents binding at gamma-aminobutyric acid receptors and can even reverse benzodiazepines already bound to receptors. However, flumazenil use is not without risks. It can cause seizures, dysrhythmias, confusion, vomiting, agitation, and psychosis. The risk of precipitating seizures is of particular concern, as they can be extremely difficult to control.
+
+### [PEER-PHYS | PEER-toxic-q-64]
+Q: Which finding is an indication for hemodialysis in the setting of acute salicylate poisoning?
+A: Altered mentation
+EXPLANATION: EXTRIP guidelines for hemodialysis in salicylate toxicity: altered mental status, salicylate >100 mg/dL, salicylate >90 with renal impairment, hypoxemia, failure of standard therapies.
+ARABIC: استطبابات غسيل الكلى في تسمم الساليسيلات (EXTRIP): تغير الحالة العقلية، مستوى >100 mg/dL، >90 مع قصور كلوي، نقص أكسجة، فشل العلاج القياسي.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-337]
+Q: An 18-year-old man presents after ingesting a bottle of imipramine. His ECG is shown above. What is the most appropriate treatment?
+A: Sodium bicarbonate
+EXPLANATION: This patient has ingested a large quantity of imipramine, a tricyclic antidepressant. Most commonly, anticholinergic symptoms predominate with tachycardia, flushed and dry skin, dilated pupils, and alteration of consciousness. Life-threatening effects are remembered by the three Cs: coma, convulsions, and cardiac dysrhythmia. Seizures are caused by several mechanisms including increased synaptic monoamines, sodium channel inhibition, and gamma-aminobutyric acid antagonism. Tricyclics also have direct alpha blockade leading to hypotension. On a cardiac level, sodium channel blockade leads to the effects seen on this ECG of QRS widening and the terminal R wave in lead aVR.
+
+### [PEER-PHYS | PEER-toxic-q-66]
+Q: Which medication is most likely to produce an anticholinergic toxidrome in overdose?
+A: Imipramine
+EXPLANATION: Tricyclic antidepressants (imipramine) cause anticholinergic toxicity: tachycardia, hyperthermia, dry skin, mydriasis, urinary retention. Also cause sodium channel blockade (QRS widening).
+ARABIC: مضادات الاكتئاب ثلاثية الحلقات (imipramine) تسبب تسممًا مضادًا للكولين: تسرع قلب، حرارة، جلد جاف، توسع حدقة، احتباس بول + حصار قنوات الصوديوم (QRS واسع).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-338]
+Q: A 51-year-old man presents to the ED in a postictal state. His vital signs include a heart rate of 98 bpm, blood pressure of 131/82 mm Hg, respiratory rate of 22/min, and oxygen saturation of 100% on 2 L nasal cannula. His fingerstick blood glucose measurement is 121 mg/dL. He is clearly postictal on examination with somnolence, a visible tongue bite, and evidence of urinary incontinence.
+A: Tramadol use
+EXPLANATION: The synthetic analgesic tramadol has both opioid and non-opioid mechanisms responsible for its clinical effects. This drug is a reuptake inhibitor of serotonin and norepinephrine and has an active metabolite (O-desmethyltramadol) that is a mu-opioid receptor agonist. Seizures have been described in patients using therapeutic and supratherapeutic doses of tramadol. The seizures are typically tonic clonic and last < 5 minutes. Interestingly, seizures seem to be precipitated by naloxone usage in these patients. Tramadol also confers the risk of respiratory depression typical of opiates and opioids.
+
+### [PEER-PHYS | PEER-toxic-q-67]
+Q: What is a major feature of the anticholinergic toxidrome?
+A: Urinary retention
+EXPLANATION: Anticholinergic toxidrome: altered mental status, tachycardia, dry mucous membranes, dry flushed skin, mydriasis, urinary retention. Bronchorrhea and diaphoresis are cholinergic. Clonus is serotonin syndrome.
+ARABIC: التسمم المضاد للكولين: تغير الحالة العقلية، تسرع قلب، أغشية جافة، جلد جاف ومحتقن، توسع حدقة، احتباس بول.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-339]
+Q: A 4-year-old boy presents after spilling chemicals on himself while playing in the garage. He is confused, diaphoretic, and incontinent of urine. His temperature is 99.0°F (37.2°C), heart rate is 110 bpm, and blood pressure is 140/100 mm Hg. In addition to decontamination and supportive care, which of the following medication combinations is indicated?
+A: Atropine and pralidoxime
+EXPLANATION: This patient has likely been poisoned by an organophosphate, a class of compounds commonly used in pesticides or chemical warfare. Exposure can occur via dermal, respiratory, or gastrointestinal routes. Organophosphates bind to acetylcholinesterase and inhibit the breakdown of acetylcholine. Muscarinic stimulation by acetylcholine causes salivation, lacrimation, urination, diarrhea, GI cramping, and emesis. Both sympathetic and parasympathetic ganglia are stimulated, so patients can be tachycardic or bradycardic. Nicotinic stimulation of skeletal muscle causes fasciculations, muscle weakness, and paralysis. CNS effects include confusion, agitation, coma, and seizures.
+
+### [PEER-PHYS | PEER-toxic-q-68]
+Q: Which medication produces predominantly anticholinergic effects at therapeutic doses?
+A: Scopolamine
+EXPLANATION: Scopolamine is a pure anticholinergic. Amitriptyline and diphenhydramine have anticholinergic properties but also other effects at therapeutic doses. Physostigmine is a cholinesterase inhibitor.
+ARABIC: سكوبولامين (scopolamine): مضاد كولين نقي. الأميتريبتيلين والديفينهيدرامين لهما تأثيرات مضادة للكولين لكن مع تأثيرات أخرى عند الجرعات العلاجية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-340]
+Q: A large number of patients are presenting to the ED with varying degrees of ocular and blistering dermal burns after a chemical warfare attack in the city. Those closest to the point of attack have arrived intubated with blood-filled endotracheal tubes. Which chemical warfare agent was most likely used in this attack?
+A: Mustard
+EXPLANATION: Quick recognition of chemical warfare agent exposure is imperative to minimize the potential spread among clinicians and the community. There are four groups of chemical warfare agents: cyanide-related toxins, vesicants (e.g., mustard), choking agents (e.g., phosgene), and nerve agents (e.g., sarin). This patient’s symptoms correlate most with mustard gas exposure. Mustard gas is a vesicant that acts as an alkylating agent, damaging anything it touches. It is the only vesicant agent that does not cause pain immediately upon exposure, allowing it to spread further within the population before decontamination attempts begin.
+
+### [PEER-PHYS | PEER-toxic-q-69]
+Q: When considering physostigmine for the treatment of an anticholinergic toxidrome, what is an absolute contraindication?
+A: QRS widening
+EXPLANATION: Physostigmine is contraindicated with QRS widening (>100 ms) due to risk of cardiac arrest, especially with sodium channel-blocking drugs (TCAs).
+ARABIC: فيزيوستيغمين (physostigmine) ممنوع عند اتساع QRS (>100 ms) لخطر توقف القلب، خاصة مع الأدوية الحاصرة لقنوات الصوديوم (مضادات الاكتئاب ثلاثية الحلقات).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-341]
+Q: A 28-year-old man presents to the ED with altered mental status and agitation. He has a history of bipolar disorder and schizophrenia and was recently started on risperidone. Vital signs: HR 128 bpm, BP 85/45 mm Hg, RR 25/min, T 103°F (39.4°C), and SpO2 93%. He is somnolent with a GCS of 12, grossly diaphoretic, and has severe rigidity in all extremities without clonus.
+A: Neuroleptic malignant syndrome
+EXPLANATION: Neuroleptic malignant syndrome (NMS) is a life-threatening neurologic emergency that is associated with the use of neuroleptic agents. Medications associated with NMS are most often high-potency first-generation neuroleptic agents such as haloperidol or fluphenazine. However, all classes of neuroleptic medications have been implicated, including the low-potency and second-generation medications (risperidone, clozapine, and olanzapine). Antiemetic drugs such as metoclopramide and promethazine have also been found to cause NMS.
+
+### [PEER-PHYS | PEER-toxic-q-70]
+Q: A 15-year-old with altered sensorium after suspected overdose. Which constellation is most consistent with diphenhydramine overdose?
+A: Hallucinations, seizures, and dilated pupils
+EXPLANATION: Diphenhydramine (anticholinergic) overdose: hallucinations, mydriasis, delirium, agitation, tachycardia, decreased bowel sounds, dry skin, seizures, QRS widening.
+ARABIC: جرعة زائدة من ديفينهيدرامين: هلاوس، توسع حدقة، هذيان، هياج، تسرع قلب، جلد جاف، اختلاجات، اتساع QRS.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-342]
+Q: A 2-year-old girl presents to the ED via ambulance. She is actively seizing. She received several doses of IV diazepam without improvement. The patient’s parent arrives with an empty pill bottle that she recently started taking after a positive tuberculin skin test. Which of the following medications is most appropriate to administer next?
+A: Pyridoxine
+EXPLANATION: This patient most likely ingested a large quantity of her parent’s isoniazid, which is used to treat latent tuberculosis. Isoniazid competitively interferes with pyridoxine metabolism by inhibiting the enzyme pyridoxine phosphokinase, which is required to form the active cofactor pyridoxal 5-phosphate. This cofactor is essential for the synthesis of gamma-aminobutyric acid, the brain’s primary inhibitory neurotransmitter. With chronic use, pyridoxine deficiency often results in peripheral neuropathy. However, in acute overdose, the rapid depletion of gamma-aminobutyric acid results in intractable seizures refractory to conventional anticonvulsant therapy, as seen in this patient.
+
+### [PEER-PHYS | PEER-toxic-q-71]
+Q: A currently asymptomatic patient reports massive diphenhydramine overdose. What is the most important next step?
+A: Cardiac monitoring
+EXPLANATION: Diphenhydramine can cause sodium channel blockade, QRS widening, ventricular tachycardia, cardiogenic shock. Cardiac monitoring minimum 6 hours after reported ingestion.
+ARABIC: ديفينهيدرامين يمكن أن يسبب حصار قنوات الصوديوم واتساع QRS وتسارع بطيني وصدمة قلبية. المراقبة القلبية لمدة 6 ساعات على الأقل بعد الجرعة المبلغ عنها.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-343]
+Q: A 7-year-old boy presents to the emergency department after a nearby terrorist attack. He had a minor arm injury and waited as the department cared for other critically ill patients. He is brought to a room 4 hours after arrival, with difficulty breathing. His SpO2 is 88% on room air. Physical examination reveals diffuse crackles on the chest, and a chest X-ray is shown above.
+A: Phosgene
+EXPLANATION: Phosgene (COCl₂, carbonyl dichloride) is a high-production-volume industrial chemical used worldwide in the manufacture of plastics, pesticides, pharmaceuticals, and dyes. It was first deployed as a chemical warfare agent during World War I, but the primary means of exposure today is via industrial accidents. However, the risk of deliberate release in a terrorist attack is a significant concern. Phosgene's toxicity is driven by its low water solubility, which allows it to bypass the upper airways without causing significant irritation and penetrate deep into the alveoli.
+
+### [PEER-PHYS | PEER-toxic-q-72]
+Q: Which metabolic complication is most likely to occur with both the therapeutic use and overdose of valproic acid?
+A: Elevated ammonia
+EXPLANATION: Hyperammonemia is a potential complication of both therapeutic use and overdose of valproic acid. Carnitine administration is the primary treatment.
+ARABIC: فرط أمونيا الدم (hyperammonemia) مضاعفة محتملة للاستخدام العلاجي وللجرعة الزائدة من فالبروات. الكارنيتين هو العلاج.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-344]
+Q: A patient presents with abdominal pain, vomiting, and diarrhea after an exposure. Vital signs are significant for an HR of 50 bpm. On exam, the patient is salivating, wheezing, and has 2 mm, round, equal, and reactive pupils. An ECG is shown above. Which of the following is the best treatment for this patient’s suspected toxidrome?
+A: Atropine and pralidoxime
+EXPLANATION: Organophosphates are found in insecticides and nerve agents that may be used in warfare. Patients with organophosphate toxicity present similarly to those with a cholinergic crisis. Two mnemonics commonly used to remember the muscarinic effects of organophosphates are SLUDGE, which stands for salivation, lacrimation, urine incontinence, diarrhea, GI cramps, and emesis, and DUMBBELSS, which stands for diarrhea, urine incontinence, miosis, bronchospasm and bronchorrhea, bradycardia, emesis, lacrimation, salivation, and sweating. Nicotinic effects include fasciculations, muscle weakness, and paralysis.
+
+### [PEER-PHYS | PEER-toxic-q-73]
+Q: An overdose of which antidepressant is most likely to cause the ECG changes shown (tachycardia, QRS widening, terminal rightward axis)?
+A: Amitriptyline
+EXPLANATION: TCA overdose (amitriptyline) causes sodium channel blockade: tachycardia, QRS prolongation, prominent R wave in aVR. Treatment: sodium bicarbonate.
+ARABIC: جرعة زائدة من مضادات الاكتئاب ثلاثية الحلقات (amitriptyline): حصار قنوات الصوديوم → تسرع قلب، اتساع QRS، موجة R بارزة في aVR. العلاج: بيكربونات الصوديوم.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-345]
+Q: What cofactor should be supplemented in a patient with ethylene glycol poisoning?
+A: Thiamine
+EXPLANATION: All patients with ethylene glycol toxicity should have supplemental thiamine given. Ethylene glycol is a colorless, odorless, sweet-tasting liquid that is typically found in antifreeze and automobile coolant. It is rapidly absorbed from the gastrointestinal tract. Like methanol, ethylene glycol is minimally toxic. However, the metabolites that result from breakdown in the body are extremely toxic. Oxalic acid combines with calcium to form calcium oxalate crystals in the renal tubules and other tissues. They can lead to renal tubular necrosis and eventually to kidney failure. The major metabolite is glycolic acid. Ethylene glycol can produce a profound anion gap metabolic acidosis.
+
+### [PEER-PHYS | PEER-toxic-q-74]
+Q: A patient intentionally overdosed on paroxetine 6 hours ago. Asymptomatic, normal vitals. What lab test is most useful to guide management?
+A: Acetaminophen concentration
+EXPLANATION: Acetaminophen concentration should be checked in all intentional self-poisonings because toxicity is initially asymptomatic and NAC is highly effective if given early.
+ARABIC: قياس الأسيتامينوفين يجب أن يُطلب في كل جرعة زائدة متعمدة لأن التسمم لا أعراض له في البداية و NAC فعال جدًا إذا أُعطي مبكرًا.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-346]
+Q: A 34-year-old man presents to the ED with vomiting after exposure to pesticides while working as a farmer. Which of the following would you expect to find on physical exam?
+A: Bronchorrhea
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with cholinergic toxicity secondary to organophosphate poisoning. Signs and symptoms of organophosphate poisoning relate to excess acetylcholine (ACh) at the nicotinic and muscarinic receptors. This produces the cholinergic toxidrome due to high postsynaptic parasympathetic activity, resulting in the classic SLUDGE mnemonic: salivation, lacrimation, urination, diarrhea, gastrointestinal cramps, and emesis. Patients will also demonstrate diaphoresis, pupillary miosis, severe bronchorrhea, bradycardia, muscular fasciculations, paralysis, agitation, seizures, or even coma.
+
+### [PEER-PHYS | PEER-toxic-q-75]
+Q: Which property of tricyclic antidepressants is responsible for the QRS prolongation seen with TCA toxicity?
+A: Sodium channel blockade
+EXPLANATION: Sodium channel blockade causes QRS prolongation. Alpha-1 blockade causes hypotension; antimuscarinic effects cause tachycardia/dry skin; potassium blockade causes QT prolongation.
+ARABIC: حصار قنوات الصوديوم يسبب اتساع QRS. حصار ألفا-1 يسبب هبوط ضغط. التأثيرات المضادة للكولين تسبب تسرع قلب وجفاف جلد.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-347]
+Q: A 35-year-old man presents with hyperthermia, hypertension, and altered mental status. He was recently started on haloperidol for schizophrenia. Physical examination reveals a confused patient with muscle rigidity. Which of the following medications should be administered?
+A: Lorazepam
+EXPLANATION: Neuroleptic malignant syndrome (NMS) is a life-threatening complication of antipsychotic drug treatment. It is most often associated with the use of first-generation antipsychotic medications, such as haloperidol and fluphenazine, but can be seen with second-generation antipsychotic medications (clozapine, risperidone, olanzapine) and also with antiemetic drugs (metoclopramide and promethazine). It is rare and only affects 0.02–3% of patients receiving these drugs. Symptoms typically appear within the first 2 weeks of therapy, but it can be seen at any point in treatment and has also been linked to rapid dose escalation.
+
+### [PEER-PHYS | PEER-toxic-q-76]
+Q: A patient after acute amitriptyline ingestion. ECG: tachycardia, QRS prolongation, terminal rightward axis. What is the most appropriate treatment?
+A: Sodium bicarbonate
+EXPLANATION: Sodium bicarbonate is the first-line treatment for TCA-induced sodium channel blockade. Increased sodium load overcomes blockade; alkalinization decreases tissue distribution.
+ARABIC: بيكربونات الصوديوم هي العلاج الأول لحصار قنوات الصوديوم من مضادات الاكتئاب ثلاثية الحلقات. زيادة الصوديوم تتغلب على الحصار، والقلوية تقلل التوزيع النسيجي.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-348]
+Q: An 18-year-old man presents to the ED reporting abdominal pain. He works at a factory using wood preservatives. The patient states that he was not wearing his face mask today and inhaled gas at the factory. Since arriving in the ED, he also reports headaches, drowsiness, nausea, and a garlic taste in his mouth. Which of the following gases was this patient exposed to?
+A: Arsenic
+EXPLANATION: Arsenic is a tasteless, odorless substance. It is associated with acute gastrointestinal effects including nausea, vomiting, hematemesis, hematochezia, diarrhea, and abdominal pain. Patients often report a metallic or garlicky taste within 30–60 minutes of exposure. Arsenic exposure is primarily environmental or occupational. It is found in wood preservatives, the production of glass, microcircuits, smelters, and electric power plants that burn arsenic-rich coal. The most toxic form is trivalent arsenite (As3+) which is highly lipid soluble and well absorbed by the skin but has poor gastrointestinal absorption.
+
+### [PEER-PHYS | PEER-toxic-q-77]
+Q: A 19-year-old with restlessness and dystonia, neck twisted to the side. On promethazine and loperamide for 2 days. What medication should be administered?
+A: Diphenhydramine
+EXPLANATION: Acute dystonic reaction from dopamine antagonist (promethazine). First-line: diphenhydramine (anticholinergic). Also benztropine or benzodiazepines.
+ARABIC: تفاعل خللي حاد (acute dystonic reaction) من مضادات الدوبامين (promethazine). العلاج الأول: diphenhydramine (مضاد كولين). بدائل: benztropine أو بنزوديازيبين.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-349]
+Q: Which of the following would have a strong interaction with direct thrombin inhibitors?
+A: Carbamazepine
+EXPLANATION: Direct oral anticoagulants (DOACs) refer to prescribed oral medications that are rapidly effective and short acting, and they include factor Xa inhibitors such as apixaban and rivaroxaban and direct thrombin inhibitors such as dabigatran. Factor Xa inhibitors work by preventing the conversion of prothrombin to thrombin, whereas direct thrombin inhibitors inactivate thrombin. Several medications can interact with DOACs, making them less effective or putting patients at risk for bleeding complications. Carbamazepine is an enzyme inducer that can increase the metabolism of certain medications, including direct thrombin inhibitors.
+
+### [PEER-PHYS | PEER-toxic-q-78]
+Q: What does linezolid inhibit, which can lead to potentially dangerous drug interactions?
+A: Monoamine oxidase
+EXPLANATION: Linezolid is a nonspecific MAOI. Combines with SSRIs to cause serotonin toxicity; with sympathomimetics to cause hypertensive crisis; with tyramine-rich foods to cause hypertensive crisis.
+ARABIC: linezolid هو مثبط غير نوعي لـ MAO. مع SSRIs يسبب تسمم سيروتونين. مع الودّيات يسبب نوبة ضغطية. مع الأطعمة الغنية بالتيرامين يسبب أزمة ضغطية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-350]
+Q: A 33-year-old woman presents to the emergency department after overdosing on medication. The patient is confused and refuses to answer questions. Her family reports her initial symptoms were tremors, nausea, and vomiting. She has now become progressively more confused. Her T is 97°F (36.1°C), BP is 95/70 mm Hg, HR is 87 bpm, RR is 15/min, and SpO2 is 100% on room air.
+A: Lithium
+EXPLANATION: Acute lithium toxicity is life threatening and usually results secondary to intentional overdose. It predominantly presents with gastrointestinal symptoms, including abdominal pain, nausea, vomiting, and diarrhea. Patients may initially present with muscle weakness and a fine tremor. More severe presentations may include confusion, seizures, and cardiac dysrhythmias (with QT prolongation on ECG). The diagnosis can be supported with a serum lithium level. However, the degree of lithium elevation may not always correlate with symptom severity and should not be relied upon solely.
+
+### [PEER-PHYS | PEER-toxic-q-79]
+Q: A 21-year-old woman with recurrent seizures after ingesting a large quantity of isoniazid. Normal glucose. Which drug should be given IV?
+A: Pyridoxine
+EXPLANATION: Isoniazid overdose: seizures refractory to conventional therapy + metabolic acidosis. Antidote: pyridoxine (vitamin B6). INH depletes GABA precursors.
+ARABIC: جرعة زائدة من أيزونيازيد: اختلاجات مقاومة للعلاج + حماض استقلابي. الترياق: بيريدوكسين (vitamin B6).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-351]
+Q: A 26-year-old presents to the ED by EMS for altered mental status. He is minimally responsive to sternal rub and has pinpoint pupils. Vital signs include HR 68 bpm, BP 92/54 mm Hg, and RR 6/minute. He is given naloxone 0.4 mg with a return of normal mentation and improvement in vital signs. Overdose of which of the following medications requires a prolonged observation period?
+A: Methadone
+EXPLANATION: The classic presentation of a patient with an opioid overdose includes central nervous system depression, respiratory depression, and miosis. Other signs and symptoms include relative bradycardia, mild hypotension, skin flushing, nausea, and vomiting. Depending on the route used, there may also be visible needle tracks, scars from skin popping (i.e., the process of injecting opioids subcutaneously), or fentanyl patches in place. Certain opioids can also cause specific findings on electrocardiogram, such as QT prolongation with methadone or QRS widening with propoxyphene.
+
+### [PEER-PHYS | PEER-toxic-q-80]
+Q: A 52-year-old woman on chloroquine for malaria prophylaxis presents with cyanosis and dyspnea. SpO2 86% not improving with O2. ABG shows chocolate-brown blood. Which antidote?
+A: Methylene blue
+EXPLANATION: Chloroquine-induced methemoglobinemia. Methylene blue is the antidote. Pulse oximetry reading is falsely low (~85%) and doesn't respond to oxygen.
+ARABIC: الميتهيموغلوبينية (methemoglobinemia) من الكلوروكين. العلاج: methylene blue. قراءة SpO2 منخفضة كاذبة (~85%) ولا تستجيب للأكسجين.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-352]
+Q: A 57-year-old man with a history of schizophrenia presents to the ED with severe agitation. On physical exam, you note severe muscular rigidity. Vital signs are BP 190/110 mm Hg, HR 140 bpm, RR 24/min, and T 101.9°F (38.8°C). Which of the following combinations is likely responsible for this patient’s presentation?
+A: Haloperidol and promethazine
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with neuroleptic malignant syndrome (NMS). NMS is a combination of hyperthermia, muscular rigidity, and autonomic dysregulation associated with the use of antipsychotic medications. Some of the most commonly implicated mechanisms by which NMS occurs are via dopamine depletion from taking phenothiazines or typical antipsychotics or by withdrawal of dopaminergic drugs such as levodopa. Haloperidol is a typical antipsychotic and promethazine a phenothiazine. Treatment of NMS includes benzodiazepines, discontinuation of the offending agent(s), aggressive cooling, and fluids.
+
+### [PEER-PHYS | PEER-toxic-q-81]
+Q: A 40-year-old man with confusion, fever, hyporeflexia. Tachycardic, diaphoretic, hypertensive, generalized rigidity. T 38.5°C. On clonazepam and haloperidol. What is the most likely diagnosis?
+A: Neuroleptic malignant syndrome
+EXPLANATION: NMS from haloperidol: fever, autonomic dysfunction, altered mentation, 'lead pipe' rigidity, HYPOREFLEXIA. Distinguish from serotonin syndrome (hyperreflexia, clonus).
+ARABIC: متلازمة الخباثة العصبية (NMS) من الهالوبيريدول: حمى، خلل وظائف ذاتية، تغير وعي، صلابة 'أنبوب الرصاص'، نقص المنعكسات. تختلف عن متلازمة السيروتونين (فرط منعكسات، clonus).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-353]
+Q: An 18-year-old man presents to the ED after accidentally ingesting an unknown amount of gasoline while siphoning from his friend’s gas tank. He is currently asymptomatic. Vital signs are BP 118/80 mm Hg, HR 80 bpm, RR 16/min, and T 98.2°F (36.8°C). Which of the following is the most appropriate course of action?
+A: Observe in the ED for 6 hours and if chest X-ray is normal, discharge home
+EXPLANATION: This patient had an accidental hydrocarbon ingestion. However, he is entirely asymptomatic with normal vital signs. When considering the diagnosis and management of hydrocarbon ingestions, the most important thing is to assess for clinical evidence of aspiration. If the patient is initially asymptomatic and has no clinical evidence of aspiration, it is recommended to observe the patient for 6 hours in the ED and then obtain a chest X-ray. If, after observing in the ED for 6 hours, the patient remains asymptomatic and has a normal chest X-ray, he may be discharged home. Management of symptomatic patients with hydrocarbon aspiration is mainly supportive.
+
+### [PEER-PHYS | PEER-toxic-q-82]
+Q: A 30-year-old man with schizophrenia presents with severe agitation and restlessness. Vitals normal, alert, no muscle involvement. Haloperidol dose increased last week. What is the most likely diagnosis?
+A: Akathisia
+EXPLANATION: Akathisia: severe restlessness/agitation after antipsychotic initiation or dose increase. Treatment: reduce dose, benzodiazepines, propranolol. Major reason for medication noncompliance.
+ARABIC: الأكاثيزيا (akathisia): تململ شديد وهياج بعد بدء أو زيادة مضادات الذهان. العلاج: تخفيض الجرعة، بنزوديازيبين، propranolol. سبب رئيسي لعدم الالتزام بالدواء.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-354]
+Q: A 21-year-old woman is brought to the emergency department after an intentional overdose 4 hours ago. Her family found her with an empty pill bottle that contained one of her grandparent’s medications. In the ED, her vital signs are a BP of 105/80 mm Hg, HR of 109 bpm, RR of 31/min, and SpO2 of 96%. She is lethargic and diaphoretic and is not following commands.
+A: Sodium bicarbonate
+EXPLANATION: This patient is presenting with salicylate toxicity in the setting of an acute ingestion. Salicylate ingestion commonly involves aspirin, but it is also seen with oil of wintergreen, medications containing bismuth subsalicylate, and liniments. After an acute ingestion, salicylate levels take several hours to reach peak concentration. Salicylates exist in ionized and unionized states. Acidemia increases the amount of the unionized form, which can freely cross cell membranes, increasing the severity of toxic effects. Salicylates undergo hepatic metabolism, and the primary route of excretion during an overdose is via the kidneys.
+
+### [PEER-PHYS | PEER-toxic-q-83]
+Q: A 37-year-old man presents with ataxia, headache, and nausea after using a gas-powered generator indoors and passing out. Carboxyhemoglobin level 26%. What is the best first step in management?
+A: Provide supplemental oxygen
+EXPLANATION: CO poisoning: remove from source + 100% oxygen via nonrebreather. Half-life of carboxyhemoglobin drops from 5 hours (room air) to ~1 hour on 100% O2. Serial measurements unnecessary.
+ARABIC: تسمم أول أكسيد الكربون (CO): إزالة المصدر + أكسجين 100% عبر قناع. نصف عمر الكاربوكسي هيموغلوبين ينخفض من 5 ساعات إلى ~ساعة. لا حاجة للقياسات المتكررة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-355]
+Q: A 2-year-old boy presents to the emergency department with a seizure. The seizure involved bilateral stiffness with eyes rolling back and lasted for 3 minutes, after which it self resolved. The patient has not had any fevers. About an hour ago, he started coughing, vomiting, and sweating. He seemed more agitated and anxious for about 30 minutes, after which he had the seizure.
+A: Nicotine
+EXPLANATION: Most nicotine ingestions are self-limited and mild, but there is an associated increase in accidental high-concentration nicotine ingestions with the widespread distribution of liquid nicotine for vape pens. Nicotine binds to the nicotinic receptors of the brain and mimics the effects of acetylcholine, altering brain and spinal cord sodium and calcium channels. Nicotine ingestions are biphasic, with a period of neurologic stimulation followed by neurologic depression. The onset of symptoms is delayed by about an hour due to the poor absorption of nicotine in the stomach. They start with signs of nicotinic excess with salivation, vomiting, diarrhea, bronchorrhea, and diaphoresis.
+
+### [PEER-PHYS | PEER-toxic-q-84]
+Q: A 40-year-old man with carboxyhemoglobin 20%, normal neuro exam, on nonrebreather. What is the rationale for hyperbaric oxygen?
+A: To decrease the likelihood of delayed neurologic sequelae
+EXPLANATION: HBO for CO poisoning primarily decreases risk of persistent/delayed neurologic sequelae. Risk factors: age >35, LOC, abnormal cerebellar exam, COHb >25%, seizures, prolonged exposure.
+ARABIC: العلاج بالأكسجين عالي الضغط (HBO) يقلل خطر المضاعفات العصبية المتأخرة (delayed neurologic sequelae). العوامل المؤهبة: عمر >35، فقدان وعي، COHb >25%، اختلاجات.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-356]
+Q: A 51-year-old woman is found somnolent in the garage after a suspected suicide attempt. An empty bottle of antifreeze is found next to her. On arrival to the ED, vital signs are significant for HR 122 bpm, BP 114/66 mm Hg, RR 38/min, SpO2 99%, and T 37.6°C. Physical exam is unremarkable except for a Glasgow Coma Scale score of 3 and hyperpnea. She is protecting her airway.
+A: Thiamine and pyridoxine
+EXPLANATION: Thiamine and pyridoxine are administered in ethylene glycol poisoning to promote the metabolism of toxic intermediates into less harmful compounds, thereby reducing the risk of kidney injury and worsening acidosis. This patient’s presentation, somnolence, severe metabolic acidosis, and hyperpnea after suspected antifreeze (ethylene glycol) ingestion, reflect classic ethylene glycol toxicity. She has been appropriately started on fomepizole, which inhibits alcohol dehydrogenase and prevents the formation of toxic metabolites. Ethylene glycol is metabolized in the liver to glycolic acid, glyoxylic acid, and oxalic acid.
+
+### [PEER-PHYS | PEER-toxic-q-85]
+Q: Hyperbaric oxygen therapy for carbon monoxide poisoning is most likely to reduce the risk of developing what condition?
+A: Delayed neurologic sequelae
+EXPLANATION: HBO reduces risk of delayed neurologic sequelae (DNS) - motor, sensory, neurocognitive changes. Best within 6 hours of exposure.
+ARABIC: HBO يقلل خطر المضاعفات العصبية المتأخرة (DNS) - تغيرات حركية وحسية وإدراكية. الأفضل خلال 6 ساعات من التعرض.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-357]
+Q: A 21-year-old man presents to the ED with difficulty walking due to poor balance. His symptoms began this evening. The only thing he can recall out of the ordinary is that he ate grouper at a business lunch. On physical exam, he is profoundly ataxic and unable to keep his balance. Which of the following other neurologic symptoms is pathognomonic for the most likely disease process?
+A: Hot and cold temperature reversal
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with ciguatera toxicity. This is one of the most common fish-borne toxins, along with histamine fish toxicity. It is caused by ciguatoxin, a neurotoxin, which becomes concentrated in larger fish that ingest smaller fish that feed on coral reef dinoflagellates that form the toxin. These fish include barracuda, grouper, and red snapper, which are tropical, warm-weather fish that are exported worldwide. Ciguatoxin is odorless, colorless, and tasteless. It is not deactivated by heat. Signs and symptoms are variable in onset between 2 and 30 hours from ingestion.
+
+### [PEER-PHYS | PEER-toxic-q-86]
+Q: Four household members present with headache and malaise that started at similar time the previous night. What test is most appropriate?
+A: Carboxyhemoglobin level
+EXPLANATION: CO poisoning - risk factors include multiple close contacts with similar symptoms, cold weather, atypical heating sources. Pulse oximetry is inaccurate. Treatment: high-flow O2.
+ARABIC: تسمم CO - عوامل الخطر: عدة أفراد في نفس المنزل بأعراض مشابهة، طقس بارد، مصادر تدفئة غير تقليدية. مقياس التأكسج غير دقيق. العلاج: أكسجين عالي التدفق.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-358]
+Q: A 70-year-old woman with a history of endometrial carcinoma is brought to the emergency department with altered mental status. Her vital signs on arrival are HR 72 bpm, RR 6/min, BP 140/90 mm Hg, and T 37.4°C. The patient opens her eyes to pain, localizes to pain, and mumbles disoriented words. Her physical exam is notable for miotic pupils and decreased bowel sounds.
+A: Naloxone
+EXPLANATION: Intoxication from therapeutic or recreational opioids is becoming increasingly common in the United States and worldwide. Classic signs of opioid toxidrome include altered mental status, decreased respiratory rate and tidal volume, diminished bowel sounds, and miotic pupils. Once opioid toxicity is suspected, initial management should center on support of the patient’s airway and breathing. Patients with depressed respiratory function should receive naloxone, a short-acting opioid antagonist, which may be given intranasally, intravenously, or intramuscularly. The goal of naloxone is adequate respiratory function, not normal mental status.
+
+### [PEER-PHYS | PEER-toxic-q-87]
+Q: Which beta-blocker has class III antiarrhythmic properties, and why?
+A: Sotalol; potassium channel blockade
+EXPLANATION: Sotalol is a nonselective beta-blocker with additional potassium channel antagonist properties (class III). Causes QT prolongation and torsades de pointes risk.
+ARABIC: سوتالول (sotalol): حاصر بيتا غير انتقائي مع خصائص مضادة لقنوات البوتاسيوم (صنف III). يطيل QT ويعرض للتورساد دي بوانت.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-359]
+Q: A 16-year-old boy swallows a large volume of drain cleaner in a suicide attempt. Which of the following is most likely to be associated with this ingestion?
+A: Liquefaction necrosis of the esophagus
+EXPLANATION: Caustic ingestions are commonly encountered with suicide attempts as well as unintentional ingestions by infants. Caustic materials are categorized as acids or alkalis. Alkalis lead to liquefaction necrosis, which results in extremely rapid, deep penetration into tissues. Alkalis commonly cause severe esophageal injuries due to this rapid penetration and the partial neutralization of the substance in the stomach. This is in contrast to acids, which cause coagulative necrosis, thereby creating an eschar and preventing deeper spread into tissues. As a result, acids are more likely to injure the stomach and spare the esophagus.
+
+### [PEER-PHYS | PEER-toxic-q-88]
+Q: In the setting of chronic digoxin poisoning, which finding is the best indication for administering digoxin-specific antibody fragments?
+A: Bidirectional ventricular tachycardia
+EXPLANATION: Digoxin-induced ventricular tachycardia (especially bidirectional VT) is life-threatening and requires digoxin-specific antibody fragments. In chronic toxicity, clinical status (arrhythmias) - not level or K - guides treatment.
+ARABIC: تسرع بطيني ثنائي الاتجاه (bidirectional VT) من الديجوكسين: مهدد للحياة ويتطلب digoxin immune Fab. في التسمم المزمن، الحالة السريرية (اضطرابات النظم) هي الموجّه وليس المستوى أو البوتاسيوم.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-360]
+Q: A 5-year-old boy presents with lethargy, bradycardia, and hypotension after he was found eating flowers from a yellow oleander plant. What is the most appropriate treatment for this condition?
+A: Digoxin-specific antigen-binding fragments
+EXPLANATION: Nerium oleander (common, pink, or white oleander) and Thevetia peruviana (yellow oleander) are common plants containing cardiac glycosides and cause a constellation of symptoms similar to that of digoxin toxicity. Nausea, vomiting, diarrhea, weakness, and confusion are common presenting symptoms. Ingestions can inhibit the sodium-potassium adenosine triphosphatase pump, leading to hyperkalemia, bradydysrhythmias, tachydysrhythmias, atrioventricular (AV) blocks, ventricular tachycardia, and ventricular fibrillation.
+
+### [PEER-PHYS | PEER-toxic-q-89]
+Q: What is an indication to administer digoxin-specific antibody fragments in an adult patient?
+A: Lightheadedness and syncope
+EXPLANATION: Symptomatic bradyarrhythmia (lightheadedness, syncope) from digoxin toxicity is an indication for digoxin immune Fab. HR alone, visual changes, or 5 mg ingestion not sufficient.
+ARABIC: أعراض بطء القلب (دوار، إغماء) من تسمم الديجوكسين: استطباب للـ digoxin immune Fab. تغيرات النظر أو مجرد بطء القلب بدون أعراض ليست كافية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-361]
+Q: A 19-year-old woman presents to the ED with right upper quadrant abdominal pain and mild jaundice. Upon further questioning, she tearfully reports she took “two bottles of pills yesterday morning.” Which of the following is the most appropriate treatment?
+A: N-acetylcysteine
+EXPLANATION: This patient is exhibiting signs and symptoms of acetaminophen toxicity. The treatment for acetaminophen toxicity is N-acetylcysteine (NAC). It may be given orally or intravenously. The intravenous protocol begins with a loading dose of 150 mg/kg over 1 hour and is followed by repeated dosing for 20 hours. The oral regimen begins with a loading dose of 140 mg/kg followed by 17 doses of 70 mg/kg, each given every 4 hours for a total duration of treatment of 72 hours. If the acetaminophen level and liver function tests have not normalized at the end of the 20 hours, the process is repeated.
+
+### [PEER-PHYS | PEER-toxic-q-90]
+Q: A 60-year-old man on digoxin presents with vomiting, dizziness, abdominal cramping. ECG shows ST scooping and U waves. K 5.7. Develops PVCs and bradycardia. What is the next best step?
+A: Digoxin immune FAB
+EXPLANATION: Acute digoxin toxicity with K >5.0, life-threatening arrhythmias, or ingestion >10 mg in adults requires digoxin immune Fab. ECG 'Salvador Dali' sign.
+ARABIC: تسمم الديجوكسين الحاد مع K >5.0 واضطرابات نظم مهددة للحياة: العلاج هو digoxin immune FAB. علامة 'Salvador Dali' على ECG.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-362]
+Q: A 22-year-old woman presents to the emergency department after an intentional overdose. She has a history of depression and bipolar disorder. The patient was found altered and minimally responsive by her parent with a suicide note. On arrival, the patient is altered and making nonsensical speech. Vital signs are remarkable for an HR of 120 bpm, RR of 28/min, and BP of 180/95 mm Hg.
+A: Dry mucous membranes
+EXPLANATION: From the late 1950s to the late 1980s, tricyclic antidepressants (TCAs) were used extensively in the management of psychiatric disorders and depression. At regular doses, TCAs were quite effective in the treatment of these disorders. However, in overdose, they are toxic with numerous effects on multiple organ systems. TCAs cause antagonism of sodium channels, acetylcholine receptors, peripheral alpha-1 receptors, histamine receptors, and gamma-aminobutyric acid (GABA) receptors. It is because the antagonism presents at multiple sites that patients develop clinical features.
+
+### [PEER-PHYS | PEER-toxic-q-91]
+Q: An overdose of what pharmaceutical can cause an opioid-like toxidrome?
+A: Clonidine
+EXPLANATION: Clonidine (alpha-2 agonist) overdose causes opioid-like toxidrome: somnolence, miosis, hypotension, bradycardia. Naloxone can reverse some effects.
+ARABIC: الكلونيدين (clonidine) - ناهض ألفا-2: يسبب تسممًا شبيهًا بالأفيونات (somnolence, miosis, bradycardia, hypotension). يمكن استخدام النالوكسون.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-363]
+Q: A 65-year-old man with a mechanical aortic valve presents with hematemesis. His vital signs are BP 95/50 mm Hg and HR 118 bpm. The patient is on warfarin and has an INR of 7.3. What is the best next step in the treatment of this patient?
+A: Vitamin K and prothrombin complex concentrate
+EXPLANATION: Warfarin acts by inhibiting vitamin K recycling, thus limiting the effectiveness of vitamin K-dependent clotting factors (factors II, VII, IX, and X). The effect of warfarin can be measured using the prothrombin time or the INR. Warfarin is indicated for anticoagulation for several disorders including the presence of a mechanical valve. Patients with mechanical valves have a higher 1-year risk of clot formation around the valve and subsequent embolic stroke. The therapeutic goal of warfarin in a patient with a metallic valve is usually an INR of 2.5–3.5 or 3–4. Despite the increased stroke risk, patients with life-threatening bleeding should always have their warfarin reversed.
+
+### [PEER-PHYS | PEER-toxic-q-92]
+Q: A 15-year-old girl presents after overdose with BP 87/45, P 111. What is the most likely exposure?
+A: Amlodipine
+EXPLANATION: Amlodipine (dihydropyridine CCB) causes hypotension with compensatory tachycardia. Other CCBs (diltiazem/verapamil) and beta-blockers cause bradycardia.
+ARABIC: أملوديبين (dihydropyridine CCB): هبوط ضغط مع تسرع قلب تعويضي. الديلتيازيم والفيراباميل وحاصرات بيتا تسبب بطء القلب.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-364]
+Q: A 55-year-old man who does not have housing presents to the ED with altered mental status. The patient has alcohol use disorder and has frequent visits to the ED. Today he was found passed out on a park bench. The patient is responsive to verbal and noxious stimuli and says he drank a bottle of an unidentified liquid with other individuals who do not have housing.
+A: Methanol toxicity
+EXPLANATION: Methanol is a toxic alcohol that is most commonly found in paint products, windshield washer fluid, and antifreeze. The toxicity of methanol is derived from its metabolites. Methanol will cause an elevated osmolar gap while the toxic metabolites (formate or formic acid) produce a significant anion gap metabolic acidosis. Symptoms of toxicity may not occur for up to 12–24 hours after ingestion when the metabolites begin to accumulate. Symptoms may be further delayed if ethanol is coingested due to competitive inhibition of metabolism by ethanol.
+
+### [PEER-PHYS | PEER-toxic-q-93]
+Q: A patient arrives confused after a witnessed seizure. BP 87/48, P 53. ECG: sinus bradycardia, first-degree AV block, QRS 127 ms, QTc 501 ms. What is the most likely agent?
+A: Propranolol
+EXPLANATION: Propranolol is unique among beta-blockers - causes sodium channel blockade in overdose: seizures, QRS widening, hypotension, bradycardia. Treatment: sodium bicarbonate.
+ARABIC: بروبرانولول (propranolol) فريد بين حاصرات بيتا - حصار قنوات الصوديوم في الجرعة الزائدة: اختلاجات، QRS واسع، هبوط ضغط، بطء قلب. العلاج: بيكربونات الصوديوم.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-365]
+Q: A 63-year-old woman presents to the ED by ambulance due to a change in mental status. Her medications include glipizide, amlodipine, olanzapine, and sertraline. Her vital signs are BP 140/90 mm Hg, HR 120 bpm, RR 20/min, and T 104℉ (40°C). On physical exam, she has muscle rigidity and hyperreflexia. Her blood glucose level is 114 mg/dL.
+A: Involuntary muscle jerks
+EXPLANATION: Myoclonus, which is involuntary muscle jerks or spasms, helps to distinguish serotonin syndrome from neuroleptic malignant syndrome. Both conditions are diagnosed clinically, but there is significant overlap in clinical presentation. Common symptoms include fever, muscle rigidity, and altered mental status. Serotonin syndrome tends to occur more acutely with a short duration (< 24 hours) between medication use and the onset of symptoms. Nausea, vomiting, and diarrhea are more common in serotonin syndrome but can also occur in neuroleptic malignant syndrome. Neuroleptic malignant syndrome typically manifests with fever, severe stiffness, and creatinine phosphokinase elevation.
+
+### [PEER-PHYS | PEER-toxic-q-94]
+Q: A toddler is found with somnolence, miosis, and bradycardia. What is the most likely ingestion?
+A: Clonidine
+EXPLANATION: Clonidine overdose: somnolence, miosis, bradycardia, hypertension (early) then hypotension. 'One pill can kill' in pediatrics. Naloxone may reverse.
+ARABIC: الكلونيدين: نعاس، تضيق حدقة، بطء قلب، ارتفاع ضغط (مبكرًا) ثم هبوط. 'حبة واحدة قد تقتل' عند الأطفال. النالوكسون قد يعكس.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-366]
+Q: A 41-year-old man presents to the ED with cough and wheezing after an intentional ingestion of lighter fluid. What is the mechanism by which this disease process occurs?
+A: Destruction of alveolar lipid membranes
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with pneumonitis secondary to hydrocarbon aspiration. Aspiration results from the unique characteristics of hydrocarbons which include their low viscosity, low surface tension, and significant volatility. Large volume (> 30 mL) ingestions are at high risk for aspiration caused by regurgitation. Symptoms may result immediately or can be delayed for up to 6 hours. Signs and symptoms of aspiration in these patients may include coughing, choking, dyspnea, grunting, rales, and hypoxia. Hydrocarbons entering the lungs cause a significant aspiration pneumonitis via destruction of the alveolar lipid membranes.
+
+### [PEER-PHYS | PEER-toxic-q-95]
+Q: A patient presents with profound hypotension after amlodipine overdose. What is the best initial therapy?
+A: Norepinephrine infusion
+EXPLANATION: Amlodipine overdose causes vasoplegic shock - initial therapy is IV fluids + vasopressors (norepinephrine). High-dose insulin for severe cases with cardiogenic component.
+ARABIC: جرعة زائدة من أملوديبين: صدمة توسعية وعائية (vasoplegic). العلاج الأولي: سوائل وريدية + رافعات وعائية (norepinephrine). الإنسولين عالي الجرعة للحالات الشديدة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-367]
+Q: A 65-year-old man with a history of bipolar disorder and heart failure presents to the emergency department with acute tremors and confusion. He is unable to offer further history. His last known ejection fraction is 22%. He is currently on lithium. His T is 97°F (36.1°C), BP is 105/60 mm Hg, HR is 124 bpm, RR is 19/min, and SpO2 is 98% on room air.
+A: Nephrology consult for emergent hemodialysis
+EXPLANATION: Lithium is a mortality-lowering treatment for the management of bipolar disorder. It is excreted by the kidneys. Acute toxicity can occur in the setting of overdose or impaired kidney function and may present with gastrointestinal symptoms (nausea, vomiting, abdominal pain, and diarrhea), neurological symptoms (somnolence and confusion), and cardiopulmonary symptoms (QT prolongation, T wave flattening and inversion, and cardiac dysrhythmias). In this patient, it is likely a combination of poor kidney function (prerenal acute kidney injury) and poor cardiac function that led to this accumulation of lithium.
+
+### [PEER-PHYS | PEER-toxic-q-96]
+Q: What is a unique feature of a beta-blocker overdose when compared to a calcium channel blocker overdose?
+A: Hypoglycemia
+EXPLANATION: Beta-blockers cause hypoglycemia (block beta-2 - prevent gluconeogenesis). CCBs cause hyperglycemia (block pancreatic beta-cell L-type Ca channels).
+ARABIC: حاصرات بيتا تسبب هبوط سكر (hypoglycemia) لأنها تحاصر beta-2 وتمنع استحداث السكر. حاصرات قنوات الكالسيوم تسبب فرط سكر (hyperglycemia) لأنها تحاصر قنوات Ca في خلايا بيتا البنكرياسية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-368]
+Q: A 63-year-old woman with a medical history of hypertension presents with syncope after a witnessed overdose. Her vital signs are T 98.7°F (37.1ºC), HR 40 bpm, BP 80/43 mm Hg, RR 20/min, SpO2 95%, and finger stick glucose 213 mg/dL. The patient is alert, oriented, and cooperative with examination. ECG shows sinus bradycardia. Her only medication is verapamil.
+A: Calcium chloride
+EXPLANATION: This patient has a calcium channel blocker (verapamil) overdose manifesting with profound bradycardia and hypotension. Calcium channel blockers antagonize slow calcium channels in the myocardium and smooth muscle, leading to vasodilation, decreased cardiac contractility, sinoatrial node depression, and slowing of atrioventricular conduction. Verapamil is the most deadly of the calcium channel blockers in overdose, as it has profound effects on myocardial contractility and peripheral vasodilation. In patients who present with hypotension and bradycardia in overdose, beta-blocker toxicity, sedative-hypnotic drug overdose, and hypoglycemia should also be considered.
+
+### [PEER-PHYS | PEER-toxic-q-97]
+Q: Overdose of which substance is most likely to be successfully treated with high-dose glucagon?
+A: Metoprolol
+EXPLANATION: High-dose glucagon is first-line for beta-blocker overdose - bypasses blocked beta-1 receptors in cardiac myocytes. Metoprolol is a beta-blocker.
+ARABIC: الغلوكاغون عالي الجرعة هو الخط الأول لجرعة بيتا بلوكر الزائدة - يتجاوز مستقبلات beta-1 المحصورة في عضلة القلب.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-369]
+Q: A 32-year-old man presents to the ED for blurry vision. He immigrated to the United States 6 months ago. He was diagnosed with a lung disease and was prescribed several medications. Which of the following agents is most likely responsible for his symptoms?
+A: Ethambutol
+EXPLANATION: Ethambutol is an antitubercular medication whose side effect profile includes optic neuropathy (including optic neuritis and retrobulbar neuritis), which may manifest as decreased visual acuity, scotomata, color blindness (particularly red-green), or visual field defects. These toxic effects are dose-dependent and generally reversible if recognized promptly and the drug is discontinued, though irreversible blindness has been reported. Baseline visual acuity and color discrimination testing should be performed before initiating ethambutol, with monthly monitoring during treatment. Ethambutol is a component of the first-line RIPE therapy (rifampin, isoniazid, pyrazinamide, and ethambutol).
+
+### [PEER-PHYS | PEER-toxic-q-98]
+Q: A patient with hypotension, bradycardia, and hyperglycemia following an overdose. What is the most likely diagnosis?
+A: Calcium channel blocker overdose
+EXPLANATION: CCB overdose: hypotension + bradycardia + hyperglycemia. High-dose insulin is first-line. Beta-blocker overdose: hypoglycemia, not hyperglycemia.
+ARABIC: جرعة زائدة من حاصرات قنوات الكالسيوم (CCB): هبوط ضغط + بطء قلب + فرط سكر. الإنسولين عالي الجرعة هو الخط الأول.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-370]
+Q: A 21-year-old woman presents to the ED after an intentional ingestion. On physical examination, she is lethargic, flushed, hot to the touch, and her pupils are dilated. Vital signs include BP 130/90 mm Hg, HR 130 bpm, and RR 22/min. Her ECG is shown above. What is the most appropriate initial therapy?
+A: Sodium bicarbonate 50 mEq intravenously
+EXPLANATION: This patient is exhibiting signs and symptoms of a tricyclic antidepressant (TCA) overdose. TCAs act by fast inward sodium channel blockade, causing QRS complex widening (> 100 msec) on ECG. TCAs also have anticholinergic effects, which lead to a presentation of pupillary dilation, dry, hot, flushed skin, tachycardia, decreased or absent bowel sounds, and urinary retention. In addition to severe cardiac effects, TCAs can also cause rapid deterioration of mental status and seizures. The most important first step in diagnosis is to perform an ECG to evaluate for widening of the QRS complex. Another hallmark finding of TCA toxicity on ECG is a dominant terminal R wave in lead aVR.
+
+### [PEER-PHYS | PEER-toxic-q-99]
+Q: What is the most appropriate treatment for calcium channel blocker overdose?
+A: Insulin
+EXPLANATION: High-dose insulin therapy is first-line for severe CCB overdose - overcomes CCB-induced impairment of cardiac myocyte metabolism. Lipid emulsion is rescue.
+ARABIC: العلاج بالإنسولين عالي الجرعة هو الخط الأول لجرعة CCB الشديدة. مستحلب الدهون (lipid emulsion) علاج إنقاذي.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-371]
+Q: A 42-year-old man presents to the ED with acute onset confusion and agitation. He has a known history of depression. His friend states his medication dosages were adjusted the previous day. His BP is 155/90 mm Hg, HR 115 bpm, RR 18/min, and T 39.7°C. On exam, you note clonus and muscle rigidity in his lower extremities.
+A: Diazepam
+EXPLANATION: The patient has serotonin toxicity. It may be produced from one drug but most often occurs due to a combination of medications that increase central serotonin neurotransmission. The diagnosis is clinically based on physical exam findings and a history of exposure to serotonergic drugs. A history of selective serotonin reuptake inhibitors (SSRI) dosage increase, SSRI overdose, or SSRI use with an incompatible drug is the most helpful diagnostic indicator. Clonus, the most common finding in serotonin syndrome, is important to identify because it does not occur in other conditions that mimic serotonin syndrome. Muscle rigidity is often noted in the lower extremities.
+
+### [PEER-PHYS | PEER-toxic-q-100]
+Q: A patient after 120 tablets of 60 mg diltiazem. BP 75/36, P 35. After IV fluids, calcium, and atropine, BP 74/38, P 34. Which medication is most likely to stabilize?
+A: Norepinephrine
+EXPLANATION: Severe CCB overdose after failing calcium and atropine requires vasopressors (norepinephrine). Increases heart rate and causes vasoconstriction to improve BP.
+ARABIC: جرعة CCB شديدة بعد فشل الكالسيوم والأتروبين: يتطلب رافعات وعائية (norepinephrine). يرفع معدل القلب ويسبب تقبضًا وعائيًا لتحسين الضغط.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-372]
+Q: A 16-year-old boy with a history of depression presents with altered mental status. His skin is warm and dry, and he is mumbling and yelling incoherently. His vital signs are T 38.5°C, HR 118 bpm, BP 107/65 mm Hg, RR 24/min, and SpO2 99%. A 12-lead ECG is performed, as seen above. Which of the following is the most appropriate next step in care?
+A: Sodium bicarbonate bolus and infusion
+EXPLANATION: This patient has an anticholinergic toxidrome secondary to a tricyclic antidepressant (TCA) overdose. The 12-lead ECG shows sinus tachycardia with a wide QRS complex and a terminal R wave in lead aVR, which supports a TCA overdose. TCA medications inhibit neurotransmitter uptake at peripheral anticholinergic receptors, leading to a number of physiologic effects. Patients will experience both central and peripheral anticholinergic effects manifested by the anticholinergic toxidrome (dry skin, tachycardia, mydriasis, elevated temperature, and altered mental status), inhibition of central sympathetic reflexes, and inhibition of alpha-1 adrenergic receptors (leading to peripheral vasodilation an …
+
+### [PEER-PHYS | PEER-toxic-q-101]
+Q: A toddler fell into a bucket of insecticide. What is an expected finding of carbamate poisoning?
+A: Bronchospasm
+EXPLANATION: Carbamate poisoning = cholinergic toxidrome: SLUDGE/BBB (salivation, lacrimation, urination, defecation, GI upset, emesis, bronchorrhea, bronchospasm, bradycardia). Treatment: atropine.
+ARABIC: تسمم الكاربامات: تسمم كوليني - SLUDGE/BBB. العلاج: أتروبين بجرعات متزايدة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-373]
+Q: A 77-year-old woman with a medical history of atrial fibrillation that is anticoagulated with warfarin presents to the emergency department with active epistaxis. She also reports gingival bleeding while brushing her teeth. She confirms compliance with her medications and no changes to her warfarin dosing over the past year. Her vital signs are normal.
+A: Amiodarone
+EXPLANATION: The Vaughan Williams class III drug amiodarone prevents and terminates reentrant dysrhythmias by prolonging the duration and effective refractory period of cardiac action potentials. This effect is generally caused by blockade of the delayed rectifier potassium current, which is primarily responsible for repolarization. Amiodarone does not slow conduction velocity during phase 0 or 1 of the action potential. This drug commonly prolongs the PR and QTc intervals and also results in abnormal T and U waves. Amiodarone interfaces with P-glycoprotein and is therefore implicated in many drug-drug interactions, one of the most important of which includes enhancing the anticoagulation of warfarin.
+
+### [PEER-PHYS | PEER-toxic-q-102]
+Q: Which pharmacologic intervention is the mainstay of treatment for organophosphorus insecticide poisoning?
+A: Atropine
+EXPLANATION: Atropine is the mainstay for OP poisoning - reverses muscarinic effects. Pralidoxime prevents 'aging' of cholinesterase inhibition but does not take priority over atropine.
+ARABIC: الأتروبين هو العلاج الأساسي لتسمم الفوسفات العضوية - يعكس التأثيرات المسكارينية. البراليدوكسيم يمنع 'التقدم في العمر' للإنزيم لكن لا يتقدم على الأتروبين.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-374]
+Q: A 16-year-old girl presents to the ED with altered mental status. She has to be restrained due to agitation and intermittent bouts of violence. She is responding to internal stimuli and has dilated pupils, tachycardia, flushed skin, and diaphoresis. You administer high doses of benzodiazepines that prevent her from fighting her restraints, after which she falls asleep.
+A: Determine core temperature
+EXPLANATION: Severe agitation and bouts of intense violence are serious and life-threatening complications of methamphetamine intoxication. Patients commonly present with diaphoresis, hypertension, tachycardia, psychosis, and agitation. Physical and chemical restraints are often necessary but depend on the severity of the case. Physical restraints should be removed as soon as safely possible, as patients with methamphetamine intoxication in restraints commonly develop rhabdomyolysis from isotonic muscle contraction.
+
+### [PEER-PHYS | PEER-toxic-q-103]
+Q: A woman with suspected exposure to a chemical weapon develops seizures, constricted pupils, copious secretions, and generalized weakness. What is the most likely exposure?
+A: Sarin
+EXPLANATION: Sarin (nerve agent) produces cholinergic toxidrome: miosis, salivation, lacrimation, urination, diarrhea, GI upset, emesis, bronchospasm, weakness, seizures.
+ARABIC: السارين (sarin) - عامل عصبي: تسمم كوليني - تضيق حدقة، إفرازات، إسهال، تشنج قصبي، ضعف، اختلاجات.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-375]
+Q: A 24-year-old man presents to the ED after taking a large amount of sertraline and meperidine. Which of the following would you expect to find on exam?
+A: Hyperreflexia and myoclonus
+EXPLANATION: This patient will likely exhibit signs and symptoms of serotonin syndrome. These develop within minutes to hours after exposure to the offending agent(s) and include altered mental status, autonomic instability, myoclonus, hyperreflexia that is greater in the lower extremities, and often severe hyperthermia. Treatment of serotonin syndrome is primarily with benzodiazepines, hydration, and cooling. Cyproheptadine is the classic antidote and may be helpful in moderate to severe cases. Miotic pupils and hypoventilation (B) are the classic presenting features of opioid toxicity.
+
+### [PEER-PHYS | PEER-toxic-q-104]
+Q: A moderately symptomatic patient has a presumed nerve agent exposure. What is the most important first step in management?
+A: Decontamination
+EXPLANATION: Decontamination (removing clothes + soap and water) should occur before entry into healthcare facility to prevent secondary exposures. Nerve agents persist on skin/clothing.
+ARABIC: التطهير (decontamination) - خلع الملابس + ماء وصابون - يجب أن يحدث قبل دخول المستشفى لمنع التعرض الثانوي.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-376]
+Q: Which of the following acid-base abnormalities manifests earliest in salicylate toxicity?
+A: Respiratory alkalosis
+EXPLANATION: The classic triad of salicylate toxicity is hyperpnea, gastrointestinal upset, and tinnitus or deafness. Salicylates act on the respiratory centers in the medulla, leading to hyperventilation and a resultant respiratory alkalosis. An anion gap metabolic acidosis then follows. This is due to salicylates uncoupling oxidative phosphorylation in the mitochondria, leading to cellular dependence on anaerobic metabolism and the generation of lactic acid. This uncoupling with the resultant release of heat is also the mechanism of the hyperthermia characteristic of salicylate toxicity.
+
+### [PEER-PHYS | PEER-toxic-q-105]
+Q: A toddler from an orchard with suspected insecticide poisoning. Which signs and symptoms are expected in organophosphate toxicity?
+A: Bradycardia, emesis, and cough
+EXPLANATION: OP toxicity = cholinergic: SLUDGE/BBB. Bradycardia, emesis, cough (bronchorrhea/bronchospasm). Treatment: atropine + pralidoxime.
+ARABIC: تسمم الفوسفات العضوية: SLUDGE/BBB - بطء قلب، قيء، سعال. العلاج: أتروبين + براليدوكسيم.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-377]
+Q: Which of the following is associated with carbon monoxide poisoning?
+A: Bilateral basal ganglia hypodensities
+EXPLANATION: Carbon monoxide is an odorless gas that is formed by the combustion of hydrocarbons, with common sources being fires, home heating appliances, portable generators and propane-powered vehicles. Carbon monoxide binds to hemoglobin with an affinity that is > 200 times that of oxygen. Carbon monoxide shifts the oxygen dissociation curve to the left impairing release of oxygen to the tissues and also inhibits cytochrome oxidase, induces nitric oxide release, and causes endothelial dysfunction. Symptoms of carbon monoxide poisoning vary widely and can be highly variable. Common symptoms include headache, nausea, dizziness, vomiting, confusion, and shortness of breath.
+
+### [PEER-PHYS | PEER-toxic-q-106]
+Q: A farm worker develops blurred vision, drooling, cough, fasciculations, abdominal pain, diarrhea. What is the best initial treatment?
+A: Atropine
+EXPLANATION: OP poisoning - atropine first. Give 1-3 mg and double every 5 minutes until atropinization (dry secretions, no bronchospasm, adequate HR/BP).
+ARABIC: تسمم الفوسفات العضوية: أتروبين أولًا. ابدأ 1-3 mg وضعف الجرعة كل 5 دقائق حتى 'الأتروبينة' (أغشية جافة، لا تشنج قصبي).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-378]
+Q: A 25-year-old man with a history of epilepsy presents to the ED with status epilepticus. The patient is intubated without paralytics, given multiple doses of lorazepam, and started on a lorazepam drip, which finally stops the seizures. The patient undergoes a complete workup including imaging and lab studies, which are all unremarkable.
+A: Propylene glycol toxicity
+EXPLANATION: Propylene glycol (1,2 propanediol) is the diluent used in parenteral formulations of diazepam and lorazepam and the cause of a unique complication related to the prolonged use of parenteral administration of benzodiazepines. Clinicians should monitor for propylene glycol toxicity in any patient receiving large or continuous infusions of benzodiazepines. Typically, patients will present with an anion gap acidosis and lactic acidosis.
+
+### [PEER-PHYS | PEER-toxic-q-107]
+Q: Which finding is most consistent with cyanide poisoning?
+A: Lactic acidosis
+EXPLANATION: Cyanide inhibits oxidative phosphorylation → anaerobic metabolism → lactic acidosis. Venous O2 is HIGH (cells can't extract O2). Reddish plasma from hydroxocobalamin, not cyanide.
+ARABIC: السيانيد يثبط الفسفرة التأكسدية → حماض لبني. تشبع الأكسجين الوريدي مرتفع (الخلايا لا تستطيع استخراج O2). لون البلازما الأحمر من الهيدروكسوكوبالامين.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-379]
+Q: An 88-year-old man with Parkinson disease presents with confusion. He is using a rivastigmine patch as part of his therapy but has mistakenly put on five patches. What physical examination finding would be expected in this patient?
+A: Lacrimation
+EXPLANATION: Rivastigmine is used in the treatment of dementia associated with Parkinson and Alzheimer disease. The drug is administered transdermally and functions as an acetylcholinesterase inhibitor. As a result, levels of acetylcholine (ACh) are restored to more normal levels in the central nervous system and may help improve memory, awareness, and the ability to perform daily tasks. At toxic levels, excess ACh accumulates leading to a cholinergic toxidrome. With activation of the autonomic nervous system, patients develop salivation, lacrimation, urination, defecation, gastrointestinal upset, and diarrhea. Miosis, bronchoconstriction with bronchorrea, and bradycardia may also occur.
+
+### [PEER-PHYS | PEER-toxic-q-108]
+Q: What is the most appropriate treatment for cyanide poisoning?
+A: Hydroxocobalamin
+EXPLANATION: Hydroxocobalamin (vitamin B12 precursor) binds cyanide → cyanocobalamin. First-line for cyanide poisoning. Also: sodium thiosulfate, sodium nitrite.
+ARABIC: الهيدروكسوكوبالامين (hydroxocobalamin) يرتبط بالسيانيد → سيانوكوبالامين. الخط الأول لتسمم السيانيد.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-380]
+Q: What is the most common side effect following administration of IV amiodarone?
+A: Hypotension
+EXPLANATION: Amiodarone is used in the treatment of both ventricular and supraventricular dysrhythmias. It is classified as a class III antiarrhythmic drug due to its inhibition of outward potassium channels, which prolongs the duration of the action potential. It also has properties of class I antiarrhythmics (sodium channel blockage), class II antiarrhythmics (beta-adrenergic receptor blockage), and class IV antiarrhythmics (calcium channel blockage). It has superior efficacy compared to many other antiarrhythmic drugs and a low rate of ventricular prodysrhythmia. However, amiodarone is not without side effects.
+
+### [PEER-PHYS | PEER-toxic-q-109]
+Q: A 5-year-old boy with blood lead level 50 mcg/dL, vomiting, headache, difficulty coloring and tying shoes. What is the best disposition?
+A: Admit to the floor for inpatient chelation therapy
+EXPLANATION: Symptomatic lead poisoning (any level) OR level >70 requires hospitalization and chelation. ICU if encephalopathy. Asymptomatic 45-69: oral chelation.
+ARABIC: التسمم بالرصاص العرضي (أي مستوى) أو >70: إدخال + علاج مخالب (chelation). ICU إذا اعتلال دماغي. بدون أعراض 45-69: chelation فموي.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-381]
+Q: A previously healthy 7-month-old boy presents to the ED with a new onset of cyanosis and fatigue, first noticed this morning. The child was recently treated for thrush, and his parents have been using over-the-counter benzocaine for teething. The child is sleepy but easily awakens and cries. He has no respiratory distress.
+A: Methylene blue
+EXPLANATION: Methemoglobinemia occurs when the iron associated with hemoglobin is changed through oxidation from a ferrous (Fe2+) to a ferric (Fe3+) state thus preventing the hemoglobin from binding oxygen. Patients with congenital methemoglobinemia generally have lifelong cyanosis but are otherwise asymptomatic. Substances known to cause acquired methemoglobinemia include dapsone and topical anesthetics, especially mucous membrane use of benzocaine, although it has been reported with lidocaine, tetracaine, or prilocaine use. Most reported cases are thought to be due to high doses or a break in the mucosal barrier such as by mucositis or thrush.
+
+### [PEER-PHYS | PEER-toxic-q-110]
+Q: Which agent has clinical manifestations of acute toxicity most similar to those of tetanus?
+A: Strychnine
+EXPLANATION: Strychnine antagonizes glycine receptors → recurrent, episodic involuntary muscle contractions resembling tetanus. Sensorium preserved.
+ARABIC: الستركنين (strychnine) يثبط مستقبلات الغليسين → تقلصات عضلية متكررة تشبه الكزاز. الوعي محفوظ.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-382]
+Q: Which of the following is most consistent with the expected signs and symptoms of cannabinoid hyperemesis syndrome?
+A: Cyclical vomiting and abdominal pain relieved by hot showers
+EXPLANATION: Cannabinoid hyperemesis syndrome (CHS) is an increasingly recognized condition, primarily affecting those who chronically use cannabis with high frequency. CHS is characterized by recurrent episodes of intractable nausea and vomiting, typically after prolonged cannabis use. The condition follows a clinical pattern consisting of prodromal, hyperemetic, and recovery phases. Patients often report that hot showers or baths provide transient symptom relief, a unique feature that helps differentiate CHS from other causes of vomiting.
+
+### [PEER-PHYS | PEER-toxic-q-111]
+Q: Which treatment is contraindicated in the management of an agricultural worker with diaphoresis, fasciculations, hypersalivation, miosis, respiratory distress, and vomiting?
+A: Physostigmine
+EXPLANATION: Physostigmine is an acetylcholinesterase inhibitor - contraindicated in OP poisoning (would worsen cholinergic crisis). Atropine + pralidoxime are appropriate.
+ARABIC: فيزيوستيغمين هو مثبط أستيل كولين إستراز - ممنوع في تسمم الفوسفات العضوية (يفاقم الأزمة الكولينية). الأتروبين والبراليدوكسيم مناسبان.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-383]
+Q: A 45-year-old man with a history of hypertension presents with confusion. His spouse brought him to the emergency department because he had been acting strangely. He was his normal self earlier today but then started to report some fuzziness and difficulty thinking. He has since become confused and does not know where he is or who his spouse is.
+A: Direct competitive inhibition of oxygen binding to hemoglobin
+EXPLANATION: This patient is displaying symptoms of carbon monoxide poisoning. He is presenting with mental status changes, has a history of working in an enclosed space with a gas-powered vehicle, and has a family member reporting a headache. Carbon monoxide poisoning often presents with headache, nausea, vomiting, dizziness, myalgias, and confusion. Later symptoms, such as altered mental status, hypotension or cardiac arrest, and metabolic acidosis, may occur with more severe poisoning. The cherry-red skin color described in textbooks is often not seen in living patients. The mechanism behind carbon monoxide poisoning is direct competitive inhibition of oxygen binding to hemoglobin.
+
+### [PEER-PHYS | PEER-toxic-q-112]
+Q: A 3-year-old bit into a glow-stick. Awake, alert, no distress. What is the best next step?
+A: Get information about the time and amount of ingestion
+EXPLANATION: Glow-stick contents are nontoxic. First step in any ingestion: gather information about time, substance, amount. Poison Help Line: 1-800-222-1222.
+ARABIC: محتويات عصا الإضاءة غير سامة. الخطوة الأولى في أي ابتلاع: معلومات عن الوقت والكمية والمادة. خط المساعدة: 1-800-222-1222.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-384]
+Q: A 23-year-old man with no medical history presents to the emergency department for a seizure. His parent states that she found him in his room with an empty can of 2% lidocaine spray near him. He was lethargic at the time and, while he was in the ambulance, was noted to have a tonic-clonic seizure. Multiple rounds of benzodiazepines are given with cessation of seizure.
+A: Administer intravenous lipid emulsion
+EXPLANATION: The patient presents with local anesthetic systemic toxicity from oral ingestion of lidocaine. Systemic toxicity can occur with all local anesthetics and with any route of administration. The clinical presentation of local anesthetic toxicity is highly variable and should be suspected whenever physiologic changes occur after administration of a local anesthetic. Classically, patients will present with central nervous system effects, cardiovascular excitation (e.g., ventricular dysrhythmias), and, in extreme cases, cardiovascular inhibition and cardiac arrest. Central nervous system effects include perioral numbness, anxiety, muscle twitches, mental status changes, and seizures.
+
+### [PEER-PHYS | PEER-toxic-q-113]
+Q: Systemic toxicity is most likely to occur after topical dermal exposure to which acid?
+A: Hydrofluoric acid
+EXPLANATION: HF acid penetrates deeply (fluoride electronegativity) - causes systemic hypocalcemia and hypomagnesemia. Other acids cause coagulative necrosis limiting penetration.
+ARABIC: حمض الهيدروفلوريك (HF) يخترق بعمق → نقص كالسيوم ومغنيزيوم جهازي. الأحماض الأخرى تسبب تنخرًا تخثريًا يحد من الاختراق.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-385]
+Q: A 30-year-old man is brought into the ED after being removed from a house fire. He is confused and reports a headache. Examination is significant for a heart rate of 115 bpm and a respiratory rate of 25/min. His lungs are clear bilaterally and skin examination reveals no burns or injuries.
+A: Cyanide toxicity
+EXPLANATION: Patients presenting after fire exposure are at risk for a variety of injuries, including burns or thermal injuries, inhalation or airway injuries, and chemical exposures. Cyanide and carbon monoxide are both released in fires: cyanide from the combustion of plastics and polymers and carbon monoxide from the incomplete combustion of organic materials. It is important to expeditiously evaluate these patients and provide appropriate treatment. This patient’s lab tests are most concerning for cyanide toxicity with a markedly elevated lactate, lactic acidosis, and nontoxic carboxyhemoglobin level.
+
+### [PEER-PHYS | PEER-toxic-q-114]
+Q: Which electrolyte abnormality can occur after significant exposure to topical, concentrated hydrofluoric acid?
+A: Hypocalcemia
+EXPLANATION: HF acid: fluoride binds calcium and magnesium → hypocalcemia, hypomagnesemia, hyperkalemia (K efflux). Treatment: calcium gluconate gel topically, IV calcium for systemic.
+ARABIC: HF: الفلورايد يرتبط بالكالسيوم والمغنيزيوم → نقص كالسيوم ومغنيزيوم وفرط بوتاسيوم. العلاج: جل غلوكونات الكالسيوم موضعيًا.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-386]
+Q: A 17-year-old boy presents after being found unconscious, with intermittent episodes of apparent apnea, but is easily arousable with stimulation and has midsize pupils. Which substance ingestion best explains this presentation?
+A: Gamma-hydroxybutyrate
+EXPLANATION: Gamma-hydroxybutyrate (GHB) is a drug that causes profound CNS depression and is considered a sexual assault drug. Traditionally, it is associated with dance clubs and rave parties. It is also used by bodybuilders for its purported growth hormone-releasing effects. Patients with GHB overdose generally have a decreased level of consciousness. Other symptoms include agitation, euphoria, nystagmus, dizziness, bradycardia, respiratory depression, apnea, and death. In contrast to other sedative or hypnotic overdoses, the level of consciousness tends to fluctuate quickly between agitation and depression.
+
+### [PEER-PHYS | PEER-toxic-q-115]
+Q: A 14-year-old found unconscious with a wet rag, wide-complex dysrhythmia, SpO2 97% on NRB. What is the most likely cause?
+A: Halogenated hydrocarbon
+EXPLANATION: 'Huffing' hydrocarbons: CNS effects + cardiotoxicity ('sudden sniffing death') - sensitized myocardium to catecholamines. Avoid epinephrine.
+ARABIC: استنشاق الهيدروكربونات (huffing): تأثيرات عصبية + سمية قلبية (sensitized myocardium). تجنب الإبينفرين.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-387]
+Q: A 3-year-old boy presents after ingestion of a pill about 1 hour prior to arrival. The parent states that she accidentally dropped a single 5 mg pill of glipizide, and the boy ingested it before she could stop him. The boy’s blood glucose level is 98 mg/dL. He has no IV access at this time. What is the best next step?
+A: Admit for 24-hour observation
+EXPLANATION: Glipizide is a sulfonylurea agent used to lower blood glucose in patients with diabetes mellitus. Sulfonylurea medications promote the release of insulin from beta-pancreatic cells. These medications can lead to hypoglycemic episodes even without an overdose. Presenting signs and symptoms include confusion, dysarthria, dizziness, sweating, nausea, and palpitations. In children, presenting features can be nonspecific and include lethargy, irritability, or seizure. The goal of treatment is to maintain euglycemia. This can be achieved with IV or PO dextrose and IM octreotide.
+
+### [PEER-PHYS | PEER-toxic-q-116]
+Q: An adult painter accidentally ingested methylene chloride. What is a consequence of methylene chloride ingestion?
+A: Carbon monoxide poisoning
+EXPLANATION: Methylene chloride is metabolized to CO - delayed 4-8 hours, prolonged half-life ~13 hours. Found in paint removers and degreasers.
+ARABIC: كلوريد الميثيلين (methylene chloride) يُستقلب إلى CO - متأخر 4-8 ساعات، نصف عمر ~13 ساعة. يوجد في مزيلات الدهان.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-388]
+Q: A 43-year-old woman presents to the ED acutely agitated and confused. According to a friend, the patient was recently discharged from a psychiatric hospital for major depressive disorder with psychotic features and is being treated with sertraline and olanzapine. The patient also has a history of chronic low back pain for which she sees an acupuncturist and takes tramadol.
+A: Cyproheptadine
+EXPLANATION: This patient presents with altered mental status, hyperthermia, autonomic instability, hyperreflexia, and ocular clonus after starting a selective serotonin reuptake inhibitor (sertraline). Furthermore, she is taking tramadol, which is an opiate medication that also inhibits serotonin reuptake. This scenario is highly suspicious for serotonin syndrome, a potentially life-threatening drug reaction to serotonergic medications. It is commonly caused by a combination of drugs that increase central serotonin neurotransmission.
+
+### [PEER-PHYS | PEER-toxic-q-117]
+Q: An accidental ingestion of which single pill by a 1-year-old (10 kg) is potentially life-threatening?
+A: Glipizide 5 mg
+EXPLANATION: Sulfonylureas (glipizide) - even one pill can cause life-threatening hypoglycemia in children. Requires 12-24 hours observation. Treatment: dextrose + octreotide.
+ARABIC: سلفونيل يوريا (glipizide): حتى حبة واحدة تسبب هبوط سكر مهدد للحياة عند الأطفال. مراقبة 12-24 ساعة. العلاج: دكستروز + أوكتريوتيد.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-389]
+Q: A 30-year-old woman presents to the ED with agitation and fever. On physical exam, you note lower extremity hyperreflexia and myoclonus. Vital signs are a BP of 180/110 mm Hg, HR of 130 bpm, RR of 28/min, and T of 101.8°F (38.8°C). Which of the following combinations likely led to this presentation?
+A: Dextromethorphan and citalopram
+EXPLANATION: This patient is exhibiting signs and symptoms of serotonin syndrome. Serotonin syndrome stems from the ingestion of drugs that either inhibit serotonin breakdown, block serotonin reuptake, enhance serotonin release, or serve as serotonin precursors or agonists. These include antidepressants such as citalopram and sympathomimetics such as dextromethorphan that inhibit serotonin reuptake. Signs and symptoms of serotonin syndrome develop within minutes to hours after exposure to the offending agent(s). These include altered mental status, autonomic instability, myoclonus, hyperreflexia that is greater in the lower extremities, and often severe hyperthermia.
+
+### [PEER-PHYS | PEER-toxic-q-118]
+Q: A patient ingested glyburide and presents with agitation. Which agent best treats the underlying cause?
+A: Octreotide
+EXPLANATION: Octreotide (somatostatin analog) is first-line for sulfonylurea poisoning - antagonizes insulin release. Diazoxide is alternative. Glucagon less effective.
+ARABIC: أوكتريوتيد (octreotide) - نظير السوماتوستاتين - هو الخط الأول لتسمم السلفونيل يوريا - يعاكس إفراز الإنسولين.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-390]
+Q: A 78-year-old woman is brought in by her son for altered mental status. She lives alone and was found by neighbors confused and wandering her neighborhood. The son reports she has a history of diabetes, depression, and hypertension but is unsure of the medicines she is taking. Her vital signs are rectal temperature 101°F (38.3ºC), HR 104 bpm, and BP 134/82 mm Hg.
+A: Inhibition of muscarinic acetylcholine receptors
+EXPLANATION: Anticholinergic toxicity occurs when muscarinic acetylcholine receptors are inhibited. Muscarinic receptors are G-protein coupled receptor complexes that depolarize post-ganglionic neurons within the autonomic nervous system in the presence of acetylcholine. They primarily mediate smooth muscle (cardiac, intestinal, ciliary) and secretory function (salivary and sweat glands), but are also present within the central nervous system, thus leading to agitation, hallucinations and other forms of altered mental status.
+
+### [PEER-PHYS | PEER-toxic-q-119]
+Q: A 30-year-old woman with accidental IV bupivacaine injection, convulsion, then cardiac arrest. Besides standard resuscitation, what IV agent should be strongly considered?
+A: Fat emulsion
+EXPLANATION: Lipid emulsion (intralipid) for local anesthetic systemic toxicity (LAST): 1.5 mL/kg bolus of 20%, then infusion 0.25 mL/kg/hr. Also for BB/CCB/TCA toxicity.
+ARABIC: مستحلب الدهون (lipid emulsion/intralipid) لسمية المخدر الموضعي الجهازية (LAST): 1.5 mL/kg جرعة، ثم تسريب 0.25 mL/kg/hr.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-391]
+Q: A 44-year-old man with diabetes presents after a fall. His family states he drinks alcohol every day, and no one has heard from him in 3 days. He is tachycardic and hypertensive with otherwise normal vital signs. He has no traumatic findings on examination but does have dried blood in his beard. Laboratory analysis reveals an elevated osmolar gap.
+A: pH 7.40, sodium 140 mEq/L, chloride 105 mEq/L, bicarbonate 25 mEq/L, and ketonemia
+EXPLANATION: Isopropyl alcohol (isopropanol) is the second most commonly misused alcohol after ethanol. It is a colorless, volatile, aromatic liquid that is found in rubbing alcohol (70% isopropanol), solvents, disinfectants and hand sanitizers, hair and skin products, paint thinners, detergents, jewelry cleaners, and deicers. It is twice as potent as ethanol, with a duration of action two to four times that of ethanol. It is rapidly absorbed after ingestion with a time-to-peak concentration between 30 and 120 minutes post-ingestion. Symptoms usually begin within 1 hour after ingestion. Most isopropanol is metabolized in the liver.
+
+### [PEER-PHYS | PEER-toxic-q-120]
+Q: Which local anesthetic is most likely to cause an allergic reaction?
+A: Proparacaine
+EXPLANATION: Amino ESTER anesthetics (proparacaine, procaine, tetracaine, benzocaine) - metabolized to PABA (allergen) - cause most allergic reactions. Amides (bupivacaine, lidocaine, mepivacaine) rarely cause allergy.
+ARABIC: المخدرات الموضعية من نوع إستر (proparacaine, procaine, tetracaine, benzocaine) - تُستقلب إلى PABA (مسبب حساسية). الأميدات (lidocaine, bupivacaine) نادرًا ما تسبب حساسية.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-392]
+Q: A 16-year-old girl with a history of depression and a previous overdose presents with altered mental status. She is disoriented with mumbling speech. Vital signs include a T of 101.2°F (38.4ºC), HR of 122 bpm, BP of 130/82 mm Hg, and RR of 16/min. Physical examination is notable for dilated pupils, dry mucous membranes, and flushed skin. On ECG, the QRS interval is 160 ms.
+A: Diphenhydramine
+EXPLANATION: Medications with anticholinergic properties inhibit binding of acetylcholine (ACh) to muscarinic acetylcholine receptors (AChRs). These receptors are found in the CNS, heart, intestinal and bronchial smooth muscle, salivary and sweat glands, and ciliary body of the eye. Anticholinergic agents do not exert their effects at nicotinic AChRs and thus have no effect on the neuromuscular junction. Examples of medications with anticholinergic properties include antihistamines such as diphenhydramine, tricyclic antidepressants (TCAs) such as amitriptyline, and doxylamine, scopolamine, and atropine. Plants such as jimsonweed and deadly nightshade may also produce anticholinergic toxicity.
+
+### [PEER-PHYS | PEER-toxic-q-121]
+Q: A 32-year-old man with nausea, vomiting, mouth tingling, and hand burning when drinking iced water after seafood. What is the most likely cause?
+A: Ciguatera
+EXPLANATION: Ciguatera: GI + neurologic symptoms. Cold allodynia (pain from cold) is pathognomonic. Worsens with alcohol. From barracuda, grouper, snapper, etc.
+ARABIC: السيغواتيرا (ciguatera): أعراض معوية + عصبية. ألم من البرد (cold allodynia) علامة مميزة. تتفاقم مع الكحول.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-393]
+Q: A 22-year-old man presents to the emergency department acutely obtunded. He has been this way for the past 20 minutes. He is not protecting his airway on arrival and is promptly intubated. His T is 97°F (36.1°C), BP is 125/80 mm Hg, HR is 82 bpm, RR is 15/min, and SpO2 is 100% on a 21% fraction of inspired oxygen.
+A: Gamma-hydroxybutyrate
+EXPLANATION: Gamma-hydroxybutyrate (GHB), known as a sexual assault drug, may be used for sleep, by bodybuilders for anabolic effects, and recreationally. It acts on the gamma-aminobutyric acid type B receptor, is lipid-soluble, and rapidly crosses the blood-brain barrier. The half-life is about 30 minutes, and patients generally regain consciousness after approximately 3–4 hours. The classic history is a young adult presenting with obtundation and stupor that often requires intubation for airway protection that then rapidly resolves. The patient will be at baseline once the medication wears off and they can safely be discharged.
+
+### [PEER-PHYS | PEER-toxic-q-122]
+Q: A 10-month-old with cyanosis, SpO2 85% not responding to O2, active and vigorous. Teething gel use. What is the most likely cause?
+A: Medication effect
+EXPLANATION: Benzocaine in teething gel → methemoglobinemia. Pulse ox ~85% fixed, doesn't respond to O2. Treatment: methylene blue (1-2 mg/kg).
+ARABIC: بنزوكايين في جل التسنين → ميتهيموغلوبينية (methemoglobinemia). SpO2 ~85% ثابت لا يستجيب للأكسجين. العلاج: methylene blue.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-394]
+Q: A 70-year-old woman presents to the emergency department reporting fatigue, nausea, and mild diffuse abdominal pain. She has a history of heart failure, and her medications include digoxin, enalapril, and simvastatin. She appears ill with a Glasgow Coma Scale score of 14. Her vital signs include T 98.6ºF (37ºC), HR 33 bpm, RR 13/min, BP 89/55 mm Hg, and SpO2 98% on room air.
+A: Administer digoxin-specific antibody fragments
+EXPLANATION: This patient’s presentation is consistent with digoxin toxicity, and the best next step is to administer digoxin-specific antibody fragments. Digoxin is a cardiac glycoside that improves cardiac contractility in patients with poor cardiac output. Symptoms of toxicity include generalized fatigue, altered mental status, headaches, visual disturbances (e.g., yellow-tinted vision), and vomiting. Digoxin increases vagal tone and can cause sinus bradycardia, atrioventricular (AV) nodal dysfunction, and high-degree AV block. Bidirectional ventricular tachycardia is a classic ECG finding in digoxin toxicity.
+
+### [PEER-PHYS | PEER-toxic-q-123]
+Q: A 12-month-old with marked cyanosis, SpO2 86% not improving with high-flow O2, on teething gel. What is most likely to be successful in treating the cyanosis?
+A: Methylene blue
+EXPLANATION: Benzocaine-induced methemoglobinemia. Methylene blue converts methemoglobin back to Hgb (via G6PD pathway). Deferoxamine for iron, PGE1 for ductal-dependent, pyridoxine for INH.
+ARABIC: ميتهيموغلوبينية من البنزوكايين. methylene blue يحول الميتهيموغلوبين إلى هيموغلوبين.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-395]
+Q: A 58-year-old man is brought to the ED by his family after a rivaroxaban overdose 6 hours ago. Vital signs are within normal limits. He displays no evidence of external or internal bleeding. A CBC is within normal limits and the patient’s INR is 2.7. Which of the following is the best next step?
+A: Admit the patient to monitor for bleeding
+EXPLANATION: Rivaroxaban is an orally active direct factor Xa inhibitor. It is considered an ideal anticoagulant because its site of action is the intersection of the intrinsic and extrinsic coagulation pathways, preventing thrombin activation. This and similar drugs (apixaban and edoxaban) reversibly inhibit factor Xa without cofactor requirements. Hemorrhage is the most concerning adverse effect of rivaroxaban, either in overdose or therapeutic usage. However, hemorrhage does not always occur in overdose. The half-lives of factor Xa inhibitors are quite long. Therefore, all patients with reported overdose or clinically significant bleeding should be admitted for at least 24 hours.
+
+### [PEER-PHYS | PEER-toxic-q-124]
+Q: What role does oxygen administration play in the treatment of methemoglobinemia?
+A: Increases arterial partial pressure of oxygen
+EXPLANATION: O2 increases PaO2 but does NOT correct cyanosis or SpO2 in methemoglobinemia. Only methylene blue reduces Hgb to ferrous state.
+ARABIC: الأكسجين يرفع PaO2 لكنه لا يصحح الزرقة أو SpO2 في الميتهيموغلوبينية. فقط methylene blue يعيد الهيموغلوبين لحالة الحديدوز.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-396]
+Q: A 22-year-old man presents to the emergency department with confusion. He was found outdoors in a field and is unable to answer questions. His T is 97°F (36.1°C), BP is 105/60 mm Hg, HR is 35 bpm, RR is 24/min, and SpO2 is 94% on room air. The patient is somnolent and has miotic pupils. He is drooling, and wheezing is heard on lung auscultation.
+A: Acetylcholinesterase inhibition
+EXPLANATION: A cholinergic toxidrome can occur secondary to exposure to compounds such as organophosphates, carbamates, and nerve toxins. Acetylcholinesterase inhibition leads to reduced acetylcholine breakdown. This accumulation of acetylcholine leads to symptoms including salivation, lacrimation, urination, diarrhea, miosis, bradycardia, bronchospasm, vomiting, confusion, and seizures. Management is centered on first putting on personal protective equipment and removing the patient's clothes in addition to rinsing them off to avoid further exposure. Next, supportive care, including fluids, intubation (if needed), and benzodiazepines (for seizures) are indicated.
+
+### [PEER-PHYS | PEER-toxic-q-125]
+Q: Ingestion of which is associated with delayed GI symptoms and hepatic failure?
+A: Amanita mushroom
+EXPLANATION: Amanita phalloides: delayed (>6 hours) GI symptoms then hepatic failure. Most deaths from wild mushroom ingestion in US. Other mushrooms: early symptoms = less toxic.
+ARABIC: فطر أمانيتا: أعراض معوية متأخرة (>6 ساعات) ثم فشل كبدي. الأكثر فتكًا بين الفطور البرية في أمريكا.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-397]
+Q: A 19-year-old man presents to the ED via EMS restrained and acutely agitated. The patient’s friends state that 1 hour prior to arrival, he went outside to smoke some marijuana, and shortly after returning, they noticed he was acting differently than usual and reporting chest pain.
+A: Diazepam
+EXPLANATION: Cocaine is purported to be the most potent stimulant of natural origin and is extracted from the leaves of the coca plant. Despite legislative attempts to eradicate the use of cocaine, it remains among the most common causes of acute drug-related visits to the ED. Cocaine is well absorbed through oral, nasal, gastrointestinal, rectal, and vaginal mucosa. It can also be absorbed through pulmonary alveoli when it is inhaled. Cocaine is an indirect sympathomimetic with a mechanism of action that occurs in the synaptic cleft. At the synaptic cleft, cocaine inhibits the reuptake of norepinephrine, dopamine, and serotonin.
+
+### [PEER-PHYS | PEER-toxic-q-126]
+Q: A toddler ingests his mother's prenatal vitamin. Which component is most likely to cause toxicity?
+A: Iron
+EXPLANATION: Iron: 10-30 mg/kg mild-moderate toxicity; >40-60 mg/kg severe. Prenatal vitamins ~30 mg elemental iron. Treatment: deferoxamine for severe.
+ARABIC: الحديد: 10-30 mg/kg تسمم خفيف-متوسط؛ >40-60 mg/kg شديد. فيتامينات الحمل تحتوي ~30 mg حديد. العلاج: ديفيروكسامين للحالات الشديدة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-398]
+Q: What is the most common side effect associated with the administration of intravenous N-acetyl-cysteine?
+A: Anaphylactoid reaction
+EXPLANATION: Acetaminophen overdose or poisoning is one of the most common causes of poisoning and death related to medications. Overdose may be accidental or intentional, and may occur following a single dose or repeated supratherapeutic ingestions. Acetaminophen comes in both an immediate-release and sustained-release formulation with toxicity occurring with dosages > 150 mg/kg in children or > 10 g in adults in acute single doses. Total doses > 250 mg/kg or > 12 g in a 24-hour period are likely to cause toxicity.
+
+### [PEER-PHYS | PEER-toxic-q-127]
+Q: What is most likely to cause toxicity after acute overdose?
+A: Vitamin A
+EXPLANATION: Vitamin A: acute toxicity from animal livers (polar bear, seal, etc.). Symptoms: headache, papilledema, nausea, desquamation. Other vitamins need chronic overdose.
+ARABIC: فيتامين A: سمية حادة من أكباد الحيوانات (دب قطبي، فقمة). أعراض: صداع، وذمة حليمة، غثيان، تقشر.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-399]
+Q: A 6-year-old girl without any significant medical history presents to the emergency department with her parents after she spilled gasoline on herself while alone in their garage. The parents found her coughing and immediately cleaned the gasoline off of her. The girl thinks she swallowed some but reports no vomiting or gagging.
+A: Observe for 6 hours post-ingestion and then perform a chest X-ray
+EXPLANATION: Management of hydrocarbon exposures for asymptomatic patients requires observation for 6 hours post-ingestion and X-ray at that point or earlier if the patient becomes symptomatic. Patients with hydrocarbon exposures tend to present most commonly as children with ingestion or aspiration, teens and adults with recreational solvent inhalation (i.e., “huffing” or “bagging”), workplace or home dermal or inhalational exposures, or the less common purposeful exposure for suicidal or homicidal means. The pathophysiology of organ damage is dependent on the characteristics and compounds within the hydrocarbon and the means of exposure (e.g., inhalation, dermal, aspiration).
+
+### [PEER-PHYS | PEER-toxic-q-128]
+Q: A 2-year-old in shock, unconscious, pale, icteric sclera, oozing from IV. Vomiting/diarrhea 2 days ago. pH 7.26. What is the best initial treatment?
+A: Deferoxamine
+EXPLANATION: Phase 3 iron toxicity: shock, acidosis, hepatic failure. Deferoxamine is the chelator. Phase 1 = GI, Phase 2 = latent, Phase 3 = shock/liver failure, Phase 4 = pyloric stenosis.
+ARABIC: المرحلة 3 من تسمم الحديد: صدمة، حماض، فشل كبدي. العلاج: ديفيروكسامين (deferoxamine).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-400]
+Q: A 19-year-old man presents with confusion, hypertonia, hyperreflexia with clonus, tachycardia, and recent use of multiple serotonergic medications. What is the most appropriate treatment at this time?
+A: Cyproheptadine 12 mg oral
+EXPLANATION: This is a relatively classic case of serotonin syndrome caused by synergistic effects from multiple serotonergic medications. The patient is prescribed fluoxetine (a prototypical selective serotonin reuptake inhibitor), trazodone (a serotonin reuptake inhibitor and alpha-adrenergic antagonist), and citalopram (a selective serotonin reuptake inhibitor). The pathologic mechanism of serotonin syndrome is not fully understood but is thought to involve excessive stimulation of serotonin type 2A receptors in the central nervous system, with serotonin type 1A receptors also contributing.
+
+### [PEER-PHYS | PEER-toxic-q-129]
+Q: What medication is recommended for the management of acute opioid withdrawal?
+A: Clonidine
+EXPLANATION: Clonidine (alpha-2 agonist) treats opioid withdrawal symptoms by reducing central sympathetic outflow. Check BP/HR before giving. Alternatives: buprenorphine, methadone.
+ARABIC: الكلونيدين (clonidine) - ناهض ألفا-2 - يقلل من الأعراض عبر تقليل التدفق السمبثاوي المركزي. تحقق من الضغط والنبض قبل الإعطاء.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-401]
+Q: A patient presents to the ED unconscious with suspected cyanide toxicity after a house fire. Intravenous access is obtained. On physical exam, the patient is confused and has a bitter almond odor. Blood work is significant for a lactic acid of 12 mmol/L and carboxyhemoglobin level of 12%. Which of the following is the first-line treatment for the suspected toxicity in this patient?
+A: Hydroxocobalamin
+EXPLANATION: Cyanide is a chemical compound that is found in the pits of peaches, pears, and apricots; in plastics, wools, and silk; and in patients with chronic nitroprusside use. It has also been formulated into salts for poisoning and as a gaseous chemical weapon used in warfare. It has a high affinity to mitochondrial cytochrome oxidase, which disrupts the electron transport chain and oxidative phosphorylation, ultimately resulting in inhibition of aerobic metabolism. As such, tissues and organs with a high oxygen consumption, such as the heart, lungs, and brain, are most susceptible to toxicity.
+
+### [PEER-PHYS | PEER-toxic-q-130]
+Q: What is a validated scoring system for the evaluation of opioid withdrawal in adults?
+A: COWS
+EXPLANATION: Clinical Opiate Withdrawal Scale (COWS) - validated for adults. CIWA for alcohol, FNAST for neonatal, WAT-1 for pediatric.
+ARABIC: مقياس COWS لانسحاب الأفيونات عند البالغين. CIWA للكحول، FNAST لحديثي الولادة، WAT-1 للأطفال.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-402]
+Q: What is the approximate half life of carboxyhemoglobin while a patient is breathing high-flow oxygen via a nonrebreather mask?
+A: 60 minutes
+EXPLANATION: Carbon monoxide is the cause of the greatest number of fatal poisonings in the US. It is the result of incomplete combustion of carbon-containing materials with common sources being fires, home heating appliances, portable generators and propane-powered vehicles. Carbon monoxide binds to hemoglobin with an affinity that is 200 times that of oxygen. Carbon monoxide shifts the oxygen dissociation curve to the left impairing release of oxygen to the tissues and also inhibits cytochrome oxidase, induces nitric oxide release, and causes endothelial dysfunction.
+
+### [PEER-PHYS | PEER-toxic-q-131]
+Q: What is a partial agonist of the mu opioid receptor?
+A: Buprenorphine
+EXPLANATION: Buprenorphine = partial mu agonist - ceiling effect (lower overdose risk) + high affinity (blocks other opioids). Methadone/tramadol = full agonist; naloxone = antagonist.
+ARABIC: ببرينورفين: ناهض جزئي لمستقبل mu - تأثير سقفي + ألفة عالية (يحاصر الأفيونات الأخرى).
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-403]
+Q: A 21-year-old woman presents after taking an entire bottle of her parent’s hypertension medication in a suicide attempt. Vital signs are T of 98°F (36.7°C), BP of 85/50 mm Hg, HR of 45 bpm, RR of 16/min, and SpO2 of 98% on room air. She is awake and alert but anxious, with cool extremities. Her blood glucose is 300 mg/dL, and her ECG shows sinus bradycardia.
+A: High-dose insulin
+EXPLANATION: This patient presents in shock after an intentional ingestion of a cardiovascular medication. She is hypotensive, bradycardic, and hyperglycemic, which points to likely calcium channel blocker (CCB) toxicity. The presence of hyperglycemia can help distinguish CCB from beta-blocker toxicity, which presents similarly but is usually associated with euglycemia or hypoglycemia. CCBs bind to L-type calcium channels on the peripheral vasculature and myocardium to cause smooth muscle relaxation, reduced pacemaker activity, and decreased cardiac contractility. There are two main classes of CCBs.
+
+### [PEER-PHYS | PEER-toxic-q-132]
+Q: Which signs and symptoms are typical of cannabis intoxication?
+A: Euphoria, decreased anxiety, enhanced sensations, and psychomotor slowing
+EXPLANATION: Cannabis: euphoria, decreased anxiety, enhanced sensations, psychomotor slowing, tachycardia, conjunctival injection. Peak within 15-45 min (smoked).
+ARABIC: القنب: نشوة، انخفاض قلق، تعزيز الأحاسيس، تباطؤ نفسي حركي، تسرع قلب، احتقان ملتحمة.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-404]
+Q: A 59-year-old man with a history of depression, prior suicide attempts, and daily alcohol use presents to the emergency department with altered mental status and vomiting after being seen drinking from an unknown bottle 4 hours prior. Vital signs are an HR of 119 bpm, BP of 98/60 mm Hg, T of 95°F (35°C), RR of 20/min, and SpO2 of 96% on room air. Straight catheter urine shows ketonuria.
+A: Supportive management
+EXPLANATION: This patient is most likely presenting with isopropyl alcohol poisoning, as evidenced by his osmolar gap with a normal anion gap. Isopropyl alcohol, also known as isopropanol, is a volatile, bitter, colorless liquid found in many common and inexpensive household products such as rubbing alcohol. Patients typically present with varying degrees of central nervous system depression 30–60 minutes after ingestion. In comparison to ethanol, it is about twice as potent and has a two to four times longer duration of effects. Isopropyl alcohol is primarily metabolized to acetone by the liver enzyme alcohol dehydrogenase.
+
+### [PEER-PHYS | PEER-toxic-q-133]
+Q: What is the most effective long-term treatment of cannabinoid hyperemesis syndrome?
+A: Abstinence
+EXPLANATION: Cannabinoid hyperemesis syndrome (CHS): recurrent vomiting + abdominal pain in chronic cannabis users. Abstinence is definitive. Hot showers provide temporary relief.
+ARABIC: متلازمة التقيؤ المفرط بالقنب (CHS): تقيؤ متكرر + ألم بطني في مستخدمي القنب المزمنين. الامتناع هو العلاج النهائي. الاستحمام بالماء الساخن يخفف مؤقتًا.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-405]
+Q: A 36-year-old man presents with altered mental status. Which of the following additional findings is most specific for a diagnosis of serotonin syndrome?
+A: Clonus and lower extremity hyperreflexia
+EXPLANATION: Serotonin syndrome results from excess serotonin at the synaptic cleft. It can occur with the use of selective serotonin reuptake inhibitors, serotonin and norepinephrine reuptake inhibitors, tricyclic antidepressants, and monoamine oxidase inhibitors, as well as a host of other medications. It is more likely to occur when drugs from different classes are combined but can also occur with therapeutic doses or overdoses of a single drug. Serotonin syndrome is characterized by a triad of autonomic instability, altered mental status, and increased neuromuscular activity. Autonomic instability can manifest as tachycardia, hypertension, and diaphoresis.
+
+### [PEER-PHYS | PEER-toxic-q-134]
+Q: A 20-year-old man took LSD and is having a 'bad trip'. Warm, tachycardic, flushed, paranoid, agitated, combative. Which treatment is indicated?
+A: Intravenous diazepam
+EXPLANATION: Hallucinogen (LSD) toxicity - benzodiazepines (diazepam, lorazepam) for agitation/delirium. Also control hypertension and tachycardia.
+ARABIC: تسمم الهلوسة (LSD): بنزوديازيبين (diazepam, lorazepam) للهياج والهذيان. أيضًا السيطرة على ارتفاع الضغط والتسرع.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-406]
+Q: You are treating a patient with acute salicylate poisoning. Which of the following is an indication for hemodialysis?
+A: Salicylate level 110 mg/dL
+EXPLANATION: There are two overriding goals in the management of salicylate toxicity. First, fluid deficits and acid-base disturbances must be corrected. Second, therapy is aimed at increasing the excretion of the toxin. This is achieved through the alkalization of the urine. When the urine has an alkaline pH, the salicylate ion is trapped in the collecting system and excreted from the body. The goal pH of urine is 7.5–8.0. Hemodialysis is typically indicated with a serum salicylate concentration of ≥ 100 mg/dL after an acute ingestion. In chronic ingestions, this level decreases to ≥ 40 mg/dL.
+
+### [PEER-PHYS | PEER-toxic-q-135]
+Q: A 15-year-old found unresponsive, P 40, R 12, T 36°C, no response to naloxone. Comatose 5 hours then suddenly wakes up. What agent?
+A: GHB
+EXPLANATION: GHB: rapid recovery of consciousness from severely depressed CNS state is unique. Duration 3-8 hours. GABA-B agonist. Other sedatives have gradual recovery.
+ARABIC: GHB: التعافي السريع من حالة تثبيط عصبي مركزي شديد فريد له. المدة 3-8 ساعات. ناهض GABA-B.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-407]
+Q: An 82-year-old nursing home resident with a recently diagnosed lower extremity deep venous thrombosis on dabigatran presents to the ED with epistaxis, confusion, and lightheadedness. His vital signs include a T of 97.7°F (36.5°C), HR of 110 bpm, and BP of 119/79 mm Hg.
+A: Administer idarucizumab to reverse dabigatran’s anticoagulant effect
+EXPLANATION: Dabigatran is an oral direct thrombin inhibitor with a long duration of action. Peak concentrations occur within approximately 2 hours in therapeutic usage, and 85% is eliminated through the kidney. Since dabigatran’s FDA approval in 2010, bleeding has been recognized as a complication of therapy. The most common bleeding scenario is that patients become over-anticoagulated because of improper dosing in chronic kidney disease or failure to adjust dosing in those who develop acute kidney injury (as is likely in this case). Idarucizumab is a monoclonal antibody reversal agent that was FDA approved in 2015.
+
+### [PEER-PHYS | PEER-toxic-q-136]
+Q: Flumazenil administration in benzodiazepine overdose should be considered in which scenario?
+A: Iatrogenic benzodiazepine overdose
+EXPLANATION: Flumazenil - only for iatrogenic benzodiazepine overdose (procedural sedation). Contraindicated with TCA coingestion, seizure history, elevated ICP, chronic benzodiazepine use.
+ARABIC: فلومازينيل (flumazenil) - فقط للجرعة الزائدة اليتروجينية من البنزوديازيبين (تهدئة إجرائية). ممنوع مع TCA أو تاريخ اختلاجات أو ICP مرتفع.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-408]
+Q: A 51-year-old man is brought in by EMS after his spouse found him unresponsive. His heart rate is 44 bpm, respiratory rate is 12/min, blood pressure is 80/40 mm Hg, temperature is 96°F (35.6°C), and oxygen saturation is 95% on room air. His skin is dry, and his pupils are 1 mm bilaterally. He is lethargic and does not respond to a sternal rub.
+A: Alpha-2 agonism
+EXPLANATION: Central alpha-2 agonism enhances the activity of inhibitory neurons in vasoregulatory regions of the central nervous system, resulting in decreased norepinephrine release. The accompanying decreased sympathetic outflow is the mechanism by which clonidine, a centrally-acting antihypertensive, reduces heart rate and vascular tone. Additionally, clonidine has opioid-like effects that are more evident in overdose and include CNS depression, lethargy, and coma with miosis. However, these effects occur via a separate mechanism that makes naloxone less likely to have a reversal effect in adults. Interestingly, naloxone has been used with positive effects in clonidine-poisoned children.
+
+### [PEER-PHYS | PEER-toxic-q-137]
+Q: An overdose of what agent is associated with mental status and respiratory depression that resolves within hours?
+A: Gamma-hydroxybutyric acid
+EXPLANATION: GHB overdose: rapid-onset, profound CNS + respiratory depression that resolves within hours. Hypothermia + bradycardia common. Treatment supportive.
+ARABIC: جرعة زائدة GHB: تثبيط عصبي مركزي وتنفسي شديد سريع البدء يتعافى خلال ساعات. انخفاض حرارة وبطء قلب شائعان.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-409]
+Q: What finding would be most consistent with strychnine poisoning?
+A: Opisthotonos
+EXPLANATION: Strychnine is made from the seeds of the Strychnos nux-vomica tree and is used in rodenticides and some herbal and homeopathic medications. In the past, poisoning with strychnine was much more common, but it is rare today and most often results when it is added to drugs such as cocaine or heroin. Signs of strychnine poisoning usually occur within 10–20 minutes of ingestion and include mydriasis, anxiety, hyperreflexia, clonus, and stiffness of the facial and neck musculature. The hallmark of strychnine toxicity is the awake seizure. Patients demonstrate tonic-clonic seizure activity but are fully alert during and after the event.
+
+### [PEER-PHYS | PEER-toxic-q-138]
+Q: What is the mainstay of therapy in a toddler with suspected methamphetamine exposure?
+A: Anxiolysis
+EXPLANATION: Methamphetamine (sympathomimetic) toxicity: mainstay is anxiolysis with benzodiazepines. Prevents hyperthermia, seizures, rhabdomyolysis.
+ARABIC: تسمم الميثامفيتامين (sympathomimetic): العلاج الأساسي هو التهدئة بالبنزوديازيبين (anxiolysis). يمنع الحرارة والاختلاجات وانحلال الربيدات.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-410]
+Q: A 55-year-old man presents to the emergency department after eating several of the mushrooms seen above. He is having abdominal pain, nausea, vomiting, and diarrhea. Which of the following treatments might be indicated to treat the major complication associated with this ingestion?
+A: N-acetylcysteine
+EXPLANATION: Amanita phalloides, or the death cap mushroom, is often lethal when ingested. It inhibits RNA polymerase I and II in the liver. Initially, patients will have abdominal cramping, nausea, vomiting, and diarrhea. Symptoms may occur up to 24 hours after the initial ingestion. Next, there will be transient resolution of symptoms with elevating liver enzymes. Finally, multiorgan failure, including liver failure, kidney failure, and possible disseminated intravascular coagulation, may occur. There is no clear or life-saving antidote for this ingestion other than supportive care.
+
+### [PEER-PHYS | PEER-toxic-q-139]
+Q: Which constellation of findings is expected after methamphetamine abuse?
+A: Choreoathetosis, mydriasis, and psychosis
+EXPLANATION: Methamphetamine: anxiety, agitation, choreoathetosis (repetitive movements), mydriasis, hallucinations, psychosis, tachycardia, sweating, hypertension.
+ARABIC: ميثامفيتامين: قلق، هياج، حركات لا إرادية متكررة (choreoathetosis)، توسع حدقة، هلاوس، ذهان، تسرع، تعرق، ضغط مرتفع.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-412]
+Q: A 54-year-old man with a history of hypertension, hyperlipidemia, diabetes, and Parkinson disease presents for evaluation of altered mental status. His home medications include metformin, atorvastatin, aspirin, selegiline, carbidopa-levodopa, and sertraline. He was also recently started on amitriptyline for a new diagnosis of migraine headaches.
+A: Serotonin syndrome
+EXPLANATION: Serotonin syndrome is the toxidrome that presents when there is excess serotonergic activity, often provoked by the addition of new serotonergic agents or a drug-drug interaction that impairs the metabolism of a serotonergic agent. With patients taking known serotonergic agents, such as selegiline and sertraline in this case, the addition of new medications and their serotonergic properties should be carefully considered in the evaluation. Clinical hallmarks include neuromuscular excitation (e.g., nystagmus, hyperreflexia, clonus, extremity rigidity, and hypertonia), mental status changes, and autonomic dysregulation (e.g., hyperthermia, tachycardia, hypertension).
+
+### [PEER-PHYS | PEER-toxic-q-140]
+Q: A 30-year-old man with chest pain after 2 days of cocaine use. BP 200/120, P 120, T 39.9°C, Cr 2.6, CPK 8500. Which treatment should be avoided?
+A: Intravenous metoprolol
+EXPLANATION: Cocaine toxicity: avoid beta-blockers (unopposed alpha stimulation → worsened hypertension). Use benzodiazepines, nitroglycerin, calcium channel blockers.
+ARABIC: تسمم الكوكايين: تجنب حاصرات بيتا (تنبيه ألفا غير معاكس → ارتفاع ضغط أسوأ). استخدم بنزوديازيبين، نيتروغليسرين، حاصرات قنوات الكالسيوم.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-413]
+Q: An 11-year-old girl presents to the emergency department following an intentional overdose of her grandparent’s medications 2 hours ago. She reports abdominal pain, nausea, vomiting, and changes in her vision. Her parents report that she is becoming increasingly more confused and somnolent. Her examination is only notable for the somnolence. Her ECG on presentation is shown above.
+A: Hyperkalemia
+EXPLANATION: This patient is presenting with symptoms of acute cardiac glycoside toxicity. She likely ingested her grandparent’s digoxin. Cardiac glycosides work through inhibition of the sodium-potassium-ATPase pump, which results in increased intracellular sodium concentrations, leading to inhibition of the sodium-calcium antiporter. This results in increased intracellular calcium concentrations, which augments myocyte inotropy and automaticity. While effective in the treatment of chronic atrial fibrillation and heart failure, digoxin has a narrow therapeutic index, and toxicity can occur both acutely and chronically.
+
+### [PEER-PHYS | PEER-toxic-q-141]
+Q: A 23-year-old diabetic woman with confusion, palpitations, nausea after cocaine use. BP 165/89, P 130, R 28, glucose 440. Besides fluids and insulin, what medication should be given?
+A: Lorazepam
+EXPLANATION: Cocaine + DKA: benzodiazepines (lorazepam) for sympathomimetic symptoms. Avoid antipsychotics (lower seizure threshold, worsen tachycardia). Avoid beta-blockers.
+ARABIC: الكوكايين + DKA: بنزوديازيبين (lorazepam) للأعراض الودّية. تجنب مضادات الذهان (تخفض عتبة الاختلاج) وحاصرات بيتا.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-414]
+Q: A 22-year-old man presents to the ED after drinking a bottle of insecticide in his parents' garage. Vital signs include a BP of 155/70 mm Hg, HR of 105 bpm, RR of 20/min, T of 37.5°C, and SpO2 of 96% on room air. On exam, the patient is confused and diaphoretic, and he vomits a few times. His pupils are 1 mm. There are crackles on the lung exam.
+A: Atropine and pralidoxime
+EXPLANATION: Cholinergics increase the level of acetylcholine, usually through inhibition of acetylcholinesterase. Other sources of cholinergic toxicity include insecticides such as organophosphates and carbamates. Excess acetylcholine can cause effects at both muscarinic and nicotinic receptors. Excess muscarinic activation leads to the classic SLUDGE (Salivation, Lacrimation, Urination, Defecation, Gastrointestinal upset, Emesis), or DUMBBELS (Defecation, Urination, Miosis, Bronchospasm, Bronchorrhea, Bradycardia, Emesis, Lacrimation, Salivation). Excess nicotinic activation leads to muscle fasciculation, cramps, weakness, twitching, paralysis, and CNS agitation.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-415]
+Q: A 34-year-old woman presents after an NSAID overdose. She has a long history of depression and has had worsening symptoms lately after losing her job. She reports taking 40 tablets of 200 mg ibuprofen 2 hours prior to arrival. She reports no other ingestions. On examination, she is tearful with heart rate 102 bpm, respiratory rate 14/minute, blood pressure 117/68 mm Hg, and weight 70 kg.
+A: Observation for 4 hours
+EXPLANATION: NSAIDs are widely used due to their analgesic, anti-inflammatory, and antipyretic properties. They block the enzyme cyclooxygenase (COX) resulting in a decrease in prostaglandin and thromboxane production. Most adverse effects of NSAIDs are thought to be due to the inhibition of the COX-1 isoenzyme. Traditional NSAIDs such as ibuprofen inhibit both COX-1 and COX-2, while newer NSAIDs (e.g., celecoxib) are specific COX-2 inhibitors that result in less gastrointestinal and kidney adverse effects. Luckily, most NSAID overdoses cause little, if any, symptoms.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-416]
+Q: A 25-year-old man with a history of depression is brought to the ED by a coworker for altered mental status. The coworker found the patient lethargic at his workplace on a farm but otherwise cannot offer any additional history. The patient’s initial blood pressure and a finger-stick blood glucose are within normal limits. ECG is shown above.
+A: Parathion
+EXPLANATION: This patient is presenting with findings suggestive of organophosphate poisoning, such as parathion. Organophosphate poisoning causes inhibition of acetylcholinesterase (an enzyme that breaks down acetylcholine), leading to excessive systemic cholinergic stimulation. Typical agents that can cause this presentation include insecticides and nerve agents. Patients will present with altered mental status, miosis, seizures, vomiting, and excess urination, lacrimation, salivation, and defecation (diarrhea). Other manifestations can include QT prolongation and bradycardia on ECG and bronchospasm.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-417]
+Q: A 2-year-old boy presents to the emergency department within 30 minutes of an ingestion. He weighs 12.5 kg and is currently asymptomatic. Which of the following ingestions would warrant administration of activated charcoal?
+A: 2 of his parent's verapamil tablets
+EXPLANATION: Activated charcoal is the most common method of gastrointestinal decontamination used during a toxic exposure since it is highly adsorbent and has an extremely large surface area, making it useful to prevent intestinal absorption during a serious ingestion. Patients need to still have the toxin in their stomach (i.e., present within an hour of ingestion), must have ingested enough to cause toxicity, and be alert enough to make ingestion of charcoal safe. Aspiration of charcoal is extremely dangerous and can result in life-threatening pneumonitis, although this cannot be entirely attributed to the charcoal itself. Patients should not be intubated solely to administer activated charcoal.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-418]
+Q: A 74-year-old woman with a history of heart failure, hypertension, and coronary artery disease presents with confusion, abdominal pain, and nausea. Her medications include hydrochlorothiazide, aspirin, and digoxin. The patient’s ECG is shown above. She has a potassium of 5.3 mEq/L. Which of the following treatments should be initiated?
+A: Digoxin immune Fab
+EXPLANATION: The patient presents with digoxin toxicity and should be given digoxin immune antibody as soon as possible. Digoxin is a cardioactive glycoside that leads to increased cardiac contractility and decreased atrioventricular (AV) conduction. The drug acts by inhibiting the sodium-potassium-ATPase, leading to increased intracellular sodium concentration. Digoxin can present with acute or chronic overdose. In acute overdose, nausea and vomiting occur early. Patients may also experience confusion and lethargy. Poisoning the sodium-potassium-ATPase can lead to hyperkalemia. The ECG will show the digitalis effect of scooped ST segments (Salvador Dali mustache) and PR prolongation.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-419]
+Q: A 46-year-old man presents with status epilepticus. He immigrated from central Europe, and other than currently being treated for a “lung infection,” he has no medical conditions. You administer two doses of lorazepam, but he continues to seize. Which of the following medications should also be administered next?
+A: Pyridoxine
+EXPLANATION: This patient presents with status epilepticus. Most seizures are controlled with the administration of benzodiazepines. Some causes are refractory to benzodiazepines, such as isoniazid (INH) toxicity. A clue to his underlying condition is that he is currently being treated for a “lung infection” and recently immigrated from an area with potentially a high prevalence of tuberculosis. Isoniazid toxicity produces the triad of seizures refractory to conventional therapy, severe acidosis, and coma. INH toxicity inhibits pyridoxine (vitamin B6) production, which is needed for gamma-aminobutyric acid (GABA) production. The lack of the inhibitory hormone, GABA, leads to seizure activity.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-420]
+Q: A 44-year-old man with a history of substance use disorder presents to the ED confused and unable to offer a history. His T is 102°F (38.9°C), BP is 135/82 mm Hg, HR is 124 bpm, RR is 22/min, and SpO2 is 100% on room air. Physical examination reveals dilated pupils that are not reactive. His skin is warm and dry. Which of the following is the most likely cause of this patient’s symptoms?
+A: Diphenhydramine
+EXPLANATION: An anticholinergic toxidrome can be caused by certain medications, including atropine, diphenhydramine, and tricyclic antidepressants and certain plants, such as jimsonweed. Classic features of an anticholinergic toxidrome include warm, dry, flushed skin, dilated, nonreactive pupils, delirium and hallucinations, urinary retention, reduced bowel sounds and constipation, hyperthermia, and tachycardia. The diagnosis is made clinically.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-421]
+Q: A family of two parents aged 40 years and 42 years and two children aged 3 years and 6 years presents from home with shared symptoms that include headache, dizziness, nausea, and vomiting. They report no recent sick contacts, well water exposures, and no concerning food exposures.
+A: Carbon monoxide toxicity
+EXPLANATION: Carbon monoxide is a colorless and odorless gas formed when carbon-containing compounds are incompletely combusted. Potentially toxic exposures can occur due to smoke inhalation during fires or from by-products of faulty furnaces or heaters in winter months or when natural disasters compromise power sources. Carbon monoxide increases the affinity of hemoglobin for oxygen, thus reducing dissociation, and it also binds to cytochrome c oxidase of the electron transport chain, impairing mitochondrial aerobic metabolism. Presenting symptoms include headache, dizziness, and nausea.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-422]
+Q: Ingestion of which of the following substances is likely to result in cyanide toxicity?
+A: Cassava root
+EXPLANATION: Cassava root is a tuberous plant that contains cyanogens, linamarin, and lotaustralin. Other food sources of cyanide toxicity include stone fruits that contain the cyanogen amygdalin in their pits, including peaches, apricots, cherries, and bitter almonds. Others sources include smoke inhalation, industrial exposure from jewelry production, acetonitrile, and nitroprusside. Cyanide inhibits cytochrome oxidase in the electron transport chain within the mitochondria, leading to anaerobic metabolism and lactic acid production.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-423]
+Q: A 2-year-old healthy boy presents one morning unresponsive. He was well all day yesterday, and last night at the party his parents were hosting. His vital signs show a temperature of 35.4°C, heart rate of 160 bpm, respiratory rate of 28/min, and oxygen saturation of 94% on room air. He is sweating and does not respond to IV placement. He begins to have a generalized tonic-clonic seizure.
+A: Hypoglycemia
+EXPLANATION: Toxic ingestions are common in children from ages 1–4 years as they become mobile and explore their environment by putting things in their mouths. Risk factors in this age group include increased access and decreased parental oversight. This child had an unwitnessed ethanol ingestion at the party his parents hosted the previous night. Ethanol ingestion in young children is significantly different than ingestion in adolescents and can present as coma and hypoglycemia, usually 2–10 hours after ingestion. It is also associated with hypothermia and hypoventilation. Hypoglycemia is thought to be due to ethanol metabolism decreasing gluconeogenesis by converting pyruvate to lactate.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-424]
+Q: A patient was accidentally administered a heparin agent when one of the ED staff flushed his IV line. He is experiencing upper GI bleeding. Vital signs are heart rate 100 bpm, blood pressure 90/60 mm Hg, respiratory rate 22/min, and oxygen saturation 97% on room air.
+A: Protamine sulfate
+EXPLANATION: Bleeding is a recognized adverse effect of heparin, increasing the complexity of its management. Specific risks for bleeding are influenced by factors such as patient age, comorbidities, the underlying reason for anticoagulation, dosage of heparin, activated partial thromboplastin time (aPTT) levels, and concurrent use of other antithrombotic therapies like antiplatelet agents. The risks are further compounded in patients experiencing trauma or undergoing invasive procedures. Heparin should not be used to flush catheter locks or IV ports because the solutions intended for IV therapy are significantly more concentrated.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-425]
+Q: A 23-year-old woman presents to the ED 2 hours after an intentional ingestion of a painkiller. She has nausea and vomiting. Physical exam is unremarkable. Vital signs are BP 110/70 mm Hg, HR 90 bpm, RR 14/minute, and T 98.2°F (36.8°C). Which of the following is necessary to direct your treatment?
+A: 4-hour acetaminophen level
+EXPLANATION: This patient potentially has signs and symptoms of acetaminophen toxicity. A key to treatment of acetaminophen overdoses is to predict the risk of toxicity. A reliable time of ingestion and amount ingested should be obtained. The typical toxic dose is > 150 mg/kg. A serum acetaminophen level should be obtained at 4 hours after ingestion or as soon as possible thereafter based on the time of presentation. The Rumack-Matthew nomogram can be used to determine potential toxicity and whether to treat. Signs and symptoms of acetaminophen toxicity vary based on the time of presentation from the time of ingestion.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-426]
+Q: An 83-year-old man with a history of hypertension, gout, atrial fibrillation, hyperlipidemia, and squamous cell carcinoma presents to the ED with palpitations. He has a fast, irregularly irregular pulse and appears diaphoretic. He reports no sick contacts and indicates medication compliance. He also states he has been having heat intolerance, diarrhea, and weight loss over the last several weeks.
+A: Amiodarone
+EXPLANATION: Amiodarone is 37% organic iodine by weight and is a common precipitant of hyperthyroidism and thyroid storm. It is a Vaughan-Williams-Singh class III antidysrhythmic drug and is commonly used for rhythm control of atrial fibrillation. Daily use of amiodarone can lead to baseline iodine levels that are 10–20 times the normal dietary requirement. This increased iodine load has effects on the thyroid gland and can lead to thyrotoxicosis. Other medications and classes of medications that may affect the thyroid gland include nonsteroidal anti-inflammatory drugs (NSAIDs), furosemide, estrogen, heparin, phenytoin, carbamazepine, salicylates, diazepam, and opioids.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-427]
+Q: A 54-year-old man is brought to the emergency department for altered mental status. Per report, the patient was found on the ground next to an empty, unmarked bottle. The patient is unable to provide any further history. Laboratory workup is notable for a high anion gap metabolic acidosis. The patient’s urine fluoresces under ultraviolet light. What did the patient most likely ingest?
+A: Ethylene glycol
+EXPLANATION: This patient is presenting with ethylene glycol toxicity. Ethylene glycol can be found in many common products including antifreeze, windshield wiper fluid, solvents, cleaners, and fuels. Patients with significant ingestion often present with CNS effects such as confusion and sedation. They can also present with cranial nerve palsies and tetany, thought to be caused by the metabolites of ethylene glycol. Laboratory workup usually shows a significant anion gap metabolic acidosis and a plasma osmol gap. Specific testing for ethylene glycol is not widely available in most emergency departments.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-428]
+Q: A 22-year-old woman with a history of daily cannabis use presents with abdominal pain and intractable nausea and vomiting over the past 2 days. Her vital signs are within normal limits and her abdominal exam is benign. A urinalysis, blood work, and bedside right upper quadrant scan are unremarkable. Which of the following is most likely to alleviate this patient’s abdominal pain effectively?
+A: Hot water showers
+EXPLANATION: This patient most likely has cannabinoid hyperemesis syndrome, which is diagnosed in patients with frequent cannabis use who present with nausea, vomiting, and abdominal pain in the absence of another organic cause. These patients typically report relief of symptoms with hot water showers and often develop compulsive showering habits to relieve the symptoms. Other signs and symptoms supporting the diagnosis include age 5 kg weight loss, worsening of symptoms in the morning, normal bowel habits, and resolution of pain with cannabis cessation. The pathogenesis of cannabinoid hyperemesis syndrome, in addition to the mechanism of relief with hot water showers, is poorly understood.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-429]
+Q: A 32-year-old woman presents with headache, nausea, and vomiting after an ingestion at home. Which of the following laboratory results would be most consistent with an isopropyl alcohol ingestion?
+A: Sodium 141 mmol/L, chloride 104 mmol/L, bicarbonate 24 mmol/L, blood urea nitrogen 14 mg/dL, glucose 108 mg/dL, serum osmolality 315 mOsm/L
+EXPLANATION: Isopropyl alcohol, found in many household products, including rubbing alcohol, hand sanitizer, and disinfectants, is the second most commonly ingested alcohol after ethanol. It is rapidly absorbed by the gastrointestinal tract and metabolized by the liver by alcohol dehydrogenase to acetone which is then excreted by the kidneys. Isopropyl alcohol and its metabolite acetone act as CNS depressants with symptoms ranging from mild confusion and dizziness to lethargy and coma. It is also a mucosal irritant, resulting in nausea, vomiting, and abdominal discomfort. Larger ingestions can result in hematemesis, although this is less common.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-430]
+Q: A 22-year-old man presents to the ED after his friends caught him “acting strange” at a college party. His vital signs include T 99.5°F (37.5°C), HR 60 bpm, BP 120/80 mm Hg, and SpO2 100%. On further questioning, the patient is oriented but indicates that he can “see sounds” and “hear colors.” Physical examination shows mild diaphoresis, dilated pupils, and piloerection.
+A: Lysergic acid diethylamide
+EXPLANATION: This patient is presenting with acute lysergic acid diethylamide (LSD) toxicity. LSD is a potent hallucinogen that acts primarily as a serotonin 5-HT2A receptor agonist, and patients exhibit a wide variety of neuropsychiatric symptoms, including distortion of time perception, visual illusions, euphoria, and the blending of senses, which is referred to as synesthesia (e.g., seeing sounds or hearing colors). Patients may also present with dysphoria, an overwhelming sense of dread, and panic reactions. While intoxicated, most individuals are oriented and are aware that their experiences are drug-induced.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-431]
+Q: Which of the following is the most frequent sign of acute valproic acid toxicity?
+A: Central nervous system depression
+EXPLANATION: Valproic acid toxicity most frequently presents with central nervous system (CNS) depression that may range from drowsiness to lethargy to coma. Valproic acid is used to treat tonic-clonic seizures and partial complex seizures and is also used for migraine prophylaxis, neuropathic pain, and acute manic episodes. It acts on sodium, potassium, and calcium channels to exert its effects on the CNS. It is metabolized by the liver. Other findings in acute toxicity include electrolyte derangements, liver toxicity, pancreatitis, thrombocytopenia, respiratory depression, hypotension, and metabolic acidosis.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-432]
+Q: A 32-year-old woman with a history of depression presents to the ED with 30 minutes of continued tonic-clonic seizure activity. A few months ago, she started a medication after a positive purified protein derivative tuberculin skin test. In addition to lorazepam, which of the following medications is likely to stop her seizure activity?
+A: Pyridoxine
+EXPLANATION: Lorazepam and pyridoxine (D) is the best initial treatment for status epilepticus from a isoniazid overdose. Isoniazid is a commonly used medication in the treatment of latent tuberculosis. Acute isoniazid overdoses typically present with altered mental status and seizure activity that begins within 30–60 minutes of the ingestion. Seizure management is focused on restoring GABA levels, the inhibitory neurotransmitter. Both intravenous pyridoxine and lorazepam should be initially administered. Both of these medications have a quick onset and can terminate seizure activity within minutes. Severe isoniazid overdose cases are at high risk of aspiration and often require endotracheal intubation.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-433]
+Q: A 64-year-old man with a history of hypertension, hyperlipidemia, type 2 diabetes mellitus, and seizures presents with fatigue for the last week. Additionally, he describes several episodes of dark, sticky stools. His vital signs show a T of 98.6°F (37°C), HR of 89 bpm, BP of 111/68 mm Hg, RR of 19/min, and SpO2 of 97%.
+A: Diltiazem
+EXPLANATION: The patient presents with signs and symptoms concerning for a GI bleed in the setting of recently starting anticoagulation therapy for a deep vein thrombosis (DVT). Of the medications listed, diltiazem is known to increase the plasma concentration of apixaban. Apixaban is a common direct-acting oral anticoagulant (DOAC) that inhibits the production of factor Xa in the coagulation cascade, thus inhibiting platelet activation and fibrin clot formation. Apixaban is hepatically cleared by the cytochrome P450 (CYP) system, predominantly by CYP3A4 and CYP3A5. Furthermore, within the CYP pathway, P-glycoproteins are a key transporter required for the function of CYP.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-434]
+Q: A 17-year-old girl with bipolar disorder presents to the ED after a suicide attempt. She has vomited twice and is reporting abdominal pain. Her serum acetaminophen level is 170 mcg/mL. N-acetylcysteine is given. What is the mechanism of action of N-acetylcysteine?
+A: Regenerates sulfhydryl donor
+EXPLANATION: Acetaminophen is the most popular over-the-counter analgesic. It is also known as N-acetyl-p-aminophenol or paracetamol. The toxic dose of acetaminophen is 150 mg/kg. Within the first 24 hours of acute overdose, patients present with nausea and vomiting with unremarkable vital signs and physical examination. Symptoms usually begin after 24 hours with abdominal pain and tenderness (usually right upper quadrant). Hepatic enzyme levels, bilirubin, and coagulation factors are usually abnormal. Between 48 and 96 hours postingestion, significant liver dysfunction occurs. This creates coagulopathy, hypoglycemia, bleeding diathesis, jaundice, cerebral edema, anuria, and metabolic acidosis.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-435]
+Q: A 68-year-old woman is brought to the ED by EMS due to altered mental status. Her neighbor found her minimally responsive on her couch, incontinent of feces and urine. She appears flushed and diaphoretic, mumbling incoherently to noxious stimuli. Her pupils are 4 mm, equal, and reactive to light.
+A: Limb rigidity
+EXPLANATION: This patient is presenting with neuroleptic malignant syndrome (NMS). NMS is a life-threatening reaction to medications that block dopamine receptors. Causative agents include any type of antipsychotic medication and nonantipsychotic agents with antidopaminergic activity (such as metoclopramide). Abrupt cessation of dopaminergic agents, such as those used to manage Parkinson disease, can also trigger NMS. First-generation antipsychotics, such as haloperidol, are more commonly implicated.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-436]
+Q: A 3-year-old boy is brought in by his parent for lethargy and altered mental status. She found him in the bathroom surrounded by cleaning supplies and emesis. He was previously in his normal state of good health. His lab results include sodium 139 mmol/L, chloride 101 mmol/L, bicarbonate 27 mmol/L, blood urea nitrogen 15 mg/dL, creatinine 3.1 mg/dL, glucose 90 mg/dL, ketones 2.1 mg/dL, serum osmol …
+A: Acetone
+EXPLANATION: This patient’s presentation is most concerning for an isopropanol ingestion. Commonly found in household cleaning supplies and disinfectants, this toxic alcohol poses a risk to young children if not kept locked up safely. Isopropanol is metabolized into acetone. The typical ingestion occurs in young children or those with alcohol use disorder who cannot otherwise afford or find ethanol. Most patients will present with vomiting, diffuse abdominal pain, and altered mental status – ranging from mild confusion to coma.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-437]
+Q: Which of the following is a known complication of chronic lithium toxicity?
+A: Arginine vasopressin resistance
+EXPLANATION: Lithium toxicity can present in the setting of acute, acute-on-chronic, and chronic ingestions. Chronic lithium ingestion may cause arginine vasopressin resistance (formerly known as nephrogenic diabetes insipidus), a concentrating defect in the kidneys due to a resistance to antidiuretic hormone. This results in dilute urine output and the development of hypernatremia. Acute onset of nocturia is often the first sign of nephrogenic arginine vasopressin disorder. Patients develop polyuria and polydipsia to compensate for the excess fluid loss.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-438]
+Q: A 32-year-old man with bipolar disorder is brought to the ED for altered mental status. He reports taking an overdose of valproic acid approximately 24 hours ago. His vital signs are within normal limits, but he is lethargic and vomiting. His laboratory values are notable for a serum creatinine of 0.9 mg/dL, valproic acid level of 600 mg/L, and an ammonia level of 120 mg/dL.
+A: Intravenous L-carnitine therapy
+EXPLANATION: This patient has significant valproic acid (VPA) toxicity, as evidenced by altered mental status, elevated VPA level, and hyperammonemia. Valproic acid is used to treat seizures, migraines, and mood disorders. The range of therapeutic concentration for VPA is 50–100 mg/L. In the setting of overdose, CNS depression, encephalopathy, metabolic acidosis, hepatoxicity, pancreatitis, kidney failure, and pancytopenia may occur. Hyperammonemia is caused by depletion of L-carnitine and acetyl coenzyme A, which inhibits the urea cycle. L-carnitine administration can improve these metabolic abnormalities and is the treatment of choice for severe VPA overdose.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-439]
+Q: A 29-year-old man presents to the ED with oral and nail bed cyanosis after undergoing a recent surgical procedure. His pulse oximetry is 85% despite supplemental oxygen. Which of the following is the most likely cause of this patient’s toxicity?
+A: Benzocaine
+EXPLANATION: This patient is exhibiting signs and symptoms of methemoglobinemia. Methemoglobinemia is most commonly caused by medications including amyl nitrite, benzocaine, dapsone, nitroglycerin, nitroprusside, phenazopyridine, quinines, and sulfonamide. It can also be secondary to chemical agents such as aniline dye derivatives or foods containing nitrites. Finally, it should always be considered in fire victims due to inhalation of nitrogen oxide in smoke or due to heat-induced denaturation of hemoglobin. Methemoglobin forms when hemoglobin becomes oxidized to the ferric (Fe3+) state. Methemoglobin cannot bind oxygen.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-440]
+Q: A 29-year-old woman was recently started on selegiline for depression. Which of the following foods should she avoid in order to prevent a hypertensive crisis?
+A: Salami
+EXPLANATION: The ingestion of both tyramine-containing foods, such as salami, and a monoamine oxidase inhibitor (MAOI), such as selegiline, may lead to MAOI toxicity and hypertensive crisis. There are significant food and drug interactions that may lead to inadvertent MAOI toxicity, often within about 60 minutes of ingestion. MAO in the GI tract normally degrades tyramine that is present in many high protein foods. Undegraded tyramine is an indirectly acting sympathomimetic that induces catecholamine release, causing a hypertensive emergency and potential cardiovascular collapse.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-441]
+Q: A 3-year-old girl is brought to the emergency department due to nausea and vomiting. Her parent states that the symptoms started about 45 minutes after she found the girl playing in the bathroom, and the parent is concerned that the girl may have ingested some vitamins that she found on the bathroom counter. Her abdominal radiograph is shown above.
+A: Transient resolution of gastrointestinal symptoms followed by development of metabolic acidosis and fulminant liver failure
+EXPLANATION: This patient took "vitamins" and has a radiopaque substance in the gastric area of the abdominal radiograph. This suggests the ingestion of iron tablets. Ingestion of > 60 mg/kg of elemental iron can result in severe symptoms and increased mortality. There are five stages of iron toxicity. Stage I begins 30 min to 6 hours after ingestion and consists of vomiting and diarrhea due to the corrosive effect of iron on the GI mucosa. Hematemesis and hematochezia may be present. Stage II, the latent stage, occurs 6–24 hours after ingestion. Gastrointestinal symptoms transiently resolve. However, organ damage and toxicity are ongoing. Patients may have a depressed mental status and tachycardia.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-442]
+Q: A 25-year-old man presents after being pulled from a structure fire. He was combative and stridulous during transport and noted to be coughing up copious carbonaceous sputum. On arrival in the ED, he was intubated for airway protection. His vital signs on arrival are T 99.5°F (37.5°C), HR 45 bpm, BP 70/40 mm Hg, and oxygen saturations of 92% on 100% FiO₂. Co-oximetry shows a level of 20%.
+A: Hydroxocobalamin
+EXPLANATION: This patient is presenting with signs of both carbon monoxide and cyanide toxicity following a fire. Carbon monoxide poisoning is treated with supplemental oxygen or hyperbaric oxygen. Cyanide can be released from a variety of processes, including the fabrication of plastics and electroplating and the combustion of wool, nylon, and silk, among other materials. The toxicity of cyanide results from its inhibition of aerobic cellular respiration by binding to and disabling cytochrome oxidase, leading to a profound lactic acidosis from anaerobic metabolism.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-443]
+Q: A 65-year-old man presents with generalized weakness. He has a history of hypertension and takes atenolol. His vital signs are BP 77/40 mm Hg and HR 34 bpm. His ECG is shown above. Physical examination reveals a confused patient with bradycardia. What treatment is indicated?
+A: High-dose insulin therapy
+EXPLANATION: This patient presents with signs and symptoms of a beta-blocker overdose, which may be treated with high-dose insulin therapy. Beta-blockers are a commonly used group of medications that can have an effect on inotropy (cardiac contractility), dromotropy (cardiac conduction), and chronotropy (heart rate). Additionally, they may have beta-2 effects leading to vascular smooth muscle relaxation and vasodilation. These agents are rapidly absorbed after ingestion and their peak effect (in normal-release preparations) is in the 1–6 hour range. The most common sign of beta-blocker overdose is bradycardia, followed by hypotension and altered level of consciousness.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-444]
+Q: A 16-year-old boy presents to the ED with his parents, who report discovering mushrooms in his room today after he was concerned about abdominal pain. He has had mild abdominal pain and diarrhea that started today and reports ingesting some of the mushrooms last night with his friends at a party.
+A: Administer activated charcoal and admit for further care
+EXPLANATION: This patient’s presentation is concerning for possible ingestion of mushrooms from the Amanita phalloides species. Mushrooms account for approximately half of all deaths from plant and fungal poisoning in the United States, largely because they are extremely difficult to accurately identify. There are two main groups of clinically important mushroom ingestions that can be separated into those that present with symptoms within 6 hours of ingestion and those that present with later symptoms. Initial management for all suspected mushroom poisonings should include evaluation of airway, breathing, and circulation and consideration of GI decontamination, including activated charcoal.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-445]
+Q: A 55-year-old man presents to the emergency department with an altered mental status. He has a Glasgow Coma Scale score of 7 and is subsequently intubated. Physical exam is notable for optic disc hyperemia. Laboratory findings demonstrate a pH of 7.20, sodium of 140 mEq/L, potassium of 4.5 mEq/L, bicarbonate of 10 mEq/L, and chloride of 90 mEq/L.
+A: Formic acid
+EXPLANATION: This patient presents with retinal hyperemia and anion gap acidosis, suggesting a diagnosis of methanol toxicity, which is associated with formic acid accumulation. Methanol toxicity presents with behavioral changes that are similar to ethanol toxicity, anion gap metabolic acidosis, and visual abnormalities. Methanol is metabolized to formaldehyde (by alcohol dehydrogenase) and then formic acid (by aldehyde dehydrogenase), which is toxic to the optic nerve and causes the specific exam finding of visual abnormalities that is not seen with ethanol or ethylene glycol ingestion. Hyperemia of the optic disc and retinal edema are physical exam findings that are specific to methanol toxicity.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-446]
+Q: A 2-year-old girl presents 2 hours after licking her parent's sublingual medication. She is currently asymptomatic. Which of the following medications, if licked once by this patient, warrants hospitalization for an extended period of monitoring?
+A: Buprenorphine
+EXPLANATION: Buprenorphine is a semisynthetic opioid that acts similarly to morphine by binding opioid receptors, causing analgesia. Opioids, such as buprenorphine, also cause miosis, central nervous system depression, respiratory depression, hyporeflexia, hypotension, bradycardia, and constipation. Buprenorphine is often used for chronic pain or opioid dependence and is preferred sublingually for better bioavailability. It has an extremely high affinity for opioid receptors, so high doses of naloxone may be needed to reverse respiratory depression. When taken sublingually, it has a half-life of 37 hours.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-447]
+Q: A 33-year-old man with a known history of AIDS presents to the ED actively seizing after an ingestion of one of his medications. An intravenous line is established. Despite high doses of diazepam, phenobarbital, and phenytoin, the patient continues to seize. Which one of the following substances did this patient most likely ingest?
+A: Isoniazid
+EXPLANATION: Isoniazid (INH) is a commonly prescribed tuberculosis medication and is structurally similar to nicotinic acid (niacin), nicotinamide adenine dinucleotide, and pyridoxine (vitamin B6). Its toxic effects result from its impact on the metabolism of pyridoxine, which leads to peripheral neuropathy, and its interference with gamma-aminobutyric acid metabolism, leading to refractory seizures. In the setting of acute toxicity, INH produces the triad of seizures refractory to conventional therapy (benzodiazepines, barbiturates, and phenytoin), severe metabolic acidosis, and coma.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-448]
+Q: A 77-year-old woman presents with an acute change in mental status. She has a history of diabetes mellitus, hypertension, and prior ischemic stroke. Home medications include aspirin, clopidogrel, lisinopril, and glyburide. She was found by her family to be confused and diaphoretic. Her blood sugar was 32 mg/dL.
+A: Admission for 24–hour observation
+EXPLANATION: Sulfonylurea hypoglycemic agents, among the most widely prescribed agents in the management of diabetes, work by promoting endogenous insulin secretion by the pancreas. The hypoglycemic effect lasts up to 24 hours allowing for once-daily dosing. Although well tolerated, the most common adverse effect is hypoglycemia. Risk factors for hypoglycemia include decreased oral intake or increased exercise, alcohol use, overdose (accidental or intentional), impaired kidney function, and use of longer-acting sulfonylureas such as glyburide. Management of hypoglycemia due to sulfonylureas includes frequent blood sugar monitoring and glucose replacement.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-449]
+Q: A 32-year-old man presents with headache, nausea, and malaise that he first noted when he awoke this morning, and the symptoms have progressively worsened in the last 4 hours. He felt well yesterday when he went to bed. His partner and cousin, who live in the apartment with him, are being seen in the emergency department as well with similar symptoms that started this morning.
+A: Place the patient on high-flow oxygen via a nonrebreather mask
+EXPLANATION: This patient has a history and examination that is concerning for possible carbon monoxide poisoning. Carbon monoxide is generated by incomplete combustion of carbon-containing products and is the most frequent cause of fatal poisoning in the United States. Common sources of carbon monoxide include fires, faulty home heating units, portable generators, and blocked tailpipes. Despite the increased use of carbon monoxide detectors in homes, the incidence of carbon monoxide exposure has not decreased. Carbon monoxide binds with deoxyhemoglobin to form carboxyhemoglobin which can not carry oxygen.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-450]
+Q: Which of the following laboratory findings most strongly suggest isopropyl alcohol exposure?
+A: Ketosis without acidosis
+EXPLANATION: Isopropyl alcohol is commonly used as a disinfectant and commercial solvent but carries the potential for toxicity when ingested. It is the second most commonly ingested alcohol, following ethanol. Both accidental and intentional self-harm exposures are possible, though the former is far more common. Some patients ingest it while seeking ethanol intoxication without having access to ethanol itself. Isopropyl alcohol functions primarily as a CNS depressant, and cases of intoxication present similarly to ethanol exposure. Mucosal irritation often causes gastrointestinal symptoms, such as vomiting and abdominal pain, shortly after ingestion.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-451]
+Q: While performing a laceration repair on a healthy 20-year-old man, a large volume of bupivacaine solution is inadvertently injected intravascularly. Shortly after, the patient develops mouth tingling and a metallic taste before becoming bradycardic, hypotensive, unresponsive, and finally pulseless.
+A: Lipid emulsion IV
+EXPLANATION: This patient is showing signs of local anesthetic systemic toxicity (LAST) after direct injection of bupivacaine to his vasculature. Although rare, LAST has the potential to be quickly fatal without appropriate treatment due to extensive cardiac and CNS toxicity. Any local anesthetic can cause LAST, but bupivacaine has a higher propensity due to its increased potency. Neurologic signs of LAST include perioral sensations, metallic taste, change in mental status, and, in severe cases, seizures. Cardiac signs include bradycardia or tachycardia, hypotension, ventricular dysrhythmias, and asystole.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-452]
+Q: A 22-year-old woman presents to the emergency department 30 minutes after ingesting 40 tablets of over-the-counter ibuprofen. According to her parent, she had been fighting with her partner and then took the tablets. She has a history of depression and anxiety but has not attempted suicide in the past. At this time, she is nontoxic appearing and crying.
+A: Activated charcoal
+EXPLANATION: Nonsteroidal anti-inflammatory medications are widely available to the public to treat pain and inflammation. Patients who take the medication in overdose represent a large portion of reports to regional poison control centers. The clinical manifestations of acute nonsteroidal anti-inflammatory overdose tend to be minimal, with the most common symptoms being nausea, vomiting, and dizziness. In general, ingestions of ≤ 100 mg/kg are unlikely to cause any symptoms at all, and a massive overdose that produces significant toxicity is not usually considered until 400 mg/kg has been ingested. There is not any test for nonsteroidal anti-inflammatory overdose.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-453]
+Q: Which of the following is an indication for hemodialysis in the setting of lithium overdose?
+A: Altered mental status and a lithium level of 3 mEq/L
+EXPLANATION: Lithium remains a widely used and effective medication in the treatment of bipolar disorder. Lithium toxicity can present in the setting of acute, chronic, or acute-on-chronic ingestions. Dehydration, co-ingestions, and kidney insufficiency can precipitate and exacerbate the clinical signs and symptoms of toxicity. Acute ingestions are more likely to initially present with GI symptoms, such as nausea, vomiting, and diarrhea, whereas neurologic symptoms are more likely to occur in the later stages of acute toxicity and are a key finding in cases of chronic toxicity.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-454]
+Q: An approximately 25-year-old man presents unresponsive. There is an odor of almonds when he breathes. Which of the following toxins is most likely associated with this odor?
+A: Cyanide
+EXPLANATION: Cyanide toxicity is most commonly seen in those involved in structural fires, as the chemical is used to produce synthetic fibers. When inhaled, cyanide is rapidly absorbed and binds to a complex within the electron transport chain, leading to massive tissue hypoxia. Severe metabolic acidosis and a markedly elevated lactic acid are present. Mild poisoning is uncommon due to its severe effects on the body’s metabolic system. In its aerosolized form, hydrogen cyanide has an odor of almonds.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-455]
+Q: A 22-year-old man presents to the emergency department with confusion. His friends state he was using drugs prior to this episode. His T is 101°F (38.3°C), BP is 145/90 mm Hg, HR is 127 bpm, RR is 19/min, and SpO2 is 100% on room air. Physical exam reveals a man who is irritable and confused. His skin is warm, dry, and flushed. His pupils are dilated and minimally reactive.
+A: Diazepam
+EXPLANATION: Anticholinergic medications such as atropine, diphenhydramine, and meclizine may cause an anticholinergic toxidrome. Certain plants also have anticholinergic properties and may cause this toxidrome, and they include jimsonweed, belladonna, nightshade plant, garryaceae, mandragora, and hyoscyamus. Patients present with symptoms that include mydriasis (and thus blurry vision), hyperthermia, tachycardia (as evidenced on the ECG above), dry mouth, dry eyes, ileus, urinary retention, agitation with delirium, and skin that is dry, warm, and flushed. Management is first centered on supportive care, including crystalloid fluids and external cooling.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-456]
+Q: An 18-month-old girl presents to the emergency department by ambulance after she would not wake up from her nap at daycare. The child was in her usual state of good health that morning and was acting normally through lunchtime and while playing outside at daycare. The daycare yard has many plants, bushes, mushrooms, and wild berries.
+A: Marijuana edible ingestion
+EXPLANATION: With the recent legalization of marijuana in many states for both medicinal and recreational use, marijuana-infused edible products are becoming more readily available. The amount of tetrahydrocannabinol (THC), the psychoactive component, in these products varies greatly and is unregulated. Young children are often attracted to the bright and colorful (and easy to open) packaging, thinking they are common snacks or candy, leading to unintentional exposures and subsequent toxic effects. Children < 5 years old are at the most risk for serious effects, the most common of which are drowsiness, lethargy, tachycardia, ataxia, irritability, confusion, mydriasis, and hypotonia.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-457]
+Q: A 26-year-old man was exposed to an unknown gas while riding a bus to work. Upon exposure to the agent, the patient became dizzy and dyspneic. EMS found him obtunded with a respiratory rate of 30/min, heart rate of 60 bpm, oxygen saturation of 89%, temperature of 37.5°C (99.5°F), and blood pressure of 100/60 mm Hg. On arrival to the ED, he undergoes decontamination procedures.
+A: Atropine
+EXPLANATION: This patient is exhibiting a cholinergic toxidrome and was most likely exposed to a nerve agent such as sarin, venomous agent X (VX), soman, or tabun. Nerve agents are organophosphates that bind acetylcholinesterase and prevent the breakdown of acetylcholine in the synaptic cleft. The buildup of acetylcholine leads to the clinical presentation of cholinergic toxicity that is often remembered by the SLUDGE mnemonic (salivation, lacrimation, urination, diarrhea, GI cramps, emesis). The treatment for organophosphate poisoning has two tiers. Atropine is an anticholinergic agent that temporarily reverses the symptoms of cholinergic toxicity.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-458]
+Q: A 21-year-old man with a history of a seizure disorder presents to the ED after an overdose of his medication. He is altered and has been vomiting. Laboratory testing reveals an ammonia level of 103 µmol/L. Which of the following is the antidote to this patient’s toxicity?
+A: L-carnitine
+EXPLANATION: This patient is exhibiting signs and symptoms of valproic acid toxicity. These include nausea, vomiting, sedation, ataxia, respiratory depression, and cerebral edema. Laboratory testing will frequently reveal hyperammonemia while other liver function tests remain within normal limits, which is nearly pathognomonic in overdose patients for valproic acid. Other laboratory abnormalities include hypernatremia, hypocalcemia, and metabolic acidosis. Management of valproic acid toxicity includes symptomatic and supportive care. Naloxone has been reported to be successful in some cases.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-459]
+Q: A 2-year-old girl without significant medical history is brought to the ED after having multiple seizures while at daycare. Upon arrival, she continues to have recurrent generalized tonic-clonic seizures back-to-back without returning to baseline. She is intubated and tube placement is confirmed on chest X-ray. Her parents have not arrived to provide history.
+A: Lead poisoning
+EXPLANATION: This patient's X-ray shows evidence of lead lines, indicating exposure to lead. Lead poisoning is most commonly unintentional due to inhalation or ingestion of lead-containing compounds (e.g., lead paint, old food or drink cans, working in mines, working in refineries). Outside of clinical suspicion, findings of anemia, basophilic stippling, and lead lines can point toward the diagnosis. Diagnosis is then confirmed with lead blood levels > 5 mcg/dL.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-460]
+Q: A 33-year-old man presents to the ED with jaundice and altered mental status. His spouse states that he took “a bunch of pills” in a suicide attempt. Laboratory studies reveal an alanine aminotransferase of 1,045 U/L, aspartate aminotransferase of 1,245 U/L, total bilirubin of 14.3 µmol/L, and INR of 4.5. Which of the following is the typical time frame for death from this patient’s overdose?
+A: 72–96 hours
+EXPLANATION: This patient is exhibiting signs and symptoms of acetaminophen toxicity. Signs and symptoms of acetaminophen toxicity vary based on the time of presentation from time of ingestion. Between 72 and 96 hours, hepatic encephalopathy, coagulopathy, acidosis, jaundice, kidney failure, cerebral edema, and death will occur. A key to treating acetaminophen overdoses is to predict the risk of toxicity. A reliable time of ingestion and amount ingested should be obtained. The typical toxic dose is > 150 mg/kg. A serum acetaminophen level should be obtained at 4 hours after ingestion or as soon as possible thereafter based on time of presentation.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-461]
+Q: A 4-year-old with asthma presents to the emergency department with difficulty breathing and an exam consistent with an asthma exacerbation. His only daily home medications include an inhaled glucocorticoid and furosemide, which he takes for chronic kidney insufficiency from hemolytic uremic syndrome.
+A: Hyperglycemia and hypokalemia
+EXPLANATION: Adverse effects of albuterol are common when given in the high doses needed to treat severe asthma exacerbations. The most frequent adverse effects include tachycardia, anxiety, restlessness, headache, and diaphoresis. Vomiting and diarrhea are not uncommon. Rarely, dysrhythmias may occur. Electrolyte changes known to occur due to high doses of inhaled beta-agonists include transient decreases in serum potassium, magnesium, and phosphate and transient increases in serum glucose. These changes are not usually clinically significant, so frequent electrolyte evaluation is not indicated in most patients receiving continuous albuterol.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-463]
+Q: A 23-year-old man presents to the ED after ingesting an unknown substance. Which of the following would most suggest an ingestion of cocaine rather than diphenhydramine?
+A: Wet, warm, flushed skin
+EXPLANATION: A sympathomimetic toxidrome is most commonly seen with cocaine and methamphetamine. A sympathomimetic toxidrome can be diagnosed when the classic constellation of symptoms is seen, such as dilated and reactive pupils, warm and sweaty skin, hyperthermia, tachycardia, tachypnea, hypertension, increased bowel sounds, and agitation. Sympathomimetics increase the risk of stroke and myocardial infarction. Treatment of cocaine-related cardiovascular complications remains largely supportive, focusing on blood pressure control, symptom control, and avoiding vasoconstrictive agents.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-464]
+Q: A 6-year-old boy presents to the ED after an accidental ingestion. The parents are concerned he took some of their medication. He has nausea and epigastric discomfort. An abdominal radiograph reveals radiopaque tablets. Which of the following is a marker of toxicity in this case?
+A: Vomiting
+EXPLANATION: The key indicator of iron toxicity is vomiting and how many times it has occurred, as toxicity without emesis is extremely uncommon. A patient with three to four episodes of emesis who appears well likely has local toxicity. However, any patient with more than four episodes of emesis or those who look ill likely have systemic toxicity. The predicted toxicity can be calculated based on the amount of elemental iron ingested. A dose 60 mg/kg portends severe toxicity. There are three acute and two subacute stages to iron toxicity.
+
+### [ROSH | rosh-em-initial-2026-toxicologic-disorders-q-465]
+Q: A 63-year-old man with a history of atrial fibrillation presents after a syncopal episode. His ECG is shown above. Which medication is the patient likely to be taking?
+A: Digoxin
+EXPLANATION: The ECG demonstrates atrial fibrillation. Patients with atrial fibrillation are usually on medications for rate control. Digoxin is used therapeutically for two reasons: 1) to improve the contractility of the heart and 2) to suppress conduction through the atrioventricular (AV) node (rate control). Digoxin acts on the sodium-potassium ATPase on the surface of the cell, making it inactive leading to an accumulation of sodium inside the cell and potassium outside the cell. This impairs the ability of the sodium-calcium exchanger to remove calcium from the cell leading to higher levels of intracellular calcium.

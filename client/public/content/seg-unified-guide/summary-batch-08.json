@@ -1,0 +1,140 @@
+{
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "seg-neonatal-emergencies",
+      "title": "Neonatal Resuscitation and Emergencies",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "ابدأ بالتدفئة والتقييم والتنبيه للفريق، ثم دعم التنفس والدوران وفق خوارزمية إنعاش حديثي الولادة، مع البحث عن نقص السكر والإنتان.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-infectious-emergencies",
+      "title": "Serious Infections and Meningitis",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "التعرف المبكر على الإنتان والتهاب السحايا مهم؛ خذ عينات مناسبة وابدأ العلاج التجريبي دون تأخير غير ضروري عند عدم الاستقرار.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-pancreatitis",
+      "title": "Acute Pancreatitis",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "أكد التشخيص بالمعايير السريرية والمخبرية أو التصويرية، قيّم الشدة، وابدأ السوائل والمسكنات والمراقبة مع معالجة السبب.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-urinary",
+      "title": "Acute Urinary Retention and Renal Colic",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "استبعد الإنتان والانسداد الخطير، عالج الألم والغثيان، وفرّغ المثانة عند الاحتباس مع الانتباه للإصابة أو صعوبة القثطرة.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-rheumatologic-emergencies",
+      "title": "Rheumatologic and Musculoskeletal Emergencies",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الألم المفصلي الحاد مع الحمى قد يعني التهابًا إنتانيًا؛ افحص السائل المفصلي عند اللزوم ولا تؤخر المضادات والإحالة عند الاشتباه.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "seg-peds-fever-sepsis",
+      "title": "Pediatric Fever and Sepsis",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "تقييم الحمى عند الطفل يبدأ بالعمر والمظهر العام والعلامات الحيوية؛ يجب التعرف مبكرًا على الصدمة والإنتان وبدء الإنعاش والمضادات وفق البروتوكول المحلي.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-headache",
+      "title": "Acute Headache and Subarachnoid Hemorrhage",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الصداع المفاجئ أو المختلف عن المعتاد يستدعي البحث عن نزف تحت العنكبوتية وأسباب خطرة أخرى، مع فحص عصبي وتصوير مناسب وعدم الاطمئنان إلى تحسن الألم وحده.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-burns",
+      "title": "Burns and Inhalation Injury",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الأولوية في الحروق هي مجرى الهواء والتنفس والدوران، ثم تقدير المساحة والعمق، وتسكين الألم، والوقاية من انخفاض الحرارة وإحالة الحالات التي تحقق معايير مركز الحروق.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-environmental-emergencies",
+      "title": "Heat, Cold, and Environmental Emergencies",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "التعرض للحرارة أو البرد قد يسبب فشلًا متعدد الأجهزة؛ أوقف التعرض، ابدأ التدفئة أو التبريد التدريجي، وراقب القلب والوعي والاختلاجات والشوارد.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-emergency-arrhythmias",
+      "title": "Emergency Arrhythmias",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "ابدأ بتقييم الاستقرار hemodynamic؛ عدم الاستقرار يتطلب تقويمًا كهربائيًا أو إزالة رجفان حسب النظم، بينما يسمح الاستقرار بتحليل التخطيط واختيار العلاج الموجه.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

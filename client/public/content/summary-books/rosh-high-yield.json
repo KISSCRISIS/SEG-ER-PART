@@ -1,0 +1,683 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-09T19:26:26.870Z",
+  "book": "rosh-rotation-2019",
+  "total": 12,
+  "bilingualDrafts": 12,
+  "status": "UNDER_REVIEW",
+  "chapters": [
+    {
+      "unitId": "rosh-2019-ch-01",
+      "title": "Cardiovascular System",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Cardiovascular System 3 I. Endocarditis NotesA. Endocarditis Pathopphyysiologgyy • Most commonly caused by: • IVDA: S. aureus (tricuspid aﬀected) • Native valve: streptococci, S. aureus (mitral aﬀected) Presentation • Fever, cough, rash, myalgias Phyysical Exam • Fever, Roth spots, Osler nodes, Murmur, Janeway lesions, Anemia, Nail bed hemorrhages, Emboli (FROM JANE) Diaggnostic Studies • Echocardiography and Duke criteria Managgement • Antibiotics (usually IV following blood cultures) I. Endocarditis Cardiovascular System 4 B. Infective Endocarditis I. Endocarditis Notes Cardiovascular System 5 I. Endocarditis C. Modiﬁed Duke Criteria for the Diagnosis of Endocarditis Notes Cardiovascular System 6 Notes II. Arrhythmias II. Arrhythmias A. First-Degree Heart Block Patho pphyysiologygy • Associated with aging, digitalis, ischemia, inﬂammation, cardiomyopathies, beta-blockers Ph yysical Exam • Rhythm will be regular • Normal AV conduction is slightly prolonged • P waves and QRS complexes are normal • 1:1 relationship between P and QRS • Block is most often at the level of the AV node Diaggnostic Studies • ECG with a PR interval > 0.20 sec (200 msec) and constant Cardiovascular System 7 B. Second-Degree Heart Block (Mobitz I / Wenckebach) Phyysical Exam • Rhythm will be irregular Diaggnostic Studies • ECG with a PR interval that is progressively lengthening until QRS complex fails to conduct after a P wave (\"dropped beat\") II. Arrhythmias • P waves and QRS complexes are normal but... • There are dropped beats (P waves without QRS complexes) • P-R interval progressively lengthens • R-R interval progressively shortens until a beat is dropped • Leads to \"grouped beating\" • The block is almost always within the AV node Cardiovascular System 8 C. Second-Degree Heart Block (Mobit"
+      ],
+      "diagnosis": [
+        "Diagnosis of Endocarditis Notes Cardiovascular System 6 Notes II. Arrhythmias II. Arrhythmias A. First-Degree Heart Block Patho pphyysiologygy • Associated with aging, digitalis, ischemia, inﬂammation, cardiomyopathies, beta-blockers Ph yysical Exam • Rhythm will be regular • Normal AV conduction is slightly prolonged • P waves and QRS complexes are normal • 1:1 relationship between P and QRS • Block is most often at the level of the AV node Diaggnostic Studies • ECG with a PR interval > 0.20 sec (200 msec) and constant Cardiovascular System 7 B. Second-Degree Heart Block (Mobitz I / Wenckebach) Phyysical Exam • Rhythm will be irregular Diaggnostic Studies • ECG with a PR interval that is progressively lengthening until QRS complex fails to conduct after a P wave (\"dropped beat\") II. Arrhythmias • P waves and QRS complexes are normal but... • There are dropped beats (P waves without QRS complexes) • P-R interval progressively lengthens • R-R interval progressively shortens until a beat is dropped • Leads to \"grouped beating\""
+      ],
+      "management": [
+        "Management • Normal saline bolus (patient is preload dependent) • Pericardiocentesis • Pericardial window 1 Hypotension Beck triad 2 Jugular venous distension 3 Muffled heart sounds B. Pericardial Effusion with Tamponade A. Cardiac Tamponade Presentation • Dyspnea and chest pain Phyysical Exam • Muffled heart sounds, JVD, hypotension (Beck triad), pulsus paradoxus Diaggnostic Studies • ECG with low-voltage QRS and electrical alternans • Echocardiography will show diastolic collapse of the right ventricle Managgement • Pericardiocentesis III. Cardiac Tamponade Cardiovascular System 12 C. Pulsus Paradoxus Conditions Associated with Pulsus Paradoxus • Obstructive Lung Disease • Cardiac Tamponade • Constrictive Pericarditis • Vena Cava Thrombosis • Pulmonary Embolism Notes III. Cardiac Tamponade Cardiovascular System 13 IV. Chest Pain A. Anginal Chest Pain IV. Chest Pain Notes Cardiovascular System 14 Notes B. Cocaine-Associated Chest Pain Pathopphyysiologgyy • Related to coronary artery vasospasm Presentation • MI, dysrhythmia, a"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيجمع هذا الفصل الحالات القلبية الشائعة في الطوارئ، مثل التهاب الشغاف واضطرابات النظم ومتلازمات الشريان التاجي والاندحاس والصدمة القلبية.\n\nيركز التقييم على تخطيط القلب، العلامات الحيوية، دلائل نقص التروية أو الصدمة، ثم اختيار التدخل العاجل المناسب للحالة.\n\nالتشخيص والتقييم:\n\nابحث عن علامات نقص التروية أو عدم الاستقرار، وفسّر تخطيط القلب ضمن الأعراض والسياق السريري. في التهاب الشغاف تُربط الحمى والنفخة وعلامات الصمات بمعايير Duke وزرع الدم والتصوير بالإيكو.\n\nالتدبير:\n\nيبدأ التدبير بتثبيت مجرى الهواء والتنفس والدورة الدموية ومعالجة اضطراب النظم أو نقص التروية أو الاندحاس بحسب الحالة. تُطلب استشارة القلب مبكرًا عند عدم الاستقرار أو الحاجة إلى تدخل.\n\nشرح مبسط لفهم الموضوع:\n\nالفكرة الأساسية: ألم الصدر أو الخفقان ليسا تشخيصًا واحدًا؛ قد يكون السبب اضطراب نظم سريعًا أو احتشاءً أو اندحاسًا يهدد الحياة. ابدأ دائمًا بالاستقرار وتخطيط القلب والمراقبة.\n\nفي الامتحان، لا تعتمد على علامة منفردة: غياب الثلاثية الكلاسيكية لا ينفي الاندحاس، وتفسير تخطيط القلب يجب أن يطابق ضغط المريض وأعراضه.\n\nالجزء العلاجي في هذا الملخص تعليمي وتحت المراجعة؛ لا يُستخدم بدل بروتوكول الإنعاش المحلي ولا يتضمن جرعات دوائية.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يجمع هذا الفصل الحالات القلبية الشائعة في الطوارئ، مثل التهاب الشغاف واضطرابات النظم ومتلازمات الشريان التاجي والاندحاس والصدمة القلبية.",
+          "يركز التقييم على تخطيط القلب، العلامات الحيوية، دلائل نقص التروية أو الصدمة، ثم اختيار التدخل العاجل المناسب للحالة."
+        ],
+        "diagnosis": [
+          "ابحث عن علامات نقص التروية أو عدم الاستقرار، وفسّر تخطيط القلب ضمن الأعراض والسياق السريري. في التهاب الشغاف تُربط الحمى والنفخة وعلامات الصمات بمعايير Duke وزرع الدم والتصوير بالإيكو."
+        ],
+        "management": [
+          "يبدأ التدبير بتثبيت مجرى الهواء والتنفس والدورة الدموية ومعالجة اضطراب النظم أو نقص التروية أو الاندحاس بحسب الحالة. تُطلب استشارة القلب مبكرًا عند عدم الاستقرار أو الحاجة إلى تدخل."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 11,
+            "end": 75
+          }
+        }
+      ],
+      "pages": {
+        "start": 11,
+        "end": 75
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 65,
+        "contentPages": 63,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-02",
+      "title": "Orthopedics/Rheumatology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Orthopedics/Rheumatology 68 I. Back Strain/Sprain/Low Back Pain A. Back Strain/Sprain Pathophysiology • Caused by an injury to the paravertebral spinal muscles Patient • History of repeated lifting and twisting Physical Exam • Diﬀ use tenderness in the lower back or SI region with decreased ROM, especially ﬂ exion Diagnostic Studies • Imaging is indicated only if “red ﬂ ags” are present: pain at rest, pain at night, weight loss, acute bony tenderness, or signiﬁ cant trauma Management • Conservative management with continued activity as tolerated, NSAIDs, physical therapy (avoid opioids) B. Lumbar Radiculopathy Notes I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 69 C. Pharmacologic Therapy for Acute Low Back Pain Notes I. Back Strain/Sprain/Low Back Pain D. Nonpharmacologic Therapies for Treatment of Acute Low Back Pain • Heat (may reduce pain and disability) • Massage (no evidence for clinical beneﬁ t, but may increase patient satisfaction) • Acupuncture (inconsistent results for clinical beneﬁ t) • Spinal manipulation (may provide modest improvement in pain and function) • Exercise and physical therapy (no clear clinical beneﬁ t) Orthopedics/Rheumatology 70 E. Red Flags of Back Pain Notes I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 71 F. Imaging Evaluation for Acute Low Back Pain I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 72 II. Bursitis/Tendonitis A. Prepatellar Bursitis Pathophysiology • Most commonly caused by chronic kneeling (housemaid’s knee) Physical Exam • Dome-shaped swelling over the anterior aspect of the knee Diagnostic Studies • Aspiration of the bursa identiﬁ es inﬂ ammatory, hemorrhagic, or septic etiology Management • NSAIDs, ice, activity modiﬁ cations, steroid injection Comments • Most common bursitis"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Imaging is indicated only if “red ﬂ ags” are present: pain at rest, pain at night, weight loss, acute bony tenderness, or signiﬁ cant trauma Management • Conservative management with continued activity as tolerated, NSAIDs, physical therapy (avoid opioids) B. Lumbar Radiculopathy Notes I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 69 C. Pharmacologic Therapy for Acute Low Back Pain Notes I. Back Strain/Sprain/Low Back Pain D. Nonpharmacologic Therapies for Treatment of Acute Low Back Pain • Heat (may reduce pain and disability) • Massage (no evidence for clinical beneﬁ t, but may increase patient satisfaction) • Acupuncture (inconsistent results for clinical beneﬁ t) • Spinal manipulation (may provide modest improvement in pain and function) • Exercise and physical therapy (no clear clinical beneﬁ t) Orthopedics/Rheumatology 70 E. Red Flags of Back Pain Notes I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 71 F. Imaging Evaluation for Acute Low Back Pain I. Back Strain/Sprain/Low Bac"
+      ],
+      "management": [
+        "Management • Conservative management with continued activity as tolerated, NSAIDs, physical therapy (avoid opioids) B. Lumbar Radiculopathy Notes I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 69 C. Pharmacologic Therapy for Acute Low Back Pain Notes I. Back Strain/Sprain/Low Back Pain D. Nonpharmacologic Therapies for Treatment of Acute Low Back Pain • Heat (may reduce pain and disability) • Massage (no evidence for clinical beneﬁ t, but may increase patient satisfaction) • Acupuncture (inconsistent results for clinical beneﬁ t) • Spinal manipulation (may provide modest improvement in pain and function) • Exercise and physical therapy (no clear clinical beneﬁ t) Orthopedics/Rheumatology 70 E. Red Flags of Back Pain Notes I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 71 F. Imaging Evaluation for Acute Low Back Pain I. Back Strain/Sprain/Low Back Pain Orthopedics/Rheumatology 72 II. Bursitis/Tendonitis A. Prepatellar Bursitis Pathophysiology • Most commonly cause"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيتناول الفصل آلام الظهر والإصابات والكسور والخلوع والنقرس والتهاب المفصل الإنتاني ومشكلات العظام والعضلات.\n\nتميّز القصة والفحص بين الألم الميكانيكي المعتاد والحالات الخطرة التي تحتاج تصويرًا أو تدخلًا عاجلًا.\n\nالتشخيص والتقييم:\n\nتُبحث علامات الخطر مثل الألم الليلي أو الراحة، نقص الوزن، الرض الشديد، العجز العصبي أو ألم العظم الموضّع. الحمى مع مفصل مؤلم محدود الحركة ترفع احتمال التهاب المفصل الإنتاني.\n\nالتدبير:\n\nيُعالج الألم الميكانيكي غالبًا بالحركة حسب التحمل والعلاج المحافظ، بينما تتطلب الكسور والخلوع والعجز العصبي أو العدوى تقييمًا تخصصيًا وتصويرًا وتدخلًا مناسبًا.\n\nشرح مبسط لفهم الموضوع:\n\nلا يعني ألم الظهر البسيط أن كل ألم ظهر حميد؛ اسأل عن علامات الخطر وافحص القوة والإحساس والمنعكسات.\n\nالمفصل الساخن المؤلم مع الحمى حالة لا ينبغي نسبها للنقرس فقط قبل استبعاد العدوى.\n\nالهدف الامتحاني هو معرفة متى يكفي العلاج المحافظ ومتى يجب التصوير أو طلب الاستشارة العاجلة.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يتناول الفصل آلام الظهر والإصابات والكسور والخلوع والنقرس والتهاب المفصل الإنتاني ومشكلات العظام والعضلات.",
+          "تميّز القصة والفحص بين الألم الميكانيكي المعتاد والحالات الخطرة التي تحتاج تصويرًا أو تدخلًا عاجلًا."
+        ],
+        "diagnosis": [
+          "تُبحث علامات الخطر مثل الألم الليلي أو الراحة، نقص الوزن، الرض الشديد، العجز العصبي أو ألم العظم الموضّع. الحمى مع مفصل مؤلم محدود الحركة ترفع احتمال التهاب المفصل الإنتاني."
+        ],
+        "management": [
+          "يُعالج الألم الميكانيكي غالبًا بالحركة حسب التحمل والعلاج المحافظ، بينما تتطلب الكسور والخلوع والعجز العصبي أو العدوى تقييمًا تخصصيًا وتصويرًا وتدخلًا مناسبًا."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 76,
+            "end": 135
+          }
+        }
+      ],
+      "pages": {
+        "start": 76,
+        "end": 135
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 60,
+        "contentPages": 58,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-03",
+      "title": "Gastrointestinal/Nutritional",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Gastrointestinal/Nutritional 128 I. Abdominal Pain A. Age Diﬀ erences in Abdominal Pain Notes I. Abdominal Pain Gastrointestinal/Nutritional 129 B. Rapid Onset of Abdominal Pain Notes I. Abdominal Pain Gastrointestinal/Nutritional 130 II. Acute Appendicitis A. Appendicitis Pathophysiology • Most commonly caused by a fecalith Presentation • Fever, pain that began periumbilically then moved to RLQ, nausea, and anorexia Physical Exam • Psoas sign (RLQ pain on extension of right hip), obturator sign (RLQ pain on internal rotation of ﬂ exed right hip), Rovsing sign (RLQ pain when the LLQ is palpated) Diagnostic Studies • Ultrasound, CT Management • Surgery Notes II. Acute Appendicitis Gastrointestinal/Nutritional 131 Management • Appendectomy • Antibiotics only (reserved for cases of nonperforated, uncomplicated appendicitis Epidemiology • Most frequent in the second and third decades of life • Most common in 10-to-19-year-old group • More common in men Clinical • Right lower quadrant abdominal pain • Anorexia • Nausea and vomiting • Periumbilical pain that migrates to RLQ Atypical features • Dyspepsia • Flatulence • Bowel irregularity • Diarrhea • Generalized malaise B. Acute Appendicitis Notes II. Acute Appendicitis Gastrointestinal/Nutritional 132 III. Acute Cholecystitis Acute Cholecystitis Pathophysiology • Most commonly caused by an obstructive gallstone Presentation • Colicky, steadily increasing right upper quadrant (RUQ) or epigastric pain after eating fatty foods • Fever, nausea, vomiting Physical Exam • Positive Murphy sign and Boas sign (hyperaes- thesia (increased or altered sensitivity) below the right scapula) Diagnostic Studies • Initially: RUQ ultrasound • Gold standard: HIDA scan Management • Cholecystectomy Clinical • Right upper quadrant or epigastric pai"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Ultrasound, CT Management • Surgery Notes II. Acute Appendicitis Gastrointestinal/Nutritional 131 Management • Appendectomy • Antibiotics only (reserved for cases of nonperforated, uncomplicated appendicitis Epidemiology • Most frequent in the second and third decades of life • Most common in 10-to-19-year-old group • More common in men Clinical • Right lower quadrant abdominal pain • Anorexia • Nausea and vomiting • Periumbilical pain that migrates to RLQ Atypical features • Dyspepsia • Flatulence • Bowel irregularity • Diarrhea • Generalized malaise B. Acute Appendicitis Notes II. Acute Appendicitis Gastrointestinal/Nutritional 132 III. Acute Cholecystitis Acute Cholecystitis Pathophysiology • Most commonly caused by an obstructive gallstone Presentation • Colicky, steadily increasing right upper quadrant (RUQ) or epigastric pain after eating fatty foods • Fever, nausea, vomiting Physical Exam • Positive Murphy sign and Boas sign (hyperaes- thesia (increased or altered sensitivity) below the right scapula) Diagnostic Studies • Initially: RUQ ultr"
+      ],
+      "management": [
+        "Management • Surgery Notes II. Acute Appendicitis Gastrointestinal/Nutritional 131 Management • Appendectomy • Antibiotics only (reserved for cases of nonperforated, uncomplicated appendicitis Epidemiology • Most frequent in the second and third decades of life • Most common in 10-to-19-year-old group • More common in men Clinical • Right lower quadrant abdominal pain • Anorexia • Nausea and vomiting • Periumbilical pain that migrates to RLQ Atypical features • Dyspepsia • Flatulence • Bowel irregularity • Diarrhea • Generalized malaise B. Acute Appendicitis Notes II. Acute Appendicitis Gastrointestinal/Nutritional 132 III. Acute Cholecystitis Acute Cholecystitis Pathophysiology • Most commonly caused by an obstructive gallstone Presentation • Colicky, steadily increasing right upper quadrant (RUQ) or epigastric pain after eating fatty foods • Fever, nausea, vomiting Physical Exam • Positive Murphy sign and Boas sign (hyperaes- thesia (increased or altered sensitivity) below the right scapula) Diagnostic Studies • Initially: RUQ ultrasound • Gold standard: HIDA scan M"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيركز الفصل على ألم البطن والتهاب الزائدة والانسداد والنزف وأمراض الجهاز الهضمي والتغذية.\n\nتختلف الأسباب حسب العمر ومكان الألم وسرعة بدايته والأعراض المرافقة.\n\nالتشخيص والتقييم:\n\nاستكمل القصة والفحص، وقيّم علامات الصفاق والصدمة والنزف. قد ينتقل ألم الزائدة من حول السرة إلى الربع السفلي الأيمن، لكن العرض قد يكون غير نمطي.\n\nالتدبير:\n\nيبدأ التدبير بالإنعاش والتسكين ومضاد القيء عند الحاجة، ثم تُعالج الحالة المسببة ويُطلب رأي الجراحة عند وجود صفاق أو انسداد أو نزف أو عدم استقرار.\n\nشرح مبسط لفهم الموضوع:\n\nألم البطن عرض واسع؛ اسأل أولًا عن الاستقرار ثم حدّد النمط والمكان والانتقال والأعراض المصاحبة.\n\nلا تؤخر المسكنات التقييم، ولا تجعل فحصًا أوليًا مطمئنًا يلغي إعادة الفحص عند استمرار الشك.\n\nفي الأطفال وكبار السن قد تكون العلامات غير واضحة، لذلك تعتمد السلامة على المراقبة والفحص المتكرر.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يركز الفصل على ألم البطن والتهاب الزائدة والانسداد والنزف وأمراض الجهاز الهضمي والتغذية.",
+          "تختلف الأسباب حسب العمر ومكان الألم وسرعة بدايته والأعراض المرافقة."
+        ],
+        "diagnosis": [
+          "استكمل القصة والفحص، وقيّم علامات الصفاق والصدمة والنزف. قد ينتقل ألم الزائدة من حول السرة إلى الربع السفلي الأيمن، لكن العرض قد يكون غير نمطي."
+        ],
+        "management": [
+          "يبدأ التدبير بالإنعاش والتسكين ومضاد القيء عند الحاجة، ثم تُعالج الحالة المسببة ويُطلب رأي الجراحة عند وجود صفاق أو انسداد أو نزف أو عدم استقرار."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 136,
+            "end": 196
+          }
+        }
+      ],
+      "pages": {
+        "start": 136,
+        "end": 196
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 61,
+        "contentPages": 59,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-04",
+      "title": "Pulmonology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Pulmonology 189 Acute Bronchiolitis Pathophysiology • Most commonly caused by respiratory syncytial virus (RSV) Patient • Children < 2 years old Presentation • Diﬃ culty breathing Physical Exam • Respiratory distress, polyphonic wheezing, and rales Diagnostic Studies • Diagnosis is established by history and physical exam Management • Supportive care I. Acute Bronchiolitis Microbiology • Respiratory syncytial virus (RSV) [most common] • Rhinovirus, parainﬂ uenza virus, human metapneumovirus • Inﬂ uenza virus Complications • Dehydration • Apnea (premature and < 2 months old) • Aspiration pneumonia, respiratory failure Clinical • Occurs primarily in children < 2 years old • Often preceded by a 1 to 3 day URI prodrome • Fever, cough • Respiratory distress (tachypnea, retractions, wheezing, crackles) Management Nonsevere bronchiolitis • Anticipatory guidance, nasal suctioning, hydration Severe bronchiolitis • Trial of inhaled bronchodilator (controversial) • Heated humidiﬁ ed high-ﬂ ow nasal cannula • Continuous positive airway pressure • Endotracheal intubation Notes I. Acute Bronchiolitis Pulmonology 190 Acute Bronchitis Pathophysiology • Most commonly caused by viruses Patient • Productive cough for longer than ﬁ ve days Management • Symptomatic care and bronchodilators Comments • Most common cause of minor hemoptysis • Routine antibiotic therapy not indicated II. Acute Bronchitis Etiology Viral (majority) • Inﬂ uenza A and B • Parainﬂ uenza • Coronavirus • Rhinovirus • Respiratory syncytial virus • Human metapneumovirus Bacterial (minority) • Bordetella pertussis • Mycoplasma pneumoniae • Chlamydia pneumoniae Clinical • Cough (lasts > 5 days) • Purulent or nonpurulent sputum • URI may precede onset of bronchitis Notes II. Acute Bronchitis Pulmonology 191 III. Acute Epig"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Diagnosis is established by history and physical exam Management • Supportive care I. Acute Bronchiolitis Microbiology • Respiratory syncytial virus (RSV) [most common] • Rhinovirus, parainﬂ uenza virus, human metapneumovirus • Inﬂ uenza virus Complications • Dehydration • Apnea (premature and < 2 months old) • Aspiration pneumonia, respiratory failure Clinical • Occurs primarily in children < 2 years old • Often preceded by a 1 to 3 day URI prodrome • Fever, cough • Respiratory distress (tachypnea, retractions, wheezing, crackles) Management Nonsevere bronchiolitis • Anticipatory guidance, nasal suctioning, hydration Severe bronchiolitis • Trial of inhaled bronchodilator (controversial) • Heated humidiﬁ ed high-ﬂ ow nasal cannula • Continuous positive airway pressure • Endotracheal intubation Notes I. Acute Bronchiolitis Pulmonology 190 Acute Bronchitis Pathophysiology • Most commonly caused by viruses Patient • Productive cough for longer than ﬁ ve days Management • Symptomatic care and bronchodilators Comments • Most common cause of minor hemoptysis • Routine antibiotic therapy not indica"
+      ],
+      "management": [
+        "Management • Supportive care I. Acute Bronchiolitis Microbiology • Respiratory syncytial virus (RSV) [most common] • Rhinovirus, parainﬂ uenza virus, human metapneumovirus • Inﬂ uenza virus Complications • Dehydration • Apnea (premature and < 2 months old) • Aspiration pneumonia, respiratory failure Clinical • Occurs primarily in children < 2 years old • Often preceded by a 1 to 3 day URI prodrome • Fever, cough • Respiratory distress (tachypnea, retractions, wheezing, crackles) Management Nonsevere bronchiolitis • Anticipatory guidance, nasal suctioning, hydration Severe bronchiolitis • Trial of inhaled bronchodilator (controversial) • Heated humidiﬁ ed high-ﬂ ow nasal cannula • Continuous positive airway pressure • Endotracheal intubation Notes I. Acute Bronchiolitis Pulmonology 190 Acute Bronchitis Pathophysiology • Most commonly caused by viruses Patient • Productive cough for longer than ﬁ ve days Management • Symptomatic care and bronchodilators Comments • Most common cause of minor hemoptysis • Routine antibiotic therapy not indicated II. Acute Bronchitis Etiology Viral (majority) • Inﬂ uenza A and B •"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيقدم الفصل مراجعة لحالات الجهاز التنفسي، من التهاب القصيبات والربو والانسداد الرئوي إلى ذات الرئة والانسداد الهوائي.\n\nالتمييز بين شدة الضيق التنفسي والسبب المحتمل يسبق اختيار العلاج.\n\nالتشخيص والتقييم:\n\nقيّم مجرى الهواء، جهد التنفس، الإشباع، الأصوات التنفسية والوعي. غياب الصفير لا يطمئن إذا كان تدفق الهواء شديد الانخفاض أو ظهرت علامات إنهاك.\n\nالتدبير:\n\nيبدأ التدبير بالأكسجة والدعم التنفسي عند الحاجة، ثم العلاج الموجه للربو أو العدوى أو الانسداد أو السبب الآخر مع إعادة تقييم الاستجابة.\n\nشرح مبسط لفهم الموضوع:\n\nاسأل: هل يستطيع المريض حماية مجرى الهواء والتهوية؟ ثم قيّم شدة الفشل التنفسي قبل تفاصيل التشخيص.\n\nفي الطفل المصاب بالتهاب القصيبات يكون العلاج غالبًا داعمًا، بينما يحتاج المريض المنهك أو ناقص الأكسجة إلى تصعيد سريع للدعم.\n\nتحسن رقم الإشباع وحده لا يكفي؛ تابع الجهد التنفسي والوعي وتبادل الغازات.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يقدم الفصل مراجعة لحالات الجهاز التنفسي، من التهاب القصيبات والربو والانسداد الرئوي إلى ذات الرئة والانسداد الهوائي.",
+          "التمييز بين شدة الضيق التنفسي والسبب المحتمل يسبق اختيار العلاج."
+        ],
+        "diagnosis": [
+          "قيّم مجرى الهواء، جهد التنفس، الإشباع، الأصوات التنفسية والوعي. غياب الصفير لا يطمئن إذا كان تدفق الهواء شديد الانخفاض أو ظهرت علامات إنهاك."
+        ],
+        "management": [
+          "يبدأ التدبير بالأكسجة والدعم التنفسي عند الحاجة، ثم العلاج الموجه للربو أو العدوى أو الانسداد أو السبب الآخر مع إعادة تقييم الاستجابة."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 197,
+            "end": 234
+          }
+        }
+      ],
+      "pages": {
+        "start": 197,
+        "end": 234
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 38,
+        "contentPages": 36,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-05",
+      "title": "Neurology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Neurology 227 I. Altered Level of Consciousness/Coma A. Glasgow Coma Scale (GCS) • All patients have ≥ 3 • Scored on: • Eye response • Verbal response • Motor response Notes I. Altered Level of Consciousness/Coma Neurology 228 A. Bell Palsy Pathophysiology • Most commonly caused by HSV Patient • History of a viral prodrome Presentation • Unilateral facial nerve paralysis, hyperacusis, and taste disturbance upon waking Physical Exam • CN VII nerve palsy that involves the forehead (as opposed to stroke that spares the forehead) Management • Prednisone, artiﬁ cial tears, tape eyelid shut, acyclovir for severe presentations Comments • Bilateral palsy linked to Lyme disease, infectious mononucleosis II. Bell Palsy Notes II. Bell Palsy Neurology 229 B. Management of Acute Bell Palsy Notes II. Bell Palsy Neurology 230 III. Encephalitis A. Hepatic Encephalopathy Pathophysiology • Caused by toxin accumulation due to liver dysfunction Patient • History of liver failure and recent infection, dehydration, medication change, GI bleed, hypoxia, or hypoglycemia Presentation • Complaining of confusion Physical Exam • Scleral icterus and asterixis Diagnostic Studies • Elevated serum ammonia Management • Lactulose, treatment of precipitating cause Comments • CSF glutamine correlates with severity Notes III. Encephalitis Neurology 231 Hepatic Encephalopathy cont. Risk Factors • Infection • GI bleeding • TIPS • Constipation • High-protein diet • Zinc deﬁ ciency • Benzodiazepines • Diuretics Notes III. Encephalitis Neurology 232 B. Wernicke Encephalopathy Pathophysiology • Caused by thiamine (vitamin B1) deﬁ ciency Patient • Chronic alcoholic Presentation • Ataxia and confusion Physical Exam • Nystagmus, gaze palsies Management • Aggressive thiamine repletion Comments • Replace thiamine bef"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Elevated serum ammonia Management • Lactulose, treatment of precipitating cause Comments • CSF glutamine correlates with severity Notes III. Encephalitis Neurology 231 Hepatic Encephalopathy cont. Risk Factors • Infection • GI bleeding • TIPS • Constipation • High-protein diet • Zinc deﬁ ciency • Benzodiazepines • Diuretics Notes III. Encephalitis Neurology 232 B. Wernicke Encephalopathy Pathophysiology • Caused by thiamine (vitamin B1) deﬁ ciency Patient • Chronic alcoholic Presentation • Ataxia and confusion Physical Exam • Nystagmus, gaze palsies Management • Aggressive thiamine repletion Comments • Replace thiamine before glucose • If untreated can lead to irreversible Korsakoﬀ syndrome Management • Supportive • Thiamine (IV) Wernicke Syndrome Notes III. Encephalitis Neurology 233 C. Selected Pathogens Causing Encephalitis Notes III. Encephalitis Neurology 234 D. West Nile Pathophysiology • Transmitted by mosquitoes in the summer and fall Presentation • Flu-l"
+      ],
+      "management": [
+        "Management • Prednisone, artiﬁ cial tears, tape eyelid shut, acyclovir for severe presentations Comments • Bilateral palsy linked to Lyme disease, infectious mononucleosis II. Bell Palsy Notes II. Bell Palsy Neurology 229 B. Management of Acute Bell Palsy Notes II. Bell Palsy Neurology 230 III. Encephalitis A. Hepatic Encephalopathy Pathophysiology • Caused by toxin accumulation due to liver dysfunction Patient • History of liver failure and recent infection, dehydration, medication change, GI bleed, hypoxia, or hypoglycemia Presentation • Complaining of confusion Physical Exam • Scleral icterus and asterixis Diagnostic Studies • Elevated serum ammonia Management • Lactulose, treatment of precipitating cause Comments • CSF glutamine correlates with severity Notes III. Encephalitis Neurology 231 Hepatic Encephalopathy cont. Risk Factors • Infection • GI bleeding • TIPS • Constipation • High-protein diet • Zinc deﬁ ciency • Benzodiazepines • Diuretics Notes III. Encephalitis Neurology 232"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيتناول الفصل اضطراب الوعي والغيبوبة والشلل الوجهي والسكتة والصداع والاختلاجات ومشكلات عصبية إسعافية أخرى.\n\nالتقييم العصبي السريع يبدأ بمجرى الهواء وسكر الدم ودرجة الوعي والفحص البؤري.\n\nالتشخيص والتقييم:\n\nاستخدم مقياس GCS مع فحص الحدقات والقوة والكلام والعلامات السحائية. فرّق بين شلل بيل وإصابة مركزية، وابحث عن أسباب قابلة للعكس مثل نقص السكر أو السموم.\n\nالتدبير:\n\nثبّت الوظائف الحيوية وعالج الأسباب القابلة للعكس، واطلب تصويرًا أو استشارة عصبية عاجلة عند وجود عجز بؤري أو صداع شديد مفاجئ أو اختلاج مستمر.\n\nشرح مبسط لفهم الموضوع:\n\nالمريض قليل الوعي يحتاج تقييمًا متوازيًا: حماية مجرى الهواء، قياس السكر، البحث عن سم أو رض، ثم تحديد سبب عصبي خطير.\n\nدرجة GCS أداة متابعة وليست تشخيصًا بحد ذاتها؛ سجّل مكوناتها وتغيرها بمرور الوقت.\n\nالزمن مهم في السكتة والاختلاجات؛ لا تؤجل التقييم المتخصص بسبب تفاصيل ثانوية.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يتناول الفصل اضطراب الوعي والغيبوبة والشلل الوجهي والسكتة والصداع والاختلاجات ومشكلات عصبية إسعافية أخرى.",
+          "التقييم العصبي السريع يبدأ بمجرى الهواء وسكر الدم ودرجة الوعي والفحص البؤري."
+        ],
+        "diagnosis": [
+          "استخدم مقياس GCS مع فحص الحدقات والقوة والكلام والعلامات السحائية. فرّق بين شلل بيل وإصابة مركزية، وابحث عن أسباب قابلة للعكس مثل نقص السكر أو السموم."
+        ],
+        "management": [
+          "ثبّت الوظائف الحيوية وعالج الأسباب القابلة للعكس، واطلب تصويرًا أو استشارة عصبية عاجلة عند وجود عجز بؤري أو صداع شديد مفاجئ أو اختلاج مستمر."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 235,
+            "end": 303
+          }
+        }
+      ],
+      "pages": {
+        "start": 235,
+        "end": 303
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 69,
+        "contentPages": 67,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-06",
+      "title": "ENOT/Ophthalmology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "ENOT/Ophthalmology 296 I. Acute Laryngitis A. Laryngitis Pathophysiology • Viral more common than bacterial • Can be related to acute vocal cord strain Presentation • Hoarseness Management • Self-limiting • Humidiﬁ ed air, hydration, vocal rest Etiology • Upper respiratory infection Viral (most common) Bacterial: M. catarrhalis, H. inﬂ uenzae, S. pneumoniae • Acute vocal cord strain Management • Self-limited • Hydration, humidiﬁ cation, voice rest Acute Laryngitis Self-limited lasting inﬂ ammatory condition < 3 weeks Notes I. Acute Laryngitis ENOT/Ophthalmology 297 II. Acute Otitis Media A. Acute Otitis Media Pathophysiology • Viral infections more common than bacterial • If bacterial, S. pneumoniae, H. inﬂ uenzae, M. catarrhalis are most common pathogens Patient • Infant or young child Presentation • Ear pain, fever, URI symptoms Most common bacterial causes • Streptococcus pneumoniae • Haemophilus inﬂ uenzae (non-typeable) • Moraxella catarrhalis Physical Exam • TM erythema and decreased mobility of TM on insuﬄ ation Management • Amoxicillin Notes II. Acute Otitis Media ENOT/Ophthalmology 298 III. Acute Pharyngitis (Viral, Bacterial) A. Pharyngitis Pathophysiology • Viral infection more common than bacterial • If bacterial, group A Streptococcus is most common pathogen Presentation • Sore throat, no cough Physical Exam • Fever, cervical lymphadenopathy, tonsillar exudate Diagnostic Studies • Rapid strep test or culture if indicated by CENTOR criteria Management • Viral: supportive care • Bacterial: penicillin (erythromycin if penicillin allergy), steroids Notes III. Acute Pharyngitis (Viral, Bacterial) Management • Supportive • Penicillins • Cephalosporins • Clindamycin • Macrolides Clinical • Temp > 38°C • Tender anterior cervical lymphadenopathy • Absence of cough •"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Rapid strep test or culture if indicated by CENTOR criteria Management • Viral: supportive care • Bacterial: penicillin (erythromycin if penicillin allergy), steroids Notes III. Acute Pharyngitis (Viral, Bacterial) Management • Supportive • Penicillins • Cephalosporins • Clindamycin • Macrolides Clinical • Temp > 38°C • Tender anterior cervical lymphadenopathy • Absence of cough • Pharyngotonsillar exudates B. Strep Pharyngitis ENOT/Ophthalmology 299 C. Modiﬁ ed Centor Criteria Notes III. Acute Pharyngitis (Viral, Bacterial) ENOT/Ophthalmology 300 D. Clinical Features of Group A Streptococcus Pharyngitis and Viral Pharyngitis Notes III. Acute Pharyngitis (Viral, Bacterial) ENOT/Ophthalmology 301 IV. Acute Sinusitis A. Sinusitis Pathophysiology • Most commonly viral in etiology • If symptoms persist longer than 10–14 days, pathogen is more likely to be bacterial Presentation • Pain over sinuses and rhinorrhea Notes Physical Exam • Purulent rhinorrhea and sinus tenderness Management • Supportive care • If bacte"
+      ],
+      "management": [
+        "Management • Self-limiting • Humidiﬁ ed air, hydration, vocal rest Etiology • Upper respiratory infection Viral (most common) Bacterial: M. catarrhalis, H. inﬂ uenzae, S. pneumoniae • Acute vocal cord strain Management • Self-limited • Hydration, humidiﬁ cation, voice rest Acute Laryngitis Self-limited lasting inﬂ ammatory condition < 3 weeks Notes I. Acute Laryngitis ENOT/Ophthalmology 297 II. Acute Otitis Media A. Acute Otitis Media Pathophysiology • Viral infections more common than bacterial • If bacterial, S. pneumoniae, H. inﬂ uenzae, M. catarrhalis are most common pathogens Patient • Infant or young child Presentation • Ear pain, fever, URI symptoms Most common bacterial causes • Streptococcus pneumoniae • Haemophilus inﬂ uenzae (non-typeable) • Moraxella catarrhalis Physical Exam • TM erythema and decreased mobility of TM on insuﬄ ation Management • Amoxicillin Notes II. Acute Otitis Media ENOT/Ophthalmology 298 III. Acute Pharyngitis (Viral, Bacterial) A. Pharyngitis Pathophysiology • Viral infection more common than bacterial • If bacterial, group A Streptoc"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيراجع الفصل مشكلات الأنف والأذن والحنجرة والعيون والأسنان، مثل التهاب الحنجرة وإصابات العين واضطرابات الرؤية.\n\nتتراوح الحالات من اضطرابات ذاتية الشفاء إلى حالات تهدد البصر أو مجرى الهواء.\n\nالتشخيص والتقييم:\n\nقيّم الصوت والبلع والتنفس، وافحص حدة البصر والحدقات وحركة العين عند الشك بإصابة عينية. الألم الشديد أو فقد الرؤية أو الجسم الغريب النافذ علامات إنذار.\n\nالتدبير:\n\nتقدم الرعاية الداعمة للحالات البسيطة، بينما تتطلب إصابات العين أو انسداد مجرى الهواء أو العدوى العميقة حماية العضو واستشارة اختصاصية عاجلة.\n\nشرح مبسط لفهم الموضوع:\n\nالمهم ليس حفظ أسماء كثيرة، بل معرفة العلامات التي تعني تهديد مجرى الهواء أو البصر.\n\nالتهاب الحنجرة البسيط يختلف جذريًا عن صوت مكتوم مع سيلان لعاب وصعوبة تنفس.\n\nلا تضغط على العين المصابة ولا تؤخر تقييم فقد الرؤية.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يراجع الفصل مشكلات الأنف والأذن والحنجرة والعيون والأسنان، مثل التهاب الحنجرة وإصابات العين واضطرابات الرؤية.",
+          "تتراوح الحالات من اضطرابات ذاتية الشفاء إلى حالات تهدد البصر أو مجرى الهواء."
+        ],
+        "diagnosis": [
+          "قيّم الصوت والبلع والتنفس، وافحص حدة البصر والحدقات وحركة العين عند الشك بإصابة عينية. الألم الشديد أو فقد الرؤية أو الجسم الغريب النافذ علامات إنذار."
+        ],
+        "management": [
+          "تقدم الرعاية الداعمة للحالات البسيطة، بينما تتطلب إصابات العين أو انسداد مجرى الهواء أو العدوى العميقة حماية العضو واستشارة اختصاصية عاجلة."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 304,
+            "end": 352
+          }
+        }
+      ],
+      "pages": {
+        "start": 304,
+        "end": 352
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 49,
+        "contentPages": 47,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-07",
+      "title": "Urology/Renal",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Urology/Renal 345 I. Acid/Base Disorders A. Acute Respiratory and Metabolic Acidosis and Alkalosis (Normal ABG values pH:7.35–7.45; PaCO2: 35–45; HCO3: 22–26) Pathophysiology Notes • Respiratory Acidosis • Lungs fail to excrete CO2 (Breathing too slow (holding onto CO2) • Respiratory Alkalosis • Excessive elimination of CO2 (Breathing too fast (blowing of CO2) • Metabolic Acidosis • How to calculate ion gap: Na – (Cl + HCO3-) = 8-16 mEq/L • Increased ion gap metabolic acidosis • A CAT MUDPILE • Low anion gap • Loss of bicarbonate Comments • Winter Formula is used to evaluate respiratory compensation when metabolic acidosis is present in a patient. PCO2 = (HCO3 x 1.5) + 8 ± 2 • Delta ratio is used to assess elevated anion gap metabolic acidosis and to evaluate whether a mixed acid-base disorder is present I. Acid/Base Disorders Urology/Renal 346 B. Respiratory Acidosis pH: < 7.35; PaCO2: > 45 Notes I. Acid/Base Disorders Urology/Renal 347 NotesC. Respiratory Alkalosis pH: > 7.45; PaCO2: < 35 Common Causes • Hyperventilation syndrome • Anxiety, pain • Fever, psychosis • Pulmonary embolism • Heart failure • Mechanical ventilation • Stroke • Pregnancy • Hyperthyroidism • Salicylate toxicity I. Acid/Base Disorders Urology/Renal 348 D. Metabolic Acidosis pH: < 7.35; HCO3: < 22 Notes I. Acid/Base Disorders Urology/Renal 349 E. Major Causes for Metabolic Acidosis According to Mechanism and Anion Gap Notes I. Acid/Base Disorders Urology/Renal 350 F. Causes of High-Anion Gap metabolic Acidosis Notes I. Acid/Base Disorders Urology/Renal 351 G. Metabolic Alkalosis pH: > 7.45; HCO3: > 26 Notes I. Acid/Base Disorders Urology/Renal 352 II. Acute Renal Failure A. Acute Kidney Injury Pathophysiology • Acute reduction in glomerular ﬁ ltration rate (GFR) • Can be prerenal, intrarenal, or"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Renal ultrasound • Increase in serum creatinine and blood urea nitrogen (BUN) to creatinine ratio • Fractional excretion of sodium (FENa), urine osmolality and Na+ are helpful in determining type of AKI Notes II. Acute Renal Failure Urology/Renal 353 A. Cystitis (Urinary Tract Infection) Pathophysiology • Most commonly caused by Escherichia coli Presentation • Low-grade fever, increased urinary frequency, dysuria, and suprapubic or abdominal pain III. Cystitis Diagnosis • Urine culture > 100,000 colonies (from reliable source) Etiology • E. coli • Klebsiella • Proteus • Enterococcus • Staph saprophyticus (Female adolescents) • Group B Strep (Neonates) • Pseudomonas • Adenovirus Clinical • Suprapubic pressure and ﬂ ank pain (referred) • Vomiting • Dysuria, urgency, frequency • Enuresis Diagnostic Studies • Leukocyte esterase and nitrites present on UA Management • Acute uncomplicated cystitis: TMP-SMX, nitrofurantoin, or ﬂ uoroquinolone for three to ﬁ ve days • Acute uncomplicated cystitis with comorbid conditions: same antibiotics for seven days Notes III. Cystitis Urology/Renal © 2019 Rosh R"
+      ],
+      "management": [
+        "Management • Acute uncomplicated cystitis: TMP-SMX, nitrofurantoin, or ﬂ uoroquinolone for three to ﬁ ve days • Acute uncomplicated cystitis with comorbid conditions: same antibiotics for seven days Notes III. Cystitis Urology/Renal 354 A. Epididymitis Pathophysiology • < 35 years old: most commonly C. trachomatis • > 35 years old: most commonly E. coli Presentation • Gradual-onset unilateral scrotal pain Physical Exam • Relief with testicular elevation (Prehn sign) Diagnostic Studies • Increased color ﬂ ow on Doppler Management • < 35 years old: ceftriaxone/doxycycline • > 35 years old: ciproﬂ oxacin IV. Epididymitis Notes Clinical • Increasing dull, unilateral scrotal pain • Erythematous, painful, swollen scrotum • Relief with testicular elevation (Prehn sign) Sexually transmitted (< 35 years of age) • Chlamydia trachomatis • Neisseria gonorrhoeae • Rx: Ceftriaxone/doxycycline Nonsexually transmitted (> 35 years of age) • E. coli and other coliforms • Pseudomonas • Rx: Trimethoprim and sulfamethoxazole or levo/ciproﬂ oxacin IV. Epididymitis Urology/Renal 355 V. Fluid"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيشمل الفصل اضطرابات الحمض والقاعدة وأمراض الكلى والمسالك البولية والحصيات والاحتباس والعدوى.\n\nقراءة غازات الدم والشوارد مع القصة السريرية تساعد في تحديد الاضطراب الأساسي.\n\nالتشخيص والتقييم:\n\nابدأ بتحديد pH ثم اتجاه PaCO2 وHCO3، واحسب الفجوة الأيونية عند وجود حماض استقلابي. اربط النتائج بالتهوية والصدمة والسموم ووظيفة الكلية.\n\nالتدبير:\n\nيعالج التدبير السبب ويصحح الاضطرابات الخطرة تدريجيًا مع مراقبة الشوارد والوظيفة الكلوية، ويستدعي اختصاص الكلى أو المسالك عند الانسداد أو الفشل أو عدم الاستقرار.\n\nشرح مبسط لفهم الموضوع:\n\nلا تحفظ المعادلات دون تفسير: اسأل هل المشكلة تنفسية أم استقلابية وهل توجد معاوضة مناسبة.\n\nارتفاع البوتاسيوم أو الانسداد أو الفشل الكلوي قد يتحول سريعًا إلى خطر قلبي؛ اربط التحليل بتخطيط القلب والحالة العامة.\n\nهذا شرح مفاهيمي؛ أي قرار علاجي أو جرعة يحتاج بروتوكولًا محدثًا.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يشمل الفصل اضطرابات الحمض والقاعدة وأمراض الكلى والمسالك البولية والحصيات والاحتباس والعدوى.",
+          "قراءة غازات الدم والشوارد مع القصة السريرية تساعد في تحديد الاضطراب الأساسي."
+        ],
+        "diagnosis": [
+          "ابدأ بتحديد pH ثم اتجاه PaCO2 وHCO3، واحسب الفجوة الأيونية عند وجود حماض استقلابي. اربط النتائج بالتهوية والصدمة والسموم ووظيفة الكلية."
+        ],
+        "management": [
+          "يعالج التدبير السبب ويصحح الاضطرابات الخطرة تدريجيًا مع مراقبة الشوارد والوظيفة الكلوية، ويستدعي اختصاص الكلى أو المسالك عند الانسداد أو الفشل أو عدم الاستقرار."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 353,
+            "end": 391
+          }
+        }
+      ],
+      "pages": {
+        "start": 353,
+        "end": 391
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 39,
+        "contentPages": 37,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-08",
+      "title": "Dermatology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Dermatology 384 A. Bullous Pemphigoid Pathophysiology • Most commonly caused by a chronic autoimmune blistering disease Patient • Age > 60 years old Presentation • Intensely pruritic papules that become large, tense blisters and bullae Physical Exam • Tense and ﬁ r m blisters that do not extend with lateral pressure (Negative Nikolsky sign) Management • Corticosteroids and immunosuppressants I. Bullous Pemphigoid Notes I. Bullous Pemphigoid Dermatology 385 II. Burns A. Burn Classiﬁ cation Notes II. Burns Dermatology 386 B. Respiratory Injury from Burns Notes II. Burns Dermatology 387 C. Rule of Nines Only for 2nd and 3rd degree burns Notes II. Burns Dermatology 388 III. Cellulitis A. Cellulitis Pathophysiology • Most commonly caused by S. aureus and streptococci Presentation • Pain, redness, swelling Physical Exam • Tenderness, erythema with poorly demarcated borders, lymphedema Notes III. Cellulitis Dermatology 389 IV. Dermatitis (Eczema, Contact) A. Contact Dermatitis • Well-demarcated erythema, erosions, vesicles Notes IV. Dermatitis (Eczema, Contact) Dermatology 390 B. Atopic Dermatitis (Eczema) Patient • History of asthma or allergic rhinitis Presentation • Itchy, scaly rash often worse in the winter Physical Exam • Thick, leathery, hyperpigmented areas on ﬂ exor surfaces Management • Topical corticosteroids and emollients Notes IV. Dermatitis (Eczema, Contact) Dermatology 391 C. Nummular Eczema (Discoid Eczema) • Coin-shaped and discoid plaques Clinical • Highly pruritic, round, coin-shaped patches (1 to 10 cm in diameter) • Acute: lesions are dull red, exudative, and crusted • Over time: dry, scaly, with occasional central clearing • Legs and upper extremities most commonly involved • Chronic and relapsing Management • Measures to reduce skin dryness and exposure"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Microscopic visualization Management • Permethrin Management Eradication of mites • Permethrin 5% cream (safe for infants) • Oral Ivermectin (ideal for nursing home outbreaks) Clinical - Rash • Small, erythematous, nondescript papules • Often excoriated, hemorrhagic crusts Notes XII. Scabies Dermatology 403 XIII. Spider, Snake, Scorpion Bites Notes XIII. Spider, Snake, Scorpion Bites Dermatology 404 XIV. Stevens-Johnson Syndrome A. Stevens-Johnson Syndrome Pathophysiology • Most commonly caused by a reaction to medications Physical Exam • Vesicles and bullae involving < 10% of the body surface area including mucous membranes Notes XIV. Stevens-Johnson Syndrome Management • Referral to burn center Comments • SCORTEN score is used to determine the prognosis and clinical setting for treatment Dermatology 405 XV. Toxic Epidermal Necrolysis A. Toxic Epidermal Necrolysis Patient • Elderly, increased risk if HIV positive Physical Exam • Vesicles and bullae involving > 30% of the body surface area including mucous membran"
+      ],
+      "management": [
+        "Management • Corticosteroids and immunosuppressants I. Bullous Pemphigoid Notes I. Bullous Pemphigoid Dermatology 385 II. Burns A. Burn Classiﬁ cation Notes II. Burns Dermatology 386 B. Respiratory Injury from Burns Notes II. Burns Dermatology 387 C. Rule of Nines Only for 2nd and 3rd degree burns Notes II. Burns Dermatology 388 III. Cellulitis A. Cellulitis Pathophysiology • Most commonly caused by S. aureus and streptococci Presentation • Pain, redness, swelling Physical Exam • Tenderness, erythema with poorly demarcated borders, lymphedema Notes III. Cellulitis Dermatology 389 IV. Dermatitis (Eczema, Contact) A. Contact Dermatitis • Well-demarcated erythema, erosions, vesicles Notes IV. Dermatitis (Eczema, Contact) Dermatology 390 B. Atopic Dermatitis (Eczema) Patient • History of asthma or allergic rhinitis Presentation • Itchy, scaly rash often worse in the winter Physical Exam • Thick, leathery, hype"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيراجع الفصل الأمراض الجلدية والحروق والطفوح والفقاعات والالتهابات التي قد تظهر في الطوارئ.\n\nيجب تقدير شدة الحرق وانتشاره، وتمييز العدوى أو المرض الجهازي من الطفح المحدود.\n\nالتشخيص والتقييم:\n\nافحص مساحة وعمق الحرق، إصابة الاستنشاق، الألم، التروية والعلامات الجهازية. الفقاعات المشدودة الحاكة تختلف عن الآفات الرخوة أو إصابة الأغشية المخاطية.\n\nالتدبير:\n\nتتطلب الحروق الكبيرة أو إصابة الاستنشاق أو عدم الاستقرار إنعاشًا وتحويلًا مناسبًا، بينما تُدبر الحالات الجلدية المحدودة بعد تحديد السبب واستبعاد الخطر الجهازي.\n\nشرح مبسط لفهم الموضوع:\n\nالجلد قد يكون علامة لمرض جهازي، وليس مشكلة تجميلية فقط. اسأل عن الحمى والألم السريع وانتشار الطفح.\n\nفي الحروق، الأولوية لمجرى الهواء والدورة الدموية ثم تقدير المساحة والعمق؛ لا تجعل مظهر الجلد يؤخر الإنعاش.\n\nوجود إصابة مخاطية أو سمية عامة يغيّر مستوى الخطورة.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يراجع الفصل الأمراض الجلدية والحروق والطفوح والفقاعات والالتهابات التي قد تظهر في الطوارئ.",
+          "يجب تقدير شدة الحرق وانتشاره، وتمييز العدوى أو المرض الجهازي من الطفح المحدود."
+        ],
+        "diagnosis": [
+          "افحص مساحة وعمق الحرق، إصابة الاستنشاق، الألم، التروية والعلامات الجهازية. الفقاعات المشدودة الحاكة تختلف عن الآفات الرخوة أو إصابة الأغشية المخاطية."
+        ],
+        "management": [
+          "تتطلب الحروق الكبيرة أو إصابة الاستنشاق أو عدم الاستقرار إنعاشًا وتحويلًا مناسبًا، بينما تُدبر الحالات الجلدية المحدودة بعد تحديد السبب واستبعاد الخطر الجهازي."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 392,
+            "end": 421
+          }
+        }
+      ],
+      "pages": {
+        "start": 392,
+        "end": 421
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 30,
+        "contentPages": 28,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-09",
+      "title": "Endocrinology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Endocrinology 414 I. Adrenal Insufﬁ ciency A. Primary Adrenal Insuﬃ ciency (Addison Disease) Pathophysiology • Most common cause is autoimmune Presentation • Adrenal crisis with abdominal pain, nausea, vomiting, diarrhea, fever, and confusion Physical Exam • Hyperpigmentation of the skin and mucous membranes • Hypotension Diagnostic Studies • Hyponatremia, hyperkalemia, hypoglycemia Management • Hydrocortisone Clinical • Hypotension/shock • Vomiting, diarrhea • Fever • Abdominal pain • Hyponatremia, hypoglycemia, hyperkalemia Management • Hydrocortisone • Supportive Notes I. Adrenal Insufficiency Endocrinology 415 II. Cushing Disease A. Cushing Syndrome Pathophysiology • Most commonly caused by exogenous steroids or hypercortisolism from ACTH-secreting pituitary tumor Presentation • Amenorrhea, central obesity, depressive symptoms, easy bruising Physical Exam • Purple striae, “moon facies” (facial adiposity), “buﬀ alo hump” (increased adipose tissue in the neck and upper back), and hypertension Cushing Syndrome – Due to excess cortisol-like medication (prednisone) or tumor that produces or results in production of excessive cortisol [Cases due to a pituitary adenoma = Cushing disease]Notes Diagnostic Studies • 24-hour urine cortisol • Serum ACTH Comments • If caused by a pituitary tumor, the condition is termed Cushing disease II. Cushing Disease Endocrinology 416 III. Diabetes Insipidus A. Diabetes Insipidus (DI) Presentation • Polyuria, polydipsia Diagnostic Studies • Increase in plasma osmolality and decrease in urine osmolality 1. Central DI Pathophysiology • Most commonly caused by decreased ADH production Diagnostic Studies • Water deprivation test: > 50% increase in urine osmolality Management • Intranasal DDAVP 2. Nephrogenic DI Pathophysiology • Caused by renal"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Hyponatremia, hyperkalemia, hypoglycemia Management • Hydrocortisone Clinical • Hypotension/shock • Vomiting, diarrhea • Fever • Abdominal pain • Hyponatremia, hypoglycemia, hyperkalemia Management • Hydrocortisone • Supportive Notes I. Adrenal Insufficiency Endocrinology 415 II. Cushing Disease A. Cushing Syndrome Pathophysiology • Most commonly caused by exogenous steroids or hypercortisolism from ACTH-secreting pituitary tumor Presentation • Amenorrhea, central obesity, depressive symptoms, easy bruising Physical Exam • Purple striae, “moon facies” (facial adiposity), “buﬀ alo hump” (increased adipose tissue in the neck and upper back), and hypertension Cushing Syndrome – Due to excess cortisol-like medication (prednisone) or tumor that produces or results in production of excessive cortisol [Cases due to a pituitary adenoma = Cushing disease]Notes Diagnostic Studies • 24-hour urine cortisol • Serum ACTH Comments • If caused by a pituitary tumor, the condition is termed Cushing disease II. Cushing Disease Endocrinology 416 III. Diabetes Insipidus"
+      ],
+      "management": [
+        "Management • Hydrocortisone Clinical • Hypotension/shock • Vomiting, diarrhea • Fever • Abdominal pain • Hyponatremia, hypoglycemia, hyperkalemia Management • Hydrocortisone • Supportive Notes I. Adrenal Insufficiency Endocrinology 415 II. Cushing Disease A. Cushing Syndrome Pathophysiology • Most commonly caused by exogenous steroids or hypercortisolism from ACTH-secreting pituitary tumor Presentation • Amenorrhea, central obesity, depressive symptoms, easy bruising Physical Exam • Purple striae, “moon facies” (facial adiposity), “buﬀ alo hump” (increased adipose tissue in the neck and upper back), and hypertension Cushing Syndrome – Due to excess cortisol-like medication (prednisone) or tumor that produces or results in production of excessive cortisol [Cases due to a pituitary adenoma = Cushing disease]Notes Diagnostic Studies • 24-hour urine cortisol • Serum ACTH Comments • If caused by a pituitary tumor, the condition is termed Cushing disease II. Cushing Disease Endocrinology 416 III. Diabetes Insipidus A. Diabetes Insipidus (DI) Presentation • Polyuria, polydipsi"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيتناول الفصل قصور الكظر واضطرابات السكر والغدة الدرقية وحالات الغدد الصماء الشائعة في الطوارئ.\n\nقد تظهر الأزمة الكظرية بألم بطني وقيء وإسهال وحمى وارتباك مع انخفاض ضغط.\n\nالتشخيص والتقييم:\n\nابحث عن انخفاض الضغط واضطراب الوعي ونقص السكر واضطراب الصوديوم أو البوتاسيوم. اجمع المعلومات الدوائية والمرضية ولا تنتظر فحصًا واحدًا إذا كان المريض غير مستقر.\n\nالتدبير:\n\nثبّت المريض وصحح الأخطار الفورية واطلب علاجًا متخصصًا مبكرًا. يجب أن يطابق التدبير السبب والنتائج والمراقبة المستمرة.\n\nشرح مبسط لفهم الموضوع:\n\nقد تتخفى الأزمة الكظرية خلف صورة إنتان أو بطن حاد؛ وجود انخفاض ضغط مع نقص سكر أو فرط بوتاسيوم يرفع الشك.\n\nالتحاليل لا تُفسَّر منفردة، والاستقرار السريري يسبق انتظار النتائج.\n\nلا تُنقل جرعات الستيرويد من هذا الملخص القديم إلى الممارسة دون بروتوكول حديث.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يتناول الفصل قصور الكظر واضطرابات السكر والغدة الدرقية وحالات الغدد الصماء الشائعة في الطوارئ.",
+          "قد تظهر الأزمة الكظرية بألم بطني وقيء وإسهال وحمى وارتباك مع انخفاض ضغط."
+        ],
+        "diagnosis": [
+          "ابحث عن انخفاض الضغط واضطراب الوعي ونقص السكر واضطراب الصوديوم أو البوتاسيوم. اجمع المعلومات الدوائية والمرضية ولا تنتظر فحصًا واحدًا إذا كان المريض غير مستقر."
+        ],
+        "management": [
+          "ثبّت المريض وصحح الأخطار الفورية واطلب علاجًا متخصصًا مبكرًا. يجب أن يطابق التدبير السبب والنتائج والمراقبة المستمرة."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 422,
+            "end": 450
+          }
+        }
+      ],
+      "pages": {
+        "start": 422,
+        "end": 450
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 29,
+        "contentPages": 27,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-10",
+      "title": "Obstetrics/Gynecology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Obstetrics/Gynecology 443 I. Amenorrhea A. Amenorrhea Primary • Absence of menses by age 16 with secondary sexual development present, or the absence of secondary sexual characteristics by age 14 • Turner Syndrome: XO karyotype, webbed neck, broad chest • Androgen insensitivity: breast development only • Imperforate hymen: observed on speculum exam • Müllerian agenesis: secondary sex characteristics, no uterus Secondary • Previously had menses, amenorrhea for six months • Most common cause is pregnancy • Also caused by weight changes, hypothyroidism, prolactinoma Notes I. Amenorrhea Obstetrics/Gynecology 444 B. Causes of Amenorrhea Notes I. Amenorrhea Obstetrics/Gynecology 445 II. Abnormal Uterine Bleeding A. Abnormal Uterine Bleeding (formerly Dysfunctional Uterine Bleeding) Presentation • Abnormal menstrual bleeding with regards to quantity, duration, or schedule in a nonpregnant woman of reproductive age Pathophysiology • Structural (adenomyosis, uterine ﬁ broids, malignancy, and polyps) and nonstructural causes • If AUB due to anovulatory state: • Increased estrogen and decreased progesterone leads to endometrial hyperplasia and unpredictable bleeding • Ovulatory state: •Predictable bleeding Diagnostic Studies • Diagnosis of exclusion if cause is nonstructural Management • Combination OCPs • Unstable bleeding: IV estrogen • Surgery if structural cause is identiﬁ ed Comments • Most common cause of abnormal vaginal bleeding in women of reproductive age Notes II. Abnormal Uterine Bleeding Obstetrics/Gynecology 446 B. Causes of Abnormal Uterine Bleeding Notes II. Abnormal Uterine Bleeding Obstetrics/Gynecology 447 III. Ectopic Pregnancy A. Ectopic Pregnancy Pathophysiology • Most commonly implanted in a fallopian tube Patient • History of prior ectopic pregnancy, PID, t"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Diagnosis of exclusion if cause is nonstructural Management • Combination OCPs • Unstable bleeding: IV estrogen • Surgery if structural cause is identiﬁ ed Comments • Most common cause of abnormal vaginal bleeding in women of reproductive age Notes II. Abnormal Uterine Bleeding Obstetrics/Gynecology 446 B. Causes of Abnormal Uterine Bleeding Notes II. Abnormal Uterine Bleeding Obstetrics/Gynecology 447 III. Ectopic Pregnancy A. Ectopic Pregnancy Pathophysiology • Most commonly implanted in a fallopian tube Patient • History of prior ectopic pregnancy, PID, tubal surgery, IVF, IUD Presentation • Vaginal bleeding, abdominal pain, amenorrhea Physical Exam • Adnexal tenderness or unexplained hypotension Diagnostic Studies • Positive pregnancy test and lower than expected serum beta-hCG levels • Ultrasound Management • Methotrexate or surgery Notes III. Ectopic Pregnancy Obstetrics/Gynecology 448 IV. Endometriosis A. Endometriosis Pathophysiology • Most common site of endometrial implants is the ovaries Presentation • Pre"
+      ],
+      "management": [
+        "Management • Combination OCPs • Unstable bleeding: IV estrogen • Surgery if structural cause is identiﬁ ed Comments • Most common cause of abnormal vaginal bleeding in women of reproductive age Notes II. Abnormal Uterine Bleeding Obstetrics/Gynecology 446 B. Causes of Abnormal Uterine Bleeding Notes II. Abnormal Uterine Bleeding Obstetrics/Gynecology 447 III. Ectopic Pregnancy A. Ectopic Pregnancy Pathophysiology • Most commonly implanted in a fallopian tube Patient • History of prior ectopic pregnancy, PID, tubal surgery, IVF, IUD Presentation • Vaginal bleeding, abdominal pain, amenorrhea Physical Exam • Adnexal tenderness or unexplained hypotension Diagnostic Studies • Positive pregnancy test and lower than expected serum beta-hCG levels • Ultrasound Management • Methotrexate or surgery Notes III. Ectopic Pregnancy Obstetrics/Gynecology 448 IV. Endometriosis A. Endometriosis Pathophysiology • Most common site of endometrial implants is the ovaries Presentation • Pre- or mid-cycle dysmenorrhea, dyspareunia, dyschezia (painful bowel mov"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيراجع الفصل انقطاع الطمث ومشكلات الحمل المبكر والنزف والحالات النسائية الإسعافية.\n\nيجب استبعاد الحمل ومضاعفاته عند المريضة القادرة على الحمل قبل إغلاق التشخيص.\n\nالتشخيص والتقييم:\n\nقيّم الاستقرار وكمية النزف والألم واختبار الحمل والفحص النسائي والسونار عند الحاجة. الحمل خارج الرحم تشخيص لا يجوز تفويته عند الألم أو النزف أو الإغماء.\n\nالتدبير:\n\nتعالج الصدمة والنزف فورًا، ويُطلب رأي النساء والتوليد عند عدم الاستقرار أو الشك بالحمل خارج الرحم أو العدوى أو النزف المستمر.\n\nشرح مبسط لفهم الموضوع:\n\nفي النزف المبكر، رتب الأسئلة: هل المريضة مستقرة؟ هل الحمل داخل الرحم؟ وهل هو حي؟\n\nالأعراض غير النوعية لا تستبعد الحمل خارج الرحم، والمتابعة مهمة عندما تكون الصورة المبكرة غير حاسمة.\n\nالتواصل الرحيم جزء من العلاج؛ فقد الحمل ليس خطأ المريضة.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يراجع الفصل انقطاع الطمث ومشكلات الحمل المبكر والنزف والحالات النسائية الإسعافية.",
+          "يجب استبعاد الحمل ومضاعفاته عند المريضة القادرة على الحمل قبل إغلاق التشخيص."
+        ],
+        "diagnosis": [
+          "قيّم الاستقرار وكمية النزف والألم واختبار الحمل والفحص النسائي والسونار عند الحاجة. الحمل خارج الرحم تشخيص لا يجوز تفويته عند الألم أو النزف أو الإغماء."
+        ],
+        "management": [
+          "تعالج الصدمة والنزف فورًا، ويُطلب رأي النساء والتوليد عند عدم الاستقرار أو الشك بالحمل خارج الرحم أو العدوى أو النزف المستمر."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 451,
+            "end": 485
+          }
+        }
+      ],
+      "pages": {
+        "start": 451,
+        "end": 485
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 35,
+        "contentPages": 33,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-11",
+      "title": "Psychiatry/Behavioral Medicine",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Psychiatry/Behavioral Medicine 478 I. Anxiety Disorders A. General Anxiety Disorder Presentation • Persistent and excessive worry pertaining to multiple events or domains that continues for six months or more Management • SSRIs: paroxetine and escitalopram; SNRIs: venlafaxine • Benzodiazepines (short-term use), BBs • Buspirone is also eﬀ ective (can take at least two weeks before it begins to help) • Psychotherapy Notes I. Anxiety Disorders Psychiatry/Behavioral Medicine 479 B. Generalized Anxiety Disorder DSM-5 Criteria Notes I. Anxiety Disorders Psychiatry/Behavioral Medicine 480 C. Speciﬁ c Phobias Presentation • Symptoms begin 10–15 minutes prior to speciﬁ c stress event (i.e., ﬂ ying, blood, social situations, spiders) Mana gement • Exposure therapy (ﬁ rst line) teaches to relax and try to understand and overcome the fear • Medications may be used (SSRIs) in combination with cognitive behavioral therapy (CBT) • Benzodiazepines for speciﬁ c and predictable triggers such as prior to ﬂ ying • Treat agoraphobia just as generalized anxiety disorder with SSRIs and CBT D. Speciﬁ c Phobic Speciﬁ ers (DSM-5) • Animal (e.g., spiders, insects, dogs) • Natural environment (e.g., heights, storms, water) • Blood-injection-injury (e.g., needles, invasive medical procedures) • Situational (e.g., airplanes, elevators, enclosed places) • Other (e.g., situations that may lead to choking or vomiting, or in children: loud sounds, costumed characters) Notes I. Anxiety Disorders Psychiatry/Behavioral Medicine 481 II. Bipolar and Related Disorders A. Bipolar Presentation • Bipolar I: A manic episode with or without a major depressive episode • Bipolar II: At least one hypomanic episode (no mania) and at least one major depressive episode • Cyclothymic disorder: A chronic mood disorder cha"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Deﬁ nitive diagnosis is conﬁ rmed by histopathologic examination of the brain showing amyloid plaques and neuroﬁ brillary tangles • In practice, diagnosis is made with clinical criteria • Mini-mental state exam monitors progression Management • Cholinesterase inhibitors (donepezil), NMDA antagonists (memantine) • No known cure; medications aim to slow progression Notes IV. Neurocognitive Disorders (Dementia) Psychiatry/Behavioral Medicine 489 D. Lewy Body Dementia Notes IV. Neurocognitive Disorders (Dementia) Psychiatry/Behavioral Medicine 490 V. Panic Disorder A. Panic disorder Presentation • Recurrent, unexpected panic attacks with at least a month or more of worry or avoidant behavior • Palpitations, chest pain, sweating, SOB • Symptoms develop abruptly and reach a peak within 10 minutes • Can occur with or without agoraphobia Management • CBT (cognitive behavioral therapy; relaxation, desensitization, examining behavior consequences) • SSRIs: paroxetine, sertraline, ﬂ uoxetine • Benzodiazepines for acute attacks (watch for abuse) Notes V. Panic Disorde"
+      ],
+      "management": [
+        "Management • SSRIs: paroxetine and escitalopram; SNRIs: venlafaxine • Benzodiazepines (short-term use), BBs • Buspirone is also eﬀ ective (can take at least two weeks before it begins to help) • Psychotherapy Notes I. Anxiety Disorders Psychiatry/Behavioral Medicine 479 B. Generalized Anxiety Disorder DSM-5 Criteria Notes I. Anxiety Disorders Psychiatry/Behavioral Medicine 480 C. Speciﬁ c Phobias Presentation • Symptoms begin 10–15 minutes prior to speciﬁ c stress event (i.e., ﬂ ying, blood, social situations, spiders) Mana gement • Exposure therapy (ﬁ rst line) teaches to relax and try to understand and overcome the fear • Medications may be used (SSRIs) in combination with cognitive behavioral therapy (CBT) • Benzodiazepines for speciﬁ c and predictable triggers such as prior to ﬂ ying • Treat agoraphobia just as generalized anxiety disorder with SSRIs and CBT D. Speciﬁ c Phobic Speciﬁ ers (DSM-5) • Animal (e.g., spiders, insects, dogs) • Natural environment (e.g., heights, storms, water) • Blood-injection-injury (e.g., needles, invasive medical procedures) • Situational"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيتناول الفصل القلق والاكتئاب والذهان والسلوك الانتحاري واضطرابات السلوك في الطوارئ.\n\nالأولوية للسلامة واستبعاد الأسباب الطبية أو السمية قبل نسبة الأعراض لاضطراب نفسي.\n\nالتشخيص والتقييم:\n\nقيّم خطر الانتحار والعنف والقدرة على اتخاذ القرار، وافحص الوعي والعلامات الحيوية وسكر الدم والمواد الدوائية عند اللزوم.\n\nالتدبير:\n\nوفّر بيئة آمنة ومراقبة، عالج الهياج بحذر، ونسّق تقييم الصحة النفسية أو الطب الباطني بحسب السبب والخطر.\n\nشرح مبسط لفهم الموضوع:\n\nلا يعني وجود تاريخ نفسي أن العرض الحالي نفسي؛ الارتباك الحاد أو تغير الوعي يحتاج بحثًا طبيًا.\n\nاسأل مباشرة عن الانتحار والخطة والوسيلة والدعم، ولا تكتفِ بسؤال عام عن المزاج.\n\nسلامة المريض والفريق تسبق تفاصيل التشخيص النهائي.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يتناول الفصل القلق والاكتئاب والذهان والسلوك الانتحاري واضطرابات السلوك في الطوارئ.",
+          "الأولوية للسلامة واستبعاد الأسباب الطبية أو السمية قبل نسبة الأعراض لاضطراب نفسي."
+        ],
+        "diagnosis": [
+          "قيّم خطر الانتحار والعنف والقدرة على اتخاذ القرار، وافحص الوعي والعلامات الحيوية وسكر الدم والمواد الدوائية عند اللزوم."
+        ],
+        "management": [
+          "وفّر بيئة آمنة ومراقبة، عالج الهياج بحذر، ونسّق تقييم الصحة النفسية أو الطب الباطني بحسب السبب والخطر."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 486,
+            "end": 512
+          }
+        }
+      ],
+      "pages": {
+        "start": 486,
+        "end": 512
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 27,
+        "contentPages": 25,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    },
+    {
+      "unitId": "rosh-2019-ch-12",
+      "title": "Hematology",
+      "source": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "highYieldSummary": [
+        "Hematology 505 I. Acute Leukemia A. Acute Lymphocytic Leukemia (ALL) Patient • Usually a child, second peak adults > 60 Presentation • Limping, bone pain, fever, lymphadenopathy Physical Exam • Hepatosplenomegaly Diagnostic Studies • Anemia, thrombocytopenia and lymphoblasts on peripheral smear Comments • Most common acute leukemia in children Clinical (More common in ALL than AML) • Bone pain • Lymphadenopathy • Hepatosplenomegaly • CNS Involvement Most common cancer in children Notes I. Acute Leukemia Hematology 506 B. Acute Myeloid Leukemia (AML) Patient • Adult Presentation • Fever, fatigue, anemia, easy bruising or bleeding, petechiae, bone and joint pain, and persistent or frequent infections Physical Exam • Hepatosplenomegaly Diagnostic Studies • Normocytic, normochromic anemia and Auer rods Clinical • Constitutional (fatigue, anorexia, weight loss, fever) • Bone pain • Lymphadenopathy Laboratory • Leukocytosis • Anemia • Thrombocytopenia Notes I. Acute Leukemia Hematology 507 II. Anemia A. Causes of Anemia Notes II. Anemia Hematology 508 Hgb: Hemoglobin ARC: Absolute reticulocyte count MCV: Mean corpuscular volume MCH: Mean corpuscular hemoglobin TS: Transferrin saturation RDW: Red cell distribution width TIBC: Total iron binding capacity B. Iron Deﬁ ciency Anemia Presentation • Weakness, dizziness, and fatigue Physical Exam • Pallor, tachycardia, atrophic glossitis, koilonychia (spoon-shaped nails) Diagnostic Studies • Microcytic, hypochromic red blood cells • Decreased serum iron level, increased total iron binding capacity (TIBC), and decreased serum ferritin levels Comments • Most common cause of anemia Clinical Symptoms • Fatigue • Weakness • Headache • Irritability • Exercise intolerance • Exertional dyspnea • Pica and ice craving Signs • Pallor • Dry or r"
+      ],
+      "diagnosis": [
+        "Diagnostic Studies • Anemia, thrombocytopenia and lymphoblasts on peripheral smear Comments • Most common acute leukemia in children Clinical (More common in ALL than AML) • Bone pain • Lymphadenopathy • Hepatosplenomegaly • CNS Involvement Most common cancer in children Notes I. Acute Leukemia Hematology 506 B. Acute Myeloid Leukemia (AML) Patient • Adult Presentation • Fever, fatigue, anemia, easy bruising or bleeding, petechiae, bone and joint pain, and persistent or frequent infections Physical Exam • Hepatosplenomegaly Diagnostic Studies • Normocytic, normochromic anemia and Auer rods Clinical • Constitutional (fatigue, anorexia, weight loss, fever) • Bone pain • Lymphadenopathy Laboratory • Leukocytosis • Anemia • Thrombocytopenia Notes I. Acute Leukemia Hematology 507 II. Anemia A. Causes of Anemia Notes II. Anemia Hematology 508 Hgb: Hemoglobin ARC: Absolute reticulocyte count MCV: Mean corpuscular volume MCH: Mean corpuscular hemoglobin TS: Transferrin saturation RDW: Red cell distribution width TIBC: Total iron binding capa"
+      ],
+      "management": [
+        "Management • Oral succimer or IV EDTA (calcium disodium edetate, given after chelating agent) Notes II. Anemia Hematology 511 Lead Poisoning cont. Notes II. Anemia Hematology 512 E. Megaloblastic Anemia Pathophysiology • Most commonly caused by vitamin B12 (cobalamin) or folate deﬁ ciency Patient • Vegan or alcoholic Presentation • Fatigue, weakness Physical Exam • Pallor, glossitis Diagnostic Studies • MCV > 100 and hypersegmented neutrophils Management • Supplement deﬁ cient vitamins, usually IM loading then PO Comments • Only vitamin B12 deﬁ ciency results in neurological symptoms Notes II. Anemia Hematology 513 F. Vitamin B12 Deﬁ ciency Clinical • Symmetric peripheral neuropathy • Ataxia • Personality changes • Dementia • Glossitis, vaginal atrophy, malabsportion Notes II. Anemia Hematology 514 G. Anemia of Chronic Disease Presentation • Fatigue Diagnostic Studies • Normocytic anemia, low serum iron, high or normal ferritin Notes II. Anemia Hematology © 2019 Rosh Review LLC. All ri"
+      ],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الترجمة العربية للملخص:\n\nيراجع الفصل الابيضاضات وفقر الدم واضطرابات النزف والتخثر والمشكلات الدموية التي تظهر إسعافيًا.\n\nقد يظهر الابيضاض الحاد بألم العظام والحمى وكثرة العقد أو تضخم الكبد والطحال مع فقر دم ونقص صفائح.\n\nالتشخيص والتقييم:\n\nاعتمد على القصة والفحص وتعداد الدم واللطاخة عند الاشتباه. قيّم النزف والعدوى والصدمة وانحلال الدم ودرجة نقص الصفائح.\n\nالتدبير:\n\nيبدأ التدبير بتثبيت النزف أو العدوى أو عدم الاستقرار، مع استشارة أمراض الدم وترتيب الرعاية المتخصصة بدل الاعتماد على التشخيص المخبري وحده.\n\nشرح مبسط لفهم الموضوع:\n\nالمريض الدموي قد يصل بسبب نزف أو حمى أو ألم عظم، وليس بسبب اسم المرض المعروف مسبقًا.\n\nتعداد الدم يعطي اتجاهًا، لكن اللطاخة والقصة والفحص تحدد الحاجة إلى تدخل عاجل.\n\nلا تُستخدم أي عتبات نقل أو أدوية من هذا الملخص دون مراجعة بروتوكول حديث.",
+      "arabicExplanationStatus": "bilingual-draft",
+      "arabicTranslation": {
+        "summary": [
+          "يراجع الفصل الابيضاضات وفقر الدم واضطرابات النزف والتخثر والمشكلات الدموية التي تظهر إسعافيًا.",
+          "قد يظهر الابيضاض الحاد بألم العظام والحمى وكثرة العقد أو تضخم الكبد والطحال مع فقر دم ونقص صفائح."
+        ],
+        "diagnosis": [
+          "اعتمد على القصة والفحص وتعداد الدم واللطاخة عند الاشتباه. قيّم النزف والعدوى والصدمة وانحلال الدم ودرجة نقص الصفائح."
+        ],
+        "management": [
+          "يبدأ التدبير بتثبيت النزف أو العدوى أو عدم الاستقرار، مع استشارة أمراض الدم وترتيب الرعاية المتخصصة بدل الاعتماد على التشخيص المخبري وحده."
+        ]
+      },
+      "references": [
+        {
+          "source": "Emergency Medicine Rotation Exam - Rapid Review",
+          "edition": 1,
+          "pages": {
+            "start": 513,
+            "end": 555
+          }
+        }
+      ],
+      "pages": {
+        "start": 513,
+        "end": 555
+      },
+      "provenance": {
+        "sourceId": "rosh-rotation-2019",
+        "sourceSha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+        "extractedPages": 43,
+        "contentPages": 41,
+        "excludedChapterFrontMatter": 2
+      },
+      "reviewStatus": "UNDER_REVIEW",
+      "clinicalReview": "pending"
+    }
+  ],
+  "editorialNote": "Chapter boundaries are supplied by the source intake manifest. Front matter pages 1–10 are excluded from summaries; copyright and repeated running headers are removed from excerpts."
+}

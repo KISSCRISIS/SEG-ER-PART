@@ -1,0 +1,11 @@
+{
+  "appId": "org.seg.resident.desktop",
+  "productName": "SEG Resident",
+  "asar": true,
+  "directories": { "output": "release-new" },
+  "extraMetadata": { "main": "desktop/main.mjs" },
+  "files": ["desktop/main.mjs", "scripts/start-production.mjs", "dist/**/*", "package.json", "!**/.env", "!**/*.map"],
+  "extraResources": [{ "from": "SEG_CONTENT_LIBRARY", "to": "SEG_CONTENT_LIBRARY", "filter": ["01_RECOVERY_SOURCE_ARTIFACTS/**/*", "02_PROCESSED_CONTENT/**/*"] }],
+  "win": { "target": ["dir", "nsis"], "icon": "build/icon.ico", "signAndEditExecutable": false },
+  "nsis": { "oneClick": false, "perMachine": false, "allowToChangeInstallationDirectory": true, "createDesktopShortcut": true, "createStartMenuShortcut": true, "deleteAppDataOnUninstall": false }
+}

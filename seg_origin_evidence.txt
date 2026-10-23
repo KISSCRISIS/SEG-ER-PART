@@ -1,0 +1,44 @@
+
+--- 02_Internship/Drug_Essentials/drug_essentials_intern_level_v2.md ---
+9:**Content type:** Source-informed synthesis, not copied text
+23:Source-informed synthesis from Tintinalliâ€™s Emergency Medicine Examination and Board Review, Rosenâ€™s Emergency Medicine Q&A, Rosh Rapid Review, SEG safety rules, and general medication safety principles. This page is not a dosing reference and does not replace hospital protocols or pharmacist/senior review.
+442:This content is an original SEG educational synthesis. It uses the uploaded emergency medicine sources only as conceptual study references. It does not reproduce copyrighted questions, tables, or explanations verbatim.
+
+--- 02_Internship/Drug_Essentials/implementation_notes.md ---
+54:Use as conceptual source-informed references only. Do not copy copyrighted wording or questions.
+
+--- 02_Internship/Drug_Essentials/README.txt ---
+3:This package contains a complete prepared Markdown content file for the SEG project.
+
+--- 02_Internship/Drug_Essentials_v2_Pack/drug_essentials_intern_level_v2.md ---
+9:**Content type:** Source-informed synthesis, not copied text
+23:Source-informed synthesis from Tintinalli’s Emergency Medicine Examination and Board Review, Rosen’s Emergency Medicine Q&A, Rosh Rapid Review, SEG safety rules, and general medication safety principles. This page is not a dosing reference and does not replace hospital protocols or pharmacist/senior review.
+442:This content is an original SEG educational synthesis. It uses the uploaded emergency medicine sources only as conceptual study references. It does not reproduce copyrighted questions, tables, or explanations verbatim.
+
+--- 02_Internship/Drug_Essentials_v2_Pack/implementation_notes.md ---
+54:Use as conceptual source-informed references only. Do not copy copyrighted wording or questions.
+
+--- 02_Internship/Drug_Essentials_v2_Pack/README.txt ---
+3:This package contains a complete prepared Markdown content file for the SEG project.
+
+--- 02_Internship/Emergency_Cases/emergency_cases_intern_level.md ---
+9:**Content type:** Source-informed synthesis, not copied text
+26:Source-informed synthesis from Tintinalliâ€™s Emergency Medicine Examination and Board Review, Rosenâ€™s Emergency Medicine Q&A, Rosh Rapid Review, SEG safety rules, and high-yield emergency medicine patterns. This page is not a protocol, not a diagnostic tool, and not a substitute for senior review.
+736:This content is an original SEG educational synthesis. It uses uploaded emergency medicine sources only as conceptual study references. It does not reproduce copyrighted questions, tables, or explanations verbatim.
+
+--- 02_Internship/Emergency_Cases/implementation_notes.md ---
+62:Use as conceptual source-informed references only. Do not copy copyrighted wording or questions.
+
+--- 02_Internship/Emergency_Cases/README.txt ---
+3:This package contains complete prepared Markdown content for the SEG project.
+
+--- 02_Internship/Emergency_Cases_v2_Pack/emergency_cases_intern_level.md ---
+9:**Content type:** Source-informed synthesis, not copied text
+26:Source-informed synthesis from Tintinalli’s Emergency Medicine Examination and Board Review, Rosen’s Emergency Medicine Q&A, Rosh Rapid Review, SEG safety rules, and high-yield emergency medicine patterns. This page is not a protocol, not a diagnostic tool, and not a substitute for senior review.
+736:This content is an original SEG educational synthesis. It uses uploaded emergency medicine sources only as conceptual study references. It does not reproduce copyrighted questions, tables, or explanations verbatim.
+
+--- 02_Internship/Emergency_Cases_v2_Pack/implementation_notes.md ---
+62:Use as conceptual source-informed references only. Do not copy copyrighted wording or questions.
+
+--- 02_Internship/Emergency_Cases_v2_Pack/README.txt ---
+3:This package contains complete prepared Markdown content for the SEG project.

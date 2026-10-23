@@ -1,0 +1,2008 @@
+[
+  {
+    "referenceId": "tint_c1_t1",
+    "topic": "EMTALA and Interfacility Transfer",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ قانون EMTALA بيحمي المريض من النقل قبل الاستقرار. وين الفخ؟ الطبيب اللي بيبعت المريض هو اللي بيتحمل المسؤولية القانونية وقت النقل. كيف أستخدمها بالامتحان؟ المسؤولية تقع على عاتق المستشفى المرسِل."
+  },
+  {
+    "referenceId": "tint_c1_t3",
+    "topic": "Blast Injury Pathophysiology",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ إصابات الانفجار بتقسم لدرجات. وين الفخ؟ إصابة الرئة هي القاتل الأول بالأولية، بس طبلة الأذن مش مقياس دقيق لإصابات الصدر والبطن. كيف أستخدمها بالامتحان؟ الرئة هي أهم عضو في الـ Primary blast."
+  },
+  {
+    "referenceId": "tint_c5_t1",
+    "topic": "TIMI Risk Score",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ سكور TIMI لتقييم خطورة مرضى جلطات القلب. وين الفخ؟ إنه ما بيعتمد على قصة المريض السريرية (History) زي الـ HEART score. كيف أستخدمها بالامتحان؟ ركز بالأرقام: العمر فوق 65، واستخدام الأسبرين آخر أسبوع."
+  },
+  {
+    "referenceId": "tint_c6_t1",
+    "topic": "Klebsiella Pneumonia",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ التهاب رئوي حاد عند مرضى الكحول. وين الفخ؟ البلغم بكون لونه زي 'مربى التوت' (Currant jelly). كيف أستخدمها بالامتحان؟ لو شفت مريض كحولي وعنده (Bulging fissure sign) بالأشعة، الجواب هو كليبسيلا."
+  },
+  {
+    "referenceId": "tint_c10_t1",
+    "topic": "Pediatric Airway Sizing",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ مقاسات أنابيب التنفس للأطفال حسب العمر. وين الفخ؟ زمان كانوا يفضلوا الـ Uncuffed للصغار، بس حالياً الـ Cuffed هو المفضل. كيف أستخدمها بالامتحان؟ احفظ المقاسات لكل فئة عمرية بدقة."
+  },
+  {
+    "referenceId": "tint_c10_t2",
+    "topic": "Pediatric Head Trauma Rules (PECARN)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ متى أطلب صورة طبقية (CT) لرأس الطفل بعد الوقعة؟ وين الفخ؟ الضربة ع الجبهة (Frontal) مش خطيرة، بس الضربة من الجنب أو ورا هي اللي بتخوف. كيف أستخدمها بالامتحان؟ طبق قواعد PECARN لتجنب الأشعة الزائدة."
+  },
+  {
+    "referenceId": "tint_c11_t1",
+    "topic": "Disseminated Gonococcal Infection (DGI)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ مريض شاب عنده وجع مفاصل وطفح جلدي حبوب (Pustules). وين الفخ؟ التشخيص بيعتمد على مكان الحبوب (Acral) والقصة الجنسية. كيف أستخدمها؟ لو شفت حبوب ع الأطراف مع وجع مفاصل، فكر بـ DGI."
+  },
+  {
+    "referenceId": "tint_c11_t2",
+    "topic": "Toxic Shock Syndrome (TSS)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تسمم بكتيري بيعمل هبوط ضغط وطفح جلدي زي حرق الشمس. وين الفخ؟ الطفح في الـ Staph بيكون مش مؤلم، بس في الـ Strep بيكون فيه وجع شديد. كيف أستخدمها؟ دور على سدادة أنف أو (tampon) منسي."
+  },
+  {
+    "referenceId": "tint_c11_t3",
+    "topic": "Tetanus Management",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ التيتانوس بيعمل تشنجات عضلية قاتلة. وين الفخ؟ لازم تعطي المضاد (TIG) 'قبل' ما تنظف الجرح عشان ما تطلع السموم زيادة. كيف أستخدمها؟ ترتيب الخطوات مهم جداً في السؤال: TIG أولاً."
+  },
+  {
+    "referenceId": "tint_c12_t1",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ ضغط عالي جوا الدماغ بدون سبب واضح، بيجي للستات البدينات. وين الفخ؟ أهم خطر هو فقدان البصر الدائم. كيف أستخدمها؟ لو مريضة بدينة عندها وجع رأس وغباش رؤية، الـ LP هو الحل للتشخيص."
+  },
+  {
+    "referenceId": "tint_c12_t2",
+    "topic": "Status Epilepticus",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تشنج مستمر أكتر من 5 دقائق. وين الفخ؟ التعريف القديم (30 دقيقة) ما عاد ينفع للامتحان. كيف أستخدمها؟ الخطوة الأولى دايماً بنزو (Lorazepam) وإذا ما نفع، بنروح للخطوة التانية."
+  },
+  {
+    "referenceId": "tint_c13_t1",
+    "topic": "Caustic Ingestions (Acid vs Alkali)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ بلع مواد كاوية (حمض أو قلوي). وين الفخ؟ ممنوع تعطي مية أو حليب عشان تعادل المادة (Neutralization) لأنها بتعمل حرارة وبتحرق الأنسجة زيادة. كيف أستخدمها؟ الخطوة الصح هي المنظار (Endoscopy)."
+  },
+  {
+    "referenceId": "tint_c13_t2",
+    "topic": "Methemoglobinemia",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ المريض بصير لونه أزرق ودمه لونه زي الشوكولاتة. وين الفخ؟ الأكسجين ما برفع التشبع (O2 sat) بضل بحدود الـ 85%. كيف أستخدمها؟ لو طفل استعمل جل أسنان (Benzocaine) وصار أزرق، العلاج (Methylene Blue)."
+  },
+  {
+    "referenceId": "tint_c14_t1",
+    "topic": "Frostbite Management",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تجمد الأطراف. وين الفخ؟ إياك تشيل الجلد الميت (Debridement) في الطوارئ؛ استنى أسابيع لتبين الحدود. كيف أستخدمها؟ العلاج الأساسي تدفئة سريعة بمية دافية (مش حامية كتير)."
+  },
+  {
+    "referenceId": "tint_c14_t2",
+    "topic": "Carbon Monoxide (CO) Poisoning",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تسمم غاز أول أكسيد الكربون. وين الفخ؟ جهاز الـ (Pulse oximetry) العادي بكون طبيعي رغم إن المريض مخنوق. كيف أستخدمها؟ احفظ أرقام الـ (HBO): أكتر من 15 للحامل وأكتر من 25 للباقي."
+  },
+  {
+    "referenceId": "tint_c15_t1",
+    "topic": "Diabetic Ketoacidosis (DKA) Management",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ حموضة الدم لمرضى السكر. وين الفخ؟ أهم شي البوتاسيوم. إذا البوتاسيوم واطي وبدأت (Insulin)، المريض ممكن يموت فوراً. كيف أستخدمها؟ تأكد من البوتاسيوم قبل ما تشغل مضخة الإنسولين."
+  },
+  {
+    "referenceId": "tint_c15_t2",
+    "topic": "Adrenal Crisis",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ فشل الغدة الكظرية، بكون المريض عنده هبوط ضغط ما بتحسن بالسوائل. وين الفخ؟ فكر فيها دايماً لو مريض بياخد كورتيزون ووقفه فجأة. كيف أستخدمها؟ العلاج هو (Hydrocortisone) 100 ملغ وريد فوراً."
+  },
+  {
+    "referenceId": "tint_c16_t1",
+    "topic": "Immune Thrombocytopenic Purpura (ITP)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تكسر صفائح مناعي. وين الفخ؟ المريض بكون (Well-appearing) وما عنده تضخم طحال. كيف أستخدمها؟ لو الصفائح تحت الـ 30 ألف، ابدأ كورتيزون. نقل الصفائح بس للحالات الخطيرة جداً."
+  },
+  {
+    "referenceId": "tint_c17_t1",
+    "topic": "Retinal Detachment",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ انفصال الشبكية. وين الفخ؟ المريض بحس ببرق (Flashers) أو ستارة سودة نزلت على عينه. كيف أستخدمها؟ بالسونار بتشوف خط أبيض طاير جوا العين بس لساته ماسك في العصب البصري."
+  },
+  {
+    "referenceId": "tint_c17_t2",
+    "topic": "Tracheoinnominate Artery Fistula",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ ناسور بين القصبة الهوائية وشريان كبير، بيعمل نزيف مرعب. وين الفخ؟ النزيف الصغير اللي بسبق الانفجار (Sentinel bleed) هو التحذير الأخير. كيف أستخدمها؟ انفخ الـ (Cuff) ع الآخر عشان تضغط الشريان وتوقف النزيف."
+  },
+  {
+    "referenceId": "tint_c18_t1",
+    "topic": "Erythema Multiforme (EM) and SJS/TEN",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ حساسية جلدية شديدة للأدوية. وين الفخ؟ الـ SJS والـ TEN هم نفس المرض بس الفرق بالمساحة اللي بتقشر. كيف أستخدمها؟ دور على علامة (Nikolsky) - إذا الجلد بفتح بالإيد، المريض في خطر ولازم يروح مركز حروق."
+  },
+  {
+    "referenceId": "tint_c19_t1",
+    "topic": "Pregnancy in Trauma",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ حادث لمريضة حامل. وين الفخ؟ أهم حركة هي إنك تميل المريضة لليسار 30 درجة عشان الرحم ما يضغط على الوريد الأجوف. كيف أستخدمها؟ تذكر إن السونار ما بنفي انفصال المشيمة، المراقبة بالجهاز (CTG) هي الأساس."
+  },
+  {
+    "referenceId": "tint_c19_t2",
+    "topic": "NEXUS Rules for Chest Imaging",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ متى أطلب صورة أشعة للصدر في الحوادث؟ وين الفخ؟ إذا عمر المريض فوق الـ 60، القواعد هاي ما بتنفع ولازم تطلب صورة. كيف أستخدمها؟ طبق الشروط، إذا واحد منهم موجود، اطلب الصورة."
+  },
+  {
+    "referenceId": "tint_c20_t1",
+    "topic": "Ottawa Knee Rules",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ متى أطلب صورة للركبة؟ وين الفخ؟ انتبه لموضوع الـ (fibula head) والقدرة على المشي 4 خطوات. كيف أستخدمها؟ إذا المريض ما بقدر يمشي أو عمره فوق 55، الصورة ضرورية."
+  },
+  {
+    "referenceId": "tint_c20_t2",
+    "topic": "Compartment Syndrome",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ ضغط عالي جوا العضلات بيقطع عنها التروية. وين الفخ؟ دايماً الطلاب بفكروا إن غياب النبض هو العلامة الأساسية، بس الحقيقة إنه 'الوجع مع شد العضلة' هو أدق علامة. كيف أستخدمها؟ لا تستنى النبض ليختفي، شخصها بدري."
+  },
+  {
+    "referenceId": "tint_c21_t1",
+    "topic": "Sciatica and Herniated Nucleus Pulposus (HNP)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ وجع ظهر نازل ع الرجل (Radiculopathy). وين الفخ؟ مش دايماً بدها MRI؛ العلاج الأولي دايماً هو مسكنات (NSAIDs). كيف أستخدمها؟ لو المريض ما عنده علامات (Cauda Equina)، ارفض الـ MRI."
+  },
+  {
+    "referenceId": "tint_c21_t2",
+    "topic": "Psoas Abscess",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ خراج في العضلة خلف الأمعاء (Psoas). وين الفخ؟ المريض بيجي بوجع ورك بس المشكلة مش بالورك نفسه. كيف أستخدمها؟ دور على وجع لما تمد الورك لورا (Extension) ومريض عنده حرارة وسكري."
+  },
+  {
+    "referenceId": "tint_c21_t3",
+    "topic": "Septic Arthritis in Immunocompromised Patients",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ التهاب مفصل بكتيري. وين الفخ؟ مريض المناعة الضعيفة (زي مريض الـ HIV) ممكن ما يكون عنده خلايا دم بيضاء عالية بالمفصل. كيف أستخدمها؟ لا تعتمد بس على فحص السائل إذا المريض تعبان وعنده مناعة ضعيفة، ابدأ مضادات حيوية فوراً."
+  },
+  {
+    "referenceId": "tint_c22_t1",
+    "topic": "Suicide Risk Assessment",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تقييم خطر الانتحار. وين الفخ؟ الرجال الكبار بالعمر اللي فقدوا زوجاتهم وعندهم سلاح هم الأكثر عرضة للانتحار الفعلي. كيف أستخدمها؟ لو المريض عنده 'خطة' (Plan)، لازم يدخل المستشفى رغماً عنه (Involuntary)."
+  },
+  {
+    "referenceId": "tint_c22_t2",
+    "topic": "Acute Dystonic Reactions",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تشنج عضلي غريب بسبب دواء (زي الهالدول). وين الفخ؟ ممكن تكون بسبب أدوية الاستفراغ (Metoclopramide) مش بس أدوية النفسية. كيف أستخدمها؟ العلاج هو (Diphenhydramine) أو (Benztropine) وريد والتحسن بكون سحري وسريع."
+  },
+  {
+    "referenceId": "tint_c22_t3",
+    "topic": "Eating Disorders (Bulimia Nervosa)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ اضطراب الأكل (تطريش متعمد). وين الفخ؟ المريض ممكن يكون وزنه طبيعي بس عنده تآكل في الأسنان وجروح في مفاصل الإيد (Russell sign). كيف أستخدمها؟ الـ ECG مهم جداً عشان نشوف تأثير نقص البوتاسيوم (Prolonged QTc)."
+  },
+  {
+    "referenceId": "tint_c23_t1",
+    "topic": "Intimate Partner Violence (IPV)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ عنف أسري. وين الفخ؟ لو المريضة حامل وعندها كدمات على البطن أو الصدر، هاي علامة حمراء للعنف. كيف أستخدمها؟ لازم تفحص المريضة لحالها وتوثق الإصابات بدقة بدون إصدار أحكام."
+  },
+  {
+    "referenceId": "tint_c23_t2",
+    "topic": "Elder Abuse",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ إساءة معاملة كبار السن. وين الفخ؟ غالباً اللي بيأذي هو الشخص اللي بيهتم فيه (الابن أو البنت). كيف أستخدمها؟ لو شفت كدمات أو المريض محروم من أدويته أو فلوسه بتنسرق، لازم تبلغ الجهات المعنية."
+  },
+  {
+    "referenceId": "tint_c24_t1",
+    "topic": "Febrile IV Drug User (IVDU) and TB Isolation",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ مريض مدمن (IVDU) وعنده حرارة وصورة الأشعة فيها فتحات بالرئة (Cavitary). وين الفخ؟ الـ PPD السالب القديم ما بنفي السل (TB). كيف أستخدمها؟ الخطوة الأولى والأساسية هي عزله في غرفة ضغط سالب (Isolation) لحماية المستشفى."
+  },
+  {
+    "referenceId": "tint_c24_t2",
+    "topic": "Consent and the Mature Minor Doctrine",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ هل الطفل بقدر يقرر علاجه؟ وين الفخ؟ المراهق فوق الـ 14 اللي فاهم شو بيعمل ممكن يعطي موافقة بدون أهله (Mature Minor). كيف أستخدمها؟ لو المريض متزوج أو بالجيش، بيعتبر (Emancipated) وله كامل الحقوق زي الكبير."
+  },
+  {
+    "referenceId": "tint_c24_t3",
+    "topic": "Tactical Combat Casualty Care (TCCC)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ طب الحروب. وين الفخ؟ الترتيب هون مش ABC، الترتيب هو وقف النزيف (Tourniquet) أولاً. كيف أستخدمها؟ تحت النار، ما بنعمل إنعاش قلبي (CPR) لأنه ما بنفع في هاي الحالات."
+  },
+  {
+    "referenceId": "tint_c25_t1",
+    "topic": "Cardiac Tamponade POCUS",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تشخيص اندحاس القلب بالسونار. وين الفخ؟ أهم علامة هي انكماش البطين الأيمن (RV) وقت الـ (Diastole). كيف أستخدمها؟ لو الـ IVC كبير وما بتغير مع النفس (Plethoric)، والبطين منكمش، هي حالة طارئة."
+  },
+  {
+    "referenceId": "tint_c25_t2",
+    "topic": "Pneumothorax POCUS (M-Mode)",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ تشخيص هواء الصدر بالسونار (M-mode). وين الفخ؟ العلامة الطبيعية هي 'شط البحر' (Sandy Beach). كيف أستخدمها؟ لو شفت بس خطوط (Barcode Sign)، يعني في هواء فاصل بين الرئة والجدار."
+  },
+  {
+    "referenceId": "tint_c25_t3",
+    "topic": "Abdominal Aortic Aneurysm (AAA) POCUS",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ قياس توسع الشريان الأورطي (AAA). وين الفخ؟ لازم تقيس من جدار الجدار الخارجي. لو في تجلط (Thrombus)، لا تقيس بس الجزء الأسود، لأنك رح تطلع القياس غلط."
+  },
+  {
+    "referenceId": "tint_c25_t4",
+    "topic": "Retinal Detachment POCUS",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ انفصال الشبكية بالسونار. وين الفخ؟ الشبكية دايماً بضل 'مربوطة' بالعصب البصري (Optic Disc). كيف أستخدمها؟ لو شفت غشاء بيتحرك بس ماسك في نقطة العصب، هي شبكية. لو بيتحرك بحرية، غالباً نزيف (Vitreous Hemorrhage)."
+  },
+  {
+    "referenceId": "tint_c25_t5",
+    "topic": "POCUS for Aortic Dissection Limitations",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ هل السونار بنفي تمزق الأورطي (Dissection)؟ وين الفخ؟ الجواب (لا) قطعية. السونار دقته ضعيفة جداً في هذا المرض. كيف أستخدمها؟ لو السونار طبيعي والمريض عنده وجع صدر 'مزيق'، اطلب (CTA) فوراً."
+  },
+  {
+    "referenceId": "tint_ce1_t1",
+    "topic": "Scope and Principles of GEM",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ الطب الطارئ العالمي بركز على حل المشكلة حسب شكوى المريض مش بس التشخيص. وين الفخ؟ الشغل الإنساني (فزعة) بختلف عن شغل التطوير (بناء نظام). كيف أستخدمها؟ تذكر إنه GEM شامل لكل الأعمار والحالات."
+  },
+  {
+    "referenceId": "tint_ce4_t1",
+    "topic": "Geriatric Emergency Department (GED) Guidelines",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ توصيات خاصة لكبار السن بالطوارئ. وين الفخ؟ تقييم 'المعالج الفيزيائي' بالذات بقلل احتمالية وقوع المريض مرة تانية خلال شهر. كيف أستخدمها؟ لو سألك عن شيء بقلل تكرار الزيارات بعد الوقوع، الجواب (Physical Therapy)."
+  },
+  {
+    "referenceId": "tint_ce11_t1",
+    "topic": "Gunshot Wound (GSW) Documentation",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ توثيق جروح الرصاص. وين الفخ؟ ممنوع تكتب 'مدخل' أو 'مخرج' (Entrance/Exit) بالتقرير الطبي. كيف أستخدمها؟ بس أوصف الجرح (مكان، قطر، حروق حوله) واترك التفسير للطب الشرعي."
+  },
+  {
+    "referenceId": "tint_ce12_t1",
+    "topic": "Interfacility Transport of STEMI",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ نقل مرضى الجلطة بالهليكوبتر. وين الفخ؟ حركة (Hot loading) إنك تحمل المريض والمحركات شغالة بتوفر وقت ثمين جداً. كيف أستخدمها؟ أي تأخير في الـ (DIDO) لأكثر من 30 دقيقة هو مؤشر جودة سيء."
+  },
+  {
+    "referenceId": "tint_ce14_t1",
+    "topic": "SAVE Triage Guidelines",
+    "source": "Tintinalli",
+    "explanation": "شو الفكرة؟ ترياج (SAVE) في الكوارث الكبيرة. وين الفخ؟ هون القرار بيعتمد على 'مين اللي رح يعيش لو استهلكنا عليه مواردنا'، مش مين اللي حالته أخطر. كيف أستخدمها؟ لو السؤال عن كارثة مطولة وما في إخلاء، استعمل SAVE."
+  },
+  {
+    "referenceId": "rosen_c2_t1",
+    "topic": "Lung-Protective Ventilation in the ED",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ استعمل أحجام هواء صغيرة (Tidal volume) للمريض على المنفسة حتى لو ما عنده ARDS. وين الفخ؟ التأخير لبعد النقل للعناية بزيد الوفيات. كيف أستخدمها؟ لو سألك عن أحسن طريقة لتقليل مضاعفات الرئة، الجواب (Lung-protective ventilation)."
+  },
+  {
+    "referenceId": "rosen_c2_t2",
+    "topic": "Sepsis-3 Definitions",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ تعريف السيبسيس الجديد بيعتمد على فشل الأعضاء (SOFA). وين الفخ؟ الـ SIRS (زي الحرارة والنبض) ما عادت هي الأساس في التعريف الجديد. كيف أستخدمها؟ الـ qSOFA هو الأداة السريعة بالطوارئ لتقييم خطر الوفاة."
+  },
+  {
+    "referenceId": "rosen_c3_t1",
+    "topic": "Cardiogenic Shock and Fluids",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض جلطة وضغطه واطي وعنده سوائل ع الرئة. وين الفخ؟ إياك تعطيه سوائل (Crystalloids). كيف أستخدمها؟ العلاج الأول للضغط هون هو Norepinephrine مع ترتيب القسطرة فوراً."
+  },
+  {
+    "referenceId": "rosen_c3_t2",
+    "topic": "Balanced Crystalloids vs. Normal Saline",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ الـ LR أحسن من الـ Saline في حالات الصدمة الإنتانية. وين الفخ؟ السينلاين بكميات كبيرة بيعمل حموضة بالدم (Hyperchloremic acidosis) وممكن يضرب الكلى. كيف أستخدمها؟ دايماً اختار Balanced crystalloids لو الخيار موجود."
+  },
+  {
+    "referenceId": "rosen_c4_t1",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض رجع قلبه بس لساته بغيبوبة. وين الفخ؟ ممنوع تحكم عليه إنه ميت دماغياً قبل مرور 72 ساعة. كيف أستخدمها؟ الـ TTM ضروري لكل المرضى اللي ما بصحصحوا بعد الإنعاش، وابعد عن تبريد المريض بالسوائل الباردة قبل ما يوصل المستشفى."
+  },
+  {
+    "referenceId": "rosen_c6_t1",
+    "topic": "Pain Transmission and Assessment",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ كيف بنقيس الوجع؟ وين الفخ؟ لا تعتمد على النبض أو الضغط لتعرف إذا المريض بيتوجع. كيف أستخدمها؟ كلام المريض هو المرجع الأول (Gold standard). معلومة للامتحان: وجع القلب بينتقل عن طريق الجهاز السمبثاوي."
+  },
+  {
+    "referenceId": "rosen_c7_t1",
+    "topic": "Ketamine Complications and Contraindications",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مخاطر الكيتامين. وين الفخ؟ الكيتامين بيرفع ضغط العين، فممنوع لو المريض عنده إصابة 'عين مفتوحة'. كيف أستخدمها؟ لو المريض طفل وصار عنده (Laryngospasm)، بكون غالباً بسبب التهاب تنفسي حالي أو عمره أقل من 3 شهور."
+  },
+  {
+    "referenceId": "rosen_c9_t1",
+    "topic": "Botulism Pathophysiology",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ تسمم الوشيق (Botulism). وين الفخ؟ المريض بكون عنده أعراض (Autonomic) زي نشاف ريق واحتباس بول، وهاد اللي بيميزه عن الوهن العضلي الوبيل (Myasthenia). كيف أستخدمها؟ لو شفت شلل نازل (Descending) مع أعراض ناشفة، فكر بالبوتولزم."
+  },
+  {
+    "referenceId": "rosen_c10_t1",
+    "topic": "Methemoglobinemia Clinical Presentation",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ الدم المصدأ (Methemoglobinemia). وين الفخ؟ المريض لونه أزرق بس الأكسجين بالدم (ABG) طبيعي، والتشبع (O2 sat) بكون ثابت عند 85%. كيف أستخدمها؟ لو طفل استعمل جل أسنان وصار أزرق، ابحث عن 'دم بلون الشوكولاتة' والعلاج (Methylene Blue)."
+  },
+  {
+    "referenceId": "rosen_c14_t1",
+    "topic": "Eclamptic Seizures Management",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ تشنجات الحامل (Eclampsia). وين الفخ؟ لا تبدأ بالأدوية العادية زي الـ Valproate، الحل الأول دايماً هو (Magnesium Sulfate). كيف أستخدمها؟ 4 لـ 6 غرام وريد هي الخطوة الأولى، وصورة الأشعة بس لو المريض ما صحي بعد التشنج."
+  },
+  {
+    "referenceId": "rosen_c22_t1",
+    "topic": "Tension Pneumothorax and Ventilation",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ هواء الصدر الضاغط. وين الفخ؟ لو المريض على المنفسة وفجأة صار صعب تضغط البالون (Resistance)، هاد دليل قوي على (Tension). كيف أستخدمها؟ التشخيص إكلينيكي والحل إبرة فوراً قبل حتى صورة الأشعة."
+  },
+  {
+    "referenceId": "rosen_c25_t1",
+    "topic": "Gastric Outlet Obstruction",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ انسداد مخرج المعدة (GOO). وين الفخ؟ العلامة المميزة جداً هي إن المريض بيستفرغ أكل أكله قبل أكتر من 12 ساعة ولساته زي ما هو. كيف أستخدمها؟ هاد العرض بيشخص الانسداد فوراً ولازم تركب NG tube وتدور على السبب (زي قرحة أو ورم)."
+  },
+  {
+    "referenceId": "rosen_c28_t1",
+    "topic": "Fecal Impaction and Diarrhea",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ الإسهال الكاذب (Overflow diarrhea). وين الفخ؟ المريض الكبير بالعمر ممكن يجي بإسهال وهو بالأصل عنده 'تسكيرة' براز (Impaction). كيف أستخدمها؟ الفحص الشرجي (Rectal exam) ضروري جداً لهيك حالات قبل ما توصف أدوية إسهال وتزيد المشكلة."
+  },
+  {
+    "referenceId": "rosen_c30_t1",
+    "topic": "Initial Evaluation of Vaginal Bleeding",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريضة عندها نزيف مهبلي. وين الفخ؟ أهم وأول خطوة بعد التأكد من الضغط هي 'فحص الحمل'. كيف أستخدمها؟ النتيجة بتغير كل مسار العلاج والفحوصات، فلا تطلب سونار قبل ما تعرف هي حامل أو لأ."
+  },
+  {
+    "referenceId": "rosen_c32_t1",
+    "topic": "Pediatric Trauma Anatomy and Physiology",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ جسم الطفل صغير فالحوادث بتضرب أكتر من جهاز مع بعض. وين الفخ؟ الطفل بضل ضغطه طبيعي لآخر لحظة وبعدين بينهار. كيف أستخدمها؟ اعتمد ع النبض مش الضغط للتشخيص."
+  },
+  {
+    "referenceId": "rosen_c32_t2",
+    "topic": "Primary Survey Priorities",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ ترتيب الأولويات في الحوادث. وين الفخ؟ قصة المريض (AMPLE) مكانها بالـ Secondary survey مش بالبداية. كيف أستخدمها؟ دايماً صلّح المشكلة اللي بتلاقيها قبل ما تكمل الفحص."
+  },
+  {
+    "referenceId": "rosen_c34_t1",
+    "topic": "Septal Hematoma",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ تجمع دموي في حاجز الأنف. وين الفخ؟ لو ما فرغته بسرعة، الغضروف بموت وبصير شكل الأنف مشوه (Saddle nose). كيف أستخدمها؟ أي مريض مضروب ع أنفه لازم تفحصه من جوا بدقة."
+  },
+  {
+    "referenceId": "rosen_c36_t1",
+    "topic": "Penetrating Neck Trauma (No-Zone Approach)",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ طعنات الرقبة. وين الفخ؟ بطلنا نعتمد ع الـ Zones؛ المهم هو الفحص السريري وصورة الـ CTA. كيف أستخدمها؟ لو في 'علامات قوية' (Hard signs) زي نزيف نبضي، المريض بروح العمليات فوراً."
+  },
+  {
+    "referenceId": "rosen_c37_t1",
+    "topic": "Tension Pneumothorax in Intubated Patients",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ هواء الصدر الضاغط. وين الفخ؟ لو المريض مركبله أنبوبة وفجأة صار صعب تنفخ البالون (Resistance)، هاد Tension فوراً. كيف أستخدمها؟ الحل إبرة (Decompression) قبل الأشعة."
+  },
+  {
+    "referenceId": "rosen_c38_t1",
+    "topic": "Unstable Pelvic Fracture and FAST",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ كسر الحوض مع هبوط ضغط. وين الفخ؟ لو السونار (FAST) فيه سوائل، المريض بروح العمليات (OR). لو السونار نظيف والمريض لساته هابط، غالباً النزيف خلف الأمعاء ولازم يروح القسطرة (IR)."
+  },
+  {
+    "referenceId": "rosen_c46_t1",
+    "topic": "Urethral Injury Evaluation",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ إصابة الإحليل. وين الفخ؟ لو شفت دم ع الفتحة، ممنوع تركب قسطرة (Foley). كيف أستخدمها؟ الخطوة الأولى هي صورة ملونة (Retrograde urethrogram) للتأكد من سلامة المجرى."
+  },
+  {
+    "referenceId": "rosen_c51_t1",
+    "topic": "Seidel Test and Open Globe",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ فحص إصابات العين المخترقة. وين الفخ؟ لو الـ (Seidel test) إيجابي يعني العين 'مفتوحة'؛ هون ممنوع تفحص ضغط العين بالـ (Tonometer). كيف أستخدمها؟ بس غطي العين بـ (Shield) واتصل بالأخصائي."
+  },
+  {
+    "referenceId": "rosen_c56_t1",
+    "topic": "Alveolar Osteitis (Dry Socket)",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ وجع بعد خلع الضرس بيومين لـ 4 أيام. وين الفخ؟ هاد مش التهاب بكتيري فما بيحتاج مضاد حيوي (Antibiotics). كيف أستخدمها؟ الحل هو تنظيف المكان وحشوه بشاش مبلل بـ (Eugenol)."
+  },
+  {
+    "referenceId": "rosen_c59_t1",
+    "topic": "Risk Factors for Asthma-Related Death",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مين مريض الأزمة اللي ممكن يموت؟ وين الفخ؟ أهم علامة هي 'تاريخ التنبيب' (Prior intubation). لو المريض دخل عناية قبل هيك بسبب الأزمة، هاد خطر جداً حتى لو حالته الحالية متوسطة."
+  },
+  {
+    "referenceId": "rosen_c64_t1",
+    "topic": "Angiography After Cardiac Arrest (ROSC)",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض رجع قلبه (ROSC) وعنده جلطة واضحة. وين الفخ؟ لو الـ ECG فيه STEMI، لازم يروح القسطرة فوراً حتى لو مش واعي. لو الـ ECG طبيعي، ممكن نستنى. كيف أستخدمها بالامتحان؟ جلطة واضحة = قسطرة فوراً."
+  },
+  {
+    "referenceId": "rosen_c71_t1",
+    "topic": "Medical Management of Aortic Dissection",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ علاج تمزق الأورطي. وين الفخ؟ أهم شي تقلل قوة خبطة الدم (dP/dt) مش بس الضغط. كيف أستخدمها؟ ابدأ بالـ (Antiadrenergic) زي الـ Labetalol عشان تنزل النبض تحت الـ 60 قبل ما تعطي أدوية توسيع الشرايين."
+  },
+  {
+    "referenceId": "rosen_c75_t1",
+    "topic": "Esophageal Perforation Imaging",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض شاكين عنده ثقب بالمريء. وين الفخ؟ ابدأ بصبغة (Gastrografin) لأنها بتذوب بالمية وما بتعمل مشاكل لو طلعت برة المريء. كيف أستخدمها؟ لو صورة الـ Gastrografin طلعت طبيعية والشك لساته عالي، وقتها بس بنطلب (Barium)."
+  },
+  {
+    "referenceId": "rosen_c77_t1",
+    "topic": "Small Bowel Obstruction (SBO)",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ انسداد الأمعاء الدقيقة. وين الفخ؟ التصاقات العمليات القديمة (Adhesions) هي أشهر سبب. كيف أستخدمها؟ الـ CT هو الأفضل لتحديد مكان الانسداد بالضبط (Transition point). لو ما في عمليات سابقة، دور ع الفتوق (Hernias)."
+  },
+  {
+    "referenceId": "rosen_c78_t1",
+    "topic": "Diagnosis of Mesenteric Ischemia",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ نقص تروية الأمعاء. وين الفخ؟ المريض بيتوجع بجنون بس فحص البطن بكون 'طبيعي' (Pain out of proportion). كيف أستخدمها؟ لا تستنى اللاكتات (Lactate) يرفع عشان تطلب (CTA)."
+  },
+  {
+    "referenceId": "rosen_c86_t1",
+    "topic": "Ovarian Torsion",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ التواء المبيض. وين الفخ؟ وجود تروية دم (Doppler flow) بالتقرير 'ما بنفي' الالتواء. كيف أستخدمها؟ التشخيص بيعتمد على كبر حجم المبيض ووجع المريضة. لو شاكك، اتصل بالجراح حتى لو السونار فيه (Flow)."
+  },
+  {
+    "referenceId": "rosen_c91_t1",
+    "topic": "Multiple Sclerosis and Optic Neuritis",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريضة صغيرة عندها زغللة وجع بالعين مع تاريخ تنميل قديم راح ورجع. وين الفخ؟ مش كل وجع عين 'شقيقة'؛ هون العصب البصري ملتهب. كيف أستخدمها بالامتحان؟ التشخيص (MS) ولازم تطلب (MRI)."
+  },
+  {
+    "referenceId": "rosen_c93_t1",
+    "topic": "Peripheral Neuropathy Patterns",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ أنماط ضعف الأعصاب الطرفية. وين الفخ؟ الضعف الحركي 'البحت' بكون غالباً مش متماثل (Asymmetrical). كيف أستخدمها بالامتحان؟ لو الضعف بس حركي أو بس حسي، فكر بالأعصاب الطرفية."
+  },
+  {
+    "referenceId": "rosen_c94_t1",
+    "topic": "Dermatomyositis",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ التهاب عضلات مناعي مع طفح جلدي. وين الفخ؟ المريض ما بيقدر يقوم من التخت (Proximal weakness) بس لساته بيقدر يمسك القلم ويكتب (Distal sparing). كيف أستخدمها بالامتحان؟ ضعف عضلات الورك + طفح ع الصدر = Dermatomyositis."
+  },
+  {
+    "referenceId": "rosen_c102_t1",
+    "topic": "Septic Arthritis vs. Gout",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ التهاب مفصل بكتيري. وين الفخ؟ لو شفت بلورات 'النقرس' (Gout crystals) هاد مش معناه إنه ما في بكتيريا. كيف أستخدمها بالامتحان؟ لو المفصل ملتهب جداً والـ WBC عالي، ابدأ مضاد حيوي حتى لو في نقرس."
+  },
+  {
+    "referenceId": "rosen_c105_t1",
+    "topic": "ACE-Inhibitor Induced Angioedema",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ تحسس بسبب دواء الضغط (ACEi). وين الفخ؟ هاد النوع ما بستجيب للكورتيزون ولا للأدرينالين. كيف أستخدمها بالامتحان؟ لو اللسان منفوخ والمريض بياخد (Lisinopril)، جهز حالك للتنبيب فوراً وما تضيع وقت بالأدوية."
+  },
+  {
+    "referenceId": "rosen_c107_t1",
+    "topic": "Massive Transfusion Protocol (MTP) Ratios",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ بروتوكول نقل الدم المكثف (MTP). وين الفخ؟ النسبة الصح هي 1:1:1 (دم : بلازما : صفائح). كيف أستخدمها بالامتحان؟ تذكر إن البلازما (AB) هي اللي بتنعطى للكل، والدم (O) هو اللي بنعطى للكل."
+  },
+  {
+    "referenceId": "rosen_c108_t1",
+    "topic": "Warfarin Reversal in Life-Threatening Bleed",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض بياخد وارفارين وعنده نزيف دماغ. وين الفخ؟ الـ (FFP) صار قديم وبياخد وقت؛ الحل السريع هو (PCC) مع فيتامين K وريد. كيف أستخدمها بالامتحان؟ لو المريض عنده هبوط قلب (CHF)، الـ PCC أحسن عشان ما نغرقه بالسوائل."
+  },
+  {
+    "referenceId": "rosen_c112_t1",
+    "topic": "Febrile Neutropenia Management",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض سرطان عنده حرارة. وين الفخ؟ المريض ممكن يكون عنده التهاب رئوي بس صورة الصدر 'طبيعية' لأنه ما عنده خلايا تعمل صديد. كيف أستخدمها بالامتحان؟ حرارة + سرطان = مضاد حيوي (Cefepime) خلال ساعة بدون تأخير."
+  },
+  {
+    "referenceId": "rosen_c113_t1",
+    "topic": "Priority in Metabolic Acidosis",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ حموضة الدم. وين الفخ؟ لا تركض ورا الـ (Bicarbonate)؛ الأولوية هي علاج السبب (زي السوائل للصدمة). كيف أستخدمها بالامتحان؟ البيكربونات بس لو الحموضة شديدة جداً (تحت 7.1)، وغير هيك بتضر المريض."
+  },
+  {
+    "referenceId": "rosen_c117_t1",
+    "topic": "Thyrotoxicosis and Thyroid Storm",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ عاصفة الغدة الدرقية. وين الفخ؟ الترتيب في العلاج هو كل شي. لازم تعطي (PTU) قبل 'اليود'. كيف أستخدمها بالامتحان؟ أشهر علامة هي تسارع النبض، وأول دواء هو (Propranolol) عشان يهدي القلب ويمنع تحول الهرمون."
+  },
+  {
+    "referenceId": "rosen_c118_t1",
+    "topic": "Diphtheria Presentation",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مرض الدفتيريا. وين الفخ؟ العلامة المميزة هي غشاء رمادي ع اللوزتين ورقبة منفوخة (Bull neck). كيف أستخدمها بالامتحان؟ لو شفت مريض مهاجر عنده حرارة ورقبة منفوخة وغشاء رمادي، هاد خطر جداً ع القلب والجهاز التنفسي."
+  },
+  {
+    "referenceId": "rosen_c121_t1",
+    "topic": "Esophageal Food Bolus Impaction",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ علاج انحشار الأكل بالمريء. وين الفخ؟ مادة (Papain) اللي بمطرّي اللحم ممنوعة لأنها بتعمل ثقب بالمريء. كيف أستخدمها بالامتحان؟ استعمل (Glucagon) كخيار طبي، بس المنظار هو الحل النهائي."
+  },
+  {
+    "referenceId": "rosen_c122_t1",
+    "topic": "Scorpion and Snake Bite Observation",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ متى تروح مريض مقروص؟ وين الفخ؟ الطفل لازم يضل تحت العين 6 ساعات ع الأقل. كيف أستخدمها بالامتحان؟ لو مريض قرصته أفعى وما طلع عليه أعراض بـ 6 ساعات، غالباً القرصة 'ناشفة' (Dry bite) وبقدر يروح."
+  },
+  {
+    "referenceId": "rosen_c128_t1",
+    "topic": "Termination of Resuscitation in Hypothermia",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ متى نوقف إنعاش مريض متجمد؟ وين الفخ؟ المريض مش ميت ليصير (Warm and Dead). كيف أستخدمها بالامتحان؟ لو البوتاسيوم فوق 12 أو الجسم متجمد لدرجة إنه الصدر ما بينضغط، هون بس بنوقف قبل التدفئة."
+  },
+  {
+    "referenceId": "rosen_c136_t1",
+    "topic": "Isopropyl Alcohol Metabolism",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض سكران وعنده كيتونات بس دمه مش حامض. وين الفخ؟ (Isopropyl) بيعمل كيتونات بالبول بس 'بدون' حموضة (Normal pH). كيف أستخدمها بالامتحان؟ لو لقيت كيتونات والـ pH طبيعي، هاد Isopropyl مش DKA."
+  },
+  {
+    "referenceId": "rosen_c138_t1",
+    "topic": "King's College Criteria for Liver Transplant",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ متى مريض الباراسيتامول بدوه زراعة كبد؟ وين الفخ؟ معايير (King's College) هي الحكم. كيف أستخدمها بالامتحان؟ لو الـ pH تحت 7.3 أو اللاكتات لساته عالي بعد السوائل، هاد مريض لازم يتحول لمركز زراعة أعضاء فوراً."
+  },
+  {
+    "referenceId": "rosen_c142_t1",
+    "topic": "Chronic Digoxin Toxicity",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ تسمم الديجوكسين المزمن. وين الفخ؟ المريض بيجي بأعراض عادية زي 'لوعة وزغللة بالألوان' (هالات صفراء). كيف أستخدمها بالامتحان؟ لو مريض قلب وعنده زغللة، اطلب مستوى الديجوكسين وعالجه بـ (Digibind) لو في أعراض خطيرة."
+  },
+  {
+    "referenceId": "rosen_c155_t1",
+    "topic": "Compensated Shock in Children",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ كيف تعرف إن الطفل بصدمة؟ وين الفخ؟ 'النهجة' (Tachypnea) مع رئة صافية بالسماعة معناها الطفل بيحاول يعوض حموضة الدم. كيف أستخدمها بالامتحان؟ هاد طفل بوضع (Compensated shock) ولازم سوائل وريد فوراً حتى لو ضغطه لسه طبيعي."
+  },
+  {
+    "referenceId": "rosen_c156_t1",
+    "topic": "Endotracheal Tube Depth Formula",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ قديش ندخل أنبوبة الأطفال؟ وين الفخ؟ العمق دايماً 3 أضعاف حجم الأنبوبة. كيف أستخدمها بالامتحان؟ لو استعملت أنبوبة قياس 4، ثبتها عند علامة الـ 12 سم (3*4)."
+  },
+  {
+    "referenceId": "rosen_c173_t1",
+    "topic": "$\beta$-hCG Discriminatory Zone",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ متى لازم نشوف كيس الحمل بالسونار المهبلي؟ وين الفخ؟ الرقم الجديد للامتحان هو 3500. كيف أستخدمها بالامتحان؟ لو الهرمون تحت الـ 3500 والسونار مش مبين شي، 'إياك' تستعجل؛ استنى 48 ساعة وراقب تطور الهرمون."
+  },
+  {
+    "referenceId": "rosen_c177_t1",
+    "topic": "Resuscitative Hysterotomy",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ عملية قيصرية طارئة وقت توقف قلب الأم الحامل. وين الفخ؟ لازم تنعمل بغرفة الطوارئ خلال 4-5 دقائق لو الحمل فوق الـ 20 أسبوع. كيف أستخدمها بالامتحان؟ الهدف إنقاذ الأم (بتقليل الضغط ع الشرايين) والجنين؛ والفتحة دايماً طولية (Vertical)."
+  },
+  {
+    "referenceId": "rosen_ce15_t1",
+    "topic": "Radiation Triage Priority",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض متعرض للإشعاع وعنده جلطة قلبية. وين الفخ؟ الـ (ABC) وإنقاذ الحياة دايماً أهم من تنظيف المريض من الإشعاع. كيف أستخدمها بالامتحان؟ لو المريض جلطة، فعّل فريق القسطرة فوراً ولا تضيع وقت بالدوش؛ الحياة أولاً."
+  },
+  {
+    "referenceId": "rosen_c17_t1",
+    "topic": "Retinal Detachment POCUS",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ تشخيص انفصال الشبكية بالسونار. وين الفخ؟ الشبكية دايماً بضل 'مربوطة' بالعصب البصري (Optic Disc) وهاد بميزها عن نزيف العين. كيف أستخدمها بالامتحان؟ لو شفت غشاء بيتحرك بس ماسك في نقطة العصب، هي شبكية."
+  },
+  {
+    "referenceId": "rosen_c38_t2",
+    "topic": "Management Algorithm for Unstable Pelvic Fractures",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض حادث عنده كسر حوض وضغطه واطي. وين الفخ؟ السونار (FAST) هو اللي بقرر وين يروح. كيف أستخدمها بالامتحان؟ لو السونار فيه سوائل (+) وديه العمليات فوراً. لو نظيف (-) والمريض لساته هابط، يعني النزيف خلف الأمعاء وديه القسطرة (IR)."
+  },
+  {
+    "referenceId": "rosen_c95_t1",
+    "topic": "Complications of Ureteral Stenting",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مضاعفات تركيب دعامة الحالب (Stent). وين الفخ؟ لو المريض صار عنده فقر دم حاد بعد العملية، لا تلوم الدم اللي بالبول بس. كيف أستخدمها بالامتحان؟ فكر فوراً بـ (Retroperitoneal hematoma) واطلب صورة CT."
+  },
+  {
+    "referenceId": "rosen_c155_t2",
+    "topic": "Fever in Well-Appearing Infants Criteria",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ معايير تقييم خطر الالتهابات عند الأطفال الصغار المسخنين. وين الفخ؟ سكور (فيلادلفيا) هو الأدق والأشمل لأنه بيشمل فحص سائل الظهر (CSF). كيف أستخدمها بالامتحان؟ لو الطفل عمره (29-56 يوم) وحرارته فوق 38.2، بنطبق عليه سكور فيلادلفيا لتقليل خطر الـ SBI."
+  },
+  {
+    "referenceId": "rosen_c177_t2",
+    "topic": "Pregnancy-Adapted YEARS Algorithm",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ سكور (YEARS) لتشخيص جلطة الرئة عند الحوامل بدون أشعة زيادة. وين الفخ؟ لو ما في أعراض (Zero items)، بنرفع سقف الـ D-dimer للـ 1000. كيف أستخدمها بالامتحان؟ استعمل السكور لتقرر مين لازم تعملها صورة صبغة (CTPA) ومين لا."
+  },
+  {
+    "referenceId": "rosen_c37_t1_patch",
+    "topic": "Tension Pneumothorax after Intubation",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ هواء الصدر الضاغط بعد التنبيب. وين الفخ؟ العلامة القاتلة هي صعوبة الضغط على بالون التنفس (Resistance) مع هبوط الضغط. كيف أستخدمها بالامتحان؟ التشخيص سماعة وضغط مش صورة أشعة، والحل إبرة فوراً."
+  },
+  {
+    "referenceId": "rosen_c46_t1_patch",
+    "topic": "Urethral Injury Evaluation",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ إصابة مجرى البول (الإحليل). وين الفخ؟ لو شفت دم ع الفتحة، ممنوع تلمس القسطرة (Foley). كيف أستخدمها بالامتحان؟ الخطوة الأولى هي صورة ملونة (RUG) للتأكد من سلامة المجرى قبل أي تدخل."
+  },
+  {
+    "referenceId": "rosen_c51_t1_patch",
+    "topic": "Seidel Test and Open Globe",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ كشف ثقب العين. وين الفخ؟ لو فحص الـ Seidel إيجابي يعني العين مفتوحة؛ هون ممنوع تضغط ع العين أو تقيس ضغطها. كيف أستخدمها بالامتحان؟ بس غطي العين بـ (Shield) ونادِ الأخصائي فوراً."
+  },
+  {
+    "referenceId": "rosen_c59_t1_patch",
+    "topic": "Risk Factors for Asthma-Related Death",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مين مريض الأزمة اللي ممكن يموت؟ وين الفخ؟ أهم علامة هي 'تاريخ التنبيب السابق'. لو المريض تنبب قبل هيك، هاد خطر جداً حتى لو حالته الحالية متوسطة. كيف أستخدمها بالامتحان؟ دور على (Prior intubation) كأهم عامل خطر."
+  },
+  {
+    "referenceId": "rosen_c64_t1_patch",
+    "topic": "Angiography After Cardiac Arrest (ROSC)",
+    "source": "Rosen",
+    "explanation": "شو الفكرة؟ مريض رجع قلبه (ROSC) وعنده جلطة واضحة. وين الفخ؟ لو الـ ECG فيه STEMI، لازم يروح القسطرة فوراً حتى لو مش واعي. لو الـ ECG طبيعي، ممكن نستنى. كيف أستخدمها بالامتحان؟ جلطة واضحة = قسطرة فوراً."
+  },
+  {
+    "referenceId": "hippo_b1_t1",
+    "topic": "Psoas Hematoma in Anticoagulated Patients",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض بياخد وارفارين وصار عنده ضعف مفاجئ برِجله مع وجع ظهر. وين الفخ؟ ممكن تفكرها ديسك ظهر، بس لو النبض سريع والـ (INR) عالي، غالباً هاد نزيف خلف الأمعاء ضاغط ع العصب. كيف أستخدمها؟ الضعف بكون في مفصل الورك والركبة، بس دعسة الرِجل (Plantar flexion) بتضل قوية."
+  },
+  {
+    "referenceId": "hippo_b1_t2",
+    "topic": "Relative Bradycardia in Heterotopic Pregnancy",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ حمل 'خارج الرحم' و 'داخل الرحم' بنفس الوقت. وين الفخ؟ المريضة ممكن تنزف لتر دم ببطنها ولسه النبض عندها 'طبيعي' (Relative bradycardia). كيف أستخدمها؟ لا تنخدع بالنبض الطبيعي لو المريضة عندها وجع بطن شديد وهي حامل، خصوصاً لو عاملة زراعة أطفال أنابيب (ART)."
+  },
+  {
+    "referenceId": "hippo_b1_t3",
+    "topic": "Beta-Blocker Risk in SBP",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض تشمع كبد وعنده التهاب غشاء البطن (SBP). وين الفخ؟ لازم توقف أدوية الضغط من عيلة (Beta blockers) زي (Nadolol) فوراً. ليش؟ لأنها بتزود نسبة الوفيات في هاد الوضع الخاص."
+  },
+  {
+    "referenceId": "hippo_b1_t4",
+    "topic": "Fracture Blisters Management",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ فقاعات بتطلع ع الجلد مكان الكسر (Fracture blisters). وين الفخ؟ هاد الكسر ما بينفع يتصلح بعملية (ORIF) والفقاعات موجودة لأنها بتعمل التهاب بالعظم. كيف أستخدمها؟ استنى الجلد يطيب قبل العملية، وهاي الحالة مشهورة جداً عند مرضى السكري."
+  },
+  {
+    "referenceId": "hippo_b1_t5",
+    "topic": "Body Stuffer vs. Body Packer",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مهرب المخدرات (Packer) vs اللي ببلعها عشان يهرب من الشرطة (Stuffer). وين الفخ؟ ممنوع تستعمل 'المنظار' عشان تطلع الحبوب لأنه ممكن يثقب الكيس وتصير جرعة قاتلة. كيف أستخدمها؟ العلاج دايماً (Whole Bowel Irrigation) وصورة (CT) هي الأحسن للتشخيص."
+  },
+  {
+    "referenceId": "hippo_b1_t6",
+    "topic": "Indigenous/Airport Malaria",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ ملاريا بدون سفر. وين الفخ؟ المريض ممكن يكون شغال بالمطار ولسعته بعوضة إجت بالطيارة (Airport Malaria). كيف أستخدمها؟ لو شفت حرارة دورية مع تكسر دم (Hemolysis) في مريض شغال بالمطار، اطلب (Peripheral smear) فوراً."
+  },
+  {
+    "referenceId": "hippo_b2_t1",
+    "topic": "Posterior Reversible Encephalopathy Syndrome (PRES)",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض غسيل كلى أو بياخد كيماوي وصار عنده وجع راس وتشنجات مع ضغط عالي جداً. وين الفخ؟ صورة الطبقية (CT) بتبين بقع سوداء (Hypodensities) من ورا بالجهتين (Parieto-occipital)، وهاد مش جلطة، هاد PRES. كيف أستخدمها؟ الحل هو تنزيل الضغط بحذر."
+  },
+  {
+    "referenceId": "hippo_b2_t2",
+    "topic": "ESETT Trial: Second-Line Status Epilepticus",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ شو أحسن دواء لو المنومات (Benzos) ما وقفت التشنج؟ دراسة ESETT حكت إن (Fosphenytoin) و (Valproate) و (Levetiracetam) كلهم نفس النتيجة تقريباً. كيف أستخدمها؟ اختار المتوفر عندك، التلاتة بوقفوا التشنج بنسبة 50%."
+  },
+  {
+    "referenceId": "hippo_b2_t3",
+    "topic": "Isoniazid Toxicity and Pyridoxine",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض سل (TB) وبياخد (Isoniazid) وصار عنده تشنجات ما بتوقف بالأدوية العادية. وين الفخ؟ الأدوية العادية ما رح تنفع لأن المشكلة هي نقص فيتامين B6. كيف أستخدمها؟ العلاج الوحيد والنهائي هو (Pyridoxine) وريد غرام مقابل كل غرام دواء بلعه."
+  },
+  {
+    "referenceId": "hippo_b2_t4",
+    "topic": "Brainstem Stroke and CN III Palsy",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض عينه اليمين 'نازلة وطالعة لبرة' (CN III) وعنده ضعف بإيده ورِجله الشمال. وين الفخ؟ هاي مش مجرد مشكلة عين، هاي جلطة بجذع الدماغ (Brainstem stroke). ليش؟ لأن الأعراض 'مصلّبة' (جهة بالوجه وجهة بالجسم)."
+  },
+  {
+    "referenceId": "hippo_b2_t5",
+    "topic": "Pathognomonic Finding for Gastric Outlet Obstruction",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض بيستفرغ أكل أكله قبل 12 ساعة ولسه مش مهضوم (زي ما هو). وين الفخ؟ هاي العلامة 'بصمة' (Pathognomonic) لانسداد مخرج المعدة (GOO). كيف أستخدمها؟ لو شفتها بالسؤال، التشخيص دايماً انسداد ميكانيكي (زي ورم أو قرحة قديمة)."
+  },
+  {
+    "referenceId": "hippo_b2_t6",
+    "topic": "Opioid-Induced Constipation and PAMORAs",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض أورام أو وجع مزمن بياخد مسكنات قوية (Opioids) وصار عنده إمساك شديد ما نفع معه الملين العادي. وين الفخ؟ لا تنزل جرعة المسكن عشان ما يدخل المريض بانسحاب (Withdrawal). كيف أستخدمها؟ الحل هو دواء (PAMORA) بيسكر مستقبلات الوجع 'بس بالأمعاء' وبخلي المسكن شغال بالمخ عادي."
+  },
+  {
+    "referenceId": "hippo_b3_t1",
+    "topic": "Chronic Hypernatremia Correction Rate",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض عنده الصوديوم عالي وصارله فترة طويلة (>48 ساعة). وين الفخ؟ لو نزلت الصوديوم بسرعة، المي رح تدخل فجأة للخلايا وتعمل 'نفخة' بالدماغ (Cerebral edema). كيف أستخدمها؟ السرعة المسموحة هي نص درجة بالساعة بس (0.5 mEq/L/h). تذكر: تصليح الصوديوم العالي بسرعة بيعمل وذمة دماغ، وتصليح الواطي بسرعة بيعمل (Myelinolysis)."
+  },
+  {
+    "referenceId": "hippo_b3_t2",
+    "topic": "Succinylcholine Use in Acute Burns",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض محروق وبدنا نعمله (RSI). وين الفخ؟ الكل بخاف من دواء (Succinylcholine) لأنه برفع البوتاسيوم، بس الحقيقة إنه 'آمن' أول 4 أيام بعد الحرق. كيف أستخدمها؟ لو المريض انحرق اليوم، استعمله عادي. لو صارله أسبوع، هون الخطر الحقيقي وممنوع تستعمله."
+  },
+  {
+    "referenceId": "hippo_b3_t3",
+    "topic": "Aortic Dissection Management Sequence",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ ترتيب أدوية تمزق الأورطي (Dissection). وين الفخ؟ ممنوع تعطي دواء بنزل الضغط زي (Nitroprusside) لحاله بالبداية. ليش؟ لأنه رح يعمل 'تسارع نبض' رد فعل، وهاد بزيد التمزق. كيف أستخدمها؟ دايماً ابدأ بـ (Beta blocker) عشان تهدي ضربة القلب (dP/dt)، وبعدين ضيف أدوية تنزيل الضغط."
+  },
+  {
+    "referenceId": "hippo_b3_t4",
+    "topic": "Antiphospholipid Syndrome (APS) and Acute PE",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريضة ذئبة (SLE) صار عندها جلطة رئة بسبب متلازمة APS. وين الفخ؟ أدوية السيولة الجديدة (DOACs) زي (Rivaroxaban) مفعولها 'ضعيف' بهاد المرض بالذات. كيف أستخدمها؟ استعمل (Enoxaparin) بالبداية، وبعدين حولها على (Warfarin) مش على الأدوية الجديدة."
+  },
+  {
+    "referenceId": "hippo_b3_t5",
+    "topic": "Factors Influencing Testicular Salvage",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ فرصة إنقاذ الخصية في حالات الالتواء. وين الفخ؟ أهم عاملين هم 'الوقت' و 'درجة اللفة'. كيف أستخدمها؟ لو مر أكتر من 6 ساعات، الفرصة بتبدأ تقل بسرعة. معلومة للامتحان: حتى لو 'Cremasteric reflex' موجود، هاد ما بنفي الالتواء تماماً لو الشك عالي."
+  },
+  {
+    "referenceId": "hippo_b3_t6",
+    "topic": "Absolute Contraindications to Fibrinolysis in AMI",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ متى 'ممنوع' تعطي مذيب جلطة (Fibrinolysis) لمريض القلب؟ وين الفخ؟ أهم شرط هو 'نزيف الدماغ السابق'؛ لو صار معه نزيف دماغ بأي وقت بحياته، هاد ممنوع تماماً. كيف أستخدمها؟ العمر فوق الـ 75 'مش منع'، بس الضغط العالي جداً اللي ما بنزل (فوق 185/110) هو المنع الحقيقي."
+  },
+  {
+    "referenceId": "hippo_b4_t1",
+    "topic": "Resuscitative Hysterotomy (Perimortem C-Section)",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ عملية قيصرية طارئة وقت توقف قلب الأم الحامل. وين الفخ؟ لازم تنعمل بغرفة الطوارئ خلال 4-5 دقائق لو الحمل فوق الـ 20 أسبوع (يعني الرحم واصل للسرة). الهدف الأول هو إنقاذ الأم بتقليل الضغط ع الشرايين الكبيرة، والفتحة دايماً طولية (Vertical)."
+  },
+  {
+    "referenceId": "hippo_b4_t2",
+    "topic": "Pacemaker-Mediated Tachycardia and Magnet Use",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض عنده منظم ضربات (Pacemaker) ونبضه سريع جداً بدون سبب. وين الفخ؟ هاي حالة اسمها (PMT). الحل؟ حط 'مغناطيس' فوق الجهاز؛ المغناطيس بيلغي خاصية الإحساس بالجهاز وبيرجع النبض لوضعه الطبيعي وبكسر الدائرة الكهربائية الغلط."
+  },
+  {
+    "referenceId": "hippo_b4_t3",
+    "topic": "Digoxin-Specific Antibody Fragments Calculation",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ قديش نعطي 'ترياق' للديجوكسين؟ وين الفخ؟ كل 'فايال' (Vial) بتمسح 0.5 ملغم من الدواء. كيف أستخدمها؟ لو المريض بلع 8 ملغم، يعني بنحتاج 16 حبة (8 تقسيم نص). لو المريض وضعه مش مستقر وما بنعرف قديش بلع، بنعطي 10 لـ 20 فايال مرة وحدة."
+  },
+  {
+    "referenceId": "hippo_b4_t4",
+    "topic": "TTM and Physiologic Side Effects",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض بنعمله تبريد بعد الإنعاش (TTM). وين الفخ؟ طبيعي جداً النبض ينزل (Bradycardia) وهاد مش خطر. كيف أستخدمها؟ لو النبض نزل بس الضغط كويس، لا تعمل شي ولا تعطي أدوية ترفع النبض؛ هاي استجابة طبيعية للجسم للبرودة."
+  },
+  {
+    "referenceId": "hippo_b4_t5",
+    "topic": "Traumatic Diaphragmatic Hernia",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ فتق الحجاب الحاجز بعد حادث. وين الفخ؟ بالسونار (POCUS) رح تشوف 'أمعاء' أو 'معدة' جوا الصدر وبتحركوا (Peristalsis). كيف أستخدمها؟ لو شفت منظر غريب بالصدر بالسونار مش سوائل صافية، فكر فوراً بتمزق الحجاب الحاجز ولازم جراحة."
+  },
+  {
+    "referenceId": "hippo_b4_t6",
+    "topic": "Retrobulbar Hemorrhage and Lateral Canthotomy",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ نزيف خلف العين (Retrobulbar hemorrhage). وين الفخ؟ الضغط العالي جوا العين (فوق 40) بيقطع الدم عن العصب. كيف أستخدمها؟ الحل 'عملية قص طرف الجفن' (Lateral canthotomy) فوراً بالطوارئ. لا تضيع وقت بالصور الطبقية (CT) لو النظر عم بيختفي؛ الوقت هون هو النظر."
+  },
+  {
+    "referenceId": "hippo_b5_t1",
+    "topic": "Brugada Syndrome Identification",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض صغير بالعمر وغالباً من شرق آسيا بيفقد الوعي فجأة. وين الفخ؟ بالـ (ECG) رح تشوف ارتفاع (ST) في V1 و V2 بيشبه 'الزحليقة' (Coved shape). هاد مش جلطة، هاد Brugada. كيف أستخدمها؟ المريض هاد بخطر الموت المفاجئ ولازم يركب (AICD)."
+  },
+  {
+    "referenceId": "hippo_b5_t2",
+    "topic": "Sepsis-3 and qSOFA score",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ كيف نعرف المريض اللي وضعه 'خطر' وممكن يموت من الالتهاب؟ وين الفخ؟ الـ SIRS (زي الحرارة والنبض) مش دقيقة كفاية. استعمل سكور (qSOFA): الضغط واطي (تحت 100)، النفس سريع (فوق 22)، أو المريض مش واعي (GCS واطي). لو في علامتين من تلاتة، المريض بخطر شديد."
+  },
+  {
+    "referenceId": "hippo_b5_t3",
+    "topic": "ACE-Inhibitor Induced Angioedema Mechanism",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض بياخد دواء ضغط (Lisinopril) ولسانه فجأة نفخ. وين الفخ؟ هاد 'مش تحسس' عادي. هاد بسب مادة (Bradykinin). كيف أستخدمها؟ الأدرينالين والكورتيزون ما رح ينفعوا. الأولوية دايماً هي 'تأمين مجرى التنفس' (Airway) بسرعة قبل ما يسكر تماماً."
+  },
+  {
+    "referenceId": "hippo_b5_t4",
+    "topic": "Benzocaine and Chocolate Brown Blood",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض أخد بخاخ بنج (Benzocaine) وصار لونه أزرق. وين الفخ؟ لو أعطيته أكسجين 100% لونه ما رح يتحسن (Refractory cyanosis). علامة مميزة؟ لون الدم بكون زي 'الشوكلاتة'. كيف أستخدمها؟ العلاج هو (Methylene blue)."
+  },
+  {
+    "referenceId": "hippo_b5_t5",
+    "topic": "Cyanide Poisoning from Nitroprusside",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ دواء الضغط (Nitroprusside) ممكن يسبب تسمم بالسيانيد (Cyanide). وين الفخ؟ المريض رح يصير عنده 'حموضة بالدم' (Metabolic acidosis) ويرتفع اللاكتات بدون سبب واضح. كيف أستخدمها؟ لو المريض بياخد هاد الدواء وحالته ساءت، وقف الدواء فوراً وأعطيه الترياق (Cyanokit)."
+  },
+  {
+    "referenceId": "hippo_b5_t6",
+    "topic": "Pyloric Stenosis Metabolic Derangement",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ طفل عمره شهر بيستفرغ بقوة (Projectile) وبجوع فوراً بعدها. وين الفخ؟ الاستفراغ بيخسر المريض أحماض المعدة، فبصير دمه 'قلوي' (Alkalosis) ومعادنه واطية (Cl- and K+ واطيين). كيف أستخدمها؟ التشخيص بالسونار، بس أهم شي قبل العملية إنك تصلح السوائل والمعادن بالـ (Normal Saline)."
+  },
+  {
+    "referenceId": "hippo_b6_t1",
+    "topic": "Urgent Indications for Hemodialysis",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ متى المريض لازم يغسل كلى 'فوراً' بالطوارئ؟ وين الفخ؟ لا تستنى الأرقام (زي الكرياتينين) لو المريض عنده 'مية ع الرئة' مش راضية تتحسن أو البوتاسيوم عالي وعامل مشاكل بالقلب. تذكر (AEIOU): حموضة، معادن (بوتاسيوم)، تسمم، زيادة سوائل، أو يوريميا (أثرت ع الدماغ أو القلب)."
+  },
+  {
+    "referenceId": "hippo_b6_t2",
+    "topic": "Xanthochromia Timing in SAH",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ متى بنشوف اللون الأصفر (Xanthochromia) في سائل الظهر؟ وين الفخ؟ لو المريض وجع راسه بدأ قبل ساعتين، السائل رح يكون 'صافي' حتى لو في نزيف. ليش؟ لأنه تكسر الدم بياخد 12 ساعة ليصير لونه أصفر. كيف أستخدمها؟ لو الـ CT نظيف والوجع جديد، اعتمد على عدد خلايا الدم (RBCs) في الأنبوب الأول vs الرابع."
+  },
+  {
+    "referenceId": "hippo_b6_t3",
+    "topic": "Rigid Chest Syndrome from Fentanyl",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ متلازمة 'الصدر الخشبي'. وين الفخ؟ لما تعطي (Fentanyl) بسرعة وريد، القفص الصدري بيتخشب والمريض ما بيقدر يتنفس. كيف أستخدمها؟ لو المريض 'تخشب' بعد الفنتانيل، الـ (Ambu bag) ما رح تنفع. الحل؟ لازم تعطيه مرخي عضلات (Paralytic) وتنببه فوراً."
+  },
+  {
+    "referenceId": "hippo_b6_t4",
+    "topic": "Epoprostenol (Flolan) Management",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض بياخد دواء (Flolan) بالبيت عن طريق مضخة لمرض ضغط الرئة. وين الفخ؟ عمر هاد الدواء بالدم بس 'دقيقتين لخمسة'. لو وقف الجهاز، المريض ممكن يموت فوراً. كيف أستخدمها؟ لو المريض جالك والجهاز بزمّر (Alarm)، ركبله مغذي 'طرفي' (Peripheral IV) ومشي الدواء فوراً قبل ما تعمل أي فحص تاني."
+  },
+  {
+    "referenceId": "frcem_b1_t1",
+    "topic": "High-Flow Nasal Oxygen vs Standard NRB",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ كيف نعطي أحسن أكسجين للمريض قبل ما ننببه؟ وين الفخ؟ الـ (Nonrebreather) العادي على 15 لتر بيعطي بس 50% أكسجين حقيقي لأنه بيدخل هواء من الجوانب. كيف أستخدمها؟ لازم تفتح الأكسجين ع الآخر (Flush rate) عشان توصل لـ 85% وتغسل النيتروجين من الرئة."
+  },
+  {
+    "referenceId": "frcem_b1_t2",
+    "topic": "Pediatric Jet Ventilation Pressures",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ تهوية الرئة بالأبرة (Jet ventilation) للأطفال. وين الفخ؟ ممنوع تستعمل ضغط عالي زي الكبار. كيف أستخدمها؟ ابدأ بضغط (0.5 psi) لكل كيلو من وزن الطفل وزيده شوي شوي لغاية ما تشوف الصدر بيرتفع."
+  },
+  {
+    "referenceId": "frcem_b1_t3",
+    "topic": "Philadelphia Criteria for Febrile Infants",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ كيف نعرف إنه الطفل الصغير اللي عنده حرارة مش بوضع خطر؟ سكور 'فيلادلفيا' (29-56 يوم) هو الأدق. وين الفخ؟ لازم كل الشروط تكون موجودة (WBC طبيعي، فحص بول طبيعي، وفحص سائل الظهر طبيعي) عشان تروحه وأنت متطمن."
+  },
+  {
+    "referenceId": "frcem_b2_t1",
+    "topic": "STEMI in Post-Arrest (ROSC) Comatose Patients",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ مريض قلبه رجع بعد الإنعاش بس لساته بغيبوبة، والـ ECG فيه جلطة (STEMI). وين الفخ؟ لا تستنى المريض يصحى عشان توديه القسطرة. كيف أستخدمها؟ الجلطة لازم تتصلح فوراً لأنها هي سبب المشكلة، والتبريد (TTM) بنعمله مع القسطرة سوا."
+  },
+  {
+    "referenceId": "frcem_b2_t2",
+    "topic": "Post-MI Papillary Muscle Rupture",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ مريض جلطة صار عنده تمزق في عضلات الصمام (Papillary muscle) بعد 3 أيام. وين الفخ؟ المريض رح يغرق بمية الرئة وضغطه يوقع. إياك تعطيه سوائل! كيف أستخدمها؟ الحل هو أكسجين ضاغط (CPAP) وترتيب عملية جراحية طارئة."
+  },
+  {
+    "referenceId": "frcem_b2_t3",
+    "topic": "Cyanide Toxicity from Nitroprusside",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ تسمم السيانيد بسبب دواء الضغط (Nitroprusside). وين الفخ؟ لو المريض بياخد هاد الدواء وصار عنده حموضة بالدم (Acidosis) لا تلوم القلب، فكر بالسيانيد. كيف أستخدمها؟ وقف الدواء وأعطي الترياق (Cyanokit) فوراً."
+  },
+  {
+    "referenceId": "frcem_b3_t1",
+    "topic": "TXA Timing and Dosing in Trauma",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ متى نعطي دواء (TXA) للنزيف في الحوادث؟ وين الفخ؟ الدواء هاد ممتاز بس 'أول 3 ساعات' من الحادث بس. لو مر أكتر من 3 ساعات، الدواء بصير مضر وبزيد الوفيات. كيف أستخدمها؟ 1 غرام بالوريد وبعدين 1 غرام مشي بالمحلول."
+  },
+  {
+    "referenceId": "frcem_b3_t2",
+    "topic": "Open Fracture Antibiotics (Farm/Soil)",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ مضادات حيوية لكسور العظام المفتوحة. وين الفخ؟ لو الحادث صار بـ 'مزرعة' أو فيها 'تراب'، لازم تضيف (Penicillin G) عشان تحمي المريض من 'الغرغرينا الغازية'. كيف أستخدمها؟ كسر عادي = Cefazolin. كسر بمزرعة = Cefazolin + Penicillin + Gentamicin."
+  },
+  {
+    "referenceId": "frcem_b3_t3",
+    "topic": "Ankle-Brachial Index (ABI) Triage",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ فحص الـ (ABI) لإصابات الشرايين. وين الفخ؟ لو الرقم 'أقل من 0.9'، لازم تطلب صورة صبغة (CTA) فوراً. لو الرقم 'أكبر من 0.9'، المريض 'ما بيروح'؛ لازم يضل تحت المراقبة 24 ساعة لنتأكد إنه الشريان ما سكر مع الوقت."
+  },
+  {
+    "referenceId": "frcem_b4_t1",
+    "topic": "BRUE (Brief Resolved Unexplained Event)",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ لما الأم تيجي تحكي 'ابني فجأة أزرق وفقد الوعي للحظات وبعدين رجع طبيعي'. وين الفخ؟ هاي الحالة اسمها (BRUE). لو الطفل عمره فوق شهرين وصحته كويسة وما عملناله إنعاش، 'ما بنعمله' فحوصات دم ولا صورة راس. بس مراقبة قصيرة وطمأنة للأهل."
+  },
+  {
+    "referenceId": "frcem_b4_t2",
+    "topic": "Newborn Conjunctivitis Timing",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ التهاب عين المولود الجديد. وين الفخ؟ 'عمر' الطفل بالأيام هو اللي بحدد السبب. لو عمره (2-7 أيام) وعينه فيها صديد، هاد 'خطر جداً' ولازم يدخل المستشفى عشان يحمي نظره (Gonorrhea). لو عمره (5-12 يوم)، السبب غالباً (Chlamydia) وعلاجه حبوب (Azithromycin)."
+  },
+  {
+    "referenceId": "frcem_b4_t3",
+    "topic": "Kawasaki Disease (Incomplete/Classic)",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ مرض 'كاواساكي' عند الأطفال. وين الفخ؟ التشخيص سريري: حرارة 5 أيام مع علامات تانية زي 'لسان الفراولة' واحمرار العين. كيف أستخدمها؟ العلاج (Aspirin + IVIG) عشان نحمي شرايين القلب من الانفجار (Aneurysms). لا تعطي مضاد حيوي لأنه ما بنفع هون."
+  },
+  {
+    "referenceId": "frcem_b5_t1",
+    "topic": "Naloxone vs. Long-Acting Opioids",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ مريض أخد جرعة زائدة (Opioids) وصحي ع الـ (Naloxone). وين الفخ؟ مفعول النالوكسون قصير جداً (ساعة واحدة بس). لو المريض أخد (Methadone)، رح يرجع يغيب عن الوعي ويبطل يتنفس بعد ما يخلص مفعول الدواء. كيف أستخدمها؟ لازم يضل تحت المراقبة 4-6 ساعات ع الأقل لنتأكد إنه مفعول المخدر راح تماماً."
+  },
+  {
+    "referenceId": "frcem_b5_t2",
+    "topic": "Atropine Endpoint in Organophosphates",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ كيف نعالج تسمم المبيدات الحشرية (Organophosphates)؟ وين الفخ؟ لازم تعطي (Atropine) لغاية ما 'تنشف إفرازات الصدر'. لا توقف الدواء لو شفت النبض صار سريع أو حدقة العين وسعت؛ هاي علامات 'كاذبة'. المهم هو إنه الرئة تصير ناشفة والمريض يقدر يتنفس."
+  },
+  {
+    "referenceId": "frcem_b5_t3",
+    "topic": "HACE vs AMS and HAPE",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ أمراض المرتفعات. وين الفخ؟ العلامة اللي بتخوف جداً هي 'عدم التوازن' (Ataxia). لو المريض مش قادر يمشي بخط مستقيم وهو ع الجبل، هاي (HACE) يعني دماغه عم بينفخ. الحل؟ ينزل فوراً عن الجبل وأعطيه (Dexamethasone). لو المشكلة بس بالرئة (HAPE)، بنعطيه (Nifedipine)."
+  },
+  {
+    "referenceId": "hippo_b7_t1",
+    "topic": "Nikolsky Sign in Bullous Disorders",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ كيف نميز بين أنواع الفقاعات الجلدية؟ وين الفخ؟ علامة (Nikolsky) بتكون إيجابية لو الجلد قشر بمجرد ما تفركه. هاي موجودة بمرض (Pemphigus) وبحالات الحروق الجلدية الشديدة من الأدوية (TEN). بس لو الفقاعة 'قوية ومشدودة' (Tense) وما بتقشر، هاد غالباً (Bullous Pemphigoid) وهون العلامة سلبية."
+  },
+  {
+    "referenceId": "hippo_b7_t2",
+    "topic": "DRESS Syndrome Identification",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ تحسس دوائي شديد (DRESS). وين الفخ؟ المريض رح يجي بحرارة وطفح جلدي بس الفحص رح يبين إنه 'الكبد' متأثر (High ALT/AST) وفي زيادة بنوع معين من خلايا الدم (Eosinophils). كيف أستخدمها؟ لو مريض بدأ دواء تشنجات جديد وصار عنده حرارة وطفح، لازم تفكر بـ DRESS وتفحص وظائف الكبد."
+  },
+  {
+    "referenceId": "hippo_b7_t3",
+    "topic": "Suicide Risk Demographics (SAD PERSONS)",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مين أكتر حدا بخطر الانتحار الحقيقي؟ وين الفخ؟ مش دايماً اللي بيحكي كتير هو اللي بنتحر. الأرقام بتحكي إن 'الرجال الكبار بالعمر' (فوق 59) والأرامل أو المطلقين هم الأكثر عرضة. كيف أستخدمها؟ لو جاك مريض كبير وحيد وعنده سلاح بالبيت، هاد خطر جداً ولازم حماية فورية. تذكر: المسدسات هي السبب الأول للوفاة بالانتحار."
+  },
+  {
+    "referenceId": "hippo_b7_t4",
+    "topic": "Bulimia Nervosa Electrolyte Derangements",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريضة 'بوليميا' (بتاكل وبتستفرغ). وين الفخ؟ الاستفراغ المستمر بخلي دمها 'قلوي' (Alkalosis) وبنزل البوتاسيوم والكلور بجنون. كيف أستخدمها؟ لو شفت علامة (U-wave) بالـ ECG في بنت صغيرة، فكر بنقص البوتاسيوم وبسبب البوليميا. ركز كمان إنه وزنهم بكون طبيعي غالباً مش زي مرضى العقد النفسية التانية."
+  },
+  {
+    "referenceId": "hippo_b8_t1",
+    "topic": "Forensic Evidence Collection Timing",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ متى بنعمل فحص 'الاعتداء الجنسي' (Forensic kit)؟ وين الفخ؟ الوقت الذهبي هو 'أول 72 ساعة'. بعد هيك، فرصة تلاقي دليل (DNA) بتقل كتير. كيف أستخدمها؟ لازم نحفظ 'سلسلة العهدة' (Chain of custody)؛ يعني الكرتون لازم يتسكر ويتوقع وما ينترك لحاله أبداً لغاية ما تستلمه الشرطة عشان يكون مقبول بالمحكمة."
+  },
+  {
+    "referenceId": "hippo_b8_t2",
+    "topic": "Tacrolimus and Macrolide Interaction",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ مريض زارع كبد وبياخد دواء (Tacrolimus). وين الفخ؟ إياك تعطيه مضاد حيوي من عيلة (Macrolides) زي الـ (Azithromycin). ليش؟ لأن المضاد رح يرفع مستوى دواء الزراعة لدرجة 'التسمم' وممكن يعمل المريض 'هذيان' (Delirium) أو يضرب الكلى. دايماً راجع التفاعلات الدوائية لمرضى الزراعة."
+  },
+  {
+    "referenceId": "hippo_b8_t3",
+    "topic": "Empty Gestational Sac Interpretation",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ شفت كيس حمل بالسونار بس 'فاضي'. وين الفخ؟ هاد 'ما بنفي' الحمل خارج الرحم. ممكن يكون كيس كاذب (Pseudogestational sac). كيف أستخدمها؟ عشان تقول هاد حمل 'داخل الرحم' أكيد، لازم تشوف 'Yolk sac' (كيس المح) جوا الكيس. لو ما شفته، لازم تراقب الهرمون وتعيد السونار بعد 48 ساعة."
+  },
+  {
+    "referenceId": "hippo_b8_t4",
+    "topic": "A-lines in Lung Ultrasound",
+    "source": "HIPPO (Board Review)",
+    "explanation": "شو الفكرة؟ خطوط الرئة بالسونار. وين الفخ؟ خطوط (A-lines) هي خطوط 'بالعرض' ومعناها الرئة 'ناشفة' (هواء بس). كيف أستخدمها؟ لو المريض مخنوق وشفت هاي الخطوط، استبعد هبوط القلب (CHF) وفكر أكتر بالأزمة (Asthma) أو جلطة الرئة. خطوط المية (B-lines) بكون شكلها 'طولي' زي كشاف الضوء."
+  },
+  {
+    "referenceId": "frcem_b6_t1",
+    "topic": "Cervical Spine Clearance (NEXUS)",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ كيف نشيل 'طوق الرقبة' بدون صورة أشعة؟ استعمل سكور (NEXUS). وين الفخ؟ لازم المريض يكون 'صاحي' تماماً، وما عنده 'وجع بنص الرقبة'، والأهم إنه ما يكون عنده 'إصابة تانية كبيرة' بتوجعه كتير (Distracting injury) لأنها ممكن تنسيه وجع رقبته."
+  },
+  {
+    "referenceId": "frcem_b6_t2",
+    "topic": "Slipped Capital Femoral Epiphysis (SCFE)",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ انزلاق رأس عظمة الفخذ (SCFE). وين الفخ؟ الطفل بيجي بوجع 'بركبته' مش بوركه، وهاد وجع مضلل (Referred pain). كيف أستخدمها؟ لو طفل ناصح وعمره (10-17) وجعه ركبته وصورتها نظيفة، اطلب 'صورة حوض' وضعية (Frog-leg). ليش؟ لو ما تعالجت، رأس العظمة بموت (AVN)."
+  },
+  {
+    "referenceId": "frcem_b6_t3",
+    "topic": "Plantar Fasciitis Management",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ وجع 'مسمار اللحم' أو التهاب الرباط الأخمصي. وين الفخ؟ الوجع بكون 'بأول خطوة' لما المريض يصحى من النوم وبعدين بخف. كيف أستخدمها؟ العلاج مش بس مسكنات؛ أحسن شي هو 'تمارين الإطالة' ولبس جبيرة خفيفة بالليل بتخلي القدم مرفوعة (Dorsiflexion) عشان الرباط ما يشد وهو نايم."
+  },
+  {
+    "referenceId": "frcem_b7_t1",
+    "topic": "Post-obstructive Diuresis Admission Criteria",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ مريض كان عنده احتباس بول وركبناله قسطرة. وين الفخ؟ ممنوع تروحه فوراً. ليش؟ لأنه ممكن الكلى فجأة تطلع كميات بول هائلة (Diuresis) والمريض ينشف ويوقع ضغطه. كيف أستخدمها؟ راقبه 4 ساعات؛ لو بطلع أكتر من 200 مل بالساعة، هاد لازم يدخل المستشفى عشان ياخد سوائل تعويضية."
+  },
+  {
+    "referenceId": "frcem_b7_t2",
+    "topic": "Ebola Virus Disease (EVD) Triage",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ مريض جاي من بلد فيها وباء 'إيبولا'. وين الفخ؟ 'أهم' معلومة هي السفر بآخر 21 يوم. لو عنده حرارة وجاي من هناك، 'إياك' تبدأ فحوصات عادية. الحل؟ اعزل المريض فوراً بغرفة خاصة وخبر فريق مكافحة العدوى والوزارة. حماية الطاقم والناس هي الأولوية هون."
+  },
+  {
+    "referenceId": "frcem_b7_t3",
+    "topic": "Puerperal Mastitis Management",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "explanation": "شو الفكرة؟ التهاب الثدي عند المرضعة (Mastitis). وين الفخ؟ لازم الأم 'تستمر' بالرضاعة من الجهة الملتهبة عشان تنظف الحليب وما يتحول لخُراج. كيف أستخدمها؟ لو السونار مبين بس 'Cobblestoning' (زي الحجار)، هاد التهاب عادي وعلاجه مضاد حيوي (Cephalexin) لـ 7 أيام مع الرضاعة."
+  },
+  {
+    "topicId": "UNI_001",
+    "topic": "Lung-Protective Ventilation",
+    "explanation": "استعمل أحجام هواء صغيرة (Tidal volume) للمريض على المنفسة حتى لو ما عنده ARDS. التأخير لبعد النقل للعناية بزيد الوفيات. لو سألك عن أحسن طريقة لتقليل مضاعفات الرئة، الجواب (Lung-protective ventilation)."
+  },
+  {
+    "topicId": "UNI_002",
+    "topic": "Sepsis-3 and qSOFA",
+    "explanation": "تعريف السيبسيس الجديد بيعتمد على فشل الأعضاء (SOFA). الـ SIRS ما عادت هي الأساس. الـ qSOFA هو الأداة السريعة بالطوارئ: ضغط واطي (تحت 100)، نفس سريع (فوق 22)، أو وعي متأثر. لو في ثنتين من تلاتة المريض بخطر."
+  },
+  {
+    "topicId": "UNI_003",
+    "topic": "Cardiogenic Shock Management",
+    "explanation": "مريض جلطة وضغطه واطي وعنده سوائل ع الرئة (Rales). إياك تعطيه سوائل! العلاج الأول للضغط هون هو Norepinephrine مع ترتيب القسطرة فوراً."
+  },
+  {
+    "topicId": "UNI_004",
+    "topic": "Targeted Temperature Management (TTM)",
+    "explanation": "مريض رجع من سكتة قلبية بس لساته بغيبوبة. ممنوع تحكم عليه إنه ميت دماغياً قبل مرور 72 ساعة. التبريد (TTM) ضروري، وعادي جداً النبض ينزل (Bradycardia)؛ لو الضغط كويس لا تعمل شي."
+  },
+  {
+    "topicId": "UNI_005",
+    "topic": "Methemoglobinemia",
+    "explanation": "الدم المصدأ (Methemoglobinemia). الأكسجين ما برفع التشبع (O2 sat) بضل بحدود الـ 85%. لو مريض أخد بخاخ بنج (Benzocaine) وصار أزرق والدم لونه 'شوكلاتة'، الحل (Methylene Blue)."
+  },
+  {
+    "topicId": "UNI_006",
+    "topic": "Eclampsia",
+    "explanation": "تشنجات الحامل (Eclampsia). لا تبدأ بالأدوية العادية، الحل الأول دايماً هو (Magnesium Sulfate). تذكر إنها ممكن تصير لغاية 8 أسابيع بعد الولادة مش بس وقت الحمل."
+  },
+  {
+    "topicId": "UNI_007",
+    "topic": "Tension Pneumothorax",
+    "explanation": "هواء الصدر الضاغط. لو المريض على المنفسة وفجأة صار صعب تضغط البالون (Resistance)، هاد دليل قوي على (Tension). التشخيص إكلينيكي والحل إبرة فوراً قبل صورة الأشعة."
+  },
+  {
+    "topicId": "UNI_008",
+    "topic": "Gastric Outlet Obstruction (GOO)",
+    "explanation": "انسداد مخرج المعدة (GOO). العلامة المميزة جداً هي إن المريض بيستفرغ أكل أكله قبل أكتر من 12 ساعة ولساته زي ما هو. هاد بيشخص الانسداد الميكانيكي فوراً."
+  },
+  {
+    "topicId": "UNI_009",
+    "topic": "Aortic Dissection",
+    "explanation": "علاج تمزق الأورطي. أهم شي تقلل قوة خبطة الدم (dP/dt) مش بس الضغط. ابدأ بـ (Beta blocker) عشان تنزل النبض تحت الـ 60 قبل ما تعطي أدوية توسيع الشرايين (زي Nitroprusside) عشان ما يصير تسارع نبض رد فعل."
+  },
+  {
+    "topicId": "UNI_010",
+    "topic": "ACE-Inhibitor Induced Angioedema",
+    "explanation": "تحسس بسبب دواء الضغط (ACEi). هاد النوع ما بستجيب للأدرينالين لأنه سببه مادة (Bradykinin). لو اللسان منفوخ والمريض بياخد (Lisinopril)، جهز حالك للتنبيب فوراً وما تضيع وقت بالأدوية."
+  },
+  {
+    "topicId": "UNI_011",
+    "topic": "Acetaminophen (APAP) Toxicity",
+    "explanation": "تسمم الباراسيتامول. الترياق هو (NAC). لو المريض وضعه سيء، بنعتمد معايير (King's College) عشان نقرر لو بدوه زراعة كبد: لو الـ pH تحت 7.3 أو اللاكتات عالي بعد السوائل، لازم يتحول فوراً لمركز زراعة."
+  },
+  {
+    "topicId": "UNI_012",
+    "topic": "Febrile Infant Criteria",
+    "explanation": "كيف نعرف الطفل الصغير المسخن مش بوضع خطر؟ سكور 'فيلادلفيا' (29-56 يوم) هو الأدق لأنه بيشمل فحص سائل الظهر. لو كل الفحوصات طبيعية، فرصة وجود التهاب خطير (SBI) بتقل جداً (99.7% NPV)."
+  },
+  {
+    "topicId": "UNI_013",
+    "topic": "Testicular Torsion",
+    "explanation": "التواء الخصية. الوقت هو كل شي. لو مر أكتر من 6 ساعات، الفرصة بتبدأ تقل بسرعة. معلومة للامتحان: وجود تروية دم (Flow) بالسجنار ما بنفي الالتواء تماماً لو الشك عالي، والـ (Cremasteric reflex) ممكن يكون موجود أحياناً."
+  },
+  {
+    "topicId": "UNI_014",
+    "topic": "Digoxin Toxicity",
+    "explanation": "تسمم الديجوكسين. لو مريض قلب وعنده زغللة ألوان (هالات صفراء)، فكر بالتسمم المزمن. بالجرعة الزائدة الحادة، 'ارتفاع البوتاسيوم' علامة خطر. كل 'فايال' ترياق بتمسح نص ملغم دواء."
+  },
+  {
+    "topicId": "UNI_015",
+    "topic": "Hypernatremia Correction",
+    "explanation": "تصليح الصوديوم العالي. لو صارله فترة طويلة (>48 ساعة)، لازم ينزل 'شوي شوي'. لو نزلته بسرعة، المي رح تدخل فجأة للخلايا وتعمل 'نفخة' بالدماغ (Cerebral edema). السرعة المسموحة هي نص درجة بالساعة بس."
+  },
+  {
+    "topicId": "UNI_016",
+    "topic": "Brugada Syndrome",
+    "explanation": "متلازمة Brugada. مريض صغير بالعمر بيفقد الوعي فجأة. بالـ (ECG) رح تشوف ارتفاع (ST) في V1 و V2 بيشبه 'الزحليقة' (Coved). هاد مش جلطة، هاد مريض بخطر الموت المفاجئ ولازم يركب جهاز (AICD)."
+  },
+  {
+    "topicId": "UNI_017",
+    "topic": "Cyanide Toxicity (Nitroprusside)",
+    "explanation": "تسمم السيانيد بسبب دواء الضغط (Nitroprusside). لو المريض بياخد هاد الدواء وصار عنده 'حموضة بالدم' (Lactic Acidosis) بدون سبب واضح، وقف الدواء فوراً وأعطيه الترياق (Cyanokit)."
+  },
+  {
+    "topicId": "UNI_018",
+    "topic": "Slipped Capital Femoral Epiphysis (SCFE)",
+    "explanation": "انزلاق رأس عظمة الفخذ (SCFE). الطفل بيجي بوجع 'بركبته' مش بوركه. لو طفل ناصح وعمره (10-17) وجعه ركبته وصورتها نظيفة، اطلب 'صورة حوض' وضعية (Frog-leg) عشان ما تفقد تروية العظمة ويموت رأسها (AVN)."
+  },
+  {
+    "topicId": "UNI_019",
+    "topic": "Naloxone vs. Long-Acting Opioids",
+    "explanation": "مفعول النالوكسون قصير جداً (ساعة واحدة بس). لو المريض أخد جرعة زائدة من مخدر طويل المفعول (زي Methadone)، رح يرجع يغيب عن الوعي بعد ما يخلص النالوكسون. لازم يضل تحت المراقبة 4-6 ساعات ع الأقل."
+  },
+  {
+    "topicId": "UNI_020",
+    "topic": "Dialysis Indications (AEIOU)",
+    "explanation": "متى المريض لازم يغسل كلى 'فوراً' بالطوارئ؟ تذكر (AEIOU): حموضة (Acidosis)، معادن (Electrolytes-K)، تسمم (Ingestions)، زيادة سوائل (Overload)، أو يوريميا (Uremia) أثرت ع الدماغ أو القلب."
+  },
+  {
+    "topicId": "UNI_021",
+    "topic": "Psoas Hematoma in Anticoagulated Patients",
+    "explanation": "مريض بياخد وارفارين وصار عنده ضعف مفاجئ برِجله مع وجع ظهر. الفخ إنه ممكن تفكرها ديسك ظهر، بس لو النبض سريع والـ INR عالي، هاد نزيف ضاغط ع العصب. الضعف بكون في الورك والركبة، بس دعسة الرِجل بتضل قوية."
+  },
+  {
+    "topicId": "UNI_022",
+    "topic": "Heterotopic Pregnancy and Relative Bradycardia",
+    "explanation": "حمل 'خارج' و'داخل' الرحم بنفس الوقت. المريضة ممكن تنزف لتر دم ببطنها ولسه النبض عندها طبيعي (Relative bradycardia). لا تنخدع بالنبض الطبيعي لو المريضة عاملة زراعة أطفال أنابيب (ART)."
+  },
+  {
+    "topicId": "UNI_023",
+    "topic": "Spontaneous Bacterial Peritonitis (SBP) and Beta-Blockers",
+    "explanation": "مريض تشمع كبد وعنده (SBP). لازم توقف أدوية الضغط من عيلة (Beta blockers) فوراً، لأنها بتزود نسبة الوفيات في هاد الوضع الخاص."
+  },
+  {
+    "topicId": "UNI_024",
+    "topic": "Fracture Blisters",
+    "explanation": "فقاعات بتطلع ع الجلد مكان الكسر. هاد الكسر ما بينفع يتصلح بعملية والفقاعات موجودة لأنها بتعمل التهاب بالعظم. استنى الجلد يطيب قبل العملية."
+  },
+  {
+    "topicId": "UNI_025",
+    "topic": "Malaria Species and Airport Presentation",
+    "explanation": "ملاريا بدون سفر. المريض ممكن يكون شغال بالمطار ولسعته بعوضة إجت بالطيارة. لو شفت حرارة دورية مع تكسر دم في مريض شغال بالمطار، اطلب (Peripheral smear) فوراً."
+  },
+  {
+    "topicId": "UNI_026",
+    "topic": "Posterior Reversible Encephalopathy Syndrome (PRES)",
+    "explanation": "مريض غسيل كلى أو بياخد كيماوي وصار عنده وجع راس وتشنجات مع ضغط عالي جداً. بالطبقية رح تشوف بقع سوداء من ورا بالجهتين، وهاد مش جلطة، هاد PRES. الحل تنزيل الضغط بحذر."
+  },
+  {
+    "topicId": "UNI_027",
+    "topic": "Refractory Status Epilepticus (ESETT)",
+    "explanation": "شو أحسن دواء لو المنومات ما وقفت التشنج؟ دراسة ESETT حكت إن الفوسفينيتوين، الفالبرويت، والليبفيراستام كلهم نفس النتيجة تقريباً. اختار المتوفر عندك."
+  },
+  {
+    "topicId": "UNI_028",
+    "topic": "Isoniazid (INH) Toxicity",
+    "explanation": "مريض سل وبياخد (Isoniazid) وصار عنده تشنجات ما بتوقف بالأدوية العادية. الأدوية العادية ما رح تنفع لأن المشكلة هي نقص فيتامين B6. الحل هو (Pyridoxine) غرام مقابل كل غرام دواء بلعه."
+  },
+  {
+    "topicId": "UNI_029",
+    "topic": "Brainstem Stroke and Crossed Deficits",
+    "explanation": "لو شفت أعراض 'مصلّبة' (جهة بالوجه وجهة بالجسم)، الجلطة دايماً بجذع الدماغ. مثلاً عين يمين نازلة لبرة مع ضعف إيد ورِجل شمال، هاي جلطة بجذع الدماغ يمين."
+  },
+  {
+    "topicId": "UNI_030",
+    "topic": "Opioid-Induced Constipation and PAMORAs",
+    "explanation": "مريض وجع مزمن بياخد مسكنات قوية وصار عنده إمساك شديد. لا تنزل جرعة المسكن عشان ما يدخل المريض بانسحاب. الحل هو دواء (PAMORA) بيسكر مستقبلات الوجع 'بس بالأمعاء'."
+  },
+  {
+    "topicId": "UNI_031",
+    "topic": "Succinylcholine Use in Acute Burns",
+    "explanation": "مريض محروق وبدنا نعمله (RSI). الكل بخاف من (Succinylcholine)، بس الحقيقة إنه 'آمن' أول 4 أيام بعد الحرق. لو صارله أسبوع، هون الخطر الحقيقي وممنوع تستعمله."
+  },
+  {
+    "topicId": "UNI_032",
+    "topic": "Antiphospholipid Syndrome (APS) and PE",
+    "explanation": "مريضة ذئبة صار عندها جلطة رئة بسبب متلازمة (APS). أدوية السيولة الجديدة (DOACs) مفعولها ضعيف بهاد المرض. استعمل (Warfarin) للمدى الطويل مش الأدوية الجديدة."
+  },
+  {
+    "topicId": "UNI_033",
+    "topic": "Resuscitative Hysterotomy (Perimortem C-Section)",
+    "explanation": "عملية قيصرية طارئة وقت توقف قلب الأم الحامل. لازم تنعمل بالطوارئ خلال 4-5 دقائق لو الرحم واصل للسرة. الهدف الأول هو إنقاذ الأم بتقليل الضغط ع الشرايين الكبيرة."
+  },
+  {
+    "topicId": "UNI_034",
+    "topic": "Pacemaker-Mediated Tachycardia (PMT)",
+    "explanation": "مريض عنده منظم ضربات ونبضه سريع جداً بدون سبب. الحل؟ حط 'مغناطيس' فوق الجهاز؛ المغناطيس بيلغي خاصية الإحساس بالجهاز وبيرجع النبض لوضعه الطبيعي وبيكسر الدائرة الغلط."
+  },
+  {
+    "topicId": "UNI_035",
+    "topic": "Retrobulbar Hemorrhage / Lateral Canthotomy",
+    "explanation": "نزيف خلف العين (Retrobulbar). الضغط العالي بيقطع الدم عن العصب. الحل 'قص طرف الجفن' (Lateral canthotomy) فوراً بالطوارئ. لا تضيع وقت بالصور الطبقية لو النظر عم بيختفي."
+  },
+  {
+    "topicId": "UNI_036",
+    "topic": "High-Flow Nasal Oxygen (HFNO) vs NRB",
+    "explanation": "الـ (Nonrebreather) العادي بيعطي بس 50% أكسجين حقيقي. لازم تفتح الأكسجين ع الآخر (Flush rate) أو تستعمل (High-flow nasal cannula) عشان تغسل النيتروجين من الرئة قبل التنبيب."
+  },
+  {
+    "topicId": "UNI_037",
+    "topic": "Pediatric Jet Ventilation",
+    "explanation": "تهوية الرئة بالأبرة للأطفال. ممنوع تستعمل ضغط عالي زي الكبار. ابدأ بضغط (0.5 psi) لكل كيلو من وزن الطفل وزيده شوي شوي لغاية ما تشوف الصدر بيرتفع."
+  },
+  {
+    "topicId": "UNI_038",
+    "topic": "Post-MI Papillary Muscle Rupture",
+    "explanation": "مريض جلطة صار عنده تمزق في عضلات الصمام بعد 3 أيام. المريض رح يغرق بمية الرئة وضغطه يوقع. إياك تعطيه سوائل! الحل هو أكسجين ضاغط وعملية جراحية طارئة."
+  },
+  {
+    "topicId": "UNI_039",
+    "topic": "TXA Timing in Trauma",
+    "explanation": "دواء (TXA) للنزيف ممتاز بس 'أول 3 ساعات' من الحادث بس. لو مر أكتر من 3 ساعات، الدواء بصير مضر وبزيد الوفيات."
+  },
+  {
+    "topicId": "UNI_040",
+    "topic": "Open Fracture Antibiotics (Soil/Farm)",
+    "explanation": "لو الحادث صار بـ 'مزرعة' أو فيها 'تراب'، لازم تضيف (Penicillin G) عشان تحمي المريض من 'الغرغرينا الغازية' (Gas gangrene)."
+  },
+  {
+    "topicId": "DERIVED_041",
+    "topic": "EMTALA and Interfacility Transfer",
+    "explanation": "شو الفكرة؟ قانون EMTALA بيحمي المريض من النقل قبل الاستقرار. وين الفخ؟ الطبيب اللي بيبعت المريض هو اللي بيتحمل المسؤولية القانونية وقت النقل. كيف أستخدمها بالامتحان؟ المسؤولية تقع على عاتق المستشفى المرسِل."
+  },
+  {
+    "topicId": "DERIVED_042",
+    "topic": "Blast Injury Pathophysiology",
+    "explanation": "شو الفكرة؟ إصابات الانفجار بتقسم لدرجات. وين الفخ؟ إصابة الرئة هي القاتل الأول بالأولية، بس طبلة الأذن مش مقياس دقيق لإصابات الصدر والبطن. كيف أستخدمها بالامتحان؟ الرئة هي أهم عضو في الـ Primary blast."
+  },
+  {
+    "topicId": "DERIVED_043",
+    "topic": "TIMI Risk Score",
+    "explanation": "شو الفكرة؟ سكور TIMI لتقييم خطورة مرضى جلطات القلب. وين الفخ؟ إنه ما بيعتمد على قصة المريض السريرية (History) زي الـ HEART score. كيف أستخدمها بالامتحان؟ ركز بالأرقام: العمر فوق 65، واستخدام الأسبرين آخر أسبوع."
+  },
+  {
+    "topicId": "DERIVED_044",
+    "topic": "Klebsiella Pneumonia",
+    "explanation": "شو الفكرة؟ التهاب رئوي حاد عند مرضى الكحول. وين الفخ؟ البلغم بكون لونه زي 'مربى التوت' (Currant jelly). كيف أستخدمها بالامتحان؟ لو شفت مريض كحولي وعنده (Bulging fissure sign) بالأشعة، الجواب هو كليبسيلا."
+  },
+  {
+    "topicId": "DERIVED_045",
+    "topic": "Pediatric Airway Sizing",
+    "explanation": "شو الفكرة؟ مقاسات أنابيب التنفس للأطفال حسب العمر. وين الفخ؟ زمان كانوا يفضلوا الـ Uncuffed للصغار، بس حالياً الـ Cuffed هو المفضل. كيف أستخدمها بالامتحان؟ احفظ المقاسات لكل فئة عمرية بدقة."
+  },
+  {
+    "topicId": "DERIVED_046",
+    "topic": "Pediatric Head Trauma Rules (PECARN)",
+    "explanation": "شو الفكرة؟ متى أطلب صورة طبقية (CT) لرأس الطفل بعد الوقعة؟ وين الفخ؟ الضربة ع الجبهة (Frontal) مش خطيرة، بس الضربة من الجنب أو ورا هي اللي بتخوف. كيف أستخدمها بالامتحان؟ طبق قواعد PECARN لتجنب الأشعة الزائدة."
+  },
+  {
+    "topicId": "DERIVED_047",
+    "topic": "Disseminated Gonococcal Infection (DGI)",
+    "explanation": "شو الفكرة؟ مريض شاب عنده وجع مفاصل وطفح جلدي حبوب (Pustules). وين الفخ؟ التشخيص بيعتمد على مكان الحبوب (Acral) والقصة الجنسية. كيف أستخدمها؟ لو شفت حبوب ع الأطراف مع وجع مفاصل، فكر بـ DGI."
+  },
+  {
+    "topicId": "DERIVED_048",
+    "topic": "Toxic Shock Syndrome (TSS)",
+    "explanation": "شو الفكرة؟ تسمم بكتيري بيعمل هبوط ضغط وطفح جلدي زي حرق الشمس. وين الفخ؟ الطفح في الـ Staph بيكون مش مؤلم، بس في الـ Strep بيكون فيه وجع شديد. كيف أستخدمها؟ دور على سدادة أنف أو (tampon) منسي."
+  },
+  {
+    "topicId": "DERIVED_049",
+    "topic": "Tetanus Management",
+    "explanation": "شو الفكرة؟ التيتانوس بيعمل تشنجات عضلية قاتلة. وين الفخ؟ لازم تعطي المضاد (TIG) 'قبل' ما تنظف الجرح عشان ما تطلع السموم زيادة. كيف أستخدمها؟ ترتيب الخطوات مهم جداً في السؤال: TIG أولاً."
+  },
+  {
+    "topicId": "DERIVED_050",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+    "explanation": "شو الفكرة؟ ضغط عالي جوا الدماغ بدون سبب واضح، بيجي للستات البدينات. وين الفخ؟ أهم خطر هو فقدان البصر الدائم. كيف أستخدمها؟ لو مريضة بدينة عندها وجع رأس وغباش رؤية، الـ LP هو الحل للتشخيص."
+  },
+  {
+    "topicId": "DERIVED_051",
+    "topic": "Status Epilepticus",
+    "explanation": "شو الفكرة؟ تشنج مستمر أكتر من 5 دقائق. وين الفخ؟ التعريف القديم (30 دقيقة) ما عاد ينفع للامتحان. كيف أستخدمها؟ الخطوة الأولى دايماً بنزو (Lorazepam) وإذا ما نفع، بنروح للخطوة التانية."
+  },
+  {
+    "topicId": "DERIVED_052",
+    "topic": "Caustic Ingestions (Acid vs Alkali)",
+    "explanation": "شو الفكرة؟ بلع مواد كاوية (حمض أو قلوي). وين الفخ؟ ممنوع تعطي مية أو حليب عشان تعادل المادة (Neutralization) لأنها بتعمل حرارة وبتحرق الأنسجة زيادة. كيف أستخدمها؟ الخطوة الصح هي المنظار (Endoscopy)."
+  },
+  {
+    "topicId": "DERIVED_053",
+    "topic": "Frostbite Management",
+    "explanation": "شو الفكرة؟ تجمد الأطراف. وين الفخ؟ إياك تشيل الجلد الميت (Debridement) في الطوارئ؛ استنى أسابيع لتبين الحدود. كيف أستخدمها؟ العلاج الأساسي تدفئة سريعة بمية دافية (مش حامية كتير)."
+  },
+  {
+    "topicId": "DERIVED_054",
+    "topic": "Carbon Monoxide (CO) Poisoning",
+    "explanation": "شو الفكرة؟ تسمم غاز أول أكسيد الكربون. وين الفخ؟ جهاز الـ (Pulse oximetry) العادي بكون طبيعي رغم إن المريض مخنوق. كيف أستخدمها؟ احفظ أرقام الـ (HBO): أكتر من 15 للحامل وأكتر من 25 للباقي."
+  },
+  {
+    "topicId": "DERIVED_055",
+    "topic": "Diabetic Ketoacidosis (DKA) Management",
+    "explanation": "شو الفكرة؟ حموضة الدم لمرضى السكر. وين الفخ؟ أهم شي البوتاسيوم. إذا البوتاسيوم واطي وبدأت (Insulin)، المريض ممكن يموت فوراً. كيف أستخدمها؟ تأكد من البوتاسيوم قبل ما تشغل مضخة الإنسولين."
+  },
+  {
+    "topicId": "DERIVED_056",
+    "topic": "Adrenal Crisis",
+    "explanation": "شو الفكرة؟ فشل الغدة الكظرية، بكون المريض عنده هبوط ضغط ما بتحسن بالسوائل. وين الفخ؟ فكر فيها دايماً لو مريض بياخد كورتيزون ووقفه فجأة. كيف أستخدمها؟ العلاج هو (Hydrocortisone) 100 ملغ وريد فوراً."
+  },
+  {
+    "topicId": "DERIVED_057",
+    "topic": "Immune Thrombocytopenic Purpura (ITP)",
+    "explanation": "شو الفكرة؟ تكسر صفائح مناعي. وين الفخ؟ المريض بكون (Well-appearing) وما عنده تضخم طحال. كيف أستخدمها؟ لو الصفائح تحت الـ 30 ألف، ابدأ كورتيزون. نقل الصفائح بس للحالات الخطيرة جداً."
+  },
+  {
+    "topicId": "DERIVED_058",
+    "topic": "Retinal Detachment",
+    "explanation": "شو الفكرة؟ انفصال الشبكية. وين الفخ؟ المريض بحس ببرق (Flashers) أو ستارة سودة نزلت على عينه. كيف أستخدمها؟ بالسونار بتشوف خط أبيض طاير جوا العين بس لساته ماسك في العصب البصري."
+  },
+  {
+    "topicId": "DERIVED_059",
+    "topic": "Tracheoinnominate Artery Fistula",
+    "explanation": "شو الفكرة؟ ناسور بين القصبة الهوائية وشريان كبير، بيعمل نزيف مرعب. وين الفخ؟ النزيف الصغير اللي بسبق الانفجار (Sentinel bleed) هو التحذير الأخير. كيف أستخدمها؟ انفخ الـ (Cuff) ع الآخر عشان تضغط الشريان وتوقف النزيف."
+  },
+  {
+    "topicId": "DERIVED_060",
+    "topic": "Erythema Multiforme (EM) and SJS/TEN",
+    "explanation": "شو الفكرة؟ حساسية جلدية شديدة للأدوية. وين الفخ؟ الـ SJS والـ TEN هم نفس المرض بس الفرق بالمساحة اللي بتقشر. كيف أستخدمها؟ دور على علامة (Nikolsky) - إذا الجلد بفتح بالإيد، المريض في خطر ولازم يروح مركز حروق."
+  },
+  {
+    "topicId": "DERIVED_061",
+    "topic": "Pregnancy in Trauma",
+    "explanation": "شو الفكرة؟ حادث لمريضة حامل. وين الفخ؟ أهم حركة هي إنك تميل المريضة لليسار 30 درجة عشان الرحم ما يضغط على الوريد الأجوف. كيف أستخدمها؟ تذكر إن السونار ما بنفي انفصال المشيمة، المراقبة بالجهاز (CTG) هي الأساس."
+  },
+  {
+    "topicId": "DERIVED_062",
+    "topic": "NEXUS Rules for Chest Imaging",
+    "explanation": "شو الفكرة؟ متى أطلب صورة أشعة للصدر في الحوادث؟ وين الفخ؟ إذا عمر المريض فوق الـ 60، القواعد هاي ما بتنفع ولازم تطلب صورة. كيف أستخدمها؟ طبق الشروط، إذا واحد منهم موجود، اطلب الصورة."
+  },
+  {
+    "topicId": "DERIVED_063",
+    "topic": "Ottawa Knee Rules",
+    "explanation": "شو الفكرة؟ متى أطلب صورة للركبة؟ وين الفخ؟ انتبه لموضوع الـ (fibula head) والقدرة على المشي 4 خطوات. كيف أستخدمها؟ إذا المريض ما بقدر يمشي أو عمره فوق 55، الصورة ضرورية."
+  },
+  {
+    "topicId": "DERIVED_064",
+    "topic": "Compartment Syndrome",
+    "explanation": "شو الفكرة؟ ضغط عالي جوا العضلات بيقطع عنها التروية. وين الفخ؟ دايماً الطلاب بفكروا إن غياب النبض هو العلامة الأساسية، بس الحقيقة إنه 'الوجع مع شد العضلة' هو أدق علامة. كيف أستخدمها؟ لا تستنى النبض ليختفي، شخصها بدري."
+  },
+  {
+    "topicId": "DERIVED_065",
+    "topic": "Sciatica and Herniated Nucleus Pulposus (HNP)",
+    "explanation": "شو الفكرة؟ وجع ظهر نازل ع الرجل (Radiculopathy). وين الفخ؟ مش دايماً بدها MRI؛ العلاج الأولي دايماً هو مسكنات (NSAIDs). كيف أستخدمها؟ لو المريض ما عنده علامات (Cauda Equina)، ارفض الـ MRI."
+  },
+  {
+    "topicId": "DERIVED_066",
+    "topic": "Psoas Abscess",
+    "explanation": "شو الفكرة؟ خراج في العضلة خلف الأمعاء (Psoas). وين الفخ؟ المريض بيجي بوجع ورك بس المشكلة مش بالورك نفسه. كيف أستخدمها؟ دور على وجع لما تمد الورك لورا (Extension) ومريض عنده حرارة وسكري."
+  },
+  {
+    "topicId": "DERIVED_067",
+    "topic": "Septic Arthritis in Immunocompromised Patients",
+    "explanation": "شو الفكرة؟ التهاب مفصل بكتيري. وين الفخ؟ مريض المناعة الضعيفة (زي مريض الـ HIV) ممكن ما يكون عنده خلايا دم بيضاء عالية بالمفصل. كيف أستخدمها؟ لا تعتمد بس على فحص السائل إذا المريض تعبان وعنده مناعة ضعيفة، ابدأ مضادات حيوية فوراً."
+  },
+  {
+    "topicId": "DERIVED_068",
+    "topic": "Suicide Risk Assessment",
+    "explanation": "شو الفكرة؟ تقييم خطر الانتحار. وين الفخ؟ الرجال الكبار بالعمر اللي فقدوا زوجاتهم وعندهم سلاح هم الأكثر عرضة للانتحار الفعلي. كيف أستخدمها؟ لو المريض عنده 'خطة' (Plan)، لازم يدخل المستشفى رغماً عنه (Involuntary)."
+  },
+  {
+    "topicId": "DERIVED_069",
+    "topic": "Acute Dystonic Reactions",
+    "explanation": "شو الفكرة؟ تشنج عضلي غريب بسبب دواء (زي الهالدول). وين الفخ؟ ممكن تكون بسبب أدوية الاستفراغ (Metoclopramide) مش بس أدوية النفسية. كيف أستخدمها؟ العلاج هو (Diphenhydramine) أو (Benztropine) وريد والتحسن بكون سحري وسريع."
+  },
+  {
+    "topicId": "DERIVED_070",
+    "topic": "Eating Disorders (Bulimia Nervosa)",
+    "explanation": "شو الفكرة؟ اضطراب الأكل (تطريش متعمد). وين الفخ؟ المريض ممكن يكون وزنه طبيعي بس عنده تآكل في الأسنان وجروح في مفاصل الإيد (Russell sign). كيف أستخدمها؟ الـ ECG مهم جداً عشان نشوف تأثير نقص البوتاسيوم (Prolonged QTc)."
+  },
+  {
+    "topicId": "DERIVED_071",
+    "topic": "Intimate Partner Violence (IPV)",
+    "explanation": "شو الفكرة؟ عنف أسري. وين الفخ؟ لو المريضة حامل وعندها كدمات على البطن أو الصدر، هاي علامة حمراء للعنف. كيف أستخدمها؟ لازم تفحص المريضة لحالها وتوثق الإصابات بدقة بدون إصدار أحكام."
+  },
+  {
+    "topicId": "DERIVED_072",
+    "topic": "Elder Abuse",
+    "explanation": "شو الفكرة؟ إساءة معاملة كبار السن. وين الفخ؟ غالباً اللي بيأذي هو الشخص اللي بيهتم فيه (الابن أو البنت). كيف أستخدمها؟ لو شفت كدمات أو المريض محروم من أدويته أو فلوسه بتنسرق، لازم تبلغ الجهات المعنية."
+  },
+  {
+    "topicId": "DERIVED_073",
+    "topic": "Febrile IV Drug User (IVDU) and TB Isolation",
+    "explanation": "شو الفكرة؟ مريض مدمن (IVDU) وعنده حرارة وصورة الأشعة فيها فتحات بالرئة (Cavitary). وين الفخ؟ الـ PPD السالب القديم ما بنفي السل (TB). كيف أستخدمها؟ الخطوة الأولى والأساسية هي عزله في غرفة ضغط سالب (Isolation) لحماية المستشفى."
+  },
+  {
+    "topicId": "DERIVED_074",
+    "topic": "Consent and the Mature Minor Doctrine",
+    "explanation": "شو الفكرة؟ هل الطفل بقدر يقرر علاجه؟ وين الفخ؟ المراهق فوق الـ 14 اللي فاهم شو بيعمل ممكن يعطي موافقة بدون أهله (Mature Minor). كيف أستخدمها؟ لو المريض متزوج أو بالجيش، بيعتبر (Emancipated) وله كامل الحقوق زي الكبير."
+  },
+  {
+    "topicId": "DERIVED_075",
+    "topic": "Tactical Combat Casualty Care (TCCC)",
+    "explanation": "شو الفكرة؟ طب الحروب. وين الفخ؟ الترتيب هون مش ABC، الترتيب هو وقف النزيف (Tourniquet) أولاً. كيف أستخدمها؟ تحت النار، ما بنعمل إنعاش قلبي (CPR) لأنه ما بنفع في هاي الحالات."
+  },
+  {
+    "topicId": "DERIVED_076",
+    "topic": "Cardiac Tamponade POCUS",
+    "explanation": "شو الفكرة؟ تشخيص اندحاس القلب بالسونار. وين الفخ؟ أهم علامة هي انكماش البطين الأيمن (RV) وقت الـ (Diastole). كيف أستخدمها؟ لو الـ IVC كبير وما بتغير مع النفس (Plethoric)، والبطين منكمش، هي حالة طارئة."
+  },
+  {
+    "topicId": "DERIVED_077",
+    "topic": "Pneumothorax POCUS (M-Mode)",
+    "explanation": "شو الفكرة؟ تشخيص هواء الصدر بالسونار (M-mode). وين الفخ؟ العلامة الطبيعية هي 'شط البحر' (Sandy Beach). كيف أستخدمها؟ لو شفت بس خطوط (Barcode Sign)، يعني في هواء فاصل بين الرئة والجدار."
+  },
+  {
+    "topicId": "DERIVED_078",
+    "topic": "Abdominal Aortic Aneurysm (AAA) POCUS",
+    "explanation": "شو الفكرة؟ قياس توسع الشريان الأورطي (AAA). وين الفخ؟ لازم تقيس من جدار الجدار الخارجي. لو في تجلط (Thrombus)، لا تقيس بس الجزء الأسود، لأنك رح تطلع القياس غلط."
+  },
+  {
+    "topicId": "DERIVED_079",
+    "topic": "Retinal Detachment POCUS",
+    "explanation": "شو الفكرة؟ انفصال الشبكية بالسونار. وين الفخ؟ الشبكية دايماً بضل 'مربوطة' بالعصب البصري (Optic Disc). كيف أستخدمها؟ لو شفت غشاء بيتحرك بس ماسك في نقطة العصب، هي شبكية. لو بيتحرك بحرية، غالباً نزيف (Vitreous Hemorrhage)."
+  },
+  {
+    "topicId": "DERIVED_080",
+    "topic": "POCUS for Aortic Dissection Limitations",
+    "explanation": "شو الفكرة؟ هل السونار بنفي تمزق الأورطي (Dissection)؟ وين الفخ؟ الجواب (لا) قطعية. السونار دقته ضعيفة جداً في هذا المرض. كيف أستخدمها؟ لو السونار طبيعي والمريض عنده وجع صدر 'مزيق'، اطلب (CTA) فوراً."
+  },
+  {
+    "topicId": "DERIVED_081",
+    "topic": "Scope and Principles of GEM",
+    "explanation": "شو الفكرة؟ الطب الطارئ العالمي بركز على حل المشكلة حسب شكوى المريض مش بس التشخيص. وين الفخ؟ الشغل الإنساني (فزعة) بختلف عن شغل التطوير (بناء نظام). كيف أستخدمها؟ تذكر إنه GEM شامل لكل الأعمار والحالات."
+  },
+  {
+    "topicId": "DERIVED_082",
+    "topic": "Geriatric Emergency Department (GED) Guidelines",
+    "explanation": "شو الفكرة؟ توصيات خاصة لكبار السن بالطوارئ. وين الفخ؟ تقييم 'المعالج الفيزيائي' بالذات بقلل احتمالية وقوع المريض مرة تانية خلال شهر. كيف أستخدمها؟ لو سألك عن شيء بقلل تكرار الزيارات بعد الوقوع، الجواب (Physical Therapy)."
+  },
+  {
+    "topicId": "DERIVED_083",
+    "topic": "Gunshot Wound (GSW) Documentation",
+    "explanation": "شو الفكرة؟ توثيق جروح الرصاص. وين الفخ؟ ممنوع تكتب 'مدخل' أو 'مخرج' (Entrance/Exit) بالتقرير الطبي. كيف أستخدمها؟ بس أوصف الجرح (مكان، قطر، حروق حوله) واترك التفسير للطب الشرعي."
+  },
+  {
+    "topicId": "DERIVED_084",
+    "topic": "Interfacility Transport of STEMI",
+    "explanation": "شو الفكرة؟ نقل مرضى الجلطة بالهليكوبتر. وين الفخ؟ حركة (Hot loading) إنك تحمل المريض والمحركات شغالة بتوفر وقت ثمين جداً. كيف أستخدمها؟ أي تأخير في الـ (DIDO) لأكثر من 30 دقيقة هو مؤشر جودة سيء."
+  },
+  {
+    "topicId": "DERIVED_085",
+    "topic": "SAVE Triage Guidelines",
+    "explanation": "شو الفكرة؟ ترياج (SAVE) في الكوارث الكبيرة. وين الفخ؟ هون القرار بيعتمد على 'مين اللي رح يعيش لو استهلكنا عليه مواردنا'، مش مين اللي حالته أخطر. كيف أستخدمها؟ لو السؤال عن كارثة مطولة وما في إخلاء، استعمل SAVE."
+  },
+  {
+    "topicId": "DERIVED_086",
+    "topic": "Lung-Protective Ventilation in the ED",
+    "explanation": "شو الفكرة؟ استعمل أحجام هواء صغيرة (Tidal volume) للمريض على المنفسة حتى لو ما عنده ARDS. وين الفخ؟ التأخير لبعد النقل للعناية بزيد الوفيات. كيف أستخدمها؟ لو سألك عن أحسن طريقة لتقليل مضاعفات الرئة، الجواب (Lung-protective ventilation)."
+  },
+  {
+    "topicId": "DERIVED_087",
+    "topic": "Sepsis-3 Definitions",
+    "explanation": "شو الفكرة؟ تعريف السيبسيس الجديد بيعتمد على فشل الأعضاء (SOFA). وين الفخ؟ الـ SIRS (زي الحرارة والنبض) ما عادت هي الأساس في التعريف الجديد. كيف أستخدمها؟ الـ qSOFA هو الأداة السريعة بالطوارئ لتقييم خطر الوفاة."
+  },
+  {
+    "topicId": "DERIVED_088",
+    "topic": "Cardiogenic Shock and Fluids",
+    "explanation": "شو الفكرة؟ مريض جلطة وضغطه واطي وعنده سوائل ع الرئة. وين الفخ؟ إياك تعطيه سوائل (Crystalloids). كيف أستخدمها؟ العلاج الأول للضغط هون هو Norepinephrine مع ترتيب القسطرة فوراً."
+  },
+  {
+    "topicId": "DERIVED_089",
+    "topic": "Balanced Crystalloids vs. Normal Saline",
+    "explanation": "شو الفكرة؟ الـ LR أحسن من الـ Saline في حالات الصدمة الإنتانية. وين الفخ؟ السينلاين بكميات كبيرة بيعمل حموضة بالدم (Hyperchloremic acidosis) وممكن يضرب الكلى. كيف أستخدمها؟ دايماً اختار Balanced crystalloids لو الخيار موجود."
+  },
+  {
+    "topicId": "DERIVED_090",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis",
+    "explanation": "شو الفكرة؟ مريض رجع قلبه بس لساته بغيبوبة. وين الفخ؟ ممنوع تحكم عليه إنه ميت دماغياً قبل مرور 72 ساعة. كيف أستخدمها؟ الـ TTM ضروري لكل المرضى اللي ما بصحصحوا بعد الإنعاش، وابعد عن تبريد المريض بالسوائل الباردة قبل ما يوصل المستشفى."
+  },
+  {
+    "topicId": "DERIVED_091",
+    "topic": "Pain Transmission and Assessment",
+    "explanation": "شو الفكرة؟ كيف بنقيس الوجع؟ وين الفخ؟ لا تعتمد على النبض أو الضغط لتعرف إذا المريض بيتوجع. كيف أستخدمها؟ كلام المريض هو المرجع الأول (Gold standard). معلومة للامتحان: وجع القلب بينتقل عن طريق الجهاز السمبثاوي."
+  },
+  {
+    "topicId": "DERIVED_092",
+    "topic": "Ketamine Complications and Contraindications",
+    "explanation": "شو الفكرة؟ مخاطر الكيتامين. وين الفخ؟ الكيتامين بيرفع ضغط العين، فممنوع لو المريض عنده إصابة 'عين مفتوحة'. كيف أستخدمها؟ لو المريض طفل وصار عنده (Laryngospasm)، بكون غالباً بسبب التهاب تنفسي حالي أو عمره أقل من 3 شهور."
+  },
+  {
+    "topicId": "DERIVED_093",
+    "topic": "Botulism Pathophysiology",
+    "explanation": "شو الفكرة؟ تسمم الوشيق (Botulism). وين الفخ؟ المريض بكون عنده أعراض (Autonomic) زي نشاف ريق واحتباس بول، وهاد اللي بيميزه عن الوهن العضلي الوبيل (Myasthenia). كيف أستخدمها؟ لو شفت شلل نازل (Descending) مع أعراض ناشفة، فكر بالبوتولزم."
+  },
+  {
+    "topicId": "DERIVED_094",
+    "topic": "Methemoglobinemia Clinical Presentation",
+    "explanation": "شو الفكرة؟ الدم المصدأ (Methemoglobinemia). وين الفخ؟ المريض لونه أزرق بس الأكسجين بالدم (ABG) طبيعي، والتشبع (O2 sat) بكون ثابت عند 85%. كيف أستخدمها؟ لو طفل استعمل جل أسنان وصار أزرق، ابحث عن 'دم بلون الشوكولاتة' والعلاج (Methylene Blue)."
+  },
+  {
+    "topicId": "DERIVED_095",
+    "topic": "Eclamptic Seizures Management",
+    "explanation": "شو الفكرة؟ تشنجات الحامل (Eclampsia). وين الفخ؟ لا تبدأ بالأدوية العادية زي الـ Valproate، الحل الأول دايماً هو (Magnesium Sulfate). كيف أستخدمها؟ 4 لـ 6 غرام وريد هي الخطوة الأولى، وصورة الأشعة بس لو المريض ما صحي بعد التشنج."
+  },
+  {
+    "topicId": "DERIVED_096",
+    "topic": "Tension Pneumothorax and Ventilation",
+    "explanation": "شو الفكرة؟ هواء الصدر الضاغط. وين الفخ؟ لو المريض على المنفسة وفجأة صار صعب تضغط البالون (Resistance)، هاد دليل قوي على (Tension). كيف أستخدمها؟ التشخيص إكلينيكي والحل إبرة فوراً قبل حتى صورة الأشعة."
+  },
+  {
+    "topicId": "DERIVED_097",
+    "topic": "Gastric Outlet Obstruction",
+    "explanation": "شو الفكرة؟ انسداد مخرج المعدة (GOO). وين الفخ؟ العلامة المميزة جداً هي إن المريض بيستفرغ أكل أكله قبل أكتر من 12 ساعة ولساته زي ما هو. كيف أستخدمها؟ هاد العرض بيشخص الانسداد فوراً ولازم تركب NG tube وتدور على السبب (زي قرحة أو ورم)."
+  },
+  {
+    "topicId": "DERIVED_098",
+    "topic": "Fecal Impaction and Diarrhea",
+    "explanation": "شو الفكرة؟ الإسهال الكاذب (Overflow diarrhea). وين الفخ؟ المريض الكبير بالعمر ممكن يجي بإسهال وهو بالأصل عنده 'تسكيرة' براز (Impaction). كيف أستخدمها؟ الفحص الشرجي (Rectal exam) ضروري جداً لهيك حالات قبل ما توصف أدوية إسهال وتزيد المشكلة."
+  },
+  {
+    "topicId": "DERIVED_099",
+    "topic": "Initial Evaluation of Vaginal Bleeding",
+    "explanation": "شو الفكرة؟ مريضة عندها نزيف مهبلي. وين الفخ؟ أهم وأول خطوة بعد التأكد من الضغط هي 'فحص الحمل'. كيف أستخدمها؟ النتيجة بتغير كل مسار العلاج والفحوصات، فلا تطلب سونار قبل ما تعرف هي حامل أو لأ."
+  },
+  {
+    "topicId": "DERIVED_100",
+    "topic": "Pediatric Trauma Anatomy and Physiology",
+    "explanation": "شو الفكرة؟ جسم الطفل صغير فالحوادث بتضرب أكتر من جهاز مع بعض. وين الفخ؟ الطفل بضل ضغطه طبيعي لآخر لحظة وبعدين بينهار. كيف أستخدمها؟ اعتمد ع النبض مش الضغط للتشخيص."
+  },
+  {
+    "topicId": "DERIVED_101",
+    "topic": "Primary Survey Priorities",
+    "explanation": "شو الفكرة؟ ترتيب الأولويات في الحوادث. وين الفخ؟ قصة المريض (AMPLE) مكانها بالـ Secondary survey مش بالبداية. كيف أستخدمها؟ دايماً صلّح المشكلة اللي بتلاقيها قبل ما تكمل الفحص."
+  },
+  {
+    "topicId": "DERIVED_102",
+    "topic": "Septal Hematoma",
+    "explanation": "شو الفكرة؟ تجمع دموي في حاجز الأنف. وين الفخ؟ لو ما فرغته بسرعة، الغضروف بموت وبصير شكل الأنف مشوه (Saddle nose). كيف أستخدمها؟ أي مريض مضروب ع أنفه لازم تفحصه من جوا بدقة."
+  },
+  {
+    "topicId": "DERIVED_103",
+    "topic": "Penetrating Neck Trauma (No-Zone Approach)",
+    "explanation": "شو الفكرة؟ طعنات الرقبة. وين الفخ؟ بطلنا نعتمد ع الـ Zones؛ المهم هو الفحص السريري وصورة الـ CTA. كيف أستخدمها؟ لو في 'علامات قوية' (Hard signs) زي نزيف نبضي، المريض بروح العمليات فوراً."
+  },
+  {
+    "topicId": "DERIVED_104",
+    "topic": "Tension Pneumothorax in Intubated Patients",
+    "explanation": "شو الفكرة؟ هواء الصدر الضاغط. وين الفخ؟ لو المريض مركبله أنبوبة وفجأة صار صعب تنفخ البالون (Resistance)، هاد Tension فوراً. كيف أستخدمها؟ الحل إبرة (Decompression) قبل الأشعة."
+  },
+  {
+    "topicId": "DERIVED_105",
+    "topic": "Unstable Pelvic Fracture and FAST",
+    "explanation": "شو الفكرة؟ كسر الحوض مع هبوط ضغط. وين الفخ؟ لو السونار (FAST) فيه سوائل، المريض بروح العمليات (OR). لو السونار نظيف والمريض لساته هابط، غالباً النزيف خلف الأمعاء ولازم يروح القسطرة (IR)."
+  },
+  {
+    "topicId": "DERIVED_106",
+    "topic": "Urethral Injury Evaluation",
+    "explanation": "شو الفكرة؟ إصابة الإحليل. وين الفخ؟ لو شفت دم ع الفتحة، ممنوع تركب قسطرة (Foley). كيف أستخدمها؟ الخطوة الأولى هي صورة ملونة (Retrograde urethrogram) للتأكد من سلامة المجرى."
+  },
+  {
+    "topicId": "DERIVED_107",
+    "topic": "Seidel Test and Open Globe",
+    "explanation": "شو الفكرة؟ فحص إصابات العين المخترقة. وين الفخ؟ لو الـ (Seidel test) إيجابي يعني العين 'مفتوحة'؛ هون ممنوع تفحص ضغط العين بالـ (Tonometer). كيف أستخدمها؟ بس غطي العين بـ (Shield) واتصل بالأخصائي."
+  },
+  {
+    "topicId": "DERIVED_108",
+    "topic": "Alveolar Osteitis (Dry Socket)",
+    "explanation": "شو الفكرة؟ وجع بعد خلع الضرس بيومين لـ 4 أيام. وين الفخ؟ هاد مش التهاب بكتيري فما بيحتاج مضاد حيوي (Antibiotics). كيف أستخدمها؟ الحل هو تنظيف المكان وحشوه بشاش مبلل بـ (Eugenol)."
+  },
+  {
+    "topicId": "DERIVED_109",
+    "topic": "Risk Factors for Asthma-Related Death",
+    "explanation": "شو الفكرة؟ مين مريض الأزمة اللي ممكن يموت؟ وين الفخ؟ أهم علامة هي 'تاريخ التنبيب' (Prior intubation). لو المريض دخل عناية قبل هيك بسبب الأزمة، هاد خطر جداً حتى لو حالته الحالية متوسطة."
+  },
+  {
+    "topicId": "DERIVED_110",
+    "topic": "Angiography After Cardiac Arrest (ROSC)",
+    "explanation": "شو الفكرة؟ مريض رجع قلبه (ROSC) وعنده جلطة واضحة. وين الفخ؟ لو الـ ECG فيه STEMI، لازم يروح القسطرة فوراً حتى لو مش واعي. لو الـ ECG طبيعي، ممكن نستنى. كيف أستخدمها بالامتحان؟ جلطة واضحة = قسطرة فوراً."
+  },
+  {
+    "topicId": "DERIVED_111",
+    "topic": "Medical Management of Aortic Dissection",
+    "explanation": "شو الفكرة؟ علاج تمزق الأورطي. وين الفخ؟ أهم شي تقلل قوة خبطة الدم (dP/dt) مش بس الضغط. كيف أستخدمها؟ ابدأ بالـ (Antiadrenergic) زي الـ Labetalol عشان تنزل النبض تحت الـ 60 قبل ما تعطي أدوية توسيع الشرايين."
+  },
+  {
+    "topicId": "DERIVED_112",
+    "topic": "Esophageal Perforation Imaging",
+    "explanation": "شو الفكرة؟ مريض شاكين عنده ثقب بالمريء. وين الفخ؟ ابدأ بصبغة (Gastrografin) لأنها بتذوب بالمية وما بتعمل مشاكل لو طلعت برة المريء. كيف أستخدمها؟ لو صورة الـ Gastrografin طلعت طبيعية والشك لساته عالي، وقتها بس بنطلب (Barium)."
+  },
+  {
+    "topicId": "DERIVED_113",
+    "topic": "Small Bowel Obstruction (SBO)",
+    "explanation": "شو الفكرة؟ انسداد الأمعاء الدقيقة. وين الفخ؟ التصاقات العمليات القديمة (Adhesions) هي أشهر سبب. كيف أستخدمها؟ الـ CT هو الأفضل لتحديد مكان الانسداد بالضبط (Transition point). لو ما في عمليات سابقة، دور ع الفتوق (Hernias)."
+  },
+  {
+    "topicId": "DERIVED_114",
+    "topic": "Diagnosis of Mesenteric Ischemia",
+    "explanation": "شو الفكرة؟ نقص تروية الأمعاء. وين الفخ؟ المريض بيتوجع بجنون بس فحص البطن بكون 'طبيعي' (Pain out of proportion). كيف أستخدمها؟ لا تستنى اللاكتات (Lactate) يرفع عشان تطلب (CTA)."
+  },
+  {
+    "topicId": "DERIVED_115",
+    "topic": "Ovarian Torsion",
+    "explanation": "شو الفكرة؟ التواء المبيض. وين الفخ؟ وجود تروية دم (Doppler flow) بالتقرير 'ما بنفي' الالتواء. كيف أستخدمها؟ التشخيص بيعتمد على كبر حجم المبيض ووجع المريضة. لو شاكك، اتصل بالجراح حتى لو السونار فيه (Flow)."
+  },
+  {
+    "topicId": "DERIVED_116",
+    "topic": "Multiple Sclerosis and Optic Neuritis",
+    "explanation": "شو الفكرة؟ مريضة صغيرة عندها زغللة وجع بالعين مع تاريخ تنميل قديم راح ورجع. وين الفخ؟ مش كل وجع عين 'شقيقة'؛ هون العصب البصري ملتهب. كيف أستخدمها بالامتحان؟ التشخيص (MS) ولازم تطلب (MRI)."
+  },
+  {
+    "topicId": "DERIVED_117",
+    "topic": "Peripheral Neuropathy Patterns",
+    "explanation": "شو الفكرة؟ أنماط ضعف الأعصاب الطرفية. وين الفخ؟ الضعف الحركي 'البحت' بكون غالباً مش متماثل (Asymmetrical). كيف أستخدمها بالامتحان؟ لو الضعف بس حركي أو بس حسي، فكر بالأعصاب الطرفية."
+  },
+  {
+    "topicId": "DERIVED_118",
+    "topic": "Dermatomyositis",
+    "explanation": "شو الفكرة؟ التهاب عضلات مناعي مع طفح جلدي. وين الفخ؟ المريض ما بيقدر يقوم من التخت (Proximal weakness) بس لساته بيقدر يمسك القلم ويكتب (Distal sparing). كيف أستخدمها بالامتحان؟ ضعف عضلات الورك + طفح ع الصدر = Dermatomyositis."
+  },
+  {
+    "topicId": "DERIVED_119",
+    "topic": "Septic Arthritis vs. Gout",
+    "explanation": "شو الفكرة؟ التهاب مفصل بكتيري. وين الفخ؟ لو شفت بلورات 'النقرس' (Gout crystals) هاد مش معناه إنه ما في بكتيريا. كيف أستخدمها بالامتحان؟ لو المفصل ملتهب جداً والـ WBC عالي، ابدأ مضاد حيوي حتى لو في نقرس."
+  },
+  {
+    "topicId": "DERIVED_120",
+    "topic": "Massive Transfusion Protocol (MTP) Ratios",
+    "explanation": "شو الفكرة؟ بروتوكول نقل الدم المكثف (MTP). وين الفخ؟ النسبة الصح هي 1:1:1 (دم : بلازما : صفائح). كيف أستخدمها بالامتحان؟ تذكر إن البلازما (AB) هي اللي بتنعطى للكل، والدم (O) هو اللي بنعطى للكل."
+  },
+  {
+    "topicId": "DERIVED_121",
+    "topic": "Warfarin Reversal in Life-Threatening Bleed",
+    "explanation": "شو الفكرة؟ مريض بياخد وارفارين وعنده نزيف دماغ. وين الفخ؟ الـ (FFP) صار قديم وبياخد وقت؛ الحل السريع هو (PCC) مع فيتامين K وريد. كيف أستخدمها بالامتحان؟ لو المريض عنده هبوط قلب (CHF)، الـ PCC أحسن عشان ما نغرقه بالسوائل."
+  },
+  {
+    "topicId": "DERIVED_122",
+    "topic": "Febrile Neutropenia Management",
+    "explanation": "شو الفكرة؟ مريض سرطان عنده حرارة. وين الفخ؟ المريض ممكن يكون عنده التهاب رئوي بس صورة الصدر 'طبيعية' لأنه ما عنده خلايا تعمل صديد. كيف أستخدمها بالامتحان؟ حرارة + سرطان = مضاد حيوي (Cefepime) خلال ساعة بدون تأخير."
+  },
+  {
+    "topicId": "DERIVED_123",
+    "topic": "Priority in Metabolic Acidosis",
+    "explanation": "شو الفكرة؟ حموضة الدم. وين الفخ؟ لا تركض ورا الـ (Bicarbonate)؛ الأولوية هي علاج السبب (زي السوائل للصدمة). كيف أستخدمها بالامتحان؟ البيكربونات بس لو الحموضة شديدة جداً (تحت 7.1)، وغير هيك بتضر المريض."
+  },
+  {
+    "topicId": "DERIVED_124",
+    "topic": "Thyrotoxicosis and Thyroid Storm",
+    "explanation": "شو الفكرة؟ عاصفة الغدة الدرقية. وين الفخ؟ الترتيب في العلاج هو كل شي. لازم تعطي (PTU) قبل 'اليود'. كيف أستخدمها بالامتحان؟ أشهر علامة هي تسارع النبض، وأول دواء هو (Propranolol) عشان يهدي القلب ويمنع تحول الهرمون."
+  },
+  {
+    "topicId": "DERIVED_125",
+    "topic": "Diphtheria Presentation",
+    "explanation": "شو الفكرة؟ مرض الدفتيريا. وين الفخ؟ العلامة المميزة هي غشاء رمادي ع اللوزتين ورقبة منفوخة (Bull neck). كيف أستخدمها بالامتحان؟ لو شفت مريض مهاجر عنده حرارة ورقبة منفوخة وغشاء رمادي، هاد خطر جداً ع القلب والجهاز التنفسي."
+  },
+  {
+    "topicId": "DERIVED_126",
+    "topic": "Esophageal Food Bolus Impaction",
+    "explanation": "شو الفكرة؟ علاج انحشار الأكل بالمريء. وين الفخ؟ مادة (Papain) اللي بمطرّي اللحم ممنوعة لأنها بتعمل ثقب بالمريء. كيف أستخدمها بالامتحان؟ استعمل (Glucagon) كخيار طبي، بس المنظار هو الحل النهائي."
+  },
+  {
+    "topicId": "DERIVED_127",
+    "topic": "Scorpion and Snake Bite Observation",
+    "explanation": "شو الفكرة؟ متى تروح مريض مقروص؟ وين الفخ؟ الطفل لازم يضل تحت العين 6 ساعات ع الأقل. كيف أستخدمها بالامتحان؟ لو مريض قرصته أفعى وما طلع عليه أعراض بـ 6 ساعات، غالباً القرصة 'ناشفة' (Dry bite) وبقدر يروح."
+  },
+  {
+    "topicId": "DERIVED_128",
+    "topic": "Termination of Resuscitation in Hypothermia",
+    "explanation": "شو الفكرة؟ متى نوقف إنعاش مريض متجمد؟ وين الفخ؟ المريض مش ميت ليصير (Warm and Dead). كيف أستخدمها بالامتحان؟ لو البوتاسيوم فوق 12 أو الجسم متجمد لدرجة إنه الصدر ما بينضغط، هون بس بنوقف قبل التدفئة."
+  },
+  {
+    "topicId": "DERIVED_129",
+    "topic": "Isopropyl Alcohol Metabolism",
+    "explanation": "شو الفكرة؟ مريض سكران وعنده كيتونات بس دمه مش حامض. وين الفخ؟ (Isopropyl) بيعمل كيتونات بالبول بس 'بدون' حموضة (Normal pH). كيف أستخدمها بالامتحان؟ لو لقيت كيتونات والـ pH طبيعي، هاد Isopropyl مش DKA."
+  },
+  {
+    "topicId": "DERIVED_130",
+    "topic": "King's College Criteria for Liver Transplant",
+    "explanation": "شو الفكرة؟ متى مريض الباراسيتامول بدوه زراعة كبد؟ وين الفخ؟ معايير (King's College) هي الحكم. كيف أستخدمها بالامتحان؟ لو الـ pH تحت 7.3 أو اللاكتات لساته عالي بعد السوائل، هاد مريض لازم يتحول لمركز زراعة أعضاء فوراً."
+  },
+  {
+    "topicId": "DERIVED_131",
+    "topic": "Chronic Digoxin Toxicity",
+    "explanation": "شو الفكرة؟ تسمم الديجوكسين المزمن. وين الفخ؟ المريض بيجي بأعراض عادية زي 'لوعة وزغللة بالألوان' (هالات صفراء). كيف أستخدمها بالامتحان؟ لو مريض قلب وعنده زغللة، اطلب مستوى الديجوكسين وعالجه بـ (Digibind) لو في أعراض خطيرة."
+  },
+  {
+    "topicId": "DERIVED_132",
+    "topic": "Compensated Shock in Children",
+    "explanation": "شو الفكرة؟ كيف تعرف إن الطفل بصدمة؟ وين الفخ؟ 'النهجة' (Tachypnea) مع رئة صافية بالسماعة معناها الطفل بيحاول يعوض حموضة الدم. كيف أستخدمها بالامتحان؟ هاد طفل بوضع (Compensated shock) ولازم سوائل وريد فوراً حتى لو ضغطه لسه طبيعي."
+  },
+  {
+    "topicId": "DERIVED_133",
+    "topic": "Endotracheal Tube Depth Formula",
+    "explanation": "شو الفكرة؟ قديش ندخل أنبوبة الأطفال؟ وين الفخ؟ العمق دايماً 3 أضعاف حجم الأنبوبة. كيف أستخدمها بالامتحان؟ لو استعملت أنبوبة قياس 4، ثبتها عند علامة الـ 12 سم (3*4)."
+  },
+  {
+    "topicId": "DERIVED_134",
+    "topic": "$\beta$-hCG Discriminatory Zone",
+    "explanation": "شو الفكرة؟ متى لازم نشوف كيس الحمل بالسونار المهبلي؟ وين الفخ؟ الرقم الجديد للامتحان هو 3500. كيف أستخدمها بالامتحان؟ لو الهرمون تحت الـ 3500 والسونار مش مبين شي، 'إياك' تستعجل؛ استنى 48 ساعة وراقب تطور الهرمون."
+  },
+  {
+    "topicId": "DERIVED_135",
+    "topic": "Resuscitative Hysterotomy",
+    "explanation": "شو الفكرة؟ عملية قيصرية طارئة وقت توقف قلب الأم الحامل. وين الفخ؟ لازم تنعمل بغرفة الطوارئ خلال 4-5 دقائق لو الحمل فوق الـ 20 أسبوع. كيف أستخدمها بالامتحان؟ الهدف إنقاذ الأم (بتقليل الضغط ع الشرايين) والجنين؛ والفتحة دايماً طولية (Vertical)."
+  },
+  {
+    "topicId": "DERIVED_136",
+    "topic": "Radiation Triage Priority",
+    "explanation": "شو الفكرة؟ مريض متعرض للإشعاع وعنده جلطة قلبية. وين الفخ؟ الـ (ABC) وإنقاذ الحياة دايماً أهم من تنظيف المريض من الإشعاع. كيف أستخدمها بالامتحان؟ لو المريض جلطة، فعّل فريق القسطرة فوراً ولا تضيع وقت بالدوش؛ الحياة أولاً."
+  },
+  {
+    "topicId": "DERIVED_137",
+    "topic": "Management Algorithm for Unstable Pelvic Fractures",
+    "explanation": "شو الفكرة؟ مريض حادث عنده كسر حوض وضغطه واطي. وين الفخ؟ السونار (FAST) هو اللي بقرر وين يروح. كيف أستخدمها بالامتحان؟ لو السونار فيه سوائل (+) وديه العمليات فوراً. لو نظيف (-) والمريض لساته هابط، يعني النزيف خلف الأمعاء وديه القسطرة (IR)."
+  },
+  {
+    "topicId": "DERIVED_138",
+    "topic": "Complications of Ureteral Stenting",
+    "explanation": "شو الفكرة؟ مضاعفات تركيب دعامة الحالب (Stent). وين الفخ؟ لو المريض صار عنده فقر دم حاد بعد العملية، لا تلوم الدم اللي بالبول بس. كيف أستخدمها بالامتحان؟ فكر فوراً بـ (Retroperitoneal hematoma) واطلب صورة CT."
+  },
+  {
+    "topicId": "DERIVED_139",
+    "topic": "Fever in Well-Appearing Infants Criteria",
+    "explanation": "شو الفكرة؟ معايير تقييم خطر الالتهابات عند الأطفال الصغار المسخنين. وين الفخ؟ سكور (فيلادلفيا) هو الأدق والأشمل لأنه بيشمل فحص سائل الظهر (CSF). كيف أستخدمها بالامتحان؟ لو الطفل عمره (29-56 يوم) وحرارته فوق 38.2، بنطبق عليه سكور فيلادلفيا لتقليل خطر الـ SBI."
+  },
+  {
+    "topicId": "DERIVED_140",
+    "topic": "Pregnancy-Adapted YEARS Algorithm",
+    "explanation": "شو الفكرة؟ سكور (YEARS) لتشخيص جلطة الرئة عند الحوامل بدون أشعة زيادة. وين الفخ؟ لو ما في أعراض (Zero items)، بنرفع سقف الـ D-dimer للـ 1000. كيف أستخدمها بالامتحان؟ استعمل السكور لتقرر مين لازم تعملها صورة صبغة (CTPA) ومين لا."
+  },
+  {
+    "topicId": "DERIVED_141",
+    "topic": "Tension Pneumothorax after Intubation",
+    "explanation": "شو الفكرة؟ هواء الصدر الضاغط بعد التنبيب. وين الفخ؟ العلامة القاتلة هي صعوبة الضغط على بالون التنفس (Resistance) مع هبوط الضغط. كيف أستخدمها بالامتحان؟ التشخيص سماعة وضغط مش صورة أشعة، والحل إبرة فوراً."
+  },
+  {
+    "topicId": "DERIVED_142",
+    "topic": "Relative Bradycardia in Heterotopic Pregnancy",
+    "explanation": "شو الفكرة؟ حمل 'خارج الرحم' و 'داخل الرحم' بنفس الوقت. وين الفخ؟ المريضة ممكن تنزف لتر دم ببطنها ولسه النبض عندها 'طبيعي' (Relative bradycardia). كيف أستخدمها؟ لا تنخدع بالنبض الطبيعي لو المريضة عندها وجع بطن شديد وهي حامل، خصوصاً لو عاملة زراعة أطفال أنابيب (ART)."
+  },
+  {
+    "topicId": "DERIVED_143",
+    "topic": "Beta-Blocker Risk in SBP",
+    "explanation": "شو الفكرة؟ مريض تشمع كبد وعنده التهاب غشاء البطن (SBP). وين الفخ؟ لازم توقف أدوية الضغط من عيلة (Beta blockers) زي (Nadolol) فوراً. ليش؟ لأنها بتزود نسبة الوفيات في هاد الوضع الخاص."
+  },
+  {
+    "topicId": "DERIVED_144",
+    "topic": "Fracture Blisters Management",
+    "explanation": "شو الفكرة؟ فقاعات بتطلع ع الجلد مكان الكسر (Fracture blisters). وين الفخ؟ هاد الكسر ما بينفع يتصلح بعملية (ORIF) والفقاعات موجودة لأنها بتعمل التهاب بالعظم. كيف أستخدمها؟ استنى الجلد يطيب قبل العملية، وهاي الحالة مشهورة جداً عند مرضى السكري."
+  },
+  {
+    "topicId": "DERIVED_145",
+    "topic": "Body Stuffer vs. Body Packer",
+    "explanation": "شو الفكرة؟ مهرب المخدرات (Packer) vs اللي ببلعها عشان يهرب من الشرطة (Stuffer). وين الفخ؟ ممنوع تستعمل 'المنظار' عشان تطلع الحبوب لأنه ممكن يثقب الكيس وتصير جرعة قاتلة. كيف أستخدمها؟ العلاج دايماً (Whole Bowel Irrigation) وصورة (CT) هي الأحسن للتشخيص."
+  },
+  {
+    "topicId": "DERIVED_146",
+    "topic": "Indigenous/Airport Malaria",
+    "explanation": "شو الفكرة؟ ملاريا بدون سفر. وين الفخ؟ المريض ممكن يكون شغال بالمطار ولسعته بعوضة إجت بالطيارة (Airport Malaria). كيف أستخدمها؟ لو شفت حرارة دورية مع تكسر دم (Hemolysis) في مريض شغال بالمطار، اطلب (Peripheral smear) فوراً."
+  },
+  {
+    "topicId": "DERIVED_147",
+    "topic": "ESETT Trial: Second-Line Status Epilepticus",
+    "explanation": "شو الفكرة؟ شو أحسن دواء لو المنومات (Benzos) ما وقفت التشنج؟ دراسة ESETT حكت إن (Fosphenytoin) و (Valproate) و (Levetiracetam) كلهم نفس النتيجة تقريباً. كيف أستخدمها؟ اختار المتوفر عندك، التلاتة بوقفوا التشنج بنسبة 50%."
+  },
+  {
+    "topicId": "DERIVED_148",
+    "topic": "Isoniazid Toxicity and Pyridoxine",
+    "explanation": "شو الفكرة؟ مريض سل (TB) وبياخد (Isoniazid) وصار عنده تشنجات ما بتوقف بالأدوية العادية. وين الفخ؟ الأدوية العادية ما رح تنفع لأن المشكلة هي نقص فيتامين B6. كيف أستخدمها؟ العلاج الوحيد والنهائي هو (Pyridoxine) وريد غرام مقابل كل غرام دواء بلعه."
+  },
+  {
+    "topicId": "DERIVED_149",
+    "topic": "Brainstem Stroke and CN III Palsy",
+    "explanation": "شو الفكرة؟ مريض عينه اليمين 'نازلة وطالعة لبرة' (CN III) وعنده ضعف بإيده ورِجله الشمال. وين الفخ؟ هاي مش مجرد مشكلة عين، هاي جلطة بجذع الدماغ (Brainstem stroke). ليش؟ لأن الأعراض 'مصلّبة' (جهة بالوجه وجهة بالجسم)."
+  },
+  {
+    "topicId": "DERIVED_150",
+    "topic": "Pathognomonic Finding for Gastric Outlet Obstruction",
+    "explanation": "شو الفكرة؟ مريض بيستفرغ أكل أكله قبل 12 ساعة ولسه مش مهضوم (زي ما هو). وين الفخ؟ هاي العلامة 'بصمة' (Pathognomonic) لانسداد مخرج المعدة (GOO). كيف أستخدمها؟ لو شفتها بالسؤال، التشخيص دايماً انسداد ميكانيكي (زي ورم أو قرحة قديمة)."
+  },
+  {
+    "topicId": "DERIVED_151",
+    "topic": "Chronic Hypernatremia Correction Rate",
+    "explanation": "شو الفكرة؟ مريض عنده الصوديوم عالي وصارله فترة طويلة (>48 ساعة). وين الفخ؟ لو نزلت الصوديوم بسرعة، المي رح تدخل فجأة للخلايا وتعمل 'نفخة' بالدماغ (Cerebral edema). كيف أستخدمها؟ السرعة المسموحة هي نص درجة بالساعة بس (0.5 mEq/L/h). تذكر: تصليح الصوديوم العالي بسرعة بيعمل وذمة دماغ، وتصليح الواطي بسرعة بيعمل (Myelinolysis)."
+  },
+  {
+    "topicId": "DERIVED_152",
+    "topic": "Aortic Dissection Management Sequence",
+    "explanation": "شو الفكرة؟ ترتيب أدوية تمزق الأورطي (Dissection). وين الفخ؟ ممنوع تعطي دواء بنزل الضغط زي (Nitroprusside) لحاله بالبداية. ليش؟ لأنه رح يعمل 'تسارع نبض' رد فعل، وهاد بزيد التمزق. كيف أستخدمها؟ دايماً ابدأ بـ (Beta blocker) عشان تهدي ضربة القلب (dP/dt)، وبعدين ضيف أدوية تنزيل الضغط."
+  },
+  {
+    "topicId": "DERIVED_153",
+    "topic": "Antiphospholipid Syndrome (APS) and Acute PE",
+    "explanation": "شو الفكرة؟ مريضة ذئبة (SLE) صار عندها جلطة رئة بسبب متلازمة APS. وين الفخ؟ أدوية السيولة الجديدة (DOACs) زي (Rivaroxaban) مفعولها 'ضعيف' بهاد المرض بالذات. كيف أستخدمها؟ استعمل (Enoxaparin) بالبداية، وبعدين حولها على (Warfarin) مش على الأدوية الجديدة."
+  },
+  {
+    "topicId": "DERIVED_154",
+    "topic": "Factors Influencing Testicular Salvage",
+    "explanation": "شو الفكرة؟ فرصة إنقاذ الخصية في حالات الالتواء. وين الفخ؟ أهم عاملين هم 'الوقت' و 'درجة اللفة'. كيف أستخدمها؟ لو مر أكتر من 6 ساعات، الفرصة بتبدأ تقل بسرعة. معلومة للامتحان: حتى لو 'Cremasteric reflex' موجود، هاد ما بنفي الالتواء تماماً لو الشك عالي."
+  },
+  {
+    "topicId": "DERIVED_155",
+    "topic": "Absolute Contraindications to Fibrinolysis in AMI",
+    "explanation": "شو الفكرة؟ متى 'ممنوع' تعطي مذيب جلطة (Fibrinolysis) لمريض القلب؟ وين الفخ؟ أهم شرط هو 'نزيف الدماغ السابق'؛ لو صار معه نزيف دماغ بأي وقت بحياته، هاد ممنوع تماماً. كيف أستخدمها؟ العمر فوق الـ 75 'مش منع'، بس الضغط العالي جداً اللي ما بنزل (فوق 185/110) هو المنع الحقيقي."
+  },
+  {
+    "topicId": "DERIVED_156",
+    "topic": "Pacemaker-Mediated Tachycardia and Magnet Use",
+    "explanation": "شو الفكرة؟ مريض عنده منظم ضربات (Pacemaker) ونبضه سريع جداً بدون سبب. وين الفخ؟ هاي حالة اسمها (PMT). الحل؟ حط 'مغناطيس' فوق الجهاز؛ المغناطيس بيلغي خاصية الإحساس بالجهاز وبيرجع النبض لوضعه الطبيعي وبكسر الدائرة الكهربائية الغلط."
+  },
+  {
+    "topicId": "DERIVED_157",
+    "topic": "Digoxin-Specific Antibody Fragments Calculation",
+    "explanation": "شو الفكرة؟ قديش نعطي 'ترياق' للديجوكسين؟ وين الفخ؟ كل 'فايال' (Vial) بتمسح 0.5 ملغم من الدواء. كيف أستخدمها؟ لو المريض بلع 8 ملغم، يعني بنحتاج 16 حبة (8 تقسيم نص). لو المريض وضعه مش مستقر وما بنعرف قديش بلع، بنعطي 10 لـ 20 فايال مرة وحدة."
+  },
+  {
+    "topicId": "DERIVED_158",
+    "topic": "TTM and Physiologic Side Effects",
+    "explanation": "شو الفكرة؟ مريض بنعمله تبريد بعد الإنعاش (TTM). وين الفخ؟ طبيعي جداً النبض ينزل (Bradycardia) وهاد مش خطر. كيف أستخدمها؟ لو النبض نزل بس الضغط كويس، لا تعمل شي ولا تعطي أدوية ترفع النبض؛ هاي استجابة طبيعية للجسم للبرودة."
+  },
+  {
+    "topicId": "DERIVED_159",
+    "topic": "Traumatic Diaphragmatic Hernia",
+    "explanation": "شو الفكرة؟ فتق الحجاب الحاجز بعد حادث. وين الفخ؟ بالسونار (POCUS) رح تشوف 'أمعاء' أو 'معدة' جوا الصدر وبتحركوا (Peristalsis). كيف أستخدمها؟ لو شفت منظر غريب بالصدر بالسونار مش سوائل صافية، فكر فوراً بتمزق الحجاب الحاجز ولازم جراحة."
+  },
+  {
+    "topicId": "DERIVED_160",
+    "topic": "Retrobulbar Hemorrhage and Lateral Canthotomy",
+    "explanation": "شو الفكرة؟ نزيف خلف العين (Retrobulbar hemorrhage). وين الفخ؟ الضغط العالي جوا العين (فوق 40) بيقطع الدم عن العصب. كيف أستخدمها؟ الحل 'عملية قص طرف الجفن' (Lateral canthotomy) فوراً بالطوارئ. لا تضيع وقت بالصور الطبقية (CT) لو النظر عم بيختفي؛ الوقت هون هو النظر."
+  },
+  {
+    "topicId": "DERIVED_161",
+    "topic": "Brugada Syndrome Identification",
+    "explanation": "شو الفكرة؟ مريض صغير بالعمر وغالباً من شرق آسيا بيفقد الوعي فجأة. وين الفخ؟ بالـ (ECG) رح تشوف ارتفاع (ST) في V1 و V2 بيشبه 'الزحليقة' (Coved shape). هاد مش جلطة، هاد Brugada. كيف أستخدمها؟ المريض هاد بخطر الموت المفاجئ ولازم يركب (AICD)."
+  },
+  {
+    "topicId": "DERIVED_162",
+    "topic": "Sepsis-3 and qSOFA score",
+    "explanation": "شو الفكرة؟ كيف نعرف المريض اللي وضعه 'خطر' وممكن يموت من الالتهاب؟ وين الفخ؟ الـ SIRS (زي الحرارة والنبض) مش دقيقة كفاية. استعمل سكور (qSOFA): الضغط واطي (تحت 100)، النفس سريع (فوق 22)، أو المريض مش واعي (GCS واطي). لو في علامتين من تلاتة، المريض بخطر شديد."
+  },
+  {
+    "topicId": "DERIVED_163",
+    "topic": "ACE-Inhibitor Induced Angioedema Mechanism",
+    "explanation": "شو الفكرة؟ مريض بياخد دواء ضغط (Lisinopril) ولسانه فجأة نفخ. وين الفخ؟ هاد 'مش تحسس' عادي. هاد بسب مادة (Bradykinin). كيف أستخدمها؟ الأدرينالين والكورتيزون ما رح ينفعوا. الأولوية دايماً هي 'تأمين مجرى التنفس' (Airway) بسرعة قبل ما يسكر تماماً."
+  },
+  {
+    "topicId": "DERIVED_164",
+    "topic": "Benzocaine and Chocolate Brown Blood",
+    "explanation": "شو الفكرة؟ مريض أخد بخاخ بنج (Benzocaine) وصار لونه أزرق. وين الفخ؟ لو أعطيته أكسجين 100% لونه ما رح يتحسن (Refractory cyanosis). علامة مميزة؟ لون الدم بكون زي 'الشوكلاتة'. كيف أستخدمها؟ العلاج هو (Methylene blue)."
+  },
+  {
+    "topicId": "DERIVED_165",
+    "topic": "Cyanide Poisoning from Nitroprusside",
+    "explanation": "شو الفكرة؟ دواء الضغط (Nitroprusside) ممكن يسبب تسمم بالسيانيد (Cyanide). وين الفخ؟ المريض رح يصير عنده 'حموضة بالدم' (Metabolic acidosis) ويرتفع اللاكتات بدون سبب واضح. كيف أستخدمها؟ لو المريض بياخد هاد الدواء وحالته ساءت، وقف الدواء فوراً وأعطيه الترياق (Cyanokit)."
+  },
+  {
+    "topicId": "DERIVED_166",
+    "topic": "Pyloric Stenosis Metabolic Derangement",
+    "explanation": "شو الفكرة؟ طفل عمره شهر بيستفرغ بقوة (Projectile) وبجوع فوراً بعدها. وين الفخ؟ الاستفراغ بيخسر المريض أحماض المعدة، فبصير دمه 'قلوي' (Alkalosis) ومعادنه واطية (Cl- and K+ واطيين). كيف أستخدمها؟ التشخيص بالسونار، بس أهم شي قبل العملية إنك تصلح السوائل والمعادن بالـ (Normal Saline)."
+  },
+  {
+    "topicId": "DERIVED_167",
+    "topic": "Urgent Indications for Hemodialysis",
+    "explanation": "شو الفكرة؟ متى المريض لازم يغسل كلى 'فوراً' بالطوارئ؟ وين الفخ؟ لا تستنى الأرقام (زي الكرياتينين) لو المريض عنده 'مية ع الرئة' مش راضية تتحسن أو البوتاسيوم عالي وعامل مشاكل بالقلب. تذكر (AEIOU): حموضة، معادن (بوتاسيوم)، تسمم، زيادة سوائل، أو يوريميا (أثرت ع الدماغ أو القلب)."
+  },
+  {
+    "topicId": "DERIVED_168",
+    "topic": "Xanthochromia Timing in SAH",
+    "explanation": "شو الفكرة؟ متى بنشوف اللون الأصفر (Xanthochromia) في سائل الظهر؟ وين الفخ؟ لو المريض وجع راسه بدأ قبل ساعتين، السائل رح يكون 'صافي' حتى لو في نزيف. ليش؟ لأنه تكسر الدم بياخد 12 ساعة ليصير لونه أصفر. كيف أستخدمها؟ لو الـ CT نظيف والوجع جديد، اعتمد على عدد خلايا الدم (RBCs) في الأنبوب الأول vs الرابع."
+  },
+  {
+    "topicId": "DERIVED_169",
+    "topic": "Rigid Chest Syndrome from Fentanyl",
+    "explanation": "شو الفكرة؟ متلازمة 'الصدر الخشبي'. وين الفخ؟ لما تعطي (Fentanyl) بسرعة وريد، القفص الصدري بيتخشب والمريض ما بيقدر يتنفس. كيف أستخدمها؟ لو المريض 'تخشب' بعد الفنتانيل، الـ (Ambu bag) ما رح تنفع. الحل؟ لازم تعطيه مرخي عضلات (Paralytic) وتنببه فوراً."
+  },
+  {
+    "topicId": "DERIVED_170",
+    "topic": "Epoprostenol (Flolan) Management",
+    "explanation": "شو الفكرة؟ مريض بياخد دواء (Flolan) بالبيت عن طريق مضخة لمرض ضغط الرئة. وين الفخ؟ عمر هاد الدواء بالدم بس 'دقيقتين لخمسة'. لو وقف الجهاز، المريض ممكن يموت فوراً. كيف أستخدمها؟ لو المريض جالك والجهاز بزمّر (Alarm)، ركبله مغذي 'طرفي' (Peripheral IV) ومشي الدواء فوراً قبل ما تعمل أي فحص تاني."
+  },
+  {
+    "topicId": "DERIVED_171",
+    "topic": "High-Flow Nasal Oxygen vs Standard NRB",
+    "explanation": "شو الفكرة؟ كيف نعطي أحسن أكسجين للمريض قبل ما ننببه؟ وين الفخ؟ الـ (Nonrebreather) العادي على 15 لتر بيعطي بس 50% أكسجين حقيقي لأنه بيدخل هواء من الجوانب. كيف أستخدمها؟ لازم تفتح الأكسجين ع الآخر (Flush rate) عشان توصل لـ 85% وتغسل النيتروجين من الرئة."
+  },
+  {
+    "topicId": "DERIVED_172",
+    "topic": "Pediatric Jet Ventilation Pressures",
+    "explanation": "شو الفكرة؟ تهوية الرئة بالأبرة (Jet ventilation) للأطفال. وين الفخ؟ ممنوع تستعمل ضغط عالي زي الكبار. كيف أستخدمها؟ ابدأ بضغط (0.5 psi) لكل كيلو من وزن الطفل وزيده شوي شوي لغاية ما تشوف الصدر بيرتفع."
+  },
+  {
+    "topicId": "DERIVED_173",
+    "topic": "Philadelphia Criteria for Febrile Infants",
+    "explanation": "شو الفكرة؟ كيف نعرف إنه الطفل الصغير اللي عنده حرارة مش بوضع خطر؟ سكور 'فيلادلفيا' (29-56 يوم) هو الأدق. وين الفخ؟ لازم كل الشروط تكون موجودة (WBC طبيعي، فحص بول طبيعي، وفحص سائل الظهر طبيعي) عشان تروحه وأنت متطمن."
+  },
+  {
+    "topicId": "DERIVED_174",
+    "topic": "STEMI in Post-Arrest (ROSC) Comatose Patients",
+    "explanation": "شو الفكرة؟ مريض قلبه رجع بعد الإنعاش بس لساته بغيبوبة، والـ ECG فيه جلطة (STEMI). وين الفخ؟ لا تستنى المريض يصحى عشان توديه القسطرة. كيف أستخدمها؟ الجلطة لازم تتصلح فوراً لأنها هي سبب المشكلة، والتبريد (TTM) بنعمله مع القسطرة سوا."
+  },
+  {
+    "topicId": "DERIVED_175",
+    "topic": "Cyanide Toxicity from Nitroprusside",
+    "explanation": "شو الفكرة؟ تسمم السيانيد بسبب دواء الضغط (Nitroprusside). وين الفخ؟ لو المريض بياخد هاد الدواء وصار عنده حموضة بالدم (Acidosis) لا تلوم القلب، فكر بالسيانيد. كيف أستخدمها؟ وقف الدواء وأعطي الترياق (Cyanokit) فوراً."
+  },
+  {
+    "topicId": "DERIVED_176",
+    "topic": "TXA Timing and Dosing in Trauma",
+    "explanation": "شو الفكرة؟ متى نعطي دواء (TXA) للنزيف في الحوادث؟ وين الفخ؟ الدواء هاد ممتاز بس 'أول 3 ساعات' من الحادث بس. لو مر أكتر من 3 ساعات، الدواء بصير مضر وبزيد الوفيات. كيف أستخدمها؟ 1 غرام بالوريد وبعدين 1 غرام مشي بالمحلول."
+  },
+  {
+    "topicId": "DERIVED_177",
+    "topic": "Open Fracture Antibiotics (Farm/Soil)",
+    "explanation": "شو الفكرة؟ مضادات حيوية لكسور العظام المفتوحة. وين الفخ؟ لو الحادث صار بـ 'مزرعة' أو فيها 'تراب'، لازم تضيف (Penicillin G) عشان تحمي المريض من 'الغرغرينا الغازية'. كيف أستخدمها؟ كسر عادي = Cefazolin. كسر بمزرعة = Cefazolin + Penicillin + Gentamicin."
+  },
+  {
+    "topicId": "DERIVED_178",
+    "topic": "Ankle-Brachial Index (ABI) Triage",
+    "explanation": "شو الفكرة؟ فحص الـ (ABI) لإصابات الشرايين. وين الفخ؟ لو الرقم 'أقل من 0.9'، لازم تطلب صورة صبغة (CTA) فوراً. لو الرقم 'أكبر من 0.9'، المريض 'ما بيروح'؛ لازم يضل تحت المراقبة 24 ساعة لنتأكد إنه الشريان ما سكر مع الوقت."
+  },
+  {
+    "topicId": "DERIVED_179",
+    "topic": "BRUE (Brief Resolved Unexplained Event)",
+    "explanation": "شو الفكرة؟ لما الأم تيجي تحكي 'ابني فجأة أزرق وفقد الوعي للحظات وبعدين رجع طبيعي'. وين الفخ؟ هاي الحالة اسمها (BRUE). لو الطفل عمره فوق شهرين وصحته كويسة وما عملناله إنعاش، 'ما بنعمله' فحوصات دم ولا صورة راس. بس مراقبة قصيرة وطمأنة للأهل."
+  },
+  {
+    "topicId": "DERIVED_180",
+    "topic": "Newborn Conjunctivitis Timing",
+    "explanation": "شو الفكرة؟ التهاب عين المولود الجديد. وين الفخ؟ 'عمر' الطفل بالأيام هو اللي بحدد السبب. لو عمره (2-7 أيام) وعينه فيها صديد، هاد 'خطر جداً' ولازم يدخل المستشفى عشان يحمي نظره (Gonorrhea). لو عمره (5-12 يوم)، السبب غالباً (Chlamydia) وعلاجه حبوب (Azithromycin)."
+  },
+  {
+    "topicId": "DERIVED_181",
+    "topic": "Kawasaki Disease (Incomplete/Classic)",
+    "explanation": "شو الفكرة؟ مرض 'كاواساكي' عند الأطفال. وين الفخ؟ التشخيص سريري: حرارة 5 أيام مع علامات تانية زي 'لسان الفراولة' واحمرار العين. كيف أستخدمها؟ العلاج (Aspirin + IVIG) عشان نحمي شرايين القلب من الانفجار (Aneurysms). لا تعطي مضاد حيوي لأنه ما بنفع هون."
+  },
+  {
+    "topicId": "DERIVED_182",
+    "topic": "Atropine Endpoint in Organophosphates",
+    "explanation": "شو الفكرة؟ كيف نعالج تسمم المبيدات الحشرية (Organophosphates)؟ وين الفخ؟ لازم تعطي (Atropine) لغاية ما 'تنشف إفرازات الصدر'. لا توقف الدواء لو شفت النبض صار سريع أو حدقة العين وسعت؛ هاي علامات 'كاذبة'. المهم هو إنه الرئة تصير ناشفة والمريض يقدر يتنفس."
+  },
+  {
+    "topicId": "DERIVED_183",
+    "topic": "HACE vs AMS and HAPE",
+    "explanation": "شو الفكرة؟ أمراض المرتفعات. وين الفخ؟ العلامة اللي بتخوف جداً هي 'عدم التوازن' (Ataxia). لو المريض مش قادر يمشي بخط مستقيم وهو ع الجبل، هاي (HACE) يعني دماغه عم بينفخ. الحل؟ ينزل فوراً عن الجبل وأعطيه (Dexamethasone). لو المشكلة بس بالرئة (HAPE)، بنعطيه (Nifedipine)."
+  },
+  {
+    "topicId": "DERIVED_184",
+    "topic": "Nikolsky Sign in Bullous Disorders",
+    "explanation": "شو الفكرة؟ كيف نميز بين أنواع الفقاعات الجلدية؟ وين الفخ؟ علامة (Nikolsky) بتكون إيجابية لو الجلد قشر بمجرد ما تفركه. هاي موجودة بمرض (Pemphigus) وبحالات الحروق الجلدية الشديدة من الأدوية (TEN). بس لو الفقاعة 'قوية ومشدودة' (Tense) وما بتقشر، هاد غالباً (Bullous Pemphigoid) وهون العلامة سلبية."
+  },
+  {
+    "topicId": "DERIVED_185",
+    "topic": "DRESS Syndrome Identification",
+    "explanation": "شو الفكرة؟ تحسس دوائي شديد (DRESS). وين الفخ؟ المريض رح يجي بحرارة وطفح جلدي بس الفحص رح يبين إنه 'الكبد' متأثر (High ALT/AST) وفي زيادة بنوع معين من خلايا الدم (Eosinophils). كيف أستخدمها؟ لو مريض بدأ دواء تشنجات جديد وصار عنده حرارة وطفح، لازم تفكر بـ DRESS وتفحص وظائف الكبد."
+  },
+  {
+    "topicId": "DERIVED_186",
+    "topic": "Suicide Risk Demographics (SAD PERSONS)",
+    "explanation": "شو الفكرة؟ مين أكتر حدا بخطر الانتحار الحقيقي؟ وين الفخ؟ مش دايماً اللي بيحكي كتير هو اللي بنتحر. الأرقام بتحكي إن 'الرجال الكبار بالعمر' (فوق 59) والأرامل أو المطلقين هم الأكثر عرضة. كيف أستخدمها؟ لو جاك مريض كبير وحيد وعنده سلاح بالبيت، هاد خطر جداً ولازم حماية فورية. تذكر: المسدسات هي السبب الأول للوفاة بالانتحار."
+  },
+  {
+    "topicId": "DERIVED_187",
+    "topic": "Bulimia Nervosa Electrolyte Derangements",
+    "explanation": "شو الفكرة؟ مريضة 'بوليميا' (بتاكل وبتستفرغ). وين الفخ؟ الاستفراغ المستمر بخلي دمها 'قلوي' (Alkalosis) وبنزل البوتاسيوم والكلور بجنون. كيف أستخدمها؟ لو شفت علامة (U-wave) بالـ ECG في بنت صغيرة، فكر بنقص البوتاسيوم وبسبب البوليميا. ركز كمان إنه وزنهم بكون طبيعي غالباً مش زي مرضى العقد النفسية التانية."
+  },
+  {
+    "topicId": "DERIVED_188",
+    "topic": "Forensic Evidence Collection Timing",
+    "explanation": "شو الفكرة؟ متى بنعمل فحص 'الاعتداء الجنسي' (Forensic kit)؟ وين الفخ؟ الوقت الذهبي هو 'أول 72 ساعة'. بعد هيك، فرصة تلاقي دليل (DNA) بتقل كتير. كيف أستخدمها؟ لازم نحفظ 'سلسلة العهدة' (Chain of custody)؛ يعني الكرتون لازم يتسكر ويتوقع وما ينترك لحاله أبداً لغاية ما تستلمه الشرطة عشان يكون مقبول بالمحكمة."
+  },
+  {
+    "topicId": "DERIVED_189",
+    "topic": "Tacrolimus and Macrolide Interaction",
+    "explanation": "شو الفكرة؟ مريض زارع كبد وبياخد دواء (Tacrolimus). وين الفخ؟ إياك تعطيه مضاد حيوي من عيلة (Macrolides) زي الـ (Azithromycin). ليش؟ لأن المضاد رح يرفع مستوى دواء الزراعة لدرجة 'التسمم' وممكن يعمل المريض 'هذيان' (Delirium) أو يضرب الكلى. دايماً راجع التفاعلات الدوائية لمرضى الزراعة."
+  },
+  {
+    "topicId": "DERIVED_190",
+    "topic": "Empty Gestational Sac Interpretation",
+    "explanation": "شو الفكرة؟ شفت كيس حمل بالسونار بس 'فاضي'. وين الفخ؟ هاد 'ما بنفي' الحمل خارج الرحم. ممكن يكون كيس كاذب (Pseudogestational sac). كيف أستخدمها؟ عشان تقول هاد حمل 'داخل الرحم' أكيد، لازم تشوف 'Yolk sac' (كيس المح) جوا الكيس. لو ما شفته، لازم تراقب الهرمون وتعيد السونار بعد 48 ساعة."
+  },
+  {
+    "topicId": "DERIVED_191",
+    "topic": "A-lines in Lung Ultrasound",
+    "explanation": "شو الفكرة؟ خطوط الرئة بالسونار. وين الفخ؟ خطوط (A-lines) هي خطوط 'بالعرض' ومعناها الرئة 'ناشفة' (هواء بس). كيف أستخدمها؟ لو المريض مخنوق وشفت هاي الخطوط، استبعد هبوط القلب (CHF) وفكر أكتر بالأزمة (Asthma) أو جلطة الرئة. خطوط المية (B-lines) بكون شكلها 'طولي' زي كشاف الضوء."
+  },
+  {
+    "topicId": "DERIVED_192",
+    "topic": "Cervical Spine Clearance (NEXUS)",
+    "explanation": "شو الفكرة؟ كيف نشيل 'طوق الرقبة' بدون صورة أشعة؟ استعمل سكور (NEXUS). وين الفخ؟ لازم المريض يكون 'صاحي' تماماً، وما عنده 'وجع بنص الرقبة'، والأهم إنه ما يكون عنده 'إصابة تانية كبيرة' بتوجعه كتير (Distracting injury) لأنها ممكن تنسيه وجع رقبته."
+  },
+  {
+    "topicId": "DERIVED_193",
+    "topic": "Plantar Fasciitis Management",
+    "explanation": "شو الفكرة؟ وجع 'مسمار اللحم' أو التهاب الرباط الأخمصي. وين الفخ؟ الوجع بكون 'بأول خطوة' لما المريض يصحى من النوم وبعدين بخف. كيف أستخدمها؟ العلاج مش بس مسكنات؛ أحسن شي هو 'تمارين الإطالة' ولبس جبيرة خفيفة بالليل بتخلي القدم مرفوعة (Dorsiflexion) عشان الرباط ما يشد وهو نايم."
+  },
+  {
+    "topicId": "DERIVED_194",
+    "topic": "Post-obstructive Diuresis Admission Criteria",
+    "explanation": "شو الفكرة؟ مريض كان عنده احتباس بول وركبناله قسطرة. وين الفخ؟ ممنوع تروحه فوراً. ليش؟ لأنه ممكن الكلى فجأة تطلع كميات بول هائلة (Diuresis) والمريض ينشف ويوقع ضغطه. كيف أستخدمها؟ راقبه 4 ساعات؛ لو بطلع أكتر من 200 مل بالساعة، هاد لازم يدخل المستشفى عشان ياخد سوائل تعويضية."
+  },
+  {
+    "topicId": "DERIVED_195",
+    "topic": "Ebola Virus Disease (EVD) Triage",
+    "explanation": "شو الفكرة؟ مريض جاي من بلد فيها وباء 'إيبولا'. وين الفخ؟ 'أهم' معلومة هي السفر بآخر 21 يوم. لو عنده حرارة وجاي من هناك، 'إياك' تبدأ فحوصات عادية. الحل؟ اعزل المريض فوراً بغرفة خاصة وخبر فريق مكافحة العدوى والوزارة. حماية الطاقم والناس هي الأولوية هون."
+  },
+  {
+    "topicId": "DERIVED_196",
+    "topic": "Puerperal Mastitis Management",
+    "explanation": "شو الفكرة؟ التهاب الثدي عند المرضعة (Mastitis). وين الفخ؟ لازم الأم 'تستمر' بالرضاعة من الجهة الملتهبة عشان تنظف الحليب وما يتحول لخُراج. كيف أستخدمها؟ لو السونار مبين بس 'Cobblestoning' (زي الحجار)، هاد التهاب عادي وعلاجه مضاد حيوي (Cephalexin) لـ 7 أيام مع الرضاعة."
+  }
+]

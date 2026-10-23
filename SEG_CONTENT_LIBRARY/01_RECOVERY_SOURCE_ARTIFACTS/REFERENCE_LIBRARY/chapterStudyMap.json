@@ -1,0 +1,2432 @@
+[
+  {
+    "source": "Patch",
+    "chapterNumber": "N/A",
+    "entries": [
+      {
+        "id": "correction_note_1",
+        "chapterTitle": "Corrections Patch",
+        "topic": "Corrections applied to NotebookLM extraction",
+        "families": [],
+        "keywords": []
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "2",
+    "entries": [
+      {
+        "id": "rosen_c2_t1",
+        "chapterTitle": "Airway and Resuscitation",
+        "topic": "Lung-Protective Ventilation in the ED",
+        "families": [
+          "Mechanical Ventilation"
+        ],
+        "keywords": []
+      },
+      {
+        "id": "rosen_c2_t2",
+        "chapterTitle": "Airway and Resuscitation",
+        "topic": "Sepsis-3 Definitions",
+        "families": [
+          "Septic Shock"
+        ],
+        "keywords": [
+          "Sepsis-3",
+          "SOFA",
+          "qSOFA",
+          "Organ Dysfunction"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "3",
+    "entries": [
+      {
+        "id": "rosen_c3_t1",
+        "chapterTitle": "Shock",
+        "topic": "Cardiogenic Shock and Fluids",
+        "families": [
+          "Cardiogenic Shock"
+        ],
+        "keywords": [
+          "Cardiogenic Shock",
+          "Norepinephrine",
+          "Pulmonary Edema",
+          "Dobutamine"
+        ]
+      },
+      {
+        "id": "rosen_c3_t2",
+        "chapterTitle": "Shock",
+        "topic": "Balanced Crystalloids vs. Normal Saline",
+        "families": [
+          "Septic Shock",
+          "Endocrine / DKA / Electrolytes"
+        ],
+        "keywords": [
+          "Lactated Ringers",
+          "Normal Saline",
+          "Hyperchloremic Acidosis",
+          "Septic Shock"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "4",
+    "entries": [
+      {
+        "id": "rosen_c4_t1",
+        "chapterTitle": "Cardiac Arrest",
+        "topic": "Targeted Temperature Management (TTM) and Prognosis",
+        "families": [
+          "Cardiac Arrest / ROSC / TTM"
+        ],
+        "keywords": [
+          "TTM",
+          "ROSC",
+          "Cold Saline",
+          "Neuro-prognostication",
+          "EEG"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "6",
+    "entries": [
+      {
+        "id": "rosen_c6_t1",
+        "chapterTitle": "Pain Management",
+        "topic": "Pain Transmission and Assessment",
+        "families": [
+          "Procedural Sedation / Analgesia"
+        ],
+        "keywords": [
+          "Pain Assessment",
+          "Self-report",
+          "Sympathetic Transmission",
+          "Cardiac Pain"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "7",
+    "entries": [
+      {
+        "id": "rosen_c7_t1",
+        "chapterTitle": "Procedural Sedation and Analgesia",
+        "topic": "Ketamine Complications and Contraindications",
+        "families": [
+          "Procedural Sedation / Analgesia",
+          "RSI / Paralytics / Sedation physiology"
+        ],
+        "keywords": [
+          "Ketamine",
+          "Laryngospasm",
+          "Intraocular Pressure",
+          "Dissociative Anesthesia"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "9",
+    "entries": [
+      {
+        "id": "rosen_c9_t1",
+        "chapterTitle": "Neuromuscular Weakness",
+        "topic": "Botulism Pathophysiology",
+        "families": [
+          "Stroke / Brainstem / Dissection",
+          "Toxicology / Antidotes"
+        ],
+        "keywords": [
+          "Botulism",
+          "ACh release",
+          "Autonomic",
+          "Descending Paralysis"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "10",
+    "entries": [
+      {
+        "id": "rosen_c10_t1",
+        "chapterTitle": "Dysfunctional Hemoglobins",
+        "topic": "Methemoglobinemia Clinical Presentation",
+        "families": [
+          "Toxicology / Antidotes"
+        ],
+        "keywords": [
+          "Benzocaine",
+          "Methylene Blue",
+          "Ferric Iron",
+          "Chocolate Blood"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "14",
+    "entries": [
+      {
+        "id": "rosen_c14_t1",
+        "chapterTitle": "Seizures",
+        "topic": "Eclamptic Seizures Management",
+        "families": [
+          "Pregnancy / OB",
+          "Seizures / Status"
+        ],
+        "keywords": [
+          "Eclampsia",
+          "Magnesium Sulfate",
+          "Pregnancy Seizure",
+          "Neuroimaging"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "17",
+    "entries": [
+      {
+        "id": "rosen_c17_t1",
+        "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+        "topic": "Retinal Detachment POCUS",
+        "families": [
+          "HEENT / Eye Emergencies",
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "Retinal Detachment",
+          "Painless Vision Loss",
+          "Optic Nerve Tether",
+          "Flashers and Floaters"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "22",
+    "entries": [
+      {
+        "id": "rosen_c22_t1",
+        "chapterTitle": "Chest Pain",
+        "topic": "Tension Pneumothorax and Ventilation",
+        "families": [
+          "Pneumothorax / Hemothorax",
+          "Trauma"
+        ],
+        "keywords": [
+          "Tension Pneumothorax",
+          "Needle Decompression",
+          "Ventilation Resistance",
+          "Hypotension"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "25",
+    "entries": [
+      {
+        "id": "rosen_c25_t1",
+        "chapterTitle": "Nausea and Vomiting",
+        "topic": "Gastric Outlet Obstruction",
+        "families": [
+          "GI / Abdominal Pain"
+        ],
+        "keywords": [
+          "GOO",
+          "Undigested Food",
+          "Pyloric Obstruction",
+          "Vomiting"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "28",
+    "entries": [
+      {
+        "id": "rosen_c28_t1",
+        "chapterTitle": "Constipation and Diarrhea",
+        "topic": "Fecal Impaction and Diarrhea",
+        "families": [
+          "GI / Abdominal Pain"
+        ],
+        "keywords": [
+          "Fecal Impaction",
+          "Overflow Diarrhea",
+          "Manual Disimpaction",
+          "Elderly"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "30",
+    "entries": [
+      {
+        "id": "rosen_c30_t1",
+        "chapterTitle": "Vaginal Bleeding",
+        "topic": "Initial Evaluation of Vaginal Bleeding",
+        "families": [
+          "Pregnancy / OB"
+        ],
+        "keywords": [
+          "Vaginal Bleeding",
+          "Pregnancy Test",
+          "Hemodynamic Stability",
+          "hCG"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "32",
+    "entries": [
+      {
+        "id": "rosen_c32_t1",
+        "chapterTitle": "Trauma: Overview",
+        "topic": "Pediatric Trauma Anatomy and Physiology",
+        "families": [
+          "Trauma",
+          "Paediatrics / Neonatal"
+        ],
+        "keywords": [
+          "Pediatric Trauma",
+          "Shock Compensation",
+          "Damage Control Resuscitation"
+        ]
+      },
+      {
+        "id": "rosen_c32_t2",
+        "chapterTitle": "Trauma: Overview",
+        "topic": "Primary Survey Priorities",
+        "families": [
+          "Trauma",
+          "Hemorrhagic Shock / MTP"
+        ],
+        "keywords": [
+          "Primary Survey",
+          "Secondary Survey",
+          "AMPLE History",
+          "ATLS"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "34",
+    "entries": [
+      {
+        "id": "rosen_c34_t1",
+        "chapterTitle": "Facial Trauma",
+        "topic": "Septal Hematoma",
+        "families": [
+          "HEENT / Eye Emergencies",
+          "Trauma"
+        ],
+        "keywords": [
+          "Septal Hematoma",
+          "Saddle Nose",
+          "Nasal Drainage",
+          "Cartilage Ischemia"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "36",
+    "entries": [
+      {
+        "id": "rosen_c36_t1",
+        "chapterTitle": "Neck Trauma",
+        "topic": "Penetrating Neck Trauma (No-Zone Approach)",
+        "families": [
+          "Trauma",
+          "Airway Failure / Intubation"
+        ],
+        "keywords": [
+          "Hard Signs",
+          "No-Zone",
+          "CTA Neck",
+          "Penetrating Neck Trauma"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "37",
+    "entries": [
+      {
+        "id": "rosen_c37_t1",
+        "chapterTitle": "Thoracic Trauma",
+        "topic": "Tension Pneumothorax in Intubated Patients",
+        "families": [
+          "Pneumothorax / Hemothorax",
+          "Trauma",
+          "Airway Failure / Intubation"
+        ],
+        "keywords": [
+          "Tension Pneumothorax",
+          "Ventilation Resistance",
+          "Needle Decompression",
+          "Tube Thoracostomy"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "38",
+    "entries": [
+      {
+        "id": "rosen_c38_t1",
+        "chapterTitle": "Abdominal Trauma",
+        "topic": "Unstable Pelvic Fracture and FAST",
+        "families": [
+          "Trauma",
+          "FAST / eFAST",
+          "Hemorrhagic Shock / MTP"
+        ],
+        "keywords": [
+          "Pelvic Fracture",
+          "FAST",
+          "Laparotomy",
+          "Angioembolization"
+        ]
+      },
+      {
+        "id": "rosen_c38_t2",
+        "chapterTitle": "Abdominal Trauma",
+        "topic": "Management Algorithm for Unstable Pelvic Fractures",
+        "families": [
+          "Trauma",
+          "FAST / eFAST",
+          "Hemorrhagic Shock / MTP"
+        ],
+        "keywords": [
+          "Pelvic Fracture",
+          "FAST",
+          "Angiography",
+          "Laparotomy",
+          "Retroperitoneal Hemorrhage"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "46",
+    "entries": [
+      {
+        "id": "rosen_c46_t1",
+        "chapterTitle": "Urogenital Trauma",
+        "topic": "Urethral Injury Evaluation",
+        "families": [
+          "Trauma",
+          "Renal Colic / Urinary"
+        ],
+        "keywords": [
+          "Retrograde Urethrogram",
+          "Blood at Meatus",
+          "Urethral Tear",
+          "High-riding Prostate"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "51",
+    "entries": [
+      {
+        "id": "rosen_c51_t1",
+        "chapterTitle": "Eye Trauma",
+        "topic": "Seidel Test and Open Globe",
+        "families": [
+          "HEENT / Eye Emergencies",
+          "Trauma"
+        ],
+        "keywords": [
+          "Seidel Test",
+          "Open Globe",
+          "Fluorescein",
+          "Orbital Septum"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "56",
+    "entries": [
+      {
+        "id": "rosen_c56_t1",
+        "chapterTitle": "Dental Emergencies",
+        "topic": "Alveolar Osteitis (Dry Socket)",
+        "families": [
+          "HEENT / Eye Emergencies"
+        ],
+        "keywords": [
+          "Dry Socket",
+          "Alveolar Osteitis",
+          "Post-extraction Pain",
+          "Eugenol"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "59",
+    "entries": [
+      {
+        "id": "rosen_c59_t1",
+        "chapterTitle": "Asthma",
+        "topic": "Risk Factors for Asthma-Related Death",
+        "families": [
+          "Asthma / COPD"
+        ],
+        "keywords": [
+          "Asthma Death",
+          "Risk Stratification",
+          "Status Asthmaticus",
+          "Intubation History"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "64",
+    "entries": [
+      {
+        "id": "rosen_c64_t1",
+        "chapterTitle": "ACS and MI",
+        "topic": "Angiography After Cardiac Arrest (ROSC)",
+        "families": [
+          "ACS / Chest Pain / Cardiovascular Risk Stratification",
+          "Cardiac Arrest / ROSC / TTM"
+        ],
+        "keywords": [
+          "ROSC",
+          "STEMI",
+          "Angiography",
+          "Post-arrest Care"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "71",
+    "entries": [
+      {
+        "id": "rosen_c71_t1",
+        "chapterTitle": "Acute Aortic Syndrome",
+        "topic": "Medical Management of Aortic Dissection",
+        "families": [
+          "Aortic Dissection"
+        ],
+        "keywords": [
+          "Aortic Dissection",
+          "dP/dt",
+          "Beta-blockade",
+          "Labetalol",
+          "Esmolol"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "75",
+    "entries": [
+      {
+        "id": "rosen_c75_t1",
+        "chapterTitle": "Esophagus",
+        "topic": "Esophageal Perforation Imaging",
+        "families": [
+          "Foreign Body / Button Battery / Caustic",
+          "GI / Abdominal Pain"
+        ],
+        "keywords": [
+          "Esophageal Perforation",
+          "Gastrografin",
+          "Barium Swallow",
+          "Mediastinitis"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "77",
+    "entries": [
+      {
+        "id": "rosen_c77_t1",
+        "chapterTitle": "Small Bowel",
+        "topic": "Small Bowel Obstruction (SBO)",
+        "families": [
+          "GI / Abdominal Pain"
+        ],
+        "keywords": [
+          "SBO",
+          "Adhesions",
+          "Transition Point",
+          "Strangulation"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "78",
+    "entries": [
+      {
+        "id": "rosen_c78_t1",
+        "chapterTitle": "Acute Mesenteric Ischemia",
+        "topic": "Diagnosis of Mesenteric Ischemia",
+        "families": [
+          "Mesenteric Ischemia",
+          "GI / Abdominal Pain"
+        ],
+        "keywords": [
+          "Mesenteric Ischemia",
+          "Pain Out of Proportion",
+          "CTA Abdomen",
+          "Atrial Fibrillation"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "86",
+    "entries": [
+      {
+        "id": "rosen_c86_t1",
+        "chapterTitle": "Gynecology",
+        "topic": "Ovarian Torsion",
+        "families": [
+          "Pregnancy / OB",
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "Ovarian Torsion",
+          "Doppler Flow",
+          "Adnexal Mass",
+          "Dual Blood Supply"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "91",
+    "entries": [
+      {
+        "id": "rosen_c91_t1",
+        "chapterTitle": "Central Nervous System Disorders",
+        "topic": "Multiple Sclerosis and Optic Neuritis",
+        "families": [
+          "Stroke / Brainstem / Dissection",
+          "HEENT / Eye Emergencies"
+        ],
+        "keywords": [
+          "Multiple Sclerosis",
+          "Optic Neuritis",
+          "Demyelination",
+          "Plaques"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "93",
+    "entries": [
+      {
+        "id": "rosen_c93_t1",
+        "chapterTitle": "Peripheral Nerve Disorders",
+        "topic": "Peripheral Neuropathy Patterns",
+        "families": [
+          "Stroke / Brainstem / Dissection"
+        ],
+        "keywords": [
+          "Neuropathy",
+          "Pure Motor",
+          "Asymmetrical",
+          "Distal"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "94",
+    "entries": [
+      {
+        "id": "rosen_c94_t1",
+        "chapterTitle": "Neuromuscular Disorders",
+        "topic": "Dermatomyositis",
+        "families": [
+          "Dermatology Emergencies"
+        ],
+        "keywords": [
+          "Dermatomyositis",
+          "Proximal Weakness",
+          "Heliotrope Rash",
+          "Muscle Biopsy"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "95",
+    "entries": [
+      {
+        "id": "rosen_c95_t1",
+        "chapterTitle": "Renal and Genitourinary Disorders",
+        "topic": "Complications of Ureteral Stenting",
+        "families": [
+          "Renal Colic / Urinary",
+          "Trauma"
+        ],
+        "keywords": [
+          "Ureteral Stent",
+          "Retroperitoneal Hematoma",
+          "Acute Anemia",
+          "CT Abdomen"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "102",
+    "entries": [
+      {
+        "id": "rosen_c102_t1",
+        "chapterTitle": "Joint Disorders",
+        "topic": "Septic Arthritis vs. Gout",
+        "families": [
+          "Infectious Disease / Sepsis",
+          "Orthopedics / Fractures"
+        ],
+        "keywords": [
+          "Septic Arthritis",
+          "Gout",
+          "Crystals",
+          "Synovial Fluid"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "105",
+    "entries": [
+      {
+        "id": "rosen_c105_t1",
+        "chapterTitle": "Allergy and Anaphylaxis",
+        "topic": "ACE-Inhibitor Induced Angioedema",
+        "families": [
+          "Anaphylaxis / Hereditary Angioedema",
+          "Airway Failure / Intubation"
+        ],
+        "keywords": [
+          "Angioedema",
+          "ACE Inhibitor",
+          "Bradykinin",
+          "Airway"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "107",
+    "entries": [
+      {
+        "id": "rosen_c107_t1",
+        "chapterTitle": "Blood Transfusion",
+        "topic": "Massive Transfusion Protocol (MTP) Ratios",
+        "families": [
+          "Hemorrhagic Shock / MTP",
+          "Trauma"
+        ],
+        "keywords": [
+          "MTP",
+          "1:1:1 Ratio",
+          "FFP",
+          "Hemostasis"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "108",
+    "entries": [
+      {
+        "id": "rosen_c108_t1",
+        "chapterTitle": "Anemia and Hypocoagulable States",
+        "topic": "Warfarin Reversal in Life-Threatening Bleed",
+        "families": [
+          "Hematologic Disorders",
+          "Stroke / Brainstem / Dissection"
+        ],
+        "keywords": [
+          "Warfarin",
+          "INR Reversal",
+          "PCC",
+          "Vitamin K"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "112",
+    "entries": [
+      {
+        "id": "rosen_c112_t1",
+        "chapterTitle": "Oncologic Emergencies",
+        "topic": "Febrile Neutropenia Management",
+        "families": [
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "Febrile Neutropenia",
+          "ANC",
+          "Cefepime",
+          "Blood Cultures"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "113",
+    "entries": [
+      {
+        "id": "rosen_c113_t1",
+        "chapterTitle": "Acid-Base Disorders",
+        "topic": "Priority in Metabolic Acidosis",
+        "families": [
+          "Endocrine / DKA / Electrolytes"
+        ],
+        "keywords": [
+          "Metabolic Acidosis",
+          "Bicarbonate",
+          "Base Excess",
+          "Anion Gap"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "117",
+    "entries": [
+      {
+        "id": "rosen_c117_t1",
+        "chapterTitle": "Endocrine Disorders",
+        "topic": "Thyrotoxicosis and Thyroid Storm",
+        "families": [
+          "Endocrine / DKA / Electrolytes",
+          "Dysrhythmias / ECG Patterns"
+        ],
+        "keywords": [
+          "Thyrotoxicosis",
+          "Thyroid Storm",
+          "Tachycardia",
+          "Propranolol"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "118",
+    "entries": [
+      {
+        "id": "rosen_c118_t1",
+        "chapterTitle": "Infectious Disease",
+        "topic": "Diphtheria Presentation",
+        "families": [
+          "Infectious Disease / Sepsis",
+          "Airway Failure / Intubation"
+        ],
+        "keywords": [
+          "Diphtheria",
+          "Pseudomembrane",
+          "Bull Neck",
+          "Exotoxin"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "121",
+    "entries": [
+      {
+        "id": "rosen_c121_t1",
+        "chapterTitle": "Foreign Bodies",
+        "topic": "Esophageal Food Bolus Impaction",
+        "families": [
+          "Foreign Body / Button Battery / Caustic",
+          "GI / Abdominal Pain"
+        ],
+        "keywords": [
+          "Food Bolus",
+          "Glucagon",
+          "Papain",
+          "Esophageal Perforation"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "122",
+    "entries": [
+      {
+        "id": "rosen_c122_t1",
+        "chapterTitle": "Envenomations",
+        "topic": "Scorpion and Snake Bite Observation",
+        "families": [
+          "Environmental Emergencies",
+          "Toxicology / Antidotes"
+        ],
+        "keywords": [
+          "Scorpion Sting",
+          "Snake Bite",
+          "Dry Bite",
+          "Envenomation"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "128",
+    "entries": [
+      {
+        "id": "rosen_c128_t1",
+        "chapterTitle": "Hypothermia and Frostbite",
+        "topic": "Termination of Resuscitation in Hypothermia",
+        "families": [
+          "Cardiac Arrest / ROSC / TTM",
+          "Environmental Emergencies"
+        ],
+        "keywords": [
+          "Hypothermic Arrest",
+          "Serum Potassium",
+          "Frozen Solid",
+          "TOR"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "136",
+    "entries": [
+      {
+        "id": "rosen_c136_t1",
+        "chapterTitle": "Toxic Alcohols",
+        "topic": "Isopropyl Alcohol Metabolism",
+        "families": [
+          "Toxicology / Antidotes",
+          "Endocrine / DKA / Electrolytes"
+        ],
+        "keywords": [
+          "Isopropyl Alcohol",
+          "Acetone",
+          "Ketosis without Acidosis",
+          "Hemorrhagic Gastritis"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "138",
+    "entries": [
+      {
+        "id": "rosen_c138_t1",
+        "chapterTitle": "Acetaminophen",
+        "topic": "King's College Criteria for Liver Transplant",
+        "families": [
+          "Toxicology / Antidotes",
+          "GI / Abdominal Pain"
+        ],
+        "keywords": [
+          "APAP",
+          "King's College Criteria",
+          "Fulminant Hepatic Failure",
+          "NAC"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "142",
+    "entries": [
+      {
+        "id": "rosen_c142_t1",
+        "chapterTitle": "Cardiovascular Drugs",
+        "topic": "Chronic Digoxin Toxicity",
+        "families": [
+          "Toxicology / Antidotes",
+          "Dysrhythmias / ECG Patterns"
+        ],
+        "keywords": [
+          "Digoxin",
+          "Xanthopsia",
+          "Hypokalemia",
+          "Digibind"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "155",
+    "entries": [
+      {
+        "id": "rosen_c155_t1",
+        "chapterTitle": "Pediatric Resuscitation",
+        "topic": "Compensated Shock in Children",
+        "families": [
+          "Paediatrics / Neonatal",
+          "Septic Shock"
+        ],
+        "keywords": [
+          "Pediatric Shock",
+          "Compensated Shock",
+          "Tachypnea",
+          "Clear Lungs"
+        ]
+      },
+      {
+        "id": "rosen_c155_t2",
+        "chapterTitle": "Pediatric Resuscitation",
+        "topic": "Fever in Well-Appearing Infants Criteria",
+        "families": [
+          "Paediatrics / Neonatal",
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "Philadelphia Criteria",
+          "Rochester Criteria",
+          "Boston Criteria",
+          "SBI",
+          "Febrile Infant"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "156",
+    "entries": [
+      {
+        "id": "rosen_c156_t1",
+        "chapterTitle": "Pediatric Airway",
+        "topic": "Endotracheal Tube Depth Formula",
+        "families": [
+          "Airway Failure / Intubation",
+          "Paediatrics / Neonatal"
+        ],
+        "keywords": [
+          "Pediatric ETT",
+          "Depth Formula",
+          "Airway Management"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "173",
+    "entries": [
+      {
+        "id": "rosen_c173_t1",
+        "chapterTitle": "Obstetrics",
+        "topic": "$\beta$-hCG Discriminatory Zone",
+        "families": [
+          "Pregnancy / OB",
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "$\beta$-hCG",
+          "Discriminatory Zone",
+          "Ectopic Pregnancy",
+          "IUP"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "177",
+    "entries": [
+      {
+        "id": "rosen_c177_t1",
+        "chapterTitle": "Trauma in Pregnancy",
+        "topic": "Resuscitative Hysterotomy",
+        "families": [
+          "Trauma",
+          "Pregnancy / OB",
+          "Cardiac Arrest / ROSC / TTM"
+        ],
+        "keywords": [
+          "Resuscitative Hysterotomy",
+          "Perimortem C-Section",
+          "Maternal Arrest",
+          "Viability"
+        ]
+      },
+      {
+        "id": "rosen_c177_t2",
+        "chapterTitle": "Trauma in Pregnancy",
+        "topic": "Pregnancy-Adapted YEARS Algorithm",
+        "families": [
+          "Pregnancy / OB",
+          "Pulmonary Embolism"
+        ],
+        "keywords": [
+          "YEARS Algorithm",
+          "PE in Pregnancy",
+          "D-dimer",
+          "Radiation Stewardship"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Rosen",
+    "chapterNumber": "E15",
+    "entries": [
+      {
+        "id": "rosen_ce15_t1",
+        "chapterTitle": "Radiation Emergencies",
+        "topic": "Radiation Triage Priority",
+        "families": [
+          "Social / Ethics / Systems",
+          "ACS / Chest Pain / Cardiovascular Risk Stratification",
+          "Trauma"
+        ],
+        "keywords": [
+          "Radiation Triage",
+          "Decontamination",
+          "STEMI",
+          "Contamination"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "1",
+    "entries": [
+      {
+        "id": "tint_c1_t1",
+        "chapterTitle": "Prehospital Care and Disaster Management",
+        "topic": "EMTALA and Interfacility Transfer",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "EMTALA",
+          "Stabilization",
+          "Medical Screening Exam",
+          "Liability"
+        ]
+      },
+      {
+        "id": "tint_c1_t3",
+        "chapterTitle": "Prehospital Care and Disaster Management",
+        "topic": "Blast Injury Pathophysiology",
+        "families": [
+          "Pneumothorax / Hemothorax",
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "Blast Injury",
+          "Lung Barotrauma",
+          "Primary Blast Injury",
+          "Secondary Blast Injury"
+        ]
+      },
+      {
+        "id": "tint_c1_t2",
+        "chapterTitle": "Prehospital Care and Disaster Management",
+        "topic": "Mass Casualty Triage and Utstein Template",
+        "families": [
+          "Social / Ethics / Systems",
+          "Cardiac Arrest / ROSC / TTM"
+        ],
+        "keywords": [
+          "Utstein Template",
+          "MCI",
+          "Triage",
+          "Regionalization"
+        ]
+      }
+    ],
+    "count": 3
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "entries": [
+      {
+        "id": "tint_c2_t1",
+        "chapterTitle": "Resuscitation",
+        "topic": "Brugada Syndrome",
+        "families": [
+          "Cardiac Arrest / ROSC / TTM"
+        ],
+        "keywords": [
+          "Brugada",
+          "Sudden Cardiac Death",
+          "Sodium Channel",
+          "AICD"
+        ]
+      },
+      {
+        "id": "tint_c2_t2",
+        "chapterTitle": "Resuscitation",
+        "topic": "Septic Shock Resuscitation",
+        "families": [
+          "Septic Shock"
+        ],
+        "keywords": [
+          "Sepsis",
+          "Norepinephrine",
+          "Vasopressors",
+          "Septic Shock"
+        ]
+      },
+      {
+        "id": "tint_c2_t3",
+        "chapterTitle": "Resuscitation",
+        "topic": "End-Tidal Capnography (ETCO2)",
+        "families": [
+          "ETCO2 / Capnography",
+          "Cardiac Arrest / ROSC / TTM"
+        ],
+        "keywords": [
+          "ETCO2",
+          "Capnography",
+          "ROSC",
+          "Expiratory Plateau"
+        ]
+      },
+      {
+        "id": "tint_c2_t4",
+        "chapterTitle": "Resuscitation",
+        "topic": "Trauma-Induced Coagulopathy and MTP",
+        "families": [
+          "Hemorrhagic Shock / MTP"
+        ],
+        "keywords": [
+          "Lethal Triad",
+          "MTP",
+          "Acidosis",
+          "Hypothermia",
+          "Coagulopathy"
+        ]
+      }
+    ],
+    "count": 4
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "3",
+    "entries": [
+      {
+        "id": "tint_c3_t1",
+        "chapterTitle": "Analgesia, Anesthesia, and Procedural Sedation",
+        "topic": "Local Anesthetic Systemic Toxicity (LAST)",
+        "families": [
+          "Toxidromes / Antidotes",
+          "Procedural Sedation / Analgesia"
+        ],
+        "keywords": [
+          "LAST",
+          "Lipid Emulsion",
+          "Lidocaine Toxicity",
+          "Seizure"
+        ]
+      },
+      {
+        "id": "tint_c3_t2",
+        "chapterTitle": "Analgesia, Anesthesia, and Procedural Sedation",
+        "topic": "Ketamine in Procedural Sedation",
+        "families": [
+          "Procedural Sedation / Analgesia",
+          "RSI / Paralytics / Sedation physiology"
+        ],
+        "keywords": [
+          "Ketamine",
+          "Laryngospasm",
+          "Dissociative Anesthesia",
+          "Analgesia"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "4",
+    "entries": [
+      {
+        "id": "tint_c4_t1",
+        "chapterTitle": "Wound Management",
+        "topic": "Methods of Wound Closure: Staples",
+        "families": [
+          "Dermatology Emergencies"
+        ],
+        "keywords": [
+          "Staples",
+          "Wound Closure",
+          "Laceration",
+          "Scalp Repair"
+        ]
+      },
+      {
+        "id": "tint_c4_t2",
+        "chapterTitle": "Wound Management",
+        "topic": "Eyelid Lacerations",
+        "families": [
+          "Dermatology Emergencies",
+          "HEENT / Eye Emergencies"
+        ],
+        "keywords": [
+          "Eyelid Laceration",
+          "Medial Canthus",
+          "Orbital Septum",
+          "Lacrimal Duct"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "5",
+    "entries": [
+      {
+        "id": "tint_c5_t1",
+        "chapterTitle": "Cardiovascular Disorders",
+        "topic": "TIMI Risk Score",
+        "families": [
+          "ACS / Chest Pain / Cardiovascular Risk Stratification"
+        ],
+        "keywords": [
+          "TIMI Score",
+          "ACS",
+          "Risk Stratification",
+          "Cardiac Markers"
+        ]
+      },
+      {
+        "id": "tint_c5_t2",
+        "chapterTitle": "Cardiovascular Disorders",
+        "topic": "Cocaine-Induced Myocardial Ischemia",
+        "families": [
+          "Toxicology / Antidotes",
+          "ACS / Chest Pain / Cardiovascular Risk Stratification"
+        ],
+        "keywords": [
+          "Cocaine MI",
+          "Beta-blocker Contraindication",
+          "Benzodiazepines",
+          "Alpha Stimulation"
+        ]
+      },
+      {
+        "id": "tint_c5_t3",
+        "chapterTitle": "Cardiovascular Disorders",
+        "topic": "Cardiac Tamponade",
+        "families": [
+          "FAST / eFAST",
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "Tamponade",
+          "Beck's Triad",
+          "RV Collapse",
+          "Pericardiocentesis"
+        ]
+      }
+    ],
+    "count": 3
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "6",
+    "entries": [
+      {
+        "id": "tint_c6_t1",
+        "chapterTitle": "Thoracic-Respiratory Disorders",
+        "topic": "Klebsiella Pneumonia",
+        "families": [
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "Klebsiella",
+          "Currant jelly sputum",
+          "Bulging fissure sign",
+          "Alcoholism"
+        ]
+      },
+      {
+        "id": "tint_c6_t2",
+        "chapterTitle": "Thoracic-Respiratory Disorders",
+        "topic": "Spontaneous Pneumothorax",
+        "families": [
+          "Pneumothorax / Hemothorax"
+        ],
+        "keywords": [
+          "Pneumothorax",
+          "Spontaneous PTX",
+          "Tachycardia",
+          "Observation"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "7",
+    "entries": [
+      {
+        "id": "tint_c7_t1",
+        "chapterTitle": "Abdominal and Gastrointestinal Disorders",
+        "topic": "Upper GI Bleed Management",
+        "families": [
+          "GI Bleed"
+        ],
+        "keywords": [
+          "UGIB",
+          "PPI",
+          "Lactate",
+          "Peptic Ulcer"
+        ]
+      },
+      {
+        "id": "tint_c7_t2",
+        "chapterTitle": "Abdominal and Gastrointestinal Disorders",
+        "topic": "Gastrointestinal Foreign Bodies",
+        "families": [
+          "Foreign Body / Button Battery / Caustic"
+        ],
+        "keywords": [
+          "Button Battery",
+          "Coin",
+          "Esophagus",
+          "Glucagon"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "8",
+    "entries": [
+      {
+        "id": "tint_c8_t1",
+        "chapterTitle": "Renal and Genitourinary Disorders",
+        "topic": "Fournier's Gangrene",
+        "families": [
+          "Dermatology Emergencies",
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "Fournier's Gangrene",
+          "Necrotizing Fasciitis",
+          "Surgical Emergency",
+          "Diabetes"
+        ]
+      },
+      {
+        "id": "tint_c8_t2",
+        "chapterTitle": "Renal and Genitourinary Disorders",
+        "topic": "Dialysis Complications",
+        "families": [
+          "Renal Colic / Urinary",
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "Dialysis",
+          "Hypotension",
+          "Ultrafiltration",
+          "Dry Weight"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "9",
+    "entries": [
+      {
+        "id": "tint_c9_t1",
+        "chapterTitle": "Obstetrics and Gynecology",
+        "topic": "Ectopic Pregnancy and Infertility",
+        "families": [
+          "Pregnancy / OB",
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "Ectopic",
+          "Heterotopic",
+          "Infertility",
+          "hCG",
+          "OHSS"
+        ]
+      },
+      {
+        "id": "tint_c9_t2",
+        "chapterTitle": "Obstetrics and Gynecology",
+        "topic": "Premature Rupture of Membranes (PROM)",
+        "families": [
+          "Pregnancy / OB"
+        ],
+        "keywords": [
+          "PROM",
+          "Ferning",
+          "Amniotic Fluid",
+          "Chorioamnionitis"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "10",
+    "entries": [
+      {
+        "id": "tint_c10_t1",
+        "chapterTitle": "Pediatrics",
+        "topic": "Pediatric Airway Sizing",
+        "families": [
+          "Trauma",
+          "Paediatrics / Neonatal",
+          "Airway Failure / Intubation"
+        ],
+        "keywords": [
+          "Pediatric Intubation",
+          "ETT Size",
+          "Laryngoscope",
+          "Cuffed ETT"
+        ]
+      },
+      {
+        "id": "tint_c10_t2",
+        "chapterTitle": "Pediatrics",
+        "topic": "Pediatric Head Trauma Rules (PECARN)",
+        "families": [
+          "Trauma",
+          "Paediatrics / Neonatal"
+        ],
+        "keywords": [
+          "PECARN",
+          "ciTBI",
+          "Skull Fracture",
+          "Scalp Hematoma"
+        ]
+      },
+      {
+        "id": "tint_c10_t3",
+        "chapterTitle": "Pediatrics",
+        "topic": "Intussusception",
+        "families": [
+          "Paediatrics / Neonatal",
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "Intussusception",
+          "Target Sign",
+          "Ultrasound",
+          "Ileocolic"
+        ]
+      }
+    ],
+    "count": 3
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "11",
+    "entries": [
+      {
+        "id": "tint_c11_t1",
+        "chapterTitle": "Systemic Infectious Disorders",
+        "topic": "Disseminated Gonococcal Infection (DGI)",
+        "families": [
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "Gonococcemia",
+          "Pustular Rash",
+          "Sterile Pyuria",
+          "Tenosynovitis"
+        ]
+      },
+      {
+        "id": "tint_c11_t2",
+        "chapterTitle": "Systemic Infectious Disorders",
+        "topic": "Toxic Shock Syndrome (TSS)",
+        "families": [
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "TSS",
+          "Staphylococcus aureus",
+          "Sunburn rash",
+          "Nasal packing"
+        ]
+      },
+      {
+        "id": "tint_c11_t3",
+        "chapterTitle": "Systemic Infectious Disorders",
+        "topic": "Tetanus Management",
+        "families": [
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "Tetanus",
+          "TIG",
+          "Exotoxin",
+          "Trismus",
+          "Opisthotonus"
+        ]
+      }
+    ],
+    "count": 3
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "12",
+    "entries": [
+      {
+        "id": "tint_c12_t1",
+        "chapterTitle": "Nervous System Disorders",
+        "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+        "families": [
+          "Stroke / Brainstem / Dissection",
+          "HEENT / Eye Emergencies"
+        ],
+        "keywords": [
+          "Pseudotumor cerebri",
+          "Papilledema",
+          "Opening pressure",
+          "Vision loss"
+        ]
+      },
+      {
+        "id": "tint_c12_t2",
+        "chapterTitle": "Nervous System Disorders",
+        "topic": "Status Epilepticus",
+        "families": [
+          "Seizures / Status"
+        ],
+        "keywords": [
+          "Status Epilepticus",
+          "Lorazepam",
+          "EEG",
+          "Refractory Seizure"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "13",
+    "entries": [
+      {
+        "id": "tint_c13_t1",
+        "chapterTitle": "Toxicologic Disorders",
+        "topic": "Caustic Ingestions (Acid vs Alkali)",
+        "families": [
+          "Foreign Body / Button Battery / Caustic",
+          "Toxicology / Antidotes"
+        ],
+        "keywords": [
+          "Liquefactive necrosis",
+          "Coagulation necrosis",
+          "Endoscopy",
+          "Lye"
+        ]
+      },
+      {
+        "id": "tint_c13_t2",
+        "chapterTitle": "Toxicologic Disorders",
+        "topic": "Methemoglobinemia",
+        "families": [
+          "Toxicology / Antidotes"
+        ],
+        "keywords": [
+          "Methemoglobin",
+          "Benzocaine",
+          "Methylene Blue",
+          "Chocolate-colored blood"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "14",
+    "entries": [
+      {
+        "id": "tint_c14_t1",
+        "chapterTitle": "Environmental Injuries",
+        "topic": "Frostbite Management",
+        "families": [
+          "Environmental Emergencies"
+        ],
+        "keywords": [
+          "Frostbite",
+          "Rapid rewarming",
+          "Hemorrhagic blisters",
+          "Demarcation"
+        ]
+      },
+      {
+        "id": "tint_c14_t2",
+        "chapterTitle": "Environmental Injuries",
+        "topic": "Carbon Monoxide (CO) Poisoning",
+        "families": [
+          "Environmental Emergencies",
+          "Toxicology / Antidotes"
+        ],
+        "keywords": [
+          "CO poisoning",
+          "Carboxyhemoglobin",
+          "HBO",
+          "Fetal hemoglobin"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "15",
+    "entries": [
+      {
+        "id": "tint_c15_t1",
+        "chapterTitle": "Endocrine, Metabolic, and Nutritional Disorders",
+        "topic": "Diabetic Ketoacidosis (DKA) Management",
+        "families": [
+          "Endocrine / DKA / Electrolytes"
+        ],
+        "keywords": [
+          "DKA",
+          "Anion Gap",
+          "Hypokalemia",
+          "Cerebral Edema"
+        ]
+      },
+      {
+        "id": "tint_c15_t2",
+        "chapterTitle": "Endocrine, Metabolic, and Nutritional Disorders",
+        "topic": "Adrenal Crisis",
+        "families": [
+          "Endocrine / DKA / Electrolytes",
+          "Septic Shock"
+        ],
+        "keywords": [
+          "Adrenal crisis",
+          "Hydrocortisone",
+          "Hyponatremia",
+          "Hyperkalemia"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "16",
+    "entries": [
+      {
+        "id": "tint_c16_t1",
+        "chapterTitle": "Hematologic Disorders",
+        "topic": "Immune Thrombocytopenic Purpura (ITP)",
+        "families": [
+          "Hematologic Disorders"
+        ],
+        "keywords": [
+          "ITP",
+          "Platelets",
+          "Corticosteroids",
+          "Purpura"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "17",
+    "entries": [
+      {
+        "id": "tint_c17_t1",
+        "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+        "topic": "Retinal Detachment",
+        "families": [
+          "HEENT / Eye Emergencies",
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "Retinal detachment",
+          "Flashers",
+          "Floaters",
+          "Optic nerve tether"
+        ]
+      },
+      {
+        "id": "tint_c17_t2",
+        "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+        "topic": "Tracheoinnominate Artery Fistula",
+        "families": [
+          "Airway Failure / Intubation",
+          "HEENT / Eye Emergencies"
+        ],
+        "keywords": [
+          "Tracheostomy",
+          "Innominate artery",
+          "Tamponade",
+          "Sentinel bleed"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "18",
+    "entries": [
+      {
+        "id": "tint_c18_t1",
+        "chapterTitle": "Dermatology",
+        "topic": "Erythema Multiforme (EM) and SJS/TEN",
+        "families": [
+          "Dermatology Emergencies"
+        ],
+        "keywords": [
+          "Target lesions",
+          "SJS",
+          "TEN",
+          "Nikolsky sign",
+          "Mucosal involvement"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "19",
+    "entries": [
+      {
+        "id": "tint_c19_t1",
+        "chapterTitle": "Traumatic Disorders",
+        "topic": "Pregnancy in Trauma",
+        "families": [
+          "Pregnancy / OB",
+          "Hemorrhagic Shock / MTP"
+        ],
+        "keywords": [
+          "Aortocaval compression",
+          "Placental abruption",
+          "Viability",
+          "Cardiotocography"
+        ]
+      },
+      {
+        "id": "tint_c19_t2",
+        "chapterTitle": "Traumatic Disorders",
+        "topic": "NEXUS Rules for Chest Imaging",
+        "families": [
+          "Pneumothorax / Hemothorax",
+          "FAST / eFAST"
+        ],
+        "keywords": [
+          "NEXUS",
+          "Chest X-ray",
+          "Blunt trauma",
+          "Deceleration"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "20",
+    "entries": [
+      {
+        "id": "tint_c20_t1",
+        "chapterTitle": "Injuries to Bones and Joints",
+        "topic": "Ottawa Knee Rules",
+        "families": [
+          "Orthopedics / Fractures"
+        ],
+        "keywords": [
+          "Ottawa Knee Rules",
+          "Patellar tenderness",
+          "Fibula head",
+          "Weight bearing"
+        ]
+      },
+      {
+        "id": "tint_c20_t2",
+        "chapterTitle": "Injuries to Bones and Joints",
+        "topic": "Compartment Syndrome",
+        "families": [
+          "Orthopedics / Fractures"
+        ],
+        "keywords": [
+          "Compartment Syndrome",
+          "Passive stretch",
+          "Fasciotomy",
+          "Paresthesia"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "21",
+    "entries": [
+      {
+        "id": "tint_c21_t1",
+        "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+        "topic": "Sciatica and Herniated Nucleus Pulposus (HNP)",
+        "families": [
+          "Orthopedics / Fractures"
+        ],
+        "keywords": [
+          "Sciatica",
+          "HNP",
+          "Radiculopathy",
+          "Conservative management"
+        ]
+      },
+      {
+        "id": "tint_c21_t2",
+        "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+        "topic": "Psoas Abscess",
+        "families": [
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "Psoas Abscess",
+          "Staph aureus",
+          "Hip Extension",
+          "Retroperitoneal"
+        ]
+      },
+      {
+        "id": "tint_c21_t3",
+        "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+        "topic": "Septic Arthritis in Immunocompromised Patients",
+        "families": [
+          "Infectious Disease / Sepsis",
+          "Orthopedics / Fractures"
+        ],
+        "keywords": [
+          "Septic Arthritis",
+          "Immunocompromised",
+          "Synovial Fluid",
+          "Crystals"
+        ]
+      }
+    ],
+    "count": 3
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "22",
+    "entries": [
+      {
+        "id": "tint_c22_t1",
+        "chapterTitle": "Psychosocial Disorders",
+        "topic": "Suicide Risk Assessment",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "Suicide Risk",
+          "SAD PERSONS",
+          "Mandatory Admission",
+          "Firearms"
+        ]
+      },
+      {
+        "id": "tint_c22_t2",
+        "chapterTitle": "Psychosocial Disorders",
+        "topic": "Acute Dystonic Reactions",
+        "families": [
+          "Toxicology / Antidotes"
+        ],
+        "keywords": [
+          "Dystonia",
+          "Extrapyramidal",
+          "Benztropine",
+          "Oculogyric Crisis"
+        ]
+      },
+      {
+        "id": "tint_c22_t3",
+        "chapterTitle": "Psychosocial Disorders",
+        "topic": "Eating Disorders (Bulimia Nervosa)",
+        "families": [
+          "Endocrine / DKA / Electrolytes",
+          "Dysrhythmias / ECG Patterns"
+        ],
+        "keywords": [
+          "Bulimia",
+          "Metabolic Alkalosis",
+          "Hypokalemia",
+          "Russell's Sign"
+        ]
+      }
+    ],
+    "count": 3
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "23",
+    "entries": [
+      {
+        "id": "tint_c23_t1",
+        "chapterTitle": "Abuse and Assault",
+        "topic": "Intimate Partner Violence (IPV)",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "IPV",
+          "Central Injury Pattern",
+          "Pregnancy Abuse",
+          "Mandatory Reporting"
+        ]
+      },
+      {
+        "id": "tint_c23_t2",
+        "chapterTitle": "Abuse and Assault",
+        "topic": "Elder Abuse",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "Elder Abuse",
+          "Caregiver Burden",
+          "Financial Exploitation",
+          "Neglect"
+        ]
+      }
+    ],
+    "count": 2
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "24",
+    "entries": [
+      {
+        "id": "tint_c24_t1",
+        "chapterTitle": "Special Situations",
+        "topic": "Febrile IV Drug User (IVDU) and TB Isolation",
+        "families": [
+          "Infectious Disease / Sepsis"
+        ],
+        "keywords": [
+          "IVDU",
+          "Cavitary Infiltrate",
+          "TB Isolation",
+          "Endocarditis"
+        ]
+      },
+      {
+        "id": "tint_c24_t2",
+        "chapterTitle": "Special Situations",
+        "topic": "Consent and the Mature Minor Doctrine",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "Consent",
+          "Mature Minor",
+          "Emancipation",
+          "Autonomy"
+        ]
+      },
+      {
+        "id": "tint_c24_t3",
+        "chapterTitle": "Special Situations",
+        "topic": "Tactical Combat Casualty Care (TCCC)",
+        "families": [
+          "Social / Ethics / Systems",
+          "Trauma"
+        ],
+        "keywords": [
+          "TCCC",
+          "Care Under Fire",
+          "Tourniquet",
+          "Needle Decompression"
+        ]
+      }
+    ],
+    "count": 3
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "entries": [
+      {
+        "id": "tint_c25_t1",
+        "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+        "topic": "Cardiac Tamponade POCUS",
+        "families": [
+          "Ultrasound Signs / Views",
+          "Trauma"
+        ],
+        "keywords": [
+          "Tamponade",
+          "RV Collapse",
+          "Diastolic Collapse",
+          "IVC Plethora"
+        ]
+      },
+      {
+        "id": "tint_c25_t2",
+        "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+        "topic": "Pneumothorax POCUS (M-Mode)",
+        "families": [
+          "Ultrasound Signs / Views",
+          "Pneumothorax / Hemothorax"
+        ],
+        "keywords": [
+          "M-Mode",
+          "Lung Sliding",
+          "Sandy Beach",
+          "Barcode Sign"
+        ]
+      },
+      {
+        "id": "tint_c25_t3",
+        "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+        "topic": "Abdominal Aortic Aneurysm (AAA) POCUS",
+        "families": [
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "AAA",
+          "Mural Thrombus",
+          "Outer-to-Outer",
+          "Aortic Measurement"
+        ]
+      },
+      {
+        "id": "tint_c25_t4",
+        "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+        "topic": "Retinal Detachment POCUS",
+        "families": [
+          "Ultrasound Signs / Views",
+          "HEENT / Eye Emergencies"
+        ],
+        "keywords": [
+          "Retinal Detachment",
+          "Optic Nerve Tether",
+          "Vitreous Hemorrhage",
+          "Painless Vision Loss"
+        ]
+      },
+      {
+        "id": "tint_c25_t5",
+        "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+        "topic": "POCUS for Aortic Dissection Limitations",
+        "families": [
+          "Ultrasound Signs / Views"
+        ],
+        "keywords": [
+          "Intimal Flap",
+          "Type A Dissection",
+          "Sensitivity",
+          "Rule-out Limitation"
+        ]
+      }
+    ],
+    "count": 5
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "E1",
+    "entries": [
+      {
+        "id": "tint_ce1_t1",
+        "chapterTitle": "Global Emergency Medicine",
+        "topic": "Scope and Principles of GEM",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "Global Health",
+          "Presentation-based",
+          "Humanitarian",
+          "Development"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "E11",
+    "entries": [
+      {
+        "id": "tint_ce11_t1",
+        "chapterTitle": "Forensic Emergency Medicine",
+        "topic": "Gunshot Wound (GSW) Documentation",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "GSW",
+          "Forensics",
+          "Entrance/Exit",
+          "Stippling"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "E12",
+    "entries": [
+      {
+        "id": "tint_ce12_t1",
+        "chapterTitle": "EMS Systems",
+        "topic": "Interfacility Transport of STEMI",
+        "families": [
+          "ACS / Chest Pain / Cardiovascular Risk Stratification",
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "STEMI",
+          "DIDO",
+          "Hot Loading",
+          "Air Medical"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "E14",
+    "entries": [
+      {
+        "id": "tint_ce14_t1",
+        "chapterTitle": "Disaster Management",
+        "topic": "SAVE Triage Guidelines",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "SAVE",
+          "Triage",
+          "Disaster",
+          "Expected Outcome"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli",
+    "chapterNumber": "E4",
+    "entries": [
+      {
+        "id": "tint_ce4_t1",
+        "chapterTitle": "Geriatric Emergency Care",
+        "topic": "Geriatric Emergency Department (GED) Guidelines",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "GED",
+          "Falls",
+          "Atypical Presentation",
+          "Physical Therapy"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli?",
+    "chapterNumber": "E15",
+    "entries": [
+      {
+        "id": "tint_ce15_t1",
+        "chapterTitle": "Radiation Emergencies",
+        "topic": "Irradiation vs Contamination Triage",
+        "families": [
+          "Social / Ethics / Systems",
+          "Trauma",
+          "Environmental Emergencies"
+        ],
+        "keywords": [
+          "Radiation",
+          "Decontamination",
+          "Contamination",
+          "Triage Priority"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli?",
+    "chapterNumber": "E7",
+    "entries": [
+      {
+        "id": "tint_ce7_t1",
+        "chapterTitle": "Legal and Bioethical Issues",
+        "topic": "EMTALA and Interfacility Transfer Liability",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "EMTALA",
+          "Liability",
+          "Inpatient Transfer",
+          "Stabilization"
+        ]
+      }
+    ],
+    "count": 1
+  },
+  {
+    "source": "Tintinalli?",
+    "chapterNumber": "E8",
+    "entries": [
+      {
+        "id": "tint_ce8_t1",
+        "chapterTitle": "Safety and Quality",
+        "topic": "Triage Bias and Errors",
+        "families": [
+          "Social / Ethics / Systems"
+        ],
+        "keywords": [
+          "Triage Bias",
+          "Undertriage",
+          "Medical Error",
+          "Cognitive Bias"
+        ]
+      }
+    ],
+    "count": 1
+  }
+]

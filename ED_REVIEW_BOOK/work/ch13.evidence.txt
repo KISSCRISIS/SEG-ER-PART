@@ -1,0 +1,1319 @@
+### [PEER-PHYS | PEER-procedures-q-142]
+Q: In which scenario is succinylcholine a safe alternative to rocuronium?
+A: Left-sided weakness for the past 2 hours
+EXPLANATION: Succinylcholine contraindicated in ALS, MH history, recent amphetamines, and after 5 days of burns/crush/spinal cord injury/stroke. Acute stroke <5 days is safe (receptor upregulation takes days).
+ARABIC: سكسينيل كولين ممنوع في: ALS، تاريخ MH، أمفيتامينات حديثة، وبعد 5 أيام من الحروق/الرضح/إصابة الحبل/السكتة. السكتة الحادة خلال 5 أيام آمنة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-001]
+Q: A 13-year-old boy presents to the ED with a dislodged tooth. He reports that he fell off his bicycle 30 minutes prior to arrival and struck his face on concrete. His parent transported the tooth in a cup of milk and reports the patient lost all of his primary teeth by age 12. Physical examination shows an avulsed left maxillary central incisor without evidence of other injuries.
+A: Reimplanting the tooth and splinting with wiring to the adjacent teeth
+EXPLANATION: Tooth avulsion is a dental emergency in which a permanent tooth is completely displaced from its socket. It is most commonly seen in children and adolescents, typically 7–10 years of age, with maxillary central incisors most frequently involved. The primary goal of acute management is timely and appropriate reimplantation to preserve periodontal ligament cell viability and prevent complications such as ankylosis or tooth loss. Time is a critical factor, as the highest success rates for reimplantation are associated with teeth reimplanted within 60 minutes of the avulsion.
+
+### [PEER-PHYS | PEER-procedures-q-143]
+Q: Which method is most reliable for confirming correct tube placement after endotracheal intubation?
+A: End-tidal capnography
+EXPLANATION: End-tidal capnography is most reliable. Chest x-ray does NOT differentiate endotracheal vs esophageal - only identifies mainstem bronchus or too-high tube.
+ARABIC: قياس ثاني أكسيد الكربون في نهاية الزفير (ETCO2/capnography) هو الأكثر موثوقية. صورة الصدر لا تميز الأنبوب الرغامي عن المريئي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-002]
+Q: When should targeted temperature management (also known as therapeutic hypothermia) be initiated?
+A: As soon as possible after achievement of return of spontaneous circulation
+EXPLANATION: Targeted temperature management (therapeutic hypothermia or targeted normothermia) should be started immediately after the return of spontaneous circulation (ROSC) and should not be delayed for either diagnostic studies or procedures. Therapeutic hypothermia has numerous protective effects on the ischemic brain. The ischemic brain quickly switches to anaerobic metabolism, which results in the failure of important cellular membrane regulatory pumps causing calcium influx and initiation of apoptotic cellular mechanisms. During therapeutic hypothermia, for every 1°C decrease in core body temperature, the metabolic rate decreases by 6–7%, slowing the initiation of cellular apoptosis.
+
+### [PEER-PHYS | PEER-procedures-q-144]
+Q: Which examination finding indicates that a child is likely to have a difficult airway?
+A: Distance between the child's mentum and thyroid is one of the child's finger breadths
+EXPLANATION: Thyromental distance <2 finger breadths = independent predictor of difficult airway in children (micrognathia). Mallampati III/IV also concerning.
+ARABIC: مسافة الفك-الدرق (thyromental distance) <2 عرض إصبع = متنبئ مستقل بصعوبة المسلك الهوائي عند الأطفال.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-003]
+Q: Which of the following central venous access sites is most preferable to obtain in a hypotensive patient with isolated abdominal and pelvic trauma, negative chest X-ray, and negative CT scan of the brain and cervical spine?
+A: Right internal jugular
+EXPLANATION: When rapid central access is required in hypovolemic patients, the femoral vein is usually the quickest and technically least difficult to cannulate. However, in the setting of blunt abdominal trauma, where there is a concern of major vascular injury in the area of the abdomen and pelvis, vascular access above the diaphragm is prudent. The right internal jugular vein is a compressible site and provides direct access to the right atrium, making it the preferred site of access in patients with abdominal and pelvic trauma without contraindications. The femoral vein (A) is usually the recommended access site in the hemodynamically unstable patient.
+
+### [PEER-PHYS | PEER-procedures-q-145]
+Q: A 65-year-old man with combativeness, SpO2 75%, uncooperative with NC and NRB. Needs intubation. What is the best next step?
+A: Delayed sequence intubation
+EXPLANATION: Delayed sequence intubation (DSI): ketamine 1-3 mg/kg dissociates patient without suppressing respiration → preoxygenate → paralyze → intubate. For agitated patients who can't tolerate preoxygenation.
+ARABIC: التنبيب المتأخر (DSI): ketamine 1-3 mg/kg يفصل المريض دون تثبيط التنفس → أكسجة مسبقة → شلل → تنبيب. للمرضى الهائجين.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-004]
+Q: A 15-year-old boy presents to the ED with the sudden onset of severe left testicular pain beginning 3 hours ago. Physical examination reveals a high-riding, transversely oriented left testicle with absent cremasteric reflex. Point-of-care ultrasound confirms absent blood flow to the left testicle with a whirlpool sign.
+A: Rotate the affected testicle laterally away from the midline until pain relief
+EXPLANATION: Testicular torsion is a urologic emergency that occurs when the spermatic cord twists around its longitudinal axis, leading to venous congestion, arterial compromise, and testicular ischemia. The condition has a bimodal age distribution, with peaks in the first year of life and between ages 12 and 18 years, though it can occur at any age. The bell-clapper deformity is the primary anatomic risk factor, as it allows for excessive testicular mobility due to abnormal anchoring of the tunica vaginalis. Patients typically present with a sudden onset of severe, unilateral scrotal pain accompanied by nausea, vomiting, and scrotal swelling.
+
+### [PEER-PHYS | PEER-procedures-q-146]
+Q: A patient with right ventricular failure (POCUS showing RV failure) becomes hypotensive with intubation. What should be given?
+A: Push-dose 10 µg epinephrine
+EXPLANATION: RV failure (massive PE): push-dose epinephrine provides beta agonism (inotropic support for RV). Avoid phenylephrine (increases pulmonary vascular resistance, worsens RV failure).
+ARABIC: فشل البطين الأيمن (PE ضخم): push-dose epinephrine يعطي تنبيه بيتا (دعم مقوٍ للـ RV). تجنب phenylephrine (يرفع المقاومة الرئوية).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-005]
+Q: A 68-year-old man with a history of long-standing hypertension presents to the emergency department by EMS for acute respiratory distress. His blood pressure is 205/100 mm Hg, heart rate is 130 bpm, respiratory rate is 38/min, and oxygen saturation is 82% on a nonrebreather mask that was applied by the nurse. On thoracic ultrasound of the bilateral anterior chest, you see the image above.
+A: Begin noninvasive positive pressure ventilation
+EXPLANATION: This patients severe hypertension and acute respiratory distress along with an ultrasound showing bilateral B-lines is a clinical picture consistent with acute onset cardiogenic pulmonary edema, commonly referred to as flash pulmonary edema. B-lines are an ultrasonographic reverberation artifact that is both sensitive and specific for pulmonary edema (97% and 95%, respectively). In this setting, noninvasive positive pressure ventilation (NIPPV) has been shown to decrease the need for intubation, the number of days spent in the ICU, and mortality in combination with appropriate medical management.
+
+### [PEER-PHYS | PEER-procedures-q-147]
+Q: A man with ABG 7.01/20/80 needing intubation. Which intervention is appropriate?
+A: Set high respiratory rate on the ventilator
+EXPLANATION: Severe metabolic acidosis: match minute ventilation (respiratory rate) on ventilator. Avoid prolonged apnea. Sodium bicarb not shown to benefit.
+ARABIC: الحماض الاستقلابي الشديد: طابق التهوية الدقيقة (معدل التنفس) على المنفسة. تجنب apnea المطول. بيكربونات الصوديوم لم تُثبت فائدة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-006]
+Q: Which anatomic site of central venous access is associated with the lowest rates of bloodstream infection and thrombosis?
+A: Subclavian vein
+EXPLANATION: Central venous access is common in critically ill patients, and the catheters are often placed in the emergency department prior to admission. Complications of central venous catheterization include both immediate complications and delayed complications. Immediate complications include bleeding, arterial puncture or cannulation, pneumothorax, dysrhythmia, catheter malposition, and air embolism. Delayed complications include infection, venous thrombosis and pulmonary embolism, and venous stenosis. Ultrasound-guided insertion of central venous catheters, especially using the internal jugular vein, has been shown to greatly reduce the number of immediate complications.
+
+### [PEER-PHYS | PEER-procedures-q-148]
+Q: Which medication is contraindicated in patients with Duchenne muscular dystrophy?
+A: Succinylcholine
+EXPLANATION: Succinylcholine contraindicated in muscular dystrophy (risk of rhabdomyolysis and fatal hyperkalemia). FDA black box warning for pediatric use except emergency airway.
+ARABIC: سكسينيل كولين ممنوع في الحثل العضلي (خطر انحلال الربيدات وفرط بوتاسيوم قاتل). تحذير FDA في الأطفال.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-007]
+Q: A previously healthy 45-year-old man presents to the emergency department for a wound check. He was bitten by a raccoon on a camping trip 4 days ago and went to an urgent care the following day, where he was given a dose of rabies vaccine because he had never been vaccinated for rabies before. Which of the following is the most appropriate postexposure prophylaxis regimen for this patient?
+A: Human rabies immune globulin, a second dose of vaccine now, and health department follow-up for an additional two doses of the vaccine
+EXPLANATION: Everyone who has been exposed to rabies and has not had any previous rabies vaccination should be given human rabies immune globulin and a series of rabies vaccinations. Human rabies immune globulin should ideally be given within 24 hours, but if it was not administered when the vaccination was initiated, as in this case, immune globulin should still be given up to 7 days after the first vaccination. Beyond 7 days, the antibody response from the vaccination has occurred, and immune globulin is ineffective.
+
+### [PEER-PHYS | PEER-procedures-q-149]
+Q: RSI on a 3-year-old with etomidate and rocuronium. HR 58 → 127 bpm after ventilation. What is the most likely cause of the bradycardia?
+A: Hypoxia
+EXPLANATION: Hypoxia is most common cause of peri-intubation bradycardia in children. Resolves with successful intubation/ventilation. Etomidate is cardiovascular neutral; rocuronium doesn't cause bradycardia.
+ARABIC: نقص الأكسجة هو السبب الأكثر شيوعًا لبطء القلب حول التنبيب عند الأطفال. يتحسن بالتنبيب/التهوية الناجح.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-008]
+Q: Rigid chest syndrome is a noted adverse effect of which of the following medications?
+A: Fentanyl
+EXPLANATION: Administration of appropriate analgesia and sedation is a vital component of the practice of emergency medicine. Knowledge of the physiology, duration of action, potency, and side-effect profile of the options for pain management is key to ensuring appropriate treatment of patients and upholding the principle of nonmaleficence. Each option employed for pain control has the potential for adverse effects, and tailoring a regimen is dependent upon the indication for pain management, patient age, weight, current medications, and comorbidities.
+
+### [PEER-PHYS | PEER-procedures-q-150]
+Q: For which patient would awake intubation be appropriate?
+A: A patient with angioedema involving the airway without respiratory distress
+EXPLANATION: Awake intubation for potentially difficult airway + stable patient. Ideal: calm, stable, no distress, no vomiting risk. Angioedema without distress qualifies.
+ARABIC: التنبيب اليقظ (awake intubation) للمسلك الهوائي الصعب المحتمل + مريض مستقر. وذمة وعائية بدون ضائقة تنفسية تفي بالمعايير.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-009]
+Q: Which of the following is most consistent with a postdural puncture headache?
+A: Worsens with coughing or straining
+EXPLANATION: A postdural puncture headache is the most common complication following a lumbar puncture. Symptoms usually start 24–48 hours after the procedure with a bilateral frontal or occipital throbbing headache that may radiate to the neck and shoulders. The pain is worse when upright and improves or resolves when supine. Pain can also worsen with maneuvers that increase intracranial pressure, such as coughing, sneezing, and straining. Associated symptoms can include nausea, vomiting, photophobia, and blurred vision. Most postdural puncture headaches last only a few days and can be managed with adequate hydration and mild analgesics.
+
+### [PEER-PHYS | PEER-procedures-q-151]
+Q: What is the recommended sedative agent in awake intubation?
+A: Ketamine
+EXPLANATION: Ketamine is the recommended sedative for awake intubation in ED. Dissociative state, preserves airway reflexes and spontaneous respiration. Add glycopyrrolate to reduce secretions.
+ARABIC: الكيتامين هو المهدئ الموصى به للتنبيب اليقظ في الطوارئ. حالة تفارقية تحافظ على ردود فعل المسلك والتنفس التلقائي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-010]
+Q: A patient with respiratory failure requires a surgical cricothyrotomy. Which of the following is the correct initial step in this procedure?
+A: A 3–5 cm vertical skin incision should be made over the cricothyroid membrane
+EXPLANATION: The correct incision for a surgical cricothyrotomy should be a 3–5 cm vertical skin incision over the cricothyroid membrane. Cricothyrotomy is one of the most critical procedures in emergency medicine. It is rarely required as the incidence of surgical airways has decreased substantially with the advent of rapid sequence intubation and other intubation adjuncts. In patients with a “cannot intubate, cannot ventilate” situation, surgical or needle cricothyrotomy must be rapidly performed to secure the airway. The first step in performing a surgical cricothyrotomy is to make a skin incision to expose the deeper structures, specifically the cricothyroid membrane.
+
+### [PEER-PHYS | PEER-procedures-q-152]
+Q: A 3-year-old with severe laryngotracheitis, agitated, biphasic stridor, SpO2 82% on 10L. What is the most appropriate approach?
+A: Calming measures
+EXPLANATION: Agitated child with airway edema: calm first (dark room, minimize touch, ketamine/dexmedetomidine). Agitation worsens obstruction. Optimize before intubation.
+ARABIC: طفل هائج مع وذمة مسلك هوائي: اهدئه أولًا (غرفة مظلمة، لمس قليل، ketamine/dexmedetomidine). الهياج يفاقم الانسداد.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-011]
+Q: A student presents after unintentionally sticking his forehead with a pencil. A piece of the pencil tip is visible under the skin. Which of the following is recommended for removing the pencil tip?
+A: Excise the material en bloc
+EXPLANATION: Depending on the location and type of foreign body, removal is often required in the emergency setting. However, in some parts of the body, prolonged exploration in a clean, well-lit environment is necessary and should be done in the operating room. Not all foreign bodies are visible at the surface, and imaging may assist including point-of-care ultrasound. If the decision is made not to remove a foreign body, it is critical that the patient is aware of the retained foreign body and the need for follow-up. Pencil tips are slightly complicated in their approach. Because of the graphite in the tip of the pencil, there will be a pigmented tattoo in the surrounding tissue.
+
+### [PEER-PHYS | PEER-procedures-q-153]
+Q: Intubating a 2-week-old infant for recurrent apneic episodes. Which tool is most helpful in reducing errors?
+A: Video laryngoscopy
+EXPLANATION: Video laryngoscopy reduces errors in infants <10 kg (larger tongue, redundant glottic tissues, floppy epiglottis, anterior airway). Recommended first-line for anticipated difficult airway.
+ARABIC: تنظير الحنجرة بالفيديو (video laryngoscopy) يقلل الأخطاء في الرضع <10 kg (لسان أكبر، أنسجة حنجرية رخوة، مسلك أمامي).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-012]
+Q: A woman presents to the emergency department via EMS after she collapsed at a grocery store just prior to arrival. Her primary survey demonstrates oral secretions, agonal respirations, and absent central pulses. She has a palpable gravid uterus approximately 9 cm above the umbilicus. Which of the following is an indication for resuscitative hysterotomy?
+A: Cardiac arrest for up to 4 minutes
+EXPLANATION: Resuscitative hysterotomy is a rare procedure employed in the setting of maternal cardiac arrest that seeks to reduce the metabolic demands of the fetus, placenta, and uterus and theoretically improves venous return and cardiac output. Indications include cardiac arrest without return of spontaneous circulation within 4 minutes and an estimated gestational age > 24 weeks based on a fundal height (> 20 weeks is cited in some references). The underlying etiologies of maternal cardiac arrest should be considered, but their investigation and treatment should not delay resuscitative hysterotomy. It is not necessary to evaluate fetal heart tones prior to intervention.
+
+### [PEER-PHYS | PEER-procedures-q-154]
+Q: While removing a carrot piece obstructing a 2-year-old's airway, it's pushed through the glottis. SpO2 rapidly drops. What is the next best step?
+A: Endotracheal intubation
+EXPLANATION: Subglottic foreign body: advance ETT to push FB into mainstem bronchus, then pull back to normal position. Specialist removes under bronchoscopy.
+ARABIC: جسم غريب تحت المزمار: قدّم الأنبوب الرغامي لدفع الجسم إلى القصبة الرئيسية ثم أرجعه للوضع الطبيعي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-013]
+Q: A 7-year-old boy is brought to the emergency department for nausea and vomiting that started 5 days ago. His parent states the patient had a fever at home but is unable to keep acetaminophen and ibuprofen down. He does not have diarrhea or abdominal pain.
+A: Initiate extracorporeal membrane oxygenation
+EXPLANATION: Extracorporeal membrane oxygenation (ECMO) is a form of life support used in patients when standard therapies fail. ECMO is traditionally used for respiratory failure or cardiac failure, but emerging evidence indicates that it can significantly improve survival rates in refractory septic shock. ECMO may support recovery by oxygenating the system and providing circulatory support. The prognosis for children receiving ECMO is approximately 50% in refractory septic shock and > 75% in neonatal septic shock.
+
+### [PEER-PHYS | PEER-procedures-q-155]
+Q: What is contraindicated if the patient has an intact gag reflex?
+A: Oropharyngeal airway
+EXPLANATION: OPA contraindicated with intact gag reflex (can stimulate vomiting/aspiration). NPA safe with intact reflexes. OPA sized from corner of mouth to angle of mandible.
+ARABIC: الأنبوب الفموي البلعومي (OPA) ممنوع مع وجود منعكس البلع. الأنبوب الأنفي البلعومي (NPA) آمن مع منعكس سليم.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-014]
+Q: An 27-year-old woman is being treated in the emergency department for syncope. She is 37 weeks pregnant. She suddenly loses pulses and CPR is begun. After 4 minutes, a perimortem cesarean section is performed, and a fetal breech presentation is encountered. Which of the following is the most appropriate next step?
+A: Deliver the buttocks first
+EXPLANATION: The causes of maternal cardiac arrest are manifold and include cardiovascular events, pulmonary embolism, amniotic fluid embolus, hemorrhage (e.g., uterine atony), peripartum cardiomyopathy, trauma, infection or sepsis. An initial step in maternal cardiac arrest is determining the age of the fetus. If unknown, the uterine fundus should be palpated. A fundus at or below the umbilicus is less likely to be a viable fetus, and resuscitation efforts should not be altered from conventional measures. A fundus palpated above the umbilicus is associated with the gestational age of a viable fetus. The uterus should be manually displaced to the maternal left during CPR for aortocaval decompression.
+
+### [PEER-PHYS | PEER-procedures-q-156]
+Q: What is a contraindication to surgical cricothyrotomy?
+A: Age younger than 5 years
+EXPLANATION: Surgical cricothyrotomy contraindicated in children <5-10-12 years (small cricothyroid membrane, high complication rate). Needle cricothyrotomy is preferred for children.
+ARABIC: بضع الغشاء الحلقي الدرقي الجراحي (surgical cricothyrotomy) ممنوع في الأطفال <5-12 سنة. يُفضل بضع الإبرة (needle cricothyrotomy).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-015]
+Q: Which of the following is the recommended ratio of red blood cells to plasma to platelets that should be used to transfuse a child with massive hemorrhage?
+A: 1:1:1
+EXPLANATION: Treatment of massive hemorrhage is with large volumes of blood products. The definition of a massive transfusion varies, especially in children, who have more blood volume/kg than adults. Previous recommendations focused on using isotonic fluids and RBCs alone to maintain oxygenation and blood pressure. The military learned that patients cared for in this way develop coagulopathy as clotting factors become diluted, and patients needing large volumes are more likely to survive with the addition of plasma and platelets.
+
+### [PEER-PHYS | PEER-procedures-q-157]
+Q: An adult with angioedema becoming hypoxic after failed intubation and oxygenation. What is the best next approach?
+A: Cricothyrotomy
+EXPLANATION: 'Can't intubate, can't oxygenate' in adult → cricothyrotomy. Needle cricothyrotomy for children <12 or adults as bridge. Tracheostomy if laryngeal fracture/tracheal transection.
+ARABIC: 'لا تنبيب ولا أكسجة' في البالغ → cricothyrotomy. للاطفال <12 needle cricothyrotomy.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-016]
+Q: A 7-year-old boy presents with a severe allergic reaction. He is lethargic and hypoxic. On physical examination, his airway is completely occluded with soft tissue swelling and you are unable to bag mask ventilate. After performing a needle cricothyrotomy with a 16-gauge angiocatheter, which of the following is a method by which you can ventilate the patient?
+A: Attach a 3.0 mm endotracheal tube cap to the angiocatheter and bag ventilate
+EXPLANATION: In young children, the cricothyroid membrane is smaller in size and not amenable to a traditional surgical cricothyrotomy. As a result, in situations in which the child cannot be intubated or ventilated, a needle cricothyrotomy is performed, followed by percutaneous transtracheal ventilation. The needle cricothyrotomy is performed using a larger gauge needle with an angiocatheter over it (typically 14 or 16-gauge). Commercial kits are available, but in situations in which those are not available, other methods may be employed.
+
+### [PEER-PHYS | PEER-procedures-q-158]
+Q: What is a contraindication to emergent cricothyrotomy?
+A: Tracheal transection
+EXPLANATION: Tracheal transection: trachea may have migrated into mediastinum → cricothyrotomy futile → tracheostomy required. Other contraindications: laryngeal fracture, <12 years.
+ARABIC: قطع الرغامى (tracheal transection): الرغامى قد تكون انسحبت إلى المنصف → بضع الحلقوم ضروري.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-017]
+Q: A 67-year-old woman with an altered mental status requires rapid sequence intubation. On laryngoscopy, only the epiglottis and arytenoids are visible. What Cormack-Lehane grade is this view?
+A: Grade 2
+EXPLANATION: This is a grade 2 in the Cormack-Lehane grading system, which categorizes the degree of laryngeal visualization during laryngoscopy. Grade 1 corresponds to an ideal view, with complete visualization of all glottic structures, and grade 4 describes the worst possible view, in which no glottic structures are visualized. In a grade 1 view, the entire glottic aperture is visualized, including the epiglottis, vocal cords, and arytenoid cartilages. In a grade 2 view, only a partial view of the glottis is visible.
+
+### [PEER-PHYS | PEER-procedures-q-159]
+Q: What is the most common early complication of cricothyrotomy?
+A: Damage to the cartilaginous structures
+EXPLANATION: Most common early complications: failure to place airway + damage to cartilaginous structures. Both result from incorrect technique.
+ARABIC: المضاعفات المبكرة الأكثر شيوعًا: فشل إدخال المسلك + تلف الغضاريف. كلاهما من التقنية الخاطئة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-018]
+Q: A 2-week-old girl presents with fever and lethargy. Which of the following represents the correct location for a lumbar puncture to be performed?
+A: L4–L5 interspace
+EXPLANATION: In infants, lumbar puncture should be performed at either the L4–L5 or L5–S1 interspace. In the fetus, the spinal cord and the spinal canal are equal in length. However, the growth of the cord does not keep pace with the longitudinal growth of the spinal canal. In a newborn, the cord ends at the L3 vertebra. As a result, a lumbar puncture catheter should be placed in the L4–L5 or L5–S1 interspace in order to avoid the spinal cord. Although the subarachnoid space extends to the S2 vertebral level, the bones of the sacrum are fused preventing catheter placement into this space.
+
+### [PEER-PHYS | PEER-procedures-q-160]
+Q: What is the best device to use when performing an emergent cricothyrotomy in an adult?
+A: 6-mm tracheostomy tube
+EXPLANATION: 6-mm tracheostomy tube is preferred (obturator helps insertion, easier to secure/suction, shorter). ETT 5-6 mm as alternative. Needle catheter for needle cricothyrotomy.
+ARABIC: أنبوب بضع الحلقوم 6-mm هو الأفضل (وجود المسدد يسهل الإدخال، أقصر، أسهل في التثبيت والشفط).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-019]
+Q: For which etiology of out-of-hospital cardiac arrest does induced hypothermia carry the best improvement in survival with good neurologic outcomes?
+A: Ventricular fibrillation
+EXPLANATION: Approximately two-thirds of mortality during the postcardiac arrest period is explained by anoxic brain injury. Many of the pathophysiologic features of anoxic brain injury are thought to be minimized by the early initiation of therapeutic hypothermia because it decreases cerebral oxygen demands and reduces reactive oxygen species formation. Therapeutic hypothermia (32–36°C) (the terminology recently changed to targeted temperature management) has become a standard of care in the care of post-arrest patients who achieve a return of spontaneous circulation but remain comatose.
+
+### [PEER-PHYS | PEER-procedures-q-161]
+Q: A patient with GSW to face, agonal respirations, SpO2 85%. BVM ineffective, intubation failed, SpO2 70%. What is the best next step?
+A: Perform an emergent cricothyrotomy
+EXPLANATION: 'Can't intubate, can't ventilate, can't oxygenate' → immediate cricothyrotomy without delay. Do not waste time on repeated intubation attempts or consultations.
+ARABIC: 'لا تنبيب ولا تهوية ولا أكسجة' → cricothyrotomy فورًا دون تأخير.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-020]
+Q: A 65-year-old woman presents to the ED with a productive cough, fever, and shortness of breath. Her vital signs are T 103.9°F (39.9°C), HR 128 beats/minute, RR 32 breaths/minute, BP 89/45 mm Hg, and SpO2 79% on room air. She is placed on 6 L/minute nasal cannula, and her oxygen saturation improves to 85%. Chest X-ray demonstrates multifocal pneumonia.
+A: Decrease fraction of inspired oxygen
+EXPLANATION: Patients may require endotracheal intubation and mechanical ventilation for a number of reasons, including acute hypoxic respiratory failure, as in this case. Initial ventilatory settings include FiO2 100%, lung preserving tidal volume of 6–8 mL/kg of ideal body weight (IBW), PEEP of 5 cm H2O, and respiratory rate of 12 breaths/minute. Once the patient’s respiratory drive is being controlled by the ventilator, certain parameters can help dictate what changes need to be made to the ventilator settings. These may be hemodynamic factors such as hypotension, ventilatory factors such as alarm sounding, or laboratory factors such as arterial blood gas analysis.
+
+### [PEER-PHYS | PEER-procedures-q-162]
+Q: Which patient is most likely to benefit from an emergent cricothyrotomy?
+A: 70-year-old with severe facial trauma from a fall who is difficult to ventilate and hypoxic
+EXPLANATION: Cricothyrotomy for adults >12 years with 'can't intubate, can't oxygenate'. Severe facial trauma + difficult ventilation + hypoxia qualifies.
+ARABIC: بضع الحلقوم للبالغين >12 سنة مع 'لا تنبيب، لا أكسجة'. رضح وجه شديد + تهوية صعبة + نقص أكسجة يفي بالمعايير.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-021]
+Q: A 4-year-old girl presents to the ED with septic shock from pyelonephritis. She was transferred from another facility, where she was given ceftriaxone and three 20 mL/kg boluses of normal saline. She has worsened en route and now has a heart rate of 190 bpm, blood pressure of 62/30 mm Hg, and capillary refill of 5 seconds. She is lethargic and apneic, needing bag-mask ventilation.
+A: Epinephrine
+EXPLANATION: The first phase of cardiopulmonary arrest is the periarrest phase that occurs just before respiratory failure or shock imminently leads to cardiopulmonary arrest. Cardiopulmonary arrest might be prevented with immediate intervention when this phase is present and recognized. Endotracheal intubation is one intervention used to reduce work on the heart and improve oxygenation and is appropriate in this patient to prevent cardiopulmonary arrest. Optimizing a patient’s cardiopulmonary status before performing rapid sequence intubation increases the chances that the patient will tolerate the procedure without arrest.
+
+### [PEER-PHYS | PEER-procedures-q-163]
+Q: An intubated patient has a high pressure alarm. Pressure-time curve with inspiratory hold shows high peak with normal plateau. What is the most likely cause?
+A: Inadequate sedation
+EXPLANATION: High peak + normal plateau = increased airway resistance (patient biting tube, mucus plug, bronchospasm, kinked tube). Inadequate sedation causes biting.
+ARABIC: ذروة عالية + هضبة طبيعية = زيادة مقاومة المسلك الهوائي (عض الأنبوب، سدادة مخاطية، تشنج قصبي). التهدئة غير الكافية تسبب العض.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-022]
+Q: A 67-year-old woman with a history of hypertension, diabetes mellitus, and COPD presents for evaluation of shortness of breath. Her vital signs include a T of 37.1°C, HR of 88 bpm, BP of 110/75 mm Hg, RR of 28/min, and SpO2 of 82% on 6 L nasal cannula. She is awake, alert, and speaking in sentences of three to four words. She has audible inspiratory and expiratory wheezing bilaterally.
+A: Apply a high-flow nasal cannula
+EXPLANATION: High-flow nasal cannula is beneficial to patients with a primary respiratory disorder leading to hypoxia, rather than significant hypercapnia. It may also be a second-line option in scenarios in which noninvasive bilevel positive pressure ventilation is contraindicated (e.g., altered mental status, vomiting). With COPD exacerbations, high-flow nasal cannula improves oxygenation through several mechanisms, including reducing anatomic dead space, improving ventilation by providing a slight amount of positive pressure, and reducing the work of breathing by promoting carbon dioxide washout. Patients benefit from flows of at least 50–60 L/min to achieve this.
+
+### [PEER-PHYS | PEER-procedures-q-164]
+Q: What is the most reliable method for confirming the endotracheal tube is in the trachea after intubation?
+A: End-tidal capnography
+EXPLANATION: ETCO2 directly measures exhaled CO2 - most reliable for confirming ETT placement. Also useful in cardiac arrest (ETCO2 >20 = high-quality CPR; jump >40 = ROSC).
+ARABIC: ETCO2 يقيس ثاني أكسيد الكربون الزفيري مباشرة - الأكثر موثوقية لتأكيد وضع الأنبوب. مفيد في التوقف القلبي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-023]
+Q: Which of the following should be considered when preparing to intubate a child?
+A: The glottic opening in children is more anterior compared to that of adults
+EXPLANATION: There are several key anatomic and physiologic differences between pediatric and adult airways with important implications for airway management. Children have a relatively larger tongue and a higher, more anterior glottis opening compared to adults. The epiglottis is also proportionally larger and floppier, which makes a straight laryngoscope blade useful in children, as it can lift the epiglottis directly. The relatively large occiput of infants can cause neck flexion; hence, the sniffing position in children is preferred. A shoulder roll may also be required to help elevate the torso relative to the head in infants.
+
+### [PEER-PHYS | PEER-procedures-q-165]
+Q: A nurse calls about an intubated patient with increasing ventilator alarms and 'bucking' the ventilator. BP 105/60, P 105, SpO2 90%. Which action should be taken first?
+A: Check endotracheal tube placement
+EXPLANATION: Use DOPES mnemonic: Dislodgement, Obstruction, Pneumothorax, Equipment malfunction, Stacking. Check tube position first before assuming agitation.
+ARABIC: استخدم اختصار DOPES: الانخلاع، الانسداد، استرواح الصدر، خلل الجهاز، تراكم الأنفاس. تحقق من وضع الأنبوب أولًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-024]
+Q: A patient presents in cardiac arrest with significant blunt chest and abdominal trauma after being involved in a motor vehicle collision. He is intubated, and resuscitation is begun by paramedics. On arrival he has no pulse, equal breath sounds with bagging, distended neck veins, muffled heart sounds, ecchymosis to his sternum, and no signs of active hemorrhage.
+A: Diastolic collapse of the right heart
+EXPLANATION: This patient presents with pulseless electrical activity (PEA) arrest, requiring cardiopulmonary resuscitation and airway management according to advanced cardiac life support protocols. After these initial steps, it is important to evaluate the patient for reversible causes of arrest. This patient presents after trauma, with muffled heart sounds, hypotension, and jugular venous distention, known as the Beck triad. Together with his loss of pulse, a diagnosis of cardiac tamponade is most probable, likely secondary to traumatic cardiac injury.
+
+### [PEER-PHYS | PEER-procedures-q-166]
+Q: Intubated patient suddenly becomes hypoxic and hypotensive, 'bucking' the ventilator. What is the best next step?
+A: Disconnect from the ventilator
+EXPLANATION: DOTTS mnemonic: Disconnect, Oxygen 100%, Tube placement, Tweak vent, Sonogram. Disconnect and bag with 100% O2 to focus on the patient.
+ARABIC: اختصار DOTTS: افصل، أكسجين 100%، وضع الأنبوب، عدّل المنفسة، إيكو. افصل واستخدم BVM مع 100% O2.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-025]
+Q: A 33-year-old woman presents to the ED by emergency medical services for minimal responsiveness. She was out with friends the night before and was found sleeping in a neighbor’s yard. Her vital signs are T 98.9°F (37.2ºC), BP 92/54 mm Hg, HR 145 bpm, RR 12/minute, and SpO2 97% on room air. Her eyes open to voice, she localizes to painful stimuli, and she is confused.
+A: Tricyclic toxicity
+EXPLANATION: Overdose of cyclic (or tricyclic) antidepressants (TCAs) creates a multitude of chemical reactions with clinically significant manifestations. TCAs block fast sodium channels within the myocardial conduction system, creating characteristic ECG findings such as prolongation of the QRS interval (> 100 ms), right axis deviation seen as a positive terminal R wave in lead aVR and a negative S wave in lead I, and sinus tachycardia. The PR and QT intervals may also be prolonged. Alpha-adrenergic blockade results in vasodilation and hypotension. Gamma-aminobutyric acid (GABA) receptor antagonism may lead to myoclonus and seizures.
+
+### [PEER-PHYS | PEER-procedures-q-167]
+Q: Ventilator alarms for high pressure. Inspiratory hold shows elevated peak AND elevated plateau. What is the most likely etiology?
+A: Pneumothorax
+EXPLANATION: High peak + high plateau = decreased lung compliance (alveolar level). Causes: pneumothorax, ARDS, restrictive lung disease. High peak + normal plateau = airway resistance issue.
+ARABIC: ذروة عالية + هضبة عالية = انخفاض مطاوعة الرئة (مستوى سنخي). الأسباب: استرواح الصدر، ARDS، أمراض رئوية تقييدية.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-026]
+Q: A 28-year-old man with a history of dyslipidemia, gastroesophageal reflux disease, kidney stones, and opioid use disorder who currently takes buprenorphine presents to the ED with 2 days of left flank pain. He reports nausea, vomiting, gross hematuria, dysuria, and left lower quadrant abdominal pain.
+A: Ketamine 15 mg IV
+EXPLANATION: Pain, both acute and chronic, is a major health concern worldwide. The population is aging, and because of this, more people have both acute injuries and chronic pain syndromes. Over the last 30 years, the United States has been experiencing an opioid epidemic. The number of deaths attributed to overdose has increased sixfold in the past 20 years, and the vast majority of these overdoses are attributed to opioids, including prescription medications. It is crucial to both treat pain and prevent the growing opioid crisis, and this has led to the use of and reliance on more nonopioid medications as options for pain control.
+
+### [PEER-PHYS | PEER-procedures-q-168]
+Q: A 50-kg adolescent with ARDS, hypoxic despite FiO2 100%. DOPES negative. Which ventilator parameter should be increased?
+A: PEEP
+EXPLANATION: Persistent hypoxemia despite high FiO2 in ARDS: increase PEEP (recruits alveoli, decreases shunt). Titrate by 2 cm H2O every 10-20 min. If PEEP >10 needed, consider escalation.
+ARABIC: نقص أكسجة مستمر رغم FiO2 عالي في ARDS: ارفع PEEP (يجنّد السنخات ويقلل التحويلة).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-027]
+Q: A patient with which of the following exposures can bypass standard decontamination in favor of rapid assessment of respiratory and hemodynamic stability?
+A: Chlorine gas
+EXPLANATION: Toxic exposures represent a significant public health burden and commonly arise from industrial accidents, occupational exposures, household incidents, transportation spills, and deliberate acts (e.g., chemical warfare, terrorism). The epidemiology varies by agent class, with respiratory irritants like chlorine and ammonia among the most common substances in industrial incidents, and nerve agents and vesicants primarily encountered in military or terrorist contexts. Similarly, the pathogenesis of chemical injury depends on the agent class.
+
+### [PEER-PHYS | PEER-procedures-q-169]
+Q: Approximately 20 minutes after intubation, a patient acutely develops severe respiratory distress, hypotension, and oxygen saturations in the 60s. What is the best next step?
+A: Manually ventilate using 100% FiO2
+EXPLANATION: First step in decompensating ventilated patient: disconnect and bag with 100% O2. Then troubleshoot DOPES. Do not delay for imaging or auscultation.
+ARABIC: أول خطوة في المريض المتفاقم على المنفسة: افصل ووصل BVM مع 100% O2. ثم استكشف DOPES.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-028]
+Q: A 2-year-old girl presents to the emergency department after a fall from a window. She has a Glasgow Coma Scale score of 3 and is undergoing emergent intubation in the ED. A cervical collar is in place. She has obvious right femur, left tibia, and left fibula fractures. Her left femur and right tibia intraosseous sites have failed or fallen out.
+A: Femoral vein
+EXPLANATION: Central venous lines are not commonly used in children during resuscitations, as they are time-consuming and best placed under sterile conditions. Large volumes of isotonic fluids can also be given rapidly using large-bore, short peripheral catheters. The most consistent sites for peripheral lines are the cephalic, basilic, and median cubital veins in the forearm and the dorsal veins of the hand. However, peripheral vasoconstriction due to hypovolemic shock can make peripheral access challenging. The external jugular is another reliable site, but the head must be turned, and a patient usually needs to be in a Trendelenburg position.
+
+### [PEER-PHYS | PEER-procedures-q-170]
+Q: A 12-kg 2-year-old with status epilepticus is intubated (4.0 mm cuffed ETT). SIMV-PC mode. Which initial ventilator settings are most appropriate?
+A: PIP 20, R 24, inspiratory time 0.8 sec, PEEP 5, pressure support 8, and FiO2 100%
+EXPLANATION: Airway protection (no lung disease): low ventilatory support, PIP 15-20 above PEEP. PS = 8 for 4.0 mm ETT (based on tube resistance). PIP titrated to 6-8 mL/kg.
+ARABIC: حماية المسلك الهوائي بدون مرض رئوي: دعم تنفسي منخفض، PIP 15-20 فوق PEEP. PS = 8 للأنبوب 4.0 mm.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-029]
+Q: A 9-month-old girl presents to the emergency department with status epilepticus. She received lorazepam via intramuscular injection twice from EMS without breaking her seizure. You are unable to establish IV access. The Broselow tape estimates her weight at 6 kg. You ask for an intraosseous needle. Your nurse asks what color cannula to use with the power driver.
+A: Pink
+EXPLANATION: Intraosseous (IO) devices are a useful adjunct for the rapid administration of medications when IV access is required but cannot be readily established. The most common IO device contains a battery-powered drill-type handpiece called the power driver, to which a color-coded IO cannula or needle attaches. All cannulas are 15-gauge equivalent in diameter but vary in length. Pink is intended for infants and small children < 39 kg. It measures 15 mm in length. A blue cannula (25 mm in length) might also be used in this situation but is generally used in older children and adults.
+
+### [PEER-PHYS | PEER-procedures-q-171]
+Q: In which condition can noninvasive ventilation (NIV) be used safely?
+A: Severe hypertension
+EXPLANATION: NIV contraindications: altered LOC, maxillofacial trauma, basilar skull fracture, life-threatening epistaxis, vomiting, severe hypotension. Hypertension is not a contraindication.
+ARABIC: موانع NIV: تغير الوعي، رضح الوجه، كسر قاعدة الجمجمة، رعاف مهدد، قيء، هبوط ضغط شديد. ارتفاع الضغط ليس مانعًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-030]
+Q: Which one of the following additional mechanisms, besides decreasing metabolic demand and reducing free radical production, explains how targeted temperature management at 32–34°C treats reperfusion syndrome after pediatric cardiac arrest?
+A: Decreasing apoptosis
+EXPLANATION: Post-cardiac arrest syndrome is a complex clinical entity involving ischemia-reperfusion injury in multiple organ systems. Multimodal management includes hemodynamic and glycemic control, targeted temperature management (TTM), early coronary angiography, neuroprognostication, maintenance of normoxia, and support of organ recovery (e.g., acute kidney injury). This management “bundle” is a multidisciplinary process that takes proper clinical coordination and attention to the patient’s ongoing pathophysiology and recovery after cardiac arrest. TTM, or systemic cooling therapy, is the continued maintenance of a patient’s core body temperature within a narrow range.
+
+### [PEER-PHYS | PEER-procedures-q-172]
+Q: A ventilated ARDS patient on AC/VC: TV 420, R 22, FiO2 50%, PEEP 18. Plateau 26. ABG: 7.15/65/58. What strategy should be employed to correct pH?
+A: Increase the respiratory rate from 22 to 30 bpm to increase minute ventilation
+EXPLANATION: ARDS lung-protective: low TV (6 mL/kg). Permissive hypercapnia acceptable until pH <7.2. Increase respiratory rate (not TV) to improve ventilation. Keep rate <35.
+ARABIC: ARDS: TV منخفض (6 mL/kg). فرط الكابنيا المسموح مقبول حتى pH <7.2. ارفع معدل التنفس (ليس TV) لتحسين التهوية.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-031]
+Q: A 24-year-old man presents to the ED due to a sore throat. Physical examination shows the findings above. Which of the following describes the appropriate procedural technique for the treatment of this patient’s condition?
+A: Cut the distal 1 cm of an 18-gauge IV catheter and aspirate via the needle attached to a 10 mL syringe
+EXPLANATION: Peritonsillar abscess (PTA) refers to a purulent infection contained between the tonsillar capsule, superior constrictor muscle, and the palatopharyngeus muscle. It is thought to develop due to the contiguous spread of adjacent infection from within the tonsil itself or mucous glands within the superior tonsillar pole. Typical clinical manifestations include sore throat, fever, dysphagia or odynophagia, trismus, and changes in voice. Unilateral tonsillar swelling with uvular deviation represents additional objective data and is usually a clinical finding that helps secure the diagnosis.
+
+### [PEER-PHYS | PEER-procedures-q-173]
+Q: An intubated asthmatic with pH 7.28, pCO2 68. Flow curve shows air trapping. Which ventilator adjustment should be done first?
+A: Decrease the inspiratory time
+EXPLANATION: Air trapping in asthma: prolong expiratory time. Decrease inspiratory time → increase expiratory time. Increasing rate/TV worsens trapping.
+ARABIC: احتجاز الهواء في الربو: أطِل وقت الزفير. قلل وقت الشهيق → يزيد وقت الزفير. زيادة المعدل/TV يفاقم الاحتجاز.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-032]
+Q: A 14-year-old boy presents to the emergency department after a motorcycle collision. He is hemodynamically stable, and a large left pneumothorax is discovered on an X-ray. Which of the following is the correct step in the relief of this patient's pneumothorax and the placement of a chest tube in this patient using a blunt dissection technique?
+A: Insertion of a finger through the tract into the pleural space
+EXPLANATION: A thoracostomy is the placement of a tube into the thorax to drain air or fluid. A blunt dissection technique is recommended for the placement of a large bore chest tube frequently needed in the setting of trauma, as blood will clog smaller tubes. Other approaches commonly used include the Seldinger technique, which involves the placement of small-bore catheters to drain air or nonviscous fluid, and a needle thoracostomy, which provides immediate decompression in a patient who is hemodynamically unstable. To start a blunt dissection thoracostomy, first position the patient with a soft restraint holding the arm above the head. Clean the skin overlying the area.
+
+### [PEER-PHYS | PEER-procedures-q-174]
+Q: Ventilator alarms for high pressure. Inspiratory hold shows elevated peak with NORMAL plateau. Which intervention best treats the underlying cause?
+A: Suctioning the endotracheal tube
+EXPLANATION: High peak + normal plateau = airway resistance issue (mucus plug, kinking, bronchospasm). Suctioning treats mucous plug. Diuresis for pulmonary edema (high plateau).
+ARABIC: ذروة عالية + هضبة طبيعية = مشكلة مقاومة المسلك (سدادة مخاطية، انثناء، تشنج). الشفط يعالج السدادة المخاطية.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-033]
+Q: A 19-year-old man is brought in from a house fire. He has severe burns over a significant portion of his body. His right thigh has circumferential, full-thickness burns and no palpable pulse in the foot. Where should an escharotomy be performed?
+A: Medial and lateral thigh
+EXPLANATION: Circumferential burns of the extremity pose an extremely high risk for the development of compartment syndrome. Full-thickness burns lead to the formation of eschars, which are inelastic and become constrictive to the affected area. In addition to eschar formation, burn tissue becomes edematous from interstitial edema and fluid resuscitation. All of these things may lead to compartment syndrome requiring emergent escharotomy. Any signs of distal ischemia in an extremity with circumferential burns should prompt consideration of performing an escharotomy. Checking compartment pressures is not required if clinical signs of ischemia are present (e.g., loss of pulse).
+
+### [PEER-PHYS | PEER-procedures-q-175]
+Q: 63-inch-tall intubated man with bilateral infiltrates. VC: TV 550, PEEP 10, R 20, FiO2 50%. Plateau 35. ABG: 7.30/48/56, SpO2 89%. Best initial ventilator adjustment?
+A: Decrease tidal volume
+EXPLANATION: ARDS: P:F ratio 112 = moderate ARDS. Plateau >30 → decrease TV to <6 mL/kg ideal body weight. Permissive hypercapnia acceptable.
+ARABIC: ARDS: نسبة P:F 112 = متوسط. الهضبة >30 → قلل TV إلى <6 mL/kg. فرط الكابنيا المسموح مقبول.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-034]
+Q: Which of the following is the correct location to perform an arthrocentesis of the ankle joint with the anteromedial approach?
+A: Medial to the tibialis anterior tendon and directed toward the anterior edge of the medial malleolus
+EXPLANATION: Arthrocentesis is the insertion of a needle into a joint cavity for the removal of synovial fluid or to inject a medication. The aspirated fluid can be used to diagnose and make treatment decisions. In the ED, this is commonly performed to rule in or rule out septic arthritis, as well as to aid in the diagnosis of an acutely inflamed joint. When performing an arthrocentesis of the ankle using the anteromedial approach, the first step is to identify the medial malleolar sulcus, which is bordered medially by the medial malleolus and laterally by the tibialis anterior tendon. This tendon can be easily identified by having the patient dorsiflex the foot.
+
+### [PEER-PHYS | PEER-procedures-q-176]
+Q: Where should the tip of the laryngoscope blade be placed when performing direct laryngoscopy with a Macintosh blade?
+A: Vallecula
+EXPLANATION: Macintosh (curved) blade: tip in vallecula (space anterior to epiglottis) → indirect lift of epiglottis via hyoepiglottic ligament. Miller (straight) blade: directly lifts epiglottis.
+ARABIC: نصل ماكنتوش (منحني): الطرف في الوادي (vallecula) → رفع غير مباشر لسان المزمار. نصل ميلر (مستقيم): يرفع سان المزمار مباشرة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-035]
+Q: A 20-year-old man presents with a superficial laceration to the volar aspect of his forearm sustained after a piece of glass broke in his hand. There is no evidence of tendinous injury and his neurovascular exam is normal. Which of the following is the best suture type and size to use for repair of this patient’s laceration?
+A: 4-0 polypropylene
+EXPLANATION: Sutures are either absorbable or nonabsorbable. Within each category, there are monofilament and braided sutures. Typically, the smallest suture size used for procedures in the emergency department is 6-0 and the largest is 0-0. Careful consideration of a patient’s laceration including depth, width, tissue involved, location, and mechanism of injury dictates which suture and technique to use for closure. For superficial, linear lacerations to the volar forearm, a 4-0 or 5-0 nonabsorbable monofilament suture, such as polypropylene or nylon, should be used. For gaping or deep lacerations to this area, 4-0 absorbable sutures may be required for deeper closure.
+
+### [PEER-PHYS | PEER-procedures-q-177]
+Q: When performing video-assisted laryngoscopy with a hyperangulated blade, what is the best option for stylet to use with the endotracheal tube?
+A: Rigid hyperangulated stylet
+EXPLANATION: Hyperangulated video blade: use rigid hyperangulated stylet to maintain appropriate configuration. Standard malleable stylet loses shape; bougie too malleable.
+ARABIC: نصل الفيديو شديد التقوس: استخدم ستايلت صلب شديد التقوس للحفاظ على الشكل. الستايلت العادي يفقد شكله.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-036]
+Q: A 2-year-old girl presents to the ED after her older brother witnessed her putting a small plastic toy in her nose. On physical exam, a round object is partially visualized in the left nare, causing complete obstruction of that nare. Which of the following is likely to be both the most successful and least invasive method for removal?
+A: Positive pressure
+EXPLANATION: Nasal foreign bodies are a common presentation to the ED, most commonly seen in children 2–4 years old. It may be an unwitnessed event, brought to attention because the child herself reports it or develops symptoms, which may include nasal discharge or foul odor, epistaxis, nasal obstruction, or mouth breathing. However, most children do not develop symptoms. Commonly seen foreign bodies include beads, plastic toys, and food items. Most objects do not require otolaryngology referral and can be removed in an ED or outpatient setting by an experienced physician.
+
+### [PEER-PHYS | PEER-procedures-q-178]
+Q: Severe angioedema. Video laryngoscopy failed due to anterior oropharynx edema. Patient stable. What airway intervention should be attempted next?
+A: Nasotracheal fiberoptic intubation
+EXPLANATION: Awake nasotracheal fiberoptic intubation after failed video laryngoscopy in stable angioedema. Ketamine + topical lidocaine. Cricothyroidotomy if 'can't intubate, can't ventilate'.
+ARABIC: التنبيب الأنفي بالمنظار الليفي (nasotracheal fiberoptic) بعد فشل تنظير الفيديو في وذمة وعائية مستقرة. cricothyroidotomy إذا 'لا تنبيب لا أكسجة'.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-037]
+Q: A 4-month-old girl presents after being found unresponsive and apneic in a crib. EMS performed 25 minutes of high-quality CPR, endotracheal intubation, and epinephrine. She has good chest rise with ventilations, a functioning intraosseus line, and asystole on the monitor. After 10 minutes of additional ED resuscitation, the patient remains in asystole, with no reversible cause identified.
+A: Termination of resuscitative efforts
+EXPLANATION: The timing of terminating resuscitative efforts in a child is an extremely difficult decision for any clinician. This infant has an unwitnessed out-of-hospital cardiac arrest with persistent asystole despite prolonged, technically appropriate resuscitation, including high-quality CPR, advanced airway placement, epinephrine, and continued ED efforts. In pediatric cardiac arrest, survival with a favorable neurologic outcome is most likely when the arrest is witnessed, bystander CPR is initiated early, the rhythm is shockable, or a rapidly reversible cause is identified. None of these features is present in this patient.
+
+### [PEER-PHYS | PEER-procedures-q-179]
+Q: A patient with severe COPD exacerbation. BiPAP initiated. Which IPAP, EPAP, and FiO2 would be appropriate?
+A: IPAP of 12, EPAP of 5, and FiO2 of 50%
+EXPLANATION: BiPAP for COPD: IPAP 8-12, EPAP 3-5, FiO2 40-50%. IPAP must exceed EPAP. FiO2 40-50% to avoid suppressing respiratory drive (COPD).
+ARABIC: BiPAP للـ COPD: IPAP 8-12، EPAP 3-5، FiO2 40-50%. IPAP يجب أن يتجاوز EPAP.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-038]
+Q: A 2-year-old girl is undergoing procedural sedation in the ED for laceration repair. She receives ketamine 1.5 mg/kg IV. A few minutes into sedation, she develops increased respiratory effort with paradoxical chest movements and the capnography monitor waveform shown above. Which of the following is the most likely diagnosis?
+A: Laryngospasm
+EXPLANATION: This patient's waveform and paradoxical chest wall movement are most suggestive of laryngospasm. It occurs when there is reflexive and sustained closure of the vocal cords, leading to complete or partial airway obstruction. On capnography, laryngospasm is characterized by a flattened or absent phase III plateau and a markedly decreasing and eventually absent end-tidal carbon dioxide value due to the lack of effective air exchange. Clinically, it presents with a sudden onset of stridor, respiratory distress, paradoxical chest movements, and oxygen desaturation despite ongoing respiratory effort.
+
+### [PEER-PHYS | PEER-procedures-q-181]
+Q: An 85-year-old woman undergoing CPR with a durable and signed DNR order. Rhythm on arrival is VF. What is the next best step?
+A: Stop resuscitation efforts
+EXPLANATION: Durable DNR is legally binding. Family disagreement does not override a signed DNR. Stop resuscitation and declare the patient deceased.
+ARABIC: أمر DNR موثق قانونًا ملزم. لا يمكن للعائلة تجاوزه. أوقف الإنعاش وأعلن الوفاة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-039]
+Q: A 66-year-old man presents to the ED with vomiting. He states he has not had a bowel movement or passed flatus in 2 days. Vital signs are within normal limits. Physical examination shows abdominal distention. Abdominal X-ray shows findings suspicious for a bowel obstruction, and a nasogastric tube is placed. Repeat abdominal X-ray is shown above.
+A: Place the gastric tube to low intermittent suction
+EXPLANATION: Indications for nasogastric (NG) and orogastric (OG) tube placement in the ED include gastric decompression in bowel obstruction, medication administration, and enteral feeding. Gastric decompression is fundamental in managing small bowel obstruction, as is needed in this case, because oral intake increases intraluminal pressure, worsens pain, and increases aspiration risk. Additional ED indications include gastric lavage for overdose, prevention of aspiration in patients at high risk of regurgitation during rapid sequence intubation, and relief of gastric distention.
+
+### [PEER-PHYS | PEER-procedures-q-182]
+Q: A 57-year-old man in VF cardiac arrest. His son wishes to be in the room during resuscitation. Which statement is the best response?
+A: 'Of course. If you come with me, I'll have someone stand with you and explain everything.'
+EXPLANATION: AHA Class I recommendation for family presence during CPR. Studies show decreased PTSD/anxiety in family members who witnessed. Supportive staff member should accompany them.
+ARABIC: AHA توصي بحضور العائلة أثناء الإنعاش (Class I). الدراسات تظهر انخفاض PTSD والقلق لدى من حضر. يجب أن يرافقهم موظف داعم.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-040]
+Q: A 32-year-old man presents to the ED for right eye pain. He was cutting pieces of hard plastic for a crafting project when a shard landed in his eye. He describes a foreign body sensation in his lateral right eye. His exam shows intact extraocular movements and pupils that are equal, round, and reactive to light. A 2 mm circular foreign body is superficially embedded in his right lateral cornea.
+A: Removal using a 25-gauge needle bevel up
+EXPLANATION: A superficial corneal foreign body can be safely removed in the emergency department using a sterile 25-gauge needle, bevel up, under slit-lamp visualization. This patient has an embedded corneal foreign body, a common ophthalmologic emergency that occurs after exposure to high-velocity projectiles, such as metal or plastic shards. Diagnosis is typically made by direct visualization on gross or slit lamp examination. Advanced imaging, such as CT of the orbits, is reserved for suspected intraocular or intraorbital foreign bodies not seen on physical exam. Patients often present with foreign body sensation, worsening pain with blinking, tearing, and sometimes blurry vision.
+
+### [PEER-PHYS | PEER-procedures-q-183]
+Q: A woman at 39 weeks delivers a vigorous 2.9-kg baby precipitously. Covered in meconium. In respiratory distress despite stimulation. SpO2 88%. Which tube should be used for intubation?
+A: 3.5 cuffed endotracheal tube
+EXPLANATION: Cuffed ETTs for all pediatric intubations. ETT size by weight: 3 kg = 3.5-4.0. Acrocyanosis can persist 24-48h - not an indicator of hypoxia.
+ARABIC: أنابيب ذات كفة (cuffed ETT) لجميع الأطفال. الحجم حسب الوزن: 2-3 kg = 3.5. الزرقة الطرفية (acrocyanosis) يمكن أن تستمر 24-48 ساعة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-041]
+Q: A 16-year-old boy presents to the emergency department with a head injury after a fall from a moving vehicle. He seems unaware of his surroundings and does not localize to pain or voice, yet is agitated and intermittently struggling with the resuscitation team. There are no other obvious injuries, but he appears cyanotic.
+A: Ketamine
+EXPLANATION: Patients who are hypoxic at the beginning of an intubation attempt are already on the steep part of the oxygen-hemoglobin dissociation curve and are expected to become profoundly hypoxic when they become apneic. Patients who become profoundly hypoxic are at risk of dysrhythmia, hypoxic brain injury, and cardiac arrest. The chances of a successful first-pass intubation are also significantly lower in hypoxic patients. Usually, maneuvers such as repositioning, a jaw thrust, and two-person positive pressure ventilation are sufficient to improve oxygen saturation unless there is lung pathology such as a pulmonary contusion or pneumothorax.
+
+### [PEER-PHYS | PEER-procedures-q-184]
+Q: A 4-day-old with cyanosis, mottled skin, poor tone. SpO2 78% despite intubation and 100% O2. What is the most important initial pharmacologic treatment?
+A: Prostaglandin E1
+EXPLANATION: Hyperoxia test failure (no improvement with 100% O2) = ductal-dependent cardiac lesion. PGE1 keeps ductus arteriosus patent. Side effects: apnea, hypotension.
+ARABIC: فشل اختبار فرط الأكسجة (لا تحسن مع 100% O2) = آفة قلبية معتمدة على القناة. PGE1 يُبقي القناة مفتوحة. الآثار الجانبية: انقطاع نفس، هبوط ضغط.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-042]
+Q: A 55-year-old man presents to the ED in acute hemorrhagic shock after a rollover motor vehicle collision at highway speed. He was the unrestrained driver and was intubated on the scene for a Glasgow Coma Scale score of 4. On arrival to the ED, his BP is 87/54 mm Hg, HR is 139 bpm, his endotracheal tube is well positioned with equal bilateral breath sounds, his abdomen is distended and tense, and h …
+A: Thrombocytopenia
+EXPLANATION: Massive transfusion is generally considered the administration of ≥ 10 units of packed red blood cells (PRBCs) within 24 hours. Massive transfusion protocols may vary among institutions based on the available clinical evidence. Combat and civilian trauma data on the management of hemorrhage shock have demonstrated that early and high ratios of plasma to PRBCs improve survival rates. Additionally, since thrombocytopenia and platelet dysfunction are common during massive transfusion of PRBCs, many institutions have protocols that include early administration of platelets at predetermined ratios with plasma and PRBCs in the management of hemorrhagic shock.
+
+### [PEER-PHYS | PEER-procedures-q-185]
+Q: A full-term baby delivered precipitously. Mother used heroin 1 hour ago. Poor inspiratory effort, P 58. What is the next best step?
+A: Perform jaw thrust
+EXPLANATION: Neonatal resuscitation: dry/stimulate → jaw thrust + sniffing position if poor respiratory effort. Naloxone NOT recommended for maternal opioid use (insufficient data). Epinephrine only for P <60 after ventilation + compressions.
+ARABIC: إنعاش حديثي الولادة: تجفيف/تحفيز → رفع الفك (jaw thrust) + وضع الشم إذا جهد تنفسي ضعيف. النالوكسون غير موصى به.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-043]
+Q: Which of the following is the most common side effect of ketamine in the pediatric population?
+A: Emesis
+EXPLANATION: Emesis (vomiting) is the most common side effect of ketamine in the pediatric population. Large-scale studies consistently demonstrate that vomiting occurs in approximately 8–9% of pediatric ketamine sedations, making it significantly more frequent than other adverse effects. This occurs because ketamine stimulates central emetic pathways, including activation of the chemoreceptor trigger zone and increased sympathetic activity, and may also delay gastric emptying, all of which contribute to a higher likelihood of nausea and vomiting. Bradycardia (A) is not characteristic of ketamine, which causes tachycardia and hypertension due to its sympathomimetic effects.
+
+### [PEER-PHYS | PEER-procedures-q-186]
+Q: Where should the pulse oximeter be attached during neonatal resuscitation?
+A: Right upper extremity
+EXPLANATION: Right upper extremity = preductal oxygen saturation. Ductal-dependent cardiac lesions may not be diagnosed prenatally. Normal SpO2 rises from 60-65% (1 min) to 85-95% (10 min).
+ARABIC: الطرف العلوي الأيمن = تشبع قبل القناة (preductal). يبدأ 60-65% عند دقيقة ويصل 85-95% عند 10 دقائق.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-044]
+Q: Which of the following patients would be the best candidate for inhalational anesthesia with nitrous oxide?
+A: A 4-year-old boy with a mildly angulated distal radius fracture requiring reduction
+EXPLANATION: Nitrous oxide is a rapid-onset, rapid-offset inhalational anesthetic and analgesic that can be used in the ED for procedural sedation and analgesia, particularly in pediatric patients or adults who are cooperative and require short, mildly painful procedures. It provides mild analgesia, anxiolysis, and sedation while typically preserving spontaneous ventilation and airway reflexes, making it a useful option when IV access is delayed or for brief, low-to-moderate pain procedures. Common ED applications include fracture reduction, laceration repair, abscess incision and drainage, and IV line placement.
+
+### [PEER-PHYS | PEER-procedures-q-187]
+Q: An emergency medicine resident is preparing to place an umbilical line for fluid and medication administration. Which labeled structure is the appropriate target?
+A: Letter 'A'
+EXPLANATION: Umbilical vein (single, larger, flatter) for fluid/medications. Two umbilical arteries (smaller, rounder). Umbilical lines viable until 7 days.
+ARABIC: الوريد السري (واحد، أكبر، مسطح) للسوائل والأدوية. شريانان سريان (أصغر، مستديران). الخطوط السريّة صالحة حتى 7 أيام.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-045]
+Q: A 4-year-old boy presents to the emergency department and is found to have supraventricular tachycardia. He is minimally responsive with a blood pressure of 60/30 mm Hg and a heart rate of 230 bpm. IV is difficult to obtain. What is the best next step?
+A: Perform synchronized cardioversion
+EXPLANATION: Supraventricular tachycardia (SVT) in pediatric patients can be a medical emergency, especially when associated with hemodynamic instability like in this patient. SVT is characterized by a rapid heart rate originating above the ventricles, often leading to decreased cardiac output due to inadequate ventricular filling time. The ECG findings in SVT typically show a narrow QRS complex tachycardia, often with regular R-R intervals, no discernible P waves, or P waves hidden within the QRS complex. In children, particularly those who become hypotensive or show signs of poor perfusion (like this child with a blood pressure of 60/30 mm Hg), immediate intervention is critical.
+
+### [PEER-PHYS | PEER-procedures-q-188]
+Q: What is the proper placement for an intraosseous line in a 3-year-old in cardiopulmonary arrest?
+A: Approximately 2 cm below and medial the proximal tibial tuberosity
+EXPLANATION: IO preferred site: proximal tibia, 1-2 cm below and medial to tibial tuberosity. Direct needle perpendicular. Other sites: proximal humerus, distal femur, medial malleolus, iliac spine.
+ARABIC: الموقع المفضل للـ IO: الظنبوب القريب، 1-2 cm تحت ووحشي الحدبة الظنبوبية. الإبرة عمودية.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-046]
+Q: A 38-year-old woman presents to the emergency department with the chief concern of ankle pain. She missed the last step on her porch and twisted her ankle. She was immediately unable to walk and vomited when taking her “90 mg pain pill.” She did not hit her head during the fall. Her medical history includes hypertension, sleep apnea, and ovarian cancer.
+A: Iatrogenic overdose of the mu-opioid receptors in the brainstem
+EXPLANATION: Overdose or overuse of opioid therapies can lead to an iatrogenic impact mu-opioid receptors in the pre-Bötzinger complex (a critical area of the brainstem where breathing rhythm originates) when dosed inappropriately, resulting in respiratory depression. Patients with sleep-disordered breathing are at additional risk of complications, as acute-on-chronic opioid use can increase the risk of precipitating profound central sleep apnea. While cancer-related pain often requires high doses of opioids to manage severe pain, treating acute pain generators with equianalgesic doses based on long-acting extended-release formulations is inappropriate.
+
+### [PEER-PHYS | PEER-procedures-q-189]
+Q: An 85-year-old after cardiac arrest, ROSC achieved. Awake, alert. ECG shows anteroseptal STEMI. What is the most important next step?
+A: Activate the cardiac catheterization laboratory
+EXPLANATION: Post-cardiac arrest with STEMI: activate cath lab for PCI. Therapeutic hypothermia for comatose patients (this patient is awake). Consider IABP/impella for refractory hypotension.
+ARABIC: بعد ROSC مع STEMI: نشّط مخبر القسطرة لـ PCI. التبريد العلاجي للمرضى في غيبوبة (هذا المريض واعٍ).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-047]
+Q: A 45-year-old man presents with a painful erection for several hours. You suspect priapism and decide to perform an aspiration of the corpus cavernosum. Which is the correct location for needle insertion?
+A: Proximal shaft, dorso-lateral surface
+EXPLANATION: Priapism can be classified into low-flow (venous) and high-flow (arterial) causes. Only low-flow priapism should be managed in the ED. High-flow priapism is often painless and must be managed by either embolization or surgical ligation. Low-flow priapism is more common. Its etiologies include trauma, sickle cell disease, medications, neoplasm, neurologic disorders, and infection. Some treatments include ice packs, intracorporal injection of vasoactive agents, aspiration, and irrigation. Intracavernous aspiration is performed on the proximal shaft at the dorso-lateral surface. This is the location of the corpus cavernosum.
+
+### [PEER-PHYS | PEER-procedures-q-190]
+Q: What is the most appropriate core temperature for targeted temperature management in a comatose post-cardiac arrest patient?
+A: 32°C-36°C (89.6°F-96.8°F)
+EXPLANATION: TTM: 32-36°C for at least 24 hours. Avoid fever for 72 hours. Cooling methods: surface cooling machines, cold IV fluids, ice packs. Sedation +/- paralytics to prevent shivering.
+ARABIC: TTM: 32-36°C لمدة 24 ساعة على الأقل. تجنب الحمى لمدة 72 ساعة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-048]
+Q: A 56-year-old man in cardiac arrest is brought to the ED by paramedics. He has hypertension, diabetes, chronic alcohol use, and gout. His initial glucose by EMS was 95 mg/dL. His initial rhythm in the ED is ventricular fibrillation. He is defibrillated with 300 J and converts to normal sinus rhythm with a pulse.
+A: CT of the head
+EXPLANATION: Neurologic injury is common among survivors of cardiac arrest and may be present in up to half of survivors. Its clinical manifestations may range from subtle changes in personality or memory to complete neurologic devastation. Most patients with return of spontaneous circulation (ROSC) are comatose, making neurologic assessment difficult. It is important to note that neurologic reflexes (e.g., gag, pupillary response) are not predictive of outcomes after cardiac arrest. Neuroprognostication after ROSC is critical.
+
+### [PEER-PHYS | PEER-procedures-q-191]
+Q: What is a common complication of therapeutic hypothermia?
+A: Hypocoagulation
+EXPLANATION: TTM complications: coagulopathy (impaired platelet and clotting factor function starting at 35°C), arrhythmias, QT prolongation, hyperglycemia (insulin resistance), infection, 'cold diuresis' → hypovolemia.
+ARABIC: مضاعفات TTM: اعتلال تخثر (يبدأ عند 35°C)، اضطرابات نظم، إطالة QT، فرط سكر، عدوى، 'إدرار بارد' → نقص حجم.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-049]
+Q: A 70-year-old woman with an unknown history presents to the emergency department with chest pain and shortness of breath. Her vital signs are significant for a heart rate of 120 bpm, blood pressure of 86/55 mm Hg, and respiratory rate of 26/min. Physical exam reveals jugular venous distension. A bedside ultrasound is performed and shown above.
+A: Plethoric inferior vena cava
+EXPLANATION: This patient most likely has cardiac tamponade, a life-threatening cause of chest pain that presents with the classic triad of jugular venous distension, distant heart sounds, and hypotension (Beck triad). Etiologies include trauma, myocardial infarction, malignancy, pericarditis, autoimmune conditions (systemic lupus erythematosus), and iatrogenesis. Diagnosis is made via bedside ultrasound demonstrating a pericardial effusion as well as a feature of tamponade physiology, such as early diastolic collapse of the right ventricle, which can be obtained using parasternal long-axis or subxiphoid views.
+
+### [PEER-PHYS | PEER-procedures-q-192]
+Q: A 35-year-old man with hypotension and tachycardia after MVC. Unknown blood type. Which blood type is the best choice?
+A: O+
+EXPLANATION: Men can receive O+ blood (save O- for women of childbearing age). O negative for females of childbearing age (prevent Rh alloimmunization). Type O has no A/B antigens.
+ARABIC: الذكور يمكنهم استلام O+ (احفظ O- للنساء في سن الإنجاب). O سالب للإناث في سن الإنجاب لمنع التحسس Rh.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-050]
+Q: A 4-year-old boy presents to the ED with a skin laceration after failing to make the jump between the couch and a chair while playing. Which of the following injuries in this patient is most likely to have the best result from applying tissue adhesive alone?
+A: Superficial facial laceration
+EXPLANATION: There are many advantages to using an octyl cyanoacrylate tissue adhesive during the repair of minor lacerations. There is less time to wound closure and no need for anesthesia. Additionally, less technical experience is needed for the repair, and the family does not need to return for suture removal. The strength of tissue adhesive is reported to be that of 4-0 nylon sutures. The glue should hold for 5 days, which is typically sufficient for most facial lacerations in children. Families also report increased satisfaction with the use of tissue adhesive. There is some experimentation with using tissue adhesive on fresh abrasions, which would allow patients to bathe normally.
+
+### [PEER-PHYS | PEER-procedures-q-193]
+Q: A man requires a pRBC transfusion for a GI bleed. History of 'bad' reactions to multiple transfusions (fever). What is the best choice to decrease the likelihood of a similar reaction?
+A: Leukocyte-reduced packed RBCs
+EXPLANATION: Febrile nonhemolytic reactions from antileukocyte antibodies - use leukocyte-reduced. IgA-free for IgA deficiency; irradiated for immunocompromised (GVHD prevention).
+ARABIC: تفاعلات حموية غير انحلالية من الأجسام المضادة للكريات البيضاء - استخدم leukocyte-reduced. IgA-free لنقص IgA؛ irradiated للمناعة المنخفضة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-051]
+Q: A 33-year-old man with a known medical history of kidney transplant and currently on immunosuppressive therapy presents with a fever, chills, and rash, as seen above. It initially appeared as a painful redness on the chest before spreading over the entire body. Which of the following precautions is most appropriate?
+A: Airborne
+EXPLANATION: Herpes zoster or shingles commonly presents with a painful dermatomal rash that initially is associated with vesicles or pustules that eventually crust over. Older patients and immunosuppressed patients are more likely to have disseminated zoster, which presents with the same rash that can affect multiple organ systems beyond the initial dermatome. Airborne precautions are infection control measures taken to prevent the spread of diseases that are transmitted through the air over long distances by small droplets or particles.
+
+### [PEER-PHYS | PEER-procedures-q-194]
+Q: A 9-year-old after MVC. BP 80/40 improves to 90/40 after 60 mL/kg crystalloid. What is the best approach to fluid management?
+A: 10 mL/kg packed RBCs
+EXPLANATION: Pediatric trauma after 60 mL/kg crystalloid → start PRBCs (10 mL/kg). Massive transfusion: >40 mL/kg adolescent. Early blood products for decompensated shock.
+ARABIC: رضح أطفال بعد 60 mL/kg بلورات → ابدأ PRBCs (10 mL/kg). نقل مبكر للصدمة اللا معاوضة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-052]
+Q: A 28-year-old G1P0 woman at 6 weeks gestation by her last menstrual period presents with vaginal spotting and mild lower abdominal cramping. Her vital signs are within normal limits, and a serum beta-human chorionic gonadotropin level is 2,100 mIU/mL. A transvaginal ultrasound is performed. What ultrasound finding is required to confirm a diagnosis of intrauterine pregnancy?
+A: Yolk sac or fetal pole within a gestational sac
+EXPLANATION: The presence of a gestational sac with a yolk sac within the uterus on transvaginal ultrasound is the first definitive sonographic evidence of an intrauterine pregnancy. A yolk sac is a ring-like structure that provides early embryonic nutrition and is a clear sign that the pregnancy is intrauterine and not ectopic or a pseudogestational sac. It typically becomes visible when serum beta-human chorionic gonadotropin (beta-hCG) levels reach approximately 1,500–2,000 mIU/mL. The yolk sac appears as a bright ring with a hypoechoic center, and it precedes visualization of the fetal pole and cardiac activity.
+
+### [PEER-PHYS | PEER-procedures-q-195]
+Q: Which line represents systolic blood pressure on an arterial line waveform tracing?
+A: Line A
+EXPLANATION: Systolic BP = peak of waveform. Dicrotic notch = aortic valve closure. Diastolic = minimum. Pulse pressure = difference. Wide pulse pressure: anemia, AR, sepsis.
+ARABIC: الضغط الانقباضي = ذروة الموجة. الثلمة الثنائية (dicrotic notch) = إغلاق الصمام الأبهري. الانبساطي = الحد الأدنى.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-053]
+Q: A parent calls the ED because their 14-year-old son sustained a right upper central incisor tooth avulsion approximately 5 minutes ago. According to the parent, the tooth is intact, with the periodontal ligament still present. They are en route to the ED and would like to know how to transport the avulsed tooth. Which of the following media is most appropriate?
+A: Milk
+EXPLANATION: Avulsed permanent teeth are true dental emergencies. Most patients with an avulsed tooth will lose the tooth, so the expectations of patients should be treated accordingly. Time is an important consideration with dental avulsion. Periodontal ligament cells generally die after 60 minutes outside the oral cavity if not replanted or placed in the proper transport media. The ideal transport medium is Hanks solution, but this is not usually available in most homes. Therefore, milk is an alternative and has a compatible osmolality with tooth root cells. However, it lacks the necessary metabolites and glucose to maintain normal cell metabolism of the tooth root cells.
+
+### [PEER-PHYS | PEER-procedures-q-196]
+Q: What does the Allen test evaluate?
+A: Collateral hand blood flow
+EXPLANATION: Allen test: evaluate collateral hand circulation before radial artery access. 97.1% specific for poor collateral circulation. Normal palmar color return within 6 seconds.
+ARABIC: اختبار ألين: تقييم الدورة الدموية الجانبية لليد قبل الوصول للشريان الكعبري. 97.1% نوعية.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-054]
+Q: Which of the following factors is a contraindication to performing arthrocentesis?
+A: Overlying cellulitis
+EXPLANATION: The presence of an overlying cellulitis is a contraindication to performing an arthrocentesis as it may lead to the spread of bacteria from the skin to the joint. Arthrocentesis is typically performed when patients present with an acutely swollen joint and there is concern for a septic joint or the patient is experiencing significant pain. The differential diagnosis depends greatly on the presentation but includes gout, pseudogout, septic arthritis, and occult fracture. In general, arthrocentesis is a safe procedure with a minimal complication rate. When proper sterile technique is used, infection is a rare event.
+
+### [PEER-PHYS | PEER-procedures-q-197]
+Q: What are the appropriate landmark descriptions for placement of a Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) for refractory hemorrhagic shock from traumatic pelvic fracture?
+A: Measured from the skin insertion to area just cephalad to the umbilicus (~26-28 cm)
+EXPLANATION: Zone III (renal artery to aortic bifurcation): ~26-28 cm just cephalad to umbilicus, 15 mm aortic diameter, 3 mL balloon. For pelvic/femoral hemorrhage. Zone I (46-50 cm) for infradiaphragmatic injuries.
+ARABIC: المنطقة III (من الشريان الكلوي إلى تشعب الأبهر): ~26-28 cm فوق السرة، 3 mL في البالون. للنزف الحوضي/الفخذي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-055]
+Q: What is the maximum length of time allowed for a normal third stage of labor?
+A: 30 minutes
+EXPLANATION: The third stage of labor is defined as the length of time between delivery of the infant and subsequent expulsion of the placenta. Failure to expel the placenta within 30 minutes, particularly when this stage is being actively managed, is considered abnormal and increases the risk of postpartum hemorrhage. Placental separation occurs due to shearing forces at the attachment site, which occurs as a result of myometrial thickening and intrauterine cavity distortion after the infant is delivered. In a normal delivery, signs of placental detachment include a gush of blood, lengthening of the umbilical cord, and firming of the uterine fundus.
+
+### [PEER-PHYS | PEER-procedures-q-198]
+Q: Which patient with traumatic hemorrhagic shock is most likely to benefit from REBOA?
+A: Pelvic fracture, interventional radiology available in 20 minutes
+EXPLANATION: REBOA zone III for pelvic fracture - IR embolization target. Contraindications: traumatic cardiac arrest >10 min, intrathoracic vascular injury, cardiac tamponade, proximal aortic dissection.
+ARABIC: REBOA منطقة III لكسر الحوض - هدف تصميم IR. موانع: توقف قلبي رضحي >10 دقائق، إصابة وعائية داخل الصدر، اندساس تاموري.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-056]
+Q: Which of the following findings on end-tidal capnography is most suggestive of a return of spontaneous circulation?
+A: Sudden increase in ETCO 2 concentration
+EXPLANATION: End-tidal capnography waveforms consist of four phases. Phase I, or the inspiratory baseline, represents anatomic dead space ventilation and should approach 0 mm Hg. Phase II (expiratory upstroke) occurs when air from the alveoli approaches the upper airway and results in an increasing carbon dioxide concentration. Phase III (expiratory plateau) occurs when predominantly alveolar dead space is being ventilated. The endpoint of the expiratory plateau is the ETCO2 concentration. Subsequently, the inspiratory phase begins, and the carbon dioxide level returns to 0 mm Hg as fresh air devoid of carbon dioxide enters the lungs.
+
+### [PEER-PHYS | PEER-procedures-q-199]
+Q: What is a contraindication to placement of a REBOA?
+A: Intrathoracic vascular injury
+EXPLANATION: Contraindications: intrathoracic vascular injury (distal occlusion worsens bleeding), traumatic cardiac arrest >10 min, cardiac tamponade, proximal aortic dissection.
+ARABIC: موانع: إصابة وعائية داخل الصدر (الانسداد البعيد يفاقم النزف)، توقف قلبي رضحي >10 دقائق.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-057]
+Q: Which of the following is a marker of a successful procedure after performing a lateral canthotomy and cantholysis?
+A: Resolution of a previously detected afferent pupillary defect
+EXPLANATION: A lateral canthotomy is performed in the setting of increased (> 40 mm Hg) intraocular pressure (IOP), usually from a retrobulbar hematoma. The increased IOP can lead to irreversible vision loss if not reduced within 90–120 minutes. Early manifestations include decreased visual acuity and an afferent pupillary defect (a pupil that exhibits consensual, but not ipsilateral, pupillary response to a light stimulus). The procedure is performed by injecting local anesthesia around the lateral canthus of the affected eye. Using a hemostat, the skin is crimped at the lateral corner of the eye and followed by a 1–2 cm incision from the lateral canthus outward.
+
+### [PEER-PHYS | PEER-procedures-q-200]
+Q: What is the most common complication of REBOA placement?
+A: Local vascular injury
+EXPLANATION: Local vascular injury (~5.6%) most common: pseudoaneurysm, dissection, venous access. Embolism (4.3%). Limb ischemia (2.1%). Aortic rupture rare but deadly.
+ARABIC: إصابة وعائية موضعية (~5.6%) الأكثر شيوعًا: أم دم كاذبة، تسلخ، وصول وريدي. انصمام (4.3%). نقص تروية الطرف (2.1%).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-058]
+Q: A 53-year-old woman presents to the ED with left arm pain after falling onto a wooden coffee table, which broke. She has swelling and tenderness of the volar left forearm. Which of the following is initially most appropriate for locating a wooden foreign body in this patient?
+A: Sonography
+EXPLANATION: While no single imaging modality can identify all types of foreign bodies, high-resolution sonography has the greatest reliability in identifying wooden soft-tissue foreign bodies. It is also good at identifying foreign bodies composed of plastic, glass, metal, fiber, fish bones, most plant thorns, and cactus and sea urchin spines. Foreign bodies will appear hyperechoic with posterior acoustic shadowing behind the foreign object. Different transducer frequencies allow for different tissue penetration and may aid in identifying structures at different depths.
+
+### [PEER-PHYS | PEER-procedures-q-201]
+Q: During REBOA, which vessel should be cannulated?
+A: Common femoral artery
+EXPLANATION: Cannulate common femoral artery (proximal to profunda femoris takeoff). Use POCUS to avoid venous access. Sheath placement via Seldinger technique.
+ARABIC: قسطرة الشريان الفخذي المشترك (فوق منشأ الشريان الفخذي العميق). استخدم POCUS لتجنب الوصول الوريدي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-059]
+Q: A 27-year-old healthy man presents to the ED after being poked in the eye playing basketball. He reports pain and blurry vision in his left eye. The exam is significant for conjunctival injection and decreased visual acuity to 20/200 from 20/20 in the painful eye. Slit lamp exam is performed with fluorescein staining, and pertinent findings are shown above.
+A: Globe rupture
+EXPLANATION: The history and exam findings above are consistent with globe rupture. This is caused by a full-thickness laceration of the cornea and leads to exposure and extrusion of the aqueous humor. Diagnosis can often be made on history or visualization without a slit lamp. Findings can include a peaked or teardrop pupil, blood in the anterior chamber, or obvious laceration of the cornea with a fluid leak. Smaller injuries can be identified on slit lamp exam by leaking of aqueous humor from the laceration as seen above (termed Seidel sign). This is a surgical emergency and ophthalmology should be consulted early.
+
+### [PEER-PHYS | PEER-procedures-q-202]
+Q: When attempting transvenous pacing, what is the preferred site for access?
+A: Right internal jugular vein
+EXPLANATION: Preferred for transvenous pacing: right internal jugular or left subclavian (most direct route). Left subclavian preferred site for cardiology permanent pacer. Prosthetic tricuspid valve = absolute contraindication.
+ARABIC: المفضل لتنظيم القلب عبر الوريد: الوداجي الداخلي الأيمن أو تحت الترقوة الأيسر (المسار الأكثر مباشرة). الصمام ثلاثي الشرف الصناعي = مانع مطلق.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-060]
+Q: A 16-year-old girl with a history of an anomalous coronary artery that was repaired 2 weeks earlier presents to the emergency department with fever and chest pain. She experienced one episode of nonbilious, nonbloody vomiting and now reports dyspnea and cough. She is placed on a 15 L nonrebreather mask, with SpO2 of 98%. Her airway is patent.
+A: Removal of pericardial fluid
+EXPLANATION: This patient is demonstrating signs and symptoms of cardiac tamponade secondary to postpericardiotomy syndrome, requiring a pericardiocentesis for removal of pericardial fluid. This procedure is indicated for elective removal of chronic or recurrent pericardial fluid accumulation and as a diagnostic procedure for direct analysis of pericardial fluid. It is rarely performed in children. Cardiac tamponade is the accumulation of blood, chyle, air, or pus in the pericardial space that leads to compression of the heart and impaired cardiac output. It can occur secondary to malignancies, uremia, infections, rheumatologic and autoimmune conditions, and blunt or penetrating trauma.
+
+### [PEER-PHYS | PEER-procedures-q-203]
+Q: In which condition can intraosseous line placement be performed most safely?
+A: Poorly controlled diabetes
+EXPLANATION: IO contraindications: fracture of same bone, previous IO in same bone, osteogenesis imperfecta, osteopetrosis, overlying cellulitis. Poorly controlled diabetes not a contraindication.
+ARABIC: موانع IO: كسر في نفس العظم، IO سابق في نفس العظم، تلين العظام، كثافة العظام، التهاب نسيج خلوي فوق الموقع. السكري غير المضبوط ليس مانعًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-061]
+Q: A 71-year-old man with a history of diabetes and hypertension presents to the emergency department with epigastric discomfort. His T is 97°F (36.1°C), BP is 155/92 mm Hg, HR is 112 bpm, RR is 18/min, and SpO2 is 99% on room air. An ECG is performed, as seen above. Which of the following is the most appropriate management?
+A: Aspirin, heparin, and cardiac catheterization
+EXPLANATION: A posterior wall myocardial infarction presents with the classic symptoms of acute coronary syndrome, which may include chest pain, abdominal pain, dyspnea, diaphoresis, nausea, and vomiting. When this diagnosis is suspected, an ECG should immediately be performed. The classic finding for a posterior wall myocardial infarction is ST depressions in leads V1–V3. These ST depressions are the reciprocal changes from the ST elevation in leads V7–V9. When a posterior ST elevation myocardial infarction (STEMI) is suspected, aspirin, heparin, cardiac catheterization lab activation, and a posterior ECG (which includes leads V7–V9) are appropriate initial management.
+
+### [PEER-PHYS | PEER-procedures-q-204]
+Q: What is the preferred site for intraosseous line placement in a 2-year-old child?
+A: Proximal tibia
+EXPLANATION: Preferred IO site in children <6: proximal tibia (1-3 cm distal to tibial tuberosity). Distal femur as alternative. Adults: proximal tibia, proximal humerus, sternum.
+ARABIC: موقع IO المفضل في الأطفال <6: الظنبوب القريب (1-3 cm تحت الحدبة). الفخذ البعيد بديل.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-062]
+Q: A 74-year-old woman presents to the emergency department following an episode of syncope. She reports no prodromal symptoms and was not confused upon awakening. While her lab tests are pending, she begins to have lightheadedness and chest pain. Her rhythm strip is shown above. Which of the following is the most appropriate next step in management?
+A: Cardioversion
+EXPLANATION: Unstable cardiac dysrhythmias are an important diagnostic consideration in patients presenting with syncope. This patient’s monitor shows a wide complex tachycardia, likely ventricular tachycardia. Ventricular tachycardia is defined as more than three consecutive ectopic ventricular depolarizations at a rate of > 100 bpm. The most common causes of ventricular tachycardia are chronic ischemic heart disease and acute myocardial infarction. Treatment of ventricular tachycardia is dictated by the patient’s clinical stability. The treatment of choice in hemodynamically stable patients is attempted chemical cardioversion.
+
+### [PEER-PHYS | PEER-procedures-q-205]
+Q: What is the most appropriate next step after defibrillation during the management of cardiac arrest?
+A: Resumption of chest compressions
+EXPLANATION: After defibrillation: resume chest compressions for 2 minutes before next pulse/rhythm check. Pulse checks should be <10 seconds. Amiodarone only for refractory VF/VT.
+ARABIC: بعد إزالة الرجفان: استأنف الضغطات لمدة دقيقتين قبل فحص النبض/النظم. فحوصات النبض <10 ثوانٍ.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-063]
+Q: Which of the following endotracheal tube sizes is best for a 10-year-old child?
+A: 6.0 cuffed endotracheal tube
+EXPLANATION: It is important to know the formula to approximate endotracheal tube (ETT) size for both cuffed and uncuffed tubes in pediatric patients, though cuffed tubes are significantly more common. Uncuffed tubes are generally only used in premature neonates. A 10-year-old child should be intubated with a 6.0 cuffed or 6.5 uncuffed endotracheal tube. This can be approximated using the formula: cuffed ETT size = (age / 4) + 3.5 and uncuffed ETT size = (age / 4) + 4. In this patient, the equation is (10 / 4) + 3.5 = 6 cuffed ETT. A 5.0 uncuffed ETT (A) might be appropriate for a 4-year-old child. A 5.5 uncuffed ETT (B) might be appropriate for a 6-year-old child.
+
+### [PEER-PHYS | PEER-procedures-q-206]
+Q: A 24-year-old man with stab wound to left chest, loses vital signs, needs bedside thoracotomy. Which structure must be avoided when incising the pericardium?
+A: Phrenic nerve
+EXPLANATION: Phrenic nerve runs along pericardium - cut anterior (closer to sternum) to avoid it. Injury → diaphragmatic weakness. Other structures: vagus behind right hilum, sympathetic chain lateral to vertebral bodies.
+ARABIC: العصب الحجابي (phrenic nerve) يمتد على التامور - اقطع أماميًا (قرب القص) لتجنبه. إصابته → ضعف الحجاب.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-064]
+Q: An 18-month-old girl presents to the emergency department with altered mental status. She was acting normally this morning in her parent's care and went down for her morning nap as usual. Upon waking, she was limp and unable to hold her head up, so her parent called emergency medical services to bring her to the hospital. Due to the short transport time, no other interventions have been done.
+A: Vital signs
+EXPLANATION: The differential diagnosis for altered mental status is extremely broad including seizure activity, trauma (including nonaccidental trauma), toxic ingestion, infection (e.g., sepsis, meningitis, encephalitis), stroke, dysrhythmia, dehydration, hypoglycemia, metabolic acidosis or alkalosis, and even intussusception. All patients with significantly altered mental status should be evaluated using the ABCs of emergency medicine with immediate assessment of their airway, breathing, and circulation, first focusing on immediate life-threatening problems. In general, multiple steps are taken simultaneously, but occasionally, steps must be prioritized.
+
+### [PEER-PHYS | PEER-procedures-q-207]
+Q: In which scenario is ECMO contraindicated?
+A: Intracranial hemorrhage
+EXPLANATION: ECMO contraindications: intracranial hemorrhage, uncontrolled bleeding, terminal malignancy, irreversible end-organ damage, severe aortic regurgitation (VA-ECMO). Pregnancy is NOT a contraindication.
+ARABIC: موانع ECMO: نزف داخل القحف، نزف غير مضبوط، أورام نهائية، فشل أعضاء لا رجعة فيه، قلس أبهر شديد. الحمل ليس مانعًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-065]
+Q: A 3-year-old girl presents to the emergency department in septic shock after having an influenza-like illness for the last 2 days. Which of the following venous lines, if placed in this patient, will provide the fastest possible fluid flow rates?
+A: A 20-gauge 1-inch peripheral venous catheter
+EXPLANATION: The Hagen-Poiseuille equation explains the relation of the amount of fluid that flows through a pipe to fluid viscosity, tube length, tube size, and change in pressure of the fluid. Based on this equation, the amount of fluid that flows through a tube is inversely related to the length of the tube and directly proportional to the radius to the fourth power. This means that higher flow rates can be achieved through a tube with both a larger internal radius and a shorter length. Of these two, a larger internal radius has the greatest effect. Remember that the smaller the gauge of an intravenous line, the larger the radius of the catheter.
+
+### [PEER-PHYS | PEER-procedures-q-208]
+Q: In which scenario is ECMO most likely indicated?
+A: Right ventricular failure in a patient with a massive pulmonary embolism
+EXPLANATION: ECMO indications: reversible cardiac/respiratory failure refractory to standard treatment - PE, hypoxic respiratory failure (P:F <100), cardiac arrest, hypercapnic respiratory failure (pH <7.2).
+ARABIC: استطبابات ECMO: فشل قلبي/تنفسي قابل للعكس لا يستجيب للعلاج - PE، فشل تنفسي نقص أكسجة (P:F <100)، توقف قلبي، فشل تنفسي فرط كابنيا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-066]
+Q: A patient presents to the ED with a 1 cm laceration to the right lateral upper lip that encroaches on the vermillion border. Which of the following is the most appropriate method to anesthetize the laceration?
+A: Infraorbital nerve block
+EXPLANATION: Lacerations through the vermilion border of the lip require precise closure to maintain normal lip contour after healing. Anesthesia of the upper lip is best obtained with an infraorbital nerve block keeping in mind wounds near the midline need a bilateral nerve block as innervation crosses midline. Anesthesia of the lower lip is best obtained with a mental (infraoral) nerve block. The initial stitch should be 6-0 nonabsorbable suture at the vermilion border. Close the buccal mucosal surface using 5-0 absorbable material and the skin using 6-0 nonabsorbable or fast-absorbing gut.
+
+### [PEER-PHYS | PEER-procedures-q-209]
+Q: In the setting of venoarterial extracorporeal CPR (ECPR), what procedures are commonly performed to initiate ECMO?
+A: Ultrasound-guided cannulation of the femoral artery and vein
+EXPLANATION: ECPR: VA-ECMO via femoral artery (15-17 Fr) + femoral vein (19-25 Fr). Ipsilateral or contralateral. Ultrasound guidance minimizes vascular injury.
+ARABIC: ECPR: VA-ECMO عبر الشريان الفخذي (15-17 Fr) + الوريد الفخذي (19-25 Fr). نفس الجانب أو معاكس.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-067]
+Q: A 72-year-old man presents to the ED in cardiac arrest. CPR is begun, and the ECG monitor shows ventricular fibrillation. Defibrillation is planned with a monophasic defibrillator. Which of the following represents the appropriate mode and energy for defibrillation of this patient?
+A: Unsynchronized, 360 J
+EXPLANATION: Defibrillation is indicated for ventricular fibrillation (Vfib) and pulseless ventricular tachycardia (pVT) and represents the definitive treatment for these shockable rhythms. Early defibrillation is critical to survival and should be administered as soon as possible after Vfib or pVT is identified, as defibrillation success decreases approximately 6% for every minute of delay. The procedure is most effective when delivered promptly after rhythm onset, though when Vfib has persisted for more than a few minutes, a brief period of high-quality CPR may help replenish depleted myocardial energy reserves and improve shock success.
+
+### [PEER-PHYS | PEER-procedures-q-210]
+Q: What is the most likely complication of ECMO?
+A: Bleeding
+EXPLANATION: Bleeding + thromboembolism = most common major ECMO complications. Bleeding up to 50% (anticoagulation, platelet dysfunction, hemolysis). Monitor ACTs.
+ARABIC: النزف والانصمام = أكثر مضاعفات ECMO الرئيسية شيوعًا. النزف حتى 50% (مضادات تخثر، خلل صفيحات، انحلال دم).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-068]
+Q: A 54-year-old man presents for evaluation of shortness of breath. He has a history of COPD, hypertension, coronary artery disease, diabetes mellitus, and previous coronary artery bypass grafting complicated by malignant hyperthermia. Continuous albuterol and ipratropium nebulizer treatment have not resulted in improvement.
+A: Succinylcholine
+EXPLANATION: Malignant hyperthermia describes the constellation of symptoms that arises in patients with mutations in the ryanodine receptor on the sarcoplasmic reticulum. When exposed to some inhaled anesthetic agents (e.g., isoflurane, sevoflurane) and depolarizing paralytic agents (e.g., succinylcholine), the ryanodine receptor becomes locked in an open conformation, leading to extensive calcium efflux into the sarcomere. As actin-myosin cross-linking occurs, sarcomere contraction ensues and muscular rigidity arises. This leads to the rapid depletion of adenosine triphosphate and an overall hypermetabolic state. Thus, succinylcholine is contraindicated for this patient.
+
+### [PEER-PHYS | PEER-procedures-q-211]
+Q: In which scenario is pediatric ECMO most likely indicated?
+A: PaO2/FiO2 ratio less than 80 in a patient with ARDS
+EXPLANATION: Pediatric ECMO for ARDS with P:F <60-80. Contraindications: terminal malignancy, lethal genetic conditions (trisomy 18), irreversible organ damage, high bleeding risk.
+ARABIC: ECMO للأطفال في ARDS مع P:F <60-80. موانع: أورام نهائية، حالات وراثية قاتلة (تثلث 18)، فشل أعضاء لا رجعة فيه.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-069]
+Q: A 2-year-old girl is brought to the emergency department because she is reluctant to move her left arm. Her parent reports that she had been pulled up from the floor by her wrist just prior to symptom onset. Vital signs include a temperature of 98.8°F, heart rate of 110 bpm, respiratory rate of 24/min, and blood pressure of 92/58 mm Hg. On exam, there is no swelling, erythema, or deformity.
+A: Simultaneous supination and elbow flexion
+EXPLANATION: Radial head subluxation, also known as pulled elbow, is the most common upper extremity injury in toddlers. It typically occurs in children between 1 and 4 years of age, with a peak incidence at 2–3 years and a slight female predominance. The mechanism involves displacement of the annular ligament into the radiocapitellar joint space. Risk factors include being lifted or pulled by the arm, swinging by the hands, and falling while the hand is held. Clinically, the child presents holding the affected arm slightly flexed and pronated at the side, refusing to use it, but otherwise in no acute distress. Swelling, erythema, and deformity are absent, which helps distinguish it from fracture.
+
+### [PEER-PHYS | PEER-procedures-q-212]
+Q: A 30-year-old found in a snowbank, awake but confused. ECG shows Osborn waves. What is the best rewarming technique?
+A: Forced warmed air
+EXPLANATION: Stage II hypothermia (28-32°C): Osborn waves, bradycardia. Active external rewarming = forced warmed air (+3.4°C/hr). Avoids afterdrop. Bladder/gastric lavage = limited (small surface area).
+ARABIC: المرحلة II من انخفاض الحرارة (28-32°C): موجات Osborn، بطء قلب. الإحماء الخارجي النشط = هواء دافئ مدفوع (+3.4°C/ساعة).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-070]
+Q: Which of the following flow settings represents the most evidence-based starting point for high-flow nasal cannula therapy in a 4-month-old infant with bronchiolitis?
+A: 2 L/kg/min
+EXPLANATION: Bronchiolitis is the leading cause of hospitalization for respiratory illness in infants < 12 months of age, most commonly caused by respiratory syncytial virus. The pathophysiology involves inflammation, edema, and mucus plugging in the small airways, leading to airflow limitation and impaired oxygen exchange. Clinical signs include tachypnea, nasal flaring, retractions, hypoxia, and feeding difficulty. In the ED, management begins with supportive care, including nasal suctioning, hydration, and supplemental oxygen for respiratory distress or SpO2 < 90%. High-flow nasal cannula (HFNC) therapy has become a favored escalation step when low-flow oxygen therapy fails.
+
+### [PEER-PHYS | PEER-procedures-q-213]
+Q: A 20-year-old found in snowbank in cardiac arrest. CPR ongoing. T 28°C. Despite resuscitation, K 12. What are the next best steps?
+A: Cessation of CPR for futility
+EXPLANATION: Hypothermia cardiac arrest: 'not dead until warm and dead' EXCEPT when K >10-12 (indicates irreversible damage). Other exceptions: lethal injuries, frozen body, avalanche with snow-packed airway >35 min.
+ARABIC: توقف القلب من انخفاض الحرارة: 'ليس ميتًا حتى يدفأ ويموت' إلا إذا كان K >10-12 (ضرر لا رجعة فيه).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-071]
+Q: A 62-year-old foreign diplomat presents to your ambulance bay with sudden-onset muscle weakness, diarrhea, vomiting, and blurry vision. He was brought directly from the airport where he had been waiting for a flight. The patient had his normal breakfast at his hotel, and the only atypical event of the morning was when a person next to him at the airport spilled his apple juice onto the patient’s l …
+A: Remove the patient’s clothing and irrigate his skin
+EXPLANATION: This patient presents with vomiting, diarrhea, tachycardia, and generalized weakness of sudden onset concerning for nerve agent toxicity from a possible cutaneous source. The first step in treating patients should be decontamination to prevent further exposure. Organophosphate-based nerve agents such as sarin and soman are extremely toxic and are often the agents of choice in chemical terrorism. These agents share a similar presentation with classic organophosphate toxicity (e.g., salivation, lacrimation, urination, diarrhea, emesis). They irreversibly inhibit acetylcholinesterase, causing an accumulation of acetylcholine and overstimulation at cholinergic synapses.
+
+### [PEER-PHYS | PEER-procedures-q-214]
+Q: A patient with large intraparenchymal hemorrhage is intubated. Postintubation, which parameters should be maintained?
+A: Head of bed to 30 degrees, PaCO2 35 to 40 mm Hg, and systolic BP 140 mm Hg
+EXPLANATION: ICH: HOB 30° (venous return), PaCO2 35-40 (avoid hypercarbia), SBP 140 (AHA: lower if 150-220 to 140; if >220, lower <220 then to 140-160). Avoid neck constriction.
+ARABIC: ICH: رفع الرأس 30°، PaCO2 35-40، SBP 140. تجنب انقباض الرقبة. خفض الضغط تدريجيًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-072]
+Q: A 72-year-old woman presents to the emergency department with a worsening fever and productive cough over 1 week. She is febrile and tachycardic with mild wheezing on examination. Her influenza swab is positive, and her chest radiograph shows a developing pneumonia. After beginning treatment, you decide to admit the patient to the hospital for further observation and treatment.
+A: Droplet precautions
+EXPLANATION: The risk of developing an infection transmitted by another person in a healthcare facility is substantial. The risk of transmission from one patient to another or from hospital personnel to patients depends on the patient’s immune status, the local prevalence of certain pathogens, and infection control practices used in the hospital. Certain isolation precautions should be used for particularly contagious and dangerous pathogens to minimize the risk of transmission. The patient in this question has been diagnosed with pneumonia and concomitant influenza infection which is highly contagious through droplets.
+
+### [PEER-PHYS | PEER-procedures-q-215]
+Q: A 25-year-old man with palmar laceration proximal to the MCP joint of the small finger. What is the best technique for anesthesia?
+A: Ulnar nerve wrist block
+EXPLANATION: Ulnar nerve innervates small finger, ulnar half of ring finger, and ulnar aspect of hand. Block between flexor carpi ulnaris and ulnar artery (~5 mL).
+ARABIC: العصب الزندي (ulnar nerve) يعصب الخنصر، نصف البنصر الزندي، والجانب الزندي لليد. الحقن بين القابضة الزندية والشريان الزندي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-073]
+Q: A 20-year-old man presents to the emergency department with blurred vision after blunt eye trauma. Which of the following findings on slit lamp examination would be most consistent with traumatic iritis?
+A: Cell and flare with thin white light
+EXPLANATION: Traumatic iritis, also called traumatic anterior uveitis or iridocyclitis, is acute inflammation of the iris and ciliary body following blunt or penetrating ocular trauma. The pathogenesis involves disruption of the blood-aqueous barrier, leading to the release of inflammatory mediators and breakdown products from damaged uveal tissue into the anterior chamber. This inflammatory cascade results in the accumulation of white blood cells (cells) and protein (flare) in the aqueous humor. The condition predominantly affects young adults, particularly male patients engaged in sports or occupational activities with eye injury risk.
+
+### [PEER-PHYS | PEER-procedures-q-216]
+Q: Which technique helps reduce the pain of local infiltration with lidocaine?
+A: Inject through open wound
+EXPLANATION: Reduce infiltration pain: inject through wound margins (not intact skin), 27-gauge needle, subcutaneous (not intradermal), slow injection, warm solution, buffer 1:10 with bicarb.
+ARABIC: تقليل ألم الحقن: الحقن عبر حواف الجرح، إبرة 27، تحت الجلد (ليس داخل الأدمة)، بطء الحقن، محلول دافئ، تخفيف 1:10 مع البيكربونات.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-074]
+Q: A 14-year-old girl presents to the ED after a fall. She was texting while walking through the mall and tripped, falling onto a bench. She reports no loss of consciousness, headache, vision changes, dental trauma, or allergies. She sustained the laceration shown above. Which method of local anesthetic administration is the best option for this patient?
+A: Infraorbital block
+EXPLANATION: This patient has a laceration of her upper lip that crosses the vermillion border. Regional block using an infraorbital approach will provide anesthesia of the lip. The maxillary branch of the trigeminal nerve exits the skull through the infraorbital foramen and supplies the mid-face from the inferior eyelid to the superior lip. The infraorbital foramen is palpable around 1 centimeter inferior to the orbital rim in a line connecting the pupil to the lateral edge of the oral commissure. A small gauge needle is usually inserted intra-orally superior to the second bicuspid and advanced 2 cm toward the foramen. Around 2 mL of 1% lidocaine can be injected.
+
+### [PEER-PHYS | PEER-procedures-q-217]
+Q: A 74-year-old woman with anterior shoulder dislocation, BP 86/40, P 110. IV access, fluid bolus minimal improvement. No allergies. Which medication for procedural sedation?
+A: Ketamine
+EXPLANATION: Ketamine (sympathomimetic) preferred for hypotensive patients - causes hypertension. Propofol/midazolam cause hypotension. Fentanyl provides analgesia without sedation.
+ARABIC: الكيتامين مفضل للمرضى المصابين بهبوط ضغط - يسبب ارتفاع ضغط. البروبوفول والميدازولام يسببان هبوطًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-075]
+Q: A 40-year-old man with a history of end-stage kidney disease and cirrhosis presents to the emergency department with fever and diffuse abdominal pain. His abdomen is distended and tender to palpation on examination. Laboratory evaluation is significant for an international normalized ratio of 2.3 and a platelet count of 27,000/mcL.
+A: Immediate paracentesis
+EXPLANATION: Patients with large volume ascites are at high risk of spontaneous bacterial peritonitis (SBP) due to the translocation of bowel flora into the peritoneum caused by bowel edema and portal hypertension. One in three patients with ascites will develop SBP per year. Patients will present with fever, chills, and abdominal pain, and should have rapid evaluation with peritoneal fluid studies. Previously, it was thought that patients with abnormal coagulation studies were at increased risk of bleeding. However, current research refutes this finding. The liver is responsible for making both clotting factors as well as anticoagulant proteins. Thus, liver disease will cause a decrease in both.
+
+### [PEER-PHYS | PEER-procedures-q-218]
+Q: Which level of procedural sedation is characterized by reduced consciousness with purposeful response to commands, adequate spontaneous ventilation, and maintained cardiovascular function?
+A: Moderate sedation
+EXPLANATION: Moderate sedation (conscious sedation): purposeful response to verbal/tactile stimulation, patent airway maintained, spontaneous ventilation adequate, CV function intact. Dissociative sedation (ketamine) is a subtype.
+ARABIC: التهدئة المعتدلة (moderate sedation): استجابة هادفة للمنبهات اللفظية/اللمسية، مجرى هوائي سالك، تهوية تلقائية كافية، وظيفة قلبية وعائية سليمة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-076]
+Q: A 60-year-old man presents to the ED with progressive dyspnea and a nonproductive cough. He has a history of metastatic lung cancer. Chest radiograph reveals a large left-sided pleural effusion. During bedside ultrasound-guided thoracentesis, the physician notes sudden aspiration of air bubbles when inserting the needle at the seventh intercostal space. The patient reports no new symptoms.
+A: Abort the procedure and obtain a chest radiograph
+EXPLANATION: Thoracentesis is a frequently performed diagnostic and therapeutic procedure in the ED, often indicated for symptomatic or large pleural effusions. Accurate site selection is crucial to avoid complications such as pneumothorax. The optimal puncture site is typically the posterior axillary or midscapular line, one or two intercostal spaces below the top of the effusion as visualized on imaging or ultrasound, but always above the ninth rib to avoid traversing the diaphragm and injuring abdominal organs. The needle should be inserted above the superior margin of the rib to avoid injury to the neurovascular bundle that runs along the inferior rib border.
+
+### [PEER-PHYS | PEER-procedures-q-219]
+Q: A patient with multiple myeloma and chronic kidney disease presents with severe pain from bone lesions. Which medication is most appropriate?
+A: Hydromorphone
+EXPLANATION: Renal dysfunction: hydromorphone/fentanyl have minimal renally cleared active metabolites. Avoid morphine/codeine/tramadol/meperidine. Methadone too slow for acute pain.
+ARABIC: قصور كلوي: هيدرومورفون/فنتانيل لها مستقلبات نشطة قليلة تُطرح كلويًا. تجنب المورفين/الكوديين. الميثادون بطيء للألم الحاد.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-077]
+Q: A term 20-day-old infant presents to the ED from urgent care for an abnormal ECG obtained for fussiness. His mother had routine prenatal care and states he has not had fever, is gaining weight, eating well without sweating or cyanosis, and making normal wet and dirty diapers. At this time, his symptoms have resolved. Your exam is unremarkable and his vitals are within normal limits for age.
+A: Reassurance and discharge home
+EXPLANATION: This infant has no signs of congenital heart defects but has a rightward axis. Infants less than 1 month normally have a degree of right ventricular hypertrophy because in utero the newborn heart pumps systemic blood from both the left and the right ventricle (through the ductus arteriosus). The right ventricle is more dominant in utero, handling just over half of the combined cardiac output. As the pulmonary vascular resistance drops and less work is required of the right ventricle the left becomes more dominant over the first weeks to months of life. A normal QRS axis in patients less than 1 month of age can be as right as +160 to 180°, and as right as +115 to 125° at 3 months of age.
+
+### [PEER-PHYS | PEER-procedures-q-220]
+Q: A patient receiving a lidocaine infusion for renal colic experiences paresthesias, perioral numbness, seizure, and cardiovascular collapse. What is the highest priority?
+A: Intravenous lipid emulsion
+EXPLANATION: Local anesthetic systemic toxicity (LAST): lipid emulsion 20% 1.5 mL/kg bolus + 0.25 mL/kg/min infusion. Modified ACLS (epi <1 mcg/kg, avoid vasopressin, avoid Na channel blockers).
+ARABIC: سمية المخدر الموضعي الجهازية (LAST): مستحلب دهون 20% جرعة 1.5 mL/kg ثم تسريب 0.25 mL/kg/min. ACLS معدّل.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-078]
+Q: A 13-year-old boy presents to the emergency department with acute, severe lower abdominal pain and vomiting. On genitourinary exam, the patient has a raised and significantly tender left testicle and no cremasteric reflex. What maneuver is the most appropriate next step in management?
+A: Medial to lateral rotation of the testis &gt; 360°
+EXPLANATION: Testicular torsion occurs when the testis twists on the spermatic cord leading to decreased or absent flow from the testicular artery. Two-thirds of testicles torse from lateral to medial. Thus, medial to lateral rotation (“open book”) of the affected teste should be attempted first. It is recommended to attempt at least one and a half rotations, or 540°, before determining if the maneuver is successful (i.e., improvement in pain and symptoms). If the maneuver is unsuccessful, a trial of lateral to medial rotation may be attempted.
+
+### [PEER-PHYS | PEER-procedures-q-221]
+Q: What is first-line therapy for trigeminal neuralgia?
+A: Carbamazepine
+EXPLANATION: Trigeminal neuralgia: paroxysmal sharp/stabbing unilateral pain (V2/V3). First-line: carbamazepine 100-200 mg/day. Alternatives: oxcarbazepine, lamotrigine, gabapentin, baclofen.
+ARABIC: ألم العصب الثلاثي التوائم: ألم نوبي حاد وحيد الجانب (V2/V3). الخط الأول: carbamazepine. بدائل: oxcarbazepine, lamotrigine, gabapentin, baclofen.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-079]
+Q: A 32-year-old man with no significant medical history presents with a 3-day history of a painful, enlarging boil on the lateral thigh. Physical exam shows a 4 cm erythematous, tender, fluctuant lesion without crepitus. A point-of-care ultrasound is shown above. Which of the following is the most appropriate approach in the management of this patient’s current condition?
+A: Make a small linear incision through the point of maximal fluctuance, break up loculations, irrigate as needed, and leave open
+EXPLANATION: Superficial cutaneous abscesses are common acute presentations, most often caused by Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA). They arise when bacteria seed the dermis and subcutaneous tissue via skin barrier disruption, triggering neutrophilic inflammation and liquefactive necrosis that forms a walled-off purulent collection. Risk factors include prior abscess or MRSA colonization, close-contact settings, injection drug use, diabetes, immunocompromise, and hidradenitis suppurativa. Typical symptoms are localized pain, swelling, warmth, and sometimes fever, while fluctuance may be absent early or in deeper collections.
+
+### [PEER-PHYS | PEER-procedures-q-222]
+Q: What describes 'deep sedation'?
+A: Purposeful response to painful stimulation; airway and breathing may be impaired
+EXPLANATION: Deep sedation: purposeful response to REPEATED/PAINFUL stimulation. Airway/breathing may be impaired. Used for burn care, fracture reductions.
+ARABIC: التهدئة العميقة: استجابة هادفة للمنبهات المؤلمة المتكررة. قد يعاني المجرى الهوائي والتنفس. تُستخدم لعلاج الحروق وردّ الكسور.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-080]
+Q: A 57-year-old man presents to the ED via EMS after he sustained a witnessed cardiac arrest 20 minutes prior to arrival while in line at the grocery store. Bystanders immediately started chest compressions. Upon EMS arrival, the patient was found to be in ventricular tachycardia. He was defibrillated and given epinephrine, and chest compressions were continued as he was transported to the ED.
+A: Return of spontaneous circulation
+EXPLANATION: In cardiopulmonary resuscitation (CPR), the measurement of end-tidal expired carbon dioxide pressure by capnography provides a surrogate marker of cardiac output and end-organ perfusion. This can be used to guide the quality of CPR and predict a return of spontaneous circulation, which is more likely in patients with higher end-tidal carbon dioxide levels during CPR. Low end-tidal carbon dioxide levels suggest inadequate compressions in either rate, depth, or recoil time. An abrupt rise in end-tidal carbon dioxide levels suggests a return of spontaneous circulation.
+
+### [PEER-PHYS | PEER-procedures-q-223]
+Q: What is a contraindication to receiving propofol?
+A: Propofol intolerance
+EXPLANATION: Only true immunologic contraindication to propofol: propofol allergy. Egg/soy/peanut allergies are NOT contraindications (proteins removed during manufacturing). AAAAI supports safety.
+ARABIC: الموانع المناعية الحقيقية الوحيدة للبروبوفول: حساسية البروبوفول. حساسية البيض/الصويا/الفول السوداني ليست موانع.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-081]
+Q: Which of the following findings on ocular ultrasound is most consistent with a vitreous hemorrhage?
+A: Hyperechoic opacities scattered through the vitreous
+EXPLANATION: Vitreous hemorrhage can occur spontaneously or in the setting of trauma. On ocular ultrasound, it will be seen as a hyperechoic material in the posterior chamber and vitreous. Depending on the extent and age of the bleed, it can have different appearances. Early on, it is characterized by small dots or mobile opacities in the middle portion of the posterior chamber that can be found in a whirlpool-type pattern. Over time, the hemorrhage can become more echogenic and form membranes that can be confused with a retinal detachment. Unlike a retinal detachment, which moves with eye movements, the echogenic membrane associated with vitreous hemorrhage will remain horizontal with eye movement.
+
+### [PEER-PHYS | PEER-procedures-q-224]
+Q: An otherwise healthy patient is intubated and experiences acute-onset rigidity. T 39.2°C. Which medication is likely responsible?
+A: Succinylcholine
+EXPLANATION: Malignant hyperthermia from succinylcholine: diffuse rigidity, hyperthermia, tachycardia, tachypnea. Ryanodine receptor mutation. Treatment: dantrolene. Nondepolarizing agents (vecuronium) don't cause MH.
+ARABIC: فرط الحرارة الخبيث من سكسينيل كولين: صلابة منتشرة، حمى، تسرع قلب، تسرع تنفس. طفرة مستقبلات الريانودين. العلاج: دانترولين.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-082]
+Q: A 49-year-old man presents with a right shoulder dislocation. You decide to sedate him with propofol for closed reduction. After propofol intravenous injection, the patient has delayed but purposeful responses to verbal commands accompanied by light tactile stimulation. Cardiovascular function is unchanged. Which of the following best describes this level of sedation?
+A: Moderate
+EXPLANATION: Moderate sedation is a pharmacologically induced depression of consciousness during which patients respond purposefully to verbal commands with some delay, either alone or accompanied by light tactile stimulation. There is no need to secure the airway, and spontaneous ventilation is adequate. Cardiovascular function usually is also adequate. Eyelid ptosis and slurred speech are sometimes observed along with event amnesia. The patient’s level of consciousness is not mild (C), although his airway and cardiovascular functions are unchanged. Those with mild sedation have a near baseline alertness and respond normally to verbal commands.
+
+### [PEER-PHYS | PEER-procedures-q-225]
+Q: What is the most consistent finding of succinylcholine-induced malignant hyperthermia?
+A: High end-tidal CO2
+EXPLANATION: MH: hypermetabolic state → excessive CO2 production. Rising ETCO2 despite adequate ventilation is most consistent. Masseter rigidity transient (only 25% have persistent).
+ARABIC: MH: حالة فرط استقلاب → إنتاج CO2 زائد. ارتفاع ETCO2 رغم التهوية الكافية هو الأكثر ثباتًا. صلابة العضلة الماضغة عابرة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-083]
+Q: Which of the following is a contraindication to using ketamine?
+A: History of schizophrenia
+EXPLANATION: Ketamine is a pharmacologic agent frequently used in procedural sedation for its ability to induce a state of dissociative sedation with profound amnesia, immobilization, and analgesia. It has few contraindications and should not be used in patients with a history of schizophrenia. It has been shown in studies to increase psychosis, auditory hallucinations, and paranoia in patients with schizophrenia. Ketamine differs from other procedural sedation agents in a number of ways including its ability to preserve cardiopulmonary stability and maintain airway reflexes and spontaneous respiration.
+
+### [PEER-PHYS | PEER-procedures-q-226]
+Q: What electrolyte disorder is most strongly associated with malignant hyperthermia?
+A: Hyperkalemia
+EXPLANATION: MH rhabdomyolysis → hyperkalemia, hyperphosphatemia, hypocalcemia. Hyperkalemia is most common and clinically significant. Treat with calcium + sequestration.
+ARABIC: انحلال الربيدات في MH → فرط بوتاسيوم، فرط فوسفات، نقص كالسيوم. فرط البوتاسيوم هو الأكثر شيوعًا وأهمية سريريًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-084]
+Q: A 32-year-old G2P1 woman at 39 weeks gestation presents to the emergency department in active labor. During the second stage of labor, the fetal head delivers, but the shoulders fail to follow spontaneously, despite appropriate maternal pushing efforts. On examination, the fetal head appears to be fixed at the vaginal introitus. The fetal heart rate tracing is reassuring.
+A: Suprapubic pressure
+EXPLANATION: Shoulder dystocia occurs when the anterior shoulder of the fetus is trapped behind the pubic symphysis. Complications of shoulder dystocia include fetal brachial plexus injury from overaggressive traction, and fetal hypoxia from impaired respirations and compressions of the umbilical cord. When shoulder dystocia is recognized, the mother should first be placed in the extreme lithotomy position with legs flexed to the abdomen. This is also known as the McRoberts maneuver. Subsequently, pressure should be applied to the suprapubic region to disimpact the anterior shoulder from the pubic symphysis.
+
+### [PEER-PHYS | PEER-procedures-q-227]
+Q: What is the most appropriate empiric treatment for malignant hyperthermia?
+A: Dantrolene
+EXPLANATION: Dantrolene is a ryanodine receptor antagonist - skeletal muscle relaxant preventing Ca release. Definitive treatment for MH. Dose: 2.5 mg/kg.
+ARABIC: دانترولين مضاد لمستقبلات الريانودين - مرخٍ عضلي هيكلي يمنع إطلاق الكالسيوم. العلاج النهائي لـ MH. الجرعة: 2.5 mg/kg.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-085]
+Q: A 3-year-old boy presents to the ED with nausea, vomiting, and diarrhea for the past 36 hours. The parent reports that he has been unable to keep down any food or liquid for the last 12 hours. His temperature is 98.6°F (37°C), blood pressure is 80/40 mm Hg, heart rate is 145 bpm, respiratory rate is 24/min, and oxygen saturation is 98% on room air.
+A: 10% dextrose 5 mL/kg (0.5 g/kg) IV as a bolus
+EXPLANATION: Hypoglycemia is defined as a plasma glucose concentration low enough to cause signs of neurologic dysfunction, typically < 50 mg/dL. Symptoms of hypoglycemia in infants and children may be different from those in adults. Infants commonly present with cyanotic episodes, apnea, feeding difficulties, spasms, sweating, hypothermia, and lethargy. Older children typically present with sweating, tachycardia, anxiety, weakness, nausea, vomiting, lethargy, confusion, and irritability. A detailed history should be obtained in an effort to elicit the cause.
+
+### [PEER-PHYS | PEER-procedures-q-228]
+Q: Which medication is contraindicated in patients with malignant hyperthermia who are treated with the appropriate reversal agent?
+A: Diltiazem
+EXPLANATION: Dantrolene + nondihydropyridine CCBs (diltiazem, verapamil) = life-threatening hyperkalemia + myocardial depression. Contraindicated. Dihydropyridines (amlodipine) safe.
+ARABIC: دانترولين + حاصرات قنوات Ca غير ثنائية الهيدروبيريدين (diltiazem, verapamil) = فرط بوتاسيوم مهدد للحياة + تثبيط عضلي قلبي. ممنوعة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-086]
+Q: A 3-year-old boy is brought into the ED by EMS after a witnessed cardiac arrest. Upon arrival at the scene, EMS personnel initiated pediatric advanced life support measures and began bag-mask ventilation. Which of the following represents the best next step in management?
+A: Continue bag-mask ventilation for transport to the ED
+EXPLANATION: In pediatric resuscitation, effective bag-mask ventilation (BMV) is the most critical initial airway intervention. BMV is often sufficient to provide adequate oxygenation and ventilation in children, including those in cardiac arrest. If BMV is effective, as indicated by visible chest rise and improving SpO2, it should be continued rather than replaced with advanced airway interventions in the prehospital setting. Early endotracheal intubation has not been shown to improve outcomes compared to high-quality BMV in pediatric cardiac arrest and may delay transport and ongoing resuscitation efforts.
+
+### [PEER-PHYS | PEER-procedures-q-229]
+Q: What should be used to help prepare a patient for an anoscopy?
+A: Topical lidocaine
+EXPLANATION: Anoscopy: simple bedside procedure, no sedation or bowel prep. Topical 2% lidocaine jelly 10 min before. Evaluates hemorrhoids, masses, fistulas, fissures, ulcers.
+ARABIC: تنظير الشرج: إجراء بسيط بجانب السرير، لا تهدئة ولا تحضير معوي. جل ليدوكايين 2% موضعي قبل 10 دقائق.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-087]
+Q: A 16-year-old boy presents to the emergency department after colliding with his brother at home. He had immediate nasal swelling and brief epistaxis but no loss of consciousness. Your exam is unremarkable other than what is seen in the image above. Of the following, what is the most appropriate next step in management?
+A: Incision, drainage, and packing of the septum
+EXPLANATION: Septal hematomas are an uncommon complication of nasal trauma. The cartilage in the nose, just like the ear, is avascular and supplied by diffusion from the surrounding layer of perichondrium. A hematoma can form from arterial bleeding beneath this layer separating the cartilage from its blood supply. This can result in cartilage necrosis and eventual nasal deformity or septal perforation if left unrecognized. Immediate recognition of the septal hematoma, incision, drainage, and packing of the septum are required to prevent cartilage necrosis and deformity.
+
+### [PEER-PHYS | PEER-procedures-q-230]
+Q: Which incision should be used to excise an acute thrombosed external hemorrhoid?
+A: Elliptical
+EXPLANATION: Thrombosed external hemorrhoid (within 48-72h): elliptical incision directed radially from anal orifice. Allows clot removal without sutures. Linear incisions cause rethrombosis.
+ARABIC: البواسير الخارجية المتخثرة (خلال 48-72 ساعة): شق بيضوي (elliptical) متجه شعاعيًا من فتحة الشرج. يسمح بإزالة الخثرة دون خياطة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-088]
+Q: A 32-year-old woman with postpartum hemorrhage is receiving a massive transfusion. She has received 12 units of packed red blood cells, 12 units of fresh frozen plasma, and 2 units of platelets. Her ECG now shows a prolonged QT interval, and bedside echocardiogram shows decreased myocardial contractility despite adequate volume resuscitation.
+A: Sodium citrate
+EXPLANATION: Sodium citrate is the anticoagulant used in stored blood products and is responsible for citrate toxicity during massive transfusion. When large volumes of citrated blood products are transfused rapidly, or when liver function is impaired by shock or injury, the liver's ability to metabolize citrate is exceeded. Citrate binds divalent cations, particularly calcium and magnesium, leading to hypocalcemia and hypomagnesemia. Hypocalcemia from citrate toxicity manifests with characteristic cardiac findings including prolonged QT interval and blunting of left ventricular response (decreased contractility), as seen in this patient.
+
+### [PEER-PHYS | PEER-procedures-q-231]
+Q: A 78-year-old woman with a clogged, nonfunctioning gastrostomy feeding tube. What technique to remove the clog should be tried first?
+A: Flushing warm water
+EXPLANATION: Clogged G-tube: first flush with warm water using 60 cc syringe (better than cola/juice). Then commercial decloggers with pancreatic enzymes. Mechanical decloggers last. Replace tube if all fail.
+ARABIC: انسداد أنبوب المعدة: أولًا اغسل بماء دافئ بمحقنة 60 cc. ثم مزيلات الانسداد التجارية بالإنزيمات البنكرياسية. إذا فشل كل شيء، استبدل الأنبوب.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-089]
+Q: An 8-year-old boy presents to the emergency department after suddenly collapsing at school. He arrives with emergency medical service personnel, who are performing chest compressions and ventilations through a supraglottic device, and he is apneic and pulseless. The patient has good chest rise and bilateral breath sounds with the supraglottic device.
+A: 1 ventilation every 2–3 seconds
+EXPLANATION: Performing good chest compressions is difficult but is the most important aspect of cardiopulmonary resuscitation. Chest compressions should be hard (4 cm in infants, 5 cm in most children and in adults), fast (100–120 per minute), and performed with minimal interruptions. Any interruption, however brief, results in a significant drop in coronary and cerebral perfusion and worsens patient outcomes. This is particularly challenging in infants and young children since most cardiopulmonary arrests in patients this age are due to hypoxia, so interruptions for breaths remain necessary in this age group.
+
+### [PEER-PHYS | PEER-procedures-q-232]
+Q: In which situation is placement of a nasogastric tube most indicated?
+A: Abdominal distention in a patient with a small bowel obstruction
+EXPLANATION: NG tube indications: ileus/SBO treatment, medications/contrast, enteral nutrition. No longer routine for hematemesis/massive rectal bleed. Contraindicated: coagulopathy, gastric bypass, midface injury.
+ARABIC: استطبابات الأنبوب الأنفي المعدي: علاج علوص/انسداد الأمعاء، الأدوية/الصبغة، التغذية. لم تعد روتينية للنزف الهضمي. موانع: اعتلال تخثر، تحويل معدي، رضح الوجه.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-090]
+Q: A 14-year-old boy presents to the emergency department with a painful and swollen great toe. This is his third visit to the ED for the same concern. He has tried placing a cotton wedge and using dental floss to raise the nail after soaking his foot in warm water several times per day for the last 2 weeks without improvement.
+A: Partial nail removal
+EXPLANATION: Onychocryptosis (ingrown toenail) is a common occurrence in which the edge of the nail plate penetrates into the skin along the nail fold. This most often occurs in patients with poorly fitting shoes, who have nail trauma or a pincer nail deformity, or who excessively trim the lateral portion of their nail. Mild cases of onychocryptosis involve minimal redness and only mild to moderate pain and can be treated conservatively with a cotton wedge under the nail fold. This should be done three times per day after soaking the affected foot in warm, soapy water for 10–20 minutes.
+
+### [PEER-PHYS | PEER-procedures-q-233]
+Q: A 45-year-old man with massive hematemesis at a rural hospital without GI availability. Intubated, Sengstaken-Blakemore tube placed with initial hemostasis. What is the next step?
+A: Transfer to hospital with GI availability
+EXPLANATION: Sengstaken-Blakemore tube = temporary measure for variceal bleeding. Requires emergent GI for endoscopy. Transfer if GI unavailable. Don't deflate balloon without definitive treatment available.
+ARABIC: أنبوب Sengstaken-Blakemore = إجراء مؤقت لنزف الدوالي. يتطلب تنظير هضمي عاجل. حوّل إذا لم يكن متوفرًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-091]
+Q: Which of the following should be administered to a symptomatic 2-week-old infant with glucose of 25 mg/dL?
+A: 2–5 mL/kg of 10% dextrose
+EXPLANATION: Hypoglycemia is the most common metabolic problem in neonates. A plasma glucose level < 50 mg/dL in the first 48 hours of life and < 60 mg/dL thereafter constitutes hypoglycemia in the newborn. Neonates at greatest risk for hypoglycemia include large for gestational age or small for gestational age newborns, those born to insulin-dependent mothers, those born prematurely, those born with sepsis or from a mother with an intraamniotic infection, and those with inborn errors of metabolism. The clinical presentation of hypoglycemia reflects decreased availability of glucose for the CNS as well as an adrenergic response caused by a decreasing or low blood sugar level.
+
+### [PEER-PHYS | PEER-procedures-q-234]
+Q: Which condition is the best indication for placement of an esophageal balloon tamponade device?
+A: Gastroesophageal varices
+EXPLANATION: Balloon tamponade for bleeding esophagogastric varices (up to 90% control). Contraindicated for gastric ulcer. Relative contraindications: esophageal stricture, recent bariatric surgery, hiatal hernia.
+ARABIC: تطويق بالوني لدوالي المريء والمعدة (تحكم حتى 90%). ممنوع في قرحة المعدة. موانع نسبية: تضيق مريئي، جراحة سمنة حديثة، فتق حجابي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-092]
+Q: A 50-year-old man with a history of tobacco use and stable angina presents to the emergency department for chest pain that began at rest and has not improved despite home aspirin and nitroglycerin administration. His vital signs and examination are unremarkable. ECG is shown above, and his initial troponin is undetectable.
+A: Cardiology consultation and catheterization lab activation
+EXPLANATION: This patient’s history and evaluation are consistent with acute myocardial infarction, most likely involving the right coronary artery. Although there is no ST segment elevation seen in this patient’s ECG, depression of the precordial leads (V1–V4) is consistent with reciprocal elevation of the posterior cardiac tissue. Diagnosis can be confirmed by obtaining a posterior ECG by placing the lateral leads in a posterior position (posterior axillary line, tip of the scapula, and left paraspinous fifth rib space), which will then show ST segment elevation as classically seen with acute myocardial infarction.
+
+### [PEER-PHYS | PEER-procedures-q-235]
+Q: When obtaining informed consent for a tube thoracostomy, what possible complication should be discussed with the patient?
+A: Injury to thoracic or abdominal structures
+EXPLANATION: Tube thoracostomy complications: injury to thoracic/abdominal structures (incorrect placement), bleeding, hemothorax, chylothorax, air leak. Insert in 'triangle of safety' at 4th-5th ICS midaxillary line.
+ARABIC: مضاعفات بضع الصدر الأنبوبي: إصابة بنى صدرية/بطنية، نزف، استرواح دموي، تسرب هواء. الإدخال في 'مثلث الأمان' عند الفراغ 4-5 بين الأضلاع.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-093]
+Q: Which of the following is the most appropriate location for large-bore chest tube placement?
+A: Fourth intercostal space, midaxillary line
+EXPLANATION: A chest tube or tube thoracostomy is a procedure that can drain air, blood, fluid, and purulence from the pleural space. It can stabilize patients under tension physiology that is leading to cardiac dysfunction and hemodynamic instability. This procedure is done with sterile technique. For large pneumothoraces that are not amenable to pigtail catheter treatment, the most common location for chest tube placement is in themidaxillary to anterior axillary line, commonly positioned within the fourth or fifth intercostal space. The tube is placed just above the rib to avoid injuring the neurovascular bundle and is tunneled to create a flap that seals the tract when the tube is removed.
+
+### [PEER-PHYS | PEER-procedures-q-236]
+Q: A patient with spontaneous pneumothorax, SpO2 92%, increased work of breathing. What is the best step in definitive management?
+A: Insert a 20 Fr chest tube in the fourth intercostal space at the midaxillary line
+EXPLANATION: Indications for intervention: abnormal vitals, tension, >20% volume, hemothorax, SpO2 24. 20 Fr adequate for pneumothorax. Large-bore (>24 Fr) if hemothorax.
+ARABIC: استطبابات التدخل: علامات حيوية غير طبيعية، ضاغط، >20% حجم، استرواح دموي، SpO2 24. 20 Fr كافٍ للاسترواح الهوائي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-094]
+Q: A patient with severe asthma presents by EMS for shortness of breath. He was intubated en route to the emergency department for impending respiratory failure. EMS reports progressive hypotension during transport. On arrival, the patient becomes pulseless. His rhythm is shown above. Which of the following medications is most likely to benefit this patient?
+A: Epinephrine
+EXPLANATION: Pulseless electrical activity (PEA) is defined as an organized electrical rhythm without sufficient mechanical ventricular contraction to result in a palpable pulse or measurable blood pressure. PEA is thought to be the presenting rhythm in almost half of cardiac arrests. PEA is a nonperfusing rhythm and requires the immediate initiation of cardiopulmonary resuscitation with chest compressions. Cardiopulmonary resuscitation, epinephrine administration, and recognition and reversal of the underlying cause are the cornerstones of the management of PEA.
+
+### [PEER-PHYS | PEER-procedures-q-237]
+Q: A 72-year-old woman with syncope. Alert, normal vitals. ECG shows paced rhythm with intermittent capture. What management is appropriate?
+A: Order chest x-ray and BMP, and arrange for pacemaker interrogation
+EXPLANATION: Pacemaker malfunction (intermittent capture): stable patient → workup with ECG, BMP, CXR (lead fracture). Interrogate pacemaker. If unstable → transcutaneous pacing.
+ARABIC: خلل الناظم (التقاط متقطع): مريض مستقر → ECG، BMP، CXR (كسر السلك). استجواب الناظم. إذا غير مستقر → تنظيم عبر الجلد.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-095]
+Q: Which of the following best indicates a patient has true labor instead of Braxton-Hicks contractions?
+A: Cervical dilation and effacement with regular contractions
+EXPLANATION: The key feature distinguishing true labor from Braxton-Hicks contractions is progressive cervical dilation and effacement associated with regular, intensifying uterine contractions. In true labor, contractions become more frequent and more painful and occur at regular intervals. This process results in changes to the cervix, which is the hallmark of labor. Emergency physicians must recognize these findings, as they indicate active labor and necessitate obstetric consultation or transfer to a labor-capable facility, if one is not immediately available.
+
+### [PEER-PHYS | PEER-procedures-q-238]
+Q: What effect will placing a magnet over a patient's pacemaker have on pacemaker function?
+A: Set the pacemaker at a fixed rate
+EXPLANATION: Magnet over pacemaker: asynchronous fixed-rate pacing (usually 60 bpm). Magnet over AICD: inhibits shocks but keeps pacing.
+ARABIC: المغناطيس فوق الناظم: تنظيم غير متزامن بمعدل ثابت (عادة 60 نبضة/دقيقة). فوق AICD: يمنع الصدمات لكن يبقي التنظيم.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-096]
+Q: A 59-year-old woman who recently emigrated from India presents to the ED with 2 weeks of fevers, night sweats, and cough. A chest X-ray is shown above. Which of the following are the recommended precautions for this patient’s suspected diagnosis?
+A: Airborne precautions
+EXPLANATION: The Centers for Disease Control and Prevention (CDC) promotes two tiers of precautions: standard and transmission-based. Standard precautions include the use of gloves, gowns, masks, and shields when there is a chance of contact with blood, secretions, contaminated items, or during simple tasks and procedures that increase the risk of contact with the above. There are three transmission-based precautions, including airborne, droplet, and contact. These precautions should be used in addition to the standard precautions.
+
+### [PEER-PHYS | PEER-procedures-q-239]
+Q: An 87-year-old woman with syncope, BP 87/42, P 27. Complete AV block with wide QRS. Atropine ineffective. What is the most appropriate next intervention?
+A: Transcutaneous pacing
+EXPLANATION: Third-degree AV block with wide QRS (below AV node) - atropine ineffective. Second-line: transcutaneous pacing, dopamine, or epinephrine. Pace pads on all atropine-refractory bradycardia.
+ARABIC: حصار AV ثلاثي الدرجة مع QRS واسع (تحت العقدة) - الأتروبين غير فعال. الخط الثاني: تنظيم عبر الجلد، دوبامين، إبينفرين.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-097]
+Q: A 37-year-old man with morbid obesity and bilateral below-the-knee amputations presents with septic shock. Attempts at peripheral access are unsuccessful. Which is an appropriate site for intraosseous access?
+A: Proximal humerus
+EXPLANATION: The ability to insert an intraosseous (IO) vascular access device is an essential skill in the care of critically ill patients. Particularly in children, peripheral access can be difficult, and central lines may be technically complicated. In adults, many conditions such as obesity, history of intravenous drug use, sickle cell disease, and end-stage kidney failure make vascular access challenging. Success rates on the first attempt of IO access are high, and the availability of commercial devices makes it technically easy. Long bones are highly vascular structures with a rich medullary sinus bed that rapidly drains into the central circulation.
+
+### [PEER-PHYS | PEER-procedures-q-240]
+Q: What is an indication for overdrive pacing?
+A: Torsades de pointes
+EXPLANATION: Overdrive pacing for refractory torsades de pointes (magnesium-resistant). Increases heart rate → shortens QT. Goal HR 90-110. Transvenous preferred.
+ARABIC: التنظيم المتسارع (overdrive pacing) لـ torsades de pointes المقاوم للمغنيزيوم. زيادة معدل القلب → تقصير QT. الهدف 90-110.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-098]
+Q: A 19-year-old woman with a medical history of fibromyalgia and chronic back pain presents to the emergency department with fever, headache, and altered mental status. She was involved in a motor vehicle collision 2 days prior. Serum and urine studies are sent along with blood cultures. A noncontrast head CT is obtained and is unremarkable.
+A: Lumbar vertebral fracture
+EXPLANATION: A lumbar puncture should be performed on patients suspected of having meningitis or other infectious causes of headache or altered mental status. However, the benefits of the procedure must be weighed against the risks and any contraindications. Lumbar puncture is contraindicated in patients with vertebral trauma (e.g., lumbar vertebral fracture), overlying skin infection, CNS mass causing increased intracranial pressure, spinal mass (excluding metastatic disease), platelet count < 20,000 cells/mm3, or coagulopathy (e.g., von Willebrand disease, hemophilia, recent administration of heparin).
+
+### [PEER-PHYS | PEER-procedures-q-241]
+Q: What is the proper interpretation of 'VOO' mode for transvenous pacing?
+A: Ventricular pacing, no sensing, no response
+EXPLANATION: NBG code: 1st letter = chamber paced, 2nd = chamber sensed, 3rd = response. VOO = ventricular only, no sensing, no response (asynchronous). DOO is also common. VVI = ventricular sensed, inhibited.
+ARABIC: رمز NBG: الحرف 1 = الحجرة المنظَّمة، 2 = الحجرة المحسوسة، 3 = الاستجابة. VOO = بطيني، بدون تحسس، بدون استجابة (غير متزامن).
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-099]
+Q: Which of the following represents an appropriate indication for routine treatment with antibiotics following incision and drainage of a subcutaneous abscess?
+A: Anogenital infection location
+EXPLANATION: Cutaneous abscesses are among the most common soft tissue infections encountered in acute care practice, with the majority of cases caused by Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA). The pathogenesis involves bacterial inoculation through breaks in the skin barrier, followed by local tissue invasion, neutrophil recruitment, and liquefactive necrosis that creates a purulent collection walled off by granulation tissue. Clinical presentation typically includes a tender, fluctuant, erythematous nodule with surrounding warmth and induration. Diagnosis is primarily clinical, based on the characteristic findings of fluctuance and localized tenderness.
+
+### [PEER-PHYS | PEER-procedures-q-242]
+Q: What is the appropriate final resting location for a transvenous pacing wire?
+A: Right ventricle
+EXPLANATION: Transvenous pacer wire → right ventricle. Confirm with electromechanical capture. CXR after placement. Complications: bleeding, infection, pneumothorax, dislodgement.
+ARABIC: سلك الناظم عبر الوريد → البطين الأيمن. تأكيد بالالتقاط الكهربائي الميكانيكي. CXR بعد الإدخال.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-100]
+Q: A 32-year-old man presents after a high-speed motor vehicle collision with sudden left-sided chest pain and shortness of breath. His vital signs are a T of 36.9°C (98.4°F), BP of 112/76 mm Hg, HR of 114 bpm, RR of 24/min, and SpO2 of 92% on room air. A portable chest X-ray is shown above. Which of the following is most likely to be seen on thoracic ultrasound?
+A: Stratosphere sign
+EXPLANATION: Thoracic ultrasound has become an essential tool in the rapid diagnosis of pneumothorax in the ED, particularly as part of the e-FAST protocol. Compared to chest radiography, ultrasound is more sensitive for anterior pneumothoraces, especially in supine trauma patients, in whom air accumulates anteriorly. A high-frequency linear transducer is typically used to assess the pleural line in multiple intercostal spaces, starting at the anterior chest. A hallmark finding of pneumothorax on thoracic ultrasound is the stratosphere sign, also known as the barcode sign, which refers to parallel horizontal lines above and below the pleural line on M mode.
+
+### [PEER-PHYS | PEER-procedures-q-243]
+Q: What is the preferred access site for placement of a transvenous pacemaker?
+A: Right internal jugular vein
+EXPLANATION: Preferred: right internal jugular (most direct). Second: left subclavian (reserved for cardiology permanent pacer). Femoral requires long threading, higher infection.
+ARABIC: المفضل: الوداجي الداخلي الأيمن (الأكثر مباشرة). الثاني: تحت الترقوة الأيسر (محجوز للناظم الدائم). الفخذي يتطلب تمرير طويل وعدوى أعلى.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-101]
+Q: Which of the following findings on exam meets criteria for management with nail trephination?
+A: 55% subungual hematoma with intact nail margins but no involvement of the lunula
+EXPLANATION: A 55% subungual hematoma with intact nail margins but no involvement of the lunula is correct as nail trephination is indicated for subungual hematomas that involve > 50% of the affected fingernail, do not involve the lunula (the origin of new nail growth), and do not show signs that signify a high likelihood of nail bed disruption. These signs include lacerations around the margin of the fingernail or in the nail surface. Routine evaluation of the injury should include assessment of joint function, blood supply to the distal phalanx, and sensory testing, all of which provide information about the severity of the injury. Plain X-rays reveal underlying fractures.
+
+### [PEER-PHYS | PEER-procedures-q-244]
+Q: An 80-year-old woman with syncope, BP 90/48, P 30. Complete AV block with narrow QRS. Atropine improves HR. What is the next step if vitals worsen?
+A: Repeat atropine dose
+EXPLANATION: Atropine-sensitive bradyarrhythmia (narrow QRS, AV nodal) → redose atropine up to 3 mg every 3-5 min. If fails → pacing/dopamine/epinephrine.
+ARABIC: بطء قلب حساس للأتروبين (QRS ضيق، عقدي AV) → أعد جرعة الأتروبين حتى 3 mg كل 3-5 دقائق. إذا فشل → تنظيم/دوبامين/إبينفرين.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-102]
+Q: Which of the following is a contraindication to intraosseous line placement?
+A: Previous orthopedic surgery at the insertion site
+EXPLANATION: Intraosseous (IO) access is a critical skill in emergency medicine, providing a rapid and reliable route for medication and fluid administration when conventional peripheral intravenous (PIV) access is difficult or impossible to obtain. The most appropriate indication for immediate IO access is in a life-threatening emergency when vascular access is urgently required, and PIV access has failed or cannot be established promptly. Cardiac arrest is a prime example of such a scenario. During cardiac arrest, every second counts, and delayed medication administration can significantly impact patient outcomes.
+
+### [PEER-PHYS | PEER-procedures-q-245]
+Q: In which scenario is cardioversion most indicated?
+A: 63-year-old woman with a history of hypertension and diabetes presenting with chest pain and diaphoresis with an ECG demonstrating a wide-complex tachycardia
+EXPLANATION: Unstable tachyarrhythmia → cardioversion. Wide-complex tachycardia = VT. MAT does not respond to cardioversion. Bradyarrhythmias → pacing.
+ARABIC: تسرع نظمي غير مستقر → تقويم كهربائي. تسرع معقد واسع = VT. MAT لا يستجيب للتقويم. بطء القلب → تنظيم.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-103]
+Q: A 27-year-old man is diagnosed with a large spontaneous pneumothorax. After the performance of a tube thoracostomy, what is the easiest way to check for an air leak?
+A: Have the patient cough and look for bubbles in the water seal chamber
+EXPLANATION: In the case of a spontaneous pneumothorax, an injury to the patient’s bronchial tree causes air to leak into the pleural space leading to a collapse of the lung. After insertion of the chest tube (tube thoracostomy), the lung should reinflate. When placed on suction, this negative pressure allows continuous expansion until the injury heals itself. An air leak in the system indicates the presence of continuous bronchial injury or possibly a problem with the mechanics of the chest tube system. If an air leak exists and the patient coughs, this generates positive flow through the bronchial system and will cause air bubbles to form in the water seal chamber.
+
+### [PEER-PHYS | PEER-procedures-q-246]
+Q: A 55-year-old man with syncope, on apixaban, diaphoretic, altered mental status. BP 75/38, P 152, SpO2 92%. ECG shows atrial fibrillation. What is the best next step?
+A: Synchronized cardioversion 200 J
+EXPLANATION: Unstable atrial fibrillation with RVR (hypotension, altered mental status) → synchronized cardioversion. Patient on anticoagulant (minimizes thrombus risk). Monophasic 200J, biphasic 120-200J.
+ARABIC: رجفان أذيني غير مستقر مع RVR (هبوط ضغط، تغير وعي) → تقويم كهربائي متزامن. المريض على مضاد تخثر.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-104]
+Q: A 68-year-old man presents to the emergency department with a sudden painless loss of vision in his right eye. He began seeing small black dots in his right medial visual field 3 days ago. Today, he suddenly lost the inferior visual field in his right eye “like a curtain being pulled up.” He reports no pain with extraocular movements.
+A: Retinal detachment
+EXPLANATION: Retinal detachment is an ophthalmologic emergency in which the retina detaches from the underlying tissue. This is a cause of acute painless loss of vision. Etiologies include trauma, progressive diabetes-related retinopathy, exudative fluid accumulation, or excessive intravitreal traction on the retina. Over time, small holes are created in the retina through which intraocular fluid may travel and layer behind the retina, creating a nidus for future detachment. This is the most common mechanism leading to detachment and is termed rhegmatogenous retinal detachment. Patients initially experience unilateral floaters or flashes of light, followed by a cloudy or curtain-like loss of vision.
+
+### [PEER-PHYS | PEER-procedures-q-247]
+Q: A 60-year-old man with sudden-onset chest pain radiating to back, pale, diaphoretic. ECG finding that indicates additional posterior leads should be obtained?
+A: ST-segment depression in leads V1 and V2
+EXPLANATION: Posterior MI: ST depression in V1-V2, tall R in V1-V2. Order posterior leads (V7-V9). ST elevation ≥0.5 mV in any posterior lead = acute MI.
+ARABIC: احتشاء خلفي: انخفاض ST في V1-V2 وموجة R طويلة. اطلب الخيوط الخلفية (V7-V9). ارتفاع ST ≥0.5 mV = احتشاء حاد.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-105]
+Q: A 25-year-old man presents to the emergency department with a laceration to his right leg sustained yesterday while working on a construction site. He did not want to leave work at the time, so went home overnight and presents for evaluation this afternoon. He reports no other injuries. On his right lateral lower leg, he has a 5 cm laceration with surrounding dried blood.
+A: Clean tap water
+EXPLANATION: This patient is presenting with an acute disruption of the skin, a very common concern in the emergency department. Wounds need to be well vascularized, free of devitalized tissue, clear of infection, and moist to allow for adequate healing. It is imperative for the emergency clinician to understand these requirements. First, wounds with devitalized tissue or contamination require debridement prior to further wound care. Wounds should also be evaluated for foreign material that needs to be removed. Irrigation of the wound should occur to remove loose material and decrease the bacterial load. All wounds are colonized with microbes, but not all wounds are infected.
+
+### [PEER-PHYS | PEER-procedures-q-248]
+Q: A 60-year-old man with pressure-like chest pain. ECG: ST elevation in I, aVL with ST depressions in III, aVF, V1-V3. What is the diagnosis?
+A: Lateral STEMI
+EXPLANATION: Lateral STEMI: ST elevation in I, aVL (high lateral) with reciprocal changes in III, aVF, V1-V3. Left circumflex or first diagonal (D1) branch of LAD. If V1-V4 also involved → proximal/mid LAD.
+ARABIC: احتشاء جانبي: ارتفاع ST في I, aVL مع تغيرات متبادلة. الشريان المنعطف الأيسر أو الفرع القطري الأول.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-106]
+Q: A 21-year-old man presents to the ED with sore throat, muffled voice, and difficulty opening his mouth. On physical exam, you note the above. What structure must be avoided in the treatment of this disease process?
+A: Internal carotid artery
+EXPLANATION: This patient is exhibiting signs and symptoms of a peritonsillar abscess (PTA). These abscesses are typically polymicrobial in etiology. Signs and symptoms of a PTA include fever, trismus, hot potato or muffled voice, and contralateral uvular deviation. Management of a PTA is by needle aspiration or incision and drainage, and antibiotics. In order to avoid the internal carotid artery, which sits behind the peritonsillar fossa, a needle sheath should be used to control puncture depth. Aspiration should be undertaken in the soft palate at the point of maximal abscess fluctuance. Medial and superior aspiration are safer from the standpoint of avoiding injury to the carotid artery.
+
+### [PEER-PHYS | PEER-procedures-q-249]
+Q: A 25-year-old asymptomatic man with ECG showing J-point elevation, concave ST segments, no reciprocal changes. What is the diagnosis?
+A: Benign early repolarization
+EXPLANATION: BER: J-point elevation, concave ST, no reciprocal changes, no T-wave inversions. Most prevalent in precordial and inferior leads. Common in young healthy patients.
+ARABIC: إعادة الاستقطاب المبكرة الحميدة (BER): ارتفاع نقطة J، ST مقعر، لا تغيرات متبادلة، لا انقلاب T. شائعة في الشباب الأصحاء.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-107]
+Q: Which anatomic space is most likely to contain free fluid on an eFAST examination of a trauma patient?
+A: Hepatorenal space
+EXPLANATION: The eFAST exam is an important part of the trauma evaluation for suspected blunt and penetrating abdominal injuries. An anechoic stripe found on eFAST suggests the presence of free fluid. In the supine position, free fluid will travel toward the more dependent portions of the abdomen and chest. As a result, the eFAST exam focuses on evaluating the following areas for free fluid: Morison pouch (hepatorenal space), splenorenal recess, pouch of Douglas (retrouterine or rectovesicular space), pericardium, and pleura. Gravity causes free intraperitoneal fluid to collect in the dependent portions of the peritoneal cavity.
+
+### [PEER-PHYS | PEER-procedures-q-250]
+Q: A 60-year-old with chest pain. ECG shows widened QRS >120 ms, broad notched R in I, aVL, V5-V6, large S in V1. What is the diagnosis?
+A: Left bundle-branch block
+EXPLANATION: LBBB: QRS >120 ms, broad notched R in I/aVL/V5-V6, discordant T inversions, large S in V1. Use modified Sgarbossa criteria for STEMI.
+ARABIC: حصار الفرع الأيسر (LBBB): QRS >120 ms، موجة R عريضة مُسننة في I/aVL/V5-V6، انقلاب T متنافر، موجة S كبيرة في V1. استخدم معايير Sgarbossa المعدلة.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-108]
+Q: A 69-year-old woman with a history of heavy alcohol use presents with fever, dyspnea, and altered mental status. The family reports that she has been coughing for the last few days. On examination, she is febrile with a respiratory rate of 32/min, heart rate of 118 bpm, blood pressure of 106/59 mm Hg, and oxygen saturation of 82% on room air.
+A: 300 mL
+EXPLANATION: This patient has signs and symptoms of acute respiratory distress syndrome (ARDS). It is characterized by bilateral pulmonary infiltrates and severe hypoxemia in the absence of evidence of cardiogenic pulmonary edema. Symptoms typically develop within 12–48 hours of an inciting event. The most common cause of ARDS is sepsis, but it can also be the result of trauma, drug overdose, aspiration, and acute pancreatitis. Patients will be hypoxic, typically with a PaO2/FiO2 of 300 or less. Arterial blood gas will also show a respiratory alkalosis early in the course, which gives way to respiratory acidosis as symptoms worsen.
+
+### [PEER-PHYS | PEER-procedures-q-251]
+Q: Which ECG finding would suggest left ventricular hypertrophy?
+A: R wave amplitude in V5 of 30 mm
+EXPLANATION: LVH criteria: R in V5 or V6 + S in V1 or V2 >35 mm; R in V5 >26 mm; R in V6 >18 mm; largest R + largest S >45 mm. Can mimic ischemia (ST depression/T inversion in V4-V6).
+ARABIC: معايير LVH: R في V5 أو V6 + S في V1 أو V2 >35 mm؛ R في V5 >26 mm؛ R في V6 >18 mm.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-109]
+Q: A 4-year-old child who was properly restrained in a major motor vehicle collision is almost ready for discharge from the ED. A full trauma evaluation revealed no major injuries other than a 4 cm contaminated laceration over his upper left arm. His guardian was also injured in the collision and is unable to provide information regarding the child’s immunizations.
+A: Administer DTaP vaccine and tetanus immune globulin
+EXPLANATION: Clostridium tetani is a ubiquitous organism that can release a neurotoxin in contaminated wounds, leading to generalized muscle spasms and isotonic contractions. It is a clinical diagnosis, and culture yield is poor. It most commonly affects infants in resource-limited nations due to a lack of maternal immunity. Children in the United States receive the DTaP vaccine at 2, 4, 6, and 18 months. An additional dose is given at 4–6 years of age, followed by Tdap vaccination between 11 and 12 years of age. Recommendations for tetanus prophylaxis depend on the severity of the wound and the number of previous doses the patient has received. Td or Tdap is not used until the patient is > 7 years old.
+
+### [PEER-PHYS | PEER-procedures-q-252]
+Q: A 70-year-old man with sudden severe headache, slow to respond, BP 220/90, P 58. ECG shows deep precordial T waves. What is the most likely diagnosis?
+A: Intracranial hemorrhage
+EXPLANATION: Cerebral T waves (deep precordial T inversions) + Cushing reflex (hypertension + bradycardia) = ICH, especially SAH. Mimic ACS on ECG.
+ARABIC: موجات T دماغية (انقلاب T عميق في الخيوط الصدرية) + منعكس Cushing (ارتفاع ضغط + بطء قلب) = نزف داخل القحف، خاصة SAH.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-110]
+Q: Which of the following measurements can be used as a marker to assess for the presence of increased intracranial pressure?
+A: Optic nerve sheath diameter
+EXPLANATION: Ocular ultrasound can be used in the emergency setting to aid in the evaluation of globe trauma, vitreous hemorrhage, intraocular foreign bodies, and retinal detachment. It has also been found to be an easy method of assessing intracranial pressure. A normal optic nerve sheath diameter is up to 5 mm in adults, 4.5 mm in children, and 4.0 mm in infants. Using a high resolution linear array transducer, the diameter of the optic nerve sheath is measured 3 mm behind the globe. The average of three measurements is taken for each eye.
+
+### [PEER-PHYS | PEER-procedures-q-253]
+Q: A 75-year-old woman with CKD presents with lightheadedness, vomiting. ECG shows peaked T waves and shortened QT. What is the next best treatment?
+A: Administer intravenous calcium
+EXPLANATION: Hyperkalemia with ECG changes → IV calcium immediately (membrane stabilization). Do not wait for labs. Then insulin/dextrose, albuterol, dialysis if needed.
+ARABIC: فرط البوتاسيوم مع تغيرات ECG → كالسيوم وريدي فورًا (تثبيت الغشاء). لا تنتظر التحاليل.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-111]
+Q: A 45-year-old man presents with septic shock, and a decision is made to place a triple-lumen central line. Which of the following formulas represents the correct approximate depth of placement?
+A: Right internal jugular vein: height (cm)/10
+EXPLANATION: The optimal location for the tip of a triple-lumen catheter is the junction of the superior vena cava with the right atrium (for internal jugular and subclavian lines). In order to reach this position, the average distances must be known. Placement of a catheter too deep may lead to irritation of the myocardium or turbulent blood flow within the atrium. Placement of the catheter too shallow may lead to inappropriate delivery of medications and fluids through the catheter. This is a particular issue during the infusion of vasoactive substances. A formula can be used to estimate the appropriate depth of placement of a central venous line based on the placement site.
+
+### [PEER-PHYS | PEER-procedures-q-254]
+Q: A 56-year-old with lightheadedness, nausea, vomiting. ECG shows QRS widening, ST changes, P-wave flattening. What electrolyte abnormality?
+A: Hyperkalemia
+EXPLANATION: Hyperkalemia progression: peaked T → shortened QT → QRS widening → P flattening → sine wave → cardiac arrest. Findings not stepwise - patient can have severe hyperkalemia with normal ECG.
+ARABIC: تطور فرط البوتاسيوم: T مدببة → QT قصير → QRS واسع → P مسطحة → موجة جيبية → توقف قلبي.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-112]
+Q: An 8-year-old girl presents to the emergency department with right eye pain after hitting a low-hanging leafy tree branch while riding her bicycle. Which of the following may be interfered with by a fluorescein stain in this patient?
+A: Inspecting the anterior chamber
+EXPLANATION: Fluorescein is a fluorescent, green-orange dye that has a low affinity for intact corneal epithelium but high affinity for the basement membrane of the cornea. When applied to the eye, it highlights any epithelial defects, especially when visualized with a cobalt blue filter on an ophthalmoscope or with a black light (i.e., Wood lamp). Fluorescein is typically supplied as a fluorescein-impregnated paper strip due to its low solubility in water. Fortunately, the affinity for the basement membrane is so high that very little is needed to highlight any corneal epithelial defects.
+
+### [PEER-PHYS | PEER-procedures-q-255]
+Q: A man with ESRD and pacemaker for sick sinus syndrome presents with syncope, missed 3 dialysis sessions. ECG shows pacemaker spikes with sine wave between. What is definitive management?
+A: Emergent hemodialysis
+EXPLANATION: Severe hyperkalemia in ESRD: IV calcium (membrane stabilization) + emergent dialysis. Insulin/dextrose only temporizing. Start dialysis process immediately.
+ARABIC: فرط بوتاسيوم شديد في ESRD: كالسيوم وريدي + غسيل كلى طارئ. الإنسولين/دكستروز مؤقت فقط.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-113]
+Q: Which of the following cerebrospinal fluid analyses is most consistent with viral meningitis?
+A: WBC 425 cells/µL, glucose 75 mg/dL, protein 90 mg/dL
+EXPLANATION: Normal adult cerebrospinal fluid (CSF) contains no more than 5 leukocytes/µL. WBCs > 5 cells/µL may be suggestive of central nervous system infection. Below is a table representing the typical spinal fluid results for meningeal processes. Although the diagnosis of viral meningitis is often straightforward, there can be an overlap of CSF findings in patients with early and partially treated bacterial meningitis, making the distinction somewhat difficult. Moreover, while neutrophils tend to predominate in bacterial meningitis, they may be present in the CSF for the first 24 hours with viral meningitis. Enteroviruses are the most common cause of viral meningitis infections.
+
+### [PEER-PHYS | PEER-procedures-q-256]
+Q: A 70-year-old with SOB, pain radiating to neck and back. ECG shows ST elevation >2 mm in V1-V4. What is the most likely cause?
+A: Left anterior descending artery occlusion
+EXPLANATION: Anterior/anteroseptal STEMI: ST elevation V1-V4 = LAD ('widowmaker'). Most commonly affected coronary artery in STEMI. High morbidity/mortality if not promptly treated.
+ARABIC: احتشاء أمامي/أمامي حاجزي: ارتفاع ST في V1-V4 = LAD ('صانع الأرامل'). الأكثر إصابة في STEMI.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-114]
+Q: A 26-year-old man with no significant medical history presents with a painful erection that has been present for 4 hours. You decide to perform an aspiration. If the dorsal midline is considered to be 12 o’clock, which of the following is the best way to approach this procedure?
+A: Aspirate at 10 or 2 o’clock
+EXPLANATION: This patient is presenting with ischemic priapism. Priapism can be divided into two general categories: ischemic (low flow) and non-ischemic (high flow). High-flow priapism is typically painless and usually is associated with trauma, congenital anomaly, or fistula leading to excessive inflow. Priapism can also be associated with spinal cord injury, which can occur anywhere along the cord, leading to a high-flow state. This vignette describes a case of painful priapism, which is most commonly ischemic, or low flow. In ischemic priapism, the prolonged low-flow state can be caused by blood dyscrasias (such as sickle cell disease), medications, and cancers.
+
+### [PEER-PHYS | PEER-procedures-q-257]
+Q: A 55-year-old with chest pain. During ECG analysis, what finding would be consistent with evolving STEMI?
+A: Hyperacute T waves
+EXPLANATION: Evolving STEMI: hyperacute T waves (earliest) → ST elevation → Q waves → T inversions. De Winter T waves (hyperacute T + ST depression in precordial leads) = STEMI equivalent.
+ARABIC: STEMI المتطور: موجات T فرط الحدة (الأبكر) → ارتفاع ST → موجات Q → انقلاب T. موجات De Winter = مكافئ STEMI.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-115]
+Q: Which of the following is an indication for a resuscitative hysterotomy in a pregnant patient who loses a pulse?
+A: Fundus at the level of the xiphoid
+EXPLANATION: A resuscitative hysterotomy (perimortem cesarean section) is performed in pregnant patients in cardiac arrest with uterine size above the umbilicus (gestational age > 20–24 weeks). A uterine fundus at the level of the xiphoid in a pregnant patient in cardiac arrest meets the criteria for resuscitative hysterotomy. It should be performed within 4 minutes of cardiac arrest and should be completed by 5 minutes after arrest for the best outcome. This procedure increases the venous return and cardiac output and can improve maternal hemodynamics for a better outcome for the fetus. A scalpel, large scissors, and hemostats are needed.
+
+### [PEER-PHYS | PEER-procedures-q-258]
+Q: ST elevation would be expected in which ECG leads in an inferior STEMI?
+A: II, III, and aVF
+EXPLANATION: Inferior STEMI: ST elevation II, III, aVF. 80% right coronary artery (RCA). Risk of RV infarction - avoid nitroglycerin (preload reduction worsens RV failure).
+ARABIC: احتشاء سفلي: ارتفاع ST في II, III, aVF. 80% الشريان التاجي الأيمن (RCA). خطر احتشاء RV - تجنب النيتروغليسرين.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-116]
+Q: An 11-year-old boy presents to the emergency department after falling on his wrist in the playground. He has been crying, and the wrist appears swollen and deformed. Radiographs confirm displaced distal radial and ulnar fractures with angulation. You decide to attempt to reduce the fractures before splinting and referring to orthopedics.
+A: Ketamine
+EXPLANATION: Care of children in the emergency department for painful or anxiety-provoking procedures can be challenging for the emergency clinician. Children may require sedative or analgesic treatment for a variety of reasons, including fracture reduction, joint reduction, laceration repair, and imaging studies. The need for treatment depends on the age of the patient, their ability to cooperate with the procedure, and the degree of underlying anxiety that already exists. It can be time-consuming to rely on nonpharmacologic techniques, such as positive reinforcement, distraction, and relaxation. And often, nonpharmacologic interventions do not work well enough.
+
+### [PEER-PHYS | PEER-procedures-q-259]
+Q: A patient with lightheadedness, BP 90/60, P 40. ECG shows regular narrow QRS with no P waves. What is the best interpretation?
+A: Junctional bradycardia
+EXPLANATION: Junctional bradycardia: HR 40-60, narrow QRS, regular, no P waves. SA node dysfunction → AV node/bundle of His pacemaker. Treatment: transcutaneous/transvenous pacing.
+ARABIC: بطء قلب عقدي (junctional bradycardia): معدل 40-60، QRS ضيق، منتظم، لا موجات P. خلل العقدة الجيبية.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-117]
+Q: A 20-year-old man is brought to the emergency department by police for violent and aggressive behavior. He is yelling and threatening the medical staff. He will not sit still for a physical examination. Which of the following is the most appropriate next step?
+A: Remain calm and allow the patient to vent his feelings
+EXPLANATION: Mental health disorders are commonly encountered in the emergency department. It is important to establish and maintain a safe environment for patients, families, and medical personnel. ED staff should be equipped with knowledge and skills to protect themselves, even if security officers and police are often readily available. To minimize danger in potentially threatening situations, certain behaviors and actions can be utilized. Medical personnel should keep a safe distance from the patient, remain calm, and allow the patient to vent his or her feelings. Avoid excessive eye contact, and do not allow the patient to block any exit from the clinician.
+
+### [PEER-PHYS | PEER-procedures-q-260]
+Q: What is the best interpretation of this ECG (progressive PR prolongation until dropped beat)?
+A: Second-degree heart block Mobitz type I
+EXPLANATION: Wenckebach: progressive PR prolongation → dropped beat (P without QRS). Usually benign, can be normal in athletes. Symptomatic → atropine.
+ARABIC: فينكيباخ (Wenckebach): تطويل PR تدريجي → نبضة ساقطة. عادة حميد، طبيعي عند الرياضيين. أعراض → أتروبين.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-118]
+Q: A 72-year-old patient with COPD presents to the ED with significant respiratory distress requiring intubation. A postintubation arterial blood gas is obtained, revealing a pH of 7.10, PCO2 of 94 mm Hg, PO2 of 94 mm Hg, and SpO2 of 95%. Which of the following ventilatory changes should be considered first to improve this patient’s blood gas analysis?
+A: Increasing the respiratory rate
+EXPLANATION: Increasing the respiratory rate is the most appropriate first ventilatory change to address this patient’s severe respiratory acidosis with hypercapnia. This patient has severe respiratory acidosis (pH of 7.10, PCO2 of 94 mm Hg) but adequate oxygenation (PO2 of 94 mm Hg, SpO2 of 95%). The primary goal is to increase carbon dioxide elimination by augmenting minute ventilation. The product of tidal volume and respiratory rate determines minute ventilation, which predominantly affects PCO2 and pH. Increasing the respiratory rate is preferred over increasing tidal volume in this patient with COPD for several important reasons.
+
+### [PEER-PHYS | PEER-procedures-q-261]
+Q: A 70-year-old with dizziness. ECG shows constant PR interval with intermittent dropped beats. What is definitive management?
+A: Pacemaker placement
+EXPLANATION: Mobitz type II: constant PR, intermittent dropped beats. Structural damage to AV conduction system. Higher risk of progression to third-degree block. Pacemaker required.
+ARABIC: Mobitz type II: PR ثابت، نبضات ساقطة متقطعة. ضرر بنيوي لنظام التوصيل AV. خطر تطور لحصار كامل. يتطلب ناظمًا.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-119]
+Q: A 62-year-old man presents with acute onset of chest pain with radiation to the shoulders and nausea while walking his dog. On examination, he is diaphoretic with HR 94 bpm, RR 20/min, BP 92/59 mm Hg, and SpO2 96% on room air. His ECG reveals 2 mm ST elevation in lead aVR with 1 mm ST elevation in lead V1 and ST depressions in leads I, II, and aVL.
+A: Left main coronary artery
+EXPLANATION: ST segment elevation in lead aVR > 1 mm or greater than the ST elevation seen in lead V1 is most concerning for occlusion or subocclusion of the left main coronary artery. In addition to elevation in aVR, diffuse horizontal ST depression will be seen, most prominently in leads I, II, and V4–6. The degree of ST elevation in aVR correlates with increased mortality and also distinguishes left main coronary artery occlusion from left anterior descending artery occlusion with a sensitivity and specificity of approximately 80%.
+
+### [PEER-PHYS | PEER-procedures-q-262]
+Q: A 20-year-old athlete with cough, normal vitals. ECG shows progressive PR prolongation with dropped beat. What is the appropriate management?
+A: No treatment
+EXPLANATION: Mobitz type I (Wenckebach) in asymptomatic athlete = normal (high vagal tone). No treatment. If symptomatic → atropine, rarely pacemaker.
+ARABIC: Mobitz type I (Wenckebach) في رياضي بدون أعراض = طبيعي (نغمة مبهمية عالية). لا علاج.
+
+### [ROSH | rosh-em-initial-2026-procedures-and-skills-q-120]
+Q: A 25-year-old man presents to the ED as the unrestrained front-seat passenger involved in a high-speed motor vehicle collision that resulted in significant front-end damage. The patient reports severe pelvic pain. His vital signs are within normal limits for his age. His pelvis is stable to bimanual internal compression. He has blood at the urethral meatus and suprapubic tenderness.
+A: Retrograde urethrogram
+EXPLANATION: This patient has blood at the urethral meatus following blunt trauma in a motor vehicle collision, an important clinical sign that suggests urethral injury, most likely an anterior urethral injury (often bulbar) or a posterior urethral disruption in the setting of high-energy trauma. In patients with suspected urethral injury, especially in the setting of perineal trauma, pelvic pain, inability to void, or blood at the urethral meatus, the first diagnostic test should be a retrograde urethrogram. This imaging study involves instilling contrast into the urethra, followed by X-ray, allowing direct visualization of any extravasation, strictures, or complete disruption.

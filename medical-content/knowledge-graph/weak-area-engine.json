@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14",
+  "origin": "SEG Phase 4-F.1 Weak Area Intelligence Layer. Deterministic pipeline: Wrong Question → topicId → Repeated Errors → Weak Topic → Recommended Action. No Dashboard mutation; no new topics; no guessed mappings. Thresholds are calibration-ready.",
+  "pipeline": [
+    "Wrong Question",
+    "topicId (via qbank-topic-mapping.json)",
+    "Repeated Errors (per topicId)",
+    "Weak Topic (threshold + accuracy rule)",
+    "Recommended Action (Algorithm / Pearl / Summary / Questions)"
+  ],
+  "config": {
+    "repeatedErrorThreshold": 3,
+    "minAttemptsForWeak": 3,
+    "accuracyThreshold": 70,
+    "notes": "Thresholds are calibration-ready; change only with paired outcome data and review note (see CALIBRATION_LAYER.md)."
+  },
+  "recommendedActions": [
+    { "type": "Review Algorithm", "contentType": "Algorithm", "description": "Review the topic's management/diagnostic algorithm from the global layer." },
+    { "type": "Review Exam Pearl", "contentType": "Exam Pearl", "description": "Review the topic's exam pearls." },
+    { "type": "Read Summary", "contentType": "Summary", "description": "Read the topic's book summary (Tintinalli/Rosen) via book-topic-mapping." },
+    { "type": "Solve Related Questions", "contentType": "MCQ", "description": "Solve related Qbank questions for the same topicId (HAS_QUESTIONS)." }
+  ],
+  "inputs": {
+    "qbankTopicMapping": "medical-content/emergency-board/knowledge-graph/qbank-topic-mapping.json (canonical) + mirror at medical-content/knowledge-graph/qbank-topic-mapping.json",
+    "topicRegistry": "medical-content/knowledge-graph/topic-registry.json (22 canonical topics)",
+    "questionPerformance": "Runtime attempts: { questionId, correct } — Qbank history or in-session attempts; unmapped questions are ignored, never guessed."
+  },
+  "outputs": {
+    "weakAreas": "Array of { topicId, topicName, system, errorCount, totalAttempts, accuracy, isWeak, recommendedActions, reason } sorted by errorCount → accuracy → topicId"
+  },
+  "invariants": "Zero new topics; zero book/Qbank/Dashboard/engine edits in this phase; unmapped questions stay out of graph.",
+  "example": {
+    "attempts": [
+      { "questionId": "qbank-frcem:Q_ACS_001", "correct": false },
+      { "questionId": "qbank-frcem:Q_ACS_002", "correct": false },
+      { "questionId": "qbank-frcem:Q_ACS_003", "correct": false }
+    ],
+    "mappedTopicId": "EM_CARDIO_ACS",
+    "resultWeakArea": {
+      "topicId": "EM_CARDIO_ACS",
+      "errorCount": 3,
+      "reason": "3 repeated errors (threshold 3)",
+      "recommendedActions": ["Review Algorithm", "Review Exam Pearl", "Read Summary", "Solve Related Questions"]
+    }
+  }
+}

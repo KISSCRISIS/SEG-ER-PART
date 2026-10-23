@@ -1,0 +1,107 @@
+families=99
+family=ACS / Chest Pain / Cardiovascular Risk Stratification|count=12|entry_count=12|prefixes={'DERIVED': 4, 'frcem': 2, 'rosen': 3, 'tint': 3}
+family=Abdominal and Gastrointestinal Disorders|count=6|entry_count=6|prefixes={'DERIVED': 2, 'hippo': 4}
+family=Abuse and Assault|count=2|entry_count=2|prefixes={'DERIVED': 1, 'hippo': 1}
+family=Airway Failure / Intubation|count=14|entry_count=14|prefixes={'DERIVED': 4, 'frcem': 2, 'rosen': 6, 'tint': 2}
+family=Analgesia, Anesthesia, and Procedural Sedation|count=4|entry_count=4|prefixes={'DERIVED': 1, 'hippo': 3}
+family=Anaphylaxis / Hereditary Angioedema|count=1|entry_count=1|prefixes={'rosen': 1}
+family=Aortic Dissection|count=2|entry_count=2|prefixes={'DERIVED': 1, 'rosen': 1}
+family=Asthma / COPD|count=3|entry_count=3|prefixes={'DERIVED': 1, 'rosen': 2}
+family=Cardiac Arrest / ROSC / TTM|count=11|entry_count=11|prefixes={'DERIVED': 2, 'frcem': 1, 'rosen': 5, 'tint': 3}
+family=Cardiogenic Shock|count=3|entry_count=3|prefixes={'DERIVED': 1, 'frcem': 1, 'rosen': 1}
+family=Cardiovascular|count=2|entry_count=2|prefixes={'UNI': 2}
+family=Cardiovascular / Critical Care|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Cardiovascular / Devices|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Cardiovascular / Dysrhythmias|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Cardiovascular Disorders|count=15|entry_count=15|prefixes={'DERIVED': 6, 'frcem': 1, 'hippo': 8}
+family=Corrections Patch|count=1|entry_count=1|prefixes={'DERIVED': 1}
+family=Dermatology|count=5|entry_count=5|prefixes={'DERIVED': 2, 'hippo': 3}
+family=Dermatology Emergencies|count=10|entry_count=10|prefixes={'DERIVED': 5, 'rosen': 1, 'tint': 4}
+family=Dysrhythmias|count=2|entry_count=2|prefixes={'hippo': 2}
+family=Dysrhythmias / ECG Patterns|count=3|entry_count=3|prefixes={'rosen': 2, 'tint': 1}
+family=ETCO2 / Capnography|count=2|entry_count=2|prefixes={'DERIVED': 1, 'tint': 1}
+family=Endocrine / DKA / Electrolytes|count=12|entry_count=12|prefixes={'DERIVED': 5, 'rosen': 4, 'tint': 3}
+family=Endocrine / Electrolytes|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Endocrine, Metabolic, and Nutritional Disorders|count=5|entry_count=5|prefixes={'DERIVED': 1, 'frcem': 1, 'hippo': 3}
+family=Environmental Emergencies|count=11|entry_count=11|prefixes={'DERIVED': 4, 'frcem': 2, 'rosen': 2, 'tint': 3}
+family=Eye / Trauma|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Eye, Ear, Nose, Throat, and Oral Disorders|count=4|entry_count=4|prefixes={'DERIVED': 1, 'hippo': 3}
+family=FAST / eFAST|count=5|entry_count=5|prefixes={'DERIVED': 1, 'rosen': 2, 'tint': 2}
+family=Foreign Body / Button Battery / Caustic|count=8|entry_count=8|prefixes={'DERIVED': 4, 'rosen': 2, 'tint': 2}
+family=GI / Abdominal|count=1|entry_count=1|prefixes={'UNI': 1}
+family=GI / Abdominal Pain|count=10|entry_count=10|prefixes={'DERIVED': 3, 'rosen': 7}
+family=GI Bleed|count=2|entry_count=2|prefixes={'DERIVED': 1, 'tint': 1}
+family=Gastroenterology / Infectious Disease|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Gastroenterology / Pain Management|count=1|entry_count=1|prefixes={'UNI': 1}
+family=HEENT / Eye Emergencies|count=16|entry_count=16|prefixes={'DERIVED': 4, 'frcem': 1, 'rosen': 6, 'tint': 5}
+family=Hematologic Disorders|count=9|entry_count=9|prefixes={'DERIVED': 3, 'hippo': 4, 'rosen': 1, 'tint': 1}
+family=Hematology / Neurology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Hematology / Rheumatology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Hemorrhagic Shock / MTP|count=9|entry_count=9|prefixes={'DERIVED': 2, 'frcem': 1, 'rosen': 4, 'tint': 2}
+family=Infectious Disease|count=3|entry_count=3|prefixes={'DERIVED': 1, 'hippo': 2}
+family=Infectious Disease / Resuscitation|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Infectious Disease / Sepsis|count=25|entry_count=25|prefixes={'DERIVED': 10, 'frcem': 3, 'rosen': 4, 'tint': 8}
+family=Infectious Disease / Tropical Medicine|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Injuries to Bones and Joints|count=3|entry_count=3|prefixes={'DERIVED': 1, 'frcem': 1, 'hippo': 1}
+family=Mechanical Ventilation|count=3|entry_count=3|prefixes={'DERIVED': 1, 'frcem': 1, 'rosen': 1}
+family=Mesenteric Ischemia|count=2|entry_count=2|prefixes={'DERIVED': 1, 'rosen': 1}
+family=Musculoskeletal Disorders (Non-Traumatic)|count=2|entry_count=2|prefixes={'DERIVED': 1, 'frcem': 1}
+family=Musculoskeletal Disorders (Non-traumatic)|count=1|entry_count=1|prefixes={'hippo': 1}
+family=Nervous System Disorders|count=12|entry_count=12|prefixes={'DERIVED': 4, 'frcem': 1, 'hippo': 7}
+family=Neurology / Renal|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Neurology / Resuscitation|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Neurology / Stroke|count=1|entry_count=1|prefixes={'UNI': 1}
+family=OB/GYN / Neurology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Obstetrics / Resuscitation|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Obstetrics and Gynecology|count=7|entry_count=7|prefixes={'DERIVED': 2, 'UNI': 1, 'frcem': 1, 'hippo': 3}
+family=Orthopedics / Fractures|count=11|entry_count=11|prefixes={'DERIVED': 4, 'frcem': 2, 'rosen': 1, 'tint': 4}
+family=Paediatrics / Neonatal|count=19|entry_count=19|prefixes={'DERIVED': 7, 'frcem': 5, 'rosen': 4, 'tint': 3}
+family=Pediatrics|count=5|entry_count=5|prefixes={'DERIVED': 1, 'frcem': 1, 'hippo': 3}
+family=Pediatrics / Airway|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Pediatrics / ID|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Pediatrics / Orthopedics|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Pneumothorax / Hemothorax|count=13|entry_count=13|prefixes={'DERIVED': 6, 'rosen': 3, 'tint': 4}
+family=Point-of-Care Ultrasound|count=5|entry_count=5|prefixes={'DERIVED': 2, 'hippo': 3}
+family=Pregnancy / OB|count=17|entry_count=17|prefixes={'DERIVED': 8, 'rosen': 6, 'tint': 3}
+family=Procedural Sedation / Analgesia|count=7|entry_count=7|prefixes={'DERIVED': 3, 'rosen': 2, 'tint': 2}
+family=Psychosocial Disorders|count=4|entry_count=4|prefixes={'DERIVED': 2, 'hippo': 2}
+family=Pulmonary Embolism|count=1|entry_count=1|prefixes={'rosen': 1}
+family=RSI / Paralytics / Sedation physiology|count=2|entry_count=2|prefixes={'rosen': 1, 'tint': 1}
+family=Renal / GU|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Renal / GU / Pediatrics|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Renal Colic / Urinary|count=8|entry_count=8|prefixes={'DERIVED': 3, 'frcem': 1, 'rosen': 3, 'tint': 1}
+family=Renal and Genitourinary Disorders|count=5|entry_count=5|prefixes={'DERIVED': 2, 'hippo': 3}
+family=Resuscitation|count=4|entry_count=4|prefixes={'DERIVED': 1, 'hippo': 3}
+family=Resuscitation / Airway|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Resuscitation / Neurology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Resuscitation / Pulmonary|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Seizures / Status|count=3|entry_count=3|prefixes={'DERIVED': 1, 'rosen': 1, 'tint': 1}
+family=Septic Shock|count=9|entry_count=9|prefixes={'DERIVED': 3, 'rosen': 4, 'tint': 2}
+family=Social / Ethics / Systems|count=34|entry_count=34|prefixes={'DERIVED': 15, 'frcem': 1, 'rosen': 1, 'tint': 17}
+family=Special Situations|count=3|entry_count=3|prefixes={'DERIVED': 1, 'hippo': 2}
+family=Stroke / Brainstem / Dissection|count=9|entry_count=9|prefixes={'DERIVED': 4, 'rosen': 4, 'tint': 1}
+family=Systemic Infectious Disorders|count=5|entry_count=5|prefixes={'DERIVED': 2, 'frcem': 1, 'hippo': 2}
+family=Thoracic-Respiratory Disorders|count=3|entry_count=3|prefixes={'hippo': 3}
+family=Toxicologic Disorders|count=12|entry_count=12|prefixes={'DERIVED': 5, 'hippo': 7}
+family=Toxicology|count=2|entry_count=2|prefixes={'UNI': 2}
+family=Toxicology / Airway|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Toxicology / Antidotes|count=21|entry_count=21|prefixes={'DERIVED': 7, 'frcem': 3, 'rosen': 6, 'tint': 5}
+family=Toxicology / Cardiovascular|count=2|entry_count=2|prefixes={'UNI': 2}
+family=Toxicology / Hematology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Toxicology / Neurology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Toxidromes / Antidotes|count=2|entry_count=2|prefixes={'DERIVED': 1, 'tint': 1}
+family=Trauma|count=42|entry_count=42|prefixes={'DERIVED': 13, 'frcem': 4, 'hippo': 3, 'rosen': 17, 'tint': 5}
+family=Trauma / Anesthesia|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Trauma / Hematology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Trauma / Orthopedics|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Trauma / Orthopedics / Dermatology|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Trauma / Pulmonary|count=1|entry_count=1|prefixes={'UNI': 1}
+family=Traumatic Disorders|count=2|entry_count=2|prefixes={'hippo': 2}
+family=Ultrasound Signs / Views|count=17|entry_count=17|prefixes={'DERIVED': 5, 'rosen': 3, 'tint': 9}
+fields=officialUnifiedTopics.json|top=[('topicId', 40), ('topicName', 40), ('specialty', 40), ('highYieldFacts', 40), ('examTraps', 40), ('numericalFacts', 40), ('antidotes', 40), ('arabicMentorExplanation', 40), ('sourceReferences', 40), ('algorithms', 39)]
+fields=referenceLibrary.json|top=[('id', 194), ('source', 194), ('chapterNumber', 194), ('chapterTitle', 194), ('topic', 194), ('keyPoints', 194), ('tables', 194), ('visuals', 194), ('algorithms', 194), ('relatedTraps', 194), ('relatedKeywords', 194), ('relatedFocusedQuestionFamilies', 194)]
+fields=flashcards.json|top=[('cardId', 760), ('type', 760), ('question', 760), ('answer', 760), ('source', 760), ('yield', 760), ('topicId', 632), ('sourceFile', 128), ('referenceId', 123)]
+fields=examTraps.json|top=[('id', 415), ('text', 415), ('topic', 415), ('topicId', 221), ('referenceId', 194), ('source', 194)]
+fields=algorithms.json|top=[('id', 28), ('name', 28), ('topic', 28), ('topicId', 18), ('referenceId', 10), ('source', 10)]
+fields=arabicMentorExplanations.json|top=[('topic', 367), ('explanation', 367), ('topicId', 196), ('referenceId', 171), ('source', 171)]
+fields=antidotes.json|top=[('id', 16), ('name', 16), ('topicId', 16), ('topic', 16)]

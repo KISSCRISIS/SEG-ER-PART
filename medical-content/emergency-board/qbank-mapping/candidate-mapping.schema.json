@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/qbank-candidate-mapping.schema.json",
+  "title": "SEG Qbank Candidate Mapping",
+  "description": "One question's candidate topics before human review. TopicId values must exist in topic-registry.json; questionId must exist in a Qbank JSONL.",
+  "type": "object",
+  "required": ["questionId", "sourceId", "candidateTopicIds", "confidenceScore", "evidenceBasis", "status"],
+  "properties": {
+    "questionId": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Stable Qbank question id (e.g., frcem-ch-01-q-0001)"
+    },
+    "sourceId": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Qbank sourceId from source-registry.json (e.g., qbank-frcem)"
+    },
+    "candidateTopicIds": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$"
+      },
+      "description": "At most 3 candidates, ordered by confidence descending. Empty array allowed only when status is UNMAPPED.",
+      "maxItems": 3
+    },
+    "confidenceScore": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Highest candidate score; 0 when UNMAPPED. AUTO_MATCHED requires ≥85, REVIEW_REQUIRED 60-84."
+    },
+    "evidenceBasis": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["chapter-title", "stem-keyword", "explanation-concept", "source-category"]
+      },
+      "description": "Evidence sources that contributed, in priority order. Unmapped entry may carry empty array.",
+      "maxItems": 4
+    },
+    "status": {
+      "$ref": "mapping-status.schema.json"
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "status": { "enum": ["UNMAPPED", "UNRESOLVED"] } } },
+      "then": {
+        "properties": {
+          "candidateTopicIds": { "maxItems": 0 },
+          "confidenceScore": { "maximum": 59 }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "status": { "enum": ["AUTO_MATCHED", "AUTO_MAPPED"] } } },
+      "then": {
+        "properties": {
+          "confidenceScore": { "minimum": 85 }
+        },
+        "required": ["candidateTopicIds"]
+      }
+    },
+    {
+      "if": { "properties": { "status": { "const": "REVIEW_REQUIRED" } } },
+      "then": {
+        "properties": {
+          "confidenceScore": { "minimum": 60, "maximum": 84 }
+        },
+        "required": ["candidateTopicIds"]
+      }
+    },
+    {
+      "if": { "properties": { "status": { "const": "VERIFIED" } } },
+      "then": {
+        "properties": {
+          "candidateTopicIds": { "minItems": 1, "maxItems": 1 }
+        }
+      }
+    }
+  ],
+  "additionalProperties": false
+}

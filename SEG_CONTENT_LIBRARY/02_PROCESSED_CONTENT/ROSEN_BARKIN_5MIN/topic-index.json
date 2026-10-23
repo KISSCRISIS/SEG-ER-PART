@@ -1,0 +1,5160 @@
+{
+  "generatedAt": "2026-09-09T13:44:57.432Z",
+  "total": 859,
+  "topics": [
+    {
+      "id": "rosen-5min-topic-0001",
+      "title": "5TH EDITION",
+      "pdfStart": 1,
+      "pdfEnd": 4
+    },
+    {
+      "id": "rosen-5min-topic-0002",
+      "title": "ADAM Z. BARKIN",
+      "pdfStart": 5,
+      "pdfEnd": 4
+    },
+    {
+      "id": "rosen-5min-topic-0003",
+      "title": "JEFFREY J. SCHAIDER",
+      "pdfStart": 5,
+      "pdfEnd": 4
+    },
+    {
+      "id": "rosen-5min-topic-0004",
+      "title": "PETER ROSEN",
+      "pdfStart": 5,
+      "pdfEnd": 4
+    },
+    {
+      "id": "rosen-5min-topic-0005",
+      "title": "PHILIP SHAYNE",
+      "pdfStart": 5,
+      "pdfEnd": 4
+    },
+    {
+      "id": "rosen-5min-topic-0006",
+      "title": "RICHARD E. WOLFE",
+      "pdfStart": 5,
+      "pdfEnd": 4
+    },
+    {
+      "id": "rosen-5min-topic-0007",
+      "title": "ROGER M. BARKIN",
+      "pdfStart": 5,
+      "pdfEnd": 4
+    },
+    {
+      "id": "rosen-5min-topic-0008",
+      "title": "STEPHEN R. HAYDEN",
+      "pdfStart": 5,
+      "pdfEnd": 6
+    },
+    {
+      "id": "rosen-5min-topic-0009",
+      "title": "ACKNOWLEDGMENTS",
+      "pdfStart": 7,
+      "pdfEnd": 8
+    },
+    {
+      "id": "rosen-5min-topic-0010",
+      "title": "CONTRIBUTORS",
+      "pdfStart": 9,
+      "pdfEnd": 9
+    },
+    {
+      "id": "rosen-5min-topic-0011",
+      "title": "UCSF/FRESNO",
+      "pdfStart": 10,
+      "pdfEnd": 10
+    },
+    {
+      "id": "rosen-5min-topic-0012",
+      "title": "CAPT/MC/USN",
+      "pdfStart": 11,
+      "pdfEnd": 11
+    },
+    {
+      "id": "rosen-5min-topic-0013",
+      "title": "PSLMC",
+      "pdfStart": 12,
+      "pdfEnd": 12
+    },
+    {
+      "id": "rosen-5min-topic-0014",
+      "title": "UNUM US",
+      "pdfStart": 13,
+      "pdfEnd": 14
+    },
+    {
+      "id": "rosen-5min-topic-0015",
+      "title": "FAACT, FACMT",
+      "pdfStart": 15,
+      "pdfEnd": 18
+    },
+    {
+      "id": "rosen-5min-topic-0016",
+      "title": "MAAEM",
+      "pdfStart": 19,
+      "pdfEnd": 21
+    },
+    {
+      "id": "rosen-5min-topic-0017",
+      "title": "FACEP, ABMT",
+      "pdfStart": 22,
+      "pdfEnd": 22
+    },
+    {
+      "id": "rosen-5min-topic-0018",
+      "title": "PGY-3",
+      "pdfStart": 23,
+      "pdfEnd": 23
+    },
+    {
+      "id": "rosen-5min-topic-0019",
+      "title": "PGY-2",
+      "pdfStart": 24,
+      "pdfEnd": 24
+    },
+    {
+      "id": "rosen-5min-topic-0020",
+      "title": "FAAEM, FAHA, FCPP",
+      "pdfStart": 25,
+      "pdfEnd": 24
+    },
+    {
+      "id": "rosen-5min-topic-0021",
+      "title": "FACEP",
+      "pdfStart": 25,
+      "pdfEnd": 25
+    },
+    {
+      "id": "rosen-5min-topic-0022",
+      "title": "FAAEM",
+      "pdfStart": 26,
+      "pdfEnd": 25
+    },
+    {
+      "id": "rosen-5min-topic-0023",
+      "title": "FACC, FHRS",
+      "pdfStart": 26,
+      "pdfEnd": 28
+    },
+    {
+      "id": "rosen-5min-topic-0024",
+      "title": "FACMT",
+      "pdfStart": 29,
+      "pdfEnd": 32
+    },
+    {
+      "id": "rosen-5min-topic-0025",
+      "title": "FOURTH EDITION AUTHOR ACKNOWLEDGMENTS",
+      "pdfStart": 33,
+      "pdfEnd": 37
+    },
+    {
+      "id": "rosen-5min-topic-0026",
+      "title": "HIV/AIDS 540",
+      "pdfStart": 38,
+      "pdfEnd": 42
+    },
+    {
+      "id": "rosen-5min-topic-0027",
+      "title": "TOPICAL TABLE OF CONTENTS",
+      "pdfStart": 43,
+      "pdfEnd": 53
+    },
+    {
+      "id": "rosen-5min-topic-0028",
+      "title": "ABDOMINAL AORTIC ANEURYSM",
+      "pdfStart": 54,
+      "pdfEnd": 53
+    },
+    {
+      "id": "rosen-5min-topic-0029",
+      "title": "DIAGNOSIS TESTS & INTERPRETATION",
+      "pdfStart": 54,
+      "pdfEnd": 53
+    },
+    {
+      "id": "rosen-5min-topic-0030",
+      "title": "SIGNS AND SYMPTOMS",
+      "pdfStart": 54,
+      "pdfEnd": 54
+    },
+    {
+      "id": "rosen-5min-topic-0031",
+      "title": "ADDITIONAL READING",
+      "pdfStart": 55,
+      "pdfEnd": 54
+    },
+    {
+      "id": "rosen-5min-topic-0032",
+      "title": "CODES",
+      "pdfStart": 55,
+      "pdfEnd": 54
+    },
+    {
+      "id": "rosen-5min-topic-0033",
+      "title": "DISPOSITION",
+      "pdfStart": 55,
+      "pdfEnd": 54
+    },
+    {
+      "id": "rosen-5min-topic-0034",
+      "title": "ED TREATMENT/PROCEDURES",
+      "pdfStart": 55,
+      "pdfEnd": 54
+    },
+    {
+      "id": "rosen-5min-topic-0035",
+      "title": "PEARLS AND PITFALLS",
+      "pdfStart": 55,
+      "pdfEnd": 55
+    },
+    {
+      "id": "rosen-5min-topic-0036",
+      "title": "ABDOMINAL PAIN",
+      "pdfStart": 56,
+      "pdfEnd": 56
+    },
+    {
+      "id": "rosen-5min-topic-0037",
+      "title": "DIFFERENTIAL DIAGNOSIS AAA",
+      "pdfStart": 57,
+      "pdfEnd": 56
+    },
+    {
+      "id": "rosen-5min-topic-0038",
+      "title": "FOLLOW-UP RECOMMENDATIONS",
+      "pdfStart": 57,
+      "pdfEnd": 57
+    },
+    {
+      "id": "rosen-5min-topic-0039",
+      "title": "ABDOMINAL TRAUMA, BLUNT",
+      "pdfStart": 58,
+      "pdfEnd": 57
+    },
+    {
+      "id": "rosen-5min-topic-0040",
+      "title": "DIFFERENTIAL DIAGNOSIS",
+      "pdfStart": 58,
+      "pdfEnd": 59
+    },
+    {
+      "id": "rosen-5min-topic-0041",
+      "title": "ABDOMINAL TRAUMA, IMAGING",
+      "pdfStart": 60,
+      "pdfEnd": 60
+    },
+    {
+      "id": "rosen-5min-topic-0042",
+      "title": "PRE-HOSPITAL",
+      "pdfStart": 61,
+      "pdfEnd": 61
+    },
+    {
+      "id": "rosen-5min-topic-0043",
+      "title": "ABDOMINAL TRAUMA, PENETRATING",
+      "pdfStart": 62,
+      "pdfEnd": 63
+    },
+    {
+      "id": "rosen-5min-topic-0044",
+      "title": "ABORTION, SPONTANEOUS",
+      "pdfStart": 64,
+      "pdfEnd": 64
+    },
+    {
+      "id": "rosen-5min-topic-0045",
+      "title": "MEDICATION",
+      "pdfStart": 65,
+      "pdfEnd": 65
+    },
+    {
+      "id": "rosen-5min-topic-0046",
+      "title": "ABSCESS, SKIN/SOFT TISSUE",
+      "pdfStart": 66,
+      "pdfEnd": 65
+    },
+    {
+      "id": "rosen-5min-topic-0047",
+      "title": "INITIAL STABILIZATION/THERAPY",
+      "pdfStart": 66,
+      "pdfEnd": 66
+    },
+    {
+      "id": "rosen-5min-topic-0048",
+      "title": "ALERT",
+      "pdfStart": 67,
+      "pdfEnd": 66
+    },
+    {
+      "id": "rosen-5min-topic-0049",
+      "title": "CA-MRSA",
+      "pdfStart": 67,
+      "pdfEnd": 66
+    },
+    {
+      "id": "rosen-5min-topic-0050",
+      "title": "PO BID",
+      "pdfStart": 67,
+      "pdfEnd": 66
+    },
+    {
+      "id": "rosen-5min-topic-0051",
+      "title": "TMP-SMX:",
+      "pdfStart": 67,
+      "pdfEnd": 67
+    },
+    {
+      "id": "rosen-5min-topic-0052",
+      "title": "ABUSE, ELDER",
+      "pdfStart": 68,
+      "pdfEnd": 67
+    },
+    {
+      "id": "rosen-5min-topic-0053",
+      "title": "EPIDEMIOLOGY",
+      "pdfStart": 68,
+      "pdfEnd": 69
+    },
+    {
+      "id": "rosen-5min-topic-0054",
+      "title": "ABUSE, PEDIATRIC (NONACCIDENTAL TRAUMA [NAT])",
+      "pdfStart": 70,
+      "pdfEnd": 71
+    },
+    {
+      "id": "rosen-5min-topic-0055",
+      "title": "ACETAMINOPHEN POISONING",
+      "pdfStart": 72,
+      "pdfEnd": 71
+    },
+    {
+      "id": "rosen-5min-topic-0056",
+      "title": "PT/INR",
+      "pdfStart": 72,
+      "pdfEnd": 73
+    },
+    {
+      "id": "rosen-5min-topic-0057",
+      "title": "ACIDOSIS",
+      "pdfStart": 74,
+      "pdfEnd": 74
+    },
+    {
+      "id": "rosen-5min-topic-0058",
+      "title": "ICD10",
+      "pdfStart": 75,
+      "pdfEnd": 75
+    },
+    {
+      "id": "rosen-5min-topic-0059",
+      "title": "ACROMIOCLAVICULAR JOINT INJURY",
+      "pdfStart": 76,
+      "pdfEnd": 77
+    },
+    {
+      "id": "rosen-5min-topic-0060",
+      "title": "ACUTE CORONARY SYNDROME: ANGINA",
+      "pdfStart": 78,
+      "pdfEnd": 77
+    },
+    {
+      "id": "rosen-5min-topic-0061",
+      "title": "ESSENTIAL WORKUP",
+      "pdfStart": 78,
+      "pdfEnd": 78
+    },
+    {
+      "id": "rosen-5min-topic-0062",
+      "title": "PTT 5070)",
+      "pdfStart": 79,
+      "pdfEnd": 79
+    },
+    {
+      "id": "rosen-5min-topic-0063",
+      "title": "ACUTE CORONARY SYNDROME: CORONARY VASOSPASM",
+      "pdfStart": 80,
+      "pdfEnd": 79
+    },
+    {
+      "id": "rosen-5min-topic-0064",
+      "title": "DIAGNOSIS TESTS & INTERPRETATION ECG:",
+      "pdfStart": 80,
+      "pdfEnd": 81
+    },
+    {
+      "id": "rosen-5min-topic-0065",
+      "title": "ACUTE CORONARY SYNDROME: MYOCARDIAL INFARCTION",
+      "pdfStart": 82,
+      "pdfEnd": 83
+    },
+    {
+      "id": "rosen-5min-topic-0066",
+      "title": "ACUTE CORONARY SYNDROME: NONQ-WAVE (NONST-ELEVATION) MI",
+      "pdfStart": 84,
+      "pdfEnd": 83
+    },
+    {
+      "id": "rosen-5min-topic-0067",
+      "title": "DIFFERENTIAL DIAGNOSIS STEMI",
+      "pdfStart": 84,
+      "pdfEnd": 84
+    },
+    {
+      "id": "rosen-5min-topic-0068",
+      "title": "NSTEMI.",
+      "pdfStart": 85,
+      "pdfEnd": 85
+    },
+    {
+      "id": "rosen-5min-topic-0069",
+      "title": "ADRENAL INSUFFICIENCY",
+      "pdfStart": 86,
+      "pdfEnd": 87
+    },
+    {
+      "id": "rosen-5min-topic-0070",
+      "title": "AGITATION",
+      "pdfStart": 88,
+      "pdfEnd": 89
+    },
+    {
+      "id": "rosen-5min-topic-0071",
+      "title": "AIRWAY ADJUNCTS",
+      "pdfStart": 90,
+      "pdfEnd": 91
+    },
+    {
+      "id": "rosen-5min-topic-0072",
+      "title": "AIRWAY MANAGEMENT",
+      "pdfStart": 92,
+      "pdfEnd": 92
+    },
+    {
+      "id": "rosen-5min-topic-0073",
+      "title": "ED TREATMENT/PROCEDURES RSI",
+      "pdfStart": 93,
+      "pdfEnd": 93
+    },
+    {
+      "id": "rosen-5min-topic-0074",
+      "title": "ALCOHOL POISONING",
+      "pdfStart": 94,
+      "pdfEnd": 93
+    },
+    {
+      "id": "rosen-5min-topic-0075",
+      "title": "DIAGNOSTIC TESTS & INTERPRETATION",
+      "pdfStart": 94,
+      "pdfEnd": 94
+    },
+    {
+      "id": "rosen-5min-topic-0076",
+      "title": "CIWA-A",
+      "pdfStart": 95,
+      "pdfEnd": 95
+    },
+    {
+      "id": "rosen-5min-topic-0077",
+      "title": "ALCOHOLIC KETOACIDOSIS",
+      "pdfStart": 96,
+      "pdfEnd": 95
+    },
+    {
+      "id": "rosen-5min-topic-0078",
+      "title": "MUDPILES:",
+      "pdfStart": 96,
+      "pdfEnd": 97
+    },
+    {
+      "id": "rosen-5min-topic-0079",
+      "title": "ALKALOSIS",
+      "pdfStart": 98,
+      "pdfEnd": 97
+    },
+    {
+      "id": "rosen-5min-topic-0080",
+      "title": "TSH, T4",
+      "pdfStart": 98,
+      "pdfEnd": 99
+    },
+    {
+      "id": "rosen-5min-topic-0081",
+      "title": "ALTERED MENTAL STATUS",
+      "pdfStart": 100,
+      "pdfEnd": 100
+    },
+    {
+      "id": "rosen-5min-topic-0082",
+      "title": "CONTROVERSIES",
+      "pdfStart": 101,
+      "pdfEnd": 100
+    },
+    {
+      "id": "rosen-5min-topic-0083",
+      "title": "INITIAL STABILIZATION/THERAPY IV D50",
+      "pdfStart": 101,
+      "pdfEnd": 101
+    },
+    {
+      "id": "rosen-5min-topic-0084",
+      "title": "AMEBIASIS",
+      "pdfStart": 102,
+      "pdfEnd": 103
+    },
+    {
+      "id": "rosen-5min-topic-0085",
+      "title": "AMENORRHEA",
+      "pdfStart": 104,
+      "pdfEnd": 105
+    },
+    {
+      "id": "rosen-5min-topic-0086",
+      "title": "AMPHETAMINE POISONING",
+      "pdfStart": 106,
+      "pdfEnd": 105
+    },
+    {
+      "id": "rosen-5min-topic-0087",
+      "title": "MDMA, XTC, E):",
+      "pdfStart": 106,
+      "pdfEnd": 105
+    },
+    {
+      "id": "rosen-5min-topic-0088",
+      "title": "SIGNS AND SYMPTOMS CNS:",
+      "pdfStart": 106,
+      "pdfEnd": 107
+    },
+    {
+      "id": "rosen-5min-topic-0089",
+      "title": "AMPUTATION TRAUMATIC/REPLANTATION",
+      "pdfStart": 108,
+      "pdfEnd": 107
+    },
+    {
+      "id": "rosen-5min-topic-0090",
+      "title": "BP [SBP]).",
+      "pdfStart": 108,
+      "pdfEnd": 109
+    },
+    {
+      "id": "rosen-5min-topic-0091",
+      "title": "AMYOTROPHIC LATERAL SCLEROSIS",
+      "pdfStart": 110,
+      "pdfEnd": 111
+    },
+    {
+      "id": "rosen-5min-topic-0092",
+      "title": "ANAL FISSURE",
+      "pdfStart": 112,
+      "pdfEnd": 113
+    },
+    {
+      "id": "rosen-5min-topic-0093",
+      "title": "ANAPHYLAXIS",
+      "pdfStart": 114,
+      "pdfEnd": 115
+    },
+    {
+      "id": "rosen-5min-topic-0094",
+      "title": "ANEMIA",
+      "pdfStart": 116,
+      "pdfEnd": 115
+    },
+    {
+      "id": "rosen-5min-topic-0095",
+      "title": "ESSENTIAL WORKUP CBC",
+      "pdfStart": 116,
+      "pdfEnd": 117
+    },
+    {
+      "id": "rosen-5min-topic-0096",
+      "title": "ANGIOEDEMA",
+      "pdfStart": 118,
+      "pdfEnd": 117
+    },
+    {
+      "id": "rosen-5min-topic-0097",
+      "title": "C1-INH.",
+      "pdfStart": 118,
+      "pdfEnd": 118
+    },
+    {
+      "id": "rosen-5min-topic-0098",
+      "title": "C1-INH",
+      "pdfStart": 119,
+      "pdfEnd": 119
+    },
+    {
+      "id": "rosen-5min-topic-0099",
+      "title": "ANKLE FRACTURE/DISLOCATION",
+      "pdfStart": 120,
+      "pdfEnd": 121
+    },
+    {
+      "id": "rosen-5min-topic-0100",
+      "title": "ANKLE SPRAIN",
+      "pdfStart": 122,
+      "pdfEnd": 123
+    },
+    {
+      "id": "rosen-5min-topic-0101",
+      "title": "ANKYLOSING SPONDYLITIS",
+      "pdfStart": 124,
+      "pdfEnd": 123
+    },
+    {
+      "id": "rosen-5min-topic-0102",
+      "title": "DIFFERENTIAL DIAGNOSIS JAS:",
+      "pdfStart": 124,
+      "pdfEnd": 123
+    },
+    {
+      "id": "rosen-5min-topic-0103",
+      "title": "RISK FACTORS",
+      "pdfStart": 124,
+      "pdfEnd": 125
+    },
+    {
+      "id": "rosen-5min-topic-0104",
+      "title": "ANTICHOLINERGIC POISONING",
+      "pdfStart": 126,
+      "pdfEnd": 127
+    },
+    {
+      "id": "rosen-5min-topic-0105",
+      "title": "ANTIDEPRESSANT POISONING",
+      "pdfStart": 128,
+      "pdfEnd": 129
+    },
+    {
+      "id": "rosen-5min-topic-0106",
+      "title": "AORTIC DISSECTION, THORACIC",
+      "pdfStart": 130,
+      "pdfEnd": 131
+    },
+    {
+      "id": "rosen-5min-topic-0107",
+      "title": "AORTIC RUPTURE, TRAUMATIC (TAI)",
+      "pdfStart": 132,
+      "pdfEnd": 133
+    },
+    {
+      "id": "rosen-5min-topic-0108",
+      "title": "APHTHOUS ULCERS",
+      "pdfStart": 134,
+      "pdfEnd": 135
+    },
+    {
+      "id": "rosen-5min-topic-0109",
+      "title": "APNEA, PEDIATRIC",
+      "pdfStart": 136,
+      "pdfEnd": 137
+    },
+    {
+      "id": "rosen-5min-topic-0110",
+      "title": "APPENDICITIS",
+      "pdfStart": 138,
+      "pdfEnd": 139
+    },
+    {
+      "id": "rosen-5min-topic-0111",
+      "title": "ARSENIC POISONING",
+      "pdfStart": 140,
+      "pdfEnd": 141
+    },
+    {
+      "id": "rosen-5min-topic-0112",
+      "title": "ARTERIAL GAS EMBOLISM (AGE)",
+      "pdfStart": 142,
+      "pdfEnd": 143
+    },
+    {
+      "id": "rosen-5min-topic-0113",
+      "title": "ARTERIAL OCCLUSION",
+      "pdfStart": 144,
+      "pdfEnd": 145
+    },
+    {
+      "id": "rosen-5min-topic-0114",
+      "title": "ARTHRITIS, DEGENERATIVE",
+      "pdfStart": 146,
+      "pdfEnd": 147
+    },
+    {
+      "id": "rosen-5min-topic-0115",
+      "title": "ARTHRITIS, JUVENILE IDIOPATHIC",
+      "pdfStart": 148,
+      "pdfEnd": 149
+    },
+    {
+      "id": "rosen-5min-topic-0116",
+      "title": "ARTHRITIS, MONOARTICULAR",
+      "pdfStart": 150,
+      "pdfEnd": 151
+    },
+    {
+      "id": "rosen-5min-topic-0117",
+      "title": "ARTHRITIS, RHEUMATOID",
+      "pdfStart": 152,
+      "pdfEnd": 153
+    },
+    {
+      "id": "rosen-5min-topic-0118",
+      "title": "ARTHRITIS, SEPTIC",
+      "pdfStart": 154,
+      "pdfEnd": 155
+    },
+    {
+      "id": "rosen-5min-topic-0119",
+      "title": "ASCITES",
+      "pdfStart": 156,
+      "pdfEnd": 155
+    },
+    {
+      "id": "rosen-5min-topic-0120",
+      "title": "PT, PTT, INR",
+      "pdfStart": 156,
+      "pdfEnd": 157
+    },
+    {
+      "id": "rosen-5min-topic-0121",
+      "title": "ASTHMA, ADULT",
+      "pdfStart": 158,
+      "pdfEnd": 159
+    },
+    {
+      "id": "rosen-5min-topic-0122",
+      "title": "ASTHMA, PEDIATRIC",
+      "pdfStart": 160,
+      "pdfEnd": 161
+    },
+    {
+      "id": "rosen-5min-topic-0123",
+      "title": "ASYSTOLE",
+      "pdfStart": 162,
+      "pdfEnd": 163
+    },
+    {
+      "id": "rosen-5min-topic-0124",
+      "title": "ATAXIA",
+      "pdfStart": 164,
+      "pdfEnd": 165
+    },
+    {
+      "id": "rosen-5min-topic-0125",
+      "title": "ATRIAL FIBRILLATION",
+      "pdfStart": 166,
+      "pdfEnd": 165
+    },
+    {
+      "id": "rosen-5min-topic-0126",
+      "title": "INITIAL STABILIZATION/THERAPY IV",
+      "pdfStart": 166,
+      "pdfEnd": 166
+    },
+    {
+      "id": "rosen-5min-topic-0127",
+      "title": "CHF .",
+      "pdfStart": 167,
+      "pdfEnd": 167
+    },
+    {
+      "id": "rosen-5min-topic-0128",
+      "title": "ATRIAL FLUTTER",
+      "pdfStart": 168,
+      "pdfEnd": 167
+    },
+    {
+      "id": "rosen-5min-topic-0129",
+      "title": "DIFFERENTIAL DIAGNOSIS SVT",
+      "pdfStart": 168,
+      "pdfEnd": 167
+    },
+    {
+      "id": "rosen-5min-topic-0130",
+      "title": "ESSENTIAL WORKUP EKG",
+      "pdfStart": 168,
+      "pdfEnd": 167
+    },
+    {
+      "id": "rosen-5min-topic-0131",
+      "title": "PT/PTT",
+      "pdfStart": 168,
+      "pdfEnd": 169
+    },
+    {
+      "id": "rosen-5min-topic-0132",
+      "title": "ATRIOVENTRICULAR BLOCKS",
+      "pdfStart": 170,
+      "pdfEnd": 171
+    },
+    {
+      "id": "rosen-5min-topic-0133",
+      "title": "BABESIOSIS",
+      "pdfStart": 172,
+      "pdfEnd": 173
+    },
+    {
+      "id": "rosen-5min-topic-0134",
+      "title": "BACK PAIN",
+      "pdfStart": 174,
+      "pdfEnd": 175
+    },
+    {
+      "id": "rosen-5min-topic-0135",
+      "title": "BACTERIAL TRACHEITIS",
+      "pdfStart": 176,
+      "pdfEnd": 177
+    },
+    {
+      "id": "rosen-5min-topic-0136",
+      "title": "BARBITURATES POISONING",
+      "pdfStart": 178,
+      "pdfEnd": 179
+    },
+    {
+      "id": "rosen-5min-topic-0137",
+      "title": "BAROTRAUMA",
+      "pdfStart": 180,
+      "pdfEnd": 181
+    },
+    {
+      "id": "rosen-5min-topic-0138",
+      "title": "BARTHOLIN ABSCESS",
+      "pdfStart": 182,
+      "pdfEnd": 183
+    },
+    {
+      "id": "rosen-5min-topic-0139",
+      "title": "BATH SALTS SYNTHETIC CATHINONES POISONING",
+      "pdfStart": 184,
+      "pdfEnd": 187
+    },
+    {
+      "id": "rosen-5min-topic-0140",
+      "title": "BENZODIAZEPINE POISONING",
+      "pdfStart": 188,
+      "pdfEnd": 189
+    },
+    {
+      "id": "rosen-5min-topic-0141",
+      "title": "BETA-BLOCKER POISONING",
+      "pdfStart": 190,
+      "pdfEnd": 191
+    },
+    {
+      "id": "rosen-5min-topic-0142",
+      "title": "BIOLOGIC WEAPONS",
+      "pdfStart": 192,
+      "pdfEnd": 193
+    },
+    {
+      "id": "rosen-5min-topic-0143",
+      "title": "BIPOLAR DISORDER",
+      "pdfStart": 194,
+      "pdfEnd": 195
+    },
+    {
+      "id": "rosen-5min-topic-0144",
+      "title": "BITE, ANIMAL",
+      "pdfStart": 196,
+      "pdfEnd": 197
+    },
+    {
+      "id": "rosen-5min-topic-0145",
+      "title": "BITE, HUMAN",
+      "pdfStart": 198,
+      "pdfEnd": 199
+    },
+    {
+      "id": "rosen-5min-topic-0146",
+      "title": "BLADDER INJURY",
+      "pdfStart": 200,
+      "pdfEnd": 201
+    },
+    {
+      "id": "rosen-5min-topic-0147",
+      "title": "BLOW-OUT FRACTURE",
+      "pdfStart": 202,
+      "pdfEnd": 203
+    },
+    {
+      "id": "rosen-5min-topic-0148",
+      "title": "BOERHAAVE SYNDROME",
+      "pdfStart": 204,
+      "pdfEnd": 203
+    },
+    {
+      "id": "rosen-5min-topic-0149",
+      "title": "PT/PTT/INR",
+      "pdfStart": 204,
+      "pdfEnd": 204
+    },
+    {
+      "id": "rosen-5min-topic-0150",
+      "title": "ED TREATMENT/PROCEDURES NPO",
+      "pdfStart": 205,
+      "pdfEnd": 205
+    },
+    {
+      "id": "rosen-5min-topic-0151",
+      "title": "BOTULISM",
+      "pdfStart": 206,
+      "pdfEnd": 207
+    },
+    {
+      "id": "rosen-5min-topic-0152",
+      "title": "BOWEL OBSTRUCTION (SMALL AND LARGE)",
+      "pdfStart": 208,
+      "pdfEnd": 209
+    },
+    {
+      "id": "rosen-5min-topic-0153",
+      "title": "BRADYARRHYTHMIAS",
+      "pdfStart": 210,
+      "pdfEnd": 211
+    },
+    {
+      "id": "rosen-5min-topic-0154",
+      "title": "BRONCHIOLITIS",
+      "pdfStart": 212,
+      "pdfEnd": 213
+    },
+    {
+      "id": "rosen-5min-topic-0155",
+      "title": "BRONCHITIS",
+      "pdfStart": 214,
+      "pdfEnd": 215
+    },
+    {
+      "id": "rosen-5min-topic-0156",
+      "title": "BRUGADA SYNDROME",
+      "pdfStart": 216,
+      "pdfEnd": 215
+    },
+    {
+      "id": "rosen-5min-topic-0157",
+      "title": "STEMI",
+      "pdfStart": 216,
+      "pdfEnd": 217
+    },
+    {
+      "id": "rosen-5min-topic-0158",
+      "title": "BUNDLE BRANCH BLOCKS",
+      "pdfStart": 218,
+      "pdfEnd": 217
+    },
+    {
+      "id": "rosen-5min-topic-0159",
+      "title": "LBBB:",
+      "pdfStart": 218,
+      "pdfEnd": 217
+    },
+    {
+      "id": "rosen-5min-topic-0160",
+      "title": "RBBB:",
+      "pdfStart": 218,
+      "pdfEnd": 219
+    },
+    {
+      "id": "rosen-5min-topic-0161",
+      "title": "BURNS",
+      "pdfStart": 220,
+      "pdfEnd": 221
+    },
+    {
+      "id": "rosen-5min-topic-0162",
+      "title": "BURSITIS",
+      "pdfStart": 222,
+      "pdfEnd": 223
+    },
+    {
+      "id": "rosen-5min-topic-0163",
+      "title": "CALCIUM CHANNEL BLOCKER POISONING",
+      "pdfStart": 224,
+      "pdfEnd": 225
+    },
+    {
+      "id": "rosen-5min-topic-0164",
+      "title": "CANDIDIASIS, ORAL",
+      "pdfStart": 226,
+      "pdfEnd": 227
+    },
+    {
+      "id": "rosen-5min-topic-0165",
+      "title": "CARBAMAZEPINE POISONING",
+      "pdfStart": 228,
+      "pdfEnd": 229
+    },
+    {
+      "id": "rosen-5min-topic-0166",
+      "title": "CARBON MONOXIDE POISONING",
+      "pdfStart": 230,
+      "pdfEnd": 231
+    },
+    {
+      "id": "rosen-5min-topic-0167",
+      "title": "CARDIAC ARREST",
+      "pdfStart": 232,
+      "pdfEnd": 232
+    },
+    {
+      "id": "rosen-5min-topic-0168",
+      "title": "ROSC:",
+      "pdfStart": 233,
+      "pdfEnd": 233
+    },
+    {
+      "id": "rosen-5min-topic-0169",
+      "title": "CARDIAC PACEMAKERS",
+      "pdfStart": 234,
+      "pdfEnd": 235
+    },
+    {
+      "id": "rosen-5min-topic-0170",
+      "title": "CARDIAC TESTING",
+      "pdfStart": 236,
+      "pdfEnd": 236
+    },
+    {
+      "id": "rosen-5min-topic-0171",
+      "title": "ACCF/ASNC/ACR/AHA/ASE/SCCT/SCMR/SNM 2009",
+      "pdfStart": 237,
+      "pdfEnd": 237
+    },
+    {
+      "id": "rosen-5min-topic-0172",
+      "title": "CARDIAC TRANSPLANTATION COMPLICATIONS",
+      "pdfStart": 238,
+      "pdfEnd": 238
+    },
+    {
+      "id": "rosen-5min-topic-0173",
+      "title": "IN-PATIENT CONSIDERATIONS",
+      "pdfStart": 239,
+      "pdfEnd": 239
+    },
+    {
+      "id": "rosen-5min-topic-0174",
+      "title": "CARDIOGENIC SHOCK",
+      "pdfStart": 240,
+      "pdfEnd": 239
+    },
+    {
+      "id": "rosen-5min-topic-0175",
+      "title": "ETIOLOGY AMI",
+      "pdfStart": 240,
+      "pdfEnd": 240
+    },
+    {
+      "id": "rosen-5min-topic-0176",
+      "title": "ED TREATMENT/PROCEDURES AMI:",
+      "pdfStart": 241,
+      "pdfEnd": 241
+    },
+    {
+      "id": "rosen-5min-topic-0177",
+      "title": "CARDIOMYOPATHY",
+      "pdfStart": 242,
+      "pdfEnd": 243
+    },
+    {
+      "id": "rosen-5min-topic-0178",
+      "title": "CARDIOMYOPATHY, HYPERTROPHIC",
+      "pdfStart": 244,
+      "pdfEnd": 245
+    },
+    {
+      "id": "rosen-5min-topic-0179",
+      "title": "CARDIOMYOPATHY, PERIPARTUM",
+      "pdfStart": 246,
+      "pdfEnd": 247
+    },
+    {
+      "id": "rosen-5min-topic-0180",
+      "title": "CARPAL FRACTURES",
+      "pdfStart": 248,
+      "pdfEnd": 249
+    },
+    {
+      "id": "rosen-5min-topic-0181",
+      "title": "CARPAL TUNNEL SYNDROME",
+      "pdfStart": 250,
+      "pdfEnd": 251
+    },
+    {
+      "id": "rosen-5min-topic-0182",
+      "title": "CAUDA EQUINA SYNDROME",
+      "pdfStart": 252,
+      "pdfEnd": 253
+    },
+    {
+      "id": "rosen-5min-topic-0183",
+      "title": "CAUSTIC INGESTION",
+      "pdfStart": 254,
+      "pdfEnd": 255
+    },
+    {
+      "id": "rosen-5min-topic-0184",
+      "title": "CAVERNOUS SINUS THROMBOSIS",
+      "pdfStart": 256,
+      "pdfEnd": 257
+    },
+    {
+      "id": "rosen-5min-topic-0185",
+      "title": "CELLULITIS",
+      "pdfStart": 258,
+      "pdfEnd": 258
+    },
+    {
+      "id": "rosen-5min-topic-0186",
+      "title": "CA-MRSA:",
+      "pdfStart": 259,
+      "pdfEnd": 258
+    },
+    {
+      "id": "rosen-5min-topic-0187",
+      "title": "CA-MRSA)",
+      "pdfStart": 259,
+      "pdfEnd": 258
+    },
+    {
+      "id": "rosen-5min-topic-0188",
+      "title": "MRSA:",
+      "pdfStart": 259,
+      "pdfEnd": 259
+    },
+    {
+      "id": "rosen-5min-topic-0189",
+      "title": "ANA, RF , CRP , ESR",
+      "pdfStart": 260,
+      "pdfEnd": 259
+    },
+    {
+      "id": "rosen-5min-topic-0190",
+      "title": "CENTRAL RETINAL ARTERY OCCLUSION",
+      "pdfStart": 260,
+      "pdfEnd": 261
+    },
+    {
+      "id": "rosen-5min-topic-0191",
+      "title": "CENTRAL RETINAL VEIN OCCLUSION",
+      "pdfStart": 262,
+      "pdfEnd": 261
+    },
+    {
+      "id": "rosen-5min-topic-0192",
+      "title": "CRVO.",
+      "pdfStart": 262,
+      "pdfEnd": 261
+    },
+    {
+      "id": "rosen-5min-topic-0193",
+      "title": "ESSENTIAL WORKUP BP",
+      "pdfStart": 262,
+      "pdfEnd": 263
+    },
+    {
+      "id": "rosen-5min-topic-0194",
+      "title": "CEREBRAL ANEURYSM",
+      "pdfStart": 264,
+      "pdfEnd": 265
+    },
+    {
+      "id": "rosen-5min-topic-0195",
+      "title": "CEREBRAL VASCULAR ACCIDENT",
+      "pdfStart": 266,
+      "pdfEnd": 265
+    },
+    {
+      "id": "rosen-5min-topic-0196",
+      "title": "GOALS:",
+      "pdfStart": 266,
+      "pdfEnd": 267
+    },
+    {
+      "id": "rosen-5min-topic-0197",
+      "title": "CERVICAL ADENITIS",
+      "pdfStart": 268,
+      "pdfEnd": 269
+    },
+    {
+      "id": "rosen-5min-topic-0198",
+      "title": "CESAREAN SECTION, EMERGENCY",
+      "pdfStart": 270,
+      "pdfEnd": 271
+    },
+    {
+      "id": "rosen-5min-topic-0199",
+      "title": "CHANCROID",
+      "pdfStart": 272,
+      "pdfEnd": 273
+    },
+    {
+      "id": "rosen-5min-topic-0200",
+      "title": "CHEMICAL WEAPONS POISONING",
+      "pdfStart": 274,
+      "pdfEnd": 273
+    },
+    {
+      "id": "rosen-5min-topic-0201",
+      "title": "HEENT:",
+      "pdfStart": 274,
+      "pdfEnd": 275
+    },
+    {
+      "id": "rosen-5min-topic-0202",
+      "title": "CHEST PAIN",
+      "pdfStart": 276,
+      "pdfEnd": 277
+    },
+    {
+      "id": "rosen-5min-topic-0203",
+      "title": "CHEST TRAUMA, BLUNT",
+      "pdfStart": 278,
+      "pdfEnd": 279
+    },
+    {
+      "id": "rosen-5min-topic-0204",
+      "title": "CHEST TRAUMA, PENETRATING",
+      "pdfStart": 280,
+      "pdfEnd": 281
+    },
+    {
+      "id": "rosen-5min-topic-0205",
+      "title": "CHOLANGITIS",
+      "pdfStart": 282,
+      "pdfEnd": 283
+    },
+    {
+      "id": "rosen-5min-topic-0206",
+      "title": "CHOLECYSTITIS",
+      "pdfStart": 284,
+      "pdfEnd": 285
+    },
+    {
+      "id": "rosen-5min-topic-0207",
+      "title": "CHOLELITHIASIS",
+      "pdfStart": 286,
+      "pdfEnd": 286
+    },
+    {
+      "id": "rosen-5min-topic-0208",
+      "title": "DIFFERENTIAL DIAGNOSIS MI",
+      "pdfStart": 287,
+      "pdfEnd": 287
+    },
+    {
+      "id": "rosen-5min-topic-0209",
+      "title": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+      "pdfStart": 288,
+      "pdfEnd": 289
+    },
+    {
+      "id": "rosen-5min-topic-0210",
+      "title": "CIRRHOSIS",
+      "pdfStart": 290,
+      "pdfEnd": 290
+    },
+    {
+      "id": "rosen-5min-topic-0211",
+      "title": "SBP .",
+      "pdfStart": 291,
+      "pdfEnd": 291
+    },
+    {
+      "id": "rosen-5min-topic-0212",
+      "title": "CLAVICLE FRACTURE",
+      "pdfStart": 292,
+      "pdfEnd": 293
+    },
+    {
+      "id": "rosen-5min-topic-0213",
+      "title": "COAGULOPATHY REVERSAL (NONWARFARIN AGENTS)",
+      "pdfStart": 294,
+      "pdfEnd": 293
+    },
+    {
+      "id": "rosen-5min-topic-0214",
+      "title": "TTP/HUS",
+      "pdfStart": 294,
+      "pdfEnd": 294
+    },
+    {
+      "id": "rosen-5min-topic-0215",
+      "title": "DDAVP",
+      "pdfStart": 295,
+      "pdfEnd": 295
+    },
+    {
+      "id": "rosen-5min-topic-0216",
+      "title": "COCAINE POISONING",
+      "pdfStart": 296,
+      "pdfEnd": 297
+    },
+    {
+      "id": "rosen-5min-topic-0217",
+      "title": "COLON TRAUMA",
+      "pdfStart": 298,
+      "pdfEnd": 301
+    },
+    {
+      "id": "rosen-5min-topic-0218",
+      "title": "COMPARTMENT SYNDROME",
+      "pdfStart": 302,
+      "pdfEnd": 303
+    },
+    {
+      "id": "rosen-5min-topic-0219",
+      "title": "CONGENITAL HEART DISEASE, ACYANOTIC",
+      "pdfStart": 304,
+      "pdfEnd": 303
+    },
+    {
+      "id": "rosen-5min-topic-0220",
+      "title": "DIFFERENTIAL DIAGNOSIS CHF",
+      "pdfStart": 304,
+      "pdfEnd": 303
+    },
+    {
+      "id": "rosen-5min-topic-0221",
+      "title": "HLHS:",
+      "pdfStart": 304,
+      "pdfEnd": 305
+    },
+    {
+      "id": "rosen-5min-topic-0222",
+      "title": "CONGENITAL HEART DISEASE, CYANOTIC",
+      "pdfStart": 306,
+      "pdfEnd": 305
+    },
+    {
+      "id": "rosen-5min-topic-0223",
+      "title": "TAPVR:",
+      "pdfStart": 306,
+      "pdfEnd": 306
+    },
+    {
+      "id": "rosen-5min-topic-0224",
+      "title": "LVH, RAE, LAE",
+      "pdfStart": 307,
+      "pdfEnd": 306
+    },
+    {
+      "id": "rosen-5min-topic-0225",
+      "title": "RVH, LVH",
+      "pdfStart": 307,
+      "pdfEnd": 307
+    },
+    {
+      "id": "rosen-5min-topic-0226",
+      "title": "CONGESTIVE HEART FAILURE",
+      "pdfStart": 308,
+      "pdfEnd": 309
+    },
+    {
+      "id": "rosen-5min-topic-0227",
+      "title": "CONJUNCTIVITIS",
+      "pdfStart": 310,
+      "pdfEnd": 311
+    },
+    {
+      "id": "rosen-5min-topic-0228",
+      "title": "CONSTIPATION",
+      "pdfStart": 312,
+      "pdfEnd": 313
+    },
+    {
+      "id": "rosen-5min-topic-0229",
+      "title": "CONTACT DERMATITIS",
+      "pdfStart": 314,
+      "pdfEnd": 315
+    },
+    {
+      "id": "rosen-5min-topic-0230",
+      "title": "COR PULMONALE",
+      "pdfStart": 316,
+      "pdfEnd": 317
+    },
+    {
+      "id": "rosen-5min-topic-0231",
+      "title": "CORNEAL ABRASION",
+      "pdfStart": 318,
+      "pdfEnd": 319
+    },
+    {
+      "id": "rosen-5min-topic-0232",
+      "title": "CORNEAL BURN",
+      "pdfStart": 320,
+      "pdfEnd": 321
+    },
+    {
+      "id": "rosen-5min-topic-0233",
+      "title": "CORNEAL FOREIGN BODY",
+      "pdfStart": 322,
+      "pdfEnd": 323
+    },
+    {
+      "id": "rosen-5min-topic-0234",
+      "title": "COUGH",
+      "pdfStart": 324,
+      "pdfEnd": 323
+    },
+    {
+      "id": "rosen-5min-topic-0235",
+      "title": "GERD:",
+      "pdfStart": 324,
+      "pdfEnd": 325
+    },
+    {
+      "id": "rosen-5min-topic-0236",
+      "title": "CROUP",
+      "pdfStart": 326,
+      "pdfEnd": 327
+    },
+    {
+      "id": "rosen-5min-topic-0237",
+      "title": "CUSHING SYNDROME",
+      "pdfStart": 328,
+      "pdfEnd": 329
+    },
+    {
+      "id": "rosen-5min-topic-0238",
+      "title": "CYANIDE POISONING",
+      "pdfStart": 330,
+      "pdfEnd": 331
+    },
+    {
+      "id": "rosen-5min-topic-0239",
+      "title": "CYANOSIS",
+      "pdfStart": 332,
+      "pdfEnd": 333
+    },
+    {
+      "id": "rosen-5min-topic-0240",
+      "title": "CYSTIC FIBROSIS",
+      "pdfStart": 334,
+      "pdfEnd": 333
+    },
+    {
+      "id": "rosen-5min-topic-0241",
+      "title": "MSSA/MRSA",
+      "pdfStart": 334,
+      "pdfEnd": 334
+    },
+    {
+      "id": "rosen-5min-topic-0242",
+      "title": "DIOS:",
+      "pdfStart": 335,
+      "pdfEnd": 335
+    },
+    {
+      "id": "rosen-5min-topic-0243",
+      "title": "DACRYOCYSTITIS AND DACRYOADENITIS",
+      "pdfStart": 336,
+      "pdfEnd": 337
+    },
+    {
+      "id": "rosen-5min-topic-0244",
+      "title": "DECOMPRESSION SICKNESS",
+      "pdfStart": 338,
+      "pdfEnd": 339
+    },
+    {
+      "id": "rosen-5min-topic-0245",
+      "title": "DEEP VEIN THROMBOSIS",
+      "pdfStart": 340,
+      "pdfEnd": 341
+    },
+    {
+      "id": "rosen-5min-topic-0246",
+      "title": "DEFIBRILLATORS, IMPLANTABLE",
+      "pdfStart": 342,
+      "pdfEnd": 343
+    },
+    {
+      "id": "rosen-5min-topic-0247",
+      "title": "DELIRIUM",
+      "pdfStart": 344,
+      "pdfEnd": 345
+    },
+    {
+      "id": "rosen-5min-topic-0248",
+      "title": "DELIVERY, UNCOMPLICATED",
+      "pdfStart": 346,
+      "pdfEnd": 347
+    },
+    {
+      "id": "rosen-5min-topic-0249",
+      "title": "DEMENTIA",
+      "pdfStart": 348,
+      "pdfEnd": 347
+    },
+    {
+      "id": "rosen-5min-topic-0250",
+      "title": "ESR/CRP",
+      "pdfStart": 348,
+      "pdfEnd": 349
+    },
+    {
+      "id": "rosen-5min-topic-0251",
+      "title": "DENGUE FEVER",
+      "pdfStart": 350,
+      "pdfEnd": 351
+    },
+    {
+      "id": "rosen-5min-topic-0252",
+      "title": "DENTAL TRAUMA",
+      "pdfStart": 352,
+      "pdfEnd": 353
+    },
+    {
+      "id": "rosen-5min-topic-0253",
+      "title": "DEPRESSION",
+      "pdfStart": 354,
+      "pdfEnd": 353
+    },
+    {
+      "id": "rosen-5min-topic-0254",
+      "title": "ESR/CRP/ANA",
+      "pdfStart": 354,
+      "pdfEnd": 355
+    },
+    {
+      "id": "rosen-5min-topic-0255",
+      "title": "DERMATOMYOSITIS/POLYMYOSITIS",
+      "pdfStart": 356,
+      "pdfEnd": 357
+    },
+    {
+      "id": "rosen-5min-topic-0256",
+      "title": "DIABETES INSIPIDUS",
+      "pdfStart": 358,
+      "pdfEnd": 359
+    },
+    {
+      "id": "rosen-5min-topic-0257",
+      "title": "DIABETES MELLITUS, JUVENILE",
+      "pdfStart": 360,
+      "pdfEnd": 361
+    },
+    {
+      "id": "rosen-5min-topic-0258",
+      "title": "DIABETIC KETOACIDOSIS",
+      "pdfStart": 362,
+      "pdfEnd": 363
+    },
+    {
+      "id": "rosen-5min-topic-0259",
+      "title": "DIALYSIS COMPLICATIONS",
+      "pdfStart": 364,
+      "pdfEnd": 364
+    },
+    {
+      "id": "rosen-5min-topic-0260",
+      "title": "IV PRN",
+      "pdfStart": 365,
+      "pdfEnd": 365
+    },
+    {
+      "id": "rosen-5min-topic-0261",
+      "title": "DIAPER RASH",
+      "pdfStart": 366,
+      "pdfEnd": 367
+    },
+    {
+      "id": "rosen-5min-topic-0262",
+      "title": "DIAPHRAGMATIC TRAUMA",
+      "pdfStart": 368,
+      "pdfEnd": 369
+    },
+    {
+      "id": "rosen-5min-topic-0263",
+      "title": "DIARRHEA, ADULT",
+      "pdfStart": 370,
+      "pdfEnd": 370
+    },
+    {
+      "id": "rosen-5min-topic-0264",
+      "title": "IV BID",
+      "pdfStart": 371,
+      "pdfEnd": 371
+    },
+    {
+      "id": "rosen-5min-topic-0265",
+      "title": "DIARRHEA, PEDIATRIC",
+      "pdfStart": 372,
+      "pdfEnd": 373
+    },
+    {
+      "id": "rosen-5min-topic-0266",
+      "title": "DIGOXIN, POISONING",
+      "pdfStart": 374,
+      "pdfEnd": 373
+    },
+    {
+      "id": "rosen-5min-topic-0267",
+      "title": "ESSENTIAL WORKUP ECG:",
+      "pdfStart": 374,
+      "pdfEnd": 374
+    },
+    {
+      "id": "rosen-5min-topic-0268",
+      "title": "DYSRHYTHMIA MANAGEMENT",
+      "pdfStart": 375,
+      "pdfEnd": 375
+    },
+    {
+      "id": "rosen-5min-topic-0269",
+      "title": "DIPLOPIA",
+      "pdfStart": 376,
+      "pdfEnd": 377
+    },
+    {
+      "id": "rosen-5min-topic-0270",
+      "title": "DISSEMINATED INTRAVASCULAR COAGULATION",
+      "pdfStart": 378,
+      "pdfEnd": 379
+    },
+    {
+      "id": "rosen-5min-topic-0271",
+      "title": "DISULFIRAM REACTION",
+      "pdfStart": 380,
+      "pdfEnd": 381
+    },
+    {
+      "id": "rosen-5min-topic-0272",
+      "title": "DIVERTICULITIS",
+      "pdfStart": 382,
+      "pdfEnd": 383
+    },
+    {
+      "id": "rosen-5min-topic-0273",
+      "title": "DIVERTICULOSIS",
+      "pdfStart": 384,
+      "pdfEnd": 385
+    },
+    {
+      "id": "rosen-5min-topic-0274",
+      "title": "DIZZINESS",
+      "pdfStart": 386,
+      "pdfEnd": 387
+    },
+    {
+      "id": "rosen-5min-topic-0275",
+      "title": "DOMESTIC VIOLENCE",
+      "pdfStart": 388,
+      "pdfEnd": 389
+    },
+    {
+      "id": "rosen-5min-topic-0276",
+      "title": "DROWNING",
+      "pdfStart": 390,
+      "pdfEnd": 391
+    },
+    {
+      "id": "rosen-5min-topic-0277",
+      "title": "DUODENAL TRAUMA",
+      "pdfStart": 392,
+      "pdfEnd": 393
+    },
+    {
+      "id": "rosen-5min-topic-0278",
+      "title": "DYSFUNCTIONAL UTERINE BLEEDING",
+      "pdfStart": 394,
+      "pdfEnd": 395
+    },
+    {
+      "id": "rosen-5min-topic-0279",
+      "title": "DYSPHAGIA",
+      "pdfStart": 396,
+      "pdfEnd": 397
+    },
+    {
+      "id": "rosen-5min-topic-0280",
+      "title": "DYSPNEA",
+      "pdfStart": 398,
+      "pdfEnd": 399
+    },
+    {
+      "id": "rosen-5min-topic-0281",
+      "title": "DYSTONIC REACTION",
+      "pdfStart": 400,
+      "pdfEnd": 401
+    },
+    {
+      "id": "rosen-5min-topic-0282",
+      "title": "EATING DISORDER",
+      "pdfStart": 402,
+      "pdfEnd": 403
+    },
+    {
+      "id": "rosen-5min-topic-0283",
+      "title": "ECTOPIC PREGNANCY",
+      "pdfStart": 404,
+      "pdfEnd": 405
+    },
+    {
+      "id": "rosen-5min-topic-0284",
+      "title": "ECZEMA/ATOPIC DERMATITIS",
+      "pdfStart": 406,
+      "pdfEnd": 407
+    },
+    {
+      "id": "rosen-5min-topic-0285",
+      "title": "EDEMA",
+      "pdfStart": 408,
+      "pdfEnd": 409
+    },
+    {
+      "id": "rosen-5min-topic-0286",
+      "title": "EHRLICHIOSIS",
+      "pdfStart": 410,
+      "pdfEnd": 411
+    },
+    {
+      "id": "rosen-5min-topic-0287",
+      "title": "ELBOW INJURIES",
+      "pdfStart": 412,
+      "pdfEnd": 413
+    },
+    {
+      "id": "rosen-5min-topic-0288",
+      "title": "ELECTRICAL INJURY",
+      "pdfStart": 414,
+      "pdfEnd": 415
+    },
+    {
+      "id": "rosen-5min-topic-0289",
+      "title": "ENCEPHALITIS",
+      "pdfStart": 416,
+      "pdfEnd": 416
+    },
+    {
+      "id": "rosen-5min-topic-0290",
+      "title": "HHV-6).",
+      "pdfStart": 417,
+      "pdfEnd": 417
+    },
+    {
+      "id": "rosen-5min-topic-0291",
+      "title": "ENDOCARDITIS",
+      "pdfStart": 418,
+      "pdfEnd": 418
+    },
+    {
+      "id": "rosen-5min-topic-0292",
+      "title": "HACEK:",
+      "pdfStart": 419,
+      "pdfEnd": 419
+    },
+    {
+      "id": "rosen-5min-topic-0293",
+      "title": "ENDOMETRIOSIS",
+      "pdfStart": 420,
+      "pdfEnd": 421
+    },
+    {
+      "id": "rosen-5min-topic-0294",
+      "title": "EPIDIDYMITIS/ORCHITIS",
+      "pdfStart": 422,
+      "pdfEnd": 423
+    },
+    {
+      "id": "rosen-5min-topic-0295",
+      "title": "EPIDURAL ABSCESS",
+      "pdfStart": 424,
+      "pdfEnd": 425
+    },
+    {
+      "id": "rosen-5min-topic-0296",
+      "title": "EPIDURAL HEMATOMA",
+      "pdfStart": 426,
+      "pdfEnd": 425
+    },
+    {
+      "id": "rosen-5min-topic-0297",
+      "title": "MAP , PO2, PCO2",
+      "pdfStart": 426,
+      "pdfEnd": 427
+    },
+    {
+      "id": "rosen-5min-topic-0298",
+      "title": "EPIGLOTTITIS, ADULT",
+      "pdfStart": 428,
+      "pdfEnd": 429
+    },
+    {
+      "id": "rosen-5min-topic-0299",
+      "title": "EPIGLOTTITIS, PEDIATRIC",
+      "pdfStart": 430,
+      "pdfEnd": 431
+    },
+    {
+      "id": "rosen-5min-topic-0300",
+      "title": "EPIPHYSEAL INJURIES",
+      "pdfStart": 432,
+      "pdfEnd": 433
+    },
+    {
+      "id": "rosen-5min-topic-0301",
+      "title": "EPISTAXIS",
+      "pdfStart": 434,
+      "pdfEnd": 435
+    },
+    {
+      "id": "rosen-5min-topic-0302",
+      "title": "ERYSIPELAS",
+      "pdfStart": 436,
+      "pdfEnd": 436
+    },
+    {
+      "id": "rosen-5min-topic-0303",
+      "title": "INPATIENT",
+      "pdfStart": 437,
+      "pdfEnd": 436
+    },
+    {
+      "id": "rosen-5min-topic-0304",
+      "title": "OUTPATIENT",
+      "pdfStart": 437,
+      "pdfEnd": 437
+    },
+    {
+      "id": "rosen-5min-topic-0305",
+      "title": "ERYTHEMA INFECTIOSUM",
+      "pdfStart": 438,
+      "pdfEnd": 438
+    },
+    {
+      "id": "rosen-5min-topic-0306",
+      "title": "PATIENT EDUCATION",
+      "pdfStart": 439,
+      "pdfEnd": 439
+    },
+    {
+      "id": "rosen-5min-topic-0307",
+      "title": "ERYTHEMA MULTIFORME",
+      "pdfStart": 440,
+      "pdfEnd": 441
+    },
+    {
+      "id": "rosen-5min-topic-0308",
+      "title": "ERYTHEMA NODOSUM",
+      "pdfStart": 442,
+      "pdfEnd": 441
+    },
+    {
+      "id": "rosen-5min-topic-0309",
+      "title": "TB (BCG)",
+      "pdfStart": 442,
+      "pdfEnd": 443
+    },
+    {
+      "id": "rosen-5min-topic-0310",
+      "title": "ESOPHAGEAL TRAUMA",
+      "pdfStart": 444,
+      "pdfEnd": 445
+    },
+    {
+      "id": "rosen-5min-topic-0311",
+      "title": "ETHYLENE GLYCOL POISONING",
+      "pdfStart": 446,
+      "pdfEnd": 447
+    },
+    {
+      "id": "rosen-5min-topic-0312",
+      "title": "EXTERNAL EAR CHONDRITIS/ABSCESS",
+      "pdfStart": 448,
+      "pdfEnd": 449
+    },
+    {
+      "id": "rosen-5min-topic-0313",
+      "title": "EXTREMITY TRAUMA, PENETRATING",
+      "pdfStart": 450,
+      "pdfEnd": 451
+    },
+    {
+      "id": "rosen-5min-topic-0314",
+      "title": "FACIAL FRACTURES",
+      "pdfStart": 452,
+      "pdfEnd": 452
+    },
+    {
+      "id": "rosen-5min-topic-0315",
+      "title": "PO TIDQID",
+      "pdfStart": 453,
+      "pdfEnd": 453
+    },
+    {
+      "id": "rosen-5min-topic-0316",
+      "title": "FAILURE TO THRIVE",
+      "pdfStart": 454,
+      "pdfEnd": 455
+    },
+    {
+      "id": "rosen-5min-topic-0317",
+      "title": "FATIGUE",
+      "pdfStart": 456,
+      "pdfEnd": 455
+    },
+    {
+      "id": "rosen-5min-topic-0318",
+      "title": "HEENT",
+      "pdfStart": 456,
+      "pdfEnd": 457
+    },
+    {
+      "id": "rosen-5min-topic-0319",
+      "title": "FEEDING PROBLEMS, PEDIATRIC",
+      "pdfStart": 458,
+      "pdfEnd": 459
+    },
+    {
+      "id": "rosen-5min-topic-0320",
+      "title": "FEEDING TUBE COMPLICATIONS",
+      "pdfStart": 460,
+      "pdfEnd": 461
+    },
+    {
+      "id": "rosen-5min-topic-0321",
+      "title": "FEMUR FRACTURE",
+      "pdfStart": 462,
+      "pdfEnd": 463
+    },
+    {
+      "id": "rosen-5min-topic-0322",
+      "title": "FEVER, ADULT",
+      "pdfStart": 464,
+      "pdfEnd": 465
+    },
+    {
+      "id": "rosen-5min-topic-0323",
+      "title": "FEVER, PEDIATRIC",
+      "pdfStart": 466,
+      "pdfEnd": 467
+    },
+    {
+      "id": "rosen-5min-topic-0324",
+      "title": "FIBROCYSTIC BREAST CHANGES",
+      "pdfStart": 468,
+      "pdfEnd": 469
+    },
+    {
+      "id": "rosen-5min-topic-0325",
+      "title": "FIBROMYALGIA",
+      "pdfStart": 470,
+      "pdfEnd": 471
+    },
+    {
+      "id": "rosen-5min-topic-0326",
+      "title": "FLAIL CHEST",
+      "pdfStart": 472,
+      "pdfEnd": 473
+    },
+    {
+      "id": "rosen-5min-topic-0327",
+      "title": "FOOT FRACTURE",
+      "pdfStart": 474,
+      "pdfEnd": 475
+    },
+    {
+      "id": "rosen-5min-topic-0328",
+      "title": "FOREARM FRACTURE, SHAFT/DISTAL",
+      "pdfStart": 476,
+      "pdfEnd": 477
+    },
+    {
+      "id": "rosen-5min-topic-0329",
+      "title": "FOREIGN BODY, EAR",
+      "pdfStart": 478,
+      "pdfEnd": 479
+    },
+    {
+      "id": "rosen-5min-topic-0330",
+      "title": "FOREIGN BODY, ESOPHAGEAL",
+      "pdfStart": 480,
+      "pdfEnd": 481
+    },
+    {
+      "id": "rosen-5min-topic-0331",
+      "title": "FOREIGN BODY, NASAL",
+      "pdfStart": 482,
+      "pdfEnd": 483
+    },
+    {
+      "id": "rosen-5min-topic-0332",
+      "title": "FOREIGN BODY, RECTAL",
+      "pdfStart": 484,
+      "pdfEnd": 485
+    },
+    {
+      "id": "rosen-5min-topic-0333",
+      "title": "FOURNIER GANGRENE",
+      "pdfStart": 486,
+      "pdfEnd": 487
+    },
+    {
+      "id": "rosen-5min-topic-0334",
+      "title": "FRACTURE, OPEN",
+      "pdfStart": 488,
+      "pdfEnd": 489
+    },
+    {
+      "id": "rosen-5min-topic-0335",
+      "title": "FRACTURES, PEDIATRIC",
+      "pdfStart": 490,
+      "pdfEnd": 491
+    },
+    {
+      "id": "rosen-5min-topic-0336",
+      "title": "FROSTBITE",
+      "pdfStart": 492,
+      "pdfEnd": 493
+    },
+    {
+      "id": "rosen-5min-topic-0337",
+      "title": "GALLSTONE ILEUS",
+      "pdfStart": 494,
+      "pdfEnd": 495
+    },
+    {
+      "id": "rosen-5min-topic-0338",
+      "title": "GANGRENE",
+      "pdfStart": 496,
+      "pdfEnd": 497
+    },
+    {
+      "id": "rosen-5min-topic-0339",
+      "title": "GASTRIC OUTLET OBSTRUCTION",
+      "pdfStart": 498,
+      "pdfEnd": 499
+    },
+    {
+      "id": "rosen-5min-topic-0340",
+      "title": "GASTRITIS",
+      "pdfStart": 500,
+      "pdfEnd": 501
+    },
+    {
+      "id": "rosen-5min-topic-0341",
+      "title": "GASTROENTERITIS",
+      "pdfStart": 502,
+      "pdfEnd": 503
+    },
+    {
+      "id": "rosen-5min-topic-0342",
+      "title": "GASTROESOPHAGEAL REFLUX DISEASE",
+      "pdfStart": 504,
+      "pdfEnd": 504
+    },
+    {
+      "id": "rosen-5min-topic-0343",
+      "title": "ADX10059",
+      "pdfStart": 505,
+      "pdfEnd": 505
+    },
+    {
+      "id": "rosen-5min-topic-0344",
+      "title": "GASTROINTESTINAL BLEEDING",
+      "pdfStart": 506,
+      "pdfEnd": 507
+    },
+    {
+      "id": "rosen-5min-topic-0345",
+      "title": "GERIATRIC TRAUMA",
+      "pdfStart": 508,
+      "pdfEnd": 509
+    },
+    {
+      "id": "rosen-5min-topic-0346",
+      "title": "GHB POISONING",
+      "pdfStart": 510,
+      "pdfEnd": 511
+    },
+    {
+      "id": "rosen-5min-topic-0347",
+      "title": "GIANT CELL ARTERITIS (GCA) (TEMPORAL ARTERITIS)",
+      "pdfStart": 512,
+      "pdfEnd": 513
+    },
+    {
+      "id": "rosen-5min-topic-0348",
+      "title": "GIARDIASIS",
+      "pdfStart": 514,
+      "pdfEnd": 515
+    },
+    {
+      "id": "rosen-5min-topic-0349",
+      "title": "GLAUCOMA",
+      "pdfStart": 516,
+      "pdfEnd": 517
+    },
+    {
+      "id": "rosen-5min-topic-0350",
+      "title": "GLOBE RUPTURE",
+      "pdfStart": 518,
+      "pdfEnd": 519
+    },
+    {
+      "id": "rosen-5min-topic-0351",
+      "title": "GLOMERULONEPHRITIS",
+      "pdfStart": 520,
+      "pdfEnd": 519
+    },
+    {
+      "id": "rosen-5min-topic-0352",
+      "title": "PT, PTT:",
+      "pdfStart": 520,
+      "pdfEnd": 520
+    },
+    {
+      "id": "rosen-5min-topic-0353",
+      "title": "MPGN:",
+      "pdfStart": 521,
+      "pdfEnd": 520
+    },
+    {
+      "id": "rosen-5min-topic-0354",
+      "title": "PSGN:",
+      "pdfStart": 521,
+      "pdfEnd": 520
+    },
+    {
+      "id": "rosen-5min-topic-0355",
+      "title": "RPGN:",
+      "pdfStart": 521,
+      "pdfEnd": 521
+    },
+    {
+      "id": "rosen-5min-topic-0356",
+      "title": "GONOCOCCAL DISEASE",
+      "pdfStart": 522,
+      "pdfEnd": 523
+    },
+    {
+      "id": "rosen-5min-topic-0357",
+      "title": "GOUT/PSEUDOGOUT",
+      "pdfStart": 524,
+      "pdfEnd": 525
+    },
+    {
+      "id": "rosen-5min-topic-0358",
+      "title": "GRANULOCYTOPENIA",
+      "pdfStart": 526,
+      "pdfEnd": 529
+    },
+    {
+      "id": "rosen-5min-topic-0359",
+      "title": "HALLUCINATIONS",
+      "pdfStart": 530,
+      "pdfEnd": 531
+    },
+    {
+      "id": "rosen-5min-topic-0360",
+      "title": "HALLUCINOGEN POISONING",
+      "pdfStart": 532,
+      "pdfEnd": 533
+    },
+    {
+      "id": "rosen-5min-topic-0361",
+      "title": "HAND INFECTION",
+      "pdfStart": 534,
+      "pdfEnd": 535
+    },
+    {
+      "id": "rosen-5min-topic-0362",
+      "title": "HAZMAT",
+      "pdfStart": 536,
+      "pdfEnd": 535
+    },
+    {
+      "id": "rosen-5min-topic-0363",
+      "title": "MSDS:",
+      "pdfStart": 536,
+      "pdfEnd": 537
+    },
+    {
+      "id": "rosen-5min-topic-0364",
+      "title": "HEAD TRAUMA, BLUNT",
+      "pdfStart": 538,
+      "pdfEnd": 539
+    },
+    {
+      "id": "rosen-5min-topic-0365",
+      "title": "HEAD TRAUMA, PENETRATING",
+      "pdfStart": 540,
+      "pdfEnd": 541
+    },
+    {
+      "id": "rosen-5min-topic-0366",
+      "title": "HEADACHE",
+      "pdfStart": 542,
+      "pdfEnd": 541
+    },
+    {
+      "id": "rosen-5min-topic-0367",
+      "title": "RCVS)",
+      "pdfStart": 542,
+      "pdfEnd": 542
+    },
+    {
+      "id": "rosen-5min-topic-0368",
+      "title": "NSAID",
+      "pdfStart": 543,
+      "pdfEnd": 543
+    },
+    {
+      "id": "rosen-5min-topic-0369",
+      "title": "HEADACHE, CLUSTER",
+      "pdfStart": 544,
+      "pdfEnd": 545
+    },
+    {
+      "id": "rosen-5min-topic-0370",
+      "title": "HEADACHE, MIGRAINE",
+      "pdfStart": 546,
+      "pdfEnd": 547
+    },
+    {
+      "id": "rosen-5min-topic-0371",
+      "title": "HEART MURMUR",
+      "pdfStart": 548,
+      "pdfEnd": 549
+    },
+    {
+      "id": "rosen-5min-topic-0372",
+      "title": "DIFFERENTIAL DIAGNOSIS GI:",
+      "pdfStart": 550,
+      "pdfEnd": 549
+    },
+    {
+      "id": "rosen-5min-topic-0373",
+      "title": "HELLP SYNDROME",
+      "pdfStart": 550,
+      "pdfEnd": 551
+    },
+    {
+      "id": "rosen-5min-topic-0374",
+      "title": "HEMATURIA/PROTEINURIA",
+      "pdfStart": 552,
+      "pdfEnd": 553
+    },
+    {
+      "id": "rosen-5min-topic-0375",
+      "title": "HEMOPHILIA",
+      "pdfStart": 554,
+      "pdfEnd": 555
+    },
+    {
+      "id": "rosen-5min-topic-0376",
+      "title": "HEMOPTYSIS",
+      "pdfStart": 556,
+      "pdfEnd": 555
+    },
+    {
+      "id": "rosen-5min-topic-0377",
+      "title": "PT/INR, PTT",
+      "pdfStart": 556,
+      "pdfEnd": 557
+    },
+    {
+      "id": "rosen-5min-topic-0378",
+      "title": "HEMORRHAGIC FEVERS",
+      "pdfStart": 558,
+      "pdfEnd": 557
+    },
+    {
+      "id": "rosen-5min-topic-0379",
+      "title": "TTP , ITTP",
+      "pdfStart": 558,
+      "pdfEnd": 558
+    },
+    {
+      "id": "rosen-5min-topic-0380",
+      "title": "RED FLAGS",
+      "pdfStart": 559,
+      "pdfEnd": 559
+    },
+    {
+      "id": "rosen-5min-topic-0381",
+      "title": "HEMORRHAGIC SHOCK",
+      "pdfStart": 560,
+      "pdfEnd": 559
+    },
+    {
+      "id": "rosen-5min-topic-0382",
+      "title": "PT, PTT",
+      "pdfStart": 560,
+      "pdfEnd": 561
+    },
+    {
+      "id": "rosen-5min-topic-0383",
+      "title": "HEMORRHOID",
+      "pdfStart": 562,
+      "pdfEnd": 563
+    },
+    {
+      "id": "rosen-5min-topic-0384",
+      "title": "HEMOTHORAX",
+      "pdfStart": 564,
+      "pdfEnd": 567
+    },
+    {
+      "id": "rosen-5min-topic-0385",
+      "title": "HEPATIC ENCEPHALOPATHY",
+      "pdfStart": 568,
+      "pdfEnd": 569
+    },
+    {
+      "id": "rosen-5min-topic-0386",
+      "title": "HEPATIC INJURY",
+      "pdfStart": 570,
+      "pdfEnd": 571
+    },
+    {
+      "id": "rosen-5min-topic-0387",
+      "title": "CMV , EBV , HSV , HIV",
+      "pdfStart": 572,
+      "pdfEnd": 571
+    },
+    {
+      "id": "rosen-5min-topic-0388",
+      "title": "HEPATITIS",
+      "pdfStart": 572,
+      "pdfEnd": 572
+    },
+    {
+      "id": "rosen-5min-topic-0389",
+      "title": "PO QID",
+      "pdfStart": 573,
+      "pdfEnd": 573
+    },
+    {
+      "id": "rosen-5min-topic-0390",
+      "title": "HEPATORENAL SYNDROME",
+      "pdfStart": 574,
+      "pdfEnd": 575
+    },
+    {
+      "id": "rosen-5min-topic-0391",
+      "title": "HERNIAS",
+      "pdfStart": 576,
+      "pdfEnd": 577
+    },
+    {
+      "id": "rosen-5min-topic-0392",
+      "title": "HERPES SIMPLEX",
+      "pdfStart": 578,
+      "pdfEnd": 578
+    },
+    {
+      "id": "rosen-5min-topic-0393",
+      "title": "CSF PCR",
+      "pdfStart": 579,
+      "pdfEnd": 579
+    },
+    {
+      "id": "rosen-5min-topic-0394",
+      "title": "HERPES ZOSTER",
+      "pdfStart": 580,
+      "pdfEnd": 581
+    },
+    {
+      "id": "rosen-5min-topic-0395",
+      "title": "HERPES, GENITAL",
+      "pdfStart": 582,
+      "pdfEnd": 583
+    },
+    {
+      "id": "rosen-5min-topic-0396",
+      "title": "ETIOLOGY GI:",
+      "pdfStart": 584,
+      "pdfEnd": 583
+    },
+    {
+      "id": "rosen-5min-topic-0397",
+      "title": "HICCUPS",
+      "pdfStart": 584,
+      "pdfEnd": 584
+    },
+    {
+      "id": "rosen-5min-topic-0398",
+      "title": "TIDBID",
+      "pdfStart": 585,
+      "pdfEnd": 585
+    },
+    {
+      "id": "rosen-5min-topic-0399",
+      "title": "DIFFERENTIAL DIAGNOSIS AMS:",
+      "pdfStart": 586,
+      "pdfEnd": 585
+    },
+    {
+      "id": "rosen-5min-topic-0400",
+      "title": "HACE:",
+      "pdfStart": 586,
+      "pdfEnd": 585
+    },
+    {
+      "id": "rosen-5min-topic-0401",
+      "title": "HAPE:",
+      "pdfStart": 586,
+      "pdfEnd": 585
+    },
+    {
+      "id": "rosen-5min-topic-0402",
+      "title": "HIGH-ALTITUDE ILLNESS",
+      "pdfStart": 586,
+      "pdfEnd": 586
+    },
+    {
+      "id": "rosen-5min-topic-0403",
+      "title": "ED TREATMENT/PROCEDURES AMS:",
+      "pdfStart": 587,
+      "pdfEnd": 587
+    },
+    {
+      "id": "rosen-5min-topic-0404",
+      "title": "HIP INJURY",
+      "pdfStart": 588,
+      "pdfEnd": 589
+    },
+    {
+      "id": "rosen-5min-topic-0405",
+      "title": "HIRSCHSPRUNG DISEASE",
+      "pdfStart": 590,
+      "pdfEnd": 591
+    },
+    {
+      "id": "rosen-5min-topic-0406",
+      "title": "HIV/AIDS",
+      "pdfStart": 592,
+      "pdfEnd": 593
+    },
+    {
+      "id": "rosen-5min-topic-0407",
+      "title": "HORDEOLUM AND CHALAZION",
+      "pdfStart": 594,
+      "pdfEnd": 597
+    },
+    {
+      "id": "rosen-5min-topic-0408",
+      "title": "HUMERUS FRACTURE",
+      "pdfStart": 598,
+      "pdfEnd": 599
+    },
+    {
+      "id": "rosen-5min-topic-0409",
+      "title": "HYDATIDIFORM MOLE",
+      "pdfStart": 600,
+      "pdfEnd": 601
+    },
+    {
+      "id": "rosen-5min-topic-0410",
+      "title": "HYDROCARBON POISONING",
+      "pdfStart": 602,
+      "pdfEnd": 602
+    },
+    {
+      "id": "rosen-5min-topic-0411",
+      "title": "CHAMP",
+      "pdfStart": 603,
+      "pdfEnd": 603
+    },
+    {
+      "id": "rosen-5min-topic-0412",
+      "title": "HYDROCELE",
+      "pdfStart": 604,
+      "pdfEnd": 605
+    },
+    {
+      "id": "rosen-5min-topic-0413",
+      "title": "HYDROCEPHALUS",
+      "pdfStart": 606,
+      "pdfEnd": 607
+    },
+    {
+      "id": "rosen-5min-topic-0414",
+      "title": "HYPERBARIC OXYGEN THERAPY",
+      "pdfStart": 608,
+      "pdfEnd": 609
+    },
+    {
+      "id": "rosen-5min-topic-0415",
+      "title": "HYPERCALCEMIA",
+      "pdfStart": 610,
+      "pdfEnd": 611
+    },
+    {
+      "id": "rosen-5min-topic-0416",
+      "title": "HYPEREMESIS GRAVIDARUM",
+      "pdfStart": 612,
+      "pdfEnd": 613
+    },
+    {
+      "id": "rosen-5min-topic-0417",
+      "title": "HYPERKALEMIA",
+      "pdfStart": 614,
+      "pdfEnd": 615
+    },
+    {
+      "id": "rosen-5min-topic-0418",
+      "title": "HYPERNATREMIA",
+      "pdfStart": 616,
+      "pdfEnd": 617
+    },
+    {
+      "id": "rosen-5min-topic-0419",
+      "title": "HYPEROSMOLAR SYNDROME",
+      "pdfStart": 618,
+      "pdfEnd": 619
+    },
+    {
+      "id": "rosen-5min-topic-0420",
+      "title": "HYPERPARATHYROIDISM",
+      "pdfStart": 620,
+      "pdfEnd": 621
+    },
+    {
+      "id": "rosen-5min-topic-0421",
+      "title": "CVA/ICH",
+      "pdfStart": 622,
+      "pdfEnd": 621
+    },
+    {
+      "id": "rosen-5min-topic-0422",
+      "title": "HYPERTENSIVE EMERGENCIES",
+      "pdfStart": 622,
+      "pdfEnd": 623
+    },
+    {
+      "id": "rosen-5min-topic-0423",
+      "title": "HYPERTHERMIA",
+      "pdfStart": 624,
+      "pdfEnd": 625
+    },
+    {
+      "id": "rosen-5min-topic-0424",
+      "title": "HLA-DR3",
+      "pdfStart": 626,
+      "pdfEnd": 625
+    },
+    {
+      "id": "rosen-5min-topic-0425",
+      "title": "HYPERTHYROIDISM",
+      "pdfStart": 626,
+      "pdfEnd": 627
+    },
+    {
+      "id": "rosen-5min-topic-0426",
+      "title": "HYPERVENTILATION SYNDROME",
+      "pdfStart": 628,
+      "pdfEnd": 629
+    },
+    {
+      "id": "rosen-5min-topic-0427",
+      "title": "HYPERVISCOSITY SYNDROME",
+      "pdfStart": 630,
+      "pdfEnd": 631
+    },
+    {
+      "id": "rosen-5min-topic-0428",
+      "title": "HYPHEMA",
+      "pdfStart": 632,
+      "pdfEnd": 633
+    },
+    {
+      "id": "rosen-5min-topic-0429",
+      "title": "HYPOCALCEMIA",
+      "pdfStart": 634,
+      "pdfEnd": 634
+    },
+    {
+      "id": "rosen-5min-topic-0430",
+      "title": "MISCELLANEOUS:",
+      "pdfStart": 635,
+      "pdfEnd": 635
+    },
+    {
+      "id": "rosen-5min-topic-0431",
+      "title": "HYPOGLYCEMIA",
+      "pdfStart": 636,
+      "pdfEnd": 637
+    },
+    {
+      "id": "rosen-5min-topic-0432",
+      "title": "HYPOGLYCEMIC AGENT POISONING",
+      "pdfStart": 638,
+      "pdfEnd": 639
+    },
+    {
+      "id": "rosen-5min-topic-0433",
+      "title": "HYPOKALEMIA",
+      "pdfStart": 640,
+      "pdfEnd": 641
+    },
+    {
+      "id": "rosen-5min-topic-0434",
+      "title": "HYPONATREMIA",
+      "pdfStart": 642,
+      "pdfEnd": 643
+    },
+    {
+      "id": "rosen-5min-topic-0435",
+      "title": "HYPOPARATHYROIDISM",
+      "pdfStart": 644,
+      "pdfEnd": 645
+    },
+    {
+      "id": "rosen-5min-topic-0436",
+      "title": "HYPOTHERMIA",
+      "pdfStart": 646,
+      "pdfEnd": 647
+    },
+    {
+      "id": "rosen-5min-topic-0437",
+      "title": "HYPOTHYROIDISM",
+      "pdfStart": 648,
+      "pdfEnd": 649
+    },
+    {
+      "id": "rosen-5min-topic-0438",
+      "title": "IDIOPATHIC THROMBOCYTOPENIC PURPURA",
+      "pdfStart": 650,
+      "pdfEnd": 651
+    },
+    {
+      "id": "rosen-5min-topic-0439",
+      "title": "IMMUNIZATIONS",
+      "pdfStart": 652,
+      "pdfEnd": 651
+    },
+    {
+      "id": "rosen-5min-topic-0440",
+      "title": "MMR).",
+      "pdfStart": 652,
+      "pdfEnd": 653
+    },
+    {
+      "id": "rosen-5min-topic-0441",
+      "title": "IMMUNOSUPPRESSION",
+      "pdfStart": 654,
+      "pdfEnd": 655
+    },
+    {
+      "id": "rosen-5min-topic-0442",
+      "title": "IMPETIGO",
+      "pdfStart": 656,
+      "pdfEnd": 657
+    },
+    {
+      "id": "rosen-5min-topic-0443",
+      "title": "INBORN ERRORS OF METABOLISM",
+      "pdfStart": 658,
+      "pdfEnd": 659
+    },
+    {
+      "id": "rosen-5min-topic-0444",
+      "title": "INFLAMMATORY BOWEL DISEASE",
+      "pdfStart": 660,
+      "pdfEnd": 660
+    },
+    {
+      "id": "rosen-5min-topic-0445",
+      "title": "PO TID",
+      "pdfStart": 661,
+      "pdfEnd": 661
+    },
+    {
+      "id": "rosen-5min-topic-0446",
+      "title": "INFLUENZA",
+      "pdfStart": 662,
+      "pdfEnd": 662
+    },
+    {
+      "id": "rosen-5min-topic-0447",
+      "title": "PREVENTION:",
+      "pdfStart": 663,
+      "pdfEnd": 663
+    },
+    {
+      "id": "rosen-5min-topic-0448",
+      "title": "INTRACEREBRAL HEMORRHAGE",
+      "pdfStart": 664,
+      "pdfEnd": 665
+    },
+    {
+      "id": "rosen-5min-topic-0449",
+      "title": "INTUSSUSCEPTION",
+      "pdfStart": 666,
+      "pdfEnd": 667
+    },
+    {
+      "id": "rosen-5min-topic-0450",
+      "title": "HLA-B27",
+      "pdfStart": 668,
+      "pdfEnd": 667
+    },
+    {
+      "id": "rosen-5min-topic-0451",
+      "title": "IRITIS",
+      "pdfStart": 668,
+      "pdfEnd": 669
+    },
+    {
+      "id": "rosen-5min-topic-0452",
+      "title": "IRON POISONING",
+      "pdfStart": 670,
+      "pdfEnd": 671
+    },
+    {
+      "id": "rosen-5min-topic-0453",
+      "title": "IRRITABLE BOWEL SYNDROME",
+      "pdfStart": 672,
+      "pdfEnd": 673
+    },
+    {
+      "id": "rosen-5min-topic-0454",
+      "title": "IRRITABLE INFANT",
+      "pdfStart": 674,
+      "pdfEnd": 675
+    },
+    {
+      "id": "rosen-5min-topic-0455",
+      "title": "IRRITANT GAS EXPOSURE",
+      "pdfStart": 676,
+      "pdfEnd": 677
+    },
+    {
+      "id": "rosen-5min-topic-0456",
+      "title": "ISONIAZID POISONING",
+      "pdfStart": 678,
+      "pdfEnd": 679
+    },
+    {
+      "id": "rosen-5min-topic-0457",
+      "title": "ISOPROPANOL POISONING",
+      "pdfStart": 680,
+      "pdfEnd": 681
+    },
+    {
+      "id": "rosen-5min-topic-0458",
+      "title": "JAUNDICE",
+      "pdfStart": 682,
+      "pdfEnd": 683
+    },
+    {
+      "id": "rosen-5min-topic-0459",
+      "title": "KAWASAKI DISEASE",
+      "pdfStart": 684,
+      "pdfEnd": 685
+    },
+    {
+      "id": "rosen-5min-topic-0460",
+      "title": "KNEE DISLOCATION",
+      "pdfStart": 686,
+      "pdfEnd": 687
+    },
+    {
+      "id": "rosen-5min-topic-0461",
+      "title": "KNEE INJURIES: ACL, PCL, MCL, MENISCUS",
+      "pdfStart": 688,
+      "pdfEnd": 688
+    },
+    {
+      "id": "rosen-5min-topic-0462",
+      "title": "PRE-HOSPITAL STABILIZATION AND",
+      "pdfStart": 689,
+      "pdfEnd": 689
+    },
+    {
+      "id": "rosen-5min-topic-0463",
+      "title": "LABOR",
+      "pdfStart": 690,
+      "pdfEnd": 691
+    },
+    {
+      "id": "rosen-5min-topic-0464",
+      "title": "BPPV:",
+      "pdfStart": 692,
+      "pdfEnd": 691
+    },
+    {
+      "id": "rosen-5min-topic-0465",
+      "title": "LABYRINTHITIS",
+      "pdfStart": 692,
+      "pdfEnd": 693
+    },
+    {
+      "id": "rosen-5min-topic-0466",
+      "title": "LACERATION MANAGEMENT",
+      "pdfStart": 694,
+      "pdfEnd": 695
+    },
+    {
+      "id": "rosen-5min-topic-0467",
+      "title": "LARYNGITIS",
+      "pdfStart": 696,
+      "pdfEnd": 697
+    },
+    {
+      "id": "rosen-5min-topic-0468",
+      "title": "LARYNX FRACTURE",
+      "pdfStart": 698,
+      "pdfEnd": 699
+    },
+    {
+      "id": "rosen-5min-topic-0469",
+      "title": "LEAD POISONING",
+      "pdfStart": 700,
+      "pdfEnd": 703
+    },
+    {
+      "id": "rosen-5min-topic-0470",
+      "title": "DIFFERENTIAL DIAGNOSIS CML:",
+      "pdfStart": 704,
+      "pdfEnd": 703
+    },
+    {
+      "id": "rosen-5min-topic-0471",
+      "title": "LEUKEMIA",
+      "pdfStart": 704,
+      "pdfEnd": 705
+    },
+    {
+      "id": "rosen-5min-topic-0472",
+      "title": "LEUKOCYTOSIS",
+      "pdfStart": 706,
+      "pdfEnd": 707
+    },
+    {
+      "id": "rosen-5min-topic-0473",
+      "title": "LIGHTNING INJURIES",
+      "pdfStart": 708,
+      "pdfEnd": 709
+    },
+    {
+      "id": "rosen-5min-topic-0474",
+      "title": "LITHIUM POISONING",
+      "pdfStart": 710,
+      "pdfEnd": 710
+    },
+    {
+      "id": "rosen-5min-topic-0475",
+      "title": "ADDITIONAL TREATMENT",
+      "pdfStart": 711,
+      "pdfEnd": 711
+    },
+    {
+      "id": "rosen-5min-topic-0476",
+      "title": "LUDWIG ANGINA",
+      "pdfStart": 712,
+      "pdfEnd": 713
+    },
+    {
+      "id": "rosen-5min-topic-0477",
+      "title": "LUNATE DISLOCATION",
+      "pdfStart": 714,
+      "pdfEnd": 715
+    },
+    {
+      "id": "rosen-5min-topic-0478",
+      "title": "LYME DISEASE",
+      "pdfStart": 716,
+      "pdfEnd": 717
+    },
+    {
+      "id": "rosen-5min-topic-0479",
+      "title": "LYMPHADENITIS",
+      "pdfStart": 718,
+      "pdfEnd": 719
+    },
+    {
+      "id": "rosen-5min-topic-0480",
+      "title": "LYMPHANGITIS",
+      "pdfStart": 720,
+      "pdfEnd": 721
+    },
+    {
+      "id": "rosen-5min-topic-0481",
+      "title": "LYMPHOGRANULOMA VENEREUM",
+      "pdfStart": 722,
+      "pdfEnd": 723
+    },
+    {
+      "id": "rosen-5min-topic-0482",
+      "title": "MALARIA",
+      "pdfStart": 724,
+      "pdfEnd": 725
+    },
+    {
+      "id": "rosen-5min-topic-0483",
+      "title": "MALLORYWEISS SYNDROME",
+      "pdfStart": 726,
+      "pdfEnd": 727
+    },
+    {
+      "id": "rosen-5min-topic-0484",
+      "title": "MALROTATION",
+      "pdfStart": 728,
+      "pdfEnd": 729
+    },
+    {
+      "id": "rosen-5min-topic-0485",
+      "title": "MANDIBULAR FRACTURES",
+      "pdfStart": 730,
+      "pdfEnd": 731
+    },
+    {
+      "id": "rosen-5min-topic-0486",
+      "title": "MARINE ENVENOMATION",
+      "pdfStart": 732,
+      "pdfEnd": 733
+    },
+    {
+      "id": "rosen-5min-topic-0487",
+      "title": "MASTITIS",
+      "pdfStart": 734,
+      "pdfEnd": 733
+    },
+    {
+      "id": "rosen-5min-topic-0488",
+      "title": "TMP/SMX",
+      "pdfStart": 734,
+      "pdfEnd": 735
+    },
+    {
+      "id": "rosen-5min-topic-0489",
+      "title": "MASTOIDITIS",
+      "pdfStart": 736,
+      "pdfEnd": 737
+    },
+    {
+      "id": "rosen-5min-topic-0490",
+      "title": "MDMA POISONING",
+      "pdfStart": 738,
+      "pdfEnd": 739
+    },
+    {
+      "id": "rosen-5min-topic-0491",
+      "title": "MEASLES",
+      "pdfStart": 740,
+      "pdfEnd": 741
+    },
+    {
+      "id": "rosen-5min-topic-0492",
+      "title": "MECKEL DIVERTICULUM",
+      "pdfStart": 742,
+      "pdfEnd": 745
+    },
+    {
+      "id": "rosen-5min-topic-0493",
+      "title": "MENINGITIS",
+      "pdfStart": 746,
+      "pdfEnd": 747
+    },
+    {
+      "id": "rosen-5min-topic-0494",
+      "title": "MENINGOCOCCEMIA",
+      "pdfStart": 748,
+      "pdfEnd": 749
+    },
+    {
+      "id": "rosen-5min-topic-0495",
+      "title": "MERCURY POISONING",
+      "pdfStart": 750,
+      "pdfEnd": 751
+    },
+    {
+      "id": "rosen-5min-topic-0496",
+      "title": "MESENTERIC ISCHEMIA",
+      "pdfStart": 752,
+      "pdfEnd": 753
+    },
+    {
+      "id": "rosen-5min-topic-0497",
+      "title": "METACARPAL INJURIES",
+      "pdfStart": 754,
+      "pdfEnd": 755
+    },
+    {
+      "id": "rosen-5min-topic-0498",
+      "title": "ME DIE A:",
+      "pdfStart": 756,
+      "pdfEnd": 755
+    },
+    {
+      "id": "rosen-5min-topic-0499",
+      "title": "METHANOL POISONING",
+      "pdfStart": 756,
+      "pdfEnd": 755
+    },
+    {
+      "id": "rosen-5min-topic-0500",
+      "title": "SIGNS AND SYMPTOMS GI:",
+      "pdfStart": 756,
+      "pdfEnd": 757
+    },
+    {
+      "id": "rosen-5min-topic-0501",
+      "title": "METHEMOGLOBINEMIA",
+      "pdfStart": 758,
+      "pdfEnd": 759
+    },
+    {
+      "id": "rosen-5min-topic-0502",
+      "title": "MITRAL VALVE PROLAPSE",
+      "pdfStart": 760,
+      "pdfEnd": 761
+    },
+    {
+      "id": "rosen-5min-topic-0503",
+      "title": "MOLLUSCUM CONTAGIOSUM",
+      "pdfStart": 762,
+      "pdfEnd": 763
+    },
+    {
+      "id": "rosen-5min-topic-0504",
+      "title": "MONOAMINE OXIDASE INHIBITOR POISONING",
+      "pdfStart": 764,
+      "pdfEnd": 764
+    },
+    {
+      "id": "rosen-5min-topic-0505",
+      "title": "ARDS:",
+      "pdfStart": 765,
+      "pdfEnd": 765
+    },
+    {
+      "id": "rosen-5min-topic-0506",
+      "title": "MONONUCLEOSIS",
+      "pdfStart": 766,
+      "pdfEnd": 767
+    },
+    {
+      "id": "rosen-5min-topic-0507",
+      "title": "CA-MRSA.",
+      "pdfStart": 768,
+      "pdfEnd": 767
+    },
+    {
+      "id": "rosen-5min-topic-0508",
+      "title": "MRSA, COMMUNITY ACQUIRED",
+      "pdfStart": 768,
+      "pdfEnd": 769
+    },
+    {
+      "id": "rosen-5min-topic-0509",
+      "title": "MULTIPLE MYELOMA",
+      "pdfStart": 770,
+      "pdfEnd": 771
+    },
+    {
+      "id": "rosen-5min-topic-0510",
+      "title": "MULTIPLE SCLEROSIS",
+      "pdfStart": 772,
+      "pdfEnd": 773
+    },
+    {
+      "id": "rosen-5min-topic-0511",
+      "title": "MUMPS",
+      "pdfStart": 774,
+      "pdfEnd": 775
+    },
+    {
+      "id": "rosen-5min-topic-0512",
+      "title": "MUNCHAUSEN SYNDROME",
+      "pdfStart": 776,
+      "pdfEnd": 777
+    },
+    {
+      "id": "rosen-5min-topic-0513",
+      "title": "MUSHROOM POISONING",
+      "pdfStart": 778,
+      "pdfEnd": 779
+    },
+    {
+      "id": "rosen-5min-topic-0514",
+      "title": "MYASTHENIA GRAVIS",
+      "pdfStart": 780,
+      "pdfEnd": 781
+    },
+    {
+      "id": "rosen-5min-topic-0515",
+      "title": "MYOCARDIAL CONTUSION",
+      "pdfStart": 782,
+      "pdfEnd": 783
+    },
+    {
+      "id": "rosen-5min-topic-0516",
+      "title": "MYOCARDITIS",
+      "pdfStart": 784,
+      "pdfEnd": 785
+    },
+    {
+      "id": "rosen-5min-topic-0517",
+      "title": "NASAL FRACTURES",
+      "pdfStart": 786,
+      "pdfEnd": 787
+    },
+    {
+      "id": "rosen-5min-topic-0518",
+      "title": "NECK INJURY BY STRANGULATION/HANGING",
+      "pdfStart": 788,
+      "pdfEnd": 789
+    },
+    {
+      "id": "rosen-5min-topic-0519",
+      "title": "NECK TRAUMA, BLUNT, ANTERIOR",
+      "pdfStart": 790,
+      "pdfEnd": 791
+    },
+    {
+      "id": "rosen-5min-topic-0520",
+      "title": "NECK TRAUMA, PENETRATING, ANTERIOR",
+      "pdfStart": 792,
+      "pdfEnd": 793
+    },
+    {
+      "id": "rosen-5min-topic-0521",
+      "title": "GABHS NSTI)",
+      "pdfStart": 794,
+      "pdfEnd": 793
+    },
+    {
+      "id": "rosen-5min-topic-0522",
+      "title": "NECROTIZING SOFT TISSUE INFECTIONS",
+      "pdfStart": 794,
+      "pdfEnd": 795
+    },
+    {
+      "id": "rosen-5min-topic-0523",
+      "title": "NECROTIZING ULCERATIVE GINGIVITIS",
+      "pdfStart": 796,
+      "pdfEnd": 797
+    },
+    {
+      "id": "rosen-5min-topic-0524",
+      "title": "NEEDLESTICK",
+      "pdfStart": 798,
+      "pdfEnd": 798
+    },
+    {
+      "id": "rosen-5min-topic-0525",
+      "title": "MEDICATION HIV:",
+      "pdfStart": 799,
+      "pdfEnd": 799
+    },
+    {
+      "id": "rosen-5min-topic-0526",
+      "title": "NEONATAL JAUNDICE",
+      "pdfStart": 800,
+      "pdfEnd": 801
+    },
+    {
+      "id": "rosen-5min-topic-0527",
+      "title": "NEONATAL SEPSIS",
+      "pdfStart": 802,
+      "pdfEnd": 803
+    },
+    {
+      "id": "rosen-5min-topic-0528",
+      "title": "NEPHRITIC SYNDROME",
+      "pdfStart": 804,
+      "pdfEnd": 805
+    },
+    {
+      "id": "rosen-5min-topic-0529",
+      "title": "NEPHROTIC SYNDROME",
+      "pdfStart": 806,
+      "pdfEnd": 807
+    },
+    {
+      "id": "rosen-5min-topic-0530",
+      "title": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "pdfStart": 808,
+      "pdfEnd": 809
+    },
+    {
+      "id": "rosen-5min-topic-0531",
+      "title": "NEUROLEPTIC POISONING",
+      "pdfStart": 810,
+      "pdfEnd": 811
+    },
+    {
+      "id": "rosen-5min-topic-0532",
+      "title": "NONCARDIOGENIC PULMONARY EDEMA",
+      "pdfStart": 812,
+      "pdfEnd": 813
+    },
+    {
+      "id": "rosen-5min-topic-0533",
+      "title": "NONSTEROIDAL ANTI-INFLAMMATORY POISONING",
+      "pdfStart": 814,
+      "pdfEnd": 813
+    },
+    {
+      "id": "rosen-5min-topic-0534",
+      "title": "PT/PTT:",
+      "pdfStart": 814,
+      "pdfEnd": 817
+    },
+    {
+      "id": "rosen-5min-topic-0535",
+      "title": "OCULOMOTOR NERVE PALSY",
+      "pdfStart": 818,
+      "pdfEnd": 819
+    },
+    {
+      "id": "rosen-5min-topic-0536",
+      "title": "OPIATE POISONING",
+      "pdfStart": 820,
+      "pdfEnd": 821
+    },
+    {
+      "id": "rosen-5min-topic-0537",
+      "title": "OPPORTUNISTIC INFECTIONS",
+      "pdfStart": 822,
+      "pdfEnd": 823
+    },
+    {
+      "id": "rosen-5min-topic-0538",
+      "title": "OPTIC NEURITIS",
+      "pdfStart": 824,
+      "pdfEnd": 825
+    },
+    {
+      "id": "rosen-5min-topic-0539",
+      "title": "DUMBELS:",
+      "pdfStart": 826,
+      "pdfEnd": 825
+    },
+    {
+      "id": "rosen-5min-topic-0540",
+      "title": "ORGANOPHOSPHATE POISONING",
+      "pdfStart": 826,
+      "pdfEnd": 827
+    },
+    {
+      "id": "rosen-5min-topic-0541",
+      "title": "OSGOODSCHLATTER DISEASE",
+      "pdfStart": 828,
+      "pdfEnd": 829
+    },
+    {
+      "id": "rosen-5min-topic-0542",
+      "title": "OSTEOGENESIS IMPERFECTA",
+      "pdfStart": 830,
+      "pdfEnd": 831
+    },
+    {
+      "id": "rosen-5min-topic-0543",
+      "title": "OSTEOMYELITIS",
+      "pdfStart": 832,
+      "pdfEnd": 833
+    },
+    {
+      "id": "rosen-5min-topic-0544",
+      "title": "OSTEOPOROSIS",
+      "pdfStart": 834,
+      "pdfEnd": 835
+    },
+    {
+      "id": "rosen-5min-topic-0545",
+      "title": "OTITIS EXTERNA",
+      "pdfStart": 836,
+      "pdfEnd": 837
+    },
+    {
+      "id": "rosen-5min-topic-0546",
+      "title": "OTITIS MEDIA",
+      "pdfStart": 838,
+      "pdfEnd": 839
+    },
+    {
+      "id": "rosen-5min-topic-0547",
+      "title": "OTOLOGIC TRAUMA",
+      "pdfStart": 840,
+      "pdfEnd": 841
+    },
+    {
+      "id": "rosen-5min-topic-0548",
+      "title": "OVARIAN CYST/TORSION",
+      "pdfStart": 842,
+      "pdfEnd": 845
+    },
+    {
+      "id": "rosen-5min-topic-0549",
+      "title": "PAIN (PRINCIPLES/MEDS/COMFORT CARE)",
+      "pdfStart": 846,
+      "pdfEnd": 847
+    },
+    {
+      "id": "rosen-5min-topic-0550",
+      "title": "COMMONLY ASSOCIATED CONDITIONS",
+      "pdfStart": 848,
+      "pdfEnd": 847
+    },
+    {
+      "id": "rosen-5min-topic-0551",
+      "title": "GENERAL MEASURES",
+      "pdfStart": 848,
+      "pdfEnd": 847
+    },
+    {
+      "id": "rosen-5min-topic-0552",
+      "title": "PANCREATIC TRAUMA",
+      "pdfStart": 848,
+      "pdfEnd": 849
+    },
+    {
+      "id": "rosen-5min-topic-0553",
+      "title": "PANCREATITIS",
+      "pdfStart": 850,
+      "pdfEnd": 851
+    },
+    {
+      "id": "rosen-5min-topic-0554",
+      "title": "PANIC ATTACK",
+      "pdfStart": 852,
+      "pdfEnd": 852
+    },
+    {
+      "id": "rosen-5min-topic-0555",
+      "title": "SSRI:",
+      "pdfStart": 853,
+      "pdfEnd": 853
+    },
+    {
+      "id": "rosen-5min-topic-0556",
+      "title": "PARAPHIMOSIS",
+      "pdfStart": 854,
+      "pdfEnd": 855
+    },
+    {
+      "id": "rosen-5min-topic-0557",
+      "title": "PARKINSON DISEASE",
+      "pdfStart": 856,
+      "pdfEnd": 856
+    },
+    {
+      "id": "rosen-5min-topic-0558",
+      "title": "MEDICATION PD:",
+      "pdfStart": 857,
+      "pdfEnd": 857
+    },
+    {
+      "id": "rosen-5min-topic-0559",
+      "title": "PARONYCHIA",
+      "pdfStart": 858,
+      "pdfEnd": 859
+    },
+    {
+      "id": "rosen-5min-topic-0560",
+      "title": "PATELLAR INJURIES",
+      "pdfStart": 860,
+      "pdfEnd": 861
+    },
+    {
+      "id": "rosen-5min-topic-0561",
+      "title": "PATENT DUCTUS ARTERIOSUS",
+      "pdfStart": 862,
+      "pdfEnd": 863
+    },
+    {
+      "id": "rosen-5min-topic-0562",
+      "title": "PEDIATRIC TRAUMA",
+      "pdfStart": 864,
+      "pdfEnd": 865
+    },
+    {
+      "id": "rosen-5min-topic-0563",
+      "title": "PEDICULOSIS",
+      "pdfStart": 866,
+      "pdfEnd": 867
+    },
+    {
+      "id": "rosen-5min-topic-0564",
+      "title": "PELVIC FRACTURE",
+      "pdfStart": 868,
+      "pdfEnd": 869
+    },
+    {
+      "id": "rosen-5min-topic-0565",
+      "title": "PELVIC INFLAMMATORY DISEASE",
+      "pdfStart": 870,
+      "pdfEnd": 871
+    },
+    {
+      "id": "rosen-5min-topic-0566",
+      "title": "PEMPHIGUS",
+      "pdfStart": 872,
+      "pdfEnd": 873
+    },
+    {
+      "id": "rosen-5min-topic-0567",
+      "title": "PENILE SHAFT FRACTURE",
+      "pdfStart": 874,
+      "pdfEnd": 875
+    },
+    {
+      "id": "rosen-5min-topic-0568",
+      "title": "PEPTIC ULCER",
+      "pdfStart": 876,
+      "pdfEnd": 877
+    },
+    {
+      "id": "rosen-5min-topic-0569",
+      "title": "PERFORATED VISCOUS",
+      "pdfStart": 878,
+      "pdfEnd": 879
+    },
+    {
+      "id": "rosen-5min-topic-0570",
+      "title": "ESSENTIAL WORKUP ECG",
+      "pdfStart": 880,
+      "pdfEnd": 879
+    },
+    {
+      "id": "rosen-5min-topic-0571",
+      "title": "PERICARDIAL EFFUSION/TAMPONADE",
+      "pdfStart": 880,
+      "pdfEnd": 881
+    },
+    {
+      "id": "rosen-5min-topic-0572",
+      "title": "PERICARDITIS",
+      "pdfStart": 882,
+      "pdfEnd": 883
+    },
+    {
+      "id": "rosen-5min-topic-0573",
+      "title": "PERILUNATE DISLOCATION",
+      "pdfStart": 884,
+      "pdfEnd": 885
+    },
+    {
+      "id": "rosen-5min-topic-0574",
+      "title": "CACN1AS:",
+      "pdfStart": 886,
+      "pdfEnd": 885
+    },
+    {
+      "id": "rosen-5min-topic-0575",
+      "title": "DIAGNOSIS TESTS & INTERPRETATION EKG:",
+      "pdfStart": 886,
+      "pdfEnd": 885
+    },
+    {
+      "id": "rosen-5min-topic-0576",
+      "title": "PERIODIC PARALYSIS",
+      "pdfStart": 886,
+      "pdfEnd": 885
+    },
+    {
+      "id": "rosen-5min-topic-0577",
+      "title": "SCN4A",
+      "pdfStart": 886,
+      "pdfEnd": 887
+    },
+    {
+      "id": "rosen-5min-topic-0578",
+      "title": "PERIODONTAL ABSCESS",
+      "pdfStart": 888,
+      "pdfEnd": 889
+    },
+    {
+      "id": "rosen-5min-topic-0579",
+      "title": "PERIORBITAL AND ORBITAL CELLULITIS",
+      "pdfStart": 890,
+      "pdfEnd": 891
+    },
+    {
+      "id": "rosen-5min-topic-0580",
+      "title": "PERIPHERAL NEUROPATHY",
+      "pdfStart": 892,
+      "pdfEnd": 893
+    },
+    {
+      "id": "rosen-5min-topic-0581",
+      "title": "ESSENTIAL WORKUP CAI:",
+      "pdfStart": 894,
+      "pdfEnd": 893
+    },
+    {
+      "id": "rosen-5min-topic-0582",
+      "title": "PERIPHERAL VASCULAR DISEASE",
+      "pdfStart": 894,
+      "pdfEnd": 894
+    },
+    {
+      "id": "rosen-5min-topic-0583",
+      "title": "ED TREATMENT/PROCEDURES CAI:",
+      "pdfStart": 895,
+      "pdfEnd": 895
+    },
+    {
+      "id": "rosen-5min-topic-0584",
+      "title": "PERIRECTAL ABSCESS",
+      "pdfStart": 896,
+      "pdfEnd": 897
+    },
+    {
+      "id": "rosen-5min-topic-0585",
+      "title": "PERITONSILLAR ABSCESS",
+      "pdfStart": 898,
+      "pdfEnd": 899
+    },
+    {
+      "id": "rosen-5min-topic-0586",
+      "title": "PERTUSSIS",
+      "pdfStart": 900,
+      "pdfEnd": 901
+    },
+    {
+      "id": "rosen-5min-topic-0587",
+      "title": "PHALANGEAL INJURIES, FOOT",
+      "pdfStart": 902,
+      "pdfEnd": 903
+    },
+    {
+      "id": "rosen-5min-topic-0588",
+      "title": "PHALANGEAL INJURIES, HAND",
+      "pdfStart": 904,
+      "pdfEnd": 905
+    },
+    {
+      "id": "rosen-5min-topic-0589",
+      "title": "GAS RADT:",
+      "pdfStart": 906,
+      "pdfEnd": 905
+    },
+    {
+      "id": "rosen-5min-topic-0590",
+      "title": "PHARYNGITIS",
+      "pdfStart": 906,
+      "pdfEnd": 907
+    },
+    {
+      "id": "rosen-5min-topic-0591",
+      "title": "PHENCYCLIDINE POISONING",
+      "pdfStart": 908,
+      "pdfEnd": 909
+    },
+    {
+      "id": "rosen-5min-topic-0592",
+      "title": "PHENYTOIN POISONING",
+      "pdfStart": 910,
+      "pdfEnd": 911
+    },
+    {
+      "id": "rosen-5min-topic-0593",
+      "title": "PHEOCHROMOCYTOMA",
+      "pdfStart": 912,
+      "pdfEnd": 913
+    },
+    {
+      "id": "rosen-5min-topic-0594",
+      "title": "PHIMOSIS",
+      "pdfStart": 914,
+      "pdfEnd": 915
+    },
+    {
+      "id": "rosen-5min-topic-0595",
+      "title": "PITYRIASIS ROSEA",
+      "pdfStart": 916,
+      "pdfEnd": 917
+    },
+    {
+      "id": "rosen-5min-topic-0596",
+      "title": "PLACENTAL ABRUPTION",
+      "pdfStart": 918,
+      "pdfEnd": 919
+    },
+    {
+      "id": "rosen-5min-topic-0597",
+      "title": "PLACENTA PREVIA",
+      "pdfStart": 920,
+      "pdfEnd": 921
+    },
+    {
+      "id": "rosen-5min-topic-0598",
+      "title": "PLANT POISONING",
+      "pdfStart": 922,
+      "pdfEnd": 923
+    },
+    {
+      "id": "rosen-5min-topic-0599",
+      "title": "PLEURAL EFFUSION",
+      "pdfStart": 924,
+      "pdfEnd": 925
+    },
+    {
+      "id": "rosen-5min-topic-0600",
+      "title": "PNEUMOCYSTIS PNEUMONIA",
+      "pdfStart": 926,
+      "pdfEnd": 927
+    },
+    {
+      "id": "rosen-5min-topic-0601",
+      "title": "PNEUMOMEDIASTINUM",
+      "pdfStart": 928,
+      "pdfEnd": 929
+    },
+    {
+      "id": "rosen-5min-topic-0602",
+      "title": "HCAP/HAP/VAP:",
+      "pdfStart": 930,
+      "pdfEnd": 929
+    },
+    {
+      "id": "rosen-5min-topic-0603",
+      "title": "PNEUMONIA, ADULT",
+      "pdfStart": 930,
+      "pdfEnd": 931
+    },
+    {
+      "id": "rosen-5min-topic-0604",
+      "title": "PNEUMONIA, PEDIATRIC",
+      "pdfStart": 932,
+      "pdfEnd": 933
+    },
+    {
+      "id": "rosen-5min-topic-0605",
+      "title": "PNEUMOTHORAX",
+      "pdfStart": 934,
+      "pdfEnd": 935
+    },
+    {
+      "id": "rosen-5min-topic-0606",
+      "title": "POISONING",
+      "pdfStart": 936,
+      "pdfEnd": 937
+    },
+    {
+      "id": "rosen-5min-topic-0607",
+      "title": "BLACK WIDOW SPIDER ANTIVENIN",
+      "pdfStart": 938,
+      "pdfEnd": 937
+    },
+    {
+      "id": "rosen-5min-topic-0608",
+      "title": "POISONING, ANTIDOTES",
+      "pdfStart": 938,
+      "pdfEnd": 938
+    },
+    {
+      "id": "rosen-5min-topic-0609",
+      "title": "CORAL SNAKE ANTIVENIN (MICRURUS",
+      "pdfStart": 939,
+      "pdfEnd": 939
+    },
+    {
+      "id": "rosen-5min-topic-0610",
+      "title": "HTN (HTN):",
+      "pdfStart": 940,
+      "pdfEnd": 939
+    },
+    {
+      "id": "rosen-5min-topic-0611",
+      "title": "INTRALIPIDS",
+      "pdfStart": 940,
+      "pdfEnd": 940
+    },
+    {
+      "id": "rosen-5min-topic-0612",
+      "title": "VITAMIN K (PHYTONADIONE, AQUA",
+      "pdfStart": 941,
+      "pdfEnd": 941
+    },
+    {
+      "id": "rosen-5min-topic-0613",
+      "title": "POISONING, GASTRIC DECONTAMINATION",
+      "pdfStart": 942,
+      "pdfEnd": 943
+    },
+    {
+      "id": "rosen-5min-topic-0614",
+      "title": "POISONING, TOXIDROMES",
+      "pdfStart": 944,
+      "pdfEnd": 945
+    },
+    {
+      "id": "rosen-5min-topic-0615",
+      "title": "POLIO",
+      "pdfStart": 946,
+      "pdfEnd": 947
+    },
+    {
+      "id": "rosen-5min-topic-0616",
+      "title": "DVT, PE",
+      "pdfStart": 948,
+      "pdfEnd": 947
+    },
+    {
+      "id": "rosen-5min-topic-0617",
+      "title": "POLYCYTHEMIA",
+      "pdfStart": 948,
+      "pdfEnd": 949
+    },
+    {
+      "id": "rosen-5min-topic-0618",
+      "title": "CIDM:",
+      "pdfStart": 950,
+      "pdfEnd": 949
+    },
+    {
+      "id": "rosen-5min-topic-0619",
+      "title": "POLYNEUROPATHY",
+      "pdfStart": 950,
+      "pdfEnd": 951
+    },
+    {
+      "id": "rosen-5min-topic-0620",
+      "title": "POSTPARTUM HEMORRHAGE",
+      "pdfStart": 952,
+      "pdfEnd": 953
+    },
+    {
+      "id": "rosen-5min-topic-0621",
+      "title": "ETIOLOGY PPE:",
+      "pdfStart": 954,
+      "pdfEnd": 953
+    },
+    {
+      "id": "rosen-5min-topic-0622",
+      "title": "POSTPARTUM INFECTION",
+      "pdfStart": 954,
+      "pdfEnd": 955
+    },
+    {
+      "id": "rosen-5min-topic-0623",
+      "title": "PREECLAMPSIA/ECLAMPSIA",
+      "pdfStart": 956,
+      "pdfEnd": 957
+    },
+    {
+      "id": "rosen-5min-topic-0624",
+      "title": "PREGNANCY, TRAUMA IN",
+      "pdfStart": 958,
+      "pdfEnd": 959
+    },
+    {
+      "id": "rosen-5min-topic-0625",
+      "title": "FDLMP",
+      "pdfStart": 960,
+      "pdfEnd": 959
+    },
+    {
+      "id": "rosen-5min-topic-0626",
+      "title": "PREGNANCY, UNCOMPLICATED",
+      "pdfStart": 960,
+      "pdfEnd": 961
+    },
+    {
+      "id": "rosen-5min-topic-0627",
+      "title": "INITIAL STABILIZATION/THERAPY O2",
+      "pdfStart": 962,
+      "pdfEnd": 961
+    },
+    {
+      "id": "rosen-5min-topic-0628",
+      "title": "PRE-HOSPITAL IV",
+      "pdfStart": 962,
+      "pdfEnd": 961
+    },
+    {
+      "id": "rosen-5min-topic-0629",
+      "title": "PRIAPISM",
+      "pdfStart": 962,
+      "pdfEnd": 963
+    },
+    {
+      "id": "rosen-5min-topic-0630",
+      "title": "PROCEDURAL SEDATION",
+      "pdfStart": 964,
+      "pdfEnd": 965
+    },
+    {
+      "id": "rosen-5min-topic-0631",
+      "title": "PROSTATITIS",
+      "pdfStart": 966,
+      "pdfEnd": 966
+    },
+    {
+      "id": "rosen-5min-topic-0632",
+      "title": "CPPS:",
+      "pdfStart": 967,
+      "pdfEnd": 967
+    },
+    {
+      "id": "rosen-5min-topic-0633",
+      "title": "PRURITUS",
+      "pdfStart": 968,
+      "pdfEnd": 968
+    },
+    {
+      "id": "rosen-5min-topic-0634",
+      "title": "TIDQID",
+      "pdfStart": 969,
+      "pdfEnd": 969
+    },
+    {
+      "id": "rosen-5min-topic-0635",
+      "title": "PSEUDOTUMOR CEREBRI",
+      "pdfStart": 970,
+      "pdfEnd": 971
+    },
+    {
+      "id": "rosen-5min-topic-0636",
+      "title": "PSORIASIS",
+      "pdfStart": 972,
+      "pdfEnd": 973
+    },
+    {
+      "id": "rosen-5min-topic-0637",
+      "title": "PSYCHIATRIC COMMITMENT",
+      "pdfStart": 974,
+      "pdfEnd": 975
+    },
+    {
+      "id": "rosen-5min-topic-0638",
+      "title": "PSYCHOSIS, ACUTE",
+      "pdfStart": 976,
+      "pdfEnd": 977
+    },
+    {
+      "id": "rosen-5min-topic-0639",
+      "title": "PSYCHOSIS, MEDICAL VS. PSYCHIATRIC",
+      "pdfStart": 978,
+      "pdfEnd": 979
+    },
+    {
+      "id": "rosen-5min-topic-0640",
+      "title": "PULMONARY CONTUSION",
+      "pdfStart": 980,
+      "pdfEnd": 981
+    },
+    {
+      "id": "rosen-5min-topic-0641",
+      "title": "PULMONARY EDEMA",
+      "pdfStart": 982,
+      "pdfEnd": 982
+    },
+    {
+      "id": "rosen-5min-topic-0642",
+      "title": "AHF .",
+      "pdfStart": 983,
+      "pdfEnd": 983
+    },
+    {
+      "id": "rosen-5min-topic-0643",
+      "title": "PULMONARY EMBOLISM",
+      "pdfStart": 984,
+      "pdfEnd": 985
+    },
+    {
+      "id": "rosen-5min-topic-0644",
+      "title": "PURPURA",
+      "pdfStart": 986,
+      "pdfEnd": 987
+    },
+    {
+      "id": "rosen-5min-topic-0645",
+      "title": "PYELONEPHRITIS",
+      "pdfStart": 988,
+      "pdfEnd": 989
+    },
+    {
+      "id": "rosen-5min-topic-0646",
+      "title": "PYLORIC STENOSIS",
+      "pdfStart": 990,
+      "pdfEnd": 991
+    },
+    {
+      "id": "rosen-5min-topic-0647",
+      "title": "QT SYNDROME, PROLONGED",
+      "pdfStart": 992,
+      "pdfEnd": 993
+    },
+    {
+      "id": "rosen-5min-topic-0648",
+      "title": "RABIES",
+      "pdfStart": 994,
+      "pdfEnd": 995
+    },
+    {
+      "id": "rosen-5min-topic-0649",
+      "title": "RADIATION INJURY",
+      "pdfStart": 996,
+      "pdfEnd": 998
+    },
+    {
+      "id": "rosen-5min-topic-0650",
+      "title": "ESR, CRP",
+      "pdfStart": 999,
+      "pdfEnd": 999
+    },
+    {
+      "id": "rosen-5min-topic-0651",
+      "title": "RASH, PEDIATRIC",
+      "pdfStart": 1000,
+      "pdfEnd": 1001
+    },
+    {
+      "id": "rosen-5min-topic-0652",
+      "title": "REACTIVE ARTHRITIS",
+      "pdfStart": 1002,
+      "pdfEnd": 1003
+    },
+    {
+      "id": "rosen-5min-topic-0653",
+      "title": "RECTAL PROLAPSE",
+      "pdfStart": 1004,
+      "pdfEnd": 1005
+    },
+    {
+      "id": "rosen-5min-topic-0654",
+      "title": "RECTAL TRAUMA",
+      "pdfStart": 1006,
+      "pdfEnd": 1007
+    },
+    {
+      "id": "rosen-5min-topic-0655",
+      "title": "RED EYE",
+      "pdfStart": 1008,
+      "pdfEnd": 1008
+    },
+    {
+      "id": "rosen-5min-topic-0656",
+      "title": "BIDTID",
+      "pdfStart": 1009,
+      "pdfEnd": 1009
+    },
+    {
+      "id": "rosen-5min-topic-0657",
+      "title": "RENAL CALCULUS",
+      "pdfStart": 1010,
+      "pdfEnd": 1011
+    },
+    {
+      "id": "rosen-5min-topic-0658",
+      "title": "BUN/C",
+      "pdfStart": 1012,
+      "pdfEnd": 1011
+    },
+    {
+      "id": "rosen-5min-topic-0659",
+      "title": "RENAL FAILURE (ACUTE KIDNEY INJURY)",
+      "pdfStart": 1012,
+      "pdfEnd": 1013
+    },
+    {
+      "id": "rosen-5min-topic-0660",
+      "title": "RENAL INJURY",
+      "pdfStart": 1014,
+      "pdfEnd": 1015
+    },
+    {
+      "id": "rosen-5min-topic-0661",
+      "title": "REPERFUSION THERAPY, CARDIAC",
+      "pdfStart": 1016,
+      "pdfEnd": 1015
+    },
+    {
+      "id": "rosen-5min-topic-0662",
+      "title": "STEMI ECG",
+      "pdfStart": 1016,
+      "pdfEnd": 1016
+    },
+    {
+      "id": "rosen-5min-topic-0663",
+      "title": "LMWH:",
+      "pdfStart": 1017,
+      "pdfEnd": 1017
+    },
+    {
+      "id": "rosen-5min-topic-0664",
+      "title": "REPERFUSION THERAPY, CEREBRAL",
+      "pdfStart": 1018,
+      "pdfEnd": 1019
+    },
+    {
+      "id": "rosen-5min-topic-0665",
+      "title": "RESPIRATORY DISTRESS",
+      "pdfStart": 1020,
+      "pdfEnd": 1021
+    },
+    {
+      "id": "rosen-5min-topic-0666",
+      "title": "RESUSCITATION, NEONATE",
+      "pdfStart": 1022,
+      "pdfEnd": 1022
+    },
+    {
+      "id": "rosen-5min-topic-0667",
+      "title": "NCIU.",
+      "pdfStart": 1023,
+      "pdfEnd": 1023
+    },
+    {
+      "id": "rosen-5min-topic-0668",
+      "title": "RESUSCITATION, PEDIATRIC",
+      "pdfStart": 1024,
+      "pdfEnd": 1025
+    },
+    {
+      "id": "rosen-5min-topic-0669",
+      "title": "ETIOLOGY RRD:",
+      "pdfStart": 1026,
+      "pdfEnd": 1025
+    },
+    {
+      "id": "rosen-5min-topic-0670",
+      "title": "RETINAL DETACHMENT",
+      "pdfStart": 1026,
+      "pdfEnd": 1027
+    },
+    {
+      "id": "rosen-5min-topic-0671",
+      "title": "RETRO-ORBITAL HEMATOMA",
+      "pdfStart": 1028,
+      "pdfEnd": 1029
+    },
+    {
+      "id": "rosen-5min-topic-0672",
+      "title": "RETROPHARYNGEAL ABSCESS",
+      "pdfStart": 1030,
+      "pdfEnd": 1031
+    },
+    {
+      "id": "rosen-5min-topic-0673",
+      "title": "REYE SYNDROME",
+      "pdfStart": 1032,
+      "pdfEnd": 1033
+    },
+    {
+      "id": "rosen-5min-topic-0674",
+      "title": "RHABDOMYOLYSIS",
+      "pdfStart": 1034,
+      "pdfEnd": 1034
+    },
+    {
+      "id": "rosen-5min-topic-0675",
+      "title": "COMPLICATIONS ARF",
+      "pdfStart": 1035,
+      "pdfEnd": 1035
+    },
+    {
+      "id": "rosen-5min-topic-0676",
+      "title": "RHEUMATIC FEVER",
+      "pdfStart": 1036,
+      "pdfEnd": 1037
+    },
+    {
+      "id": "rosen-5min-topic-0677",
+      "title": "RIB FRACTURE",
+      "pdfStart": 1038,
+      "pdfEnd": 1039
+    },
+    {
+      "id": "rosen-5min-topic-0678",
+      "title": "RING/CONSTRICTING BAND REMOVAL",
+      "pdfStart": 1040,
+      "pdfEnd": 1041
+    },
+    {
+      "id": "rosen-5min-topic-0679",
+      "title": "ROCKY MOUNTAIN SPOTTED FEVER",
+      "pdfStart": 1042,
+      "pdfEnd": 1043
+    },
+    {
+      "id": "rosen-5min-topic-0680",
+      "title": "HHV-6 DNA:",
+      "pdfStart": 1044,
+      "pdfEnd": 1043
+    },
+    {
+      "id": "rosen-5min-topic-0681",
+      "title": "ROSEOLA",
+      "pdfStart": 1044,
+      "pdfEnd": 1045
+    },
+    {
+      "id": "rosen-5min-topic-0682",
+      "title": "RUBELLA",
+      "pdfStart": 1046,
+      "pdfEnd": 1047
+    },
+    {
+      "id": "rosen-5min-topic-0683",
+      "title": "SACRAL FRACTURE",
+      "pdfStart": 1048,
+      "pdfEnd": 1049
+    },
+    {
+      "id": "rosen-5min-topic-0684",
+      "title": "SALICYLATE POISONING",
+      "pdfStart": 1050,
+      "pdfEnd": 1051
+    },
+    {
+      "id": "rosen-5min-topic-0685",
+      "title": "EENT:",
+      "pdfStart": 1052,
+      "pdfEnd": 1051
+    },
+    {
+      "id": "rosen-5min-topic-0686",
+      "title": "SARCOIDOSIS",
+      "pdfStart": 1052,
+      "pdfEnd": 1052
+    },
+    {
+      "id": "rosen-5min-topic-0687",
+      "title": "DIFFERENTIAL DIAGNOSIS HIV",
+      "pdfStart": 1053,
+      "pdfEnd": 1053
+    },
+    {
+      "id": "rosen-5min-topic-0688",
+      "title": "SCABIES",
+      "pdfStart": 1054,
+      "pdfEnd": 1055
+    },
+    {
+      "id": "rosen-5min-topic-0689",
+      "title": "SCAPHOID FRACTURE",
+      "pdfStart": 1056,
+      "pdfEnd": 1057
+    },
+    {
+      "id": "rosen-5min-topic-0690",
+      "title": "SCHIZOPHRENIA",
+      "pdfStart": 1058,
+      "pdfEnd": 1059
+    },
+    {
+      "id": "rosen-5min-topic-0691",
+      "title": "SCIATICA/HERNIATED DISC",
+      "pdfStart": 1060,
+      "pdfEnd": 1061
+    },
+    {
+      "id": "rosen-5min-topic-0692",
+      "title": "SEBORRHEIC DERMATITIS",
+      "pdfStart": 1062,
+      "pdfEnd": 1063
+    },
+    {
+      "id": "rosen-5min-topic-0693",
+      "title": "SEIZURE, ADULT",
+      "pdfStart": 1064,
+      "pdfEnd": 1065
+    },
+    {
+      "id": "rosen-5min-topic-0694",
+      "title": "SEIZURE, FEBRILE",
+      "pdfStart": 1066,
+      "pdfEnd": 1067
+    },
+    {
+      "id": "rosen-5min-topic-0695",
+      "title": "SEIZURE, PEDIATRIC",
+      "pdfStart": 1068,
+      "pdfEnd": 1069
+    },
+    {
+      "id": "rosen-5min-topic-0696",
+      "title": "MOF .",
+      "pdfStart": 1070,
+      "pdfEnd": 1069
+    },
+    {
+      "id": "rosen-5min-topic-0697",
+      "title": "SEPSIS",
+      "pdfStart": 1070,
+      "pdfEnd": 1071
+    },
+    {
+      "id": "rosen-5min-topic-0698",
+      "title": "SEROTONIN SYNDROME (DRUG-INDUCED)",
+      "pdfStart": 1072,
+      "pdfEnd": 1073
+    },
+    {
+      "id": "rosen-5min-topic-0699",
+      "title": "SERUM SICKNESS",
+      "pdfStart": 1074,
+      "pdfEnd": 1075
+    },
+    {
+      "id": "rosen-5min-topic-0700",
+      "title": "SEXUAL ASSAULT",
+      "pdfStart": 1076,
+      "pdfEnd": 1077
+    },
+    {
+      "id": "rosen-5min-topic-0701",
+      "title": "SHOCK",
+      "pdfStart": 1078,
+      "pdfEnd": 1079
+    },
+    {
+      "id": "rosen-5min-topic-0702",
+      "title": "SHOULDER DISLOCATION",
+      "pdfStart": 1080,
+      "pdfEnd": 1081
+    },
+    {
+      "id": "rosen-5min-topic-0703",
+      "title": "SICK SINUS SYNDROME",
+      "pdfStart": 1082,
+      "pdfEnd": 1083
+    },
+    {
+      "id": "rosen-5min-topic-0704",
+      "title": "CVA/TIA:",
+      "pdfStart": 1084,
+      "pdfEnd": 1083
+    },
+    {
+      "id": "rosen-5min-topic-0705",
+      "title": "SICKLE CELL DISEASE",
+      "pdfStart": 1084,
+      "pdfEnd": 1085
+    },
+    {
+      "id": "rosen-5min-topic-0706",
+      "title": "SINUSITIS (RHINOSINUSITIS)",
+      "pdfStart": 1086,
+      "pdfEnd": 1087
+    },
+    {
+      "id": "rosen-5min-topic-0707",
+      "title": "SKIN CANCER",
+      "pdfStart": 1088,
+      "pdfEnd": 1089
+    },
+    {
+      "id": "rosen-5min-topic-0708",
+      "title": "SLEEP APNEA",
+      "pdfStart": 1090,
+      "pdfEnd": 1091
+    },
+    {
+      "id": "rosen-5min-topic-0709",
+      "title": "SLIPPED CAPITAL FEMORAL EPIPHYSIS",
+      "pdfStart": 1092,
+      "pdfEnd": 1093
+    },
+    {
+      "id": "rosen-5min-topic-0710",
+      "title": "SMALL-BOWEL INJURY",
+      "pdfStart": 1094,
+      "pdfEnd": 1095
+    },
+    {
+      "id": "rosen-5min-topic-0711",
+      "title": "SMOKE INHALATION",
+      "pdfStart": 1096,
+      "pdfEnd": 1097
+    },
+    {
+      "id": "rosen-5min-topic-0712",
+      "title": "SNAKE ENVENOMATION",
+      "pdfStart": 1098,
+      "pdfEnd": 1099
+    },
+    {
+      "id": "rosen-5min-topic-0713",
+      "title": "SPIDER BITE, BLACK WIDOW",
+      "pdfStart": 1100,
+      "pdfEnd": 1101
+    },
+    {
+      "id": "rosen-5min-topic-0714",
+      "title": "SPIDER BITE, BROWN RECLUSE",
+      "pdfStart": 1102,
+      "pdfEnd": 1102
+    },
+    {
+      "id": "rosen-5min-topic-0715",
+      "title": "IM PRN",
+      "pdfStart": 1103,
+      "pdfEnd": 1103
+    },
+    {
+      "id": "rosen-5min-topic-0716",
+      "title": "SPINAL CORD SYNDROMES",
+      "pdfStart": 1104,
+      "pdfEnd": 1105
+    },
+    {
+      "id": "rosen-5min-topic-0717",
+      "title": "SPINE INJURY: CERVICAL, ADULT",
+      "pdfStart": 1106,
+      "pdfEnd": 1107
+    },
+    {
+      "id": "rosen-5min-topic-0718",
+      "title": "SPINE INJURY: CERVICAL, PEDIATRIC",
+      "pdfStart": 1108,
+      "pdfEnd": 1109
+    },
+    {
+      "id": "rosen-5min-topic-0719",
+      "title": "SPINE INJURY: COCCYX",
+      "pdfStart": 1110,
+      "pdfEnd": 1109
+    },
+    {
+      "id": "rosen-5min-topic-0720",
+      "title": "TREATMENT GENERAL MEASURES",
+      "pdfStart": 1110,
+      "pdfEnd": 1110
+    },
+    {
+      "id": "rosen-5min-topic-0721",
+      "title": "SURGERY/OTHER PROCEDURES",
+      "pdfStart": 1111,
+      "pdfEnd": 1111
+    },
+    {
+      "id": "rosen-5min-topic-0722",
+      "title": "SPINE INJURY: LUMBAR",
+      "pdfStart": 1112,
+      "pdfEnd": 1113
+    },
+    {
+      "id": "rosen-5min-topic-0723",
+      "title": "SPINE INJURY: THORACIC",
+      "pdfStart": 1114,
+      "pdfEnd": 1115
+    },
+    {
+      "id": "rosen-5min-topic-0724",
+      "title": "SPLENIC INJURY",
+      "pdfStart": 1116,
+      "pdfEnd": 1117
+    },
+    {
+      "id": "rosen-5min-topic-0725",
+      "title": "SPONDYLOLYSIS/SPONDYLOLISTHESIS",
+      "pdfStart": 1118,
+      "pdfEnd": 1119
+    },
+    {
+      "id": "rosen-5min-topic-0726",
+      "title": "SPONTANEOUS BACTERIAL PERITONITIS",
+      "pdfStart": 1120,
+      "pdfEnd": 1121
+    },
+    {
+      "id": "rosen-5min-topic-0727",
+      "title": "SPOROTRICHOSIS",
+      "pdfStart": 1122,
+      "pdfEnd": 1123
+    },
+    {
+      "id": "rosen-5min-topic-0728",
+      "title": "STAPHYLOCOCCAL SCALDED SKIN SYNDROME",
+      "pdfStart": 1124,
+      "pdfEnd": 1125
+    },
+    {
+      "id": "rosen-5min-topic-0729",
+      "title": "STERNOCLAVICULAR JOINT INJURY",
+      "pdfStart": 1126,
+      "pdfEnd": 1127
+    },
+    {
+      "id": "rosen-5min-topic-0730",
+      "title": "STEVENSJOHNSON SYNDROME",
+      "pdfStart": 1128,
+      "pdfEnd": 1129
+    },
+    {
+      "id": "rosen-5min-topic-0731",
+      "title": "STING, BEE",
+      "pdfStart": 1130,
+      "pdfEnd": 1131
+    },
+    {
+      "id": "rosen-5min-topic-0732",
+      "title": "STING, SCORPION",
+      "pdfStart": 1132,
+      "pdfEnd": 1133
+    },
+    {
+      "id": "rosen-5min-topic-0733",
+      "title": "ETIOLOGY NF:",
+      "pdfStart": 1134,
+      "pdfEnd": 1133
+    },
+    {
+      "id": "rosen-5min-topic-0734",
+      "title": "STREPTOCOCCAL DISEASE",
+      "pdfStart": 1134,
+      "pdfEnd": 1135
+    },
+    {
+      "id": "rosen-5min-topic-0735",
+      "title": "STRIDOR",
+      "pdfStart": 1136,
+      "pdfEnd": 1137
+    },
+    {
+      "id": "rosen-5min-topic-0736",
+      "title": "SUBARACHNOID HEMORRHAGE",
+      "pdfStart": 1138,
+      "pdfEnd": 1139
+    },
+    {
+      "id": "rosen-5min-topic-0737",
+      "title": "SUBDURAL HEMATOMA",
+      "pdfStart": 1140,
+      "pdfEnd": 1141
+    },
+    {
+      "id": "rosen-5min-topic-0738",
+      "title": "SIDS.",
+      "pdfStart": 1142,
+      "pdfEnd": 1141
+    },
+    {
+      "id": "rosen-5min-topic-0739",
+      "title": "SUDDEN INFANT DEATH SYNDROME (SIDS)",
+      "pdfStart": 1142,
+      "pdfEnd": 1143
+    },
+    {
+      "id": "rosen-5min-topic-0740",
+      "title": "SUICIDE, RISK EVALUATION",
+      "pdfStart": 1144,
+      "pdfEnd": 1145
+    },
+    {
+      "id": "rosen-5min-topic-0741",
+      "title": "SUPRAVENTRICULAR TACHYCARDIA",
+      "pdfStart": 1146,
+      "pdfEnd": 1147
+    },
+    {
+      "id": "rosen-5min-topic-0742",
+      "title": "SYMPATHOMIMETIC POISONING",
+      "pdfStart": 1148,
+      "pdfEnd": 1149
+    },
+    {
+      "id": "rosen-5min-topic-0743",
+      "title": "SYNCOPE",
+      "pdfStart": 1150,
+      "pdfEnd": 1151
+    },
+    {
+      "id": "rosen-5min-topic-0744",
+      "title": "SECRETION (SIADH)",
+      "pdfStart": 1152,
+      "pdfEnd": 1151
+    },
+    {
+      "id": "rosen-5min-topic-0745",
+      "title": "SIADH.",
+      "pdfStart": 1152,
+      "pdfEnd": 1151
+    },
+    {
+      "id": "rosen-5min-topic-0746",
+      "title": "SYNDROME OF INAPPROPRIATE ANTIDIURETIC HORMONE",
+      "pdfStart": 1152,
+      "pdfEnd": 1152
+    },
+    {
+      "id": "rosen-5min-topic-0747",
+      "title": "SIADH",
+      "pdfStart": 1153,
+      "pdfEnd": 1152
+    },
+    {
+      "id": "rosen-5min-topic-0748",
+      "title": "SYNDROME OF INAPPROPRIATE ANTIDIURETIC HORMONE SECRETION (SIADH)",
+      "pdfStart": 1153,
+      "pdfEnd": 1153
+    },
+    {
+      "id": "rosen-5min-topic-0749",
+      "title": "CBC, CRP , ESR:",
+      "pdfStart": 1154,
+      "pdfEnd": 1153
+    },
+    {
+      "id": "rosen-5min-topic-0750",
+      "title": "DIFFERENTIAL DIAGNOSIS SA",
+      "pdfStart": 1154,
+      "pdfEnd": 1153
+    },
+    {
+      "id": "rosen-5min-topic-0751",
+      "title": "SYNOVITIS, TOXIC",
+      "pdfStart": 1154,
+      "pdfEnd": 1155
+    },
+    {
+      "id": "rosen-5min-topic-0752",
+      "title": "SYPHILIS",
+      "pdfStart": 1156,
+      "pdfEnd": 1157
+    },
+    {
+      "id": "rosen-5min-topic-0753",
+      "title": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "pdfStart": 1158,
+      "pdfEnd": 1159
+    },
+    {
+      "id": "rosen-5min-topic-0754",
+      "title": "TACHYDYSRHYTHMIAS",
+      "pdfStart": 1160,
+      "pdfEnd": 1161
+    },
+    {
+      "id": "rosen-5min-topic-0755",
+      "title": "TASER INJURIES",
+      "pdfStart": 1162,
+      "pdfEnd": 1163
+    },
+    {
+      "id": "rosen-5min-topic-0756",
+      "title": "TEMPORALMANDIBULAR JOINT INJURY/SYNDROME",
+      "pdfStart": 1164,
+      "pdfEnd": 1165
+    },
+    {
+      "id": "rosen-5min-topic-0757",
+      "title": "TENDON LACERATION",
+      "pdfStart": 1166,
+      "pdfEnd": 1167
+    },
+    {
+      "id": "rosen-5min-topic-0758",
+      "title": "TENDONITIS",
+      "pdfStart": 1168,
+      "pdfEnd": 1169
+    },
+    {
+      "id": "rosen-5min-topic-0759",
+      "title": "TENOSYNOVITIS",
+      "pdfStart": 1170,
+      "pdfEnd": 1171
+    },
+    {
+      "id": "rosen-5min-topic-0760",
+      "title": "TESTICULAR TORSION",
+      "pdfStart": 1172,
+      "pdfEnd": 1173
+    },
+    {
+      "id": "rosen-5min-topic-0761",
+      "title": "TETANUS",
+      "pdfStart": 1174,
+      "pdfEnd": 1175
+    },
+    {
+      "id": "rosen-5min-topic-0762",
+      "title": "THEOPHYLLINE POISONING",
+      "pdfStart": 1176,
+      "pdfEnd": 1177
+    },
+    {
+      "id": "rosen-5min-topic-0763",
+      "title": "THORACIC OUTLET SYNDROME",
+      "pdfStart": 1178,
+      "pdfEnd": 1178
+    },
+    {
+      "id": "rosen-5min-topic-0764",
+      "title": "NTOS:",
+      "pdfStart": 1179,
+      "pdfEnd": 1179
+    },
+    {
+      "id": "rosen-5min-topic-0765",
+      "title": "THROMBOTIC THROMBOCYTOPENIC PURPURA",
+      "pdfStart": 1180,
+      "pdfEnd": 1180
+    },
+    {
+      "id": "rosen-5min-topic-0766",
+      "title": "DIFFERENTIAL DIAGNOSIS HUS:",
+      "pdfStart": 1181,
+      "pdfEnd": 1181
+    },
+    {
+      "id": "rosen-5min-topic-0767",
+      "title": "THUMB FRACTURE",
+      "pdfStart": 1182,
+      "pdfEnd": 1183
+    },
+    {
+      "id": "rosen-5min-topic-0768",
+      "title": "TIBIAL PLATEAU FRACTURE",
+      "pdfStart": 1184,
+      "pdfEnd": 1185
+    },
+    {
+      "id": "rosen-5min-topic-0769",
+      "title": "TIBIAL/FIBULAR SHAFT FRACTURE",
+      "pdfStart": 1186,
+      "pdfEnd": 1187
+    },
+    {
+      "id": "rosen-5min-topic-0770",
+      "title": "TICK BITE",
+      "pdfStart": 1188,
+      "pdfEnd": 1189
+    },
+    {
+      "id": "rosen-5min-topic-0771",
+      "title": "TINEA INFECTIONS, CUTANEOUS",
+      "pdfStart": 1190,
+      "pdfEnd": 1191
+    },
+    {
+      "id": "rosen-5min-topic-0772",
+      "title": "TOLUENE POISONING",
+      "pdfStart": 1192,
+      "pdfEnd": 1193
+    },
+    {
+      "id": "rosen-5min-topic-0773",
+      "title": "TOOTHACHE",
+      "pdfStart": 1194,
+      "pdfEnd": 1195
+    },
+    {
+      "id": "rosen-5min-topic-0774",
+      "title": "TORTICOLLIS",
+      "pdfStart": 1196,
+      "pdfEnd": 1197
+    },
+    {
+      "id": "rosen-5min-topic-0775",
+      "title": "TOXIC EPIDERMAL NECROLYSIS",
+      "pdfStart": 1198,
+      "pdfEnd": 1199
+    },
+    {
+      "id": "rosen-5min-topic-0776",
+      "title": "RMSF:",
+      "pdfStart": 1200,
+      "pdfEnd": 1199
+    },
+    {
+      "id": "rosen-5min-topic-0777",
+      "title": "TOXIC SHOCK SYNDROME",
+      "pdfStart": 1200,
+      "pdfEnd": 1200
+    },
+    {
+      "id": "rosen-5min-topic-0778",
+      "title": "GAS TSS",
+      "pdfStart": 1201,
+      "pdfEnd": 1201
+    },
+    {
+      "id": "rosen-5min-topic-0779",
+      "title": "TOXOPLASMOSIS",
+      "pdfStart": 1202,
+      "pdfEnd": 1203
+    },
+    {
+      "id": "rosen-5min-topic-0780",
+      "title": "TRALI:",
+      "pdfStart": 1204,
+      "pdfEnd": 1203
+    },
+    {
+      "id": "rosen-5min-topic-0781",
+      "title": "TRANSFUSION COMPLICATIONS",
+      "pdfStart": 1204,
+      "pdfEnd": 1205
+    },
+    {
+      "id": "rosen-5min-topic-0782",
+      "title": "TRANSIENT GLOBAL AMNESIA",
+      "pdfStart": 1206,
+      "pdfEnd": 1207
+    },
+    {
+      "id": "rosen-5min-topic-0783",
+      "title": "TRANSIENT ISCHEMIC ATTACK (TIA)",
+      "pdfStart": 1208,
+      "pdfEnd": 1209
+    },
+    {
+      "id": "rosen-5min-topic-0784",
+      "title": "TRANSPLANT REJECTION",
+      "pdfStart": 1210,
+      "pdfEnd": 1211
+    },
+    {
+      "id": "rosen-5min-topic-0785",
+      "title": "TRAUMA, MULTIPLE",
+      "pdfStart": 1212,
+      "pdfEnd": 1213
+    },
+    {
+      "id": "rosen-5min-topic-0786",
+      "title": "TRICHOMONAS",
+      "pdfStart": 1214,
+      "pdfEnd": 1214
+    },
+    {
+      "id": "rosen-5min-topic-0787",
+      "title": "DIFFERENTIAL DIAGNOSIS UTI",
+      "pdfStart": 1215,
+      "pdfEnd": 1215
+    },
+    {
+      "id": "rosen-5min-topic-0788",
+      "title": "TRICYCLIC ANTIDEPRESSANT, POISONING",
+      "pdfStart": 1216,
+      "pdfEnd": 1217
+    },
+    {
+      "id": "rosen-5min-topic-0789",
+      "title": "TRIGEMINAL NEURALGIA",
+      "pdfStart": 1218,
+      "pdfEnd": 1219
+    },
+    {
+      "id": "rosen-5min-topic-0790",
+      "title": "TUBERCULOSIS",
+      "pdfStart": 1220,
+      "pdfEnd": 1221
+    },
+    {
+      "id": "rosen-5min-topic-0791",
+      "title": "TULAREMIA",
+      "pdfStart": 1222,
+      "pdfEnd": 1223
+    },
+    {
+      "id": "rosen-5min-topic-0792",
+      "title": "TUMOR COMPRESSION SYNDROMES",
+      "pdfStart": 1224,
+      "pdfEnd": 1225
+    },
+    {
+      "id": "rosen-5min-topic-0793",
+      "title": "TYMPANIC MEMBRANE PERFORATION",
+      "pdfStart": 1226,
+      "pdfEnd": 1227
+    },
+    {
+      "id": "rosen-5min-topic-0794",
+      "title": "ULTRAVIOLET KERATITIS",
+      "pdfStart": 1228,
+      "pdfEnd": 1229
+    },
+    {
+      "id": "rosen-5min-topic-0795",
+      "title": "URETHRAL TRAUMA",
+      "pdfStart": 1230,
+      "pdfEnd": 1231
+    },
+    {
+      "id": "rosen-5min-topic-0796",
+      "title": "URETHRITIS",
+      "pdfStart": 1232,
+      "pdfEnd": 1233
+    },
+    {
+      "id": "rosen-5min-topic-0797",
+      "title": "URINARY RETENTION",
+      "pdfStart": 1234,
+      "pdfEnd": 1235
+    },
+    {
+      "id": "rosen-5min-topic-0798",
+      "title": "URINARY TRACT FISTULA",
+      "pdfStart": 1236,
+      "pdfEnd": 1237
+    },
+    {
+      "id": "rosen-5min-topic-0799",
+      "title": "URINARY TRACT INFECTIONS, ADULT",
+      "pdfStart": 1238,
+      "pdfEnd": 1238
+    },
+    {
+      "id": "rosen-5min-topic-0800",
+      "title": "TMP/SMX:",
+      "pdfStart": 1239,
+      "pdfEnd": 1239
+    },
+    {
+      "id": "rosen-5min-topic-0801",
+      "title": "URINARY TRACT INFECTIONS, PEDIATRIC",
+      "pdfStart": 1240,
+      "pdfEnd": 1241
+    },
+    {
+      "id": "rosen-5min-topic-0802",
+      "title": "URTICARIA",
+      "pdfStart": 1242,
+      "pdfEnd": 1243
+    },
+    {
+      "id": "rosen-5min-topic-0803",
+      "title": "UVULITIS",
+      "pdfStart": 1244,
+      "pdfEnd": 1245
+    },
+    {
+      "id": "rosen-5min-topic-0804",
+      "title": "DIFFERENTIAL DIAGNOSIS DUB",
+      "pdfStart": 1246,
+      "pdfEnd": 1245
+    },
+    {
+      "id": "rosen-5min-topic-0805",
+      "title": "NONPREGNANT PATIENTS",
+      "pdfStart": 1246,
+      "pdfEnd": 1245
+    },
+    {
+      "id": "rosen-5min-topic-0806",
+      "title": "PREGNANCY RELATED",
+      "pdfStart": 1246,
+      "pdfEnd": 1245
+    },
+    {
+      "id": "rosen-5min-topic-0807",
+      "title": "VAGINAL BLEEDING",
+      "pdfStart": 1246,
+      "pdfEnd": 1246
+    },
+    {
+      "id": "rosen-5min-topic-0808",
+      "title": "EARLY POSTPARTUM",
+      "pdfStart": 1247,
+      "pdfEnd": 1246
+    },
+    {
+      "id": "rosen-5min-topic-0809",
+      "title": "EARLY PREGNANCY",
+      "pdfStart": 1247,
+      "pdfEnd": 1246
+    },
+    {
+      "id": "rosen-5min-topic-0810",
+      "title": "IMMEDIATE POSTPARTUM",
+      "pdfStart": 1247,
+      "pdfEnd": 1246
+    },
+    {
+      "id": "rosen-5min-topic-0811",
+      "title": "LATER PREGNANCY",
+      "pdfStart": 1247,
+      "pdfEnd": 1246
+    },
+    {
+      "id": "rosen-5min-topic-0812",
+      "title": "NONPREGNANT",
+      "pdfStart": 1247,
+      "pdfEnd": 1246
+    },
+    {
+      "id": "rosen-5min-topic-0813",
+      "title": "STRUCTURAL ABNORMALITIES",
+      "pdfStart": 1247,
+      "pdfEnd": 1247
+    },
+    {
+      "id": "rosen-5min-topic-0814",
+      "title": "VAGINAL BLEEDING IN PREGNANCY",
+      "pdfStart": 1248,
+      "pdfEnd": 1249
+    },
+    {
+      "id": "rosen-5min-topic-0815",
+      "title": "ED TREATMENT/PROCEDURES BV:",
+      "pdfStart": 1250,
+      "pdfEnd": 1249
+    },
+    {
+      "id": "rosen-5min-topic-0816",
+      "title": "VAGINAL DISCHARGE/VAGINITIS",
+      "pdfStart": 1250,
+      "pdfEnd": 1251
+    },
+    {
+      "id": "rosen-5min-topic-0817",
+      "title": "VALVULAR HEART DISEASE",
+      "pdfStart": 1252,
+      "pdfEnd": 1253
+    },
+    {
+      "id": "rosen-5min-topic-0818",
+      "title": "VARICELLA",
+      "pdfStart": 1254,
+      "pdfEnd": 1255
+    },
+    {
+      "id": "rosen-5min-topic-0819",
+      "title": "VARICES",
+      "pdfStart": 1256,
+      "pdfEnd": 1257
+    },
+    {
+      "id": "rosen-5min-topic-0820",
+      "title": "VASCULITIS",
+      "pdfStart": 1258,
+      "pdfEnd": 1259
+    },
+    {
+      "id": "rosen-5min-topic-0821",
+      "title": "VENOUS INSUFFICIENCY",
+      "pdfStart": 1260,
+      "pdfEnd": 1261
+    },
+    {
+      "id": "rosen-5min-topic-0822",
+      "title": "ETCO2:",
+      "pdfStart": 1262,
+      "pdfEnd": 1261
+    },
+    {
+      "id": "rosen-5min-topic-0823",
+      "title": "ETCO2.",
+      "pdfStart": 1262,
+      "pdfEnd": 1261
+    },
+    {
+      "id": "rosen-5min-topic-0824",
+      "title": "PEEP:",
+      "pdfStart": 1262,
+      "pdfEnd": 1261
+    },
+    {
+      "id": "rosen-5min-topic-0825",
+      "title": "VENTILATOR MANAGEMENT",
+      "pdfStart": 1262,
+      "pdfEnd": 1263
+    },
+    {
+      "id": "rosen-5min-topic-0826",
+      "title": "VENTRICULAR FIBRILLATION",
+      "pdfStart": 1264,
+      "pdfEnd": 1264
+    },
+    {
+      "id": "rosen-5min-topic-0827",
+      "title": "ICU/CCU.",
+      "pdfStart": 1265,
+      "pdfEnd": 1265
+    },
+    {
+      "id": "rosen-5min-topic-0828",
+      "title": "VENTRICULAR PERITONEAL SHUNTS",
+      "pdfStart": 1266,
+      "pdfEnd": 1267
+    },
+    {
+      "id": "rosen-5min-topic-0829",
+      "title": "ECHO:",
+      "pdfStart": 1268,
+      "pdfEnd": 1267
+    },
+    {
+      "id": "rosen-5min-topic-0830",
+      "title": "ESSENTIAL WORKUP EKG:",
+      "pdfStart": 1268,
+      "pdfEnd": 1267
+    },
+    {
+      "id": "rosen-5min-topic-0831",
+      "title": "VENTRICULAR TACHYCARDIA",
+      "pdfStart": 1268,
+      "pdfEnd": 1269
+    },
+    {
+      "id": "rosen-5min-topic-0832",
+      "title": "DIFFERENTIAL DIAGNOSIS CNS:",
+      "pdfStart": 1270,
+      "pdfEnd": 1269
+    },
+    {
+      "id": "rosen-5min-topic-0833",
+      "title": "VERTEBROBASILAR INSUFFICIENCY",
+      "pdfStart": 1270,
+      "pdfEnd": 1271
+    },
+    {
+      "id": "rosen-5min-topic-0834",
+      "title": "VERTIGO",
+      "pdfStart": 1272,
+      "pdfEnd": 1273
+    },
+    {
+      "id": "rosen-5min-topic-0835",
+      "title": "VIOLENCE, MANAGEMENT OF",
+      "pdfStart": 1274,
+      "pdfEnd": 1275
+    },
+    {
+      "id": "rosen-5min-topic-0836",
+      "title": "VISUAL LOSS",
+      "pdfStart": 1276,
+      "pdfEnd": 1277
+    },
+    {
+      "id": "rosen-5min-topic-0837",
+      "title": "VITREOUS HEMORRHAGE",
+      "pdfStart": 1278,
+      "pdfEnd": 1278
+    },
+    {
+      "id": "rosen-5min-topic-0838",
+      "title": "CRAO.",
+      "pdfStart": 1279,
+      "pdfEnd": 1279
+    },
+    {
+      "id": "rosen-5min-topic-0839",
+      "title": "ESSENTIAL WORKUP CBC, BMP , UA",
+      "pdfStart": 1280,
+      "pdfEnd": 1279
+    },
+    {
+      "id": "rosen-5min-topic-0840",
+      "title": "VOLVULUS",
+      "pdfStart": 1280,
+      "pdfEnd": 1281
+    },
+    {
+      "id": "rosen-5min-topic-0841",
+      "title": "VOMITING, ADULT",
+      "pdfStart": 1282,
+      "pdfEnd": 1283
+    },
+    {
+      "id": "rosen-5min-topic-0842",
+      "title": "STEMI/NSTEMI",
+      "pdfStart": 1284,
+      "pdfEnd": 1283
+    },
+    {
+      "id": "rosen-5min-topic-0843",
+      "title": "VOMITING, CYCLIC",
+      "pdfStart": 1284,
+      "pdfEnd": 1285
+    },
+    {
+      "id": "rosen-5min-topic-0844",
+      "title": "VOMITING, PEDIATRIC",
+      "pdfStart": 1286,
+      "pdfEnd": 1287
+    },
+    {
+      "id": "rosen-5min-topic-0845",
+      "title": "VON WILLEBRAND DISEASE",
+      "pdfStart": 1288,
+      "pdfEnd": 1289
+    },
+    {
+      "id": "rosen-5min-topic-0846",
+      "title": "WARFARIN COMPLICATIONS",
+      "pdfStart": 1290,
+      "pdfEnd": 1291
+    },
+    {
+      "id": "rosen-5min-topic-0847",
+      "title": "WARTS",
+      "pdfStart": 1292,
+      "pdfEnd": 1293
+    },
+    {
+      "id": "rosen-5min-topic-0848",
+      "title": "WEAKNESS",
+      "pdfStart": 1294,
+      "pdfEnd": 1295
+    },
+    {
+      "id": "rosen-5min-topic-0849",
+      "title": "WEST NILE VIRUS",
+      "pdfStart": 1296,
+      "pdfEnd": 1297
+    },
+    {
+      "id": "rosen-5min-topic-0850",
+      "title": "WHEEZING",
+      "pdfStart": 1298,
+      "pdfEnd": 1299
+    },
+    {
+      "id": "rosen-5min-topic-0851",
+      "title": "WITHDRAWAL, ALCOHOL",
+      "pdfStart": 1300,
+      "pdfEnd": 1301
+    },
+    {
+      "id": "rosen-5min-topic-0852",
+      "title": "WITHDRAWAL, DRUG",
+      "pdfStart": 1302,
+      "pdfEnd": 1303
+    },
+    {
+      "id": "rosen-5min-topic-0853",
+      "title": "WOLFFPARKINSONWHITE (WPW) SYNDROME",
+      "pdfStart": 1304,
+      "pdfEnd": 1305
+    },
+    {
+      "id": "rosen-5min-topic-0854",
+      "title": "WOUND BALLISTICS",
+      "pdfStart": 1306,
+      "pdfEnd": 1308
+    },
+    {
+      "id": "rosen-5min-topic-0855",
+      "title": "INDEX",
+      "pdfStart": 1309,
+      "pdfEnd": 1314
+    },
+    {
+      "id": "rosen-5min-topic-0856",
+      "title": "HIV, 364",
+      "pdfStart": 1315,
+      "pdfEnd": 1317
+    },
+    {
+      "id": "rosen-5min-topic-0857",
+      "title": "HIV/AIDS, 540541",
+      "pdfStart": 1318,
+      "pdfEnd": 1322
+    },
+    {
+      "id": "rosen-5min-topic-0858",
+      "title": "GHB, 458459",
+      "pdfStart": 1323,
+      "pdfEnd": 1322
+    },
+    {
+      "id": "rosen-5min-topic-0859",
+      "title": "MDMA, 686687",
+      "pdfStart": 1323,
+      "pdfEnd": 1335
+    }
+  ]
+}

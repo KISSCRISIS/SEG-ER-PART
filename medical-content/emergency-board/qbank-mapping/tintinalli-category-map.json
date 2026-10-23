@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14T21:45:00.000Z",
+  "origin": "Phase 4-F.1C: Bridges Tintinalli Qbank chapterTitle values (including truncated) to SEG canonical topicIds. No question mapped; no Qbank file modified. Multiple candidates and uncertainty preserved per topic-normalization.schema.json.",
+  "sourceId": "qbank-tintinalli-9e",
+  "mappings": [
+    {
+      "sourceCategory": "Disaster Management",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "No canonical EM topic for disaster management; chapter is system-agnostic and outside 22-topic registry.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Resuscitation",
+      "candidateTopicIds": ["EM_CRIT_ARREST", "EM_CRIT_SHOCK", "EM_CRIT_ANAPHYLAXIS"],
+      "confidence": "Medium",
+      "uncertainty": "Broad resuscitation chapter covers arrest, shock, and anaphylaxis; cannot select single topic without per-question review.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "and Procedural Sedation",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "Truncated source title (original likely 'Airway and Procedural Sedation'); verbatim preserved, no safe bridge without source fix.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Wound Management",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "No canonical topic for wound management; closest is EM_TRAUMA_PRIMARY_SURVEY but mapping would be guessed.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Cardiovascular Disorders",
+      "candidateTopicIds": ["EM_CARDIO_ACS", "EM_CARDIO_TAMPONADE", "EM_CRIT_ARREST", "EM_CRIT_SHOCK"],
+      "confidence": "Medium",
+      "uncertainty": "Broad cardiovascular chapter covers ACS, tamponade, arrest, shock; per-question keywords needed to disambiguate.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Disorders",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "Truncated source title (chapter 6, 8, 11 all stored as 'Disorders'); original title lost, cannot bridge safely. Affects 50+25+42=117 questions.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Gastrointestinal Disorders",
+      "candidateTopicIds": ["EM_GI_ABD_PAIN", "EM_GI_BLEED"],
+      "confidence": "Medium",
+      "uncertainty": "GI chapter covers abdominal pain and bleeding; per-question review required.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Gynecology",
+      "candidateTopicIds": ["EM_OBGYN_ECTOPIC"],
+      "confidence": "Medium",
+      "uncertainty": "Gynecology chapter broader than ectopic-only; other GYN topics outside registry.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Pediatrics",
+      "candidateTopicIds": ["EM_PEDS_FEVER"],
+      "confidence": "Medium",
+      "uncertainty": "Pediatrics chapter broader than fever-only; other peds topics outside 22.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Nervous System Disorders",
+      "candidateTopicIds": ["EM_NEURO_STROKE", "EM_NEURO_STATUS"],
+      "confidence": "Medium",
+      "uncertainty": "Nervous system covers stroke and status epilepticus; per-question review required.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Toxicologic Disorders",
+      "candidateTopicIds": ["EM_TOX_OPIOID"],
+      "confidence": "Medium",
+      "uncertainty": "Toxicology chapter broader than opioid-only; other toxins outside registry.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Environmental Injuries",
+      "candidateTopicIds": ["EM_ENV_HEAT_COLD"],
+      "confidence": "Medium",
+      "uncertainty": "Environmental chapter now maps to EM_ENV_HEAT_COLD (added in 25-topic registry); per-question review still required for heat/cold vs. other environmental.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Nutritional Disorders",
+      "candidateTopicIds": ["EM_ENDO_HYPERK", "EM_ENDO_HYPO", "EM_ENDO_DKA_HHS"],
+      "confidence": "Low",
+      "uncertainty": "Nutritional chapter may relate to electrolyte/endocrine but link is weak and requires clinical review; multiple candidates.",
+      "evidenceBasis": ["chapter-title", "topic-keyword"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Hematologic Disorders",
+      "candidateTopicIds": ["EM_HEME_ANEMIA_COAG"],
+      "confidence": "Medium",
+      "uncertainty": "Hematologic chapter now maps to EM_HEME_ANEMIA_COAG (added in 25-topic registry); per-question review required for anemia vs. coagulation.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "and Oral Disorders",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "Truncated source title (likely 'Head, Ear, Eye, Nose, Throat and Oral Disorders'); verbatim preserved, no safe bridge.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Dermatology",
+      "candidateTopicIds": ["EM_DERM_RASH"],
+      "confidence": "Medium",
+      "uncertainty": "Dermatology chapter now maps to EM_DERM_RASH (added in 25-topic registry); per-question review required for rash vs. other cutaneous.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "Traumatic Disorders",
+      "candidateTopicIds": ["EM_TRAUMA_PRIMARY_SURVEY", "EM_TRAUMA_TBI"],
+      "confidence": "Medium",
+      "uncertainty": "Traumatic disorders covers primary survey and TBI; per-question review required.",
+      "evidenceBasis": ["chapter-title", "curated-map"],
+      "status": "REVIEW_REQUIRED"
+    },
+    {
+      "sourceCategory": "and Joints",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "Truncated source title (likely 'Musculoskeletal and Joints'); verbatim preserved, no safe bridge.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Psychosocial Disorders",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "No psychosocial topic in 22-topic registry.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Department",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "Truncated source title (likely 'Emergency Department Administration'); no canonical topic.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Abuse and Assault",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "No abuse/assault topic in 22-topic registry.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    },
+    {
+      "sourceCategory": "Special Situations",
+      "candidateTopicIds": [],
+      "confidence": "Unmapped",
+      "uncertainty": "Vague category, no canonical mapping.",
+      "evidenceBasis": ["chapter-title"],
+      "status": "UNMAPPED"
+    }
+  ]
+}

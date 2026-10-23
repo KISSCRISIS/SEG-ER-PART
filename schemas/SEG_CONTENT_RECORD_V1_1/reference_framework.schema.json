@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg-guide.example/schemas/seg-content-record.v1.1.reference-framework.schema.json",
+  "title": "SEG v1.1 Reference Framework relationship",
+  "description": "Relationship definition from a governed record to a canonical book record. The relationship does not grant rights, clinical approval, activation, or learner exposure.",
+  "$ref": "#/$defs/referenceFramework",
+  "$defs": {
+    "referenceFramework": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "book_record_id",
+        "framework_name",
+        "framework_role",
+        "citation_locator_policy",
+        "display_scope"
+      ],
+      "properties": {
+        "book_record_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._-]{2,127}$"
+        },
+        "framework_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "framework_role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "citation_locator_policy": {
+          "type": "string",
+          "enum": [
+            "exact_locator_required",
+            "exact_locator_required_for_verbatim_display",
+            "locator_required_when_available"
+          ]
+        },
+        "display_scope": {
+          "type": "string",
+          "enum": [
+            "reference_only",
+            "learner_displayed_derived",
+            "learner_displayed_verbatim"
+          ]
+        }
+      }
+    }
+  }
+}

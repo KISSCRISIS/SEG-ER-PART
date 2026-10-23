@@ -1,0 +1,452 @@
+[PEER-PHYS PEER-hematologic-oncologic-q-1] An otherwise healthy patient presents with active GI bleeding and needs a transfusion. What is the threshold level below which platelets should be added?
+    ANSWER: 50,000/mm3   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-2] What is the appropriate therapy for itching and hives associated with a blood transfusion?
+    ANSWER: Diphenhydramine   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-3] After a large transfusion of blood products, a patient begins to complain of muscle cramps and numbness around the mouth. The examination reveals a facial twitch when their cheek is tapped, and prolongation of QTc is noted on ECG. What treatment should be initiated?
+    ANSWER: Calcium   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-4] What is the approximate risk of acquiring HIV, hepatitis B, or hepatitis C from a blood transfusion?
+    ANSWER: 1 in 1,000,000   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-5] Roughly 30 minutes into a blood transfusion, a patient develops sudden-onset fever, rigors, low back pain, hypotension, and tachycardia. What is the most appropriate next step in management?
+    ANSWER: Stop the transfusion and administer normal saline   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-6] A patient with a history of congestive heart failure is receiving a blood transfusion. Near the end of the transfusion, they become acutely short of breath. Their vital signs include BP 185/110, P 88, and T 36.9°C (98.4°F); SpO2 is 85% on room air. A chest x-ray is obtained and shown below. What is the most likely diagnosis?
+    ANSWER: Transfusion-associated circulatory overload   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-7] In addition to dyspnea, what findings would be expected in a patient with transfusion-related acute lung injury?
+    ANSWER: Pulmonary edema, fever, and hypotension   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-8] What is the appropriate response when a nurse reports that a patient has spiked a high fever to 40.5°C (104.9°F) after starting their first RBC transfusion?
+    ANSWER: Stop the transfusion   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-9] A patient receiving a RBC transfusion becomes acutely short of breath and has the following chest x-ray. What is the most likely diagnosis?
+    ANSWER: Transfusion-related acute lung injury   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-10] Which therapeutic intervention is most likely to stop the progression of DIC?
+    ANSWER: Treatment of the underlying illness   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-11] Which finding is expected with impaired coagulation in patients with advanced liver disease?
+    ANSWER: Decreased protein C   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-12] What is the best approach to treating a bleeding patient who has severe (type 3) von Willebrand disease?
+    ANSWER: Factor VIII   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-13] A 32-year-old man presents with a large laceration to his left temporal area after a bicycle crash. He was not wearing a helmet when he hit his head, and he is concerned because he has hemophilia A. His GCS score is 10, and no other injuries are noted. What is the best next step in management?
+    ANSWER: Start infusion of 50 units/kg of factor VIII and then obtain a head CT scan   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-14] What medication should be avoided in patients with a known history of von Willebrand disease?
+    ANSWER: Aspirin   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-15] What distinguishes von Willebrand disease from other bleeding disorders?
+    ANSWER: It is the most common congenital bleeding disorder   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-16] A 26-year-old man with known hemophilia A presents immediately after being hit in the head with a baseball at a high speed. He sustained a brief loss of consciousness. The physical examination reveals an abrasion on his forehead and a normal neurologic examination. What is the next best step?
+    ANSWER: Administer factor concentrate   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-17] A 6-year-old boy with a history of hemophilia A is brought in by his father 1 hour after sustaining a head injury. What is the first step in management?
+    ANSWER: Factor VIII therapy to 100% activity   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-18] An 80-kg 35-year-old man with hemophilia A presents with right knee pain. He says that he might be bleeding in his joint. How much factor VIII must be given to reach 50% activity?
+    ANSWER: 2,000 U   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-19] What is a possible consequence of uncontrolled bleeding in a patient with severe hemophilia A?
+    ANSWER: Compartment syndrome   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-20] What laboratory study is most useful in a patient with known hemophilia A presenting with a retroperitoneal hemorrhage?
+    ANSWER: CBC   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-21] What medication delivery method should be avoided in hemophilia patients who present with acute bleeding to the knee joint?
+    ANSWER: Intramuscular   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-22] A patient with known severe hemophilia A presents with a GCS score of 7 after being hit in the head with a baseball. After initial airway management, what is the next best step in management?
+    ANSWER: Begin factor replacement therapy   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-23] What is the most common cause of acute DIC?
+    ANSWER: Infection   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-24] A 34-year-old woman with a history of leukemia presents with bleeding gums. She reports that her menses have been heavier and longer than usual and that she is bruising easily. Approximately 2 weeks ago, her laboratory results were normal, but today, testing reveals Hgb 10 g/dL, platelets 20,000/mcL, PT 17 seconds, PTT 30 seconds, low fibrinogen, and an elevated D-dimer level.
+    ANSWER: Disseminated intravascular coagulation   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-25] A 61-year-old woman presents with acute-onset confusion that started 1 hour ago. Her medical history is significant for chronic immune thrombocytopenia, and her vital signs are notable for BP 157/92. Laboratory work reveals a platelet count of 7 K/μL. What is the best next step in management?
+    ANSWER: Noncontrast head CT   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-26] What is the correctly paired abnormal laboratory test and cause in von Willebrand disease?
+    ANSWER: Abnormal PTT due to Factor VIII deficiency   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-27] A patient presents with left leg swelling 7 days after inpatient discharge. Duplex ultrasonography reveals an acute DVT, and CBC reveals a new thrombocytopenia with a platelet count of 25,000 cells/μL. On chart review, the patient received subcutaneous heparin for pharmacologic venous thromboembolism prophylaxis while admitted. Which treatment is most appropriate?
+    ANSWER: Argatroban   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-28] A 45-year-old woman presents with fever, altered mental status, and a rash, as shown below. Her medical history includes coronary artery disease, for which she takes clopidogrel. She denies vomiting and diarrhea. Laboratory test results include a platelet count of 45,000/mm3 with a Hct of 20%. Which finding is characteristic of the most likely diagnosis?
+    ANSWER: Schistocytes on peripheral smear   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-29] A 6-year-old boy presents with red spots on his lips and similar spots on his body. His mother reports recent cold symptoms. His physical examination reveals a temperature of 38.2°C (100.8°F) but is otherwise unremarkable. His CBC reveals a WBC count of 10,000 cells/μL, a Hgb level of 15 g/dL, and a platelet count of 35,000 cells/μL. Which treatment should be given?
+    ANSWER: Acetaminophen   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-30] What is the most effective therapy in the treatment of thrombotic thrombocytopenic purpura (TTP)?
+    ANSWER: Plasmapheresis   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-31] An 86-year-old woman with a history of Sjögren syndrome presents for confusion, fever, visual changes, and bilateral upper extremity weakness. Laboratory studies show a Hgb of 8 g/dL and a platelet count of 5 with schistocytes on peripheral smear. Her blood counts 6 months ago were normal. What service should be emergently consulted regarding this patient?
+    ANSWER: Hematology   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-32] A patient presents with fever, altered mental status, and hematochezia. Laboratory studies are notable for a Hgb of 8.5 g/dL; platelet count of 10; schistocytes on peripheral smear; and normal PT, PTT, and fibrinogen. What is the most likely diagnosis?
+    ANSWER: Thrombotic thrombocytopenic purpura   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-33] A patient on warfarin presents after a closed head injury. Initial head CT is negative. Which result is important to obtain and document when determining risk of delayed intracranial hemorrhage?
+    ANSWER: INR   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-34] A patient presents with a severe sudden-onset headache. Subarachnoid hemorrhage is considered. CT brain is negative, and a lumbar puncture is performed without immediate complication. After the procedure, it is discovered that the patient is on warfarin. What is the most appropriate next step?
+    ANSWER: Disclose the error to the patient and discuss the treatment plan   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-35] A patient currently taking warfarin for atrial fibrillation has an INR of 2.9. The patient is inadvertently given a 1-mg/kg dose of enoxaparin that was intended for another patient. Which additional event would allow the case to fulfill all necessary components of medical malpractice?
+    ANSWER: Subsequent GI bleeding, shock, and renal failure   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-36] A 16-year-old girl presents with a 2-month history of weight loss, fever, and night sweats. A chest x-ray is obtained and shown below. What is the most likely diagnosis?
+    ANSWER: Hodgkin lymphoma   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-37] An otherwise healthy 6-year-old presents for fevers, petechiae, and lack of energy. Laboratory studies demonstrate a WBC count of 3,000 with a neutrophil count of 500, platelets of 25, and Hgb of 5. What is the most likely diagnosis?
+    ANSWER: Acute myeloid leukemia   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-38] A 45-year-old man presents with epistaxis. He has a history of HIV (not on HAART) and epilepsy (on phenytoin). During the evaluation, multiple ecchymotic and purpuric lesions are noted. The patient appears to have conjunctival pallor. Which laboratory profile is most likely?
+    ANSWER: Leukopenia, anemia, and thrombocytopenia   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-39] A 66-year-old man presents with severe left-sided flank pain and urinary retention 2 days after starting chemotherapy for non-Hodgkin lymphoma. Workup shows a new acute renal failure along with hyperkalemia. Given the most concerning condition causing this clinical picture, what additional abnormal laboratory finding is most likely?
+    ANSWER: Hyperuricemia   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-40] A 14-year-old girl with a history of sickle cell disease presents with her typical pain crisis of pain in her legs. The patient denies nausea, vomiting, and shortness of breath. Laboratory testing reveals a WBC count of 10,000 cells × 10^9/L, Hgb level of 4 g/dL, and reticulocyte count of 0.5%; electrolyte levels are normal. She responds well to pain medication.
+    ANSWER: Transfusion of packed RBCs   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-41] What is the most common cause of aplastic anemia?
+    ANSWER: Chemotherapy   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-42] A 33-year-old woman who recently moved from Thailand presents with fatigue and shortness of breath. She recently started taking nitrofurantoin for a UTI. Laboratory testing reveals profound microcytic, hypochromic anemia. Target cells are seen on blood smear. On further questioning, she says she has always had severe anemia. What is the most likely diagnosis?
+    ANSWER: Thalassemia   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-43] Which condition presents with microcytic anemia?
+    ANSWER: Thalassemia   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-44] What systemic manifestation of sickle cell disease occurs more commonly in adults than in children?
+    ANSWER: Hemorrhagic stroke   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-45] Which statement best characterizes the microcytic anemia of thalassemia?
+    ANSWER: Normal ferritin, high iron, and normal reticulocyte count   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-46] Which test distinguishes aplastic crisis from splenic sequestration?
+    ANSWER: Reticulocyte count   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-47] What is an indication for admission for a patient with sickle cell disease who presents with an acute vaso-occlusive crisis?
+    ANSWER: Suspicion for acute chest syndrome   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-48] A 23-year-old man presents with chest pain, shortness of breath, and a cough. He has sickle cell disease and was discharged from the hospital 3 days ago following a vaso-occlusive pain crisis. A chest x-ray reveals a new infiltrate. In addition to oxygen and antibiotics, which therapy should be considered first?
+    ANSWER: Normal saline   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-49] For young children with sickle cell disease, which test differentiates a splenic sequestration crisis from an aplastic crisis?
+    ANSWER: Reticulocyte count   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-50] What is the best first step in the management of a patient with a history of sickle cell disease presenting with acute ischemic priapism?
+    ANSWER: Intravenous analgesia   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-51] A patient with sickle cell disease and leg ulcers presents in acute decompensated heart failure. Which leg ulcer treatment is contraindicated?
+    ANSWER: Compression therapy   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-52] Which complication is most likely to present in an infant with sickle cell disease?
+    ANSWER: Dactylitis   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-53] What is most useful for the assessment of acute vaso-occlusive pain in a pediatric patient with sickle cell disease?
+    ANSWER: Report of pain level from patient or parent   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-54] Which medication should be avoided in the treatment of acute vaso-occlusive pain episodes in patients with sickle cell disease?
+    ANSWER: Meperidine   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-55] Which agent is the safest to administer to a patient with G6PD deficiency?
+    ANSWER: Cephalexin   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-56] A 35-year-old woman with lupus presents after a seizure. Her vital signs are normal except for T 38.3°C (100.9°F). Examination is significant for scleral icterus and multiple areas of purpura. The rest of her examination, including a neurologic examination and head CT, is normal.
+    ANSWER: Plasma exchange   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-57] Which finding on peripheral blood smear is commonly seen in DIC, thrombotic thrombocytopenic purpura, and hemolytic-uremic syndrome?
+    ANSWER: Schistocytes   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-58] What is the most common cause of anemia?
+    ANSWER: Iron deficiency   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-59] During the evaluation of a patient who is 1 year post–gastric bypass surgery, a laboratory analysis demonstrates a Hgb of 9 g/dL, a mean corpuscular volume of 115 fL, and a reticulocyte count of 10%. What is the most likely cause of this anemia?
+    ANSWER: Vitamin B12 deficiency   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-60] An otherwise healthy middle-aged man presents with 5 days of vomiting and watery diarrhea. His vital signs are BP 100/60, P 105, R 16, and T 36°C (96.8°F); SpO2 is 98% on room air. Initial Hgb and Hct were 19.5 g/dL and 59%, respectively; baseline is 14 g/dL and 42%. After starting intravenous fluid resuscitation, what is the best next step in management?
+    ANSWER: Order repeat complete blood count   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-61] A 3-month-old boy who is otherwise healthy presents with cyanosis. His SpO2 remains at 85% despite supplemental oxygen. Which medication can cause this clinical presentation?
+    ANSWER: Benzocaine   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-62] A 60-year-old man presents via ambulance after becoming short of breath during an outpatient bronchoscopy. His vital signs are BP 120/70, P 120, R 30, and T 36.7°C (98°F); SpO2 is 86% on 100% oxygen by nonrebreather mask. The patient is cyanotic; breath sounds are clear and symmetrical bilaterally, and the remainder of the physical examination is normal.
+    ANSWER: Methylene blue   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-63] Which antibiotic should be avoided in a patient with alpha-thalassemia intermedia?
+    ANSWER: Nitrofurantoin   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-64] A previously healthy 8-month-old infant (who was born full-term with no complications) presents for poor feeding, increased lethargy, pallor, and a weak cry over the past 2 weeks. On examination, the child appears ill and pale, has poor tone, and is tachycardic. What is the most likely diagnosis?
+    ANSWER: Beta-thalassemia major   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-65] A 67-year-old man with multiple myeloma presents with 2 days of nausea and lethargy. His wife says "he hasn't been himself" lately and seems depressed. Which condition is most likely to be revealed in his laboratory test results?
+    ANSWER: Hypercalcemia   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-66] A 6-year-old boy presents with fever of 3 days' duration. His mother says he also has complained of back and abdominal pain for the past 2 weeks. An examination reveals shotty adenopathy on the posterior cervical chain with an otherwise normal appearing pharynx and scattered petechiae on the boy's trunk. The spleen tip is palpable, and the liver edge is palpated 2 cm below the costal margin.
+    ANSWER: Leukemia   (key C)
+[PEER-PHYS PEER-hematologic-oncologic-q-67] A 62-year-old man presents with chills and fatigue. He reports feeling unwell but denies any other symptoms. His medical history is significant for COPD, hypertension, non-Hodgkin lymphoma, and R-CHOP chemotherapy. His vital signs are BP 123/76, P 94, R 18, and T 38.4°C (101.1°F); SpO2 is 96% on room air.
+    ANSWER: Cefepime   (key B)
+[PEER-PHYS PEER-hematologic-oncologic-q-68] An 85-year-old woman on chemotherapy for breast cancer presents with fever, altered mental status, and cough. Her vitals are BP 75/40, P 145, R 24, and T 40°C (104°F); SpO2 is 96% on room air. Laboratory studies show an absolute neutrophil count (ANC) of 100 and a lactic acid of 5. As the treating physician, what is the best next approach for efficient team management?
+    ANSWER: Instruct nursing to establish IV access and start fluids, and have pharmacy prepare antibiotics   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-69] Empiric antibiotic coverage in a patient with neutropenic fever should include treatment of which pathogen?
+    ANSWER: Pseudomonas aeruginosa   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-70] In a chemotherapy patient with a fever, which laboratory result would be consistent with the diagnosis of febrile neutropenia?
+    ANSWER: Absolute neutrophil count of 900   (key A)
+[PEER-PHYS PEER-hematologic-oncologic-q-71] An 80-year-old man is being evaluated outpatient for 4 months of weight loss and generalized fatigue. He is sent to the emergency department for a calcium level of 15 mg/dL. Other outpatient laboratory studies show a low parathyroid hormone, normal parathyroid hormone-related protein, and a low 1,25-dihydroxyvitamin D level.
+    ANSWER: Oncology   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-72] A patient with multiple myeloma presents with body aches, nausea, and vomiting. Laboratory analysis reveals a calcium of 16 mg/dL and normal renal function. In addition to normal saline, what additional treatment should be utilized next?
+    ANSWER: Zoledronic acid   (key D)
+[PEER-PHYS PEER-hematologic-oncologic-q-73] A 45-year-old man presents with headache, vertigo, and blurred vision of 3 days' duration. He says that he has been bruising easily lately. The examination reveals mucosal bleeding and ataxia. Laboratory test results include WBCs 15,000/mcL, Hgb 20 g/dL, Hct 62%, and platelets 450,000/mcL. Which intervention should be completed in the emergency department?
+    ANSWER: Acetylsalicylic acid 81 mg   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-332] A 34-year-old man presents to the ED with fever and malaise for the past 2 days. He reports 2 weeks of left upper quadrant discomfort and 4 months of intermittent night symptoms of fever, chills, and sweats. His T is 38°C (100.4°F), HR is 94 bpm, RR is 18/min, BP is 150/90 mm Hg, and SpO2 is 98% on room air. His physical exam reveals a mildly tender, enlarged spleen with inguinal lymphadenopathy.
+    ANSWER: HIV infection   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-333] A 56-year-old man with a history of recurrent gastrointestinal bleeding secondary to multiple arteriovenous malformations presents to the emergency department with bright red blood per rectum for 3 days. His initial hemoglobin is 5.8 mg/dL. He is typed and crossed for 2 units of packed red blood cells.
+    ANSWER: Direct Coombs test   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-334] A 40-year-old woman with no significant medical history presents with fever and headache. Vital signs are a T of 101°F (38.3°C), BP of 110/70 mm Hg, HR of 110 bpm, RR of 18/min, and SpO2 of 96% on room air. On physical exam, she is awake and alert with no focal neurologic deficits, but she intermittently repeats herself. Her neck is supple without meningismus.
+    ANSWER: Plasma exchange   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-335] A 59-year-old man presents to the hospital with shortness of breath. He reports he has felt progressively fatigued and has experienced intermittent night sweats for the past few months. He has lost approximately 30 pounds over that time as well. He has noticed fullness and pain in his upper abdomen. Yesterday, he developed dyspnea and blurred vision, which has worsened today.
+    ANSWER: Leukapheresis   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-336] A 22-year-old man presents with jaundice, pallor, and dark urine. He was recently started on primaquine in preparation for travel to Central America. Laboratory studies show an elevated lactate dehydrogenase and reticulocyte count. A peripheral smear shows Heinz bodies. The Coombs test is negative. What is the likely cause of this patient’s symptoms?
+    ANSWER: Glucose-6-phosphate dehydrogenase deficiency   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-337] A 35-year-old man with a history of HIV and recurrent anemia presents to the ED with increasing fatigue after being started on dapsone. He is noted to have scleral icterus on physical exam. Which of the following laboratory findings would be expected?
+    ANSWER: Heinz bodies on peripheral smear   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-338] A 65-year-old woman with a history of atrial fibrillation presents with melenic stools. She is found to have a hemoglobin of 5.6 g/dL and consents to a transfusion of packed red blood cells. About 5 minutes after the transfusion begins, the patient reports back pain. On re-evaluation, she is pale, diaphoretic, and gasping for air.
+    ANSWER: Decreased haptoglobin   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-339] A 7-year-old boy with a history of sickle cell disease presents to the ED with dyspnea and altered mental status after a syncopal episode. His parent reports a recent fever and rash on his face. Which of the following is the most likely infectious etiology for this patient’s presentation?
+    ANSWER: Parvovirus B19   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-340] A 33-year-old man presents to the emergency department after getting stabbed in the arm. A tourniquet is applied to the extremity, but bleeding is ongoing. His T is 97°F (36.1°C), BP is 65/30 mm Hg, HR is 152 bpm, RR is 35/min, and SpO2 is 96% on room air. The patient receives 10 units of packed red blood cells over a short time period and has a subsequent blood pressure of 115/80 mm Hg.
+    ANSWER: Coagulopathy   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-341] A 23-year-old man presents to the emergency department with abdominal cramping and diarrhea for 2 days. He recently traveled to South America on a medical student mission trip and returned with diarrhea. On examination, he appears nontoxic and mildly febrile but otherwise has normal vital signs. Abdominal exam shows mild diffuse tenderness without rebound or guarding.
+    ANSWER: Admit to the intensive care unit and consult hematology for emergent plasma exchange transfusion   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-342] A 20-year-old man with hemophilia A presents to the ED after a motor vehicle collision. Vital signs are BP of 60/40 mm Hg and HR of 120 bpm. Bedside ultrasound reveals a positive FAST exam. Massive transfusion is initiated. Which of the following is the most appropriate dose for factor VIII replacement?
+    ANSWER: 50 IU/kg   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-343] Which of the following lab results is consistent with disseminated intravascular coagulation?
+    ANSWER: Decreased platelets, low fibrinogen levels   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-344] A 56-year-old man with von Willebrand disease presents to the emergency department with gross hematuria for 2 days. Vital signs include a heart rate of 90 bpm and blood pressure of 115/75 mm Hg. Laboratory workup is notable for a hemoglobin of 12.0 g/dL, platelets of 150,000/µL, and an international normalized ratio of 1.0. What is the most appropriate treatment to address this patient’s bleeding?
+    ANSWER: Desmopressin   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-345] An 80-year-old woman presents to the emergency department after a syncopal episode. Workup reveals severe anemia with a hemoglobin of 4.5 g/dL. Treatment is initiated with packed red blood cell transfusion and after the second unit of blood, the patient begins to become dyspneic.
+    ANSWER: Transfusion-associated circulatory overload   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-346] A 49-year-old woman presents to the emergency department with fatigue progressively worsening over several weeks. She saw her primary care clinician today and was told that her hemoglobin was low, so she was sent to the emergency department for further evaluation. Laboratory tests show a hemoglobin level of 6.9 g/dL and hematocrit of 20.7%. The mean corpuscular volume is 103 fL.
+    ANSWER: Pernicious anemia   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-347] A 9-year-old boy who recently emigrated from Cameroon presents to the emergency department accompanied by his parents with concerns for a mass on the left jaw that first developed 2 weeks ago. His family states the area started as a firm nodule that has continued to enlarge daily. He has no fever, dysphagia, odynophagia, or pain.
+    ANSWER: Burkitt lymphoma   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-348] A 47-year-old woman recently admitted for severe pneumonia presents to the ED with hemoptysis and hematuria with a BP of 92/58 mm Hg, HR of 110 bpm, and RR of 22/min. Compared to the previous admission, blood tests show decreasing hemoglobin and platelets, prolonged prothrombin time and activated partial thromboplastin time, increased INR and D-dimer, and decreased fibrinogen.
+    ANSWER: Administer cryoprecipitate   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-349] A 55-year-old woman presents to the emergency department with fatigue, dizziness, and exertional chest pain. She reports a recent syncope episode and dark urine over the past 3 days. She has hypertension, hypothyroidism, and diabetes type 2 and was recently diagnosed with stage II gastric cancer. Previously, she has also been told she might have a heart murmur.
+    ANSWER: Aortic stenosis   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-350] What is the most common cause of superior vena cava syndrome?
+    ANSWER: Malignancy   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-351] A 7-year-old boy with sickle cell disease presents to your rural emergency department with sudden weakness and altered mental status. His exam shows significant left arm and leg weakness along with aphasia. His spontaneous respiratory rate is 25/min, heart rate is 140 bpm, and blood pressure is 124/82 mm Hg.
+    ANSWER: Red blood cell administration   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-352] A 7-year-old boy presents to the ED with respiratory distress, altered mental status, and fever. His parents report progressive fatigue, intermittent headaches, and easy bruising over the last several weeks. On examination, he is tachypneic, tachycardic, and hypoxic with an oxygen saturation of 89% on room air. Physical examination reveals mild hepatosplenomegaly and scattered petechiae.
+    ANSWER: Acute myeloid leukemia   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-353] A 32-year-old man presents to the ED following a rollover motor vehicle collision. On arrival, he is confused and has a BP of 88/56 mm Hg and HR of 132 bpm. Two units of packed red blood cells are ordered by the trauma team. While receiving his second unit of blood, the patient begins to experience generalized pruritus.
+    ANSWER: Hold the transfusion and administer diphenhydramine   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-354] A 17-year-old boy with sickle cell anemia and alpha-thalassemia presents with thigh pain. The pain is less severe than his sickle cell crisis but is persistent, worsens with walking, and wakes him at night. His exam is only remarkable for mild limitation with internal rotation of the hip. His X-ray is above. Which of the following is the most likely diagnosis?
+    ANSWER: Avascular necrosis   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-355] A 67-year-old man with a history of multiple myeloma presents to the ED with fatigue, abdominal pain, and constipation. His workup is notable for a calcium of 16 mg/dL. Which of the following best describes the mechanism of this patient’s hypercalcemia?
+    ANSWER: Activation of osteoclasts and local bone destruction   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-356] A 39-year-old man presents to the emergency department for fatigue and a rash. He was treated with chloramphenicol for a recent zoonotic infection. His vital signs are T 99°F (37.2ºC), HR 105 bpm, RR 12/minute, BP 139/85 mm Hg, and SpO2 97% on room air. He has petechiae on his trunk and extremities.
+    ANSWER: Drug-induced aplastic anemia   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-357] A 20-year-old man with no significant medical history presents to the ED because his fingers are turning a grey color. He just returned from a global trip where he was working on a college project and has been taking chloroquine for prophylaxis. He reports no systemic or respiratory symptoms.
+    ANSWER: Continued supplemental oxygen and observation   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-358] An 8-year-old girl with a history of sickle cell anemia presents with diffuse pain consistent with an acute sickle cell pain episode. While in the emergency department, she develops an acute-onset headache, right-sided facial droop, and right arm weakness. A CT scan confirms the diagnosis. After initial stabilization, which of the following is the best next step in management?
+    ANSWER: Exchange transfusion   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-359] A 6-year-old boy with a history of sickle cell disease is brought to the emergency department for decreased activity. He had 3 days of cough and fever that resolved with over-the-counter medications 2 weeks prior. His HR is 150 bpm, BP is 80/50 mm Hg, and RR is 30/min. Physical examination shows pale conjunctivae and reticulated, blanching erythema over the extremities.
+    ANSWER: Hemoglobin of 7.5 g/dL   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-360] Which of the following sets of lab values are most consistent with disseminated intravascular coagulation?
+    ANSWER: PT high, platelets low, PTT high, D-dimer high, fibrinogen low   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-361] A 26-year-old man presents after sustaining a gunshot wound to the right side of the chest. An initial FAST exam was positive for free fluid in the right hemithorax, and a chest tube was placed with an initial 500 mL of bloody output. The patient has received 4 units each of packed red blood cells, platelets, and fresh frozen plasma through large-bore vascular access with a rapid transfuser.
+    ANSWER: Administering warmed blood   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-362] A 79-year-old man with a history of atrial fibrillation on apixaban presents to the ED after he fell and struck his head. CT scan of the head reveals a small subdural and subarachnoid hemorrhage. Which of the following is the best treatment for this patient?
+    ANSWER: 4-factor prothrombin complex concentrate   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-363] A 49-year-old man presents with mental status changes and fever. Brain CT scan shows normal findings. His urine toxicology screen is unremarkable. Laboratory findings show a serum sodium of 137 mEq/L, serum potassium of 5.1 mEq/L, serum creatinine of 1.9 mg/dL, white blood cell count of 9,000/L, hemoglobin of 9.3 g/dL, and platelets of 19,000/L.
+    ANSWER: Purpura   (key E)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-364] A 34-year-old woman presents to the ED with weakness and fatigue. She has a history of dysfunctional uterine bleeding but is otherwise healthy. Symptoms have been present for over a week, with bilateral lower extremity paresthesias. She recently gave birth and has been on a vegan diet for 2 years without dietary supplements.
+    ANSWER: Hypersegmented neutrophils   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-365] A 60-year-old woman presents to the ED with a fever. Vital signs are BP 80/40 mm Hg, RR 24/min, HR 125 bpm, SpO2 95% on room air, and T 102.5°F (39.2ºC). Physical exam reveals left lower extremity erythema with associated crepitus. She is also noted to be bleeding from her IV sites.
+    ANSWER: Peripheral destruction of cells   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-366] A 72-year-old man presents with lower back pain and significant weakness. He has a history of diabetes mellitus, for which he takes insulin, hypertension, for which he takes hydrochlorothiazide, and gout, which he manages with colchicine. Vital signs today are a BP of 129/89 mm Hg, HR of 99 bpm, RR of 15/min, and T of 99.1°F. Conjunctival pallor is noted on exam.
+    ANSWER: Lytic lesions on plain film   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-367] A 25-year-old woman, 32 weeks pregnant, presents to your rural emergency department with a rash. She reports a small rash on her ankles and left arm over the last 2 days. It does not itch. She has no fever or other systemic symptoms. She reports no abdominal pain or vaginal bleeding. She has not had any problems with the pregnancy thus far.
+    ANSWER: Immune thrombocytopenia   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-368] A 26-year-old woman with sickle cell disease presents to the emergency department with fever, shortness of breath, and pleuritic chest pain. Her HR is 90 bpm, BP is 100/74 mm Hg, RR is 28/min, and SpO2 is 90% on room air. A chest X-ray reveals a new infiltrate in the right middle lobe. Which of the following is the most appropriate initial treatment for this patient?
+    ANSWER: Intravenous antibiotics   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-369] A 28-year-old man presents to the emergency department for bleeding gums and intermittent nosebleeds over the past week. He has no current bleeding, but there are petechiae on his lower extremities. His exam is otherwise unremarkable, with no evidence of lymphadenopathy, hepatosplenomegaly, or pallor.
+    ANSWER: Corticosteroids   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-370] A 16-year-old girl presents to the ED with altered mental status. Her parents report that she became concerned about a headache 3 hours earlier and went to her room to lie down. When they checked on her 1 hour later, she was lethargic with slurred speech.
+    ANSWER: Ineffective activated protein C activity   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-371] A 17-year-old boy presents to the ED with a painless mass on the left side of his neck, which he first noticed 3 months ago. It is now increasing in size. The patient also reports a 10 lb weight loss and night sweats. On exam, you note a 5 cm rubbery, firm, and mobile mass located in the anterior cervical triangle. The overlying skin is intact, with no redness, streaking, or drainage.
+    ANSWER: Hodgkin lymphoma   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-372] A 4-year-old boy with hemophilia A presents to the ED after falling from the monkey bars and hitting his head on the ground. On exam, he has a large occipital hematoma and a Glasgow Coma Scale score of 14. Which of the following should be administered?
+    ANSWER: Factor VIII concentrate   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-373] A 40-year-old woman is brought to the ED by EMS with severe shortness of breath and chest pain. She cannot provide additional history. Her vitals show a HR 110 bpm, BP 160/110 mm Hg, RR 50/min, and SpO2 89% on 15 L oxygen via nonrebreather mask. She appears uncomfortable and has increased work of breathing. ECG shows sinus tachycardia without ST or T wave abnormalities.
+    ANSWER: Sickle cell disease   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-374] A 4-year-old girl presents to the emergency department with fatigue. Her history is only remarkable for a resolved cold a few weeks ago. Her heart rate is 160 bpm, blood pressure is 112/76 mm Hg, and oxygen saturation is 99% on room air. She is pale on the exam but will wake and interact appropriately.
+    ANSWER: Glucocorticoid administration   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-375] A 35-year-old man presents to the ED with fatigue. Physical examination and vital signs are unremarkable. Lab results reveal a hemoglobin of 10 g/dL and a low mean corpuscular volume. Peripheral blood smear shows target cells. Which of the following is the most likely diagnosis?
+    ANSWER: Beta-thalassemia   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-376] A 12-year-old boy presents to the emergency department with severe fatigue. He recently had a fever, diarrhea, a rash on his cheeks, and some joint aches and has felt exceedingly weak since the start of these symptoms. The patient has a medical history of sickle cell disease and is currently taking folate and a multivitamin.
+    ANSWER: Parvovirus B19   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-377] A 32-year-old woman who is at 20 weeks gestational age presents to the ED after a seizure. Her vital signs are BP 115/70 mm Hg, HR 105 bpm, RR 16/min, T 38.5°C, and SpO2 98% on room air. On exam, you note some confusion, but otherwise, there are no focal neurologic deficits. Lab results reveal a hemoglobin of 7 g/dL and platelets of 12,000/µL. A peripheral blood smear reveals schistocytes.
+    ANSWER: Plasmapheresis   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-378] A 9-year-old girl previously in a normal state of health presents to the ED due to epistaxis for the past 4 hours. Her parents have applied pressure to her nose and have sprayed oxymetazoline intranasally with intermittent improvement. However, she continues to rebleed. Physical exam reveals a well-appearing girl with oozing epistaxis from the left nares.
+    ANSWER: Thrombocytopenia   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-379] A 45-year-old man with a history of cirrhosis presents with hematemesis. He is found to have a hemoglobin of 5.0 g/dL and consents to a transfusion of packed red blood cells. Approximately 1 hour after the transfusion is started, he is noted to be tachycardic to 120 bpm. On re-evaluation, he is well appearing and has no concerns.
+    ANSWER: Recipient antibodies interacting with donor leukocytes and cytokine accumulation   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-380] A 27-year-old woman with no known medical history presents to the ED after a motor vehicle collision. On arrival, she is confused, has a BP of 80/45 mm Hg, and has an HR of 128 bpm. Her FAST is positive for perihepatic fluid.
+    ANSWER: Allergic transfusion reaction   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-381] A 23-year-old man was dropped at the emergency department with confusion, slurred speech, and blurry vision. He has trouble walking to the examination chair and is off balance. His medical history is not known. His T is 97°F (36.1°C), BP is 121/80 mm Hg, HR is 81 bpm, RR is 15/min, and SpO2 is 98% on room air. Physical examination reveals a confused-appearing young man with an off-balance gait.
+    ANSWER: Phlebotomy and normal saline bolus   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-382] A 30-year-old patient with a history of sickle cell anemia is experiencing a nonproductive cough, increased fatigue, and shortness of breath 80 minutes after receiving a packed red blood cell transfusion. His HR is 130 bpm, BP is 120/78 mm Hg, RR is 30/min, and SpO2 is 87% on room air. Physical examination is notable for bilateral rhonchorous breath sounds and elevated work of breathing.
+    ANSWER: Transfusion-related acute lung injury   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-383] A 5-year-old boy being treated for acute leukemia presents to the ED with a 102°F (38.9°C) fever, right lower quadrant abdominal pain, and vomiting that began this morning. He had bloody diarrhea on arrival. His neutrophil count yesterday was undetectable.
+    ANSWER: Computed tomography   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-384] A 3-year-old girl is brought to the emergency department via police from daycare after being found with extensive bruising over her legs and arms. Child protective services are en route. The child appears well and has vital signs within normal limits for age. Lab results show a white blood cell count of 8.2 x 109/L, hemoglobin of 14.1 g/dL, and platelets of 6 x 109/L.
+    ANSWER: Immune thrombocytopenia   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-385] A 56-year-old man presents to the emergency department with progressive swelling of his face, neck, and upper extremities over the past 2 weeks. He reports associated dyspnea on exertion and orthopnea. On physical examination, there is visible facial and neck swelling, dilated veins over the upper chest and neck, and edema of the upper extremities.
+    ANSWER: Malignancy   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-386] A 65-year-old man who takes dabigatran for atrial fibrillation presents to the ED for persistent anterior epistaxis. Direct pressure does not stop the bleeding. You pack the nostril, but blood is still soaking through. The patient’s vital signs remain normal, and his hemoglobin is 14 g/dL. Which IV medication(s) should be administered as the most appropriate next step in care?
+    ANSWER: Idarucizumab   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-387] A 24-year-old woman who was admitted and has been boarding in the ED for several days is currently undergoing heparin infusion therapy for a pulmonary embolism. She now reports a cold, painful arm. On evaluation, her arm is cold and pulseless. Which of the following is the most appropriate management of her anticoagulation?
+    ANSWER: Discontinue heparin infusion and begin intravenous bivalirudin   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-388] A 64-year-old woman with a history of polycythemia vera presents to the ED with dyspnea and hemoptysis. On physical exam, you note rales to the mid-thorax bilaterally and oral mucosal hemorrhages. Her chest radiograph reveals areas of multiple infarcts. Which of the following best describes the pathophysiology of the most likely disease process?
+    ANSWER: Elevated serum viscosity   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-389] A 14-year-old boy with a history of sickle cell disorder presents to the ED with 2 days of chest pain and difficulty breathing. His vital signs on arrival are a T of 101.8°F (38.8°C), HR of 145 bpm, BP of 82/51 mm Hg, and RR of 40/min. His chest X-ray is shown above. What organism is most likely responsible for his condition?
+    ANSWER: Streptococcus pneumoniae   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-390] A 63-year-old man presents to the ED 2 days after his last chemotherapy session for induction treatment of acute myelogenous leukemia. He has been vomiting and having diarrhea since his last session. He reports feeling dehydrated and is unable to tolerate oral intake. What lab studies are consistent with a diagnosis of tumor lysis syndrome in this patient?
+    ANSWER: Low calcium, high phosphate, high potassium   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-391] A 20-year-old man with a history of sickle cell disease presents to the emergency department with worsening fatigue and malaise for 3 days. He initially felt some chills but has not developed any other symptoms. Vital signs are BP 113/62 mm Hg, HR 113 bpm, T 38.2℃, RR 12/min, and SpO2 96% on room air. Other than appearing slightly pale, his examination is unremarkable.
+    ANSWER: Parvovirus B19   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-392] A 62-year-old man presents to the emergency department with a chief concern of prolonged generalized weakness, fatigue, and headache over the past month. Vital signs are within normal limits. Physical exam reveals plethoric facies and splenomegaly. His blood work shows WBC 18,000/μL, hemoglobin 19.8 g/dL, hematocrit 61%, platelets 517,000/μL, and lactate dehydrogenase 370 U/L.
+    ANSWER: Polycythemia vera   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-393] A 50-year-old woman with a medical history of diabetes presents to the ED with bilateral lower extremity pain. She describes her pain as a burning sensation. Vital signs are BP 120/80 mm Hg, RR 15/min, HR 68 bpm, and SpO2 98% on room air. On physical exam, you notice erythema in both her feet.
+    ANSWER: Polycythemia vera   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-394] A 24-year-old woman is receiving a transfusion due to symptomatic anemia due to menorrhagia. Her nurse informs you that she developed a temperature of 39°C (102.2°F). Her heart rate is 78 bpm, respirations are 20/min, blood pressure is 135/90 mm Hg, and SpO2 is 99%. You find the patient alert and awake. She reports chills but is otherwise asymptomatic.
+    ANSWER: Positive direct antiglobulin testing   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-395] A 56-year-old woman presents to the emergency department reporting diffuse body pain for over a week and generalized malaise. She has not been eating well due to nausea and reports no vomiting or diarrhea. She has been constipated, which she attributes to not eating well. She has no fever, chest pain, shortness of breath, cough, or urinary changes. Her physical examination is unremarkable.
+    ANSWER: Multiple myeloma   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-396] A 72-year-old man presents to the ED with three episodes of painless hematochezia. He has a history of atrial fibrillation managed with apixaban. Vital signs are T 36.8 °C (98.2 °F), BP 128/76 mm Hg, HR 92 bpm, RR 14/min, and SpO2 98% on room air. He is alert, oriented, and mildly pale but is in no distress. His hemoglobin is 9.6 g/dL with an unknown baseline.
+    ANSWER: Hold apixaban and consult gastroenterology   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-397] A 45-year-old woman presents with a cough. She has a recent diagnosis of metastatic breast cancer status post right radical mastectomy with lymph node dissection. She is currently receiving chemotherapy. Her presentation is concerning for pneumonia. When is the expected nadir of this patient’s neutrophil count after their last chemotherapy?
+    ANSWER: 6–10 days   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-398] A 68-year-old man presents to the ED with fatigue and “pain in my bones” for 3 months despite rest and over-the-counter analgesics. He reports no fever or weight loss. In the last 2 months, he has recovered from pneumonia and cellulitis. Today, he reports back pain and left chest wall pain. His vital signs are within normal limits for his age. He has a normal neurologic examination.
+    ANSWER: Multiple myeloma   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-399] A 22-year-old man who was pitching a baseball game presents to the emergency department by ambulance after being struck in the head by a batted baseball 30 minutes prior to arrival. The paramedics report that the patient was conscious and alert on their arrival but that his teammates noted he was unconscious for a short period of time on the pitcher’s mound after being struck.
+    ANSWER: Administer 7,000 units of factor IX, followed by a noncontrast CT of his head   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-400] A 20-year-old previously healthy man presents to the ED after a motor vehicle collision. He is in hemorrhagic shock, and mass transfusion protocol is initiated. In addition to fresh frozen plasma and platelets, the patient receives a total of 8 units of packed RBCs, and his hemodynamics stabilize. He then develops bilateral basilar rales. An ECG shows a QTc interval of 460 ms.
+    ANSWER: Calcium gluconate   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-401] A 39-year-old man with a history of acute myeloid leukemia presents to the ED with right-sided weakness and difficulty speaking. On physical exam, you note dense right-sided hemiplegia of the upper and lower extremities as well as expressive aphasia. Which of the following laboratory abnormalities would you also expect to find?
+    ANSWER: Leukocytosis   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-402] A 68-year-old man presents with confusion and dizziness. He has a history of hypertension, hyperlipidemia, acute myeloid leukemia, and diabetes mellitus. He describes this dizziness as a vertiginous spinning associated with nausea and vomiting. Vital signs are all unremarkable. Physical exam is notable for upward-beating nystagmus and a negative head impulse test.
+    ANSWER: Leukapheresis   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-403] With which type of leukemia are patients most at risk for severe complications from hyperleukocytosis?
+    ANSWER: Acute myeloid leukemia   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-404] A 55-year-old patient on active chemotherapy for lymphoma is presenting with malaise, nausea, and fatigue. Which of the following, if present in addition to the findings above, would be an indication for empiric treatment with intravenous antibiotics?
+    ANSWER: Tachycardia and hypotension   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-405] A 21-year-old woman presents to the emergency department 3 days after having her nose packed for posterior epistaxis. She has a fever, chills, and a diffuse erythematous rash. This morning, her gums started bleeding, and she developed diffuse bruising. Which of the following conditions is likely responsible for her bleeding gums and ecchymosis?
+    ANSWER: Disseminated intravascular coagulation   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-406] A 70-year-old man presents to the emergency department because he does not feel well. He has a history of chronic obstructive pulmonary disease, hypertension, coronary artery disease, and a recent diagnosis of lymphoma and is currently undergoing chemotherapy. His last treatment was approximately 8 days ago.
+    ANSWER: Initiate cefepime and admit to the hospital   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-407] A 20-year-old man with a history of hemophilia A presents to the emergency department after a motor vehicle collision. His vital signs are significant for a heart rate of 110 bpm but are otherwise within normal limits. On exam, his eyes are open, he is speaking in a confused manner, and localizes to pain in all extremities.
+    ANSWER: Administration of factor VIII concentrate   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-408] A 73-year-old man with a history of hypertension and atrial fibrillation anticoagulated with warfarin presents to the emergency department with brisk rectal bleeding. He is afebrile, heart rate is 126 bpm, blood pressure is 80/50 mm Hg, respirations are 26/min, and oxygen saturation is 98%. He is pale and diaphoretic. What is the most appropriate transfusion strategy?
+    ANSWER: Initiate massive transfusion protocol titrated to pace of bleed and vital signs   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-409] A 6-year-old boy presents to the ED with respiratory distress, headache, and confusion. His parents report that he has had intermittent fevers and fatigue over the past 2 weeks. On examination, he is tachypneic and tachycardic, and he has mild hepatosplenomegaly. A complete blood count reveals a white blood cell count of 250,000/μL with a predominance of blasts.
+    ANSWER: Consult oncology to initiate emergent leukapheresis and administer IV fluids   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-410] A 46-year-old woman presents with worsening fatigue for the past 8 months. She reports that she has a hard time “keeping up” at work, and her spouse has noticed that she’s more forgetful. Her medical history includes GERD, for which she takes pantoprazole, and she has been on a strict vegan diet for the past year.
+    ANSWER: Increased mean corpuscular volume   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-411] A 3-year-old girl who was recently adopted is brought to the ED by her new adoptive parents for evaluation of fatigue and pallor. The patient’s medical history and family history are unknown. Her lab results are as follows: White blood cell count: normal Hemoglobin: very low Platelet count: normal Mean corpuscular volume: very low Reticulocyte count: slightly elevated Ferritin: normal Which of the …
+    ANSWER: Thalassemia   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-412] A 35-year-old man on multiple medications presents to the ED with 1 day of fatigue, easy bruising, and mucosal bleeding. Blood work shows WBC of 2,000/μL (35% neutrophils), hemoglobin of 6.0 g/dL, hematocrit of 22%, platelets of 89,000/μL, and reticulocytes of 0.2%. His coagulation studies are within normal limits. Which of the following is the suspected diagnosis most associated with?
+    ANSWER: Phenytoin   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-413] A 51-year-old man with a history of inflammatory bowel disease presents to the ED with shortness of breath and headaches for the past 2 weeks. The hemoglobin is 6.5 g/dL, much lower than prior per historical chart review. The mean corpuscular volume is 67 fL and the mean corpuscular hemoglobin is low. What laboratory testing should be sent in order to initiate the proper treatment?
+    ANSWER: Total iron binding capacity, ferritin, and serum iron   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-414] A 74-year-old woman presents to the ED with pruritus and burning in her hands and feet. She states that every time she takes a hot shower, she has severe pruritus. She is also having episodes of burning in her hands and feet with a dusky red discoloration. Which of the following would you expect to find on laboratory testing?
+    ANSWER: Hematocrit 68%   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-415] A 28-year-old man presents after falling from a scaffold and hitting his head. According to the bystanders, the patient lost consciousness briefly before becoming drowsy and confused. His friend states he has a history of hemophilia B.
+    ANSWER: 100 IU/kg of factor IX   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-416] A 67-year-old woman with a history of atrial fibrillation on apixaban presents to the ED for epistaxis that began 30 minutes ago. Bleeding is brisk initially but stops after 10 minutes of direct pressure and application of oxymetazoline. She is comfortable and has no evidence of recurrent bleeding and her vital signs are within normal limits.
+    ANSWER: Hold her next dose of apixaban   (key E)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-417] A 32-year-old woman presents to the ED with dizziness and left upper extremity weakness. On physical examination, you note isolated 3/5 strength in the left upper extremity without other focal deficits. Her WBC count is 108,000/µL. Which of the following is the most appropriate definitive treatment?
+    ANSWER: Leukapheresis   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-418] Which white blood cell count result is necessary to make the diagnosis of severe neutropenic fever?
+    ANSWER: 4,000/µL with 10% neutrophils   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-419] A 22-year-old man with a medical history of alcohol use disorder is brought to the ED with acute alcohol intoxication and increasing fatigue. He is observed until sober and states that he feels fatigued on a daily basis. Basic laboratory studies are notable for a hemoglobin of 9.2 mg/dL from a baseline of 9.5 mg/dL. The mean corpuscular volume is 119 fL.
+    ANSWER: Folic acid and vitamin B12   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-420] A 57-year-old man presents to the ED with headache, blurred vision, and fatigue. His spouse notes he has a “blood problem” that his doctor is monitoring. Which of the following underlying conditions is most frequently complicated by hyperviscosity syndrome?
+    ANSWER: Waldenström macroglobulinemia   (key E)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-421] What is one of the leading causes of death in adult patients with the disease demonstrated by the physical examination finding shown above?
+    ANSWER: Acute chest syndrome   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-422] A 52-year-old woman presents to the emergency department after sustaining multiple stab wounds to her abdomen. She is noted to be hypotensive and tachycardic. Massive transfusion is initiated and she is transfused multiple units of packed red blood cells and fresh frozen plasma. Shortly after transfusion is initiated she develops respiratory distress, severe angioedema, and hives.
+    ANSWER: IgA deficiency   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-423] A 9-year-old boy with acute lymphoblastic leukemia on chemotherapy presents to the ED with a T of 38.7°C. He has no other ill symptoms. He is well appearing on exam, and his other vital signs are within normal limits for his age. His exam is only remarkable for mild pallor, alopecia, and a subcutaneous port. His absolute neutrophil count yesterday was 200/µL.
+    ANSWER: Administer cefepime   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-424] Which of the following nutritional deficiencies is a known cause of pancytopenia?
+    ANSWER: Vitamin B12   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-425] A 33-year-old woman with a history of von Willebrand disease type 1 presents to the ED with prolonged epistaxis. Vital signs are within normal range, and nasal examination reveals oozing from the right naris despite applying pressure. Which of the following treatments is indicated for the management of her bleeding?
+    ANSWER: Desmopressin   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-426] A 79-year-old man with a history of hypertension, hyperlipidemia, coronary artery disease, and chronic atrial fibrillation presents to the emergency department accompanied by his family due to concern for worsening headache and left-sided weakness. His medications include aspirin, atorvastatin, and warfarin.
+    ANSWER: Administer prothrombin complex concentrate and vitamin K   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-427] An 8-year-old boy who recently emigrated from Uganda presents to the ED with a facial mass that involves the jaw and orbit. He has ipsilateral lower facial numbness. Physical exam is shown above. Which of the following is this patient at risk of developing upon the initiation of treatment?
+    ANSWER: Tumor lysis syndrome   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-428] A 55-year-old man presents to the ED with fever, hypotension, and petechiae. He has a history of metastatic prostate cancer and is currently undergoing chemotherapy. Physical examination reveals tachycardia, cool extremities, and diffuse bruising. Initial laboratory studies show thrombocytopenia, an elevated INR, decreased fibrinogen, and elevated D-dimer.
+    ANSWER: Cryoprecipitate and supportive care   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-429] What is the most common presentation of Hodgkin lymphoma in a 17-year-old boy?
+    ANSWER: Painless cervical lymphadenopathy   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-430] A 65-year-old woman with a history of colon cancer presents to the ED with a fever, cough, and mental status changes. According to her family, she has had a cough and congestion for several days. She developed a fever 2 days ago but did not see a doctor. Today, she has not been answering questions appropriately.
+    ANSWER: Platelets of 51,000 cells/µL, D-dimer of 1,100 ng/mL, prothrombin time of 18 sec, and fibrinogen level of 70 mg/dL   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-431] A 61-year-old man with a history of acute myeloid leukemia presents to the emergency department with priapism. He reports being awoken by a sudden pain in his penis that started 3 hours ago. He notes two similar episodes over the past week, which previously resolved with cold showers. He reports no use of sildenafil or similar medications.
+    ANSWER: Neurologic complications   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-432] A healthy 2-year-old boy presents with his parent due to fatigue and pallor over the past week. His parent states he drinks whole milk three times a day. Vital signs are within normal limits, and the exam reveals conjunctival pallor. Blood work shows hemoglobin 10.4 g/dL, hematocrit 32%, mean corpuscular volume 72 fL, and mean corpuscular hemoglobin concentration 28 g/dL.
+    ANSWER: Increased red blood cell distribution width   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-433] A 52-year-old man presents to the ED reporting redness around a scratch on his leg. He was swimming and tubing in the river this week and probably scratched his leg on the rocks. He reports no drainage or fever. On examination, you notice some erythema and streaking around his scratch without abscess formation. You tell the patient he will need antibiotics.
+    ANSWER: Ciprofloxacin   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-434] A 3-year-old boy presents with his mother for a new onset of a rash. The patient has a history of sickle cell disease and is fully immunized. His parent states the patient has seemed more fatigued recently with associated rhinorrhea and cough. She noticed the rash last night before bed but states that it became more pronounced this morning.
+    ANSWER: Aplastic crisis   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-435] What class of drugs is the most common cause of drug-induced neutropenia in children?
+    ANSWER: Antibiotics   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-436] A 24-year-old man presents short of breath. He reports inhaling amyl nitrite. His oxygen saturation is 85% on room air and he has cyanosis. Which of the following is the best treatment for this condition?
+    ANSWER: Methylene blue   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-437] Which of the following conditions are Reed-Sternberg cells seen in?
+    ANSWER: Hodgkin lymphoma   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-438] Which of the following additional ED laboratory findings, along with cytopenia, suggests a diagnosis of macrophage activation syndrome in a pediatric patient?
+    ANSWER: Decreased fibrinogen and low erythrocyte sedimentation rate   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-439] A 3-day-old boy presents with persistent bleeding after a circumcision. He was discharged from the hospital the day before, after an unremarkable vaginal delivery and circumcision. His parents have noticed a continuous ooze from the site and have had to replace the dressing multiple times. The patient’s older brother has hemophilia A. Vital signs are unremarkable.
+    ANSWER: Activated partial thromboplastin time   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-440] A 40-year-old woman presents to the ED with confusion. Her BP is 130/80 mm Hg, HR is 90 bpm, RR is 20/min, SpO2 is 98% on room air, and T 98.5°F (36.9°C). On physical exam, she is alert and oriented to person and time. Scattered petechiae are also noted. Her complete blood count shows a white blood cell count of 10,000/µL, hemoglobin of 7.5 g/dL, and platelets of 15,000/µL.
+    ANSWER: Plasma exchange   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-441] A 33-year-old man with a history of HIV who is not currently taking antiretroviral medications presents to the emergency department with a headache, nausea, vomiting, and weakness in his left hand. A CT scan of the patient’s head is performed, as seen above. The patient is discharged with pyrimethamine and sulfadiazine.
+    ANSWER: Lymphoma   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-442] A 55-year-old man with a history of diffuse large B-cell lymphoma on chemotherapy presents to the ED with malaise, rigors, and vague abdominal pain for several days. He has no prior history of neutropenia. Vital signs in the ED are notable for a blood pressure of 140/80 mm Hg, heart rate of 90 bpm, and oral temperature of 38.7°C.
+    ANSWER: Vancomycin and cefepime   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-443] An 18-month-old boy presents with symptoms of fever and cough. During the evaluation, you notice that the child appears pale. The family notes that the child has seemed fussier recently. They also report that the child is a picky eater and consumes 1.5 L of cow’s milk each day.
+    ANSWER: Iron deficiency anemia   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-444] A 6-year-old girl with a history of sickle cell disease is brought to the ED with a fever. Her parent reports the patient has been less playful but is continuing to eat and drink well. Her vital signs on arrival are a T of 39.0°C (102.2°F), HR of 130 bpm, BP of 94/60 mm Hg, RR of 18/min, and SpO2 of 98% on room air.
+    ANSWER: Parvovirus B19 infection   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-445] A 22-year-old otherwise healthy man is shot multiple times and arrives at the emergency department in hemorrhagic shock. His vital signs are T 96°F (35.6°C), BP 76/40 mm Hg, P 130 bpm, RR 28/min, and SpO2 96% on room air. He has a penetrating wound to his left chest and left thigh on which a tourniquet has been applied to control arterial bleeding. A left chest tube is placed.
+    ANSWER: Transfusion reaction   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-446] A 3-year-old girl with acute lymphoblastic leukemia has routine electrolyte studies performed secondary to initiating chemotherapy earlier that day. Which of the following findings would be concerning for tumor lysis syndrome?
+    ANSWER: Hyperphosphatemia   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-447] You obtain the radiograph seen above on a 75-year-old man with fatigue. You are also informed that he has Bence Jones protein in his urine. What is the most likely diagnosis?
+    ANSWER: Multiple myeloma   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-448] A patient is sent home with a prescription for an antibiotic after being diagnosed with a bacterial upper respiratory infection. He returns 2 days later because his eyes are yellow. Vital signs include a blood pressure of 129/71mm Hg, heart rate of 83 bpm, respiratory rate of 17/min, oxygen saturation of 97% on room air, and temperature of 98.3°F.
+    ANSWER: Ciprofloxacin   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-449] A 43-year-old woman on chemotherapy for breast cancer presents with a fever of 102°F (38.9°C). She also has a cough and generalized fatigue. Physical examination and chest X-ray are unremarkable, except for the presence of a port. Complete blood count reveals a white blood cell count of 600/µL with 30% neutrophils and no band forms. What management is indicated?
+    ANSWER: Send blood and urine cultures and start vancomycin and cefepime   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-450] A 26-year-old man with a history of hemophilia A presents to the ED after being struck in the head with a baseball. He lost consciousness for approximately 2 minutes and has been confused since awakening. He has ecchymosis over the left mastoid process and clear fluid draining from his left ear. Which of the following is the most appropriate next step in management?
+    ANSWER: Raise desired factor level to 100%, followed by computed tomography of the head   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-451] A 67-year-old woman with a history of end-stage kidney disease on hemodialysis presents to the ED with 4 weeks of progressively worsening shortness of breath and lightheadedness with exertion. She has had no recent evidence of bleeding. Her initial hemoglobin is found to be 5.4 mg/dL. She is typed and crossed for 2 units of packed red blood cells.
+    ANSWER: Transfusion-related acute lung injury   (key E)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-452] A 65-year-old man who is taking warfarin for atrial fibrillation presents to the ED with nausea and confusion. An emergent noncontrast head CT scan is performed as seen above. His INR is 3.5. Which of the following agents is most appropriate to administer next?
+    ANSWER: Four-factor prothrombin complex concentrate   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-453] An 18-year-old woman presents to the ED with fevers, night sweats, and unintentional weight loss. On physical exam, you palpate significant supraclavicular lymphadenopathy. Her chest X-ray shows an enlarged mediastinum suggestive of lymphadenopathy. Which of the following would you expect to find on lymph node biopsy?
+    ANSWER: Reed-Sternberg cells   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-454] Which of the following transfusion-related complications is characterized by fever, hypotension, hypoxemia, and bilateral pulmonary infiltrates?
+    ANSWER: Transfusion-related acute lung injury   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-455] A 47-year-old man presents to the ED intoxicated and with slurred speech. He was found on a church playground sleeping in a swing. His vital signs are within normal limits for his age. He smells of alcohol and appears malnourished. He does not have any external signs of trauma. His blood glucose is 86 mg/dL and his hemoglobin level is 8.5 g/dL.
+    ANSWER: Mean corpuscular volume &gt; 110 fL   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-456] Which of the following sources of megaloblastic anemia is expected to develop first in a patient who is malnourished?
+    ANSWER: Folate deficiency   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-457] What laboratory abnormalities are hallmarks of thrombotic thrombocytopenic purpura and can be used to make a presumptive diagnosis of the disorder?
+    ANSWER: Microangiopathic hemolytic anemia and thrombocytopenia   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-458] A 25-year-old man with sickle cell disease presents with dyspnea on exertion and pleuritic chest pain. His vital signs include heart rate 105 bpm, blood pressure 138/88 mm Hg, respiratory rate 20/minute, temperature 100.6°F (38.1°C), and oxygen saturation 95% on room air. Initial lab results show hemoglobin 10.2 g/dL, and a chest X-ray shows a right lower lobe infiltrate.
+    ANSWER: Antibiotics   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-459] A 24-year-old man with a history of sickle cell disease becomes febrile 3 hours after a blood transfusion. Vital signs are HR 80 bpm, BP 116/60 mm Hg, RR 16/min, and T 38.2°C. He has shaking chills, but otherwise, he appears in no distress. Which of the following is the most likely diagnosis?
+    ANSWER: Febrile reaction   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-460] A 67-year-old man presents to the emergency department with a report of low back pain and pelvic pain over the past 2 months. He initially presented to his primary care clinician with the same concerns, at which point his clinician ordered X-rays of his lumbar spine and pelvis (shown above) and sent him to the emergency department for further evaluation.
+    ANSWER: Hemoglobin 8.4 g/dL, serum calcium 13.8 mg/dL, and serum protein 9.8 g/dL   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-461] A 33-year-old woman presents to the emergency department with irritability and anxiety. She states that whenever she goes to bed at night, she has an insatiable urge to move her legs and walk. When she ultimately walks and tries to go back to sleep, the urge returns. This evening, it has been happening for the past 7 hours and she is unable to sleep.
+    ANSWER: Iron deficiency   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-462] A middle-aged patient in the ED has a hemoglobin of 8.1 g/dL with a mean corpuscular volume of 112 fL. Which of the following is a common cause of this laboratory finding?
+    ANSWER: Vitamin B12 deficiency   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-463] A 6-year-old boy presents to the emergency department with a fever and a rash. His fever began 3 days ago and has been associated with a runny nose. Today he developed a diffuse rash. Vital signs indicate a T of 38.2°C, RR of 20/min, and HR of 130 bpm. He is playful and appears nontoxic on examination.
+    ANSWER: Sickle cell disease   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-464] Which of the following matches the laboratory finding with the correct diagnosis?
+    ANSWER: Philadelphia chromosome: chronic myelogenous leukemia   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-465] A 47-year-old man presents to the ED with dyspnea and facial swelling that is significantly worse since waking up this morning. Physical exam is shown above. What is the most common underlying etiology of this disorder?
+    ANSWER: Squamous cell carcinoma of lung   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-466] A 23-year-old man with acute lymphoblastic leukemia presents with generalized weakness and muscle cramps. The patient states he started chemotherapy 3 days ago. A basic metabolic panel shows serum potassium 6.5 mEq/L, calcium 6.3 mg/dL, and creatinine 11.1 mg/dL. His ECG is included above. What management is indicated?
+    ANSWER: Aggressive fluids and emergent dialysis   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-467] What is the most common cause of iron deficiency anemia in children between 1 and 12 years of age?
+    ANSWER: Excessive intake of cow’s milk   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-468] A 72-year-old woman with chronic myelogenous leukemia and systolic heart failure is brought to the ED with confusion. The patient reports blurred vision, headache, and fatigue. Laboratory tests reveal a WBC count of 157,000/µL, hemoglobin of 8 g/dL, and platelets of 78,000/µL. Her peripheral smear is seen above. What is the best treatment for this patient?
+    ANSWER: Leukapheresis   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-469] A 55-year-old woman with a history of anemia of chronic disease and multiple previous transfusions presents to the emergency department for fatigue. She is found to have a hemoglobin of 6.7 mg/dL and is transfused with 1 unit of blood. After the transfusion, her T is 100.5°F (38.1°C), BP is 125/89 mm Hg, HR is 92 bpm, RR is 19/min, and SpO2 is 100% on room air. The patient has aches and fatigue.
+    ANSWER: Acetaminophen   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-470] A 45-year-old woman presents with fatigue and shortness of breath for the past 3 days. Physical exam reveals pale conjunctiva, scleral icterus, and scattered purpura on her legs. Laboratory evaluation shows WBC 6,000/mcL, hemoglobin 9 g/dL, and platelets 15,000/mcL. Peripheral blood smear reveals schistocytes.
+    ANSWER: Plasmapheresis   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-471] An 11-year-old girl with a known history of sickle cell disease presents to the emergency department reporting 2 days of pain localized to her bilateral hips and lower back. She reports that she has had vaso-occlusive pain episodes with symptoms like this in the past but today developed a fever which she reports is not typical for her.
+    ANSWER: Intravenous fluids, antibiotics, and transfusion therapy   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-472] Which of the following characteristics suggests transfusion-related acute lung injury instead of transfusion-associated circulatory overload?
+    ANSWER: High fever   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-473] A 23-year-old man is brought to the ED after a head-on motor vehicle collision. He received a massive blood transfusion for substantial intra-abdominal and pelvic bleeding. He is now intubated and sedated. As the nurse takes his blood pressure, he notices spasming of the patient’s hand, characterized by adduction of the thumb, flexion of the metacarpophalangeal joints, extension of the interphalan …
+    ANSWER: Transfusion-associated hypocalcemia   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-474] A 44-year-old woman develops acute shortness of breath during a transfusion for anemia. Her transfusion is immediately stopped. Vital signs include T 99.0°F (37.2°C), BP 104/64 mm Hg, HR 104 bpm, RR 24/min, SpO2 85% on room air. Her chest X-ray shows diffuse bilateral infiltrates and normal heart size.
+    ANSWER: Permeability pulmonary edema requiring supportive care   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-475] A 64-year-old man presents with urinary frequency, urgency, and dysuria for 4 days. He has a history of glucose-6-phosphate dehydrogenase deficiency. Vital signs include a T of 98.6°F (37°C), BP of 130/84 mm Hg, HR of 88 bpm, and RR of 16/min. Physical examination reveals no costovertebral angle tenderness, pelvic or perineal tenderness, or prostate tenderness on digit rectal exam.
+    ANSWER: Cephalexin   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-476] A 39-year-old woman with a “family blood disorder” presents to the ED with sudden-onset shortness of breath and chest pain. A CT angiogram of the chest demonstrates bilateral segmental pulmonary emboli. What is the most likely underlying cause of this finding?
+    ANSWER: Protein C resistance   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-477] A 29-year-old woman with no significant medical history presents with a rash and bleeding gums. She has not had a fever, recent illnesses, or the addition of new medications. Vital signs are unremarkable. Physical exam is notable for a nonblanching, pinpoint, erythematous rash on her lower extremities and dried blood in her nares.
+    ANSWER: Immune thrombocytopenia   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-478] A 55-year-old man presents to the clinic with unintentional weight loss and night sweats for the past 6 weeks. He has a history of osteoarthritis in his left hip and takes ibuprofen and acetaminophen as needed. Vital signs today include a BP of 122/78 mm Hg, HR of 103 bpm, RR of 17/minute, SpO2 of 98% on room air, and T of 100.5°F.
+    ANSWER: Elevated serum lactate dehydrogenase level   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-479] When is neutropenia most likely to occur after the administration of chemotherapy?
+    ANSWER: 7–14 days   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-480] A 13-year-old boy presents to the emergency department with nausea and vomiting. He has a history of non-Hodgkin lymphoma and is currently undergoing chemotherapy. The symptoms started yesterday and have progressively worsened. He has had several episodes of emesis every hour since the onset. Vital signs show HR 58 bpm, BP 95/70 mm Hg, and RR 28/min.
+    ANSWER: Calcium gluconate   (key B)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-481] A 30-year-old man is brought to the ED for fatigue and discoloration of the eyes. Over the past 3 days, he has had gradually increasing fatigue. Today his family noticed his eyes were yellow, and he was struggling to catch his breath after walking a short distance. He has two new henna tattoos, placed 4 days ago, but there are no concerning skin changes.
+    ANSWER: Decreased activity of a red blood cell enzyme   (key A)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-482] A 50-year-old man with a history of heart failure with reduced ejection fraction, portal hypertension, and esophageal varices presents to the ED with 4 weeks of melena and associated shortness of breath and lightheadedness with exertion. His initial hemoglobin is found to be 5.0 mg/dL. He is transfused with 2 units of packed red blood cells.
+    ANSWER: Transfusion-associated circulatory overload   (key D)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-483] An 80-year-old man presents to the ED with confusion. He has a known history of hypertension, hyperlipidemia, and a recent diagnosis of multiple myeloma. During his evaluation, he is found to have hypercalcemia. Appropriate treatment is started, and the patient is admitted to the hospital. Which of the following is the most common monoclonal immunoglobulin found in multiple myeloma?
+    ANSWER: IgG   (key C)
+[ROSH rosh-em-initial-2026-hematological-disorders-q-484] A 27-year-old man presents to the ED for a headache and blurry vision. He also notes gradually worsening pruritus that he has been experiencing for the past several weeks, which seems worse after his evening shower. His temperature is 99.5°F (37.5°C), blood pressure is 127/68 mm Hg, heart rate is 100 bpm, respiratory rate is 20/min, and oxygen saturation is 98% on room air.
+    ANSWER: Polycythemia vera   (key D)

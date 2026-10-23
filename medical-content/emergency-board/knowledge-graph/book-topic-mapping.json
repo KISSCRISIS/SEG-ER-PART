@@ -1,0 +1,757 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14T10:10:02.532Z",
+  "origin": "Phase 4-E.3 deterministic join over topicId-map.json; system-level and unmatched units excluded, never guessed",
+  "mappings": [
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-ch-017",
+      "contentType": "topic",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 84–85",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0036",
+      "contentType": "topic",
+      "topicId": "EM_GI_ABD_PAIN",
+      "location": "PDF pages 56–57",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0039",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 58–59",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0041",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 60–61",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0043",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 62–63",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0060",
+      "contentType": "topic",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 78–79",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0063",
+      "contentType": "topic",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 80–81",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0065",
+      "contentType": "topic",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 82–83",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0089",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 108–109",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0093",
+      "contentType": "topic",
+      "topicId": "EM_CRIT_ANAPHYLAXIS",
+      "location": "PDF pages 114–115",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0107",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 132–133",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0121",
+      "contentType": "topic",
+      "topicId": "EM_RESP_ASTHMA",
+      "location": "PDF pages 158–159",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0122",
+      "contentType": "topic",
+      "topicId": "EM_RESP_ASTHMA",
+      "location": "PDF pages 160–161",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0167",
+      "contentType": "topic",
+      "topicId": "EM_CRIT_ARREST",
+      "location": "PDF pages 232–233",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0174",
+      "contentType": "topic",
+      "topicId": "EM_CRIT_SHOCK",
+      "location": "PDF pages 240–241",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0203",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 278–279",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0204",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 280–281",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0209",
+      "contentType": "topic",
+      "topicId": "EM_RESP_COPD",
+      "location": "PDF pages 288–289",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0258",
+      "contentType": "topic",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "location": "PDF pages 362–363",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0283",
+      "contentType": "topic",
+      "topicId": "EM_OBGYN_ECTOPIC",
+      "location": "PDF pages 404–405",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0295",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_TBI",
+      "location": "PDF pages 424–425",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0296",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_TBI",
+      "location": "PDF pages 426–427",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0323",
+      "contentType": "topic",
+      "topicId": "EM_PEDS_FEVER",
+      "location": "PDF pages 466–467",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0344",
+      "contentType": "topic",
+      "topicId": "EM_GI_BLEED",
+      "location": "PDF pages 506–507",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0364",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_TBI",
+      "location": "PDF pages 538–539",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0365",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_TBI",
+      "location": "PDF pages 540–541",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0381",
+      "contentType": "topic",
+      "topicId": "EM_CRIT_SHOCK",
+      "location": "PDF pages 560–561",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0417",
+      "contentType": "topic",
+      "topicId": "EM_ENDO_HYPERK",
+      "location": "PDF pages 614–615",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0419",
+      "contentType": "topic",
+      "topicId": "EM_ENDO_DKA_HHS",
+      "location": "PDF pages 618–619",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0431",
+      "contentType": "topic",
+      "topicId": "EM_ENDO_HYPO",
+      "location": "PDF pages 636–637",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0432",
+      "contentType": "topic",
+      "topicId": "EM_ENDO_HYPO",
+      "location": "PDF pages 638–639",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0448",
+      "contentType": "topic",
+      "topicId": "EM_NEURO_STROKE",
+      "location": "PDF pages 664–665",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0519",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 790–791",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0527",
+      "contentType": "topic",
+      "topicId": "EM_ID_SEPSIS",
+      "location": "PDF pages 802–803",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0536",
+      "contentType": "topic",
+      "topicId": "EM_TOX_OPIOID",
+      "location": "PDF pages 820–821",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0571",
+      "contentType": "topic",
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "location": "PDF pages 880–881",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0572",
+      "contentType": "topic",
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "location": "PDF pages 882–883",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0605",
+      "contentType": "topic",
+      "topicId": "EM_RESP_PNEUMOTHORAX",
+      "location": "PDF pages 934–935",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0643",
+      "contentType": "topic",
+      "topicId": "EM_RESP_PE",
+      "location": "PDF pages 984–985",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0693",
+      "contentType": "topic",
+      "topicId": "EM_NEURO_STATUS",
+      "location": "PDF pages 1064–1065",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0694",
+      "contentType": "topic",
+      "topicId": "EM_NEURO_STATUS",
+      "location": "PDF pages 1066–1067",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0695",
+      "contentType": "topic",
+      "topicId": "EM_NEURO_STATUS",
+      "location": "PDF pages 1068–1069",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0697",
+      "contentType": "topic",
+      "topicId": "EM_ID_SEPSIS",
+      "location": "PDF pages 1070–1071",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0701",
+      "contentType": "topic",
+      "topicId": "EM_CRIT_SHOCK",
+      "location": "PDF pages 1078–1079",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0726",
+      "contentType": "topic",
+      "topicId": "EM_GI_ABD_PAIN",
+      "location": "PDF pages 1120–1121",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0736",
+      "contentType": "topic",
+      "topicId": "EM_NEURO_STROKE",
+      "location": "PDF pages 1138–1139",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0737",
+      "contentType": "topic",
+      "topicId": "EM_TRAUMA_TBI",
+      "location": "PDF pages 1140–1141",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0753",
+      "contentType": "topic",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 1158–1159",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0777",
+      "contentType": "topic",
+      "topicId": "EM_CRIT_SHOCK",
+      "location": "PDF pages 1200–1201",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "rosen-summaries",
+      "contentId": "rosen-5min-topic-0783",
+      "contentType": "topic",
+      "topicId": "EM_NEURO_STROKE",
+      "location": "PDF pages 1208–1209",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-006",
+      "contentType": "chapter",
+      "topicId": "EM_CRIT_ANAPHYLAXIS",
+      "location": "PDF pages 83–85",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-018",
+      "contentType": "chapter",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 150–156",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-019",
+      "contentType": "chapter",
+      "topicId": "EM_CRIT_SHOCK",
+      "location": "PDF pages 157–159",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-020",
+      "contentType": "chapter",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 160–164",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-024",
+      "contentType": "chapter",
+      "topicId": "EM_CARDIO_TAMPONADE",
+      "location": "PDF pages 179–185",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-025",
+      "contentType": "chapter",
+      "topicId": "EM_RESP_PE",
+      "location": "PDF pages 186–193",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-026",
+      "contentType": "chapter",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 194–199",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-032",
+      "contentType": "chapter",
+      "topicId": "EM_RESP_PNEUMOTHORAX",
+      "location": "PDF pages 227–229",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-034",
+      "contentType": "chapter",
+      "topicId": "EM_RESP_COPD",
+      "location": "PDF pages 232–235",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-035",
+      "contentType": "chapter",
+      "topicId": "EM_GI_ABD_PAIN",
+      "location": "PDF pages 236–240",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-059",
+      "contentType": "chapter",
+      "topicId": "EM_OBGYN_ECTOPIC",
+      "location": "PDF pages 342–346",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-066",
+      "contentType": "chapter",
+      "topicId": "EM_PEDS_FEVER",
+      "location": "PDF pages 372–379",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-076",
+      "contentType": "chapter",
+      "topicId": "EM_NEURO_STATUS",
+      "location": "PDF pages 428–430",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-079",
+      "contentType": "chapter",
+      "topicId": "EM_ENDO_HYPO",
+      "location": "PDF pages 439–443",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-088",
+      "contentType": "chapter",
+      "topicId": "EM_CRIT_SHOCK",
+      "location": "PDF pages 499–502",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-089",
+      "contentType": "chapter",
+      "topicId": "EM_ID_SEPSIS",
+      "location": "PDF pages 503–509",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-141",
+      "contentType": "chapter",
+      "topicId": "EM_NEURO_STROKE",
+      "location": "PDF pages 784–793",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-145",
+      "contentType": "chapter",
+      "topicId": "EM_NEURO_STATUS",
+      "location": "PDF pages 811–814",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-156",
+      "contentType": "chapter",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 884–887",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-157",
+      "contentType": "chapter",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 888–891",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-158",
+      "contentType": "chapter",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 892–895",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-159",
+      "contentType": "chapter",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 896–898",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-160",
+      "contentType": "chapter",
+      "topicId": "EM_TRAUMA_TBI",
+      "location": "PDF pages 899–904",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-166",
+      "contentType": "chapter",
+      "topicId": "EM_TRAUMA_PRIMARY_SURVEY",
+      "location": "PDF pages 933–934",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    },
+    {
+      "sourceId": "tintinalli-summaries",
+      "contentId": "tintinalli-manual-8e-ch-181",
+      "contentType": "chapter",
+      "topicId": "EM_CARDIO_ACS",
+      "location": "PDF pages 1007–1013",
+      "mappingConfidence": "High",
+      "mappingMethod": "curated-enhancement-link",
+      "reviewStatus": "mapped"
+    }
+  ]
+}

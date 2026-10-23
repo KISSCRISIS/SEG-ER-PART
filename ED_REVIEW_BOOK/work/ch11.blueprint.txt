@@ -1,0 +1,514 @@
+[PEER-PHYS PEER-obgyn-q-282] A 20-year-old woman presents asking to be tested for an STI. She was recently with a new sexual partner and has noticed some mild discharge. The pelvic examination reveals no cervical motion tenderness. What is the most appropriate management at this time?
+    ANSWER: Single dose of ceftriaxone and 7 days of doxycycline   (key C)
+[PEER-PHYS PEER-obgyn-q-283] What is the most common risk factor for developing cervical cancer?
+    ANSWER: Exposure to HPV   (key B)
+[PEER-PHYS PEER-obgyn-q-284] A 47-year-old patient presents with abnormal vaginal bleeding. CT shows probable advanced cervical cancer with spread to the bladder and rectum. What is the best initial approach to starting a conversation with the patient about the CT results?
+    ANSWER: Ask if they would like to know the results and warn them there is concerning news   (key A)
+[PEER-PHYS PEER-obgyn-q-285] What is the most common risk factor for developing pelvic inflammatory disease?
+    ANSWER: Multiple sexual partners   (key C)
+[PEER-PHYS PEER-obgyn-q-286] Which clinical finding meets diagnostic criteria for pelvic inflammatory disease?
+    ANSWER: Adnexal tenderness   (key A)
+[PEER-PHYS PEER-obgyn-q-287] Based on CDC guidelines, which sexually active patient meets criteria for treatment of pelvic inflammatory disease if no other etiology is identified?
+    ANSWER: Transgender man with abdominal pain and adnexal tenderness   (key C)
+[PEER-PHYS PEER-obgyn-q-288] Which organism is the most common cause of pelvic inflammatory disease?
+    ANSWER: Chlamydia trachomatis   (key B)
+[PEER-PHYS PEER-obgyn-q-289] According to the 2021 CDC guidelines, what is the best initial treatment regimen for pelvic inflammatory disease in an 80-kg patient with mild symptoms?
+    ANSWER: Ceftriaxone 500 mg IM, doxycycline 100 mg PO, and metronidazole 500 mg PO   (key C)
+[PEER-PHYS PEER-obgyn-q-290] What is the most appropriate disposition for a well-appearing patient who is 10 weeks' pregnant and has been diagnosed with pelvic inflammatory disease?
+    ANSWER: Hospital admission for observation and antibiotics   (key D)
+[PEER-PHYS PEER-obgyn-q-291] A 25-year-old woman presents with abdominal pain of 1 week's duration. She denies fever and vomiting. The physical examination reveals tenderness to palpation in the right upper quadrant, and a pelvic examination reveals mild cervical tenderness to palpation and vaginal discharge. Right upper quadrant ultrasound and liver function test results are normal. What is the most likely diagnosis?
+    ANSWER: Fitz-Hugh-Curtis syndrome   (key C)
+[PEER-PHYS PEER-obgyn-q-292] A febrile 26-year-old patient presents with right upper quadrant pain. The discomfort worsens with deep inspiration and is associated with nausea, vomiting, and foul-smelling vaginal discharge. On examination, the patient has suprapubic tenderness. Vaginal speculum and bimanual examinations are remarkable for purulent discharge, as well as cervical motion tenderness.
+    ANSWER: Perihepatitis   (key C)
+[PEER-PHYS PEER-obgyn-q-293] Which age group has a higher incidence of perihepatitis?
+    ANSWER: Adolescents   (key A)
+[PEER-PHYS PEER-obgyn-q-294] Which combination of antibiotics is appropriate when treating perihepatitis?
+    ANSWER: Cefotetan and doxycycline   (key A)
+[PEER-PHYS PEER-obgyn-q-295] Which complication is associated with the underlying cause of perihepatitis?
+    ANSWER: Tubo-ovarian abscess   (key D)
+[PEER-PHYS PEER-obgyn-q-296] A 21-year-old woman presents with right upper quadrant abdominal pain, nausea, and vomiting. She states she was exposed to chlamydia in the past but it never bothered her. The patient is stable, and the pain and nausea are well-controlled. A pregnancy test is negative, and CT imaging is unremarkable. What is the appropriate disposition for this patient?
+    ANSWER: Discharge with oral antibiotics   (key C)
+[PEER-PHYS PEER-obgyn-q-297] What is a common risk factor for tubo-ovarian abscess?
+    ANSWER: Multiple sex partners   (key D)
+[PEER-PHYS PEER-obgyn-q-298] What is a risk factor for progression of pelvic inflammatory disease into tubo-ovarian abscess?
+    ANSWER: HIV coinfection   (key B)
+[PEER-PHYS PEER-obgyn-q-299] What is the recommended disposition for an afebrile patient with pelvic inflammatory disease and a tubo-ovarian abscess who is well-appearing and able to tolerate oral medications?
+    ANSWER: Admission for at least 24 hours of IV antibiotics   (key A)
+[PEER-PHYS PEER-obgyn-q-300] A 22-year-old woman presents with right lower quadrant abdominal pain and fever; she has a negative urine pregnancy test. Based on this ultrasound, what is the most likely diagnosis?
+    ANSWER: Tubo-ovarian abscess   (key D)
+[PEER-PHYS PEER-obgyn-q-301] What is the recommended antibiotic treatment for tubo-ovarian abscess associated with pelvic inflammatory disease in a patient without any antibiotic allergies?
+    ANSWER: Ceftriaxone, doxycycline, and metronidazole   (key D)
+[PEER-PHYS PEER-obgyn-q-302] A patient presents with vaginal irritation, dysuria, and lower abdominal discomfort. A pelvic examination reveals multiple grouped vesicles and severe external and internal ulcerations. The abdomen is nontender, and the findings from the neurologic examination are unremarkable.
+    ANSWER: Sitz baths   (key B)
+[PEER-PHYS PEER-obgyn-q-303] A 32-year-old woman presents with sudden-onset severe right lower quadrant pain. Her pregnancy test is negative. Transvaginal ultrasound confirms a ruptured hemorrhagic ovarian cyst with hemoperitoneum, and the patient remains in pain. Her vital signs include BP 110/87, P 90, and R 13; SpO2 is 100% on room air. Initial Hgb is 13 g/dL, and repeat Hgb at 4 hours is 12.7 g/dL.
+    ANSWER: Admit to the hospital   (key A)
+[PEER-PHYS PEER-obgyn-q-304] A 37-year-old woman presents with intermittent, severe, left lower quadrant abdominal pain over the past 24 to 48 hours. She denies fever, light-headedness, nausea, and vomiting. A physical examination reveals a nondistended abdomen with rebound tenderness in the left lower quadrant. A urine pregnancy test is negative.
+    ANSWER: Acute ovarian torsion   (key A)
+[PEER-PHYS PEER-obgyn-q-305] What is the most common symptom in patients presenting with epithelial ovarian cancer?
+    ANSWER: Bloating   (key A)
+[PEER-PHYS PEER-obgyn-q-306] A 64-year-old has a CT scan showing a 10-cm mass on the right ovary that is concerning for epithelial ovarian cancer. Although the pain was initially minimal, the patient suddenly reports an abrupt worsening of severe right pelvic pain with worsened tenderness to palpation on the right. What is the most appropriate next step?
+    ANSWER: Obtain a pelvic ultrasound with ovarian Doppler   (key B)
+[PEER-PHYS PEER-obgyn-q-307] Consideration of what diagnosis is necessary in adolescents who present with abnormal heavy uterine bleeding soon after menarche?
+    ANSWER: Bleeding disorders   (key A)
+[PEER-PHYS PEER-obgyn-q-308] Which medication is the first-line treatment for pelvic pain due to endometriosis?
+    ANSWER: Estrogen-progestin oral contraceptive   (key B)
+[PEER-PHYS PEER-obgyn-q-309] An 80-year-old woman presents with pressure in her pelvis that is worsened by standing up or bearing down. She has not had any surgeries and has four grown children. She is otherwise asymptomatic; she denies dysuria, urinary dribbling, vaginal bleeding, and abdominal pain. A descending soft circular mass is discovered within the vagina on pelvic examination. What is the most likely diagnosis?
+    ANSWER: Uterine prolapse   (key D)
+[PEER-PHYS PEER-obgyn-q-310] A hemodynamically stable 36-year-old woman with a history of uterine leiomyomas presents with heavy vaginal bleeding and a Hgb of 5.2. She is a Jehovah's witness and declines blood transfusion. She demonstrates understanding of the risk of refusing transfusion, including death, and shows you an advance directive stating her wishes.
+    ANSWER: Discussion was held and patient has capacity to understand risks, including death   (key B)
+[PEER-PHYS PEER-obgyn-q-311] Which finding is most consistent with a molar pregnancy?
+    ANSWER: Uterus that is larger than expected based on dates   (key D)
+[PEER-PHYS PEER-obgyn-q-312] A 33-year-old woman presents with left labial swelling over the past 5 days. She denies fever, dysuria, and vaginal discharge. Physical examination findings are shown. What is the appropriate emergency department management?
+    ANSWER: Incision and drainage with placement of Word catheter   (key A)
+[PEER-PHYS PEER-obgyn-q-313] A 22-year-old woman presents with vulvar swelling and related pain with walking. The physical examination reveals a unilateral, erythematous, warm, tender ovoid mass without fever. Which management approach is most likely to result in treatment failure?
+    ANSWER: Needle aspiration   (key D)
+[PEER-PHYS PEER-obgyn-q-314] What is the main risk factor for developing a Bartholin gland abscess?
+    ANSWER: Prior Bartholin abscess   (key C)
+[PEER-PHYS PEER-obgyn-q-315] What is the most common organism isolated from Bartholin gland abscesses?
+    ANSWER: Escherichia coli   (key B)
+[PEER-PHYS PEER-obgyn-q-316] What is the best management for a painless Bartholin cyst that is less than 3 cm in size?
+    ANSWER: Expectant management   (key A)
+[PEER-PHYS PEER-obgyn-q-317] An 18-year-old sexually active young woman presents with a 3-day history of dysuria. She denies fever, abdominal pain, vomiting, and diarrhea. Abdominal examination is normal, but the pelvic examination reveals a homogeneous white discharge that coats the vaginal walls. Pregnancy test is negative, and a wet mount reveals the finding shown. What is the best treatment?
+    ANSWER: Metronidazole   (key D)
+[PEER-PHYS PEER-obgyn-q-318] A 22-year-old woman presents with a 3-day history of foul-smelling vaginal discharge. She denies any fever, chills, or abdominal pain and has no history of STIs. A pelvic examination reveals mild erythema of the vaginal walls with a milky, watery, foul-smelling discharge. Wet mount report shows 23 to 30 WBCs/hpf and clue cells. A pregnancy test result is negative.
+    ANSWER: Metronidazole 500 mg PO twice daily   (key D)
+[PEER-PHYS PEER-obgyn-q-319] A 55-year-old woman presents complaining of a thick vaginal discharge. On examination, vulvovaginal redness and a thick, adherent, white discharge are noted. Wet mount findings are depicted in the figure below. What is the best treatment option?
+    ANSWER: Clotrimazole 1% vaginal cream   (key B)
+[PEER-PHYS PEER-obgyn-q-320] A 44-year-old woman presents with burning vaginal irritation after using an over-the-counter vaginal antifungal preparation. Urinalysis and wet mount are normal. Examination reveals localized swelling and erythema of the vulva. The vagina is normal with no discharge, and the adnexa are nontender. What is the most likely diagnosis?
+    ANSWER: Contact vulvovaginitis   (key C)
+[PEER-PHYS PEER-obgyn-q-321] An 18-year-old woman has been diagnosed with pelvic inflammatory disease. She has an IUD in place, and she is not pregnant. Her vital signs are stable, and she is able to tolerate oral medications. What is the correct next step in management?
+    ANSWER: Leave the IUD in place; discharge after giving intramuscular and oral antibiotics   (key A)
+[PEER-PHYS PEER-obgyn-q-322] What is the most significant risk factor for developing ovarian torsion?
+    ANSWER: Ovarian cyst   (key A)
+[PEER-PHYS PEER-obgyn-q-323] When are the risks of radiation exposure on the neurologic development of a fetus the highest?
+    ANSWER: 10 to 17 weeks' gestational age   (key C)
+[PEER-PHYS PEER-obgyn-q-324] What is the earliest sonographic finding in pregnancy?
+    ANSWER: Gestational sac   (key C)
+[PEER-PHYS PEER-obgyn-q-325] Which condition is most likely to be associated with a hydatidiform mole?
+    ANSWER: Hyperemesis   (key C)
+[PEER-PHYS PEER-obgyn-q-326] A 20-year-old woman presents with nausea, vomiting, and lower abdominal pain. She underwent methotrexate treatment for an ectopic pregnancy 7 days earlier. At that initial visit, her beta-hCG level was 12,121 mIU/mL. What is the next step in this patient?
+    ANSWER: Consult OB for likely ruptured ectopic pregnancy from treatment failure   (key A)
+[PEER-PHYS PEER-obgyn-q-327] Which imaging modality is the best overall choice for a suspected ectopic pregnancy?
+    ANSWER: Transvaginal ultrasound   (key D)
+[PEER-PHYS PEER-obgyn-q-328] A 26-year-old woman presents with lower abdominal cramping and vaginal spotting with a positive home pregnancy test. Her last menstrual period was about 6 weeks ago. Her vital signs are within normal limits, and pregnancy is confirmed with a beta-hCG of 1,000 IU/L. A transvaginal ultrasound does not show an intrauterine pregnancy or adnexal mass. What is the most appropriate next step?
+    ANSWER: Repeat quantitative beta-hCG in 48 hours   (key C)
+[PEER-PHYS PEER-obgyn-q-329] What history and examination findings are most common in a patient with ectopic pregnancy?
+    ANSWER: Abdominal pain   (key A)
+[PEER-PHYS PEER-obgyn-q-330] A 20-year-old woman presents unresponsive in shock from a ruptured ectopic pregnancy. She is emergently transfused and rushed to the operating room (OR) for surgical repair. The patient survives. A week later, the patient's mother is threatening to sue the hospital because the patient was a Jehovah witness and would not have consented to receiving blood products.
+    ANSWER: Patient was critically ill, unstable, and unable to give informed consent. She was unresponsive in the context of hemorrhagic shock requiring transfusion and urgent surgical intervention. Family was unable to be contacted.   (key D)
+[PEER-PHYS PEER-obgyn-q-331] A 38-year-old G1P0 woman who is 6 weeks pregnant presents with vaginal bleeding and cramping. What is the most likely diagnosis based on this ultrasound image?
+    ANSWER: Ectopic pregnancy   (key B)
+[PEER-PHYS PEER-obgyn-q-332] A 36-year-old G2P1 woman who is 7 weeks' pregnant presents with vaginal bleeding. Initial POCUS for free fluid is negative and vital signs are normal. While waiting for pelvic ultrasound, the patient reports severe pain. A repeat right upper quadrant POCUS shows the following, and vital signs remain within the normal range. What is the most appropriate next step?
+    ANSWER: Call gynecology to see the patient   (key A)
+[PEER-PHYS PEER-obgyn-q-333] When discharging a patient for pregnancy of unknown location, what is most important to document to support a plan of outpatient expectant management?
+    ANSWER: Patient is willing and able to comply with close follow-up care   (key C)
+[PEER-PHYS PEER-obgyn-q-334] A 28-year-old woman who is 34 weeks pregnant with twins presents with nonspecific epigastric abdominal pain. Her blood pressure is 153/92; her other vital signs are normal. If she has HELLP syndrome, which laboratory test result will likely be normal?
+    ANSWER: Fibrinogen   (key A)
+[PEER-PHYS PEER-obgyn-q-335] What is a laboratory finding of HELLP (hemolysis, elevated liver enzymes, and low platelets) syndrome?
+    ANSWER: Increased LDH   (key C)
+[PEER-PHYS PEER-obgyn-q-336] Which maternal factor increases the risk of abruptio placentae?
+    ANSWER: Cocaine use   (key A)
+[PEER-PHYS PEER-obgyn-q-337] A 26-year-old woman who is 6 months' pregnant presents with diffuse abdominal pain and vaginal bleeding. She says that she is lightheaded and fatigued, and she reports decreased fetal movement but no chest pain or shortness of breath. Her vital signs reveal hypotension and tachycardia. What is the most important diagnosis to be considered?
+    ANSWER: Placental abruption   (key B)
+[PEER-PHYS PEER-obgyn-q-338] A 23-year-old woman G1P0 presents at 34 weeks' gestation with 4 hours of atraumatic vaginal bleeding, frequent contractions, abdominal pain, and abnormal fetal heart tones. Her most recent obstetric ultrasound was normal, and she received standard prenatal care, including care for hypertension. What is the most likely diagnosis?
+    ANSWER: Placental abruption   (key B)
+[PEER-PHYS PEER-obgyn-q-339] What is the highest risk factor for the development of placental abruption?
+    ANSWER: Prior abruption   (key C)
+[PEER-PHYS PEER-obgyn-q-340] A 25-year-old woman at 34 weeks' gestation presents with painless vaginal bleeding. The physical examination reveals no uterine tenderness and normal vital signs. What is the most likely diagnosis that can be ruled out with an ultrasound examination?
+    ANSWER: Placenta previa   (key B)
+[PEER-PHYS PEER-obgyn-q-341] A 24-year-old woman who is 37 weeks' pregnant presents with painless vaginal bleeding for the last 6 hours, soaking through more than one pad per hour. Her vital signs are BP 88/50, P 120, R 18, and T 36.8°C (98.2°F); SpO2 is 98% on room air. After establishing intravenous access, what is the next best step in management?
+    ANSWER: Initiate volume resuscitation   (key B)
+[PEER-PHYS PEER-obgyn-q-342] What is considered first-line pharmacotherapy in the treatment of nausea and vomiting in pregnancy?
+    ANSWER: Pyridoxine   (key D)
+[PEER-PHYS PEER-obgyn-q-343] A 31-year-old woman presents with seizures. She is 3 weeks postpartum. Her vital signs include BP 160/110, P 95, and T 37.1°C (98.8°F); SpO2 is 94% on room air. What medication should be given first?
+    ANSWER: Magnesium sulfate   (key C)
+[PEER-PHYS PEER-obgyn-q-344] A 23-year-old woman at 34 weeks' gestation presents with a new-onset headache for the past 3 days and blurry vision for 1 day. Her BP is 182/115. Physical examination reveals generalized nonpitting edema and a nontender gravid abdomen. Laboratory test results include platelets 80,000/mcL, AST 321 units/L, ALT 280 units/L, normal coagulation studies, and significant proteinuria on urinalysis.
+    ANSWER: Intracranial hemorrhage   (key B)
+[PEER-PHYS PEER-obgyn-q-345] A previously healthy, nulliparous 32-year-old woman at 35 weeks' gestation presents with a new-onset headache. She has no vision changes, confusion, or abdominal pain, and acetaminophen provided no relief. Her vital signs are BP 165/95, P 87, R 14, and T 36.9°C (98.4°F), and her neurologic examination is normal. What is the best next step?
+    ANSWER: Confirm blood pressure and then administer labetalol 20 mg IV   (key B)
+[PEER-PHYS PEER-obgyn-q-346] In a pregnant trauma patient, administration of Rh(D) immune globulin helps prevent which complication?
+    ANSWER: Fetal hydrops   (key A)
+[PEER-PHYS PEER-obgyn-q-347] Which pregnant patient should receive Rh(D) immune globulin after trauma?
+    ANSWER: 25-year-old patient who is Rh-negative and sustained blunt abdominal trauma   (key B)
+[PEER-PHYS PEER-obgyn-q-348] A 26-year-old woman presents with 2 hours of mild vaginal bleeding and abdominal cramping pain. She is 6 weeks and 5 days pregnant. Her beta-hCG level is 1,756 mIU/mL. What is the most appropriate diagnostic test?
+    ANSWER: Transvaginal ultrasound   (key C)
+[PEER-PHYS PEER-obgyn-q-349] A 20-year-old woman who is 7 months' pregnant presents after a seizure. She has no prior history of seizure. Her vital signs include BP 171/90, P 90, and R 13; SpO2 is 99% on room air. She is unarousable. What is the correct management?
+    ANSWER: Magnesium 4 to 6 g IV over 20 minutes   (key B)
+[PEER-PHYS PEER-obgyn-q-350] A 29-year-old patient at 20 weeks' gestation is newly diagnosed with diabetes for high blood sugar. What best describes this patient's diabetic condition?
+    ANSWER: Gestational diabetes   (key B)
+[PEER-PHYS PEER-obgyn-q-351] A 37-year-old patient who is G3P2003 with a single-gestation pregnancy is being evaluated. She has a history of seasonal allergies, irritable bowel syndrome, and a prior full-term twin pregnancy. What feature makes this patient's pregnancy high risk?
+    ANSWER: Age greater than 35   (key A)
+[PEER-PHYS PEER-obgyn-q-352] A 36-year-old woman presents with abdominal distention, vomiting, shortness of breath, and low blood pressure. Laboratory studies show creatine 2.0 mg/dL, Hct 60%, sodium 130 mmol/L, and potassium 5.5 mmol/L. A chest x-ray reflects bilateral pleural effusions. She recently received a dose of hCG to induce follicle stimulation to prepare for egg retrieval.
+    ANSWER: Vascular permeability leading to severe transudation of fluid and albumin   (key D)
+[PEER-PHYS PEER-obgyn-q-353] If a pregnant patient has preexisting obesity, which complication is most likely to occur with the baby?
+    ANSWER: Fetal macrosomia   (key B)
+[PEER-PHYS PEER-obgyn-q-354] What finding is most strongly associated with rupture of the amniotic sac?
+    ANSWER: Fluid crystallization under microscopy   (key A)
+[PEER-PHYS PEER-obgyn-q-355] A 29-year-old woman who is 34 weeks pregnant presents after a motor vehicle collision with abdominal pain, cramping, and spotting. What is the best approach to assessing for signs of fetal distress?
+    ANSWER: Cardiotocography   (key A)
+[PEER-PHYS PEER-obgyn-q-356] A 33-year-old woman at 36 weeks' gestation presents with abdominal contractions. She says that her water broke at home 60 minutes ago. Examination reveals a pool of fluid with positive nitrazine and ferning. She is now having contractions every 3 minutes, and the cervix is dilated to 2 cm. Ultrasound examination reveals vertex fetal presentation. What is the best management plan?
+    ANSWER: Manage expectantly   (key C)
+[PEER-PHYS PEER-obgyn-q-357] What is the most common etiology of uterine rupture?
+    ANSWER: Prior cesarean section   (key C)
+[PEER-PHYS PEER-obgyn-q-358] Which finding on the fetal heart tracing is most suggestive of uterine rupture?
+    ANSWER: Bradycardia   (key B)
+[PEER-PHYS PEER-obgyn-q-359] Which obstetrics diagnosis is suggested by this POCUS, right upper quadrant view?
+    ANSWER: Uterine rupture   (key D)
+[PEER-PHYS PEER-obgyn-q-360] Which finding distinguishes uterine rupture from placental abruption?
+    ANSWER: Uterine physical examination   (key C)
+[PEER-PHYS PEER-obgyn-q-361] A 21-year-old woman who is 25 weeks' pregnant (G1P0) presents with sudden, severe abdominal pain and vaginal bleeding. She has no significant medical history, and her BP is 90/50. On examination, an odd-shaped uterus and a fetal part are palpated. What is the most likely etiology of her condition?
+    ANSWER: Ehlers-Danlos syndrome   (key A)
+[PEER-PHYS PEER-obgyn-q-362] During an imminent delivery in the emergency department, the infant's head is easily delivered but the body does not progress despite downward traction. Which maneuver should be used first to help alleviate this fetal presentation?
+    ANSWER: Hyperflexing and abducting the mother's hips   (key C)
+[PEER-PHYS PEER-obgyn-q-363] A 25-year-old presents in labor. While waiting for obstetrics to arrive, the fetal head comes forward, then retracts, then comes forward and retracts again. Gentle downward traction of the fetal head is attempted, but the anterior shoulder still does not reduce. What should be attempted next?
+    ANSWER: Place the parent in an extreme lithotomy position   (key B)
+[PEER-PHYS PEER-obgyn-q-364] A 30-year-old woman at 38 weeks' gestation presents with active contractions and vaginal leakage of fluid. She reports no complications during her pregnancy. Bedside ultrasonography shows positive fetal cardiac activity. Fetal heart tracings show variable decelerations and episodes of bradycardia.
+    ANSWER: Elevate the presenting fetal part   (key A)
+[PEER-PHYS PEER-obgyn-q-365] What is considered the first-line treatment for amniotic fluid embolism?
+    ANSWER: Supportive care with no definitive first-line therapy   (key D)
+[PEER-PHYS PEER-obgyn-q-366] What laboratory finding is most consistent with the coagulopathy associated with amniotic fluid embolism?
+    ANSWER: Elevated D-dimer   (key A)
+[PEER-PHYS PEER-obgyn-q-367] A 30-year-old woman presents shortly after giving birth at home. Her vital signs include BP 90/40, P 120, and R 32; SpO2 is 85% on room air. She is awake and alert and in moderate respiratory distress. She is oozing blood around her intravenous sites and has petechiae on her arms and soft palate.
+    ANSWER: Amniotic fluid embolism   (key A)
+[PEER-PHYS PEER-obgyn-q-368] A 27-year-old woman at 38 weeks' gestation presents in active labor shortly after spontaneous rupture of membranes. She is tachycardic, hypotensive, hypoxic, and diaphoretic. Her ECG shows sinus tachycardia. Her laboratory studies show thrombocytopenia, and she is oozing blood around her intravenous sites. What is the most appropriate management of this patient?
+    ANSWER: Respiratory support, IV fluids, pressors, and blood product transfusion   (key D)
+[PEER-PHYS PEER-obgyn-q-369] A patient presents a few hours postpartum and is noted to have significant hemodynamic instability. There is concern for amniotic fluid embolism, and the patient seems to be developing DIC. What laboratory abnormalities would be expected?
+    ANSWER: Prolonged PT, prolonged aPTT, elevated D-dimer, and low fibrinogen   (key D)
+[PEER-PHYS PEER-obgyn-q-370] Which step should be taken immediately after precipitous delivery of a healthy infant?
+    ANSWER: Dry and stimulate the infant   (key C)
+[PEER-PHYS PEER-obgyn-q-371] What is the best treatment for a stable patient with postpartum pulmonary embolism who is currently breastfeeding?
+    ANSWER: Enoxaparin 1 mg/kg SQ   (key C)
+[PEER-PHYS PEER-obgyn-q-372] A 30-year-old woman presents complaining of a “typical” migraine headache. She is 4 weeks' postpartum and is currently breastfeeding. Which medication is contraindicated?
+    ANSWER: Ergotamine   (key B)
+[PEER-PHYS PEER-obgyn-q-373] An 18-year-old woman presents with abdominal pain and a foul-smelling, bloody vaginal discharge 6 days after an uncomplicated cesarean delivery. This physical examination reveals lower abdominal tenderness with uterine and adnexal tenderness. Her incision is clean, dry, and intact with no evidence of dehiscence. Both breasts are mildly swollen with minimal tenderness, but no warmth is noted.
+    ANSWER: Endometritis   (key A)
+[PEER-PHYS PEER-obgyn-q-374] A 25-year-old woman who is 1 week postpartum from spontaneous vaginal delivery presents with postpartum hemorrhage. What is the most likely cause of her presentation?
+    ANSWER: Retained products of conception   (key C)
+[PEER-PHYS PEER-obgyn-q-375] A 22-year-old woman who is 1 week postpartum and breastfeeding presents with a 2-day history of vaginal bleeding that is “more than expected.” She says that the previous lochia has not been malodorous and has been light red in color; she has had no fever or vomiting. Her vital signs are normal except for a mild tachycardia.
+    ANSWER: Retained placenta   (key B)
+[PEER-PHYS PEER-obgyn-q-376] What is the most common cause of postpartum hemorrhage?
+    ANSWER: Uterine atony   (key D)
+[PEER-PHYS PEER-obgyn-q-377] A 22-year-old woman presents with vaginal bleeding, pelvic pain, foul-smelling vaginal discharge, and fever 2 days after at-home vaginal delivery of a healthy infant. She is hemodynamically stable. After antibiotics are started for suspected endometritis, what other complication of childbirth should be excluded?
+    ANSWER: Retained placenta   (key B)
+[PEER-PHYS PEER-obgyn-q-378] A 24-year-old woman presents with painless vaginal bleeding. She thinks she is approximately 28 weeks' pregnant, although she has not received any prenatal care. She is hemodynamically stable. What is the best next step in management?
+    ANSWER: Obtain transvaginal ultrasound   (key C)
+[PEER-PHYS PEER-obgyn-q-379] What organism most commonly causes puerperal mastitis?
+    ANSWER: Staphylococcus aureus   (key D)
+[PEER-PHYS PEER-obgyn-q-380] What organism is most commonly responsible for acute mastitis?
+    ANSWER: Staphylococcus aureus   (key B)
+[PEER-PHYS PEER-obgyn-q-381] Which antibiotic is the first-line treatment for uncomplicated mastitis?
+    ANSWER: Cephalexin   (key B)
+[PEER-PHYS PEER-obgyn-q-382] A 55-year-old postmenopausal woman who is an active smoker presents for evaluation of a breast infection. The examination shows mastitis without abscess, which is her third episode of mastitis to this breast in the past year. In addition to antibiotics, what is the most appropriate follow-up plan that should be recommended?
+    ANSWER: Follow-up with a breast surgeon within 1 month   (key A)
+[PEER-PHYS PEER-obgyn-q-383] A 27-year-old breastfeeding patient presents with breast redness and irritation. On examination, mastitis of the breast with an area of induration and mild fluctuance is noted. What is the most appropriate imaging modality to obtain?
+    ANSWER: Breast ultrasound   (key B)
+[PEER-PHYS PEER-obgyn-q-384] A 30-year-old lactating woman presents with severe swelling, redness, and right-sided breast pain. On examination, there is extensive mastitis with a 3-cm area of fluctuance. Ultrasound shows a 3-cm abscess. Her vital signs include BP 85/50, P 120, and T 38.9°C (102°F). What is the most appropriate course of management?
+    ANSWER: Aspiration and intravenous vancomycin   (key A)
+[PEER-PHYS PEER-obgyn-q-385] A 23-year-old woman presents after a witnessed syncopal episode. She is 1 week postpartum and has had a mild generalized headache and vision disturbances since delivery. Her vital signs include BP 126/82 and P 90. Laboratory test results include Na 119, K 4.2, and glucose 68. What is the most likely diagnosis?
+    ANSWER: Postpartum pituitary gland necrosis   (key B)
+[PEER-PHYS PEER-obgyn-q-386] A 23-year-old woman presents with severe pelvic pain and vaginal bleeding. She had an IUD placed by her obstetrician earlier today. Her vital signs include BP 88/64, P 128, and T 37.1°C (98.8°F). The IUD string is not visible. She is currently breastfeeding, and her beta hCG is negative. What is the most likely diagnosis?
+    ANSWER: Uterine perforation   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-315] A 23-year-old G2P1 woman at 29 weeks gestation based on her last menstrual period presents to the ED with 2 hours of vaginal bleeding. She has no history of bleeding disorders or passing of blood clots. She has no abdominal trauma, fever, dysuria, dyspareunia, or abdominal pain. She has not received prenatal care this pregnancy. Which of the following should be avoided?
+    ANSWER: Speculum exam and digital pelvic exam   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-316] A 31-year-old G1P0 woman at 36 weeks gestation is being evaluated in the ED and is found to have a blood pressure of 168/101 mm Hg. A recent 24-hour urine collection showed 390 mg of protein. Which of the following indicates a severe form of this disease process?
+    ANSWER: Binocular diplopia and a new-onset headache   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-317] A 26-year-old gravida 4 para 1 woman at 12 weeks gestation by last menstrual period presents to the emergency department with 4 hours of vaginal bleeding. Bedside ultrasound reveals an intrauterine pregnancy with a fetal heartbeat of 147 bpm. A pelvic exam reveals an open cervical os. Which of the following is the appropriate diagnosis for this patient?
+    ANSWER: Inevitable abortion   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-318] A 46-year-old woman presents to the ED for vaginal bleeding for 3 days, during which she has saturated pads every 3–4 hours. She has a history of uterine fibroids that intermittently cause intermenstrual bleeding and of migraines with aura but takes no daily medications. Her menstrual periods occur every 28 days and consist of 4–5 days of moderate bleeding. Her last period was 10 days ago.
+    ANSWER: Oral medroxyprogesterone three times daily for 7 days   (key E)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-319] A 25- year-old woman presents with pelvic pain and vaginal bleeding. Her last menstrual period was approximately 6 weeks ago. On examination, she has a mild amount of blood in the vaginal vault and the cervical os is closed. The uterus is normal size with bilateral adnexal and uterine tenderness on palpation. Her beta-human chorionic gonadotropin is 1,890 mIU/mL. Her ultrasound is shown above.
+    ANSWER: Ruptured ectopic pregnancy   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-320] A 29-year-old healthy woman who is 33 weeks pregnant presents to the emergency department with shortness of breath over 2 days. Vital signs show an HR of 104 bpm, BP of 115/50 mm Hg, RR of 28 breaths/minute, and T of 37.2°C. Which of the following values is most suggestive of an underlying pathologic process leading to shortness of breath in this pregnant patient?
+    ANSWER: Respiratory rate of 28 breaths/minute   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-321] A 19-year-old woman presents to the emergency department with a concern of vaginal itching and discharge. On examination, there is frothy greenish-yellow vaginal discharge without cervical motion tenderness or adnexal fullness. A urine pregnancy test is negative. The wet mount reveals flagellated protozoa. Which of the following is the most appropriate treatment?
+    ANSWER: Metronidazole 500 mg by mouth twice daily for 7 days   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-322] Which of the following is a risk factor for postpartum uterine atony?
+    ANSWER: Polyhydramnios   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-323] Which of the following is an indication for emergent cesarean section?
+    ANSWER: Cord prolapse   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-324] An 18-year-old woman at 37 weeks gestation presents with a spontaneous leakage of fluid from the vagina. She has no other signs of active labor. Vital signs are unremarkable, and the patient has no concerns except for the leakage of fluid. What management is indicated?
+    ANSWER: Admit to obstetrics for delivery   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-325] A 35-year-old woman who is 12 weeks pregnant presents to the ED with abdominal cramping. She reports vaginal spotting 2 days ago but has not had vaginal bleeding today. Vital signs show a T of 37.3°C (99.1°F), BP of 124/72 mm Hg, HR of 90 bpm, and RR of 12/min. Abdominal examination shows mild tenderness in the suprapubic region.
+    ANSWER: Missed abortion   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-326] Which of the following findings on physical examination of the vagina and cervix most strongly suggests cervical cancer?
+    ANSWER: A single superficial ulceration on the ectocervix with mucosanguineous discharge   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-327] A 28-year-old pregnant patient at a gestational age of 35 weeks presents with leakage of clear vaginal fluid and painful contractions for about 2 days. She is having contractions about every 4 minutes, and her cervix is dilated to 3 cm. Vital signs include BP 104/64 mm Hg, HR 122 bpm, T 102.4°F (39.1°C), and RR 16/min. Fetal heart rate is 180 bpm. She has diffuse uterine tenderness.
+    ANSWER: Antibiotics   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-328] A 19-year-old woman presents to the emergency department for abdominal pain. She reports her last menstrual period was a few weeks ago but is uncertain as she exhibits frequent spotting. She appears awake, alert, in no acute distress, and does not express pain. At what minimum serum beta-hCG level would a gestational sac be identified on transvaginal ultrasound?
+    ANSWER: 1,500 IU/L   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-329] A 26-year-old woman presents with severe pain and swelling at the vaginal introitus. On examination, there is a very tender, fluctuant mass at the 4 o’clock position. What is the treatment of choice?
+    ANSWER: Incision and drainage with Word catheter placement   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-330] A 20-year-old woman presents to the ED after a syncopal event at work. The patient states that she developed a sudden onset of sharp right-sided lower abdominal pain approximately 10 minutes before the syncopal event. She adds that she has been experiencing some light vaginal bleeding over the last week. She is sexually active and cannot recall the date of her last menstrual period.
+    ANSWER: Ruptured ectopic pregnancy   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-331] A 21-year-old woman presents with foul-smelling vaginal discharge and dysuria. Physical exam reveals inflammation of the vulva, copious green discharge, and punctate hemorrhages on the cervix. Which of the following is most likely to be seen on the vaginal discharge wet mount?
+    ANSWER: Motile protozoa   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-332] Which of the following features would increase suspicion of ovarian torsion?
+    ANSWER: History of ovarian cysts   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-333] A 67-year-old G4P4 woman comes to the ED after a referral from a clinic for significant tachycardia and fever. She has been seen for difficulty urinating in the past 6 months, accompanied by a feeling of pressure in her pelvis. She reports that she used to experience leakage of urine when coughing or laughing, but in the past few months, this has resolved.
+    ANSWER: Urethral obstruction   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-334] A 16-year-old girl presents to the emergency department with foul-smelling, brown vaginal discharge for 5 days. She reports some vaginal irritation and dysuria but reports no fever or abdominal pain. Vital signs are within normal limits. On pelvic examination, she has a thick, foul-smelling discharge, and a tampon is found.
+    ANSWER: Removal of the tampon   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-335] A 23-year-old woman presents to the emergency department with lower abdominal pain. Which of the following additional findings is a defining characteristic that suggests pelvic inflammatory disease as the diagnosis?
+    ANSWER: Cervical motion tenderness   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-336] A 20-year-old woman presents to the emergency department with abdominal distention and discomfort. Her medical history is significant for polycystic ovary syndrome with ongoing fertility treatments and ovulation induction 5 days ago. Her abdominal examination is notable for distention, mild diffuse tenderness, and a fluid wave.
+    ANSWER: Increased vascular permeability with third space fluid extravasation   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-337] A 22-year-old woman presents to the ED with vaginal bleeding and is concerned she may be pregnant. The patient reports her last menstrual period was 6 weeks ago, and she has been trying to get pregnant with her spouse. Yesterday morning, she started spotting bright red blood. She used two pads yesterday and one more today.
+    ANSWER: Discharge patient with a scheduled 48-hour return for beta-hCG testing   (key E)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-338] Which of the following is the most appropriate regimen for the treatment of uncomplicated bacterial cervicitis?
+    ANSWER: Ceftriaxone and doxycycline   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-339] A 36-year-old primiparous woman presents to the ED with fever and pelvic pain 3 days after a vaginal birth. She has a T of 100.9°F (38.3°C), BP of 120/80 mm Hg, and HR of 70 bpm. Vaginal examination reveals uterine tenderness and foul smelling lochia. Which of the following most increases the risk of developing this condition?
+    ANSWER: Cesarean section   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-340] A 27-year-old woman, G2P1, presents with vaginal bleeding and right lower quadrant pain. She reports a positive pregnancy test and a last menstrual period 6 weeks before her evaluation. Vital signs are T 98.6°F (37ºC), BP 110/68 mm Hg, HR 72 bpm, and RR 16/min. Her abdomen is soft, with mild tenderness in the right pelvic area.
+    ANSWER: Fetal heart activity   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-341] A 32-year-old woman presents with 2 days of burning genital pain. On exam, she has clusters of fluid-filled vesicles on the labia majora and labia minora and a few shallow ulcers. There is also mildly tender inguinal lymphadenopathy. She reports similar symptoms 2 months ago and 6 months ago. Her pregnancy test is negative. Which of the following is the best treatment option for this patient?
+    ANSWER: Famciclovir 1,000 mg twice daily for 1 day   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-342] A 22-year-old woman presents to the emergency department with 2 weeks of painful intercourse, pelvic pain, and vaginal discharge. She has been sexually active with multiple partners but says she tries to use protection most of the time. On exam, vital signs show HR 98 bpm, BP 120/70 mm Hg, RR 12/min, and T 38.0°C. What exam finding would suggest that this patient has Fitz-Hugh-Curtis syndrome?
+    ANSWER: Right upper quadrant tenderness   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-343] Which of the following is the most common finding on ultrasonographic examination of a torsed ovary?
+    ANSWER: Ovarian enlargement   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-344] A 6-day-old girl presents to the ED with her mother for concerns about a cough. As you begin your exam, the patient's mother begins to have a generalized tonic-clonic seizure. The seizure resolves after 2 minutes. The mother is now lethargic but answers questions appropriately. She reports no history of seizures.
+    ANSWER: Magnesium sulfate   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-345] A 22-year-old G1P0 woman at 35 weeks gestation presents to the ED with a headache and vision changes. Vital signs are BP 154/102 mm Hg, HR 106 bpm, RR 16/minute, and T 98.8°F (37.1°C). Urine dip reveals 4+ protein. Which of the following is the most appropriate first step in management?
+    ANSWER: Magnesium   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-346] A 24-year-old G3P2 woman at 33 weeks gestation presents to the ED after feeling a gush of nonbloody fluid from her vagina. She reports no contractions at this time. You perform a sterile speculum exam. Which of the following would confirm your diagnosis?
+    ANSWER: Nitrazine test with pH 7.2   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-347] A 20-year-old G3P2 woman presents to the ED in active labor. Intravenous access is obtained and she is placed on a cardiac monitor. Her vital signs are within normal limits for her age. The infant’s head is present at the perineum. As the delivery progresses, a cordlike structure is visualized around the infant’s neck and impedes the delivery progression.
+    ANSWER: Attempt to slip the cord over the head   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-348] A young woman with a history of recurrent dysmenorrhea presents to the ED with backache and worsened pelvic pain that began early this morning. What important findings in the history and physical exam would distinguish a diagnosis of endometriosis from other causes of pelvic pain?
+    ANSWER: Chest pain and reduced breath sounds during menses   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-349] A 26-year-old woman presented to the ED with pelvic pain. On exam, she had a friable cervix and adnexal tenderness. She was discharged with NSAIDs for pain and developed infertility several years later. Which of the following treatment regimens may have prevented her infertility?
+    ANSWER: Ceftriaxone IM plus doxycycline and metronidazole PO for 14 days   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-350] A 22-year-old woman presents to the emergency department after a syncopal episode at work. She did not hit her head and reports no antecedent chest pain, headache, or dyspnea. Her vital signs are T 98.6°F (37ºC), HR 92 bpm, BP 85/50 mm Hg, RR 14/min, and SpO2 99% on room air. Intravenous access is obtained and blood is collected for analysis. A bedside ultrasound is performed and is shown above.
+    ANSWER: Normal saline bolus   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-351] Which of the following is most commonly found during the history and physical exam in a patient with eclampsia?
+    ANSWER: Headache and visual disturbances   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-352] A 35-year-old G1 woman at 34 weeks gestation presents to the emergency department with concern for labor. She felt a large gush of fluid about an hour ago and has been having intermittent, intense contractions for the last 15 minutes. Sterile vaginal examination is notable for a 6 cm dilated cervix and the presence of a pulsatile cord-like structure in the vaginal vault.
+    ANSWER: Fetal malposition   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-353] A 32-year-old gravida 2, para 1 woman presents to the emergency department at 14 weeks gestation with sudden-onset vaginal bleeding and abdominal pain. She reports a history of a previous uncomplicated pregnancy resulting in a healthy baby girl 2 years ago. Her blood pressure is 90/60 mm Hg, heart rate is 120 bpm, respiratory rate is 18/minute, and oxygen saturation is 94% on room air.
+    ANSWER: Gestational trophoblastic disease   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-354] A 21-year-old woman with no prenatal care presents for evaluation of lower abdominal pain and fever. She estimates that she is approximately 7.5 months pregnant. On questioning, she acknowledges intermittent pain for 2 days and a gush of fluid shortly after the pain began. Her temperature is 101.8°F (38.8ºC). Physical examination is notable for purulent material in the vaginal vault.
+    ANSWER: Intraamniotic infection   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-355] What examination finding would be indicative of hypermagnesemia in a patient treated for eclampsia?
+    ANSWER: Respiratory depression   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-356] Which of the following is the most effective form of emergency contraception to offer a patient presenting after a sexual assault?
+    ANSWER: Copper IUD   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-357] A 30-year-old woman presents 3 weeks postpartum with weakness after severe hemorrhage requiring transfusion. She is bradycardic and hypotensive with hyponatremia, hyperkalemia, hypoglycemia, and low TSH. Which of the following is the most likely diagnosis?
+    ANSWER: Hypopituitarism   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-358] A 68-year-old multiparous woman presents to the ED with pelvic pressure. She also reports intermittent bulging in her pelvis during Valsalva maneuvers. She reports no dysuria, hematuria, fever, hematochezia, or melena. She has had three vaginal deliveries but has not had pelvic or abdominal surgeries. On physical examination, she has a large pink mass protruding from her vaginal introitus.
+    ANSWER: Manual reduction and referral for pessary placement   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-359] A 22-year-old woman presents with lower abdominal pain and abnormal vaginal discharge for 4 days. She is sexually active with multiple partners and does not consistently use barrier contraception. She has bilateral adnexal tenderness and yellow discharge on pelvic exam. Her urine pregnancy test is negative.
+    ANSWER: Doxycycline 100 mg PO twice daily for 14 days   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-360] A 31-year-old G2P1 woman at 32 weeks gestation with a history of hypertension presents for evaluation of right upper quadrant pain for 2 days. Her vital signs include an HR of 101 bpm, a BP of 161/95 mm Hg, an RR of 14/min, and an SpO2 of 99% on room air. She has right upper quadrant abdominal tenderness on exam, with no rebound or guarding, and a negative Murphy sign.
+    ANSWER: Hemolysis, elevated liver enzymes, and low platelet count syndrome   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-361] Which of the following is the correct sequence of the seven cardinal movements of labor?
+    ANSWER: Engagement, descent, flexion, internal rotation, extension, external rotation, expulsion   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-362] A 22-year-old woman at 36 weeks gestation presents for evaluation after feeling a sudden gush of water coming from her vagina. She has had regular obstetrical follow-up and a normally progressing pregnancy. Which of the following is the most appropriate next step in management?
+    ANSWER: Microscopic evaluation of vaginal fluid   (key E)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-363] Which of the following drugs should be prescribed in a patient in whom bacterial vaginosis is suspected?
+    ANSWER: Metronidazole   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-364] A woman has just delivered a term fetus via normal spontaneous vaginal delivery. She continues to have bleeding after delivery of the placenta. She has tachycardia and hypotension. What is the most common cause of this disorder?
+    ANSWER: Uterine atony   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-365] A 19-year-old G1P0 woman presents in active labor. On exam, you see active drainage of clear fluid, as well as protrusion of a pulsating umbilical cord and foot. What is the best next step in care?
+    ANSWER: Manually elevate the presenting fetal part   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-366] A 21-year-old G1P0 woman presents in active labor. A pelvic exam reveals the fetal head is visible and moves externally during contractions but retracts against the perineum with uterine relaxation. The patient's hips and knees are hyperflexed, and suprapubic pressure is applied. After 2 minutes, the head remains retracted against the perineum during uterine relaxation.
+    ANSWER: Identify the fetal posterior shoulder, flex the elbow, and then sweep it across the chest to deliver the posterior arm   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-367] A 34-year-old woman at 30 weeks of gestation presents to the emergency department for upper abdominal pain and vomiting for 2 days. She reports no fever or vaginal bleeding. She has a history of gallstones and is concerned they are causing her problems. Vital signs show BP 164/108 mm Hg, HR 90 bpm, RR 16.min, T 37.6℃, and SpO2 98% on room air.
+    ANSWER: Begin treatment with magnesium sulfate and consult obstetrics for induction of labor   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-368] Where is the uterine fundus palpable at 36 weeks gestation?
+    ANSWER: At the xiphoid process   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-369] A 28-year-old G4P3 woman presents to the ED in active labor. She states she is 38 weeks 5 days gestational age with a single intrauterine pregnancy and has had usual prenatal care. She delivers an 8-pound, 3-ounce infant who is pink and actively crying, with a heart rate of 120 bpm. She delivers the placenta, and approximately 1 hour later, she develops heavy vaginal bleeding.
+    ANSWER: Uterine atony   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-370] Which of the following is the most common cause of vaginal bleeding in a woman > 70 years of age?
+    ANSWER: Vaginal and endometrial atrophy   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-371] A 34-year-old pregnant woman at 10 weeks gestation presents with vaginal bleeding and abdominal pain. On examination, the patient’s cervical os is closed. A transvaginal ultrasound confirms an intrauterine pregnancy but is unable to detect cardiac activity. What classification of spontaneous abortion does the patient have?
+    ANSWER: Missed abortion   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-372] A 26-year-old woman with no significant medical history presents to the emergency department with a headache. She is 4 weeks postpartum. She reports having a severe posterior headache and also reports seeing flashes of light in her vision. Her vital signs include T 37.0°C, HR 90 bpm, BP 160/90 mm Hg, and SpO2 of 100%, and she is unchanged after rechecking multiple times.
+    ANSWER: Administer magnesium   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-373] A 23-year-old woman presents to the emergency department with continued vaginal bleeding 1 hour after a home birth of her first child at 41 weeks gestation. She estimates she has lost about 750 cc of blood since the birth. Abdominal examination reveals a soft and boggy uterine fundus. Vaginal examination reveals active bleeding from the cervix but no masses or lacerations.
+    ANSWER: Oxytocin IV   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-374] A 33-year-old G5P4 woman presents to the ED in active labor. Physical exam reveals the baby's head crowning at the introitus. After two pushes, the head is delivered with the umbilical cord wrapped around the neck. Reducing the cord over the head is unsuccessful. What is the best next step in management?
+    ANSWER: Clamp and cut the cord, then rapidly deliver the baby   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-375] A 21-year-old woman presents to the ED with severe right upper quadrant pain for 2 days. She was recently diagnosed with chlamydia, but never picked up her antibiotics. The pain is severe, constant, and radiates to her right shoulder. She has continued to have significant, yellow vaginal discharge and dyspareunia since her diagnosis of chlamydia.
+    ANSWER: Laparoscopic evidence of hepatic fibrinous exudates   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-376] A 37-year-old woman just birthed an infant and the placenta in the ambulance en route to the ED. EMS reports that the patient is tachycardic with a significant amount of bleeding. On vaginal examination, the vaginal vault immediately fills with active bleeding. What is the most common cause of this hemorrhage?
+    ANSWER: Uterine atony   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-377] A 27-year-old woman presents with persistent nausea, vomiting, and a 5-pound weight loss over the past week. She is currently 8 weeks pregnant with twins. Blood work shows hypokalemia, normal glucose, and ketonemia. She is unable to tolerate oral fluids. Which of the following is the most appropriate intravenous fluid choice for this patient?
+    ANSWER: Thiamine and 5% dextrose in 0.9% saline   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-378] A 34-year-old G4P2 woman at 37 weeks gestation presents to the ED with vaginal fluid leakage for the past 2 hours. Which of the following exam findings is consistent with a diagnosis of prelabor rupture of membranes?
+    ANSWER: Fluid pooling on speculum examination   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-379] An 18-year-old G1P0 woman at 16 weeks gestation presents with vaginal bleeding. She has had no prenatal care. Vital signs are unremarkable and physical examination reveals a small amount of blood in the vaginal vault. A transvaginal ultrasound is performed, as seen above. What is the best next step in management?
+    ANSWER: Obstetrics consultation   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-380] A 16-year-old girl with lupus presents with heavy vaginal bleeding, passing large clots daily for the last 12 days. She states that, although her periods are usually regular and heavy, she has never had one this long. Her vital signs are within normal limits. Her lab results are remarkable for a hemoglobin of 10.7 g/dL. Which of the following is the best approach to her treatment?
+    ANSWER: Oral medroxyprogesterone every 6 hours   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-381] A 26-year-old woman without previous prenatal care presents to your small, rural ED with a precipitous vaginal delivery. The woman is unclear about the date of her last menstrual period. She reports no previous medical history, but this is her fifth pregnancy. The infant is hemodynamically stable at this time, and you are awaiting the transfer of the patient and newborn.
+    ANSWER: Uterine atony   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-382] A 25-year-old woman presents to the ED with lower abdominal pain and intermittent vaginal bleeding since last night. Her last menstrual period was 6 weeks ago. Vital signs show HR 88 bpm, BP 124/70 mm Hg, and T 37.3°C. She has mild suprapubic tenderness on exam without peritonitis. Her urine pregnancy test is positive, and her serum beta-human chorionic gonadotropin level is 1,000 mIU/mL.
+    ANSWER: Discharge home with obstetric follow-up in 48–72 hours for repeat ultrasound and beta-human chorionic gonadotropin level   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-383] A 23-year-old woman presents with vaginal bleeding that began 6 hours ago. She reports that she is pregnant and concerned about her baby. Her last menstrual period was 8 weeks ago. A pelvic exam reveals a closed cervical os with a small amount of blood. A urine pregnancy test is positive and transvaginal ultrasound reveals an intrauterine embryo with cardiac activity.
+    ANSWER: Threatened abortion   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-384] A 19-year-old woman at 5 weeks gestation presents with vaginal bleeding. Pelvic examination shows no uterine or adnexal tenderness and a closed cervical os with a small amount of blood in the vault. Her serum human chorionic gonadotropin level is 1,750 mIU/mL. Her type and screen are A, Rh positive, antibody negative. A transvaginal ultrasound is performed and shown in the image above.
+    ANSWER: Pelvic rest and follow-up   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-385] A 26-year-old woman who is 5 days postpartum presents to the emergency department with lower abdominal pain and fever. Her vital signs show HR 123 bpm, BP 102/65 mm Hg, and T 38.7°C. She has lower abdominal tenderness and a foul-smelling vaginal discharge on exam. What is the most common factor that puts this patient at risk for the most likely diagnosis?
+    ANSWER: Cesarean delivery   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-386] A 25-year-old woman presents to the ED for 24 hours of worsening nausea, abdominal pain, and abdominal distention. She recently began hormone-based assisted reproductive therapy, received an injection 5 days ago, and has not yet had oocyte retrieval and fertilization. She has a BP of 85/55 mm Hg and HR of 120 bpm. Which of the following steps is contraindicated for this patient’s condition?
+    ANSWER: Bimanual exam   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-387] A 19-year-old woman presents to the ED with nausea, vomiting, and abdominal cramping. She is 16 weeks pregnant by ultrasound dating. What physiologic changes can be expected with a normal pregnancy?
+    ANSWER: The uterine fundus grows outside the pelvis into the abdomen at 12 weeks gestation   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-388] What are the cardinal movements of fetal descent during uncomplicated labor?
+    ANSWER: Engagement, descent, flexion, internal rotation, extension, external rotation, expulsion   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-389] A 27-year-old woman who is 10 weeks pregnant presents to the emergency department with uncontrolled nausea and vomiting daily for > 2 weeks. She has been taking the first-line medicine recommended by her obstetrician, but it does not seem to help. She reports no diarrhea and has not had any abdominal pain. She reports no vaginal bleeding. However, she has started to lose weight.
+    ANSWER: Ondansetron   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-390] A 19-year-old woman presents to the emergency department for recurrent pelvic pain. She reports a long-standing history of spotting between periods and dysmenorrhea. She has tried birth control pills and shots in the past without improvement. She reports that this current episode is severe and has been intermittent over the past 3 days.
+    ANSWER: Infertility   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-391] You diagnose lactation mastitis in a postpartum 17-year-old adolescent. She is currently breastfeeding her healthy newborn. She has no allergies. Which of the following is the most appropriate treatment in addition to local cool compresses and ibuprofen?
+    ANSWER: Dicloxacillin   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-392] A 30-year-old woman who is 3 weeks postpartum from an uncomplicated vaginal birth presents to the emergency department with pain and redness in her right breast for 2 days. She has continued nursing her baby girl, but the redness seems to be spreading, and she now feels malaise and chills. On physical examination, she is afebrile with normal vital signs and a nontoxic appearance.
+    ANSWER: Oral dicloxacillin   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-393] Which of the following is an appropriate treatment for the painful genital lesions pictured above?
+    ANSWER: Acyclovir   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-394] A sexually active, healthy 19-year-old woman presents to the ED with vaginal pain and discharge. She has had multiple recent sexual partners and uses a progestin intrauterine device for contraception and desires to continue this therapy. Her exam is significant for cervical bleeding after being swabbed, as well as thick, white mucus discharge from the cervical os.
+    ANSWER: Ceftriaxone IM, doxycycline PO, and metronidazole PO   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-395] A 4-year-old girl presents to the emergency department with foul-smelling vaginal discharge. Her parent first noticed the discharge 3 weeks ago, and it has progressed to thick pus with a small amount of blood over the last few days. There is no history of trauma. The girl has not had any fevers, vomiting, pain with urination, behavior changes, or other ill symptoms.
+    ANSWER: Procedural sedation for thorough pelvic examination   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-396] Which of the following is the most effective emergency contraception?
+    ANSWER: Copper intrauterine device   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-397] A 29-year-old woman who is G2P1001 at 13 weeks gestation presents to the ED for vaginal bleeding. Her vital signs are in the normal range. On exam, her cervical os is closed, and there is moderate bleeding. Ultrasound examination demonstrates an intrauterine pregnancy with a fetal heart rate of 130 bpm.
+    ANSWER: Administer Rh D immune globulin and discharge   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-398] A 27-year-old woman, 8 weeks since her last menstrual period, presents to the ED with vaginal bleeding, an open cervical os, and ultrasound showing an intrauterine pregnancy with a fetal pole but no heartbeat. Which of the following is the most likely diagnosis?
+    ANSWER: Inevitable abortion   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-399] A 31-year-old G1P0 woman at 8 weeks gestation presents to the ED with intractable nausea and vomiting. She is lightheaded and has been unable to tolerate anything by mouth. Which of the following confirms your suspected diagnosis?
+    ANSWER: Elevated urine ketones   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-400] A 26-year-old G2P1 woman is 8 weeks pregnant and has been having intractable vomiting for the last 2 weeks. Today, she reports significant fatigue and lightheadedness. She is tachycardic and unstable on her feet when standing. Her primary care clinician has prescribed her several different antiemetics over the last 2 weeks, but her condition has not improved.
+    ANSWER: Ketonuria   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-401] A 34-year-old woman who is 8 days postpartum presents to the emergency department with lower abdominal pain and a fever of 100.7℉ (38.2℃) at home. She reports continued vaginal bleeding since delivery of the baby. She mentions there were no complications during vaginal delivery, but her obstetrician had to manually remove the placenta.
+    ANSWER: Amoxicillin-clavulanate   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-402] A 28-year-old woman at 37 weeks gestation presents with abdominal pain and vaginal bleeding. Her vital signs are normal and she has uterine tenderness on palpation of her abdomen. What is the most important diagnosis to rule out given this presentation?
+    ANSWER: Abruptio placenta   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-403] A 35-year-old G3P2 woman at 32 weeks gestation presents to the ED following a motor vehicle collision. Her history is significant for two prior cesarean deliveries. She has severe abdominal pain, continuous uterine contractions, and decreased fetal movement. She reports no vaginal bleeding or gush of water. Her vital signs upon arrival are T 37.2°C, HR 130 bpm, BP 80/50 mm Hg, and RR 24/min.
+    ANSWER: Hemorrhage between the uterine decidua and the placenta   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-404] A 26-year-old woman presents to the ED in labor. She reports that she is 39 weeks pregnant, her water broke 2 hours ago, and she is having contractions every 3 minutes. On physical exam, she is gravid with a palpable uterine fundus just under the xiphoid process and appears uncomfortable. A digital cervical exam is performed.
+    ANSWER: Place a hand in the vagina to elevate the fetal head   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-405] A 68-year-old woman presents to the emergency department for a rash on her bilateral inner thighs. It extends proximally throughout her saddle region and involves her perineum. Her physical examination is represented above. Shortly after arrival, she becomes obtunded and requires intubation for airway protection. She is unable to provide a detailed medical history.
+    ANSWER: Chronic kidney disease   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-406] A 21-year-old woman presents to the emergency department for vaginal lesions. Physical examination shows condyloma acuminata on the vulva. What infection has this patient contracted in the past that led to these lesions?
+    ANSWER: Human papillomavirus   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-407] A 21-year-old woman presents to the emergency department after a home vaginal delivery at 40 weeks gestation. Her vital signs are T 98.6ºF (37ºC), HR 101 bpm, BP 210/100 mm Hg, RR 20/minute, and SpO2 96% on room air. She has no vaginal bleeding. Shortly after arrival, the nurse notifies you that the patient is now having a seizure.
+    ANSWER: Administer intravenous magnesium   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-408] A 65-year-old healthy woman presents to the emergency department with vaginal irritation and discharge that has been present for 1 day. Examination reveals a white discharge without odor and a pH of 4.5. Which of the following would most likely be seen on this patient’s wet prep microscopy?
+    ANSWER: Pseudohyphae   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-409] A 22-year-old woman presents to the emergency department after a 45-second generalized tonic-clonic seizure. She is lethargic and unable to provide a detailed medical history. She is protecting her airway. She has bilateral breath sounds and strong peripheral pulses, and there are no obvious signs of head trauma. Her abdomen is distended with a palpable uterus 8 cm above the umbilicus.
+    ANSWER: Respiratory depression   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-410] You are the emergency physician in a rural hospital with no obstetrical backup when a woman is brought into the ED in active labor. You perform a pelvic exam and note a prolapsed umbilical cord. Which of the following is the most appropriate next step in management?
+    ANSWER: Manually replace the cord into the uterus and prepare for rapid vaginal delivery   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-411] A 31-year-old woman at 36 weeks gestation presents to the ED with a sudden onset of severe constant abdominal pain and vaginal bleeding. She states she has had previous uterine surgery and has been watched closely during this pregnancy. Her BP is 156/68 mm Hg, RR is 26/min, HR is 122 bpm, SpO2 is 99% on room air, and T is 38.6°C. Fetal parts are palpable on abdominal exam.
+    ANSWER: Uterine rupture   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-412] A 29-year-old woman presents to the emergency department with a headache. She has no medical history. She states her symptoms started earlier this morning with a gradual headache that she now describes as pounding. She has never had anything like this before and reports no associated neurological deficits or associated symptoms.
+    ANSWER: Magnesium sulfate   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-413] A 26-year-old woman presents with abdominal cramping after a positive home pregnancy test. She states that the pregnancy is wanted. Her vital signs are a T of 98.7°F (37.1℃), HR of 94 bpm, BP of 110/66 mm Hg, RR of 18/min, and SpO2 of 97%. Her exam is unremarkable. Lab tests reveal a serum beta-human chorionic gonadotropin of 1,000 IU/L, and she is Rh-positive.
+    ANSWER: Discharge home with repeat beta-human chorionic gonadotropin in 48 hours   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-414] A 38-year-old woman presents to the ED with vaginal bleeding. She states that she is pregnant. Her last menstrual period was 5 weeks ago. She is well-appearing, and her vital signs are within normal limits. A quantitative human chorionic gonadotropin is 900 IU/L, and her hemoglobin is 15 g/dL. Which of the following is the most appropriate next step?
+    ANSWER: Transvaginal ultrasound   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-415] Which of the following confirms an intrauterine pregnancy?
+    ANSWER: Intrauterine fetal pole and yolk sac   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-416] A 30-year-old woman presents to the emergency department with dysuria. She had a prodrome of genital burning and pruritus, but now states she is having dysuria. Examination reveals vulvovaginal vesicular lesions. Urine dipstick is unremarkable. Which of the following is the most likely cause of this patient’s dysuria?
+    ANSWER: Urinary irritation of inflamed skin   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-417] A 27-year-old woman presents to the ED for evaluation after an alleged sexual assault. She was raped by a known male assailant and forced to have vaginal and oral intercourse. The assault occurred approximately 36 hours prior to arrival. She reports mild vaginal pain and abdominal pain but no vaginal bleeding or discharge, vomiting, fever, headache, syncope, chest pain, or rectal pain.
+    ANSWER: Offer ulipristal acetate 30 mg and metoclopramide 10 mg   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-418] A 40-year-old woman presents to the ED with heavy vaginal bleeding. She states she has had irregular periods for the last 3 years. Vital signs are a BP of 85/60 mm Hg and HR of 120 bpm. Physical exam reveals pallor and active heavy bleeding from the cervical os. Her urine pregnancy test is negative. A transfusion of O Rh-negative blood is immediately initiated.
+    ANSWER: Conjugated estrogen   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-419] A 17-year-old G1P0 adolescent at 25 weeks gestation presents with intermittent blurred vision. On presentation, she is asymptomatic. Vital signs are a BP of 165/97 mm Hg, HR of 84 bpm, and oxygen saturation of 97%. Physical examination reveals 2+ pitting edema on both lower extremities, and urinalysis has 3+ protein on dip. Which of the following is the best next step in management?
+    ANSWER: Admit for further obstetric evaluation   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-420] Which of the following is a contraindication to methotrexate therapy for ectopic pregnancy?
+    ANSWER: Kidney insufficiency   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-421] A 24-year-old woman presents to the ED for right-sided abdominal pain for the last 2 days. She is sexually active with three male partners and has an intrauterine device for contraception. Vital signs show a T of 101.4°F (38.6°C), BP of 112/76 mm Hg, HR of 94 bpm, and RR of 18/min. Physical examination shows right lower quadrant tenderness with voluntary guarding.
+    ANSWER: Pelvic inflammatory disease   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-422] A 21-year-old woman presents to the ED with foul-smelling vaginal discharge for 5 days. Her urine pregnancy test is negative. On exam, she has no cervical or adnexal tenderness to palpation. A moderate amount of whitish-gray discharge is noted in the vault, and microscopy findings are shown above. What is the appropriate antibiotic choice for this patient?
+    ANSWER: Metronidazole   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-423] A 38-year-old woman presents to the emergency department with nausea and vomiting. She estimates her last menstrual period was about 8 weeks ago and is concerned that she is pregnant. Her bedside transabdominal pelvic ultrasound is shown above. Which of the following can arise as a complication of this patient’s condition?
+    ANSWER: Choriocarcinoma   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-424] A 24-year-old woman at 14 weeks gestation presents to the ED with vaginal spotting. She had this same issue at week 11 and received 50 mcg of Rh immune globulin intramuscularly. Blood tests today demonstrate that her blood type is Rh negative, and her anti-D Coombs titer is detectable. Which of the following is the best next step in management?
+    ANSWER: Do not administer Rh immune globulin at this time   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-425] A 28-year-old woman presents to the emergency department with 3 days of foul-smelling vaginal discharge. She has multiple sexual partners and uses condoms inconsistently. Her last menstrual period ended 5 days ago. She has no abdominal pain or tenderness. A pelvic exam shows copious thin, gray-white discharge with a foul fishy odor. A swab is collected for testing.
+    ANSWER: Gonorrhea, chlamydia, HIV, and syphilis   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-426] A G2P1 32-year-old woman at 36 weeks gestation presents to the emergency department with abdominal pain and vaginal bleeding. Her previous pregnancy was complicated by failure to progress, which resulted in a cesarean section. Her spouse states she was reporting contractions occurring every 5 minutes when they suddenly stopped.
+    ANSWER: Uterine rupture   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-427] A 27-year-old G2P1 woman at 24 weeks gestation presents to the ED with bright red vaginal bleeding for 1 day. She reports no fevers or contractions and has noted normal fetal movement. She has a history of a previous C-section. Her current pregnancy has been uncomplicated, but she has been missing her obstetrics appointments.
+    ANSWER: Pelvic ultrasound   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-428] A 23-year-old woman presents with 2 days of vaginal pruritis and thick, white vaginal discharge. Genitourinary examination findings are shown in the image above. Which of the following is consistent with the most likely diagnosis?
+    ANSWER: pH of 4.0   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-429] Which of the following findings most strongly suggests gestational trophoblastic disease?
+    ANSWER: First-trimester hypertension   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-430] A 27-year-old G2P1 woman presents to the ED with tearing abdominal pain and vaginal bleeding. She states she is 34 weeks pregnant. Vital signs are BP 100/60 mm Hg, HR 130 bpm, RR 18/minute, and T 98.2°F (36.8°C). Which of the following is a risk factor for the most likely condition?
+    ANSWER: Smoking tobacco   (key E)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-431] A 30-year-old woman presents with fever and abdominal pain. She is 3 days postpartum after cesarean section. Physical examination reveals lower abdominal tenderness to palpation and foul-smelling vaginal discharge. What management is indicated?
+    ANSWER: Clindamycin and gentamicin   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-432] A 32-year-old woman presents with pain and swelling in the vaginal area. Examination reveals the above finding. What management is indicated?
+    ANSWER: Incision and drainage of the mucosal surface of the vestibule   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-433] A 27-year-old G1P0 woman presents to the ED for vaginal bleeding. She reports being six weeks pregnant based on her last menstrual period. Her vaginal bleeding is similar to previous menses, without pain or passage of clots or other material. Examination reveals a soft abdomen and a closed cervix.
+    ANSWER: Threatened abortion   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-434] A 24-year-old woman presents to the emergency department in labor. Physical exam reveals the infant is crowning. As you proceed with delivery, you note two loops of umbilical cord wrapped tightly around the infant’s neck as the head is delivered. Which of the following fetal monitoring patterns would be expected as a result of cord compression in this case?
+    ANSWER: Variable decelerations   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-435] A 27-year-old woman who is 32 weeks pregnant presents with bright-red vaginal bleeding for 1 day. The patient reports no pain and is not tender on abdominal exam. Her vital signs are a BP of 115/70 mm Hg, HR of 90 bpm, and RR of 16/min. What is the most appropriate next step in management?
+    ANSWER: Obtain IV access   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-436] A 24-year-old woman with no significant medical history presents with persistent right lower quadrant abdominal pain and vomiting since this morning. Her vital signs show a T of 99.5°F (37.5°C), HR of 78 bpm, BP of 145/66 mm Hg, RR of 18/min, and SpO2 of 98%. An ultrasound is obtained, as shown above. An invasive intervention is offered, but the patient prefers noninvasive management.
+    ANSWER: Methotrexate   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-437] What is the most likely diagnosis for the lesions in the image shown above?
+    ANSWER: Condyloma acuminata   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-438] A 21-year-old woman presents to the emergency department with painful genital lesions and vaginal discharge. She is sexually active with multiple partners and sometimes uses protection. Her last menstrual period was 2 weeks ago. She has a history of chlamydia infection but does not think her symptoms are the same. On physical examination, you find the above lesions on the vulva.
+    ANSWER: Herpes simplex virus polymerase chain reaction test   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-439] A 27-year-old G1P0 woman at 14 weeks gestation confirmed via ultrasound the week prior presents to the ED reporting lower abdominal cramping over the past 2 days. She notes vaginal bleeding that she describes as thick and clot-like. On exam, she has an open cervical os with evidence of fetal tissue in the cervical os and vaginal vault. Which of the following is the most likely diagnosis?
+    ANSWER: Incomplete abortion   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-440] A sexually active 24-year-old woman presents to the emergency department with pelvic pain and discharge. Her vital signs are within normal limits, and her pregnancy test is negative. The exam is significant for cervical friability and white cervical discharge, as well as cervical motion and right adnexal tenderness. A pelvic ultrasound is performed, showing a 4 cm mass near the right ovary.
+    ANSWER: Cefoxitin IV x 3 days with doxycycline PO x 14 days   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-441] A 24-year-old woman presents to the ED with abdominal pain. She states that the pain started acutely this morning and has been progressively worsening, causing her to vomit. The patient has a medical history of several sexually transmitted infections. She is currently sexually active with both men and women. Her last menses was 3 months ago.
+    ANSWER: Ectopic pregnancy   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-442] A 21-year-old woman presents with vaginal discharge. Her pelvic exam is notable for frothy discharge, vulvovaginal erythema, and pinpoint bleeding on the cervix. Microscopic examination of the discharge reveals motile, flagellated organisms. Which of the following is the most appropriate treatment of this patient’s condition?
+    ANSWER: Metronidazole   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-443] A 37-year-old woman presents to the ED with right lower abdominal pain for the past 3 days that she describes as cramping, with some nausea but no vomiting. She has no significant medical history. She is a commercial sex worker with a history of multiple prior sexually transmitted infections. Vital signs are within normal limits.
+    ANSWER: IV ceftriaxone, doxycycline, and metronidazole and gynecology consult   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-444] A 17-year-old G1P0 girl presents with genital sores and dysuria at 38 weeks of gestation. She has multiple painful labial and vaginal ulcerative vesicles and tender inguinal lymphadenopathy. Which neonatal complication is most associated with vertical transmission of this infection?
+    ANSWER: Meningoencephalitis   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-445] A 26-year-old woman presents to the emergency department with a headache. She has no significant medical history but is 34 weeks pregnant. She has had no prenatal complications to date and has received all of her prenatal care thus far. She states this is the worst headache she has ever had and describes it as a throbbing ache all over.
+    ANSWER: Normal electrolytes, elevated creatinine, elevated AST and ALT, low hemoglobin, low platelets, and protein found on urinalysis   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-446] A 27-year-old woman who is currently breastfeeding presents to the ED with an inflamed and painful right breast. Her vital signs are BP 125/70 mm Hg, HR 105 bpm, RR 16 breaths/min, and T 101.3°F (38.5°C). On exam, you note extensive cellulitis of the right breast that begins at the nipple. You begin antibiotic therapy. What should you advise the patient regarding continuation of breastfeeding?
+    ANSWER: Continue to breastfeed from both breasts   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-447] A 30-year-old woman presents with right breast pain. She is 3 weeks postpartum and has been exclusively breastfeeding her child. Her vital signs are within normal limits. On exam, the patient has an area of erythema surrounding her nipple that is tender and warm. No fluctuance is appreciated. An ultrasound confirms the diagnosis. Which of the following is the best treatment for this patient?
+    ANSWER: Dicloxacillin   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-448] A woman presents with fever and foul-smelling vaginal discharge 3 days after delivery of a full-term fetus. Her vital signs are a temperature of 39.0°C (102.2°F), heart rate of 110 bpm, blood pressure of 110/70 mm Hg, and respiratory rate of 20/min. On pelvic exam, there is uterine tenderness.
+    ANSWER: Cesarean section   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-449] A 21-year-old woman presents to the emergency department concerned about vaginal discharge. Which of the following diagnostic lab findings would most support your suspicion of bacterial vaginosis versus other causes of vulvovaginitis?
+    ANSWER: Vaginal pH of 5.5   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-450] A 20-year-old woman at 39 weeks gestation presents to the emergency department for uterine contractions and loss of fluid. The patient’s vital signs are normal, and the fetal heart rate is 140 bpm. While performing a vaginal exam, a pulsatile cord-like structure is felt at the dilated cervical os beneath the fetal head. Which of the following is the best next step in management?
+    ANSWER: Elevate the fetal head and obtain emergent obstetric consult   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-451] A 26-year-old woman presents to the ED with concerns that she has a sexually transmitted infection. She said that she noticed a few small spots in her genital region about 1 week ago. They are not painful but sometimes itch. The patient has no known medical problems but does not follow up with a clinician regularly.
+    ANSWER: Human papillomavirus   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-452] A 28-year-old woman presents with 3 days of vaginal irritation and discharge. Around 2 weeks ago, she had unprotected sexual intercourse with a new male partner. On pelvic exam, she is noted to have a purulent endocervical discharge and her intrauterine device strings are visualized. What is the test of choice to confirm a diagnosis of Chlamydia trachomatis?
+    ANSWER: Nucleic acid amplification   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-453] Which of the following is diagnostic of an intrauterine pregnancy?
+    ANSWER: A gestational sac with a yolk sac in the uterus on transvaginal ultrasound   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-454] A 22-year-old healthy breastfeeding woman presents to the emergency department one week after cesarean delivery of a viable infant at 39 weeks with complaint of two days of fever and lower abdominal pain. Her exam shows HR 115 BPM, temperature of 102°F (38.9°C), no breast tenderness or swelling, a well-healing abdominal scar without drainage, lower abdominal tenderness to palpation, and foul-smell …
+    ANSWER: Clindamycin and gentamicin intravenously   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-455] A 26-year-old woman presents to the ED with abdominal pain and fever. She is 5 days postpartum after vaginally birthing a newborn at 28 weeks gestation. She has had significant vaginal bleeding since birth with foul-smelling lochia. Her vital signs are a T of 102.4°F (39.1°C), BP of 81/45 mm Hg, HR of 123 bpm, and SpO2 of 92% on room air. She has tenderness in the lower abdomen without guarding.
+    ANSWER: Surgical uterine evacuation   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-456] Which of the following risk factors puts a woman most at risk for ovarian torsion?
+    ANSWER: An ovary with a 6 cm cyst   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-457] A 28-year-old woman presents to a rural emergency department in labor. She is placed on tococardiography with the strip shown above. Which of the following interventions should be attempted?
+    ANSWER: Lateral recumbent position   (key A)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-458] A 22-year-old G1P1 woman presents with vaginal bleeding and abdominal pain after a home birth of her first child at 40 weeks gestation. The removal of the placenta was reportedly difficult. She estimates she has lost about 750 cc of blood since the delivery. It is difficult to palpate the uterine fundus on abdominal examination.
+    ANSWER: Manual pressure on the mass towards the cervix with a clenched fist   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-459] A 27-year-old woman presents with 3 days of vaginal pain and swelling. She has had Chlamydia three times previously, which were treated appropriately, but she has never had anything like this before. She remains sexually active with two partners. On examination, she has a large, right-sided Bartholin cyst abscess. The abscess is managed with a bedside incision and drainage.
+    ANSWER: Send gonorrhea and chlamydia testing   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-460] A 32-year-old woman presents to the ED with redness, swelling, and pain in the left breast that has worsened over the last 48 hours. She is 4 weeks postpartum and is breastfeeding her infant. Vital signs include a temperature of 38.4°C, a heart rate of 92 bpm, and a blood pressure of 128/67 mm Hg.
+    ANSWER: Mastitis   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-461] A 16-year-old sexually active girl presents to the emergency department with sudden-onset severe pelvic pain with vomiting. On exam, she has pain on palpation of the abdomen in the left lower quadrant, and the pelvic exam reveals a left adnexal mass. Which one of the following is most likely to be found on a pelvic ultrasound, assuming this patient has an ovarian torsion?
+    ANSWER: Enlarged left compared to right ovary   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-462] A 30-year-old woman presents with swelling and pain in the vaginal area for 2 days. She has no fever or abdominal pain. She has not had swelling in this area before. She reports no previous medical problems. Her vital signs are within normal limits. On pelvic examination, she has an approximately 5 cm swollen, tender area of the lower left labia minora near the vaginal opening.
+    ANSWER: Incision and Word catheter placement   (key D)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-463] A 19-year-old G1 woman at 37 weeks gestation presents with a vaginal gush of fluid. Her vital signs on arrival are T 38.5°C, HR 115 bpm, BP 100/70 mm Hg, and SpO2 98% on room air. Physical examination is notable for pooling of fluid at the posterior fornix. Tococardiography shows no contractions and a fetal heart rate of 170 bpm with moderate variability.
+    ANSWER: Antibiotics and admission for urgent induction of labor   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-464] A 31-year-old woman with a history of mild intermittent asthma, cholecystectomy, and appendectomy presents to the emergency department with concern for right lower quadrant abdominal pain. Her pain began 1 week ago and was initially dull and aching, associated with subjective fevers. Last night, the pain acutely worsened, and she began having nausea and vomiting.
+    ANSWER: Administer intravenous cefoxitin and doxycycline   (key B)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-465] A 15-year-old G1P0 girl at 23 weeks gestation presents with sharp, left lower quadrant abdominal pain for 1 hour. She previously had an ultrasound confirming the presence of a single intrauterine pregnancy. The pain is severe and associated with nausea. Pelvic examination reveals tenderness of the left adnexa. The patient’s urinalysis is unremarkable.
+    ANSWER: Pelvic ultrasound   (key C)
+[ROSH rosh-em-initial-2026-obstetrics-and-gynecology-q-466] A 24-year-old woman with no significant medical history presents to the ED with right upper quadrant pain for 5 days. The pain is constant and has no relationship to food consumption. Her vital signs on arrival are T 38.1ºC, HR 90 bpm, RR 14/min, and BP 115/70 mm Hg.
+    ANSWER: Fitz-Hugh-Curtis syndrome   (key B)

@@ -1,0 +1,1230 @@
+[PEER-PHYS PEER-procedures-q-142] In which scenario is succinylcholine a safe alternative to rocuronium?
+    ANSWER: Left-sided weakness for the past 2 hours   (key D)
+[PEER-PHYS PEER-procedures-q-143] Which method is most reliable for confirming correct tube placement after endotracheal intubation?
+    ANSWER: End-tidal capnography   (key C)
+[PEER-PHYS PEER-procedures-q-144] Which examination finding indicates that a child is likely to have a difficult airway?
+    ANSWER: Distance between the child's mentum and thyroid is one of the child's finger breadths   (key A)
+[PEER-PHYS PEER-procedures-q-145] A 65-year-old man with combativeness, SpO2 75%, uncooperative with NC and NRB. Needs intubation. What is the best next step?
+    ANSWER: Delayed sequence intubation   (key B)
+[PEER-PHYS PEER-procedures-q-146] A patient with right ventricular failure (POCUS showing RV failure) becomes hypotensive with intubation. What should be given?
+    ANSWER: Push-dose 10 µg epinephrine   (key C)
+[PEER-PHYS PEER-procedures-q-147] A man with ABG 7.01/20/80 needing intubation. Which intervention is appropriate?
+    ANSWER: Set high respiratory rate on the ventilator   (key D)
+[PEER-PHYS PEER-procedures-q-148] Which medication is contraindicated in patients with Duchenne muscular dystrophy?
+    ANSWER: Succinylcholine   (key D)
+[PEER-PHYS PEER-procedures-q-149] RSI on a 3-year-old with etomidate and rocuronium. HR 58 → 127 bpm after ventilation. What is the most likely cause of the bradycardia?
+    ANSWER: Hypoxia   (key A)
+[PEER-PHYS PEER-procedures-q-150] For which patient would awake intubation be appropriate?
+    ANSWER: A patient with angioedema involving the airway without respiratory distress   (key C)
+[PEER-PHYS PEER-procedures-q-151] What is the recommended sedative agent in awake intubation?
+    ANSWER: Ketamine   (key B)
+[PEER-PHYS PEER-procedures-q-152] A 3-year-old with severe laryngotracheitis, agitated, biphasic stridor, SpO2 82% on 10L. What is the most appropriate approach?
+    ANSWER: Calming measures   (key A)
+[PEER-PHYS PEER-procedures-q-153] Intubating a 2-week-old infant for recurrent apneic episodes. Which tool is most helpful in reducing errors?
+    ANSWER: Video laryngoscopy   (key D)
+[PEER-PHYS PEER-procedures-q-154] While removing a carrot piece obstructing a 2-year-old's airway, it's pushed through the glottis. SpO2 rapidly drops. What is the next best step?
+    ANSWER: Endotracheal intubation   (key A)
+[PEER-PHYS PEER-procedures-q-155] What is contraindicated if the patient has an intact gag reflex?
+    ANSWER: Oropharyngeal airway   (key D)
+[PEER-PHYS PEER-procedures-q-156] What is a contraindication to surgical cricothyrotomy?
+    ANSWER: Age younger than 5 years   (key B)
+[PEER-PHYS PEER-procedures-q-157] An adult with angioedema becoming hypoxic after failed intubation and oxygenation. What is the best next approach?
+    ANSWER: Cricothyrotomy   (key B)
+[PEER-PHYS PEER-procedures-q-158] What is a contraindication to emergent cricothyrotomy?
+    ANSWER: Tracheal transection   (key D)
+[PEER-PHYS PEER-procedures-q-159] What is the most common early complication of cricothyrotomy?
+    ANSWER: Damage to the cartilaginous structures   (key A)
+[PEER-PHYS PEER-procedures-q-160] What is the best device to use when performing an emergent cricothyrotomy in an adult?
+    ANSWER: 6-mm tracheostomy tube   (key C)
+[PEER-PHYS PEER-procedures-q-161] A patient with GSW to face, agonal respirations, SpO2 85%. BVM ineffective, intubation failed, SpO2 70%. What is the best next step?
+    ANSWER: Perform an emergent cricothyrotomy   (key B)
+[PEER-PHYS PEER-procedures-q-162] Which patient is most likely to benefit from an emergent cricothyrotomy?
+    ANSWER: 70-year-old with severe facial trauma from a fall who is difficult to ventilate and hypoxic   (key D)
+[PEER-PHYS PEER-procedures-q-163] An intubated patient has a high pressure alarm. Pressure-time curve with inspiratory hold shows high peak with normal plateau. What is the most likely cause?
+    ANSWER: Inadequate sedation   (key B)
+[PEER-PHYS PEER-procedures-q-164] What is the most reliable method for confirming the endotracheal tube is in the trachea after intubation?
+    ANSWER: End-tidal capnography   (key C)
+[PEER-PHYS PEER-procedures-q-165] A nurse calls about an intubated patient with increasing ventilator alarms and 'bucking' the ventilator. BP 105/60, P 105, SpO2 90%. Which action should be taken first?
+    ANSWER: Check endotracheal tube placement   (key B)
+[PEER-PHYS PEER-procedures-q-166] Intubated patient suddenly becomes hypoxic and hypotensive, 'bucking' the ventilator. What is the best next step?
+    ANSWER: Disconnect from the ventilator   (key B)
+[PEER-PHYS PEER-procedures-q-167] Ventilator alarms for high pressure. Inspiratory hold shows elevated peak AND elevated plateau. What is the most likely etiology?
+    ANSWER: Pneumothorax   (key C)
+[PEER-PHYS PEER-procedures-q-168] A 50-kg adolescent with ARDS, hypoxic despite FiO2 100%. DOPES negative. Which ventilator parameter should be increased?
+    ANSWER: PEEP   (key B)
+[PEER-PHYS PEER-procedures-q-169] Approximately 20 minutes after intubation, a patient acutely develops severe respiratory distress, hypotension, and oxygen saturations in the 60s. What is the best next step?
+    ANSWER: Manually ventilate using 100% FiO2   (key B)
+[PEER-PHYS PEER-procedures-q-170] A 12-kg 2-year-old with status epilepticus is intubated (4.0 mm cuffed ETT). SIMV-PC mode. Which initial ventilator settings are most appropriate?
+    ANSWER: PIP 20, R 24, inspiratory time 0.8 sec, PEEP 5, pressure support 8, and FiO2 100%   (key C)
+[PEER-PHYS PEER-procedures-q-171] In which condition can noninvasive ventilation (NIV) be used safely?
+    ANSWER: Severe hypertension   (key C)
+[PEER-PHYS PEER-procedures-q-172] A ventilated ARDS patient on AC/VC: TV 420, R 22, FiO2 50%, PEEP 18. Plateau 26. ABG: 7.15/65/58. What strategy should be employed to correct pH?
+    ANSWER: Increase the respiratory rate from 22 to 30 bpm to increase minute ventilation   (key C)
+[PEER-PHYS PEER-procedures-q-173] An intubated asthmatic with pH 7.28, pCO2 68. Flow curve shows air trapping. Which ventilator adjustment should be done first?
+    ANSWER: Decrease the inspiratory time   (key A)
+[PEER-PHYS PEER-procedures-q-174] Ventilator alarms for high pressure. Inspiratory hold shows elevated peak with NORMAL plateau. Which intervention best treats the underlying cause?
+    ANSWER: Suctioning the endotracheal tube   (key D)
+[PEER-PHYS PEER-procedures-q-175] 63-inch-tall intubated man with bilateral infiltrates. VC: TV 550, PEEP 10, R 20, FiO2 50%. Plateau 35. ABG: 7.30/48/56, SpO2 89%. Best initial ventilator adjustment?
+    ANSWER: Decrease tidal volume   (key B)
+[PEER-PHYS PEER-procedures-q-176] Where should the tip of the laryngoscope blade be placed when performing direct laryngoscopy with a Macintosh blade?
+    ANSWER: Vallecula   (key D)
+[PEER-PHYS PEER-procedures-q-177] When performing video-assisted laryngoscopy with a hyperangulated blade, what is the best option for stylet to use with the endotracheal tube?
+    ANSWER: Rigid hyperangulated stylet   (key C)
+[PEER-PHYS PEER-procedures-q-178] Severe angioedema. Video laryngoscopy failed due to anterior oropharynx edema. Patient stable. What airway intervention should be attempted next?
+    ANSWER: Nasotracheal fiberoptic intubation   (key C)
+[PEER-PHYS PEER-procedures-q-179] A patient with severe COPD exacerbation. BiPAP initiated. Which IPAP, EPAP, and FiO2 would be appropriate?
+    ANSWER: IPAP of 12, EPAP of 5, and FiO2 of 50%   (key D)
+[PEER-PHYS PEER-procedures-q-180] An emergency physician is initiating HFNC oxygen therapy on a pediatric patient who weighs 5 kg. What is an appropriate initial flow rate?
+    ANSWER: 7 L/min   (key B)
+[PEER-PHYS PEER-procedures-q-181] An 85-year-old woman undergoing CPR with a durable and signed DNR order. Rhythm on arrival is VF. What is the next best step?
+    ANSWER: Stop resuscitation efforts   (key D)
+[PEER-PHYS PEER-procedures-q-182] A 57-year-old man in VF cardiac arrest. His son wishes to be in the room during resuscitation. Which statement is the best response?
+    ANSWER: 'Of course. If you come with me, I'll have someone stand with you and explain everything.'   (key B)
+[PEER-PHYS PEER-procedures-q-183] A woman at 39 weeks delivers a vigorous 2.9-kg baby precipitously. Covered in meconium. In respiratory distress despite stimulation. SpO2 88%. Which tube should be used for intubation?
+    ANSWER: 3.5 cuffed endotracheal tube   (key C)
+[PEER-PHYS PEER-procedures-q-184] A 4-day-old with cyanosis, mottled skin, poor tone. SpO2 78% despite intubation and 100% O2. What is the most important initial pharmacologic treatment?
+    ANSWER: Prostaglandin E1   (key C)
+[PEER-PHYS PEER-procedures-q-185] A full-term baby delivered precipitously. Mother used heroin 1 hour ago. Poor inspiratory effort, P 58. What is the next best step?
+    ANSWER: Perform jaw thrust   (key D)
+[PEER-PHYS PEER-procedures-q-186] Where should the pulse oximeter be attached during neonatal resuscitation?
+    ANSWER: Right upper extremity   (key D)
+[PEER-PHYS PEER-procedures-q-187] An emergency medicine resident is preparing to place an umbilical line for fluid and medication administration. Which labeled structure is the appropriate target?
+    ANSWER: Letter 'A'   (key A)
+[PEER-PHYS PEER-procedures-q-188] What is the proper placement for an intraosseous line in a 3-year-old in cardiopulmonary arrest?
+    ANSWER: Approximately 2 cm below and medial the proximal tibial tuberosity   (key A)
+[PEER-PHYS PEER-procedures-q-189] An 85-year-old after cardiac arrest, ROSC achieved. Awake, alert. ECG shows anteroseptal STEMI. What is the most important next step?
+    ANSWER: Activate the cardiac catheterization laboratory   (key A)
+[PEER-PHYS PEER-procedures-q-190] What is the most appropriate core temperature for targeted temperature management in a comatose post-cardiac arrest patient?
+    ANSWER: 32°C-36°C (89.6°F-96.8°F)   (key B)
+[PEER-PHYS PEER-procedures-q-191] What is a common complication of therapeutic hypothermia?
+    ANSWER: Hypocoagulation   (key C)
+[PEER-PHYS PEER-procedures-q-192] A 35-year-old man with hypotension and tachycardia after MVC. Unknown blood type. Which blood type is the best choice?
+    ANSWER: O+   (key D)
+[PEER-PHYS PEER-procedures-q-193] A man requires a pRBC transfusion for a GI bleed. History of 'bad' reactions to multiple transfusions (fever). What is the best choice to decrease the likelihood of a similar reaction?
+    ANSWER: Leukocyte-reduced packed RBCs   (key C)
+[PEER-PHYS PEER-procedures-q-194] A 9-year-old after MVC. BP 80/40 improves to 90/40 after 60 mL/kg crystalloid. What is the best approach to fluid management?
+    ANSWER: 10 mL/kg packed RBCs   (key C)
+[PEER-PHYS PEER-procedures-q-195] Which line represents systolic blood pressure on an arterial line waveform tracing?
+    ANSWER: Line A   (key A)
+[PEER-PHYS PEER-procedures-q-196] What does the Allen test evaluate?
+    ANSWER: Collateral hand blood flow   (key B)
+[PEER-PHYS PEER-procedures-q-197] What are the appropriate landmark descriptions for placement of a Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) for refractory hemorrhagic shock from traumatic pelvic fracture?
+    ANSWER: Measured from the skin insertion to area just cephalad to the umbilicus (~26-28 cm)   (key D)
+[PEER-PHYS PEER-procedures-q-198] Which patient with traumatic hemorrhagic shock is most likely to benefit from REBOA?
+    ANSWER: Pelvic fracture, interventional radiology available in 20 minutes   (key C)
+[PEER-PHYS PEER-procedures-q-199] What is a contraindication to placement of a REBOA?
+    ANSWER: Intrathoracic vascular injury   (key A)
+[PEER-PHYS PEER-procedures-q-200] What is the most common complication of REBOA placement?
+    ANSWER: Local vascular injury   (key D)
+[PEER-PHYS PEER-procedures-q-201] During REBOA, which vessel should be cannulated?
+    ANSWER: Common femoral artery   (key A)
+[PEER-PHYS PEER-procedures-q-202] When attempting transvenous pacing, what is the preferred site for access?
+    ANSWER: Right internal jugular vein   (key C)
+[PEER-PHYS PEER-procedures-q-203] In which condition can intraosseous line placement be performed most safely?
+    ANSWER: Poorly controlled diabetes   (key D)
+[PEER-PHYS PEER-procedures-q-204] What is the preferred site for intraosseous line placement in a 2-year-old child?
+    ANSWER: Proximal tibia   (key D)
+[PEER-PHYS PEER-procedures-q-205] What is the most appropriate next step after defibrillation during the management of cardiac arrest?
+    ANSWER: Resumption of chest compressions   (key D)
+[PEER-PHYS PEER-procedures-q-206] A 24-year-old man with stab wound to left chest, loses vital signs, needs bedside thoracotomy. Which structure must be avoided when incising the pericardium?
+    ANSWER: Phrenic nerve   (key B)
+[PEER-PHYS PEER-procedures-q-207] In which scenario is ECMO contraindicated?
+    ANSWER: Intracranial hemorrhage   (key B)
+[PEER-PHYS PEER-procedures-q-208] In which scenario is ECMO most likely indicated?
+    ANSWER: Right ventricular failure in a patient with a massive pulmonary embolism   (key D)
+[PEER-PHYS PEER-procedures-q-209] In the setting of venoarterial extracorporeal CPR (ECPR), what procedures are commonly performed to initiate ECMO?
+    ANSWER: Ultrasound-guided cannulation of the femoral artery and vein   (key B)
+[PEER-PHYS PEER-procedures-q-210] What is the most likely complication of ECMO?
+    ANSWER: Bleeding   (key A)
+[PEER-PHYS PEER-procedures-q-211] In which scenario is pediatric ECMO most likely indicated?
+    ANSWER: PaO2/FiO2 ratio less than 80 in a patient with ARDS   (key A)
+[PEER-PHYS PEER-procedures-q-212] A 30-year-old found in a snowbank, awake but confused. ECG shows Osborn waves. What is the best rewarming technique?
+    ANSWER: Forced warmed air   (key B)
+[PEER-PHYS PEER-procedures-q-213] A 20-year-old found in snowbank in cardiac arrest. CPR ongoing. T 28°C. Despite resuscitation, K 12. What are the next best steps?
+    ANSWER: Cessation of CPR for futility   (key A)
+[PEER-PHYS PEER-procedures-q-214] A patient with large intraparenchymal hemorrhage is intubated. Postintubation, which parameters should be maintained?
+    ANSWER: Head of bed to 30 degrees, PaCO2 35 to 40 mm Hg, and systolic BP 140 mm Hg   (key D)
+[PEER-PHYS PEER-procedures-q-215] A 25-year-old man with palmar laceration proximal to the MCP joint of the small finger. What is the best technique for anesthesia?
+    ANSWER: Ulnar nerve wrist block   (key D)
+[PEER-PHYS PEER-procedures-q-216] Which technique helps reduce the pain of local infiltration with lidocaine?
+    ANSWER: Inject through open wound   (key C)
+[PEER-PHYS PEER-procedures-q-217] A 74-year-old woman with anterior shoulder dislocation, BP 86/40, P 110. IV access, fluid bolus minimal improvement. No allergies. Which medication for procedural sedation?
+    ANSWER: Ketamine   (key B)
+[PEER-PHYS PEER-procedures-q-218] Which level of procedural sedation is characterized by reduced consciousness with purposeful response to commands, adequate spontaneous ventilation, and maintained cardiovascular function?
+    ANSWER: Moderate sedation   (key D)
+[PEER-PHYS PEER-procedures-q-219] A patient with multiple myeloma and chronic kidney disease presents with severe pain from bone lesions. Which medication is most appropriate?
+    ANSWER: Hydromorphone   (key B)
+[PEER-PHYS PEER-procedures-q-220] A patient receiving a lidocaine infusion for renal colic experiences paresthesias, perioral numbness, seizure, and cardiovascular collapse. What is the highest priority?
+    ANSWER: Intravenous lipid emulsion   (key B)
+[PEER-PHYS PEER-procedures-q-221] What is first-line therapy for trigeminal neuralgia?
+    ANSWER: Carbamazepine   (key A)
+[PEER-PHYS PEER-procedures-q-222] What describes 'deep sedation'?
+    ANSWER: Purposeful response to painful stimulation; airway and breathing may be impaired   (key B)
+[PEER-PHYS PEER-procedures-q-223] What is a contraindication to receiving propofol?
+    ANSWER: Propofol intolerance   (key C)
+[PEER-PHYS PEER-procedures-q-224] An otherwise healthy patient is intubated and experiences acute-onset rigidity. T 39.2°C. Which medication is likely responsible?
+    ANSWER: Succinylcholine   (key C)
+[PEER-PHYS PEER-procedures-q-225] What is the most consistent finding of succinylcholine-induced malignant hyperthermia?
+    ANSWER: High end-tidal CO2   (key B)
+[PEER-PHYS PEER-procedures-q-226] What electrolyte disorder is most strongly associated with malignant hyperthermia?
+    ANSWER: Hyperkalemia   (key B)
+[PEER-PHYS PEER-procedures-q-227] What is the most appropriate empiric treatment for malignant hyperthermia?
+    ANSWER: Dantrolene   (key B)
+[PEER-PHYS PEER-procedures-q-228] Which medication is contraindicated in patients with malignant hyperthermia who are treated with the appropriate reversal agent?
+    ANSWER: Diltiazem   (key B)
+[PEER-PHYS PEER-procedures-q-229] What should be used to help prepare a patient for an anoscopy?
+    ANSWER: Topical lidocaine   (key D)
+[PEER-PHYS PEER-procedures-q-230] Which incision should be used to excise an acute thrombosed external hemorrhoid?
+    ANSWER: Elliptical   (key B)
+[PEER-PHYS PEER-procedures-q-231] A 78-year-old woman with a clogged, nonfunctioning gastrostomy feeding tube. What technique to remove the clog should be tried first?
+    ANSWER: Flushing warm water   (key A)
+[PEER-PHYS PEER-procedures-q-232] In which situation is placement of a nasogastric tube most indicated?
+    ANSWER: Abdominal distention in a patient with a small bowel obstruction   (key A)
+[PEER-PHYS PEER-procedures-q-233] A 45-year-old man with massive hematemesis at a rural hospital without GI availability. Intubated, Sengstaken-Blakemore tube placed with initial hemostasis. What is the next step?
+    ANSWER: Transfer to hospital with GI availability   (key D)
+[PEER-PHYS PEER-procedures-q-234] Which condition is the best indication for placement of an esophageal balloon tamponade device?
+    ANSWER: Gastroesophageal varices   (key C)
+[PEER-PHYS PEER-procedures-q-235] When obtaining informed consent for a tube thoracostomy, what possible complication should be discussed with the patient?
+    ANSWER: Injury to thoracic or abdominal structures   (key D)
+[PEER-PHYS PEER-procedures-q-236] A patient with spontaneous pneumothorax, SpO2 92%, increased work of breathing. What is the best step in definitive management?
+    ANSWER: Insert a 20 Fr chest tube in the fourth intercostal space at the midaxillary line   (key C)
+[PEER-PHYS PEER-procedures-q-237] A 72-year-old woman with syncope. Alert, normal vitals. ECG shows paced rhythm with intermittent capture. What management is appropriate?
+    ANSWER: Order chest x-ray and BMP, and arrange for pacemaker interrogation   (key D)
+[PEER-PHYS PEER-procedures-q-238] What effect will placing a magnet over a patient's pacemaker have on pacemaker function?
+    ANSWER: Set the pacemaker at a fixed rate   (key C)
+[PEER-PHYS PEER-procedures-q-239] An 87-year-old woman with syncope, BP 87/42, P 27. Complete AV block with wide QRS. Atropine ineffective. What is the most appropriate next intervention?
+    ANSWER: Transcutaneous pacing   (key D)
+[PEER-PHYS PEER-procedures-q-240] What is an indication for overdrive pacing?
+    ANSWER: Torsades de pointes   (key C)
+[PEER-PHYS PEER-procedures-q-241] What is the proper interpretation of 'VOO' mode for transvenous pacing?
+    ANSWER: Ventricular pacing, no sensing, no response   (key C)
+[PEER-PHYS PEER-procedures-q-242] What is the appropriate final resting location for a transvenous pacing wire?
+    ANSWER: Right ventricle   (key D)
+[PEER-PHYS PEER-procedures-q-243] What is the preferred access site for placement of a transvenous pacemaker?
+    ANSWER: Right internal jugular vein   (key D)
+[PEER-PHYS PEER-procedures-q-244] An 80-year-old woman with syncope, BP 90/48, P 30. Complete AV block with narrow QRS. Atropine improves HR. What is the next step if vitals worsen?
+    ANSWER: Repeat atropine dose   (key D)
+[PEER-PHYS PEER-procedures-q-245] In which scenario is cardioversion most indicated?
+    ANSWER: 63-year-old woman with a history of hypertension and diabetes presenting with chest pain and diaphoresis with an ECG demonstrating a wide-complex tachycardia   (key C)
+[PEER-PHYS PEER-procedures-q-246] A 55-year-old man with syncope, on apixaban, diaphoretic, altered mental status. BP 75/38, P 152, SpO2 92%. ECG shows atrial fibrillation. What is the best next step?
+    ANSWER: Synchronized cardioversion 200 J   (key D)
+[PEER-PHYS PEER-procedures-q-247] A 60-year-old man with sudden-onset chest pain radiating to back, pale, diaphoretic. ECG finding that indicates additional posterior leads should be obtained?
+    ANSWER: ST-segment depression in leads V1 and V2   (key C)
+[PEER-PHYS PEER-procedures-q-248] A 60-year-old man with pressure-like chest pain. ECG: ST elevation in I, aVL with ST depressions in III, aVF, V1-V3. What is the diagnosis?
+    ANSWER: Lateral STEMI   (key C)
+[PEER-PHYS PEER-procedures-q-249] A 25-year-old asymptomatic man with ECG showing J-point elevation, concave ST segments, no reciprocal changes. What is the diagnosis?
+    ANSWER: Benign early repolarization   (key B)
+[PEER-PHYS PEER-procedures-q-250] A 60-year-old with chest pain. ECG shows widened QRS >120 ms, broad notched R in I, aVL, V5-V6, large S in V1. What is the diagnosis?
+    ANSWER: Left bundle-branch block   (key C)
+[PEER-PHYS PEER-procedures-q-251] Which ECG finding would suggest left ventricular hypertrophy?
+    ANSWER: R wave amplitude in V5 of 30 mm   (key C)
+[PEER-PHYS PEER-procedures-q-252] A 70-year-old man with sudden severe headache, slow to respond, BP 220/90, P 58. ECG shows deep precordial T waves. What is the most likely diagnosis?
+    ANSWER: Intracranial hemorrhage   (key C)
+[PEER-PHYS PEER-procedures-q-253] A 75-year-old woman with CKD presents with lightheadedness, vomiting. ECG shows peaked T waves and shortened QT. What is the next best treatment?
+    ANSWER: Administer intravenous calcium   (key A)
+[PEER-PHYS PEER-procedures-q-254] A 56-year-old with lightheadedness, nausea, vomiting. ECG shows QRS widening, ST changes, P-wave flattening. What electrolyte abnormality?
+    ANSWER: Hyperkalemia   (key B)
+[PEER-PHYS PEER-procedures-q-255] A man with ESRD and pacemaker for sick sinus syndrome presents with syncope, missed 3 dialysis sessions. ECG shows pacemaker spikes with sine wave between. What is definitive management?
+    ANSWER: Emergent hemodialysis   (key B)
+[PEER-PHYS PEER-procedures-q-256] A 70-year-old with SOB, pain radiating to neck and back. ECG shows ST elevation >2 mm in V1-V4. What is the most likely cause?
+    ANSWER: Left anterior descending artery occlusion   (key A)
+[PEER-PHYS PEER-procedures-q-257] A 55-year-old with chest pain. During ECG analysis, what finding would be consistent with evolving STEMI?
+    ANSWER: Hyperacute T waves   (key A)
+[PEER-PHYS PEER-procedures-q-258] ST elevation would be expected in which ECG leads in an inferior STEMI?
+    ANSWER: II, III, and aVF   (key B)
+[PEER-PHYS PEER-procedures-q-259] A patient with lightheadedness, BP 90/60, P 40. ECG shows regular narrow QRS with no P waves. What is the best interpretation?
+    ANSWER: Junctional bradycardia   (key B)
+[PEER-PHYS PEER-procedures-q-260] What is the best interpretation of this ECG (progressive PR prolongation until dropped beat)?
+    ANSWER: Second-degree heart block Mobitz type I   (key B)
+[PEER-PHYS PEER-procedures-q-261] A 70-year-old with dizziness. ECG shows constant PR interval with intermittent dropped beats. What is definitive management?
+    ANSWER: Pacemaker placement   (key D)
+[PEER-PHYS PEER-procedures-q-262] A 20-year-old athlete with cough, normal vitals. ECG shows progressive PR prolongation with dropped beat. What is the appropriate management?
+    ANSWER: No treatment   (key D)
+[PEER-PHYS PEER-procedures-q-263] An 80-year-old man with P 37. ECG shows P waves regular at faster rate than QRS complexes, complete dissociation. What is the interpretation?
+    ANSWER: Third-degree heart block   (key D)
+[PEER-PHYS PEER-procedures-q-264] A 60-year-old with lung cancer and SOB, BP 75/60, P 130, JVD, muffled heart sounds, clear lungs. Which finding on bedside echo would you expect?
+    ANSWER: Right atrial compression   (key D)
+[PEER-PHYS PEER-procedures-q-265] A 65-year-old with dyspnea, asthma, stage IV ovarian cancer. Decreased breath sounds on right, dullness to percussion. Bedside US shows pleural effusion. What is the appropriate treatment?
+    ANSWER: Thoracentesis   (key C)
+[PEER-PHYS PEER-procedures-q-266] What is a contraindication to ultrasound-guided thoracentesis?
+    ANSWER: Skin infection overlying the site   (key D)
+[PEER-PHYS PEER-procedures-q-267] A patient with hemopneumothorax after penetrating trauma. Chest tube placed but persistent air leak despite proper connections. What is the most likely cause?
+    ANSWER: Underlying injury to the lung parenchyma   (key D)
+[PEER-PHYS PEER-procedures-q-268] A 19-year-old from burning building, GCS 7, intubated. Full-thickness burns over 80% of body (excluding face and hands). Becomes increasingly difficult to ventilate with equal breath sounds, normal CXR. What is the best next step?
+    ANSWER: Prepare the patient for escharotomy   (key C)
+[PEER-PHYS PEER-procedures-q-269] What is the most appropriate technique for incision and drainage of a felon?
+    ANSWER: Make a longitudinal incision over the area of fluctuance   (key D)
+[PEER-PHYS PEER-procedures-q-270] A 25-year-old with left index finger pain after striking with a hammer. Tenderness of distal phalanx and large area of darkening below intact nail. What is the best next step?
+    ANSWER: Perform trephination of the nail plate   (key B)
+[PEER-PHYS PEER-procedures-q-271] Which closure technique provides the greatest tensile strength in a wound located over a joint?
+    ANSWER: Sutures   (key C)
+[PEER-PHYS PEER-procedures-q-272] A 32-year-old woman after stepping on a rusted nail. Last tetanus 6 years ago; all childhood vaccines. After dressing and antibiotics, what is the next step?
+    ANSWER: Administer tetanus toxoid   (key C)
+[PEER-PHYS PEER-procedures-q-273] A 65-year-old man with nosebleed, on warfarin (INR 4). What is the most appropriate initial step?
+    ANSWER: Apply compression to the anterior nares   (key C)
+[PEER-PHYS PEER-procedures-q-274] What is the most appropriate initial treatment for epistaxis in a pediatric patient?
+    ANSWER: Pinch nostrils closed for 10 minutes   (key C)
+[PEER-PHYS PEER-procedures-q-275] What is the source of most epistaxis episodes?
+    ANSWER: Kiesselbach plexus   (key B)
+[PEER-PHYS PEER-procedures-q-276] What is the most common cause of epistaxis in adults?
+    ANSWER: URI   (key C)
+[PEER-PHYS PEER-procedures-q-277] Which patient is most likely to require admission for epistaxis?
+    ANSWER: Patient with sleep apnea and posterior epistaxis with posterior packing placed   (key D)
+[PEER-PHYS PEER-procedures-q-278] When draining a peritonsillar abscess, what is the first structure that might be injured if the typical approach goes too far posteriorly?
+    ANSWER: Carotid artery   (key A)
+[PEER-PHYS PEER-procedures-q-279] What is the optimal airway technique for use in patients with cervical spine injuries?
+    ANSWER: Hyperangulated-geometry video laryngoscopy   (key C)
+[PEER-PHYS PEER-procedures-q-280] In preparation for intubating a 1-year-old child via direct laryngoscopy, what strategy should be used?
+    ANSWER: Straight blade instead of curved   (key C)
+[PEER-PHYS PEER-procedures-q-281] A 16-year-old with eye pain and worsening vision after being struck in the face. Eyeball protruding, bloody; IOP 45 mm Hg. Ophthalmologist unavailable for 1 hour. What is the best next step?
+    ANSWER: Prepare to perform lateral canthotomy   (key D)
+[PEER-PHYS PEER-procedures-q-282] A 23-year-old with proptosis of the left eye after basketball injury. Decreased vision. What is the best treatment in the ED?
+    ANSWER: Perform a lateral canthotomy   (key D)
+[PEER-PHYS PEER-procedures-q-283] Which finding on slit-lamp examination suggests traumatic iritis?
+    ANSWER: Small floating flecks visible in the anterior chamber   (key D)
+[PEER-PHYS PEER-procedures-q-284] An emergency resident is using the slit lamp to evaluate eye redness. Blue light with narrow beam is used. Which part should be adjusted to make the beam wider?
+    ANSWER: Letter 'B'   (key B)
+[PEER-PHYS PEER-procedures-q-285] A 65-year-old woman with headache, left eye pain, vision loss. Hazy cornea, mid-dilated unreactive pupil. Which test will confirm the diagnosis?
+    ANSWER: Tonometry   (key D)
+[PEER-PHYS PEER-procedures-q-286] A 32-year-old after getting a tooth knocked out 30 minutes ago. Brought intact tooth in milk. Small clot in socket. What is the best next course of action?
+    ANSWER: Gently irrigate the socket   (key C)
+[PEER-PHYS PEER-procedures-q-287] A 24-year-old with red painful eye. Foreign body in the cornea. What is the best next step?
+    ANSWER: Attempt to remove the object with a moistened cotton applicator   (key A)
+[PEER-PHYS PEER-procedures-q-288] What is the minimum PPE required when performing a physical examination for a patient with suspected disseminated herpes zoster?
+    ANSWER: Gloves, gown, and N95 or higher-level respirator   (key B)
+[PEER-PHYS PEER-procedures-q-289] A physician's blood gets into eye. Patient denies HIV risk factors; rapid HIV antibody negative. What is the recommended course of postexposure prophylaxis?
+    ANSWER: No postexposure prophylaxis is indicated   (key C)
+[PEER-PHYS PEER-procedures-q-290] What is the strongest contraindication to arthrocentesis?
+    ANSWER: Suspected cellulitis overlying the arthrocentesis site   (key B)
+[PEER-PHYS PEER-procedures-q-291] A 28-year-old with closed tibia fracture, anterior compartment pain, tense. Which BP and compartment pressure would most likely warrant fasciotomy?
+    ANSWER: BP 80/60; compartment pressure 32 mm Hg   (key A)
+[PEER-PHYS PEER-procedures-q-292] Which immobilization method is indicated for a nondisplaced scaphoid fracture?
+    ANSWER: Short arm thumb spica splint   (key C)
+[PEER-PHYS PEER-procedures-q-293] A patient with right arm held in fixed abducted overhead position after high-speed MVC. No fracture on x-ray. What is the correct diagnosis and management?
+    ANSWER: Inferior dislocation of the glenohumeral joint requiring reduction   (key A)
+[PEER-PHYS PEER-procedures-q-294] A plaster splint is being applied for a distal tibia fracture. How many layers of plaster should be used?
+    ANSWER: 8 to 12 layers   (key C)
+[PEER-PHYS PEER-procedures-q-295] A patient is discharged with a newly placed volar splint for a metacarpal fracture. What should they be instructed to do first at home if they experience finger swelling, numbness, or tingling?
+    ANSWER: Remove the elastic bandage on the outside and rewrap more loosely   (key D)
+[PEER-PHYS PEER-procedures-q-296] A patient after a fall onto an outstretched hand has scaphoid tenderness but negative wrist x-ray. How should this patient be managed?
+    ANSWER: Apply a thumb spica splint   (key A)
+[PEER-PHYS PEER-procedures-q-297] A patient with hand pain. X-ray shows 5th metacarpal fracture (boxer's fracture). What type of splint should be placed?
+    ANSWER: Ulnar gutter   (key D)
+[PEER-PHYS PEER-procedures-q-298] A sugar tong splint is placed on a patient with an arm injury. What is the most likely fracture this patient sustained?
+    ANSWER: Colles fracture   (key A)
+[PEER-PHYS PEER-procedures-q-299] A 30-year-old after falling on elbow, x-ray shows olecranon fracture. What is the most appropriate management?
+    ANSWER: Long arm posterior splint   (key C)
+[PEER-PHYS PEER-procedures-q-300] A 45-year-old after fall with right ankle deformity. X-ray shows trimalleolar fracture with dislocation. After reduction, what is the most appropriate immobilization?
+    ANSWER: Posterior ankle splint with stirrup   (key D)
+[PEER-PHYS PEER-procedures-q-301] A patient with wrist pain. X-ray shows nondisplaced capitate fracture. What type of splint should be placed?
+    ANSWER: Volar short arm splint   (key D)
+[PEER-PHYS PEER-procedures-q-302] A 30-year-old with elbow and forearm pain after bicycle crash. X-ray shows comminuted proximal ulna fracture and anteriorly dislocated radial head. What is proper management?
+    ANSWER: Emergent orthopedic consultation for surgical management   (key A)
+[PEER-PHYS PEER-procedures-q-303] A football player lying prone cannot move legs. What is the best way to immobilize and protect this player's spine?
+    ANSWER: While maintaining C-spine control, logroll the player into a supine position directly onto a spine board   (key D)
+[PEER-PHYS PEER-procedures-q-304] What lumbar interspace level should be used when performing a lumbar puncture on an infant?
+    ANSWER: L4-L5   (key D)
+[PEER-PHYS PEER-procedures-q-305] What is the correct maneuver to resolve shoulder dystocia during delivery?
+    ANSWER: Suprapubic pressure   (key C)
+[PEER-PHYS PEER-procedures-q-306] During which of the cardinal movements of labor is it appropriate to check for a nuchal cord?
+    ANSWER: External rotation of the fetal head   (key C)
+[PEER-PHYS PEER-procedures-q-307] How should the umbilical cord in a newborn be managed for most US hospital-based births?
+    ANSWER: Utilize dry umbilical cord care after the cord has been cut   (key D)
+[PEER-PHYS PEER-procedures-q-308] What is the next best step in the management of an infant with omphalitis?
+    ANSWER: Administer parenteral antibiotics   (key B)
+[PEER-PHYS PEER-procedures-q-309] An infant presents with omphalitis and history of recurrent infections. What is the most likely underlying condition?
+    ANSWER: Leukocyte adhesion deficiency   (key C)
+[PEER-PHYS PEER-procedures-q-310] An infant with fecal discharge from the umbilicus. What is the most likely diagnosis?
+    ANSWER: Omphalomesenteric fistula   (key C)
+[PEER-PHYS PEER-procedures-q-311] Which infant clinical presentation warrants urgent surgical consultation?
+    ANSWER: Induration of umbilical stump and abdomen   (key C)
+[PEER-PHYS PEER-procedures-q-312] A 36-week pregnant woman in cardiac arrest. Fundal height near xiphoid. What type of abdominal incision for emergency cesarean delivery?
+    ANSWER: Midline abdominal incision   (key C)
+[PEER-PHYS PEER-procedures-q-313] During the physical examination of a female sexual assault victim, what is the most likely injury?
+    ANSWER: Posterior fourchette   (key C)
+[PEER-PHYS PEER-procedures-q-314] When obtaining a history from a reported sexual assault victim, on which element of the history should the emergency department avoid focus?
+    ANSWER: Details leading up to the assault   (key C)
+[PEER-PHYS PEER-procedures-q-315] After a sexual assault examination is completed, how should the evidence be handled until it can be transferred to police?
+    ANSWER: Store in a locked enclosure   (key C)
+[PEER-PHYS PEER-procedures-q-316] What testing should be routinely performed after sexual assault of a female patient?
+    ANSWER: Pregnancy   (key C)
+[PEER-PHYS PEER-procedures-q-317] What is the most common complication of prolonged restraint use?
+    ANSWER: Abrasions   (key A)
+[PEER-PHYS PEER-procedures-q-318] Which finding most suggests delirium as a cause of agitation?
+    ANSWER: Altered awareness   (key A)
+[PEER-PHYS PEER-procedures-q-319] A 6-year-old with autism spectrum disorder is brought in for violent behavior. Visibly upset, attempts to strike staff. What is the best next step?
+    ANSWER: Have caregiver attempt to soothe child   (key B)
+[PEER-PHYS PEER-procedures-q-320] Autistic children have an elevated risk of having what other concomitant disease?
+    ANSWER: Epilepsy   (key B)
+[PEER-PHYS PEER-procedures-q-321] A 9-month-old with epilepsy presents in status epilepticus. Multiple admissions for same. Neuroimaging normal. Undetectable antiepileptic medication. Which form of child abuse?
+    ANSWER: Medical neglect   (key B)
+[PEER-PHYS PEER-procedures-q-322] A 6-month-old with 22q11.2 microdeletion (DiGeorge syndrome) presents with seizures. Afebrile. Which electrolyte abnormality should be evaluated?
+    ANSWER: Hypocalcemia   (key C)
+[PEER-PHYS PEER-procedures-q-323] What consideration should be made when caring for an autistic child in the emergency department?
+    ANSWER: Dim the lights   (key B)
+[PEER-PHYS PEER-procedures-q-324] A 68-year-old with lower abdominal pain and distended abdomen, unable to void for 6 hours. US shows enlarged bladder with 250 mL. 14 Fr Foley fails. What catheter next?
+    ANSWER: Coudé catheter   (key C)
+[PEER-PHYS PEER-procedures-q-325] A 75-year-old with BPH unable to urinate. Suprapubic catheter placed, 1.2 L output. What is the next best step?
+    ANSWER: Observe patient for at least 4 hours   (key D)
+[PEER-PHYS PEER-procedures-q-326] When obtaining a cystourethrogram in an adult patient with pelvic trauma, what volume of contrast medium must be instilled into the bladder to prevent a false-negative evaluation?
+    ANSWER: 400 mL   (key B)
+[PEER-PHYS PEER-procedures-q-327] An 18-year-old with testicular pain after bicycle riding. US shows no blood flow to right testicle. What is the correct initial technique?
+    ANSWER: Laterally rotate the patient's right testicle   (key B)
+[PEER-PHYS PEER-procedures-q-328] Terrorist attack with unknown chemical powder. Patients arrive with respiratory symptoms. What should be the first step?
+    ANSWER: Remove all contaminated clothing   (key C)
+[PEER-PHYS PEER-procedures-q-329] A patient after exposure to an alkaline chemical to the eye. After 30 minutes of irrigation with water, what is the next best step?
+    ANSWER: Measure pH of the eye   (key C)
+[PEER-PHYS PEER-procedures-q-330] Which characteristic would be considered abnormal in a patient undergoing an ultrasound for abdominal pain?
+    ANSWER: A gallbladder wall thickness of 4.3 mm in a 50-year-old   (key D)
+[PEER-PHYS PEER-procedures-q-331] A 29-year-old after rollover MVC. FAST shows anechoic fluid above the diaphragm. How should these results be interpreted?
+    ANSWER: Hemothorax   (key C)
+[PEER-PHYS PEER-procedures-q-332] According to the principles of ALARA (as low as reasonably achievable), which ultrasound function has the highest risk of potential harm?
+    ANSWER: Doppler on early gestation fetus   (key C)
+[PEER-PHYS PEER-procedures-q-333] Using the principle of ALARA, what is the best example of its application in ocular ultrasound?
+    ANSWER: Utilize an ocular preset   (key D)
+[PEER-PHYS PEER-procedures-q-334] A 78-year-old with severe abdominal pain. POCUS of the abdominal aorta shows contained pseudoaneurysm and dissection flap. What is the next best step?
+    ANSWER: Consult vascular surgery emergently   (key B)
+[PEER-PHYS PEER-procedures-q-335] An 87-year-old with nausea, vomiting, and abdominal pain. POCUS shows dilated bowel loops with retrograde peristalsis. What is the most likely diagnosis?
+    ANSWER: Small bowel obstruction   (key D)
+[PEER-PHYS PEER-procedures-q-336] FAST examination shows fluid in Morison's pouch. What is the minimal amount of free fluid present in the abdomen?
+    ANSWER: 200 mL   (key C)
+[PEER-PHYS PEER-procedures-q-337] A cardiac arrest patient, 45 minutes CPR, ETCO2 <10. Cardiac US shows no activity. What is the best next step?
+    ANSWER: Cease resuscitation efforts; patient has a poor prognosis   (key B)
+[PEER-PHYS PEER-procedures-q-338] A 26-year-old pregnant woman with vaginal spotting. POCUS shows fetal pole with complex free fluid outside uterus. What is the best next step?
+    ANSWER: Consult OB emergently; ectopic pregnancy identified   (key A)
+[PEER-PHYS PEER-procedures-q-339] An 80-year-old with urinary retention. POCUS of bladder shows width and height but length not properly measured. What is the best approximation of bladder volume?
+    ANSWER: Not enough data   (key D)
+[PEER-PHYS PEER-procedures-q-340] An 86-year-old with tachycardia, hypotension, and erythematous swollen leg. POCUS shows gas and fluid in soft tissue. What is the best course for definitive treatment?
+    ANSWER: Surgery consultation for emergent operative intervention   (key D)
+[PEER-PHYS PEER-procedures-q-341] A patient with erythematous swollen painful knee. POCUS of knee shows effusion. What is the best next course of action?
+    ANSWER: Diagnostic arthrocentesis   (key B)
+[PEER-PHYS PEER-procedures-q-342] POCUS of arm for ultrasound-guided IV. Arrow points to thin-walled, nonpulsatile, collapsible structure. Cannulation will result in which outcome?
+    ANSWER: Venous blood return   (key D)
+[PEER-PHYS PEER-procedures-q-343] An emergent IJ central line. POCUS shows lung point. What is the best next step?
+    ANSWER: Emergent chest tube placement   (key A)
+[PEER-PHYS PEER-procedures-q-344] When attempting to place an ultrasound-guided IV, which location is the best target?
+    ANSWER: 'D'   (key D)
+[PEER-PHYS PEER-procedures-q-345] Which artery is the best cannulation target for arterial line placement?
+    ANSWER: Radial artery   (key A)
+[PEER-PHYS PEER-procedures-q-346] During CPR, TEE shows compressions over the LVOT. What is the best next step?
+    ANSWER: Reposition chest compression location   (key D)
+[PEER-PHYS PEER-procedures-q-347] A hypotensive patient. RUSH examination shows lung point. What is the best next step?
+    ANSWER: Perform needle chest decompression   (key D)
+[PEER-PHYS PEER-procedures-q-348] An unstable stab wound patient. eFAST shows fluid around the heart. What is the best next step?
+    ANSWER: Thoracotomy   (key D)
+[PEER-PHYS PEER-procedures-q-349] Which technique should be attempted first to remove a nasal foreign body without the use of restraints in a young pediatric patient?
+    ANSWER: Parent's kiss   (key D)
+[PEER-PHYS PEER-procedures-q-350] A woman with laceration to plantar foot. Swollen erythematous area. Bedside US shows hyperechoic structure in subcutaneous tissue. What is the best interpretation?
+    ANSWER: Retained foreign body   (key D)
+[PEER-PHYS PEER-procedures-q-351] A 24-year-old woman 4 hours after sexual assault requests evidence collection. Has not showered or changed clothes. What should be done with her clothing?
+    ANSWER: Place in a paper bag and give to law enforcement   (key A)
+[PEER-PHYS PEER-core-q-380] A medical student has developed a new blood test. 100 patients: 80 in pain, 20 pain-free. 60 with pain positive, 20 negative. 10 without pain positive. What is the sensitivity?
+    ANSWER: 0.75   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-001] A 13-year-old boy presents to the ED with a dislodged tooth. He reports that he fell off his bicycle 30 minutes prior to arrival and struck his face on concrete. His parent transported the tooth in a cup of milk and reports the patient lost all of his primary teeth by age 12. Physical examination shows an avulsed left maxillary central incisor without evidence of other injuries.
+    ANSWER: Reimplanting the tooth and splinting with wiring to the adjacent teeth   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-002] When should targeted temperature management (also known as therapeutic hypothermia) be initiated?
+    ANSWER: As soon as possible after achievement of return of spontaneous circulation   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-003] Which of the following central venous access sites is most preferable to obtain in a hypotensive patient with isolated abdominal and pelvic trauma, negative chest X-ray, and negative CT scan of the brain and cervical spine?
+    ANSWER: Right internal jugular   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-004] A 15-year-old boy presents to the ED with the sudden onset of severe left testicular pain beginning 3 hours ago. Physical examination reveals a high-riding, transversely oriented left testicle with absent cremasteric reflex. Point-of-care ultrasound confirms absent blood flow to the left testicle with a whirlpool sign.
+    ANSWER: Rotate the affected testicle laterally away from the midline until pain relief   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-005] A 68-year-old man with a history of long-standing hypertension presents to the emergency department by EMS for acute respiratory distress. His blood pressure is 205/100 mm Hg, heart rate is 130 bpm, respiratory rate is 38/min, and oxygen saturation is 82% on a nonrebreather mask that was applied by the nurse. On thoracic ultrasound of the bilateral anterior chest, you see the image above.
+    ANSWER: Begin noninvasive positive pressure ventilation   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-006] Which anatomic site of central venous access is associated with the lowest rates of bloodstream infection and thrombosis?
+    ANSWER: Subclavian vein   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-007] A previously healthy 45-year-old man presents to the emergency department for a wound check. He was bitten by a raccoon on a camping trip 4 days ago and went to an urgent care the following day, where he was given a dose of rabies vaccine because he had never been vaccinated for rabies before. Which of the following is the most appropriate postexposure prophylaxis regimen for this patient?
+    ANSWER: Human rabies immune globulin, a second dose of vaccine now, and health department follow-up for an additional two doses of the vaccine   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-008] Rigid chest syndrome is a noted adverse effect of which of the following medications?
+    ANSWER: Fentanyl   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-009] Which of the following is most consistent with a postdural puncture headache?
+    ANSWER: Worsens with coughing or straining   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-010] A patient with respiratory failure requires a surgical cricothyrotomy. Which of the following is the correct initial step in this procedure?
+    ANSWER: A 3–5 cm vertical skin incision should be made over the cricothyroid membrane   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-011] A student presents after unintentionally sticking his forehead with a pencil. A piece of the pencil tip is visible under the skin. Which of the following is recommended for removing the pencil tip?
+    ANSWER: Excise the material en bloc   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-012] A woman presents to the emergency department via EMS after she collapsed at a grocery store just prior to arrival. Her primary survey demonstrates oral secretions, agonal respirations, and absent central pulses. She has a palpable gravid uterus approximately 9 cm above the umbilicus. Which of the following is an indication for resuscitative hysterotomy?
+    ANSWER: Cardiac arrest for up to 4 minutes   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-013] A 7-year-old boy is brought to the emergency department for nausea and vomiting that started 5 days ago. His parent states the patient had a fever at home but is unable to keep acetaminophen and ibuprofen down. He does not have diarrhea or abdominal pain.
+    ANSWER: Initiate extracorporeal membrane oxygenation   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-014] An 27-year-old woman is being treated in the emergency department for syncope. She is 37 weeks pregnant. She suddenly loses pulses and CPR is begun. After 4 minutes, a perimortem cesarean section is performed, and a fetal breech presentation is encountered. Which of the following is the most appropriate next step?
+    ANSWER: Deliver the buttocks first   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-015] Which of the following is the recommended ratio of red blood cells to plasma to platelets that should be used to transfuse a child with massive hemorrhage?
+    ANSWER: 1:1:1   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-016] A 7-year-old boy presents with a severe allergic reaction. He is lethargic and hypoxic. On physical examination, his airway is completely occluded with soft tissue swelling and you are unable to bag mask ventilate. After performing a needle cricothyrotomy with a 16-gauge angiocatheter, which of the following is a method by which you can ventilate the patient?
+    ANSWER: Attach a 3.0 mm endotracheal tube cap to the angiocatheter and bag ventilate   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-017] A 67-year-old woman with an altered mental status requires rapid sequence intubation. On laryngoscopy, only the epiglottis and arytenoids are visible. What Cormack-Lehane grade is this view?
+    ANSWER: Grade 2   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-018] A 2-week-old girl presents with fever and lethargy. Which of the following represents the correct location for a lumbar puncture to be performed?
+    ANSWER: L4–L5 interspace   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-019] For which etiology of out-of-hospital cardiac arrest does induced hypothermia carry the best improvement in survival with good neurologic outcomes?
+    ANSWER: Ventricular fibrillation   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-020] A 65-year-old woman presents to the ED with a productive cough, fever, and shortness of breath. Her vital signs are T 103.9°F (39.9°C), HR 128 beats/minute, RR 32 breaths/minute, BP 89/45 mm Hg, and SpO2 79% on room air. She is placed on 6 L/minute nasal cannula, and her oxygen saturation improves to 85%. Chest X-ray demonstrates multifocal pneumonia.
+    ANSWER: Decrease fraction of inspired oxygen   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-021] A 4-year-old girl presents to the ED with septic shock from pyelonephritis. She was transferred from another facility, where she was given ceftriaxone and three 20 mL/kg boluses of normal saline. She has worsened en route and now has a heart rate of 190 bpm, blood pressure of 62/30 mm Hg, and capillary refill of 5 seconds. She is lethargic and apneic, needing bag-mask ventilation.
+    ANSWER: Epinephrine   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-022] A 67-year-old woman with a history of hypertension, diabetes mellitus, and COPD presents for evaluation of shortness of breath. Her vital signs include a T of 37.1°C, HR of 88 bpm, BP of 110/75 mm Hg, RR of 28/min, and SpO2 of 82% on 6 L nasal cannula. She is awake, alert, and speaking in sentences of three to four words. She has audible inspiratory and expiratory wheezing bilaterally.
+    ANSWER: Apply a high-flow nasal cannula   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-023] Which of the following should be considered when preparing to intubate a child?
+    ANSWER: The glottic opening in children is more anterior compared to that of adults   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-024] A patient presents in cardiac arrest with significant blunt chest and abdominal trauma after being involved in a motor vehicle collision. He is intubated, and resuscitation is begun by paramedics. On arrival he has no pulse, equal breath sounds with bagging, distended neck veins, muffled heart sounds, ecchymosis to his sternum, and no signs of active hemorrhage.
+    ANSWER: Diastolic collapse of the right heart   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-025] A 33-year-old woman presents to the ED by emergency medical services for minimal responsiveness. She was out with friends the night before and was found sleeping in a neighbor’s yard. Her vital signs are T 98.9°F (37.2ºC), BP 92/54 mm Hg, HR 145 bpm, RR 12/minute, and SpO2 97% on room air. Her eyes open to voice, she localizes to painful stimuli, and she is confused.
+    ANSWER: Tricyclic toxicity   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-026] A 28-year-old man with a history of dyslipidemia, gastroesophageal reflux disease, kidney stones, and opioid use disorder who currently takes buprenorphine presents to the ED with 2 days of left flank pain. He reports nausea, vomiting, gross hematuria, dysuria, and left lower quadrant abdominal pain.
+    ANSWER: Ketamine 15 mg IV   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-027] A patient with which of the following exposures can bypass standard decontamination in favor of rapid assessment of respiratory and hemodynamic stability?
+    ANSWER: Chlorine gas   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-028] A 2-year-old girl presents to the emergency department after a fall from a window. She has a Glasgow Coma Scale score of 3 and is undergoing emergent intubation in the ED. A cervical collar is in place. She has obvious right femur, left tibia, and left fibula fractures. Her left femur and right tibia intraosseous sites have failed or fallen out.
+    ANSWER: Femoral vein   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-029] A 9-month-old girl presents to the emergency department with status epilepticus. She received lorazepam via intramuscular injection twice from EMS without breaking her seizure. You are unable to establish IV access. The Broselow tape estimates her weight at 6 kg. You ask for an intraosseous needle. Your nurse asks what color cannula to use with the power driver.
+    ANSWER: Pink   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-030] Which one of the following additional mechanisms, besides decreasing metabolic demand and reducing free radical production, explains how targeted temperature management at 32–34°C treats reperfusion syndrome after pediatric cardiac arrest?
+    ANSWER: Decreasing apoptosis   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-031] A 24-year-old man presents to the ED due to a sore throat. Physical examination shows the findings above. Which of the following describes the appropriate procedural technique for the treatment of this patient’s condition?
+    ANSWER: Cut the distal 1 cm of an 18-gauge IV catheter and aspirate via the needle attached to a 10 mL syringe   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-032] A 14-year-old boy presents to the emergency department after a motorcycle collision. He is hemodynamically stable, and a large left pneumothorax is discovered on an X-ray. Which of the following is the correct step in the relief of this patient's pneumothorax and the placement of a chest tube in this patient using a blunt dissection technique?
+    ANSWER: Insertion of a finger through the tract into the pleural space   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-033] A 19-year-old man is brought in from a house fire. He has severe burns over a significant portion of his body. His right thigh has circumferential, full-thickness burns and no palpable pulse in the foot. Where should an escharotomy be performed?
+    ANSWER: Medial and lateral thigh   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-034] Which of the following is the correct location to perform an arthrocentesis of the ankle joint with the anteromedial approach?
+    ANSWER: Medial to the tibialis anterior tendon and directed toward the anterior edge of the medial malleolus   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-035] A 20-year-old man presents with a superficial laceration to the volar aspect of his forearm sustained after a piece of glass broke in his hand. There is no evidence of tendinous injury and his neurovascular exam is normal. Which of the following is the best suture type and size to use for repair of this patient’s laceration?
+    ANSWER: 4-0 polypropylene   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-036] A 2-year-old girl presents to the ED after her older brother witnessed her putting a small plastic toy in her nose. On physical exam, a round object is partially visualized in the left nare, causing complete obstruction of that nare. Which of the following is likely to be both the most successful and least invasive method for removal?
+    ANSWER: Positive pressure   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-037] A 4-month-old girl presents after being found unresponsive and apneic in a crib. EMS performed 25 minutes of high-quality CPR, endotracheal intubation, and epinephrine. She has good chest rise with ventilations, a functioning intraosseus line, and asystole on the monitor. After 10 minutes of additional ED resuscitation, the patient remains in asystole, with no reversible cause identified.
+    ANSWER: Termination of resuscitative efforts   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-038] A 2-year-old girl is undergoing procedural sedation in the ED for laceration repair. She receives ketamine 1.5 mg/kg IV. A few minutes into sedation, she develops increased respiratory effort with paradoxical chest movements and the capnography monitor waveform shown above. Which of the following is the most likely diagnosis?
+    ANSWER: Laryngospasm   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-039] A 66-year-old man presents to the ED with vomiting. He states he has not had a bowel movement or passed flatus in 2 days. Vital signs are within normal limits. Physical examination shows abdominal distention. Abdominal X-ray shows findings suspicious for a bowel obstruction, and a nasogastric tube is placed. Repeat abdominal X-ray is shown above.
+    ANSWER: Place the gastric tube to low intermittent suction   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-040] A 32-year-old man presents to the ED for right eye pain. He was cutting pieces of hard plastic for a crafting project when a shard landed in his eye. He describes a foreign body sensation in his lateral right eye. His exam shows intact extraocular movements and pupils that are equal, round, and reactive to light. A 2 mm circular foreign body is superficially embedded in his right lateral cornea.
+    ANSWER: Removal using a 25-gauge needle bevel up   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-041] A 16-year-old boy presents to the emergency department with a head injury after a fall from a moving vehicle. He seems unaware of his surroundings and does not localize to pain or voice, yet is agitated and intermittently struggling with the resuscitation team. There are no other obvious injuries, but he appears cyanotic.
+    ANSWER: Ketamine   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-042] A 55-year-old man presents to the ED in acute hemorrhagic shock after a rollover motor vehicle collision at highway speed. He was the unrestrained driver and was intubated on the scene for a Glasgow Coma Scale score of 4. On arrival to the ED, his BP is 87/54 mm Hg, HR is 139 bpm, his endotracheal tube is well positioned with equal bilateral breath sounds, his abdomen is distended and tense, and h …
+    ANSWER: Thrombocytopenia   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-043] Which of the following is the most common side effect of ketamine in the pediatric population?
+    ANSWER: Emesis   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-044] Which of the following patients would be the best candidate for inhalational anesthesia with nitrous oxide?
+    ANSWER: A 4-year-old boy with a mildly angulated distal radius fracture requiring reduction   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-045] A 4-year-old boy presents to the emergency department and is found to have supraventricular tachycardia. He is minimally responsive with a blood pressure of 60/30 mm Hg and a heart rate of 230 bpm. IV is difficult to obtain. What is the best next step?
+    ANSWER: Perform synchronized cardioversion   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-046] A 38-year-old woman presents to the emergency department with the chief concern of ankle pain. She missed the last step on her porch and twisted her ankle. She was immediately unable to walk and vomited when taking her “90 mg pain pill.” She did not hit her head during the fall. Her medical history includes hypertension, sleep apnea, and ovarian cancer.
+    ANSWER: Iatrogenic overdose of the mu-opioid receptors in the brainstem   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-047] A 45-year-old man presents with a painful erection for several hours. You suspect priapism and decide to perform an aspiration of the corpus cavernosum. Which is the correct location for needle insertion?
+    ANSWER: Proximal shaft, dorso-lateral surface   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-048] A 56-year-old man in cardiac arrest is brought to the ED by paramedics. He has hypertension, diabetes, chronic alcohol use, and gout. His initial glucose by EMS was 95 mg/dL. His initial rhythm in the ED is ventricular fibrillation. He is defibrillated with 300 J and converts to normal sinus rhythm with a pulse.
+    ANSWER: CT of the head   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-049] A 70-year-old woman with an unknown history presents to the emergency department with chest pain and shortness of breath. Her vital signs are significant for a heart rate of 120 bpm, blood pressure of 86/55 mm Hg, and respiratory rate of 26/min. Physical exam reveals jugular venous distension. A bedside ultrasound is performed and shown above.
+    ANSWER: Plethoric inferior vena cava   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-050] A 4-year-old boy presents to the ED with a skin laceration after failing to make the jump between the couch and a chair while playing. Which of the following injuries in this patient is most likely to have the best result from applying tissue adhesive alone?
+    ANSWER: Superficial facial laceration   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-051] A 33-year-old man with a known medical history of kidney transplant and currently on immunosuppressive therapy presents with a fever, chills, and rash, as seen above. It initially appeared as a painful redness on the chest before spreading over the entire body. Which of the following precautions is most appropriate?
+    ANSWER: Airborne   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-052] A 28-year-old G1P0 woman at 6 weeks gestation by her last menstrual period presents with vaginal spotting and mild lower abdominal cramping. Her vital signs are within normal limits, and a serum beta-human chorionic gonadotropin level is 2,100 mIU/mL. A transvaginal ultrasound is performed. What ultrasound finding is required to confirm a diagnosis of intrauterine pregnancy?
+    ANSWER: Yolk sac or fetal pole within a gestational sac   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-053] A parent calls the ED because their 14-year-old son sustained a right upper central incisor tooth avulsion approximately 5 minutes ago. According to the parent, the tooth is intact, with the periodontal ligament still present. They are en route to the ED and would like to know how to transport the avulsed tooth. Which of the following media is most appropriate?
+    ANSWER: Milk   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-054] Which of the following factors is a contraindication to performing arthrocentesis?
+    ANSWER: Overlying cellulitis   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-055] What is the maximum length of time allowed for a normal third stage of labor?
+    ANSWER: 30 minutes   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-056] Which of the following findings on end-tidal capnography is most suggestive of a return of spontaneous circulation?
+    ANSWER: Sudden increase in ETCO 2 concentration   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-057] Which of the following is a marker of a successful procedure after performing a lateral canthotomy and cantholysis?
+    ANSWER: Resolution of a previously detected afferent pupillary defect   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-058] A 53-year-old woman presents to the ED with left arm pain after falling onto a wooden coffee table, which broke. She has swelling and tenderness of the volar left forearm. Which of the following is initially most appropriate for locating a wooden foreign body in this patient?
+    ANSWER: Sonography   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-059] A 27-year-old healthy man presents to the ED after being poked in the eye playing basketball. He reports pain and blurry vision in his left eye. The exam is significant for conjunctival injection and decreased visual acuity to 20/200 from 20/20 in the painful eye. Slit lamp exam is performed with fluorescein staining, and pertinent findings are shown above.
+    ANSWER: Globe rupture   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-060] A 16-year-old girl with a history of an anomalous coronary artery that was repaired 2 weeks earlier presents to the emergency department with fever and chest pain. She experienced one episode of nonbilious, nonbloody vomiting and now reports dyspnea and cough. She is placed on a 15 L nonrebreather mask, with SpO2 of 98%. Her airway is patent.
+    ANSWER: Removal of pericardial fluid   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-061] A 71-year-old man with a history of diabetes and hypertension presents to the emergency department with epigastric discomfort. His T is 97°F (36.1°C), BP is 155/92 mm Hg, HR is 112 bpm, RR is 18/min, and SpO2 is 99% on room air. An ECG is performed, as seen above. Which of the following is the most appropriate management?
+    ANSWER: Aspirin, heparin, and cardiac catheterization   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-062] A 74-year-old woman presents to the emergency department following an episode of syncope. She reports no prodromal symptoms and was not confused upon awakening. While her lab tests are pending, she begins to have lightheadedness and chest pain. Her rhythm strip is shown above. Which of the following is the most appropriate next step in management?
+    ANSWER: Cardioversion   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-063] Which of the following endotracheal tube sizes is best for a 10-year-old child?
+    ANSWER: 6.0 cuffed endotracheal tube   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-064] An 18-month-old girl presents to the emergency department with altered mental status. She was acting normally this morning in her parent's care and went down for her morning nap as usual. Upon waking, she was limp and unable to hold her head up, so her parent called emergency medical services to bring her to the hospital. Due to the short transport time, no other interventions have been done.
+    ANSWER: Vital signs   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-065] A 3-year-old girl presents to the emergency department in septic shock after having an influenza-like illness for the last 2 days. Which of the following venous lines, if placed in this patient, will provide the fastest possible fluid flow rates?
+    ANSWER: A 20-gauge 1-inch peripheral venous catheter   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-066] A patient presents to the ED with a 1 cm laceration to the right lateral upper lip that encroaches on the vermillion border. Which of the following is the most appropriate method to anesthetize the laceration?
+    ANSWER: Infraorbital nerve block   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-067] A 72-year-old man presents to the ED in cardiac arrest. CPR is begun, and the ECG monitor shows ventricular fibrillation. Defibrillation is planned with a monophasic defibrillator. Which of the following represents the appropriate mode and energy for defibrillation of this patient?
+    ANSWER: Unsynchronized, 360 J   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-068] A 54-year-old man presents for evaluation of shortness of breath. He has a history of COPD, hypertension, coronary artery disease, diabetes mellitus, and previous coronary artery bypass grafting complicated by malignant hyperthermia. Continuous albuterol and ipratropium nebulizer treatment have not resulted in improvement.
+    ANSWER: Succinylcholine   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-069] A 2-year-old girl is brought to the emergency department because she is reluctant to move her left arm. Her parent reports that she had been pulled up from the floor by her wrist just prior to symptom onset. Vital signs include a temperature of 98.8°F, heart rate of 110 bpm, respiratory rate of 24/min, and blood pressure of 92/58 mm Hg. On exam, there is no swelling, erythema, or deformity.
+    ANSWER: Simultaneous supination and elbow flexion   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-070] Which of the following flow settings represents the most evidence-based starting point for high-flow nasal cannula therapy in a 4-month-old infant with bronchiolitis?
+    ANSWER: 2 L/kg/min   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-071] A 62-year-old foreign diplomat presents to your ambulance bay with sudden-onset muscle weakness, diarrhea, vomiting, and blurry vision. He was brought directly from the airport where he had been waiting for a flight. The patient had his normal breakfast at his hotel, and the only atypical event of the morning was when a person next to him at the airport spilled his apple juice onto the patient’s l …
+    ANSWER: Remove the patient’s clothing and irrigate his skin   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-072] A 72-year-old woman presents to the emergency department with a worsening fever and productive cough over 1 week. She is febrile and tachycardic with mild wheezing on examination. Her influenza swab is positive, and her chest radiograph shows a developing pneumonia. After beginning treatment, you decide to admit the patient to the hospital for further observation and treatment.
+    ANSWER: Droplet precautions   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-073] A 20-year-old man presents to the emergency department with blurred vision after blunt eye trauma. Which of the following findings on slit lamp examination would be most consistent with traumatic iritis?
+    ANSWER: Cell and flare with thin white light   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-074] A 14-year-old girl presents to the ED after a fall. She was texting while walking through the mall and tripped, falling onto a bench. She reports no loss of consciousness, headache, vision changes, dental trauma, or allergies. She sustained the laceration shown above. Which method of local anesthetic administration is the best option for this patient?
+    ANSWER: Infraorbital block   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-075] A 40-year-old man with a history of end-stage kidney disease and cirrhosis presents to the emergency department with fever and diffuse abdominal pain. His abdomen is distended and tender to palpation on examination. Laboratory evaluation is significant for an international normalized ratio of 2.3 and a platelet count of 27,000/mcL.
+    ANSWER: Immediate paracentesis   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-076] A 60-year-old man presents to the ED with progressive dyspnea and a nonproductive cough. He has a history of metastatic lung cancer. Chest radiograph reveals a large left-sided pleural effusion. During bedside ultrasound-guided thoracentesis, the physician notes sudden aspiration of air bubbles when inserting the needle at the seventh intercostal space. The patient reports no new symptoms.
+    ANSWER: Abort the procedure and obtain a chest radiograph   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-077] A term 20-day-old infant presents to the ED from urgent care for an abnormal ECG obtained for fussiness. His mother had routine prenatal care and states he has not had fever, is gaining weight, eating well without sweating or cyanosis, and making normal wet and dirty diapers. At this time, his symptoms have resolved. Your exam is unremarkable and his vitals are within normal limits for age.
+    ANSWER: Reassurance and discharge home   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-078] A 13-year-old boy presents to the emergency department with acute, severe lower abdominal pain and vomiting. On genitourinary exam, the patient has a raised and significantly tender left testicle and no cremasteric reflex. What maneuver is the most appropriate next step in management?
+    ANSWER: Medial to lateral rotation of the testis &gt; 360°   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-079] A 32-year-old man with no significant medical history presents with a 3-day history of a painful, enlarging boil on the lateral thigh. Physical exam shows a 4 cm erythematous, tender, fluctuant lesion without crepitus. A point-of-care ultrasound is shown above. Which of the following is the most appropriate approach in the management of this patient’s current condition?
+    ANSWER: Make a small linear incision through the point of maximal fluctuance, break up loculations, irrigate as needed, and leave open   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-080] A 57-year-old man presents to the ED via EMS after he sustained a witnessed cardiac arrest 20 minutes prior to arrival while in line at the grocery store. Bystanders immediately started chest compressions. Upon EMS arrival, the patient was found to be in ventricular tachycardia. He was defibrillated and given epinephrine, and chest compressions were continued as he was transported to the ED.
+    ANSWER: Return of spontaneous circulation   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-081] Which of the following findings on ocular ultrasound is most consistent with a vitreous hemorrhage?
+    ANSWER: Hyperechoic opacities scattered through the vitreous   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-082] A 49-year-old man presents with a right shoulder dislocation. You decide to sedate him with propofol for closed reduction. After propofol intravenous injection, the patient has delayed but purposeful responses to verbal commands accompanied by light tactile stimulation. Cardiovascular function is unchanged. Which of the following best describes this level of sedation?
+    ANSWER: Moderate   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-083] Which of the following is a contraindication to using ketamine?
+    ANSWER: History of schizophrenia   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-084] A 32-year-old G2P1 woman at 39 weeks gestation presents to the emergency department in active labor. During the second stage of labor, the fetal head delivers, but the shoulders fail to follow spontaneously, despite appropriate maternal pushing efforts. On examination, the fetal head appears to be fixed at the vaginal introitus. The fetal heart rate tracing is reassuring.
+    ANSWER: Suprapubic pressure   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-085] A 3-year-old boy presents to the ED with nausea, vomiting, and diarrhea for the past 36 hours. The parent reports that he has been unable to keep down any food or liquid for the last 12 hours. His temperature is 98.6°F (37°C), blood pressure is 80/40 mm Hg, heart rate is 145 bpm, respiratory rate is 24/min, and oxygen saturation is 98% on room air.
+    ANSWER: 10% dextrose 5 mL/kg (0.5 g/kg) IV as a bolus   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-086] A 3-year-old boy is brought into the ED by EMS after a witnessed cardiac arrest. Upon arrival at the scene, EMS personnel initiated pediatric advanced life support measures and began bag-mask ventilation. Which of the following represents the best next step in management?
+    ANSWER: Continue bag-mask ventilation for transport to the ED   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-087] A 16-year-old boy presents to the emergency department after colliding with his brother at home. He had immediate nasal swelling and brief epistaxis but no loss of consciousness. Your exam is unremarkable other than what is seen in the image above. Of the following, what is the most appropriate next step in management?
+    ANSWER: Incision, drainage, and packing of the septum   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-088] A 32-year-old woman with postpartum hemorrhage is receiving a massive transfusion. She has received 12 units of packed red blood cells, 12 units of fresh frozen plasma, and 2 units of platelets. Her ECG now shows a prolonged QT interval, and bedside echocardiogram shows decreased myocardial contractility despite adequate volume resuscitation.
+    ANSWER: Sodium citrate   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-089] An 8-year-old boy presents to the emergency department after suddenly collapsing at school. He arrives with emergency medical service personnel, who are performing chest compressions and ventilations through a supraglottic device, and he is apneic and pulseless. The patient has good chest rise and bilateral breath sounds with the supraglottic device.
+    ANSWER: 1 ventilation every 2–3 seconds   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-090] A 14-year-old boy presents to the emergency department with a painful and swollen great toe. This is his third visit to the ED for the same concern. He has tried placing a cotton wedge and using dental floss to raise the nail after soaking his foot in warm water several times per day for the last 2 weeks without improvement.
+    ANSWER: Partial nail removal   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-091] Which of the following should be administered to a symptomatic 2-week-old infant with glucose of 25 mg/dL?
+    ANSWER: 2–5 mL/kg of 10% dextrose   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-092] A 50-year-old man with a history of tobacco use and stable angina presents to the emergency department for chest pain that began at rest and has not improved despite home aspirin and nitroglycerin administration. His vital signs and examination are unremarkable. ECG is shown above, and his initial troponin is undetectable.
+    ANSWER: Cardiology consultation and catheterization lab activation   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-093] Which of the following is the most appropriate location for large-bore chest tube placement?
+    ANSWER: Fourth intercostal space, midaxillary line   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-094] A patient with severe asthma presents by EMS for shortness of breath. He was intubated en route to the emergency department for impending respiratory failure. EMS reports progressive hypotension during transport. On arrival, the patient becomes pulseless. His rhythm is shown above. Which of the following medications is most likely to benefit this patient?
+    ANSWER: Epinephrine   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-095] Which of the following best indicates a patient has true labor instead of Braxton-Hicks contractions?
+    ANSWER: Cervical dilation and effacement with regular contractions   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-096] A 59-year-old woman who recently emigrated from India presents to the ED with 2 weeks of fevers, night sweats, and cough. A chest X-ray is shown above. Which of the following are the recommended precautions for this patient’s suspected diagnosis?
+    ANSWER: Airborne precautions   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-097] A 37-year-old man with morbid obesity and bilateral below-the-knee amputations presents with septic shock. Attempts at peripheral access are unsuccessful. Which is an appropriate site for intraosseous access?
+    ANSWER: Proximal humerus   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-098] A 19-year-old woman with a medical history of fibromyalgia and chronic back pain presents to the emergency department with fever, headache, and altered mental status. She was involved in a motor vehicle collision 2 days prior. Serum and urine studies are sent along with blood cultures. A noncontrast head CT is obtained and is unremarkable.
+    ANSWER: Lumbar vertebral fracture   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-099] Which of the following represents an appropriate indication for routine treatment with antibiotics following incision and drainage of a subcutaneous abscess?
+    ANSWER: Anogenital infection location   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-100] A 32-year-old man presents after a high-speed motor vehicle collision with sudden left-sided chest pain and shortness of breath. His vital signs are a T of 36.9°C (98.4°F), BP of 112/76 mm Hg, HR of 114 bpm, RR of 24/min, and SpO2 of 92% on room air. A portable chest X-ray is shown above. Which of the following is most likely to be seen on thoracic ultrasound?
+    ANSWER: Stratosphere sign   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-101] Which of the following findings on exam meets criteria for management with nail trephination?
+    ANSWER: 55% subungual hematoma with intact nail margins but no involvement of the lunula   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-102] Which of the following is a contraindication to intraosseous line placement?
+    ANSWER: Previous orthopedic surgery at the insertion site   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-103] A 27-year-old man is diagnosed with a large spontaneous pneumothorax. After the performance of a tube thoracostomy, what is the easiest way to check for an air leak?
+    ANSWER: Have the patient cough and look for bubbles in the water seal chamber   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-104] A 68-year-old man presents to the emergency department with a sudden painless loss of vision in his right eye. He began seeing small black dots in his right medial visual field 3 days ago. Today, he suddenly lost the inferior visual field in his right eye “like a curtain being pulled up.” He reports no pain with extraocular movements.
+    ANSWER: Retinal detachment   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-105] A 25-year-old man presents to the emergency department with a laceration to his right leg sustained yesterday while working on a construction site. He did not want to leave work at the time, so went home overnight and presents for evaluation this afternoon. He reports no other injuries. On his right lateral lower leg, he has a 5 cm laceration with surrounding dried blood.
+    ANSWER: Clean tap water   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-106] A 21-year-old man presents to the ED with sore throat, muffled voice, and difficulty opening his mouth. On physical exam, you note the above. What structure must be avoided in the treatment of this disease process?
+    ANSWER: Internal carotid artery   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-107] Which anatomic space is most likely to contain free fluid on an eFAST examination of a trauma patient?
+    ANSWER: Hepatorenal space   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-108] A 69-year-old woman with a history of heavy alcohol use presents with fever, dyspnea, and altered mental status. The family reports that she has been coughing for the last few days. On examination, she is febrile with a respiratory rate of 32/min, heart rate of 118 bpm, blood pressure of 106/59 mm Hg, and oxygen saturation of 82% on room air.
+    ANSWER: 300 mL   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-109] A 4-year-old child who was properly restrained in a major motor vehicle collision is almost ready for discharge from the ED. A full trauma evaluation revealed no major injuries other than a 4 cm contaminated laceration over his upper left arm. His guardian was also injured in the collision and is unable to provide information regarding the child’s immunizations.
+    ANSWER: Administer DTaP vaccine and tetanus immune globulin   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-110] Which of the following measurements can be used as a marker to assess for the presence of increased intracranial pressure?
+    ANSWER: Optic nerve sheath diameter   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-111] A 45-year-old man presents with septic shock, and a decision is made to place a triple-lumen central line. Which of the following formulas represents the correct approximate depth of placement?
+    ANSWER: Right internal jugular vein: height (cm)/10   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-112] An 8-year-old girl presents to the emergency department with right eye pain after hitting a low-hanging leafy tree branch while riding her bicycle. Which of the following may be interfered with by a fluorescein stain in this patient?
+    ANSWER: Inspecting the anterior chamber   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-113] Which of the following cerebrospinal fluid analyses is most consistent with viral meningitis?
+    ANSWER: WBC 425 cells/µL, glucose 75 mg/dL, protein 90 mg/dL   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-114] A 26-year-old man with no significant medical history presents with a painful erection that has been present for 4 hours. You decide to perform an aspiration. If the dorsal midline is considered to be 12 o’clock, which of the following is the best way to approach this procedure?
+    ANSWER: Aspirate at 10 or 2 o’clock   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-115] Which of the following is an indication for a resuscitative hysterotomy in a pregnant patient who loses a pulse?
+    ANSWER: Fundus at the level of the xiphoid   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-116] An 11-year-old boy presents to the emergency department after falling on his wrist in the playground. He has been crying, and the wrist appears swollen and deformed. Radiographs confirm displaced distal radial and ulnar fractures with angulation. You decide to attempt to reduce the fractures before splinting and referring to orthopedics.
+    ANSWER: Ketamine   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-117] A 20-year-old man is brought to the emergency department by police for violent and aggressive behavior. He is yelling and threatening the medical staff. He will not sit still for a physical examination. Which of the following is the most appropriate next step?
+    ANSWER: Remain calm and allow the patient to vent his feelings   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-118] A 72-year-old patient with COPD presents to the ED with significant respiratory distress requiring intubation. A postintubation arterial blood gas is obtained, revealing a pH of 7.10, PCO2 of 94 mm Hg, PO2 of 94 mm Hg, and SpO2 of 95%. Which of the following ventilatory changes should be considered first to improve this patient’s blood gas analysis?
+    ANSWER: Increasing the respiratory rate   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-119] A 62-year-old man presents with acute onset of chest pain with radiation to the shoulders and nausea while walking his dog. On examination, he is diaphoretic with HR 94 bpm, RR 20/min, BP 92/59 mm Hg, and SpO2 96% on room air. His ECG reveals 2 mm ST elevation in lead aVR with 1 mm ST elevation in lead V1 and ST depressions in leads I, II, and aVL.
+    ANSWER: Left main coronary artery   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-120] A 25-year-old man presents to the ED as the unrestrained front-seat passenger involved in a high-speed motor vehicle collision that resulted in significant front-end damage. The patient reports severe pelvic pain. His vital signs are within normal limits for his age. His pelvis is stable to bimanual internal compression. He has blood at the urethral meatus and suprapubic tenderness.
+    ANSWER: Retrograde urethrogram   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-121] Which of the following is the most appropriate location to perform a thoracentesis?
+    ANSWER: Posterior midscapular line in the eighth intercostal space   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-122] An 89-year-old man with chronic dementia, hypertension, diabetes, recent stroke, and congestive heart failure is brought to the emergency department from his nursing home because his recently placed percutaneous gastrostomy tube was inadvertently pulled out last night.
+    ANSWER: Admit to the hospital for intravenous antibiotics   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-123] A 74-year-old woman presents with right-sided epistaxis that started 1 hour ago. She is afebrile with a heart rate of 86 bpm and blood pressure of 150/90 mm Hg. After asking the patient to blow her nose and expel any clots, visualization of the right septum shows a small area of active bleeding. What is the next step in management?
+    ANSWER: Instillation of oxymetazoline spray and holding bilateral pressure on the nasal septum   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-124] A 45-year-old man with dialysis-dependent end-stage kidney disease and hypertension presents to the emergency department with shortness of breath and fatigue. He states he had missed a couple of dialysis appointments, and his symptoms started earlier today.
+    ANSWER: Needle insertion at left sternal border between fifth and sixth ribs   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-125] A 79-year-old woman is brought into the ED by her family for chest pain and diaphoresis. After being placed on the cardiac monitor, she develops wide complex tachycardia with no palpable pulse. Chest compressions are initiated, and she is defibrillated at 200 J. She is intubated for airway protection while cardiopulmonary resuscitation continues.
+    ANSWER: Lidocaine   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-126] A 30-year-old man with a history of daily alcohol use since age 15 presents with epigastric abdominal pain and vomiting. He has been vomiting for 2 days with an inability to keep anything down. Today he developed chest pain and palpitations, and he had a near syncopal episode. Vital signs show HR 104 bpm, BP 184/100 mm Hg, RR 16/min, T 37.1°C, and SpO2 99% on room air.
+    ANSWER: Hypomagnesemia   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-127] A 19-year-old man presents with a stab wound to the left chest. While he is being transferred to your stretcher, he loses his pulse. Which of the following is most likely to result in return of spontaneous circulation?
+    ANSWER: Resuscitative thoracotomy   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-128] A 65-year-old man presents to the emergency department after an assault. He takes warfarin for atrial fibrillation. He reports no loss of consciousness and only has severe right eye pain. His vital signs are within normal limits. There is significant right periorbital swelling and proptosis. His right pupil is dilated and nonreactive.
+    ANSWER: Emergent lateral canthotomy   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-129] A 35-year-old man is diagnosed with a right-sided peritonsillar abscess. Which of the following is a contraindication to performing drainage in the ED?
+    ANSWER: Severe trismus   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-130] A 14-year-old boy with a history of pacemaker placement for hypertrophic cardiomyopathy presents to the emergency department with fatigue and dyspnea. He appears pale and diaphoretic. His HR is 45 bpm and BP is 70/50 mm Hg. The patient’s rhythm strip is shown above. A chest radiograph shows displacement of the ventricular lead as compared to previous chest radiographs.
+    ANSWER: Apply transcutaneous pacing pads   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-131] A 65-year-old woman with a history of pulmonary hypertension presents to the ED via EMS with shortness of breath for 2 days. She has associated jugular venous distension, bilateral lower extremity edema, and abdominal distension. She is not having chest pain and has not had recent fever, cough, congestion, or rashes. She has been taking her bosentan as prescribed. Her initial ECG is shown above.
+    ANSWER: Right ventricular failure   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-132] A term infant presents limp and apneic after a precipitous delivery. Stimulation and bag-mask ventilation with 21% FiO2 is given. There is no chest rise and no respiratory effort. After repositioning the airway, there is still no chest rise or respiratory effort and the heart rate remains at 50 bpm. Which of the following is the best next step?
+    ANSWER: Perform endotracheal intubation   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-133] Which of the following scenarios is a cricothyrotomy relatively contraindicated in?
+    ANSWER: Fractured larynx   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-134] A 27-year-old gravid woman is brought in by EMS after a motor vehicle collision. On arrival, she loses her pulse. CPR is continued for 3 minutes, and the decision is made to proceed with a perimortem cesarean section. What abdominal incision is made?
+    ANSWER: Midline vertical   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-135] Which of the following is the most appropriate prescribing practice when initiating opioid therapy for acute pain in the emergency department?
+    ANSWER: Initiate therapy with immediate-release opioids to manage acute pain episodes   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-136] A 52-year-old man presents to the ED with left flank pain for the past 24 hours. He has a history of recurrent ureterolithiasis and says his current symptoms are similar. A point-of-care ultrasound image is shown above. Which of the following techniques can help to differentiate the diagnosis from normal renal anatomy?
+    ANSWER: Apply color flow Doppler to the hypoechoic areas   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-137] A 40-year-old man is brought to the ED after being assaulted during a bar fight. He has proptosis of the right eye with a measured intraocular pressure of 50 mm Hg. A lateral canthotomy is started. Once the Kelly clamp is released from the lateral canthus and the overlying tissue incised, what is the appropriate next step?
+    ANSWER: Cut the inferior crus of lateral canthal tendon   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-138] A 16-year-old girl presents to the emergency department with sudden onset of difficulty breathing. The history and physical is consistent with a spontaneous pneumothorax, which you confirm by a chest X-ray. You decide to place a thoracostomy tube, as the pneumothorax is large and the patient is in severe distress. You insert the tube at the fifth intercostal space along the midaxillary line.
+    ANSWER: Anteriorly and superiorly   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-139] A 47-year-old man with hypertension presents to the ED with persistent right eye pain and swelling after finishing antibiotics for an eye infection. His eye hurts when moved. He has right periorbital edema and erythema, pain on lateral gaze, a dilated nonreactive right pupil, and intraocular pressures of 42 mm Hg (right eye) and 12 mm Hg (left eye).
+    ANSWER: Emergent lateral canthotomy   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-140] An 8-year-old boy is brought in by his parents after they discovered a tick attached to his right armpit. What is the best way to remove the tick?
+    ANSWER: Grab the tick’s head with forceps and pull upward   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-141] A 57-year-old man with a history of morbid obesity, cirrhosis, hypertension, and COPD presents to the emergency department with confusion, cough, and hemoptysis. His oxygen saturation is 60% on room air and 100% on a nonrebreather. He does not respond to painful stimuli, and naloxone has no effect. The decision is made to intubate the patient.
+    ANSWER: Anticipated difficult airway   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-142] A 21-year-old woman presents with left shoulder pain and limited range of motion. Her examination reveals the left arm to be completely abducted with the elbow flexed and the hand behind her head. Which of the following maneuvers will bring therapeutic relief?
+    ANSWER: Upward (cephalad) axial traction   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-143] Which of the following is associated with an increased risk of postlumbar puncture headache?
+    ANSWER: Use of an 18-gauge needle   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-144] A 34-year-old man presents after a high-speed motor vehicle collision reporting severe right hip pain and inability to move the limb. His X-ray is shown above. Which of the following is the most appropriate reduction technique?
+    ANSWER: Allis technique   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-145] What is the likely diagnosis based on the above echocardiographic findings?
+    ANSWER: Pulmonary embolism   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-146] An 8-year-old boy presents to the emergency department with a facial laceration after a fall. He has a 2-cm linear laceration extending vertically through his left lower lip, crossing the vermilion border. Which of the following is the most appropriate method of analgesia for his repair?
+    ANSWER: Mental nerve block   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-147] A 27-year-old G2P1 woman at 39 weeks gestation with a history of obesity presents to the emergency department in active labor. The obstetrics team is paged, but the woman begins delivering. You direct her to push with contractions and deliver the baby’s head in an occiput-anterior position.
+    ANSWER: Instruct the mother to hyperflex her thighs against her abdomen   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-148] A 23-year-old man presents to the emergency department with shoulder pain after being tackled. A radiograph reveals an anterior shoulder dislocation. The patient is unable to undergo reduction without sedation. Propofol and fentanyl are given until the patient is adequately sedated. During the procedure, the above capnography waveform is seen. Which of the following is the most likely diagnosis?
+    ANSWER: Apnea secondary to oversedation   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-149] A 48-year-old man is pulled from a burning building and brought to the ED intubated for airway protection. The endotracheal tube is in good position and he has equal bilateral breath sounds. He has full-thickness burns circumferentially around his torso and all extremities. His ventilator settings include 100% FiO2 with a positive end-expiratory pressure of 15 cm H2O.
+    ANSWER: Perform thoracoabdominal escharotomy   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-150] A 24-year-old man is brought to the ED by EMS following a lengthy extrication from a severely damaged automobile that was hit at high speed by another vehicle just in front of his A pillar on the driver’s side, with passenger compartment intrusion of 14 inches. His primary concern is severe 10/10 left lower leg pain. Paramedics report that the patient has been hemodynamically stable.
+    ANSWER: Consult orthopedic surgery for compartment pressure measurements and acute fasciotomy   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-151] An 11-year-old boy who is 70 kg and has autism presents to the emergency department with a 5–6 cm anterior thigh abscess. He has had multiple abscesses in the past due to his behavioral and hygiene challenges. He is nonverbal. He has not had any fevers and is guarding the area. The initial exam is limited, as he is fearful, but not violent.
+    ANSWER: Ketamine 70 mg intravenously   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-152] An emergency physician is asked to provide telehealth medical assistance to a nonphysician advanced practitioner in a stand-alone rural ED. They are resuscitating an adult patient in cardiac arrest and request help for the patient’s airway due to low end tidal carbon dioxide readings despite ongoing high-quality chest compressions.
+    ANSWER: Place a supraglottic airway device and continue resuscitation efforts   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-153] What nerve runs along the lateral aspect of the left ventricular pericardium?
+    ANSWER: Phrenic   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-154] An electrocardiogram is obtained in triage in a hypotensive older patient. No further information is available. Which of the following medications is likely present at a toxic level?
+    ANSWER: Digoxin   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-155] A 4-year-old girl presents to the emergency department with purulent discharge from the nose for 1 week. On anterior rhinoscopy, you see the above image. What is the most appropriate next step in treatment?
+    ANSWER: Forceps removal of the object visualized on anterior rhinoscopy   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-156] A 45-year-old man with a history of chronic back pain presents to the emergency department with nausea, vomiting, and diarrhea. He is ultimately admitted to the emergency department observation unit for dehydration. He is on oral morphine 30 mg twice daily for his chronic back pain.
+    ANSWER: 10 mg   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-157] What can be done to help alleviate the most common complication of intraosseous line insertion and infusion in a pediatric patient?
+    ANSWER: Administer 2% lidocaine without epinephrine through the intraosseous line   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-158] A 3-year-old boy is undergoing procedural sedation in the ED for forearm fracture reduction. He receives ketamine 1.5 mg/kg IV for sedation. Shortly after becoming sedated, he suddenly develops respiratory distress with inspiratory stridor, absent air movement despite respiratory effort, and oxygen desaturation. Which of the following is the most appropriate initial management?
+    ANSWER: Apply positive pressure ventilation with 100% oxygen   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-159] Which of the following is the most appropriate management of a physician who intubated a patient later diagnosed with N. meningitidis meningitis?
+    ANSWER: Rifampin 600 mg twice a day X 4 doses   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-160] A 19-year-old man presents to the ED by ambulance after striking a car with his motorcycle. His vital signs are a BP of 85/55 mm Hg, HR of 140 bpm, RR of 20/min, and SpO2 of 98% on room air. 2 L of 0.9% saline are administered, and a repeat BP is 80/60 mm Hg. A focused assessment with sonography in trauma exam is performed, as seen above.
+    ANSWER: Exploratory laparotomy   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-161] Lumbar puncture is a frequently used technique in the emergency department, especially in infants who require workup for possible meningitis. Traditionally, the procedure takes advantage of a few anatomic landmarks for appropriate blind needle placement.
+    ANSWER: Ultrasonic confirmation of the location of interspinous spaces   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-162] A 22-year-old man is undergoing procedural sedation for a shoulder reduction. After the administration of fentanyl and midazolam, the patient is not easily aroused but responds purposefully to painful stimuli. What level of sedation has been achieved?
+    ANSWER: Deep sedation   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-163] A 2-year-old boy weighing 12 kg presents to the emergency department with a laceration on his finger after accidentally closing it in a door. Which of the following is the safest maximum dose of 1% lidocaine to use in this patient for regional or local anesthesia?
+    ANSWER: 4.8 mL   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-164] A patient presents in respiratory distress and is placed on noninvasive positive pressure ventilation. Despite maximizing settings, the patient remains hypercapnic, and the decision is made to intubate. On evaluation of the patient’s airway, there is visualization of the soft palate and the entirety of the uvula. Tonsillar pillars are not visualized. What is this patient’s Mallampati score?
+    ANSWER: Class 2   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-165] The following patients present to the ED for disruptive behavior. Which of them should be treated by immediate application of physical limb restraints?
+    ANSWER: A 15-year-old boy who found a scalpel in the room and is trying to cut his wrists   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-166] Which of the following findings would be expected on bedside echocardiography in a patient with cor pulmonale?
+    ANSWER: Right ventricular dilation   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-167] A thin 19-year-old woman presents to the ED with tinnitus and anxiety. She reports feeling overwhelmed as a college freshman and has been taking “a lot” of aspirin for daily stress headaches. She does not drink alcohol or use drugs. Her vital signs are T 99.4°F (37.4°C), RR 24/min, BP 105/68 mm Hg, HR 110 bpm, and SpO2 100% on room air.
+    ANSWER: Psychiatric screening examination   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-168] A 16-year-old boy presents to the emergency department with aggressive behavior. He is in four-point restraints, and the EMS team suspects drug use based on the environment of the call. The patient seems confused and disoriented, intermittently fighting his restraints. His heart rate is 170 bpm, blood pressure is 182/112 mm Hg, and temperature is 38.2°C.
+    ANSWER: Lorazepam   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-169] A 60-year-old man presents to the emergency department with confusion, dyspnea, and wheezing. He has a history of smoking and COPD and uses 5 L of oxygen at baseline. His T is 99°F (37.2°C), BP is 155/91 mm Hg, HR is 122 bpm, RR is 35/min, and SpO2 is 60% on room air. Bilateral wheezing with poor air movement is heard in all lung fields. The patient is intubated upon arrival.
+    ANSWER: Reduced tidal volume   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-170] A 50-year-old man is undergoing transvenous pacemaker placement for a high-grade atrioventricular block. When should the pacemaker’s balloon be inflated?
+    ANSWER: After inserting the pacer wire past the sheath introducer   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-171] A 67-year-old man presents to the ED with persistent heavy epistaxis for the past 2 hours despite nasal pressure and oxymetazoline spray. He has a history of hypertension and atrial fibrillation for which he takes warfarin. On exam, brisk bleeding is noted from both nares without a visible anterior source. The oropharynx shows a significant amount of blood dripping down the posterior pharynx.
+    ANSWER: Initiate nasal balloon catheter placement for posterior packing   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-172] Which of the following tests best differentiates a subarachnoid hemorrhage from a traumatic lumbar puncture?
+    ANSWER: Presence of xanthochromia   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-173] Which of the following is an indication for defibrillation?
+    ANSWER: Ventricular fibrillation   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-174] A 40-year-old woman with a history of hypertension on lisinopril presents for evaluation of bilateral jaw pain and an inability to close her mouth after she started eating dinner this evening. She has experienced similar episodes in the past. Her vital signs include a BP of 135/95 mm Hg, HR of 90 bpm, RR of 18/min, and SpO2 of 98% on room air.
+    ANSWER: Downward and posterior traction of the mandible   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-175] A 23-year-old man presents to the ED after getting into a fistfight with his friend. Examination shows a 4 cm laceration on the right side of his forehead. When asked to raise his eyebrows, he is only able to lift his left eyebrow. What is the most appropriate way to repair this wound?
+    ANSWER: Close with two layers of sutures   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-176] A 14-year-old boy presents to the emergency department with fever, headache, and lethargy. On physical examination he is febrile with nuchal rigidity and diffuse purpura. What universal precautions should be initiated given the most likely diagnosis?
+    ANSWER: Droplet precautions   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-177] A 54-year-old man presented to the ED in respiratory distress and was found to have septic shock secondary to multifocal pneumonia. He was intubated for hypoxemia and was hemodynamically stable until 30 minutes ago, when his SpO2 decreased suddenly to 85% with a BP of 90/45 mm Hg and HR of 120 bpm. He has bilateral coarse breath sounds, a midline trachea, and no jugular venous distension.
+    ANSWER: Bronchoscopy with airway suctioning   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-178] A 53-year-old man presents to the ED after being struck in his right eye while playing basketball. He has decreased vision and flashing lights in the affected eye. On exam, his extraocular muscles are functioning appropriately. The globe is normal in shape, and fluorescein staining is negative. You obtain an ocular ultrasound, as seen above. Which of the following is the most likely diagnosis?
+    ANSWER: Retinal detachment   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-179] A 16-year-old boy presents to the emergency department with a painful finger that was accidentally slammed in a car door. On exam, he has tenderness, swelling, and bruising under his right second fingernail. Which of the following is an indication for nail trephination?
+    ANSWER: Painful subungual hematoma with intact nail folds from an injury yesterday   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-180] You received a radio call from EMS that there was an industrial incident downtown, and multiple patients are imminently expected as a mass casualty. The team does not yet know what agent is involved, but patients are already presenting at the emergency department on their own.
+    ANSWER: Remove clothing and wash the faces   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-181] A patient with a history of COPD who is presently being treated for pneumonia presents to the ED after suddenly developing worsening chest pain and shortness of breath 6 hours prior to arrival. On exam, the patient is in moderate distress and appears anxious. In the ED, his vital signs are BP of 154/95 mm Hg, HR of 132 bpm, RR of 30/min, and SpO2 of 90% on room air.
+    ANSWER: Fourth or fifth intercostal space at the midaxillary line   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-182] In which of the following clinical situations would resuscitation with normal saline be preferable over Ringer lactate?
+    ANSWER: Traumatic brain injury   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-183] Which of the following is the most appropriate setting to defibrillate a pregnant patient in ventricular fibrillation?
+    ANSWER: 200 J biphasic   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-184] Which of the following is the likely treatment based on the above M-mode thoracic ultrasound finding?
+    ANSWER: Tube thoracostomy   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-185] On ultrasonographic examination, which of the following findings would most suggest a favorable site for needle insertion in paracentesis?
+    ANSWER: Anechoic pocket   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-186] What physiologic benefit does high-flow nasal cannula oxygen provide?
+    ANSWER: Improves carbon dioxide washout of physiologic dead space   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-187] A 72-year-old woman presents to the hospital in ventricular fibrillation cardiac arrest. She achieves return of spontaneous circulation after cardiopulmonary resuscitation and defibrillation but does not regain her mental status and is comatose. Which of the following would be recommended for postresuscitative care in this patient?
+    ANSWER: Obtain an electroencephalogram for seizures   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-188] A 60-year-old woman with a medical history of COPD presents to the emergency department with respiratory failure requiring intubation and mechanical ventilation. Her initial ventilator settings are an FiO2 of 60%, PEEP of 5 mm Hg, RR of 12/min, and TV of 6 cc/kg of ideal body weight.
+    ANSWER: Increase the tidal volume   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-189] What is the maximum dose of 1% lidocaine without epinephrine when used for local anesthesia?
+    ANSWER: 3–5 mg/kg, not exceeding 300 mg   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-190] A 28-year-old woman G2P1 at 39 weeks gestation presents in active labor. On examination, the fetal head appears retracted toward the perineum. Obstetrical backup is called. Which of the following is your next step in management?
+    ANSWER: McRoberts maneuver   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-191] Which of the following represents the preferred management of a severely painful thrombosed external hemorrhoid in the acute 48-hour setting?
+    ANSWER: Excision   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-192] A 44-year-old woman with a medical history of chronic tracheostomy and end-stage kidney disease presents with altered mental status and is critically ill. She was sent from her dialysis center after experiencing confusion upon completing her hemodialysis session. Her T is 38.8°C, HR is 110 bpm, and BP is 76/46 mm Hg despite a second fluid bolus of 500 mL.
+    ANSWER: Proceed with central line placement in the femoral vein   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-193] A 37-year-old man presents after being punched in the left eye. He reports decreased vision from that eye. The examination is notable for periorbital ecchymosis and edema. His eye is proptotic and he can minimally make out fingers waving in front of his eye. What is the appropriate next action?
+    ANSWER: Lateral canthotomy   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-194] Based upon randomized, double-blind trials and systematic reviews, how does the combination of ketamine and propofol (ketofol) compare to propofol alone for procedural sedation?
+    ANSWER: Ketofol produces comparable sedation and has potentially fewer adverse events of minimal clinical significance compared to propofol   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-195] What is the initial tidal volume setting for an intubated patient?
+    ANSWER: 6–8 mL/kg of ideal body weight   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-196] A 7-week-old boy presents to the emergency department with a rectal temperature of 39.1oC. He was born at term to a mother who was negative for group B Streptococcus and has no chronic medical problems. His delivery was uncomplicated, he has never been hospitalized, and he has not had any antibiotics since birth. He received his 2-month immunizations 2 days ago.
+    ANSWER: Suprapubic bladder aspiration   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-197] A 75-year-old man with a history of congestive heart failure presents with a cough and shortness of breath. His temperature is 99.5°F (37.5°C), blood pressure is 85/50 mm Hg, and heart rate is 98 bpm. He has rales on lung exam. Bedside ultrasound shows A-lines in the chest, and the right upper quadrant images are shown above.
+    ANSWER: Hydration with intravenous crystalloid   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-198] A 4-year-old previously healthy child presents to your emergency department in cardiac arrest. After 10 minutes of effective pediatric advanced life support interventions, including chest compressions, intubation and ventilation, and intravenous epinephrine, the patient has regained spontaneous circulation.
+    ANSWER: Hyperthermia   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-199] A 14-year-old boy presents to the ED with his parents for a finger injury. He states he slammed his finger in a car door and now reports severe throbbing pain under the nail of his thumb. Physical examination shows the findings above. X-rays are negative for bony abnormalities. Which of the following is the most appropriate next step in the care of this patient’s current condition?
+    ANSWER: Trephination using electrocautery   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-200] A 23-year-old presents with nontraumatic chest pain and severe shortness of breath. Vital signs show HR 133 bpm, BP 108/65 mm Hg, RR 30/min, and SpO2 90% on room air. A chest X-ray is shown above. Which of the following is the most appropriate next step in management?
+    ANSWER: Thoracostomy tube at the fifth intercostal space midaxillary line   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-201] When opening the pericardium during a resuscitative thoracotomy, care should be taken to avoid damaging the phrenic nerve. Where is the phrenic nerve located?
+    ANSWER: On the anterolateral aspect of the pericardium   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-202] In what order, from earliest to latest, are the following findings seen on transvaginal ultrasound in pregnancy?
+    ANSWER: Gestational sac, yolk sac, fetal pole   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-203] An 8-year-old boy presents after being run over by a vehicle. He has bruising across his abdomen and is unresponsive, cold, and hypotensive. During the first 30 minutes of his resuscitation, he is intubated and given multiple units of blood products. He remains cold and hypotensive. Which of the following tests best guides further blood product administration in this patient?
+    ANSWER: Rotational thromboelastometry   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-204] A 34-year-old man presents to the ED with dental pain involving tooth #1. Which of the following nerve blocks will provide the best analgesia?
+    ANSWER: Posterior superior alveolar   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-205] A 23-year-old man presents to the emergency department after a suicide attempt. The patient was standing on top of a bridge before being arrested and brought in by police. He punched two police officers in the face and was yelling prior to arrival. He is now sitting quietly on the stretcher in a room in the ED, refusing all further care.
+    ANSWER: Dim the lights, stand near the doorway, and ask the patient what brings them in   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-206] A 53-year-old man works as a metal fabricator in a local tool-and-die shop. While he was grinding a piece of iron, he felt something hit his eye. He flushed his eyes three times but still feels like there is something “in there.” Examination reveals severe left eye conjunctival injection, excessive tearing, and eyelid erythema.
+    ANSWER: Fluorescein   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-207] A 68-year-old man presents to the emergency department with chest pain and requires a transvenous pacemaker to support his rhythm and blood pressure. The patient’s transvenous pacer tracing is shown above. Which of the following is the most likely location of the transvenous pacer tip?
+    ANSWER: Ventricle   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-208] A 4-year-old boy presents with a facial laceration. He has been ill with an upper respiratory infection. Procedural sedation with ketamine is planned for his wound repair. Which of the following is a potential serious adverse reaction?
+    ANSWER: Laryngospasm   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-209] A 6-month-old girl presents to the ED after a return of spontaneous circulation. She presented to another hospital in cardiopulmonary arrest after asphyxia while cosleeping, where she was intubated without medications before transport. On arrival, the patient is unresponsive and sedated through a working IV while intubated but intermittently coughing through the endotracheal tube.
+    ANSWER: Withdraw the endotracheal tube to 11 cm   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-210] Which of the following best describes high frequency ultrasound transducers used for detecting soft tissue foreign bodies?
+    ANSWER: They are best at detecting shallow foreign bodies and have the highest image resolution   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-211] A 6-year-old girl presents to the emergency department with a fever, refusing to bear weight on her right leg. Her right knee is swollen, erythematous, and warm to the touch. Your team provides a procedural sedation and prepares for an arthrocentesis. Which of the following is the recommended approach for this procedure?
+    ANSWER: Anterolateral patellar approach directed toward the femoral notch   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-212] A 54-year-old man with a history of cirrhosis presents to the ED with progressive abdominal distension and shortness of breath. You decide to perform a diagnostic paracentesis. Where is the most appropriate location for needle insertion?
+    ANSWER: Left lower quadrant, 2–4 cm medial and cephalad to the anterior superior iliac spine   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-213] Which of the following is considered highest risk with regard to a needlestick injury?
+    ANSWER: Hollow bore needle tip with visible blood   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-214] A 35-year-old man presents after a fall from a 10-foot ladder. He reports abdominal pain. His BP is 112/60 mm Hg, HR is 98 bpm, and RR is 18/min. An extended focused assessment with sonography in trauma exam is performed and shown above. What is the best next step?
+    ANSWER: Obtain a CT scan of the chest, abdomen, and pelvis   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-215] A 35-year-old man presents with pain and swelling over the ulnar aspect of his right hand after punching a wall. His X-ray is shown above. What is the most appropriate initial immobilization method?
+    ANSWER: Ulnar gutter splint   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-216] A 32-year-old man presents with multiple lacerations to his bilateral upper extremities after falling onto a glass table. The patient weighs 80 kg. What is the maximum dose of 1% lidocaine solution with epinephrine that can be used for local anesthesia?
+    ANSWER: 50 mL   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-217] A 20-year-old man presents to the emergency department after trauma to the right eye. The right eye is proptotic with ecchymosis of both the upper and lower eyelids. Which of the following additional findings on physical examination would indicate the need for emergent lateral canthotomy?
+    ANSWER: Decreased visual acuity from baseline   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-218] Which of the following veins is most preferable to access during a peripheral venous cutdown in children?
+    ANSWER: Saphenous vein   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-219] Which of the following is best shown to improve neurologic outcomes after a return of spontaneous circulation in infants and adolescents who develop cardiopulmonary arrest?
+    ANSWER: Avoiding hyperoxia   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-220] A 47-year-old man presents with acute left leg pain after falling 15 feet from scaffolding. He is found to have comminuted left midshaft tibial and fibular fractures. He is splinted and given a dose of morphine. An hour later, he reports worsening left calf pain. On exam, he has tenderness to palpation of the calf with compressible fullness.
+    ANSWER: Compartment pressure measurement   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-221] A 25-year-old man presents to the emergency department with epistaxis from the right naris for the past 3 hours. He has no significant medical history and is otherwise healthy. His vital signs are within normal limits. The exam reveals bleeding from the right naris with no clear single area as the source of bleeding. Which of the following is the most appropriate initial step in care?
+    ANSWER: Irrigate the nares with oxymetazoline and apply a nasal clamp   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-222] An 82-year-old woman presents with right hip pain after a fall. An X-ray is shown above, confirming the diagnosis. The clinician has decided to perform a fascia iliaca compartment block. Between which two muscles should the block be performed?
+    ANSWER: Iliacus and sartorius muscles   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-223] Which of the following findings on lung ultrasound is most specific for a diagnosis of spontaneous pneumothorax?
+    ANSWER: Positive lung point sign   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-224] A fully vaccinated 4-month-old infant presents to the ED after a dog bite. The infant’s parents state that the dog became agitated after the infant picked up its toy and bit the infant’s arm. On examination, you see several puncture wounds on the left upper arm and a complex laceration on the infant’s face.
+    ANSWER: DTaP and tetanus immune globulin   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-225] An unknown-aged man presents to the ED via the paramedics after being shot in the right chest approximately 5 minutes prior to arrival. He is unresponsive and has a cardiac arrest upon arrival at the ED. He has a penetrating wound at the right costal margin. A left anterolateral resuscitative thoracotomy is performed.
+    ANSWER: Aortic root obliteration   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-226] A 34-year-old man is brought to the emergency department after an opiate overdose. He is apneic, unresponsive, and does not respond to naloxone. The decision is made to perform rapid sequence intubation. After administering intubation medications, the patient loses pulses. Pulseless electrical activity is noted on the cardiac monitor. Chest compressions are initiated.
+    ANSWER: Supraglottic airway   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-227] A 16-year-old boy presents with headache, cough, and slowly progressive difficulty breathing a few days after traveling from sea level to a camp above 4,000 m. He has diffuse crackles on lung exam. Which of the following findings is suspected on bedside lung ultrasound?
+    ANSWER: Presence of B-lines or comet-tail reverberation artifacts   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-228] A 12-year-old boy presents to the emergency department with dyspnea. He has been on amoxicillin for the last 10 days for the treatment of community-acquired pneumonia but has not seen much improvement in his symptoms. His SpO2 is 82% on arrival and only slightly improves with oxygen supplementation. His chest radiograph is shown above.
+    ANSWER: Removal of pleural fluid   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-229] A 14-year-old boy with a history of hypertrophic cardiomyopathy has a witnessed cardiac arrest while at baseball practice. He is immediately brought to an ED with cardiopulmonary resuscitation in progress. The medical center has extracorporeal membrane oxygenation expertise, equipment, and protocols in place.
+    ANSWER: Evidence is lacking to recommend for or against its use   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-230] What level does the spinal cord terminate in adults?
+    ANSWER: L1–L2   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-231] A 22-year-old man presents with a 2 cm laceration involving his right lateral ala and medial cheek after being hit with a hockey stick. Which of the following is the most appropriate method of anesthesia for wound repair?
+    ANSWER: Infraorbital nerve block   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-232] Which of the following is the surgical airway technique recommended for the emergency clinician in a 15-year-old boy with massive facial trauma who cannot be endotracheally intubated from above?
+    ANSWER: Bougie-guided cricothyrotomy   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-233] A 12-year-old boy presents with acute right testicular pain. He has no cremasteric reflex. If there are anticipated delays with urology, what procedure may be attempted by the clinician?
+    ANSWER: Medial to lateral rotation of the testis   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-234] What is the minimum beta-human chorionic gonadotropin level at which a gestational sac should be visible when using transvaginal ultrasound?
+    ANSWER: 1,500 mIU/mL   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-235] A 24-year-old woman presents after a sexual assault reporting rectal pain. She was unconscious during the event and does not recall all the details. Physical examination shows no visible perianal injuries. What is the best diagnostic intervention for this patient?
+    ANSWER: Anoscopy   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-236] A 56-year-old man presents to the ED with dyspnea. His medical history includes end-stage kidney disease, for which he attends hemodialysis three times weekly. Vital signs are within normal limits. A cardiac ultrasound is shown above. Which of the following is the most likely diagnosis?
+    ANSWER: Pleural effusion   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-237] A 27-year-old man is transferred to the ED from an urgent care clinic for a left peritonsillar abscess. He has trismus secondary to pain and the rest of his examination is consistent with a peritonsillar abscess. During needle aspiration, which of the following structures is at risk for injury?
+    ANSWER: Internal jugular vein   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-238] Which of the following has been shown to affect the incidence of postlumbar puncture headache?
+    ANSWER: Direction of the bevel of the needle at insertion   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-239] A 65-year-old woman who takes warfarin presents to the ED with epistaxis for the past hour. She has no other concerns and reports no trauma to the area. Her vital signs are normal. Physical examination reveals a small amount of blood leaking from the left naris with no single discrete or viewable bleeding vessel.
+    ANSWER: Place a balloon tamponade device   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-240] A 3-year-old boy presents to the emergency department after a dog bite. He tried to “ride” a new family dog while it was eating and it bit him on the head. He has a 1 cm gaping laceration to his scalp that is just through the dermis. You decide to treat with amoxicillin-clavulanic acid and prepare for wound closure.
+    ANSWER: Topical lidocaine-epinephrine-tetracaine   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-241] Which of the following may be employed to help a delivery complicated by shoulder dystocia?
+    ANSWER: Extreme lithotomy position   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-242] A 45-year-old man presents to the ED with alcohol intoxication. He is agitated, shouting at the staff, and not cooperating. Which of the following is the best initial approach in treating this patient?
+    ANSWER: Verbal de-escalation   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-243] Which of the following is the most common nerve injury associated with anterior shoulder dislocation and reduction?
+    ANSWER: Axillary nerve injury   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-244] On which surface of a joint are most arthrocenteses performed?
+    ANSWER: Extensor   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-245] A 2-year-old boy with failure to thrive presents after his gastrostomy tube has fallen out. His family started his overnight feed without trouble but found the tube out in the morning. It was placed by a pediatric surgery specialist 6 weeks ago using a 16 French 1.2 cm length low profile button. The family does not have a replacement yet, and one is not available in the ED stock.
+    ANSWER: Insert the largest fitting Foley catheter into the stoma   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-246] A 31-year-old woman with a history of factor V Leiden presents in extremis. She was involved in a low-speed motor vehicle collision. Her heart rate is 143 bpm, respiratory rate is 28/min, blood pressure is 90/60 mm Hg, and oxygen saturation is 91% on room air. EMS reports that upon arrival at the scene, she reported chest discomfort and shortness of breath that started prior to the collision.
+    ANSWER: Perform CPR without resuscitative hysterotomy if cardiac arrest occurs   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-247] A 52-year-old man with a history of longstanding alcohol use disorder is brought to the ED by his friend with hematemesis. Vital signs are BP 88/45 mm Hg, HR 122 beats/min, RR 16 breaths/minute, and SpO2 98% on room air. Which of the following will provide the best access for fluid resuscitation?
+    ANSWER: Antecubital 16-gauge angiocatheter   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-248] A 1-month-old girl weighing 4.5 kg presents to the emergency department with respiratory distress. During her evaluation, she is noted to have bilateral nasal rhinorrhea and severe retractions. She has multiple apneic events and desaturates to 75% on room air. The team decides to intubate with a 3.0-cuffed endotracheal tube, which is taped at 10.5 cm after confirming placement with capnography.
+    ANSWER: Adjust the endotracheal tube by pulling back 1 cm   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-249] What is the proper location to perform a thoracentesis to drain an effusion in an upright-sitting patient with relation to the most superior point at which dullness to percussion is identified?
+    ANSWER: One to two interspaces below the highest level of the effusion in the midscapular or posterior axillary line   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-250] A 36-year-old woman with a 37-week singleton high-risk pregnancy presents to the ED crowning. She tells you that her unborn son is suspected to have posterior urethral valves due to a distended bladder and hydronephrosis found on a second trimester ultrasound. Which of the following is the first piece of equipment you should prepare for this delivery?
+    ANSWER: Bag-valve mask for suspected respiratory distress   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-251] A 72-year-old woman presents to the ED with right knee swelling, stiffness, pain, and subjective fever. Her symptoms have developed and worsened over several days. She has no recent history of trauma to the area. Her medical history includes type 2 diabetes and previous right knee replacement due to osteoarthritis. She takes metformin and sitagliptin. On exam, her temperature is 101.8°F (38.8°C).
+    ANSWER: Septic arthritis   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-252] A 34-year-old man with no significant medical history presents to the ED with severe right lower leg pain after an injury at work yesterday. The patient reports that a forklift backed into him, pinning his right lower leg between the forklift and the wall. He was seen in the ED and diagnosed with a tibial fracture, splinted, and sent home.
+    ANSWER: Measurement of compartment pressures   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-253] A 45-year-old man presents with concern about a tick bite. He indicates he just arrived home from New York, and on the airplane, he noticed a tick on his leg. He reports no symptoms. He was hiking and camping while visiting his grandmother and only notes that he was outside gardening with her 2 days ago. He is concerned about Lyme disease because he has read about it in the newspaper.
+    ANSWER: Carefully remove the tick and treat with doxycycline before discharge   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-254] A 29-year-old man with a right hemopneumothorax undergoes tube thoracostomy with 250 cc blood drainage, but no respiratory fluctuation is noted. Repeat chest X-ray shows persistent hemothorax. What could explain this finding?
+    ANSWER: There is a blockage of the drainage tube   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-255] Which of the following is best shown to directly increase the success rates at first-pass endotracheal intubation in children in the ED?
+    ANSWER: Video laryngoscopy   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-256] A 19-year-old man presents to the emergency department with pain and swelling to his right ear. He was in an altercation 4 days ago. He had multiple blows to the right side of his head. On exam, he has some healing abrasions to the right side of his face and ecchymosis under the right eye without swelling.
+    ANSWER: Perform incision and drainage along the base of the hematoma and curvature of the auricle, close the wound, and apply a compressive dressing   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-257] A 3-day-old girl presents with decreased feeding and is found to be limp and minimally responsive. After intubation, at what rate should breaths be delivered?
+    ANSWER: 30–60 per minute   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-258] A primigravid 28-year-old woman with gestational diabetes presents to the emergency department in active labor. On initial examination, the fetal head can be seen in the birth canal, and attempts at delivery are begun. After delivery of the head, it retracts tightly on the mother’s perineum. Additional attempts to deliver the baby via downward traction are unsuccessful.
+    ANSWER: Hyperflexion of the mother’s thighs   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-259] A 71-year-old man presents to the ED reporting vague abdominal discomfort over the past 2–3 months that has worsened significantly in the past 4–5 days. His medical history includes a 40 pack-year smoking history and hyperlipidemia. Vital signs show a T of 96.8°F (36.0°C), BP of 138/84 mm Hg, and HR of 94 bpm. A point-of-care ultrasound image is shown above.
+    ANSWER: Obtain a CT angiography of the abdomen and pelvis and consult vascular surgery   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-260] An 18-year-old man presents to the ED with a 4 cm laceration to the right side of his chin. Which of the following nerve blocks is most appropriate?
+    ANSWER: A mental nerve block   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-261] A 3-year-old boy presents to the emergency department following a near-drowning event at home. Emergency medical services provide CPR en route with a return of spontaneous circulation. On arrival at the emergency department, EMS is delivering breaths using bag-mask ventilation. You intubate the patient. Which of the following represents the gold standard to confirm a successful intubation?
+    ANSWER: End-tidal carbon dioxide reading of 40 mm Hg   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-262] A 78-year-old woman presents with sepsis and requires central line placement. An ultrasound of the internal jugular vein is shown above. Which of the following is most likely to facilitate central line placement in this patient?
+    ANSWER: Trendelenburg position   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-263] In performing percutaneous transtracheal needle ventilation, at what angle should the needle be and in which direction should it be directed after locating the cricothyroid membrane?
+    ANSWER: 30-degree angle and directed caudally   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-264] A 68-year-old man with COPD presents to the ED with severe dyspnea. Vital signs are a T of 37.2°C (99.0°F), HR of 118 bpm, RR of 32/min, and SpO2 of 81% on a nonrebreather mask. He is alert but in significant respiratory distress, and the team is preparing for intubation. What is the best next step in management?
+    ANSWER: Initiate bilevel positive airway pressure   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-265] Which of the following patients is the best candidate for an ED thoracotomy?
+    ANSWER: A 45-year-old woman with a stab wound to her chest, with loss of vital signs 5 minutes into the initial resuscitation   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-266] A newborn infant has just been born to a 28-year-old primigravida mother at 39 weeks gestation via spontaneous vaginal delivery. Initially, the baby appears vigorous with good tone and cries spontaneously. The nursing staff quickly attends to the infant, ensuring a normal temperature. However, after a few seconds, the baby becomes apneic, and the heart rate is recorded at 65 bpm.
+    ANSWER: Positive pressure ventilation   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-267] A 24-year-old man is brought to the ED post motor vehicle collision. The primary survey is only remarkable for a tachycardic patient with rapid and weak distal pulses. The secondary survey is positive for a seatbelt sign over the left shoulder and across the lower abdomen. Vital signs show HR 130 bpm and BP 78/42 mm Hg. The FAST exam is shown above. What should be administered next?
+    ANSWER: 1:1:1 of packed red blood cells:fresh frozen plasma:platelets   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-268] What is the most common complication associated with intraosseous access?
+    ANSWER: Through-and-through cortical penetration   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-269] Which of the following maneuvers is recommended for delivery of the newborn during a spontaneous vaginal delivery complicated by shoulder dystocia?
+    ANSWER: Suprapubic pressure   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-270] What diagnosis is demonstrated on this transabdominal ultrasound?
+    ANSWER: Free pelvic fluid   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-271] A 3-year-old boy presents after a motor vehicle collision. Two attempts at a peripheral intravenous line have failed. Which of the following is an absolute contraindication for intraosseous line placement in the tibia?
+    ANSWER: Fracture of the tibia   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-272] A 35-year-old man presents with right ankle pain for 2 days. He reports associated fever and an inability to bear weight. On exam, his vital signs are T 38.6°C, HR 89 bpm, BP 110/80 mm Hg, and RR 20/min. His right ankle is swollen, erythematous, and diffusely tender, with a limited range of motion. You decide to perform an ankle arthrocentesis to evaluate for a septic joint.
+    ANSWER: Medial to the tibialis anterior tendon, directed toward the anterior edge of the medial malleolus   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-273] Which of the following ultrasound scan locations is most sensitive in the setting of acute trauma for identification of free fluid in the peritoneal cavity of an adult?
+    ANSWER: Hepatorenal window   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-274] A 51-year-old man with diabetes presents with left lower leg pain and swelling. Symptoms began 3 days ago. He reports no trauma. He smokes 1 pack of cigarettes daily and regularly takes all of his home medications. His vital signs are BP 143/88 mm Hg, RR 16/min, HR 98 bpm, T 100.4°F (38°C), and SpO2 99% on room air.
+    ANSWER: Cellulitis   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-275] Which of the following is a potential contraindication to performing a lumbar puncture?
+    ANSWER: Papilledema   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-276] A 39-year-old woman presents to the ED with sharp pain of the right lower second premolar (tooth #29). On exam, you note a dental cavity with no surrounding erythema or fluctuance. Which of the following nerve blocks is most appropriate for this patient?
+    ANSWER: Inferior alveolar nerve block   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-277] A boy born at term presents immediately after a precipitous meconium-stained delivery. He is crying with an oxygen saturation of 72% at 30 seconds of life and has a heart rate of 150 bpm. His mother needs more medical attention. Which of the following improves his chances of survival while you turn your attention to the mother?
+    ANSWER: Placing the infant in a warmer   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-278] What is the most common complication associated with intraosseous access placement?
+    ANSWER: Technical difficulties   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-279] Which of the following fetal heart rate findings is considered abnormal?
+    ANSWER: Late decelerations   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-280] A 4-month-old boy with a history of Pierre Robin sequence presents to the emergency department in respiratory distress secondary to bronchiolitis. The team makes the decision to intubate. Which physical exam feature found in this patient is most likely to lead to a difficult airway?
+    ANSWER: Small mandible   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-281] Which of the following is increased by delayed umbilical cord clamping after a precipitous delivery?
+    ANSWER: Neonatal iron stores   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-282] Which of the following anatomic targets is most appropriate for injection of an anesthetic when performing a fascia iliaca block to control pain in a patient with a hip fracture?
+    ANSWER: Deep to the fascia iliaca   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-283] A 30-year-old woman who is at 30 weeks gestation collapses in the ED waiting room, where she had initially presented for shortness of breath. She is unresponsive, pulseless, and apneic. CPR is initiated, and high-quality chest compressions and advanced cardiac life support are underway. After 2 minutes of resuscitation, there is no return of spontaneous circulation.
+    ANSWER: Perform a resuscitative hysterotomy   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-284] A 6-year-old girl presents to the ED in cardiac arrest. She has a history of developmental delay and seizure disorder. She is pulseless with a narrow-complex tachycardia on the monitor. Chest compressions are initiated, and an intraosseous line is placed. What is the next step in management?
+    ANSWER: Epinephrine 0.1 mL/kg of 1:10 ,000 (0.1 mg/mL) solution   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-285] An 11-year-old boy presents to the ED with sudden onset of right-sided scrotal pain upon awakening. His exam reveals marked tenderness and swelling of the right side of the scrotum. Which of the following maneuvers should be attempted at this time if surgical intervention is not an option?
+    ANSWER: Medial to lateral rotation of 360 degrees or more   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-286] A 25-year-old truck driver presents with a 1-day history of severe rectal pain. Your examination shows a large thrombosed external hemorrhoid. Which one of the following is the preferred initial treatment for this patient?
+    ANSWER: Elliptical excision of the thrombosed hemorrhoid   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-287] A patient with septic shock requires a central venous catheter insertion to begin vasopressor infusion. After the procedure, a chest X-ray is obtained and is shown above. Which of the following is the best next step in management?
+    ANSWER: Consult interventional radiology   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-288] Which patient is at the greatest risk for the most common acute complication associated with placement of a suprapubic catheter in the ED?
+    ANSWER: Patient with prior lower abdominal surgery   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-289] A 6-year-old girl presents to the ED with altered mentation. Her parents report that she has had a fever, headache, vomiting, and lethargy for 2 days, and just prior to arrival, they were unable to arouse her. She weighs 20 kg and has a temperature of 103.1°F (39.5°C), heart rate of 150 bpm, respiratory rate of 50/min, blood pressure of 55/30 mm Hg, and oxygen saturation of 78% on room air.
+    ANSWER: 2 mL of a 1:10,000 (0.1 mg/mL) solution   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-290] What three bony landmarks make up the appropriate location to perform an arthrocentesis of the elbow?
+    ANSWER: Lateral epicondyle, radial head, olecranon   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-291] Which of the following should be considered the lowest possible space to perform a thoracentesis to avoid injuring internal structures such as the liver, spleen, or diaphragm?
+    ANSWER: Between the 8th and 9th ribs   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-292] Which of the following characteristics of a pediatric airway is important to keep in mind when preparing for intubation?
+    ANSWER: A right mainstem intubation is common in pediatrics due to a shorter trachea   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-293] A 68-year-old man presents with chest pressure and lightheadedness. His heart rate is 160 bpm, respiratory rate is 22/min, blood pressure is 90/50 mm Hg, temperature is 98°F (36.6°C), and peripheral oxygen saturation is 99% on room air. His ECG is shown above. Which of the following is another effect of the causative agent?
+    ANSWER: Enhanced perception of yellow and green   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-294] A 26-year-old woman presents with a headache and bilateral blurred vision. A bedside ultrasound is performed. What is the upper limit of reference range for her optic nerve sheath diameter?
+    ANSWER: 5 mm   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-295] A 37-week pregnant woman presents to the emergency department in labor. She is having moderate contractions every 5 minutes and reports a gush of fluid at home 30 minutes prior to arrival. Which of the following findings on fetal heart rate monitoring would be consistent with intermittent head compression during labor?
+    ANSWER: Early decelerations   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-296] In which clinical scenario is ocular tonometry contraindicated?
+    ANSWER: A 49-year-old man with a penetrating injury to the globe   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-297] A 60-year-old man presents to the emergency department for 1 week of vision changes that have been progressing. He notes that he is seeing cobwebs float around his left eye and that they persist when he takes off his glasses. Visual acuity is 20/40 on the right and 20/70 on the left.
+    ANSWER: Vitreous detachment   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-298] A 50-year-old man presents to the emergency department with right ankle pain. He states he was playing soccer when he felt a sudden pain in his ankle. While examining his calf, when you squeeze the calf, the foot does not plantar flex. What is the most appropriate next step in management?
+    ANSWER: Place in a short leg splint in plantar flexion   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-299] A 25-year-old woman in cardiac arrest presents to the ED after a high-speed motor vehicle collision. Cardiopulmonary resuscitation has been ongoing for almost 5 minutes. There is no pulse on the first check in the ED. The patient has a gravid uterus that extends just under the sternum. Which of the following is the most appropriate next step in care?
+    ANSWER: Perform a vertical midline incision from the fundus to the pubis   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-300] A 12-year-old boy presents with his parent to the emergency department after sustaining a fall while playing soccer. There is no reported loss of consciousness, vomiting, vision changes, or seizure activity. The patient is alert and oriented and has no abnormalities on a neurologic exam. Physical examination is only notable for a 3 cm linear laceration 2 cm superior to the left eyebrow.
+    ANSWER: Supraorbital nerve block   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-301] A 60-year-old man presents to the emergency department with shortness of breath and chest tightness. A cardiac ultrasound is obtained and the parasternal long axis view is shown above. Which structure is indicated by the marker in the image?
+    ANSWER: Mitral valve   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-302] What is the appropriate dose of intramuscular epinephrine for a pediatric patient with anaphylaxis?
+    ANSWER: Epinephrine 1 mg/mL, 0.01 mL/kg   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-303] When is the carotid artery most likely to be inadvertently injured when performing needle aspiration of a peritonsillar abscess?
+    ANSWER: If the needle is directed posterolaterally   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-304] A 39-year-old woman presents to the ED with a stab wound to the right chest. Her vital signs are a BP of 95/55 mm Hg, HR of 144 bpm, RR of 26/min, and SpO2 of 91% on room air. Which of the following is a contraindication to chest thoracostomy tube placement?
+    ANSWER: No contraindications   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-305] You are performing a transurethral bladder catheterization of a 4-month-old uncircumcised boy with concern for a urinary tract infection. You retract the foreskin and clean the exposed portion of his glans with an antiseptic. Holding the penis perpendicular to the lower abdomen with your nondominant hand, you insert a 5 French catheter into the urethra.
+    ANSWER: Maintain traction on the penis while applying constant gentle pressure on the catheter   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-306] Which of the following values are needed to calculate an estimation of bladder volume using the ultrasound image above?
+    ANSWER: b, d, and a third measurement not seen in this view   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-307] A 68-year-old man presents with fever, neck pain, and altered mental status. Computed tomography scan shows no acute intracranial abnormality. A lumbar puncture is performed, yielding cloudy cerebrospinal fluid with an opening pressure of 22 cm H2O.
+    ANSWER: Bacterial meningitis   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-308] A 35-year-old man presents with right eye pain after drilling at his construction site 5 hours earlier. You note a metallic foreign body at the 3 o’clock position on the cornea and remove it using a 27-gauge needle. A rust ring is visible on the cornea. When is the most appropriate time to attempt rust ring removal?
+    ANSWER: 24 to 48 hours after development of the rust ring   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-309] A 62-year-old man with a history of cirrhosis and ascites presents with progressive abdominal distention and dyspnea and needs a large-volume paracentesis. Which of the following procedural techniques is more effective in reducing the risk of post-procedure ascitic fluid leakage from the puncture site?
+    ANSWER: Displacing the skin and subcutaneous tissue caudally before inserting the needle   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-310] A 24-year-old man has extensive burns across his chest from an explosion at a factory. He is intubated but remains difficult to ventilate. After confirmation of endotracheal intubation, which of the following is the next most important step in management?
+    ANSWER: Chest escharotomy   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-311] A 64-year-old man presents with floaters and flashes in his right eye. Visual acuity is normal, and there is no visual field deficit. What is the expected point-of-care ocular ultrasound finding if the diagnosis is posterior vitreous detachment?
+    ANSWER: A thin, mobile, hyperechoic membrane not attached to the optic disc   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-312] Health care clinicians should use a fit-tested N-95 mask when caring for a patient with which of the following illnesses?
+    ANSWER: Measles   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-313] A 56-year-old man presents to the ED after he sustained a chemical burn to his left upper extremity. Which of the following chemical burns is appropriate to treat by irrigation with water?
+    ANSWER: Hydrofluoric acid   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-314] A 44-year-old woman presents to the emergency department with a distal radius fracture after falling. Her arm is splinted, and she is feeling better but has ongoing pain. She has a history of seizures that were previously difficult to control but are now well managed with valproic acid.
+    ANSWER: History of seizures   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-315] A 90-year-old man is found unresponsive at home. In the ED, CPR is in progress. Point-of-care ultrasound using an M-mode subxiphoid view of the heart is shown above. What is the most likely cardiac rhythm on the ECG?
+    ANSWER: Asystole   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-316] A 67-year-old woman presents to the ED with a sudden-onset left-sided headache. She reports no recent trauma, fever, tinnitus, jaw claudication, or neck stiffness. She has no scalp tenderness or nuchal rigidity on examination. She has anisocoria, and her left pupil is 4 mm and minimally reactive to light.
+    ANSWER: Ocular tonometry   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-317] A 32-year-old man with a history of intravenous drug use presents with localized discomfort on the right upper arm. An ultrasound of the area is shown above. What is the most likely diagnosis?
+    ANSWER: Retained foreign body   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-318] A 50-year-old man presents to the ED following an alleged assault 30 minutes prior, during which he was struck repeatedly about the head and face. He states that he did not lose consciousness but reports blurry vision in his left eye and severe pain in and around it. He takes warfarin for atrial fibrillation but takes no other medications.
+    ANSWER: Immediate left lateral canthotomy and cantholysis   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-319] A man of unknown age presents by emergency medical services after a witnessed syncopal event. He is placed on a cardiac monitor with the rhythm shown above. He has no pulse and is unresponsive. Which of the following is the best next step in management?
+    ANSWER: Defibrillate at 200 J   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-320] A 4-year-old girl presents to the emergency department after being bitten in the face by a family dog. She has two linear but irregular and gaping lacerations on her left cheek. There is no evidence of eye or nerve injury. Which of the following is the most appropriate choice of suture material for wound closure in this patient?
+    ANSWER: Nylon   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-321] A healthy 40-year-old woman is intubated after sustaining head trauma in a motor vehicle collision. The patient is 5 feet (152 cm) tall and weighs 125 kg. Which of the following ventilator settings would be the most appropriate initial settings for this patient?
+    ANSWER: TV of 350 mL and RR of 12/min   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-322] Which of the following could make video laryngoscopy less effective than direct laryngoscopy for intubation?
+    ANSWER: Hematemesis   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-323] Which of the following interventions has the greatest likelihood of improving the outcomes in pediatric patients who experience cardiopulmonary arrest?
+    ANSWER: Improving recognition of a poor perfusion state   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-324] A 28-year-old man is intubated in the ED after sustaining multiple blunt injuries in a motor vehicle collision. He is expected to remain in the ED for an extended period due to a lack of available ICU beds. Which of the following is the most appropriate intervention to reduce his risk of ventilator-associated pneumonia?
+    ANSWER: Maintaining the head of the bed at 30–45 degrees   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-325] A 19-year-old woman with a history of asthma presents to the emergency department with a severe asthma exacerbation, needing intubation. Which of the following is the preferred induction agent for rapid sequence intubation in this patient?
+    ANSWER: Ketamine   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-326] A 4-month-old girl presents to the emergency department with difficulty breathing from severe bronchiolitis. She is somnolent with severe retractions and poor respiratory effort. During endotracheal intubation, she rapidly develops severe atelectasis. She initially has poor chest rise and poor air movement despite a confirmed appropriate tube position on X-ray.
+    ANSWER: Pressure-controlled ventilation with long inspiratory times, a low respiratory rate, and high positive end-expiratory pressure   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-327] Which of the following requires an emergent pericardiocentesis?
+    ANSWER: A small pericardial effusion, hypotension, right ventricle collapse, and an INR of 4.0   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-328] What is the most appropriate initial approach to a patient presenting to the ED after a sexual assault?
+    ANSWER: Obtain details of the event   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-329] A 72-year-old woman with a history of irritable bowel syndrome presents with worsening rectal pain over the past 2 days. She reports food aversion and constipation secondary to horrible pain. Her last colonoscopy was 2 years ago and revealed scattered diverticula and no polyps. She takes no other medicines besides a statin and baby aspirin.
+    ANSWER: Excision   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-330] Which of the following is seen in the complex above?
+    ANSWER: Epsilon wave   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-331] A resident physician presents after an occupational HIV exposure. Which of the following exposures is most likely to result in HIV transmission?
+    ANSWER: Hollow-bore 18-gauge needle with visible blood   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-332] A 19-year-old woman presents after a motor vehicle collision. She has a uterine fundal height of 30 cm. Immediately after arrival, the patient experiences a cardiac arrest. CPR is performed for a total of 4 minutes without a return of spontaneous circulation. What is the best next step in management?
+    ANSWER: A vertical incision from the sternum to the pubic symphysis should be made for delivery   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-333] A 19-year-old man with a history of asthma presents in respiratory distress and is intubated. He is estimated to weigh 70 kg. His ventilator settings include a tidal volume of 420 mL, respiratory rate of 12/min, positive end-expiratory pressure of 5 cm H2O, and FiO2 of 70%. Pulse oximetry shows a saturation of 94% on these settings.
+    ANSWER: Decreasing I:E ratio   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-334] A 5-year-old child presents to the emergency department with his parents after hitting his head on a table 30 minutes prior to arrival. His parents are holding a towel on the child's head to stop the bleeding. There was no loss of consciousness, and the child is acting himself. Vital signs include a BP of 100/58 mm Hg, HR of 106 bpm, RR of 19/minute, and a T of 98.7°F.
+    ANSWER: Vicryl Rapide (Polyglactin)   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-335] Which of the following conditions requires droplet precautions?
+    ANSWER: Influenza   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-336] A 35-year-old woman with a history of obesity presents with several days of diffuse headache and blurry vision. She reports no fever, neck stiffness, or trauma. A CT scan of her head reveals no intracranial mass or hemorrhage. A decision is made to perform a lumbar puncture to evaluate for idiopathic intracranial hypertension.
+    ANSWER: Cellulitis overlying the lumbar spine   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-337] A patient presents with mild finger swelling but no signs of ischemia after trauma to his hand. He is wearing a gold ring on an injured digit. What is the most appropriate next step?
+    ANSWER: Lubricate and attempt manual removal   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-338] Which of the following procedural sedation agents is most likely to cause myoclonus?
+    ANSWER: Etomidate   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-339] Which of the following is considered a contraindication to placement of a femoral venous central catheter?
+    ANSWER: Overlying skin infection   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-340] Which of the following health care workers is most in need of HIV postexposure prophylaxis after an accidental body fluid exposure?
+    ANSWER: A 29-year-old phlebotomist who had a needlestick injury while drawing blood from a patient with unknown HIV status who is experiencing homelessness   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-341] Which of the following ventilatory modes is optimal when dyssynchrony occurs?
+    ANSWER: Pressure-regulated volume control   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-342] Which of the following is associated with therapeutic hypothermia (also known as targeted temperature management)?
+    ANSWER: Hyperglycemia   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-343] Which of the following physiologic responses would occur after application of noninvasive positive pressure ventilation in a patient presenting with an acute exacerbation of chronic obstructive pulmonary disease?
+    ANSWER: Increased tidal volumes   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-344] Which of the following describes the best initial treatment for a Bartholin abscess?
+    ANSWER: Incision and drainage from mucosal surface, place drainage catheter   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-345] A 4-year-old boy presents to the emergency department with a head injury following a fall from a window. During your examination, you find an obtunded child who opens his eyes in response to pain, groans in response to pain, and squeezes your hand when asked. Which of the following best represents his Glasgow Coma Scale score?
+    ANSWER: 10   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-346] A newborn girl presents to the emergency department after a precipitous delivery, just prior to arrival, after her mother was in a motor vehicle collision while in labor. Immediately after the event, her mother had significant vaginal bleeding. The infant is 37 weeks gestation and has poor tone and respirations and a weak central pulse.
+    ANSWER: Umbilical line   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-347] An 8-year-old girl presents to the ED with a grossly deformed right forearm fracture after falling off a home playground structure while at a barbecue. Her father tells you she had a full meal just prior to the fall. When is the soonest you can safely provide a ketamine procedural sedation in this patient with moderate clinical certainty, according to the American College of Emergency Physicians?
+    ANSWER: Immediately   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-348] What type of ultrasound probe will likely provide the best image when placing an internal jugular vein central venous catheter under ultrasound guidance?
+    ANSWER: Linear   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-349] A fully immunized, immunocompetent healthcare worker sustains a high-risk needle stick injury from a known source patient with HIV and a high viral load. Which of the following is the most appropriate course of action?
+    ANSWER: Initiate postexposure prophylaxis with antiretrovirals and offer hepatitis B vaccination   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-350] A 72-year-old man is found to have a large right pleural effusion and undergoes a diagnostic thoracentesis. Which of the following laboratory findings would be consistent with an exudative pleural effusion?
+    ANSWER: Pleural fluid protein/serum protein ratio &gt; 0.5   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-351] A 34-year-old woman presents with severe dental pain that has worsened over the past 2 days after biting on a cherry pit and breaking her tooth. She reports no facial swelling or fever. On examination, her right lower second molar is broken and tender to percussion. There is no gingival edema or trismus. She took ibuprofen for pain prior to arrival without improvement.
+    ANSWER: Right inferior alveolar nerve block   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-352] A 27-year-old man presents in cardiac arrest after a suicide attempt by creating a home fire. The majority of his body is covered in leathery, firm burns. As cardiopulmonary resuscitation is continued, his chest compressions become more difficult. Subsequently, his peak airway pressure on the ventilator increases by 50% and his oxygen saturation decreases to 87% consistently.
+    ANSWER: Immediate escharotomy   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-353] A 33-year-old woman presents to the emergency department after a significant, high-speed motor vehicle collision. Which of the following is the most reliable indicator of occult hemorrhagic shock in this patient?
+    ANSWER: Shock index   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-354] Which of the following is a relative contraindication when performing an escharotomy in the setting of a circumferential extremity burn?
+    ANSWER: Established irreversible gangrene of the extremity   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-355] A 67-year-old man presents to the emergency department with confusion. He is unable to offer a history on arrival. His T is 99°F (37.2°C), BP is 90/47 mm Hg, HR is 172 bpm, RR is 25/min, and SpO2 is 94% on room air. Physical exam reveals a man who is minimally responsive to external stimuli. Lungs are clear, and pulses are equal bilaterally. An ECG is performed, as seen above.
+    ANSWER: Cardioversion   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-356] A 37-year-old woman presents to the ED for epistaxis. She has no significant medical history and does not take any medications. Vital signs include a BP of 110/68 mm Hg, HR of 101 bpm, T of 98.7°F, RR of 17/minute, and SpO2 of 99% on room air.
+    ANSWER: Placement of anterior nasal packing   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-357] A 19-year-old woman presents with atrioventricular nodal reentry tachycardia. Her vital signs are HR 210 bpm and BP 130/70 mm Hg. She is asymptomatic except for palpitations. What is the optimal placement of electrode pads for cardioversion?
+    ANSWER: Right upper chest and left midaxillary line   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-358] You are about to repair a laceration on your patient when she tells you she is allergic to lidocaine. Which of the following anesthetics is a suitable alternative?
+    ANSWER: Procaine   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-359] A 68-year-old man presents to the emergency department with shortness of breath. His vital signs show HR 108 bpm, BP 98/63 mm Hg, T 99.2°F (37.3°C), RR 24/min, and SpO2 90% on room air. On exam, he is alert and speaks in short sentences, and he has bilateral lower extremity pitting edema.
+    ANSWER: Bilevel positive airway pressure   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-360] A 9-year-old boy is brought to the ED by EMS after being involved in a high-speed motor vehicle collision. On arrival, he is wearing a cervical collar and is lying supine on a rigid long backboard. He is alert, oriented, and hemodynamically stable, though he reports significant midline neck pain. How should this patient be cared for during his initial evaluation?
+    ANSWER: Maintain the cervical collar and position the patient supine on a hospital stretcher   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-361] A 5-year-old boy was sledding and hit a fence. He is brought to the ED via EMS with a report of anterior neck pain and shortness of breath. On exam, you note crepitus, a flattened thyroid prominence, and tenderness on palpation of the anterior neck. The nurse alerts you that the patient's oxygen saturation is 89% on room air. Definitive airway management should include which of the following?
+    ANSWER: Surgical consult for tracheostomy   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-362] One of the interns in the emergency department is enthusiastic about extracorporeal membrane oxygenation and has asked for a real-life example of when it is more likely to make a significant difference and is indicated in the overall resuscitation. Which of the cases below would be a suitable example?
+    ANSWER: ED cardiac arrest following an acute ST segment elevation myocardial infarction in a 45-year-old patient   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-363] A 3-year-old boy is found at the bottom of a pool and is brought to the ED unconscious. After a brief round of CPR, pulses were regained, and EMS ventilated the patient with a bag-mask. The patient has some respiratory activity, but his saturation fluctuates from 85–90%. The Glasgow Coma Scale score is 3.
+    ANSWER: Emergent tracheotomy   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-364] What type of suture is most appropriate to reduce wound edge punctures, tension, and risk of necrosis on a volar hand laceration that has poor circulation at the wound edges?
+    ANSWER: Horizontal mattress   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-365] A 27-year-old man with diabetes presents to the emergency department with right thigh pain. He noticed a small 5 cm patch of erythema and warmth on his anterior thigh yesterday without associated fever or nausea. His fingerstick glucose is 250 mg/dL. Ultrasound of the lesion is shown above. Which of the following would be the best next step?
+    ANSWER: Discharge with oral trimethoprim-sulfamethoxazole   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-366] A 67-year-old man with cirrhosis and ascites presents to the ED for progressive abdominal distension and discomfort. He reports increased fatigue and early satiety. He has no fever or abdominal pain. Laboratory studies reveal a platelet count of 42,000/μL and an international normalized ratio of 1.7. The emergency clinician prepares to perform a diagnostic paracentesis.
+    ANSWER: Proceed with paracentesis without testing or blood product administration   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-367] A 52-year-old man with a history of cirrhosis presents with hematemesis and hypotension. After initial stabilization with transfusion and vasoactive medications, he continues to have active bleeding, and he is intubated for airway protection. After testing for air leaks, a balloon tamponade device is placed through the mouth. What is the most appropriate next step in performing this procedure?
+    ANSWER: Inflate the gastric balloon with 50 mL of air and obtain a chest X-ray   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-368] A 22-year-old man with no significant medical history presents with dyspnea and chest discomfort while playing soccer. He is currently asymptomatic. On examination, he is afebrile with a heart rate of 82 bpm, blood pressure of 139/76 mm Hg, and oxygen saturation of 99% on room air. His lungs are clear to auscultation and he has a harsh midsystolic murmur that is worse with a Valsalva maneuver.
+    ANSWER: Deep, narrow Q waves in the lateral and inferior leads with tall R waves in leads V1–V2   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-369] A 19-year-old man presents with a straddle injury. He was skateboarding down a railing and fell, causing him to straddle the pole. He initially tried to walk it off but noticed blood in his underwear and has been unable to urinate for the past 8 hours.
+    ANSWER: Suprapubic catheterization   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-370] Which of the following would be the most appropriate situation for targeted temperature management after the return of spontaneous circulation?
+    ANSWER: The initial cardiac arrest rhythm was shockable   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-371] A 70-year-old man presents to the ED with the inability to urinate. The patient reports that he has not been able to urinate for the last 8 hours. Bedside bladder scan shows an estimated bladder volume of 750 mL. The initial attempt to place a foley catheter was unsuccessful due to meeting resistance midway through insertion.
+    ANSWER: Hold the penis taut in the upright position and attempt catheter placement with a coudé catheter   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-372] A 10-year-old boy with recurrent nosebleeds due to digital trauma presents to the emergency department for uncontrolled epistaxis. His vital signs are normal, he has no respiratory distress, and he has a steady stream of blood from the right naris that has not stopped with direct nasal pressure.
+    ANSWER: Discharge with 48-hour follow-up for packing removal   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-373] Which of the following clinical circumstances represents a contraindication to the use of succinylcholine during rapid sequence intubation?
+    ANSWER: Muscular dystrophy   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-374] You plan to perform an aspiration of a peritonsillar abscess. Which of the following structures is most at risk of injury during the procedure?
+    ANSWER: Internal carotid artery   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-375] A 6-year-old child is brought to the ED for a rash and fever. Her parent reports a measles outbreak at the girl’s school. Which type of precaution is indicated?
+    ANSWER: Airborne precautions   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-376] A 62-year-old man presents to the ED with mental status changes. His medical history includes end-stage kidney disease for which he receives intermittent hemodialysis, and his spouse reports no missed sessions. Vital signs show T 96.8°F (36°C), BP 70/36 mm Hg, HR 114 bpm, RR 20/min, and SpO2 99% on room air. A point-of-care ultrasound is shown above.
+    ANSWER: 1 cm inferior to the left xiphocostal angle   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-377] Which of the following is considered a definitive airway?
+    ANSWER: Nasotracheal tube   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-378] An 85-year-old woman is found unresponsive at her nursing home. EMS arrives on scene, intubates the patient, begins cardiopulmonary resuscitation, and administers three rounds of epinephrine. The patient arrives in the ED after 20 minutes of CPR, and you perform a focused ultrasound assessment, as seen above. What is the most appropriate next step in care?
+    ANSWER: Terminate resuscitative efforts   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-379] A 45-year-old man presents to the emergency department with stridor and oral swelling. He is in distress and has an SpO2 of 80% despite being on 15 L/min of oxygen via a nonrebreather mask. Multiple attempts are made at awake nasotracheal intubation without being able to identify landmark structures secondary to severe swelling.
+    ANSWER: Longitudinally, inferior to the thyroid cartilage and superior to the cricoid cartilage   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-380] What ultrasound finding is most suggestive of a pneumothorax?
+    ANSWER: Absence of lung sliding   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-381] A 20-year-old male boxer presents to the emergency department due to ear pain and swelling for 24 hours after being struck in the right ear. Examination is significant for normal vital signs, normal middle ear exam, and fluctuant swelling of the helix and entire scapha with loss of normal ear contours. Which of the following is the most appropriate management of this patient’s condition?
+    ANSWER: Semicircular incision under the helix margin and hematoma evacuation   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-382] A 28-year-old man with sickle cell disease presents to the ED with a painful, rigid penile erection beginning 6 hours ago. He reports similar episodes in the past that resolved spontaneously within 2 hours. Physical examination reveals a fully erect, tender penis with a soft glans. Cavernosal blood gas analysis shows a pH of 7.15, PO2 of 35 mm Hg, and PCO2 of 65 mm Hg.
+    ANSWER: Corporal aspiration with intracavernosal phenylephrine injection   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-383] A 22-year-old man presents with a change in his vision after being hit in the left eye. On examination, his visual acuity is 20/20 OD and 20/150 OS. Intraocular pressure is 14 mm Hg OD and 15 mm Hg OS. Extraocular movements are intact bilaterally. His ocular ultrasound is shown above. What is the likely diagnosis?
+    ANSWER: Lens dislocation   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-384] Which of the following mechanical ventilation strategies should be used after endotracheal intubation of a child with severe diabetes-related ketoacidosis?
+    ANSWER: Hyperventilate the patient as much as possible   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-385] Which of the following describes an advantage of using a transverse orientation of the ultrasound probe compared to a longitudinal orientation when placing a peripheral IV with ultrasound guidance?
+    ANSWER: Shorter time to cannulation   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-386] A 32-year-old woman presents to the ED with palpitations and lightheadedness. Vital signs are BP 80/52 mm Hg, RR 24/min, and T 98.6°F (37°C). Her rhythm strip is shown above. Which of the following is the most appropriate initial step in management?
+    ANSWER: Cardioversion   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-387] A 34-year-old man is involved in a motor vehicle collision. His vital signs are normal and stable. You want to place a urinary catheter but suspect a urethral injury. You obtain the retrograde urethrogram, as seen above. Lateral view and postevacuation views are not seen here but are consistent with the image above. Which of the following is the most appropriate next step?
+    ANSWER: Place the urinary catheter   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-388] An 18-year-old man presents to the emergency department with a large laceration to his left knee extending across the joint. The laceration is repaired primarily in the ED. Discharge instructions should include suture removal within which of the following time periods?
+    ANSWER: 10–14 days   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-389] A 32-year-old woman has just delivered a term infant in the hospital parking lot. The infant is crying and moving her arms and legs. She coughs occasionally. Her face and trunk are pink, but her hands and feet are cyanotic. Her heart rate is 130 beats/minute. What is her Apgar score?
+    ANSWER: 9   (key E)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-390] A 45-year-old man with a history of hypercholesterolemia presents with acute onset of anterior chest pain, nausea, and diaphoresis. His ECG is distinct for upsloping ST elevation in lead aVR (≥ 1 mm) with ST depressions and tall T waves in the precordial leads. What artery is most likely occluded?
+    ANSWER: Proximal left anterior descending artery   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-391] What is the mechanism of action of amide local anesthetics such as lidocaine?
+    ANSWER: Sodium channel blockage   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-392] A 47-year-old woman presents to the ED with worsening right upper quadrant abdominal pain for the past 18 hours. She also notes subjective fever and nausea, but no vomiting. Vital signs are normal. Physical examination shows localized right upper quadrant tenderness. Liver function tests are within normal limits. A point-of-care ultrasound image is shown above.
+    ANSWER: Acute cholecystitis   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-393] A 34-year-old G2P1 woman presents to the emergency department at 38 weeks gestation in active labor. The neonate is born vaginally and is pale with minimal respiratory effort and a heart rate of 60 bpm. After 30 seconds of positive-pressure ventilation, the heart rate is 95 bpm, respiratory effort is absent, muscle tone is flaccid, and there is no response to stimulation.
+    ANSWER: Heart rate   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-394] A 71-year-old man with a history of hypertension and diabetes mellitus presents with a painful left knee. His vital signs are T 102.6ºF (39.2ºC), HR 107 bpm, BP 130/90 mm Hg, and RR 12/minute. His left knee appears swollen and feels warm compared to the right knee. There is no overlying erythema. He has significant pain with attempted active and passive range of motion of the left knee.
+    ANSWER: Arthrocentesis   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-395] A 9-year-old boy presents with a facial laceration after a fall while playing at home. Physical examination shows a 2 cm linear, diagonal laceration on the right lower lip and adjacent skin that crosses the vermillion border. Bedside repair is planned. Which of the following nerves is appropriate for a regional block when providing anesthesia for this patient?
+    ANSWER: Mental   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-396] Which of the following sonographic findings is most diagnostic of cardiac tamponade?
+    ANSWER: Diastolic right ventricular collapse   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-397] What upper extremity functions are limited by the use of the ulnar gutter splint?
+    ANSWER: Flexion and extension of the fourth and fifth digits   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-398] You are intubating a 45-year-old patient who presented after blunt head trauma. Oxygen saturation is 90% with a good waveform. To which of the following PO2 values would this most likely correspond?
+    ANSWER: 62 mm Hg   (key B)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-399] Which of the following is the most common complication of a thoracentesis?
+    ANSWER: Pneumothorax   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-400] A 45-year-old man undergoes chest tube placement for a large pneumothorax. Postprocedure chest X-ray shows the proximal side hole of the tube is outside the pleural space. What is the best next step in management?
+    ANSWER: Remove and insert a new chest tube at a different site   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-401] A 63-year-old man presents to the emergency department for shortness of breath. On arrival, he is in respiratory distress and vital signs are BP of 148/96 mm Hg, HR of 107 bpm, RR of 35/min, and SpO2 of 78% on a nonrebreather mask. He recently had maxillofacial surgery and has limited range of motion of the mandible, so orotracheal intubation is not possible.
+    ANSWER: Midline vertical incision from the level of the thyroid cartilage to the level of the cricoid cartilage   (key D)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-402] A 31-year-old man presents to a rural ED with burns 3 hours after falling into a campfire. He reports severe pain in his right forearm, with more mild pain and paresthesias in his right hand and fingers. Physical examination shows circumferential, full-thickness burns of the right elbow, forearm, and hand with scattered, superficial burns on the left arm, chest, and upper arm.
+    ANSWER: IV fluids and escharotomy to the right elbow and wrist prior to transfer to the burn center   (key C)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-403] Which of the following patients requires the clinician to wear an N95 respirator before entering the room?
+    ANSWER: 10-year-old boy with fever, cough, and an upper lobe infiltrate who is referred from urgent care   (key A)
+[ROSH rosh-em-initial-2026-procedures-and-skills-q-404] Which of the following ECG findings indicate left main coronary artery subocclusion or occlusion?
+    ANSWER: ST elevation in aVR greater than V1 with horizontal ST depression in I, II, and V4–V6   (key D)

@@ -1,0 +1,38 @@
+{
+  "record_id": "SEG-INTERNSHIP-PHASE-4.2.2-VALIDATION",
+  "generated_at": "2026-08-17T16:59:05.681984+00:00",
+  "pathway_report": "/home/ubuntu/seg-internship-output/SEG_INTERNSHIP_PATHWAY_MAPPING_REPORT.md",
+  "recovery_report": "/home/ubuntu/seg-internship-output/SEG_INTERNSHIP_RECOVERY_REPORT.md",
+  "candidate_count": 105,
+  "recovered_count": 0,
+  "unresolved_count": 105,
+  "all_candidates_documented": true,
+  "all_source_hashes_recorded": true,
+  "source_hashes": {
+    "IM_Question_Bank_Dr_Alaa_Aqrabawi.md": "9d2469134d63be6a55330aa21531f8f55a619d4fa16364c03db738d52262d970",
+    "Surgery_Question_Bank_Dr_Alaa_Aqrabawi.md": "ae0143eb9c8d42061268ae11b397b9bc83c8bd43d12a6f7d5fce08d0b78cada9",
+    "Pediatrics_Question_Bank_Dr_Alaa_Aqrabawi.md": "aaccac3ccfdc32d8e7e39302653dc94e23f66da8359094d2ad03514a464a3d8d",
+    "ObGyn.md": "840008c03c7598e099002cd8dd64942287a820d2ec1d23001dad4bccff5085c4",
+    "ALL_Question_Banks_Dr_Alaa_Aqrabawi.md": "16e5838e7cd3404d85e1ee44643fd025f6a28c938ac0214279c44604e3b7eafa"
+  },
+  "master_updated": false,
+  "schema_conversion": false,
+  "json_conversion": false,
+  "database_import": false,
+  "application_activation": false,
+  "clinical_approval": false,
+  "status": "PASS_WITH_RECOVERY_BLOCKED",
+  "next_allowed_phase": "Human/source review of unresolved candidates, then Schema Validator and Medical Governance",
+  "counts_by_source": {
+    "ALL_Question_Banks_Dr_Alaa_Aqrabawi.md": 93,
+    "ObGyn.md": 12
+  },
+  "counts_by_specialty": {
+    "Obstetrics & Gynecology": 24,
+    "Internal Medicine": 27,
+    "Surgery": 54
+  },
+  "counts_by_status": {
+    "UNRESOLVED_NO_COMPLETE_EXACT_SOURCE_MATCH": 105
+  }
+}

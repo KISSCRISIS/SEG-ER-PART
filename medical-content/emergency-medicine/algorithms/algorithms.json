@@ -1,0 +1,458 @@
+[
+  {
+    "id": "cardiac-arrest",
+    "topic": "Cardiac Arrest",
+    "medicalSystem": "critical-care",
+    "algorithm": {
+      "title": "Cardiac arrest approach",
+      "steps": [
+        "Unresponsive patient: check breathing and pulse",
+        "No breathing/pulse: start CPR and attach monitor",
+        "Shockable rhythm (VF/pulseless VT): defibrillation + CPR",
+        "Non-shockable rhythm (PEA/Asystole): CPR + epinephrine pathway + search reversible causes",
+        "ROSC: post-cardiac arrest care"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "AHA/ACLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "shock-approach",
+    "topic": "Shock Approach",
+    "medicalSystem": "critical-care",
+    "algorithm": {
+      "title": "Shock approach",
+      "steps": [
+        "ABCDE assessment",
+        "Determine shock type",
+        "Immediate stabilization",
+        "Treat cause",
+        "Reassess"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "sepsis-septic-shock",
+    "topic": "Sepsis / Septic Shock",
+    "medicalSystem": "infectious-disease",
+    "algorithm": {
+      "title": "Sepsis pathway",
+      "steps": [
+        "Suspected infection + organ dysfunction: recognize early",
+        "Obtain cultures when appropriate",
+        "Early antibiotics",
+        "Fluid resuscitation",
+        "Vasopressors if needed",
+        "Source control"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-coronary-syndrome",
+    "topic": "Acute Coronary Syndrome",
+    "medicalSystem": "cardiovascular",
+    "algorithm": {
+      "title": "ACS pathway",
+      "steps": [
+        "Chest pain: ECG early",
+        "Troponin and risk assessment",
+        "STEMI: reperfusion pathway",
+        "NSTEMI/unstable angina: ACS management"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "AHA/ACLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "cardiac-tamponade",
+    "topic": "Cardiac Tamponade",
+    "medicalSystem": "cardiovascular",
+    "algorithm": {
+      "title": "Tamponade pathway",
+      "steps": [
+        "Suspect tamponade",
+        "Assess stability",
+        "Echocardiography",
+        "Unstable: urgent drainage pathway"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-asthma",
+    "topic": "Acute Asthma Exacerbation",
+    "medicalSystem": "respiratory",
+    "algorithm": {
+      "title": "Asthma exacerbation pathway",
+      "steps": [
+        "Assess severity",
+        "Oxygen if needed",
+        "Inhaled bronchodilator therapy",
+        "Steroids when indicated",
+        "Reassess response"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "copd-exacerbation",
+    "topic": "COPD Exacerbation",
+    "medicalSystem": "respiratory",
+    "algorithm": {
+      "title": "COPD exacerbation pathway",
+      "steps": [
+        "Dyspnea increase: assess oxygenation and trigger",
+        "Bronchodilators",
+        "Steroids/antibiotics when indicated",
+        "Ventilatory support if needed"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pneumothorax",
+    "topic": "Pneumothorax / Tension Pneumothorax",
+    "medicalSystem": "respiratory",
+    "algorithm": {
+      "title": "Pneumothorax pathway",
+      "steps": [
+        "Suspect pneumothorax: assess breathing and stability",
+        "Imaging if stable",
+        "Tension physiology: immediate decompression",
+        "Definitive management"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pulmonary-embolism",
+    "topic": "Pulmonary Embolism",
+    "medicalSystem": "respiratory",
+    "algorithm": {
+      "title": "PE pathway",
+      "steps": [
+        "Suspect PE",
+        "Assess hemodynamic stability",
+        "Risk stratify",
+        "D-dimer/imaging pathway when appropriate",
+        "Anticoagulation or advanced therapy"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "primary-trauma-survey",
+    "topic": "Primary Trauma Survey (ABCDE)",
+    "medicalSystem": "trauma",
+    "algorithm": {
+      "title": "ABCDE survey",
+      "steps": [
+        "Airway + C-spine protection",
+        "Breathing assessment",
+        "Circulation and hemorrhage control",
+        "Disability (GCS/pupils/glucose)",
+        "Exposure and environment control"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "traumatic-brain-injury",
+    "topic": "Traumatic Brain Injury",
+    "medicalSystem": "trauma",
+    "algorithm": {
+      "title": "TBI pathway",
+      "steps": [
+        "Head trauma: assess GCS",
+        "Check airway and vitals",
+        "Identify red flags",
+        "CT head when indicated",
+        "Neurosurgical evaluation if severe"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-stroke",
+    "topic": "Acute Stroke",
+    "medicalSystem": "neurology",
+    "algorithm": {
+      "title": "Stroke pathway",
+      "steps": [
+        "Suspected stroke: determine last known well",
+        "Check glucose",
+        "Non-contrast CT brain",
+        "Hemorrhage present: bleeding management pathway",
+        "No bleed: evaluate reperfusion eligibility"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "status-epilepticus",
+    "topic": "Status Epilepticus",
+    "medicalSystem": "neurology",
+    "algorithm": {
+      "title": "Status epilepticus pathway",
+      "steps": [
+        "Prolonged seizure: ABCs",
+        "Check glucose",
+        "Benzodiazepine first-line",
+        "Second-line antiseizure medication",
+        "ICU if refractory"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-abdominal-pain",
+    "topic": "Acute Abdominal Pain Approach",
+    "medicalSystem": "gastrointestinal",
+    "algorithm": {
+      "title": "Abdominal pain pathway",
+      "steps": [
+        "Abdominal pain: assess stability",
+        "Look for peritonitis/shock",
+        "Labs/imaging based on presentation",
+        "Treat cause"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "gi-bleeding",
+    "topic": "GI Bleeding",
+    "medicalSystem": "gastrointestinal",
+    "algorithm": {
+      "title": "GI bleeding pathway",
+      "steps": [
+        "Bleeding patient: ABCs",
+        "IV access and resuscitation",
+        "Determine upper vs lower source",
+        "Endoscopy/colonoscopy pathway"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "dka-hhs",
+    "topic": "DKA / HHS",
+    "medicalSystem": "endocrinology",
+    "algorithm": {
+      "title": "Hyperglycemic emergency pathway",
+      "steps": [
+        "Suspected hyperglycemic emergency: check glucose, ketones, electrolytes",
+        "Fluids",
+        "Correct potassium abnormalities",
+        "Insulin therapy",
+        "Monitor resolution"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "hyperkalemia",
+    "topic": "Hyperkalemia",
+    "medicalSystem": "endocrinology",
+    "algorithm": {
+      "title": "Hyperkalemia pathway",
+      "steps": [
+        "High potassium: ECG assessment",
+        "Stabilize cardiac membrane if needed",
+        "Shift potassium intracellularly",
+        "Remove potassium"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "hypoglycemia",
+    "topic": "Hypoglycemia",
+    "medicalSystem": "endocrinology",
+    "algorithm": {
+      "title": "Hypoglycemia pathway",
+      "steps": [
+        "Low glucose + symptoms: give glucose source",
+        "Recheck glucose",
+        "Identify cause"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "opioid-overdose",
+    "topic": "Opioid Overdose",
+    "medicalSystem": "toxicology",
+    "algorithm": {
+      "title": "Opioid toxicity pathway",
+      "steps": [
+        "Suspected opioid toxicity: ABCs",
+        "Support ventilation",
+        "Naloxone when indicated",
+        "Monitor recurrence"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "anaphylaxis",
+    "topic": "Anaphylaxis",
+    "medicalSystem": "critical-care",
+    "algorithm": {
+      "title": "Anaphylaxis pathway",
+      "steps": [
+        "Exposure + systemic allergic reaction: ABC assessment",
+        "IM epinephrine",
+        "Airway and breathing support",
+        "Adjunctive therapies"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "ectopic-pregnancy",
+    "topic": "Ectopic Pregnancy",
+    "medicalSystem": "obstetrics-gynecology",
+    "algorithm": {
+      "title": "Ectopic pregnancy pathway",
+      "steps": [
+        "Pregnancy + pain/bleeding: assess stability",
+        "Pregnancy test",
+        "Ultrasound and hCG assessment",
+        "Medical or surgical management"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pediatric-fever",
+    "topic": "Pediatric Fever Approach",
+    "medicalSystem": "pediatrics",
+    "algorithm": {
+      "title": "Pediatric fever pathway",
+      "steps": [
+        "Child with fever: assess age and appearance",
+        "Identify source",
+        "Risk stratify",
+        "Investigate/treat according to risk"
+      ]
+    },
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  }
+]

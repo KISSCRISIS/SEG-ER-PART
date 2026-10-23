@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "origin": "SEG Phase 4-E.1 allowed-relation catalog. This file defines which relationships may exist; it contains no instance edges. Population is Phase 4-E.2 work.",
+  "relations": [
+    {
+      "type": "HAS_CONTENT",
+      "from": "TOPIC_NODE",
+      "to": ["Algorithms", "Exam Pearls", "Tables", "Summaries"],
+      "description": "A topic links to its study-enhancement and summary content nodes."
+    },
+    {
+      "type": "HAS_SOURCE",
+      "from": "TOPIC_NODE",
+      "to": ["Books"],
+      "description": "A topic links to the books that cover it (references only, never copied content)."
+    },
+    {
+      "type": "HAS_QUESTIONS",
+      "from": "TOPIC_NODE",
+      "to": ["MCQ"],
+      "description": "A topic links to its question nodes."
+    },
+    {
+      "type": "CONTAINS",
+      "from": "SOURCE_NODE",
+      "to": ["Chapter", "Unit", "Question"],
+      "description": "A source contains its addressable units."
+    }
+  ]
+}

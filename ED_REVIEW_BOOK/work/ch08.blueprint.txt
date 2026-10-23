@@ -1,0 +1,316 @@
+[PEER-PHYS PEER-immune-q-74] A 60-year-old man presents with discoloration in his ring finger, as shown, after clearing snow from his driveway. What does this abnormality represent?
+    ANSWER: Vasoconstriction   (key D)
+[PEER-PHYS PEER-immune-q-75] A 25-year-old woman presents with pain in her knees, left ankle, and bilateral heels as well as limited range of motion in her lower back. She recently completed antibiotics for chlamydia and gonorrhea for a presumed STI; she is otherwise healthy and not taking any other medications. The physical examination reveals inflammation of her Achilles tendon.
+    ANSWER: Indomethacin   (key C)
+[PEER-PHYS PEER-immune-q-76] A 67-year-old woman presents with a cough she has had "for weeks" that now produces blood-tinged sputum. She also reports fever, chills, shortness of breath, night sweats, and weight loss. Her medical history includes hypertension, diabetes, asthma, and rheumatoid arthritis. A chest x-ray shows upper lobe consolidation.
+    ANSWER: Etanercept   (key A)
+[PEER-PHYS PEER-immune-q-77] A 44-year-old woman presents with finger pain in both hands. She says her fingers started to hurt while she was mixing drinks but that it has happened before. She is otherwise asymptomatic and denies trauma or other medical problems. On examination, her hands are pale white and the skin is shiny and taut. After starting hand-warming, what is the most appropriate next step in management?
+    ANSWER: Nifedipine PO   (key B)
+[PEER-PHYS PEER-immune-q-78] A woman presents with several weeks of worsening difficulty swallowing. She also notes episodes of numbness and pallor affecting her fingers for many years. On examination, the patient demonstrates many small, flat, spider-like vascular lesions on her face. Which is the most likely diagnosis?
+    ANSWER: CREST syndrome   (key B)
+[PEER-PHYS PEER-immune-q-79] A 45-year-old patient with a history of Raynaud phenomenon presents with gradually worsening digital ulcerations over the past week. What is the most likely diagnosis?
+    ANSWER: Systemic sclerosis   (key D)
+[PEER-PHYS PEER-immune-q-80] Which constellation of findings is consistent with systemic sclerosis (scleroderma)?
+    ANSWER: Skin thickening or hardening affecting digits and Raynaud phenomenon   (key D)
+[PEER-PHYS PEER-immune-q-81] A scleroderma patient presents with mouth sores, throat pain, and severe diarrhea. She has been taking methotrexate 20 mg daily for the past 10 days, although her prescription is for 20 mg weekly. What treatment will this patient likely require?
+    ANSWER: Folinic acid   (key A)
+[PEER-PHYS PEER-immune-q-82] A scleroderma patient presents with new renal failure and severe hypertension with encephalopathy that is suspicious for scleroderma renal crisis. What treatment should be initiated?
+    ANSWER: Captopril and nitroprusside   (key A)
+[PEER-PHYS PEER-immune-q-83] A 37-year-old woman complains of gradual onset of sharp, pleuritic chest pain. On physical examination, she is also found to have oral ulcers, a rash, and tender wrist and proximal interphalangeal joints. The rash is limited to the distal upper extremities, backs of the hands, and the face. What laboratory test, if positive, would help to confirm the diagnosis?
+    ANSWER: Antinuclear antibody   (key A)
+[PEER-PHYS PEER-immune-q-84] An otherwise healthy 21-year-old woman presents with new-onset dyspnea and pleuritic chest pain that is worse when she lies down. She denies trauma or any medication use. She had fever and joint pain 2 days ago. Ultrasound reveals a small pericardial effusion without tamponade. Initial laboratory tests show a negative urine hCG, proteinuria on urinalysis; Hgb 9 g/dL; and platelets 75,000/mcL.
+    ANSWER: Systemic lupus erythematosus   (key D)
+[PEER-PHYS PEER-immune-q-85] A 62-year-old woman presents with a new-onset headache localized to the left side of her head with temporal tenderness. She has pain with chewing and talking, and she has body aches and fatigue. She denies having similar headaches in the past; she has no fever or neck pain, and her neurologic examination is normal. What is the best next step?
+    ANSWER: Administer steroids   (key A)
+[PEER-PHYS PEER-immune-q-86] An otherwise healthy 42-year-old woman presents with urticaria, wheezing, and headache 30 minutes after eating lobster. Her vitals are BP 148/92, P 105, R 22, and T 36.8°C (98.2°F); SpO2 is 99% on room air. What feature distinguishes this patient's condition as anaphylaxis rather than a non–life-threatening allergic reaction?
+    ANSWER: Wheezing   (key D)
+[PEER-PHYS PEER-immune-q-87] A 12-year-old boy presents after ingesting peanut butter. He has no known allergies. On examination, he has diffuse urticaria, vomiting, lip swelling, and stridor. Immediate resuscitation is started with intramuscular epinephrine, steroids, and antihistamines. He initially improves but then has a return of stridor and swelling.
+    ANSWER: Pediatric intensive care unit   (key C)
+[PEER-PHYS PEER-immune-q-88] A 50-year-old man with tree nut allergies presents immediately after ingesting a walnut. He has hives, vomiting, and a “tight sensation” in this throat. His lungs are clear to auscultation, and there is no obvious tongue or lip swelling. BP is normal. Which medication should be administered first?
+    ANSWER: 1:1,000 epinephrine 0.3 mg IM   (key A)
+[PEER-PHYS PEER-immune-q-89] A 53-year-old man presents via ambulance in anaphylaxis. Two intramuscular injections of epinephrine and 2 L of normal saline were given en route. On arrival, his vital signs include BP 85/50, P 120, and R 20; SpO2 is 94% on room air. Which route of administration should be used for the next dose of epinephrine?
+    ANSWER: Intravenous infusion   (key C)
+[PEER-PHYS PEER-immune-q-90] A 37-year-old man presents with abdominal pain, vomiting, hives, and wheezing after eating at a new restaurant. An intravenous line is established, and oxygen is given via nasal cannula. What is the most appropriate initial treatment?
+    ANSWER: Epinephrine   (key B)
+[PEER-PHYS PEER-immune-q-91] A 65-year-old man presents with anaphylaxis. His medical history includes hypertension treated with atenolol. What medication should be considered for hypotension and airway edema refractory to epinephrine?
+    ANSWER: Glucagon   (key B)
+[PEER-PHYS PEER-immune-q-92] A hypotensive patient is intubated for peanut-induced anaphylactic shock that is refractory to treatment with epinephrine, diphenhydramine, famotidine, and methylprednisolone. The patient remains hypotensive. Which variable best explains the failed response to therapy?
+    ANSWER: Vascular permeability   (key D)
+[PEER-PHYS PEER-immune-q-93] A 58-year-old man presents with tongue swelling that has progressed over the past hour. He says he feels like he is "having trouble breathing." He has no allergies, and he takes lisinopril daily. Given a suspected diagnosis of angioedema and concern for his airway, what is the most definitive step in management?
+    ANSWER: Intubation   (key C)
+[PEER-PHYS PEER-immune-q-94] A 24-year-old woman presents with isolated diffuse tongue swelling that began shortly before arrival. She has had two prior episodes and says that her mother has had similar problems. She has not eaten any new foods or recently begun using new toiletries, clothing, or medications. Which medication is the most efficacious to treat this condition?
+    ANSWER: C1 inhibitor   (key A)
+[PEER-PHYS PEER-immune-q-95] A 19-year-old woman with a history of anaphylaxis presents with a swollen tongue, stridor, and drooling. Her BP is 80/50 mm Hg. After securing the airway, what is the most important medication in the management of her condition?
+    ANSWER: Epinephrine   (key C)
+[PEER-PHYS PEER-immune-q-96] A patient with a known peanut allergy and a history of hypertension presents with lip and tongue swelling. He has no personal or family history of similar events. There is no urticaria or wheezing on examination. The swelling is unimproved with intramuscular epinephrine. What is the most likely cause of this patient's swelling?
+    ANSWER: Lisinopril   (key B)
+[PEER-PHYS PEER-immune-q-97] Which medication can be used to treat ACE inhibitor–induced angioedema?
+    ANSWER: Tranexamic acid   (key D)
+[PEER-PHYS PEER-immune-q-98] If a patient has a true anaphylaxis to amoxicillin, which other medication is most likely to cause similar symptoms?
+    ANSWER: Cephalexin   (key D)
+[PEER-PHYS PEER-immune-q-99] Which type of infection is most common in post-transplant patients more than 8 months after the transplant?
+    ANSWER: Community-acquired pneumonia   (key C)
+[PEER-PHYS PEER-immune-q-100] Roughly 5 months after a kidney transplant, a patient presents with a fever, decreased urine output, hypertension, and tenderness over the graft site without identifiable cause on renal ultrasound. Which disorder is most likely?
+    ANSWER: Acute rejection   (key A)
+[PEER-PHYS PEER-immune-q-101] One month after a kidney transplant, a patient presents with severely elevated blood pressure, generalized fatigue, fever, and a rising creatinine. Which imaging study should be obtained first?
+    ANSWER: Renal ultrasound with Doppler   (key D)
+[PEER-PHYS PEER-immune-q-102] A 10-year-old boy presents with fever, generalized fatigue, elevated creatinine, and high blood pressure. He received a kidney transplant 2 months ago, and his care team is concerned for acute rejection. What immune mechanism is most likely causing this patient's rejection?
+    ANSWER: Recipient T-cell–mediated cellular rejection   (key D)
+[PEER-PHYS PEER-immune-q-103] Which type of transplant is most commonly associated with graft-versus-host disease?
+    ANSWER: Stem cell   (key D)
+[PEER-PHYS PEER-immune-q-104] A 70-year-old patient presents 8 months after a kidney transplant with slowly progressing visual changes, memory difficulty, and findings consistent with dementia. Which infection is the most likely cause of this presentation?
+    ANSWER: Human JC polyomavirus   (key A)
+[PEER-PHYS PEER-immune-q-105] What is the most common serious side effect of tacrolimus?
+    ANSWER: Nephrotoxicity   (key D)
+[PEER-PHYS PEER-immune-q-106] What is a common side effect of both cyclosporine and tacrolimus?
+    ANSWER: Nephrotoxicity   (key C)
+[PEER-PHYS PEER-immune-q-107] A 55-year-old man presents with fever, fatigue, and nausea for the past 2 days. He underwent kidney transplant 2 months ago. His temperature is 38.3°C (101°F). What is the most likely underlying infection?
+    ANSWER: Cytomegalovirus   (key A)
+[PEER-PHYS PEER-immune-q-108] A 2-year-old girl presents with a fever of 7 days' duration. Her primary care physician evaluated her 2 days earlier and diagnosed a viral illness; a streptococcal culture obtained at that visit was negative. Her vital signs are BP 92/68, P 96, R 28, and T 39°C (102.2°F); SpO2 is 99% on room air.
+    ANSWER: Urinalysis 24 WBC/hpf   (key C)
+[PEER-PHYS PEER-immune-q-109] Which finding is included in the diagnostic criteria for Kawasaki disease?
+    ANSWER: Cervical lymphadenopathy   (key A)
+[PEER-PHYS PEER-immune-q-110] A 2-year-old girl presents with a persistent fever for the past 5 days. On examination, she has bright red injected lips, pharyngeal erythema, cervical lymphadenopathy, conjunctivitis, and a scarlatiniform rash. What is an essential element in the therapy of this child's disease?
+    ANSWER: Intravenous immune globulin   (key C)
+[PEER-PHYS PEER-immune-q-111] A pediatric patient presents with a fever, arthritis, and mild carditis after a recent streptococcal infection. Acute rheumatic fever is suspected. What is the most important therapy?
+    ANSWER: Penicillin   (key D)
+[PEER-PHYS PEER-immune-q-112] Which is the most common clinical manifestation of acute rheumatic fever?
+    ANSWER: Migratory polyarthritis   (key C)
+[PEER-PHYS PEER-immune-q-113] A patient presents with polyarthritis, fever, and subcutaneous nodules 2 weeks after a bout of pharyngitis and is found to have a new heart murmur. What is the likely causative organism?
+    ANSWER: Streptococcus pyogenes   (key C)
+[PEER-PHYS PEER-immune-q-114] Which symptom is a major manifestation of acute rheumatic fever, according to the revised Jones criteria?
+    ANSWER: Carditis   (key B)
+[PEER-PHYS PEER-immune-q-115] Which symptom is a minor manifestation of acute rheumatic fever according to the revised Jones criteria?
+    ANSWER: Fever   (key C)
+[PEER-PHYS PEER-immune-q-116] A teenager presents with involuntary, abrupt right-arm movements; fever; and pain in the right knee, left wrist, and left elbow. There is no significant medical history, but the patient had a sore throat 3 weeks ago. Workup is significant for prolonged PR interval on ECG and elevated ESR and CRP levels. What is the most likely diagnosis?
+    ANSWER: Acute rheumatic fever   (key A)
+[PEER-PHYS PEER-immune-q-117] A teenager presents with involuntary, abrupt right-arm movements; fever; and pain in the right knee, left wrist, and left elbow. There is no significant medical history, but the patient had a sore throat 3 weeks ago. Workup is significant for prolonged PR interval on ECG and elevated ESR and CRP levels. What is the preferred treatment for this patient's condition?
+    ANSWER: Penicillin G   (key C)
+[PEER-PHYS PEER-immune-q-118] A 45-year-old woman with sarcoidosis presents with red nodules on the fronts of her lower legs. She has not felt well for the past few days and has mild joint and muscle aches. What is the correct pharmacotherapy?
+    ANSWER: NSAIDs   (key C)
+[PEER-PHYS PEER-immune-q-119] A 28-year-old, otherwise healthy woman presents with progressively worsening shortness of breath, intermittent fever, and weight loss of a few weeks' duration. The physical examination reveals elbow and knee stiffness and a rash (shown below). Chest x-ray reveals bilateral hilar lymphadenopathy, and hypercalcemia is noted on laboratory test results.
+    ANSWER: Sarcoidosis   (key C)
+[PEER-PHYS PEER-immune-q-120] Which diagnosis is most consistent with the x-ray findings shown below?
+    ANSWER: Pulmonary sarcoidosis   (key D)
+[PEER-PHYS PEER-immune-q-121] Which patient has symptoms that are most consistent with an initial presentation of sarcoidosis?
+    ANSWER: 36-year-old Black woman with bilateral eye redness, blurred vision, and pain   (key B)
+[PEER-PHYS PEER-immune-q-122] A 37-year-old Black woman presents with bilateral eye redness, photophobia, and pain. She is found to have bilateral uveitis. The patient's chest x-ray is shown. What is the next best step?
+    ANSWER: Discharge home with ophthalmology follow-up   (key C)
+[PEER-PHYS PEER-immune-q-123] A 45-year-old Black woman presents with acute-onset shortness of breath associated with light-headedness, particularly with exertion. A STAT transthoracic echocardiogram is obtained, and the results are consistent with restrictive cardiomyopathy. What is a likely cause of this patient's shortness of breath?
+    ANSWER: Cardiac sarcoidosis   (key B)
+[PEER-PHYS PEER-immune-q-124] A patient with sarcoidosis presents with bilateral lower-extremity edema and intermittent chest pain that has been gradually worsening over the last 2 weeks. Her ECG is shown below. What is the most likely electrolyte derangement?
+    ANSWER: Hypercalcemia   (key A)
+[PEER-PHYS PEER-immune-q-125] An 8-year-old girl presents for evaluation of facial swelling and "brown pee." The girl had pharyngitis 3 weeks ago. When asked, she confirms decreased urine output. The physical examination is notable for mild periorbital edema and no rashes. The urine is positive for blood and protein. What is the most likely diagnosis?
+    ANSWER: Glomerulonephritis   (key A)
+[PEER-PHYS PEER-immune-q-126] A 7-year-old presents with fever and lethargy. The patient tested positive for SARS-CoV-2 infection 3 weeks ago and is unvaccinated. Examination reveals swollen, erythematous hands and feet as well as a diffuse rash. Laboratory testing revealed elevated CRP, troponin, BNP, and d-dimer as well as lymphopenia and thrombocytopenia.
+    ANSWER: Multisystem inflammatory syndrome in children   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-219] A 66-year-old woman presents to the emergency department for diarrhea. Her history includes chronic lymphocytic leukemia, for which she underwent an allogeneic hematopoietic stem cell transplant 2 months ago. Physical examination reveals an erythematous, macular rash on the neck and posterior shoulders.
+    ANSWER: Acute graft-versus-host disease   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-220] A patient presents with the finding shown above after hiking in the woods. What type of hypersensitivity reaction is this?
+    ANSWER: IV   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-221] A 79-year-old woman reports progressively worsening neck pain over several weeks. She has a history of rheumatoid arthritis and has been taking steroids for years. She has been taking NSAIDs and acetaminophen without relief. What cervical spine abnormality is classically associated with this patient’s disease process?
+    ANSWER: Atlantoaxial subluxation   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-222] A 50-year-old woman on unknown chemotherapy presents with shortness of breath. Her electrocardiogram is unchanged from a recent test, and troponin level is unremarkable. In addition to the thoracic ultrasound findings above, her inferior vena cava measures 2.5 cm and she has poor left ventricular squeeze. Which of the following medications is associated with this patient’s suspected diagnosis?
+    ANSWER: Trastuzumab   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-223] A 54-year-old woman presents to the emergency department for hypertension. She reports readings on her home blood pressure cuff above 180/100 mm Hg, which caused her to be concerned and seek attention. Her medical history includes a kidney transplant 6 years ago due to lupus nephritis.
+    ANSWER: Spot urine protein to creatinine ratio   (key E)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-224] A 33-year-old man presents to the ED with joint pain. He describes lower back and wrist pain that has progressed to pain in his left knee in the setting of feeling generally fatigued and weak. He also notes he had mild dysuria last week. Physical exam is notable for mild conjunctival injection, pain with passive movement of the patient’s left knee, and erythema and edema of both wrists.
+    ANSWER: Reactive arthritis   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-225] A 37-year-old woman presents to the ED with a facial rash. Physical examination reveals papular lesions along the nasal alar rim and smooth violaceous plaques on the cheeks and nose consistent with lupus pernio. She is followed by a pulmonologist for a chronic lung condition. Which of the following conditions is the patient most likely to have?
+    ANSWER: Sarcoidosis   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-226] A 27-year-old woman presents to the emergency department with a cough, dyspnea, and chest pain. Her symptoms have persisted for several weeks and occur in the setting of fatigue, malaise, and a low-grade fever. She came to the emergency department today because she noticed that her ability to exercise at the gym has diminished and her weakness has not been improving.
+    ANSWER: Hypercalcemia   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-227] A 32-year-old woman presents after a vacation in the Bahamas. In the past, she “never got sunburned,” but on this trip, she developed a painful, diffuse rash after only 20 minutes in the sun. She also noticed a worsening of a blemish on her forehead that first appeared around 1 month ago. She tried petroleum jelly on the lesion without improvement.
+    ANSWER: Systemic lupus erythematosus   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-228] A 9-year-old boy with no significant medical history presents to the emergency department with facial swelling. He states that his symptoms started 1 day ago. He also notes that his urine has been foamier than it usually is. His parent reports that he recently recovered from a sore throat and fever 2 weeks ago, which was treated with antibiotics. Urinalysis shows red blood cells and proteinuria.
+    ANSWER: Immune complex deposition   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-229] A 29-year-old woman presents to the ED with the above finding as well as a rash on her chest and arms. Her blood pressure is 87/48 mm Hg, pulse is 130/min, respiratory rate is 23/min, and oxygen saturation is 99% on room air. Which of the following is the best initial treatment for this patient?
+    ANSWER: Epinephrine   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-230] A 3-year-old boy with a history of a peanut allergy presents with rash and shortness of breath after eating a cookie. Vital signs are a T of 98.0°F (36.7°C), BP of 80/50 mm Hg, HR of 140 bpm, RR of 28/min, and SpO2 of 98% on room air. On physical exam, he is mildly tachypneic with expiratory wheezing and has urticaria on his trunk and upper extremities.
+    ANSWER: 0.01 mL/kg of intramuscular 1 mg/mL (1:1,000) epinephrine   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-231] A 45-year-old man with a medical history of hepatitis B virus presents with weight loss, abdominal pain, and fatigue for several weeks. He also has numbness and weakness in the left hand and a rash on his extremities. Vital signs are a T of 100.1°F (37.8°C), BP of 185/100 mm Hg, HR of 80 bpm, RR of 16/min, and SpO2 of 99% on room air.
+    ANSWER: Polyarteritis nodosa   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-232] A 56-year-old woman presents to the emergency department with joint pain and stiffness in her hands for several days. Which of the following historical and physical examination findings suggests a diagnosis of rheumatoid arthritis instead of osteoarthritis?
+    ANSWER: Morning stiffness and pain &gt; 1 hour   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-233] A 13-year-old boy presents to the ED with the above rash noted on his upper arms, thighs, abdomen, and back. The rash started only a few hours ago while outside exercising. The patient has had no known exposure to new foods, soaps, detergents, or animals. His parent gave him a dose of diphenhydramine, after which the patient immediately vomited.
+    ANSWER: Anaphylaxis   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-234] A 3-year-old boy presents to the ED with a fever. He has had a high fever of > 103°F (39.4°C) for the past week. On physical exam, you note left-sided cervical lymphadenopathy, fissuring of the lips, conjunctival injection without drainage, and a diffuse faint maculopapular rash. Which of the following is the most appropriate treatment for this patient?
+    ANSWER: Immune globulin and aspirin   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-235] A 41-year-old woman with diffuse systemic sclerosis presents to the ED with altered mental status. Her vital signs are T 97.5°F (36.4ºC), BP 225/118 mm Hg, HR 99 bpm, RR 14/minute, and SpO2 97% on room air. She is disoriented but follows commands. She has no focal neurologic deficits.
+    ANSWER: Scleroderma renal crisis   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-236] A 4-year-old girl presents to the ED with a fever for the past 5 days. Her parent also notes a diffuse rash. On physical exam, you find cervical lymphadenopathy as well as conjunctival injection and fissured lips. Which of the following is the appropriate treatment for this patient’s presentation?
+    ANSWER: Aspirin   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-237] A 9-year-old girl presents to the emergency department with abdominal pain and rash. She had a viral upper respiratory infection that resolved 2 weeks ago. This morning she began experiencing intermittent abdominal pain and then a rash appeared on her extremities. She is also reporting bilateral knee and elbow pain.
+    ANSWER: Biopsy with IgA deposition   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-238] A 14-year-old boy with no significant medical history presents with a new-onset rash and “bumps under my skin.” The patient first noticed a blotchy red rash on his trunk that “went away except for the outer edge.” He presents because the rings have spread and coalesced, as shown above. The rash is not pruritic, but he notices that being outside in the summer heat worsens the rash.
+    ANSWER: Antistreptolysin O titer   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-239] A 4-year-old boy presents to the ED with fever. He was born via term vaginal delivery with no complications and his immunizations are up to date. He has had an oral temperature > 101°F (38.3ºC) at home for the last 5 days. Today his vital signs are T 104.5°F (40.3ºC), HR 130 bpm, RR 18/min, BP 93/50 mm Hg, and SpO2 100% on room air.
+    ANSWER: Kawasaki disease   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-240] Which organ system do the clinical manifestations of anaphylaxis most often involve?
+    ANSWER: Skin   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-241] A 30-year-old man with a history of epilepsy presents to the ED with a fever and rash. He was started on carbamazepine 3 weeks ago. Vital signs are BP 120/80 mm Hg, HR 110 bpm, RR 18/min, SpO2 98% on room air, and T 101°F (38.3°C). On physical exam, he has a diffuse erythematous rash and lymphadenopathy.
+    ANSWER: Drug reaction with eosinophilia and systemic symptoms   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-242] In addition to evidence of a preceding streptococcal infection, which of the following combination of manifestations meets the criteria for the diagnosis of acute rheumatic fever?
+    ANSWER: Carditis and polyarthritis   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-243] A 6-year-old girl is brought to the emergency department with hematuria today. According to her parent, the girl recently had a sore throat with a fever but improved from that illness. She had not been seen for that illness. Now she has blood in her urine. She reports no pain with urination and has not had a fever today. Vital signs show HR 98 bpm, BP 157/88 mm Hg, RR 16/min, and T 37.7°C.
+    ANSWER: Furosemide intravenously   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-244] A 19-month-old girl has been sick for 6 days. Symptoms include fussiness, cough, rhinorrhea, conjunctivitis, fever, and a rash. Vital signs include T 102.8°F (39.3ºC), BP 75/44 mm Hg, HR 165 bpm, RR 28/min, SpO2 97%. The exam shows a diffuse erythematous rash affecting the trunk, extremities, hands, and feet. She has cervical lymphadenopathy and erythema of the lips and pharynx.
+    ANSWER: Decreased left ventricular ejection fraction on echocardiogram   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-245] A 26-year-old woman presents with 1 year of progressive myalgias, weight loss, fevers, and episodes of lightheadedness. She reports increasing pain in her chest and extremities after modest exercise. She now has tenderness in her left anterior neck. The patient reports no visual changes, rash or skin lesions, or focal neurological symptoms.
+    ANSWER: Takayasu arteritis   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-246] A 35-year-old woman presents to the ED with fever and decreased urine output 2 weeks after a kidney transplant. Physical exam reveals tenderness over the graft site. Laboratory testing reveals a creatinine of 1.9 mg/dL, which increased from 0.8 mg/dL 3 days ago. Which of the following is the most likely diagnosis?
+    ANSWER: Acute rejection   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-247] A 12-year-old boy with a history of seizures presents to the emergency department with a widespread minimally pruritic rash about 2 weeks after starting carbamazepine. On exam, he has a temperature of 38.6°C and appears tired, with a diffuse erythematous and tender rash containing macules and papules greatest over his trunk. He has mild facial edema and anterior cervical lymphadenopathy.
+    ANSWER: Complete blood cell count and peripheral smear   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-248] A 45-year-old man presents to the emergency department and reports fatigue, pelvic pain, and a noticeable reduction in urine output over the last few days. He had a kidney transplant for end-stage kidney disease secondary to polycystic kidney disease 6 months ago. He takes tacrolimus tablets and had four doses of oral acetaminophen for pain.
+    ANSWER: Acute kidney transplant rejection   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-249] Which of the following historical features is most consistent with a diagnosis of rheumatoid arthritis?
+    ANSWER: Pain and stiffness that improves with activity   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-250] An 8-year-old boy presents to the emergency department with a chief concern of dark urine. The patient’s parents state he has been healthy other than a crusty rash on his face a few weeks ago. His blood pressure is 120/80 mm Hg and heart rate is 95 bpm. Physical exam is notable for periorbital edema. Which of the following is the most likely diagnosis?
+    ANSWER: Poststreptococcal glomerulonephritis   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-251] A 22-year-old man presents to the emergency department with joint pain and swelling. He experienced bloody diarrhea 3 weeks ago that resolved in a few days. The diarrhea was associated with abdominal pain, night sweats, and body aches. Joint pain and swelling started 3 days ago.
+    ANSWER: Reactive arthritis   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-252] A 9-year-old girl with a history of recent pharyngitis is brought to the ED by her parent with fever and diffuse joint pains. On exam, she has erythematous ring-like lesions with central clearing on her trunk. Her left knee joint is swollen and tender. An ECG is notable for a first-degree AV block. Which of the following is the most likely diagnosis?
+    ANSWER: Acute rheumatic fever   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-253] A 52-year-old man with a history of sarcoidosis presents to the ED with left-sided flank pain and dark urine for the last 2 days. He appears uncomfortable and cannot sit still. His vital signs are within normal limits. His abdominal examination reveals left costovertebral angle tenderness.
+    ANSWER: Parathyroid hormone   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-254] Which of the following is a minor Jones criterion for the diagnosis of acute rheumatic fever?
+    ANSWER: Fever   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-255] A 45-year-old patient presents to the emergency department with facial swelling, as seen above. They report no other symptoms. Home medications include lisinopril. Which of the following is the most effective intervention for this patient?
+    ANSWER: Discontinue lisinopril and provide supportive care   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-256] A 19-year-old woman without significant medical history presents to the emergency department with hand pain. She notes that whenever she walks outside in the winter, her fingers on both hands become cold and mildly painful. She notices that her fingers turn white, then blue, and then will turn red after going inside. On examination, her hands appear normal.
+    ANSWER: No associated symptoms or conditions   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-257] Which of the following infectious agents is associated with reactive arthritis?
+    ANSWER: Chlamydia trachomatis   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-258] A 28-year-old woman with a history of kidney insufficiency presents to the ED with chest pain and diffuse arthralgias. On physical exam, you note oral ulcers and an erythematous rash across her cheeks. Her ECG is shown above. Which of the following is the most appropriate therapy?
+    ANSWER: Prednisone   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-259] A 42-year-old woman presents with 2 weeks of progressive fatigue, weight loss, and joint pain. She has not had similar symptoms previously. Her joint symptoms involve the metacarpophalangeal and proximal interphalangeal joints of the hand bilaterally. Joint pain and stiffness seem to be worse in the morning and improve after a few hours of moving around. Her vital signs are normal.
+    ANSWER: Prednisone   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-260] A 34-year-old woman with a history of rheumatoid arthritis presents to the ED with a fever and cough. The patient reports that she has been getting sick more frequently recently including having bacterial pharyngitis, pneumonia, and skin abscesses over the past several months. The patient is sexually active and smokes cigarettes occasionally.
+    ANSWER: Felty syndrome   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-261] A 26-year-old woman with a history of lupus and end-stage kidney disease status post kidney transplant 15 weeks ago presents concerned about a fever. For the past day, she has noted low-grade fevers, malaise, and nausea. Her current medications consist of prednisone and tacrolimus. Her abdominal exam is benign without tenderness, rebound, or guarding.
+    ANSWER: Epstein-Barr virus   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-262] An 8-year-old girl with epilepsy presents to the ED with a fever and rash. She saw her primary care clinician and was diagnosed with a morbilliform viral exanthem 2 days ago. Since then, the rash has worsened, and the patient has decreased activity but no upper respiratory symptoms, vomiting, or diarrhea. On exam, she has a T of 101.1°F (38.4°C) and an HR of 110 bpm.
+    ANSWER: Discontinue carbamazepine   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-263] A 1-year-old girl presents to the ED with a fever for the last 6 days. Physical exam reveals conjunctival injection, oral fissures, a rash with peeling on two fingers, and cervical lymphadenopathy. Which of the following tests is most appropriate?
+    ANSWER: Echocardiography   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-264] A 2-year-old boy presents with an itchy rash and joint pain, which appeared suddenly this afternoon. His parent is concerned because he ate peanuts earlier this morning, although he has had them in the past without problems. He also developed a cough and rhinorrhea 2 days ago and is taking amoxicillin for an ear infection diagnosed 8 days ago. He has not had any vomiting or difficulty breathing.
+    ANSWER: Serum sickness-like reaction   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-265] A 55-year-old woman presents to the emergency department with a burning sensation in her chest that is worse when she lays flat at night. She has had this sensation before but finds her symptoms have been worsening. Review of systems is notable for fatigue and difficulty manipulating household items, such as utensils, due to stiffness in her hands.
+    ANSWER: Scleroderma   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-266] A 25-year-old woman with no significant medical history presents to the ED with a dry cough and dyspnea for the past 2 weeks. Her vital signs are within normal limits, and an ECG is unremarkable. Her X-ray is shown above. Which of the following findings would best support this suspected diagnosis?
+    ANSWER: Elevated serum angiotensin-converting enzyme level   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-267] A 2-year-old girl presents with intermittent episodes of abdominal pain associated with nausea and vomiting. An abdominal ultrasound image is provided above. Which of the following is the most likely diagnosis associated with?
+    ANSWER: IgA vasculitis   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-268] A 28-year-old woman presents with fever, malaise, blurry vision, and extremity pain, with diminished upper extremity pulses. Vital signs are significant for a T of 100.9°F (38.3°C) and BP of 170/95 mm Hg. Her blood work shows an erythrocyte sedimentation rate of 81 mm/h and C-reactive protein of 210 mg/L. MRI shows inflammatory thickening of the vasculature.
+    ANSWER: Aortic arch   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-269] Which type of hypersensitivity reaction is responsible for serum sickness?
+    ANSWER: Immune complex-mediated reaction   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-270] A 63-year-old man presents to the emergency department for dyspnea on exertion. He has had worsening dyspnea for the last 4 days, which has been most noticeable when climbing stairs, but reports no chest pain. His medical history includes a heart transplantation 10 months ago for cardiac amyloidosis.
+    ANSWER: IV methylprednisolone and cardiology consultation for endomyocardial biopsy   (key E)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-271] A 7-year-old boy presents with fever for 6 days. Examination reveals an uncomfortable child with erythema around the lips with cracking, bilateral conjunctivitis, a generalized rash, and swelling of the hands. Lab tests show an elevated platelet count, C-reactive protein, and erythrocyte sedimentation rate. Which therapy should be initiated?
+    ANSWER: Intravenous gamma globulin   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-272] A 42-year-old woman presents to the emergency department with a fever and malaise. Her medical history includes end-stage kidney disease due to systemic lupus erythematosus with a subsequent kidney transplant. She underwent transplantation 4 months ago, at which time the deceased donor allograft was transplanted into the right iliac fossa.
+    ANSWER: Right lower quadrant tenderness and elevated serum creatinine levels   (key E)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-273] A 30-year-old woman presents with a rash on her arm and face. She burned her forearm on a curling iron 1 week ago and has been applying a topical antibiotic to the burn. She has since developed redness and itching on the forearm that spread to her eyelids. Her vital signs are normal.
+    ANSWER: Contact dermatitis   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-274] A 67-year-old man presents to the emergency department with gradually worsening shortness of breath, wheezing, and a nonproductive cough, which started 7 months ago. He now feels short of breath even with minor exertion. The patient has a 50 pack-year smoking history, but he has not smoked for several years prior to his left lung transplant, which occurred 2 years ago.
+    ANSWER: Bronchiolitis obliterans   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-275] A 29-year-old woman presents to the emergency department for chest pain. She reports no other symptoms. The pain began several hours after she was lifting weights at the gym. Her vital signs are HR 74 bpm, BP 128/84 mm Hg, RR 16/min, SpO2 99%, and T 36.9°C. She is in no acute distress, and her physical exam is unremarkable.
+    ANSWER: Obtain cardiac enzymes   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-276] A 54-year-old woman presents to the emergency department due to dyspnea. She notes progressive dyspnea with associated cough and intermittent hemoptysis for the past 3 weeks. Her medical history includes a kidney transplant 5 months ago due to chronic interstitial nephritis. She takes mycophenolate mofetil and tacrolimus daily.
+    ANSWER: Aspergillus fumigatus   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-277] A 20-year-old man presents to the ED after a bee sting. He has a diffuse urticarial rash. Physical exam reveals wheezing bilaterally. Which of the following medications is most appropriate?
+    ANSWER: Epinephrine   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-278] Which of the following is the most common major manifestation found in patients diagnosed with rheumatic fever?
+    ANSWER: Carditis   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-279] A 30-year-old woman presents with diffuse joint pain and a rash, which is shown above. She is febrile to 101.1°F (38.4°C). Which of the following antibodies is the most specific for the most likely diagnosis?
+    ANSWER: Anti-Smith antibodies   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-280] A 38-year-old woman presents to the emergency department with right lower quadrant pain. The pain started yesterday and is associated with nausea, fever, and decreased urine output. She had a kidney transplant 2 weeks ago. On examination, her heart rate is 112 bpm, blood pressure is 155/100 mm Hg, and temperature is 101.3°F (38.5ºC).
+    ANSWER: CD8+ T-cell mediated process against donor tissue resulting in leukocyte infiltration of graft vessels impairing perfusion   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-281] A 29-year-old man presents to the emergency department for facial swelling. He states that symptoms started 1 hour prior to arrival after being slapped on the right side of his face. He reports that symptoms started with mild right-sided facial swelling but has progressed to involve his entire face as well as his mouth. He has no history of allergies. He does not use any medications.
+    ANSWER: Fresh frozen plasma   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-282] A 12-year-old girl presents with joint pain and fevers. She reports that over the past week, she has had pain in multiple joints, starting in the shoulders, then moving to the left knee. Today, her parent noticed that she had a fever and a rash. She has a history of anaphylaxis to penicillin, and on review of systems, she notes a sore throat for several days 1 month ago.
+    ANSWER: Azithromycin   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-283] Which of the following findings differentiates rheumatoid arthritis from osteoarthritis?
+    ANSWER: Presence of constitutional symptoms   (key E)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-284] What test is helpful in ruling out the diagnosis of systemic lupus erythematosus?
+    ANSWER: Antinuclear antibody   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-285] Which of the following is a minor rather than a major Jones criterion in the diagnosis of acute rheumatic fever?
+    ANSWER: Fever   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-286] A 63-year-old woman with a prior orthotopic kidney transplant who takes tacrolimus and levothyroxine presents with a new skin rash. The rash developed yesterday with painless “blood blisters” that formed on her buttocks and arms.
+    ANSWER: Broad-spectrum antibiotics   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-287] A 47-year-old woman with a history of Raynaud phenomenon presents to the emergency department with pain in her second and third fingers of both hands. She also reports a pale color and paresthesias. She has felt this way since yesterday and has not been able to relieve the symptoms with her typical maneuvers.
+    ANSWER: Nifedipine   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-288] A 25-year-old woman presents to the emergency department with finger pain. The patient was shoveling snow when her symptoms began. These symptoms have happened to her before and typically start with severe pain in her hands, followed by color changes in her fingers. Which of the following is the best treatment for this patient's most likely diagnosis?
+    ANSWER: Nifedipine   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-289] A 54-year-old woman presents after a fall. She notes she usually walks with a cane but did not have it handy today. You notice contractures of the fingers bilaterally, and her skin is thick and hard. When you range her elbows, you can hear what sounds like crepitus along the triceps tendon during extension.
+    ANSWER: Fingers turn white, red, and blue in response to cold   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-290] A 67-year-old man presents to the emergency department for generalized fatigue and weakness. He had a kidney transplant 7 weeks ago and is currently on immunosuppressive therapy. His temperature is 99.5°F (37.5°C), blood pressure is 167/108 mm Hg, heart rate is 90 bpm, respiratory rate is 14/min, and oxygen saturation is 98% on room air.
+    ANSWER: Acute rejection   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-291] A 12-year-old girl presents to the ED with hematuria. Her parent states that the patient had a recent sore throat but has been otherwise healthy. Vital signs are BP 140/95 mm Hg, HR 105 bpm, and T 99.4°F (37.4°C). Which of the following conditions may precede the development of the most likely disease process?
+    ANSWER: Impetigo   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-292] A 17-year-old girl presents with shortness of breath, rash, and nausea after an insect bite. Her vital signs are T 97.7°F (36.5°C), HR 128 bpm, BP 85/56 mm Hg, RR 28/min, and SpO2 93%. Exam reveals diffuse hives and posterior pharyngeal swelling. Which of the following should be immediately administered?
+    ANSWER: Epinephrine 1:1,000 (1 mg/mL) 0.3 mL IM   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-293] Which of the following criteria, in addition to high-grade fever for 5 days, is sufficient to diagnose complete Kawasaki disease?
+    ANSWER: Conjunctivitis, strawberry tongue, lymphadenopathy, and swollen hands and feet   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-294] A 29-year-old woman with a history of asthma presents to the ED with mouth pain and the findings shown in the image above. What should be recommended to the patient based on this finding?
+    ANSWER: Use a spacer   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-295] Which of the following is an appropriate treatment for a patient with acute rheumatic fever who has a severe penicillin allergy?
+    ANSWER: Clindamycin   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-296] A 65-year-old woman presents to the emergency department with 2 weeks of decreased urine volume. Her medical history is notable for a kidney transplant 3 months ago. She stopped taking all her medications last week because they make her nauseous. Her vital signs on arrival are T 38.5°C, HR 120 bpm, RR 18/min, BP 190/110 mm Hg, and SpO2 98% on room air.
+    ANSWER: Lymphocytic infiltration of graft tissue   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-297] A 53-year-old woman presents reporting severe acute neck pain at the base of her skull, intermittent occipital headaches, bilateral paresthesias in her arms, and vertigo when she looks down. She has a longstanding history of progressively worsening symmetric painful swelling in her joints.
+    ANSWER: Rheumatoid arthritis   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-298] A 38-year-old woman presents to the emergency department with elevated blood pressure. She had a kidney transplant 18 months ago. On examination, her heart rate is 80 bpm, blood pressure is 180/100 mm Hg, and temperature is 98.3°F (36.8ºC). She has minimal tenderness to palpation in the right lower quadrant overlying her kidney graft.
+    ANSWER: CD4+ T cell mediated process against donor tissue resulting in proliferation of the vascular intima and fibrosis of renal vessels causing marked decrease in lumen size   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-299] A 34-year-old man arrives by ambulance with shortness of breath and hives. He is allergic to peanuts and was given two doses of epinephrine by the medics en route to the hospital without significant improvement. Vital signs include a respiratory rate of 24/min and a blood pressure of 85/52 mm Hg. On exam, he has diffuse hives, lip swelling, and bilateral wheezing.
+    ANSWER: Glucagon   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-300] An 8-year-old boy presents with a fever for the last 6 days. He has been fussy, has decreased activity, and has had daily vomiting and diarrhea. He has not had any upper respiratory symptoms since recovering from COVID-19 4 weeks ago. He had eye redness 4 days ago, and his lips are a brighter red than usual per the parents. He has no rash or lymphadenopathy.
+    ANSWER: Multisystem inflammatory disease in children   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-301] A 20-year-old man is bitten by a rattlesnake. He develops significant local and systemic effects and is treated in the intensive care unit for 2 days before he is discharged asymptomatic. He returns to the ED with fevers, arthralgias, rash, and malaise 1 week later. Which of the following is the most likely diagnosis?
+    ANSWER: Type III hypersensitivity   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-302] A patient with Hodgkin lymphoma presents to the ED with tingling and burning in his hands and feet after starting a new chemotherapy agent. This agent acts by binding beta-tubulin and inhibiting the polymerization into microtubules, thus preventing mitotic spindle formation and arresting the M phase of the cell cycle. Which of the following medications does this describe?
+    ANSWER: Vincristine   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-303] A patient presents to the ED with an anaphylactic reaction to peanuts and receives epinephrine. The beta-2 agonist effect from epinephrine has which one of the following primary actions?
+    ANSWER: Stabilizes mast cells   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-304] A 26-year-old woman presents to the emergency department with joint pain. She reports no medical history and does not know if her immunizations are up to date. Her pain began approximately 1 week ago in her left knee and ankle. However, today, the pain is also in her right knee, so she came to the emergency department for evaluation.
+    ANSWER: Sore throat suggesting pharyngitis   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-305] A 25-year-old man presents to the ED with joint and back pain. He was diagnosed with urethritis 2 weeks ago. On physical exam, he is noted to have joint effusions of his right ankle and left knee. Which of the following is the most likely diagnosis?
+    ANSWER: Reactive arthritis   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-306] A 55-year-old woman presents to the ED with a rash on her left arm. She was stung by a wasp while attempting to destroy a nest in her garage. On examination, she has diffuse urticaria and biphasic wheezes. She says this happened to her when she was a child. She begins to vomit while you are examining her. Which of the following is the most likely diagnosis?
+    ANSWER: Anaphylaxis   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-307] An 8-year-old girl presents to the emergency department with facial swelling. She has asymmetric, nonpitting, non-gravity-dependent edema, as shown above. Which of the following history and exam findings most suggests this patient has C1 esterase inhibitor deficiency?
+    ANSWER: Gradual onset over 24 hours   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-308] A 3-year-old boy presents to the ED with a fever for 6 days. His T is 103°F (39.4°C), BP is 85/50 mm Hg, HR is 142 bpm, RR is 23/min, and SpO2 is 100% on room air. Physical exam is notable for the finding above. Conjunctival injection is also noted. The patient has a desquamating rash on his palms and soles. There is tender cervical lymphadenopathy noted as well.
+    ANSWER: Echocardiography, IV immune globulin, and aspirin   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-309] Which of the following is an expected history or exam finding of serum sickness?
+    ANSWER: Arthralgias   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-310] Which of the following findings is consistent with scleroderma renal crisis?
+    ANSWER: Normal urinalysis   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-311] A 33-year-old man presents to the emergency department with the above physical exam finding, which he states he has experienced before. His primary care clinician recently treated him for an infection, but the patient cannot recall the name of the drug. Which of the following is the most likely diagnosis?
+    ANSWER: Fixed drug eruption   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-312] A 7-year-old boy presents to the emergency department with dark-colored urine. He has no significant medical history and is fully immunized. His symptoms started yesterday evening, and his parent initially thought he was dehydrated. A review of systems reveals a recent rash with a yellowish crust that was treated with topical antibiotics 3 weeks ago. The rash has since resolved.
+    ANSWER: Poststreptococcal glomerulonephritis   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-313] A 20-year-old man with a medical history of asthma presents with a rash and difficulty breathing. His symptoms started shortly after taking the first dose of an antibiotic that he was prescribed for cellulitis. Vital signs are a T of 98.5°F (36.9°C), BP of 89/50 mm Hg, HR of 130 bpm, RR of 22/min, and SpO2 of 92% on room air. On physical exam, he appears anxious and has diffuse urticaria.
+    ANSWER: Intramuscular epinephrine   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-314] A 45-year-old woman presents to the ED with shortness of breath. Chest radiograph reveals bilateral hilar lymphadenopathy and evidence of pulmonary fibrosis. Which of the following laboratory abnormalities is associated with this disease process?
+    ANSWER: Hypercalcemia   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-315] A 42-year-old man presents to the ED with left knee pain and swelling. Review of systems is notable for the presence of penile discharge and a recent history of bloody diarrhea. In addition to mild swelling and discomfort with range of motion of the left knee, the physical examination shows bilateral conjunctival erythema.
+    ANSWER: Synovial WBC of 40,000 cells/mm³   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-316] A 4-year-old girl is brought to the ED with fever, eye redness, and rash. On physical exam, you note bilateral conjunctivitis, cervical lymphadenopathy, fissured lips, and a diffuse nonvesicular rash. Which of the following is the most serious complication of this disease process?
+    ANSWER: Coronary artery aneurysms   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-317] A 27-year-old woman presents to the ED with fever, weight loss, and joint pain. She states her joint pain has been worsening steadily, is bilateral and symmetric, and occurs in the setting of fatigue and weakness. Physical exam is notable for the finding shown above. Which of the following complications is this patient at increased risk of experiencing?
+    ANSWER: Recurrent pregnancy loss   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-318] A 2-year-old girl presents to the ED with daily fevers for 6 days. She was initially seen at an urgent care and diagnosed with a viral illness. However, her parent says the fever will not come down. On exam, the child has a fever and tachycardia. You notice injected conjunctiva and dry mucous membranes with cracked lips.
+    ANSWER: Coronary artery aneurysms   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-319] A 27-year-old woman with no significant medical history presents with shortness of breath. For the past few months, the patient has noted low-grade fevers, arthralgias, and anorexia with a 10-pound weight loss. More recently, she developed dyspnea on exertion and a nonproductive cough. Physical exam reveals clear lungs bilaterally and pretibial erythema nodosum.
+    ANSWER: Macrophage production of calcitriol   (key C)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-320] Which of the following infections should be ruled out by pretreatment screening before initiating treatment with a tumor necrosis factor-alpha inhibitor?
+    ANSWER: Tuberculosis   (key D)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-321] A 23-year-old man presents to the emergency department with right knee pain for 4 days. He reports no trauma to the knee. He works in construction and typically has back pain, but that has also been worse over the last few days. What preceding symptoms would suggest that this patient’s knee pain is due to reactive arthritis?
+    ANSWER: Diarrhea and urethritis   (key A)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-322] A 25-year-old woman presents to the ED with swelling to her tongue. She indicates that the right side of her tongue and cheek became swollen immediately after eating a spice on her taco. She also developed some itching around her neck. She reports no difficulty swallowing or difficulty breathing. Her vital signs show HR 72 bpm, BP 125/72 mm Hg, RR 16/min, and T 37.3°C.
+    ANSWER: Intravenous diphenhydramine plus methylprednisolone plus famotidine   (key B)
+[ROSH rosh-em-initial-2026-immune-system-disorders-q-323] A 4-year-old boy is brought to the ED by his parent due to a fever and rash for 1 week. Physical exam is notable for conjunctival injection, dry-appearing lips, a generalized rash, and cervical lymphadenopathy. Which of the following is the most appropriate therapy?
+    ANSWER: Aspirin   (key A)

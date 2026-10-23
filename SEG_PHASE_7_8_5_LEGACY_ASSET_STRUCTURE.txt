@@ -1,0 +1,40 @@
+FILE appFlashcards.json
+ROOT_SHAPE {'kind': 'array', 'length': 128, 'first': {'kind': 'object', 'keys': ['answer', 'cardId', 'question', 'source', 'type', 'yield']}}
+ITEM_0 {'kind': 'object', 'keys': ['answer', 'cardId', 'question', 'source', 'type', 'yield']}
+ITEM_1 {'kind': 'object', 'keys': ['answer', 'cardId', 'question', 'source', 'type', 'yield']}
+ITEM_2 {'kind': 'object', 'keys': ['answer', 'cardId', 'question', 'source', 'type', 'yield']}
+ITEM_3 {'kind': 'object', 'keys': ['answer', 'cardId', 'question', 'source', 'type', 'yield']}
+ITEM_4 {'kind': 'object', 'keys': ['answer', 'cardId', 'question', 'source', 'type', 'yield']}
+
+FILE fullReferenceLibrary.json
+ROOT_SHAPE {'kind': 'array', 'length': 126, 'first': {'kind': 'object', 'keys': ['_batchFile', 'algorithms', 'arabicMentorExplanation', 'boardSafeLogic', 'chapterNumber', 'chapterTitle', 'id', 'keyPoints', 'needsVerification', 'relatedFocusedQuestionFamilies', 'relatedTraps', 'source', 'tables', 'topic', 'visuals']}}
+ITEM_0 {'kind': 'object', 'keys': ['_batchFile', 'algorithms', 'arabicMentorExplanation', 'boardSafeLogic', 'chapterNumber', 'chapterTitle', 'id', 'keyPoints', 'needsVerification', 'relatedFocusedQuestionFamilies', 'relatedTraps', 'source', 'tables', 'topic', 'visuals']}
+ITEM_1 {'kind': 'object', 'keys': ['_batchFile', 'algorithms', 'arabicMentorExplanation', 'boardSafeLogic', 'chapterNumber', 'chapterTitle', 'id', 'keyPoints', 'needsVerification', 'relatedFocusedQuestionFamilies', 'relatedKeywords', 'relatedTraps', 'source', 'tables', 'topic', 'visuals']}
+ITEM_2 {'kind': 'object', 'keys': ['_batchFile', 'algorithms', 'arabicMentorExplanation', 'boardSafeLogic', 'chapterNumber', 'chapterTitle', 'id', 'keyPoints', 'needsVerification', 'relatedFocusedQuestionFamilies', 'relatedKeywords', 'relatedTraps', 'source', 'tables', 'topic', 'visuals']}
+ITEM_3 {'kind': 'object', 'keys': ['_batchFile', 'algorithms', 'arabicMentorExplanation', 'boardSafeLogic', 'chapterNumber', 'chapterTitle', 'id', 'keyPoints', 'needsVerification', 'relatedFocusedQuestionFamilies', 'relatedKeywords', 'relatedTraps', 'source', 'tables', 'topic', 'visuals']}
+ITEM_4 {'kind': 'object', 'keys': ['_batchFile', 'algorithms', 'arabicMentorExplanation', 'boardSafeLogic', 'chapterNumber', 'chapterTitle', 'id', 'keyPoints', 'needsVerification', 'relatedFocusedQuestionFamilies', 'relatedKeywords', 'relatedTraps', 'source', 'tables', 'topic', 'visuals']}
+
+FILE chapterStudyMap.json
+ROOT_SHAPE {'kind': 'array', 'length': 85, 'first': {'kind': 'object', 'keys': ['chapterNumber', 'count', 'entries', 'source']}}
+ITEM_0 {'kind': 'object', 'keys': ['chapterNumber', 'count', 'entries', 'source']}
+ITEM_1 {'kind': 'object', 'keys': ['chapterNumber', 'count', 'entries', 'source']}
+ITEM_2 {'kind': 'object', 'keys': ['chapterNumber', 'count', 'entries', 'source']}
+ITEM_3 {'kind': 'object', 'keys': ['chapterNumber', 'count', 'entries', 'source']}
+ITEM_4 {'kind': 'object', 'keys': ['chapterNumber', 'count', 'entries', 'source']}
+
+FILE masterTopicFamilyIndex.json
+ROOT_SHAPE {'kind': 'array', 'length': 38, 'first': {'kind': 'object', 'keys': ['count', 'entries', 'family']}}
+ITEM_0 {'kind': 'object', 'keys': ['count', 'entries', 'family']}
+ITEM_1 {'kind': 'object', 'keys': ['count', 'entries', 'family']}
+ITEM_2 {'kind': 'object', 'keys': ['count', 'entries', 'family']}
+ITEM_3 {'kind': 'object', 'keys': ['count', 'entries', 'family']}
+ITEM_4 {'kind': 'object', 'keys': ['count', 'entries', 'family']}
+
+FILE masterTrapIndex.json
+ROOT_SHAPE {'kind': 'array', 'length': 126, 'first': {'kind': 'object', 'keys': ['chapterNumber', 'chapterTitle', 'referenceId', 'source', 'topic', 'trap']}}
+ITEM_0 {'kind': 'object', 'keys': ['chapterNumber', 'chapterTitle', 'referenceId', 'source', 'topic', 'trap']}
+ITEM_1 {'kind': 'object', 'keys': ['chapterNumber', 'chapterTitle', 'referenceId', 'source', 'topic', 'trap']}
+ITEM_2 {'kind': 'object', 'keys': ['chapterNumber', 'chapterTitle', 'referenceId', 'source', 'topic', 'trap']}
+ITEM_3 {'kind': 'object', 'keys': ['chapterNumber', 'chapterTitle', 'referenceId', 'source', 'topic', 'trap']}
+ITEM_4 {'kind': 'object', 'keys': ['chapterNumber', 'chapterTitle', 'referenceId', 'source', 'topic', 'trap']}
+

@@ -1,0 +1,891 @@
+{
+  "schemaVersion": 1,
+  "origin": "SEG Emergency Medicine Master Library (Parts 1-3)",
+  "provenance": "Study-enhancement layer transcribed from the SEG Emergency Medicine Master Library reference framework (Tintinalli's, Rosen's, AHA/ACLS, ATLS and specialty guidelines). Under clinical review; educational aid only.",
+  "enhancements": [
+    {
+      "id": "cardiac-arrest",
+      "topic": "Cardiac Arrest",
+      "medicalSystem": "critical-care",
+      "algorithm": {
+        "title": "Cardiac arrest approach",
+        "steps": [
+          "Unresponsive patient: check breathing and pulse",
+          "No breathing/pulse: start CPR and attach monitor",
+          "Shockable rhythm (VF/pulseless VT): defibrillation + CPR",
+          "Non-shockable rhythm (PEA/Asystole): CPR + epinephrine pathway + search reversible causes",
+          "ROSC: post-cardiac arrest care"
+        ]
+      },
+      "examPearls": [
+        "VF and pulseless VT are shockable.",
+        "CPR quality and early defibrillation are essential.",
+        "Search Hs & Ts."
+      ],
+      "tables": [
+        {
+          "title": "Arrest rhythms",
+          "headers": ["Rhythm", "Type", "Action"],
+          "rows": [
+            ["VF/VT", "Shockable", "Defibrillation"],
+            ["PEA", "Non-shockable", "CPR + cause"],
+            ["Asystole", "Non-shockable", "CPR + cause"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine",
+        "AHA/ACLS"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["CARDIAC ARREST", "ADVANCED CARDIAC LIFE SUPPORT", "BASIC LIFE SUPPORT", "ACLS"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "shock-approach",
+      "topic": "Shock Approach",
+      "medicalSystem": "critical-care",
+      "algorithm": {
+        "title": "Shock approach",
+        "steps": [
+          "ABCDE assessment",
+          "Determine shock type",
+          "Immediate stabilization",
+          "Treat cause",
+          "Reassess"
+        ]
+      },
+      "examPearls": [
+        "Classify shock using history, examination and ultrasound when available.",
+        "Persistent shock requires cause-directed therapy."
+      ],
+      "tables": [
+        {
+          "title": "Shock types",
+          "headers": ["Type", "Feature"],
+          "rows": [
+            ["Hypovolemic", "Loss of volume"],
+            ["Cardiogenic", "Pump failure"],
+            ["Obstructive", "Mechanical blockage"],
+            ["Distributive", "Vasodilation"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine",
+        "ATLS"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["SHOCK"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "sepsis-septic-shock",
+      "topic": "Sepsis / Septic Shock",
+      "medicalSystem": "infectious-disease",
+      "algorithm": {
+        "title": "Sepsis pathway",
+        "steps": [
+          "Suspected infection + organ dysfunction: recognize early",
+          "Obtain cultures when appropriate",
+          "Early antibiotics",
+          "Fluid resuscitation",
+          "Vasopressors if needed",
+          "Source control"
+        ]
+      },
+      "examPearls": [
+        "Early recognition improves outcome.",
+        "Lactate helps assess severity but must be interpreted clinically.",
+        "Source control is important."
+      ],
+      "tables": [
+        {
+          "title": "Definitions",
+          "headers": ["Term", "Definition"],
+          "rows": [
+            ["Sepsis", "Infection + organ dysfunction"],
+            ["Septic shock", "Persistent hypotension after resuscitation"]
+          ]
+        },
+        {
+          "title": "Components",
+          "headers": ["Component", "Example"],
+          "rows": [
+            ["Infection", "Suspected source"],
+            ["Organ dysfunction", "Hypotension, altered function"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["SEPSIS", "SEPTIC SHOCK", "!ARTHRITIS"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "acute-coronary-syndrome",
+      "topic": "Acute Coronary Syndrome",
+      "medicalSystem": "cardiovascular",
+      "algorithm": {
+        "title": "ACS pathway",
+        "steps": [
+          "Chest pain: ECG early",
+          "Troponin and risk assessment",
+          "STEMI: reperfusion pathway",
+          "NSTEMI/unstable angina: ACS management"
+        ]
+      },
+      "examPearls": [
+        "ECG is an early critical test.",
+        "Consider alternative lethal causes of chest pain."
+      ],
+      "tables": [
+        {
+          "title": "ACS types",
+          "headers": ["Type", "Finding", "Pathway"],
+          "rows": [
+            ["STEMI", "ST elevation", "Reperfusion pathway"],
+            ["NSTEMI", "Biomarker elevation without ST elevation", "ACS management"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine",
+        "AHA/ACLS"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["ACUTE CORONARY", "MYOCARDIAL INFARCTION", "STEMI", "NSTEMI", "UNSTABLE ANGINA"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "cardiac-tamponade",
+      "topic": "Cardiac Tamponade",
+      "medicalSystem": "cardiovascular",
+      "algorithm": {
+        "title": "Tamponade pathway",
+        "steps": [
+          "Suspect tamponade",
+          "Assess stability",
+          "Echocardiography",
+          "Unstable: urgent drainage pathway"
+        ]
+      },
+      "examPearls": [
+        "Beck triad: hypotension, JVD, muffled heart sounds.",
+        "Echocardiography is key diagnostic tool."
+      ],
+      "tables": [
+        {
+          "title": "Tamponade findings",
+          "headers": ["Finding", "In tamponade"],
+          "rows": [
+            ["JVD", "Common"],
+            ["Hypotension", "Common"],
+            ["Muffled sounds", "Classic"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["TAMPONADE", "PERICARDITIS", "PERICARDIAL"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "acute-asthma",
+      "topic": "Acute Asthma Exacerbation",
+      "medicalSystem": "respiratory",
+      "algorithm": {
+        "title": "Asthma exacerbation pathway",
+        "steps": [
+          "Assess severity",
+          "Oxygen if needed",
+          "Inhaled bronchodilator therapy",
+          "Steroids when indicated",
+          "Reassess response"
+        ]
+      },
+      "examPearls": [
+        "Silent chest may indicate severe airflow limitation.",
+        "Severity assessment guides treatment and escalation."
+      ],
+      "tables": [
+        {
+          "title": "Severity",
+          "headers": ["Severity", "Findings"],
+          "rows": [
+            ["Mild", "Minimal symptoms"],
+            ["Severe", "Increased work of breathing, poor air movement"],
+            ["Life-threatening", "Exhaustion/altered state"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["ASTHMA", "STATUS ASTHMATICUS"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "copd-exacerbation",
+      "topic": "COPD Exacerbation",
+      "medicalSystem": "respiratory",
+      "algorithm": {
+        "title": "COPD exacerbation pathway",
+        "steps": [
+          "Dyspnea increase: assess oxygenation and trigger",
+          "Bronchodilators",
+          "Steroids/antibiotics when indicated",
+          "Ventilatory support if needed"
+        ]
+      },
+      "examPearls": [
+        "Evaluate for hypercapnic respiratory failure.",
+        "NIV can reduce intubation need in selected patients.",
+        "Assess for respiratory failure."
+      ],
+      "tables": [
+        {
+          "title": "Assessment",
+          "headers": ["Aspect", "Detail"],
+          "rows": [
+            ["Trigger", "Infection, irritants, other causes"],
+            ["Concern", "Hypercapnia: ventilatory failure"],
+            ["Severe sign", "Altered mental status"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["COPD", "CHRONIC OBSTRUCTIVE", "EMPHYSEMA", "CHRONIC BRONCHITIS"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "pneumothorax",
+      "topic": "Pneumothorax / Tension Pneumothorax",
+      "medicalSystem": "respiratory",
+      "algorithm": {
+        "title": "Pneumothorax pathway",
+        "steps": [
+          "Suspect pneumothorax: assess breathing and stability",
+          "Imaging if stable",
+          "Tension physiology: immediate decompression",
+          "Definitive management"
+        ]
+      },
+      "examPearls": [
+        "Tension pneumothorax is a clinical diagnosis.",
+        "Do not delay emergency treatment for imaging in unstable patients."
+      ],
+      "tables": [
+        {
+          "title": "Types",
+          "headers": ["Type", "Key feature", "Action"],
+          "rows": [
+            ["Simple", "Stable patient", "Observation/chest tube based on size"],
+            ["Tension", "Shock + respiratory compromise", "Immediate decompression"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine",
+        "ATLS"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["PNEUMOTHORAX"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "pulmonary-embolism",
+      "topic": "Pulmonary Embolism",
+      "medicalSystem": "respiratory",
+      "algorithm": {
+        "title": "PE pathway",
+        "steps": [
+          "Suspect PE",
+          "Assess hemodynamic stability",
+          "Risk stratify",
+          "D-dimer/imaging pathway when appropriate",
+          "Anticoagulation or advanced therapy"
+        ]
+      },
+      "examPearls": [
+        "Shock in PE indicates high risk.",
+        "Consider alternative diagnoses."
+      ],
+      "tables": [
+        {
+          "title": "Presentations",
+          "headers": ["Presentation", "Consider"],
+          "rows": [
+            ["Sudden dyspnea", "PE"],
+            ["Pleuritic pain", "PE/pneumothorax"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["PULMONARY EMBOLISM", "PULMONARY EMBOLUS", "VENOUS THROMBOEMBOLISM"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "primary-trauma-survey",
+      "topic": "Primary Trauma Survey (ABCDE)",
+      "medicalSystem": "trauma",
+      "algorithm": {
+        "title": "ABCDE survey",
+        "steps": [
+          "Airway + C-spine protection",
+          "Breathing assessment",
+          "Circulation and hemorrhage control",
+          "Disability (GCS/pupils/glucose)",
+          "Exposure and environment control"
+        ]
+      },
+      "examPearls": [
+        "ABCDE approach comes before detailed diagnosis.",
+        "Life-threatening problems are treated when found."
+      ],
+      "tables": [
+        {
+          "title": "Survey steps",
+          "headers": ["Step", "Focus", "Action"],
+          "rows": [
+            ["A", "Airway obstruction", "Immediate airway management"],
+            ["B", "Respiratory compromise", "Oxygen / ventilation"],
+            ["C", "Shock/bleeding", "Hemorrhage control"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine",
+        "ATLS"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["TRAUMA SURVEY", "PRIMARY SURVEY", "ABCDE", "MULTIPLE TRAUMA", "POLYTRAUMA", "TRAUMA IN ADULTS", "TRAUMA IN CHILDREN", "TRAUMA IN THE ELDERLY", "TRAUMA IN PREGNANCY", "TRAUMATIC", "PENETRATING TRAUMA", "ABDOMINAL TRAUMA", "CHEST TRAUMA", "BLUNT", "!NONTRAUMATIC"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "traumatic-brain-injury",
+      "topic": "Traumatic Brain Injury",
+      "medicalSystem": "trauma",
+      "algorithm": {
+        "title": "TBI pathway",
+        "steps": [
+          "Head trauma: assess GCS",
+          "Check airway and vitals",
+          "Identify red flags",
+          "CT head when indicated",
+          "Neurosurgical evaluation if severe"
+        ]
+      },
+      "examPearls": [
+        "Declining GCS is a major warning sign.",
+        "Always consider cervical spine injury."
+      ],
+      "tables": [
+        {
+          "title": "Red flags",
+          "headers": ["Finding", "Concern"],
+          "rows": [
+            ["Loss of consciousness", "Intracranial injury"],
+            ["Unequal pupils", "Herniation risk"],
+            ["Low GCS", "Severe injury"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine",
+        "ATLS"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["TRAUMATIC BRAIN INJURY", "HEAD TRAUMA", "HEAD INJURY", "CONCUSSION", "SKULL FRACTURE", "SUBDURAL", "EPIDURAL", "DIFFUSE AXONAL", "INTRACRANIAL INJURY"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "acute-stroke",
+      "topic": "Acute Stroke",
+      "medicalSystem": "neurology",
+      "algorithm": {
+        "title": "Stroke pathway",
+        "steps": [
+          "Suspected stroke: determine last known well",
+          "Check glucose",
+          "Non-contrast CT brain",
+          "Hemorrhage present: bleeding management pathway",
+          "No bleed: evaluate reperfusion eligibility"
+        ]
+      },
+      "examPearls": [
+        "Time of onset is essential.",
+        "Glucose abnormality can mimic stroke."
+      ],
+      "tables": [
+        {
+          "title": "Stroke types",
+          "headers": ["Type", "Imaging finding", "Main pathway"],
+          "rows": [
+            ["Ischemic", "No bleed", "Reperfusion assessment"],
+            ["Hemorrhagic", "Blood present", "Bleeding management"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["STROKE", "CEREBRAL INFARCTION", "INTRACEREBRAL HEMORRHAGE", "SUBARACHNOID", "TRANSIENT ISCHEMIC", "!HEAT"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "status-epilepticus",
+      "topic": "Status Epilepticus",
+      "medicalSystem": "neurology",
+      "algorithm": {
+        "title": "Status epilepticus pathway",
+        "steps": [
+          "Prolonged seizure: ABCs",
+          "Check glucose",
+          "Benzodiazepine first-line",
+          "Second-line antiseizure medication",
+          "ICU if refractory"
+        ]
+      },
+      "examPearls": [
+        "Treat ongoing seizure activity immediately.",
+        "Search reversible causes."
+      ],
+      "tables": [
+        {
+          "title": "Causes",
+          "headers": ["Cause", "Examples"],
+          "rows": [
+            ["Metabolic", "Glucose/electrolytes"],
+            ["Toxic", "Drugs/withdrawal"],
+            ["Structural", "Stroke/tumor"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["STATUS EPILEPTICUS", "SEIZURE", "EPILEPSY"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "acute-abdominal-pain",
+      "topic": "Acute Abdominal Pain Approach",
+      "medicalSystem": "gastrointestinal",
+      "algorithm": {
+        "title": "Abdominal pain pathway",
+        "steps": [
+          "Abdominal pain: assess stability",
+          "Look for peritonitis/shock",
+          "Labs/imaging based on presentation",
+          "Treat cause"
+        ]
+      },
+      "examPearls": [
+        "Unstable patients require resuscitation before definitive diagnosis.",
+        "Serial examination is important."
+      ],
+      "tables": [
+        {
+          "title": "Red-flag features",
+          "headers": ["Feature", "Suggests"],
+          "rows": [
+            ["Rigid abdomen", "Peritonitis"],
+            ["GI bleeding", "Hemorrhage"],
+            ["Pain out of proportion", "Mesenteric ischemia"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["ABDOMINAL PAIN", "ACUTE ABDOMEN", "PERITONITIS"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "gi-bleeding",
+      "topic": "GI Bleeding",
+      "medicalSystem": "gastrointestinal",
+      "algorithm": {
+        "title": "GI bleeding pathway",
+        "steps": [
+          "Bleeding patient: ABCs",
+          "IV access and resuscitation",
+          "Determine upper vs lower source",
+          "Endoscopy/colonoscopy pathway"
+        ]
+      },
+      "examPearls": [
+        "Hemodynamic instability changes priorities.",
+        "Resuscitation precedes definitive procedure."
+      ],
+      "tables": [
+        {
+          "title": "Sources",
+          "headers": ["Source", "Common clues"],
+          "rows": [
+            ["Upper GI", "Melena/hematemesis"],
+            ["Lower GI", "Hematochezia"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["GI BLEED", "GASTROINTESTINAL BLEED", "GASTROINTESTINAL BLEEDING", "MELENA", "HEMATEMESIS", "HEMATOCHEZIA", "VARICEAL"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "dka-hhs",
+      "topic": "DKA / HHS",
+      "medicalSystem": "endocrinology",
+      "algorithm": {
+        "title": "Hyperglycemic emergency pathway",
+        "steps": [
+          "Suspected hyperglycemic emergency: check glucose, ketones, electrolytes",
+          "Fluids",
+          "Correct potassium abnormalities",
+          "Insulin therapy",
+          "Monitor resolution"
+        ]
+      },
+      "examPearls": [
+        "Potassium management is critical before insulin.",
+        "Treat precipitating cause.",
+        "DKA is associated with ketosis and acidosis.",
+        "HHS usually has marked hyperglycemia and dehydration."
+      ],
+      "tables": [
+        {
+          "title": "DKA findings",
+          "headers": ["Finding", "DKA"],
+          "rows": [
+            ["Glucose", "Elevated"],
+            ["Ketones", "Present"],
+            ["Acidosis", "Present"]
+          ]
+        },
+        {
+          "title": "DKA vs HHS",
+          "headers": ["Feature", "DKA", "HHS"],
+          "rows": [
+            ["Ketones", "High", "Mild/absent"],
+            ["Acidosis", "Present", "Minimal"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["DIABETIC KETOACIDOSIS", "DKA", "HYPEROSMOLAR", "HYPERGLYCEMIC"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "hyperkalemia",
+      "topic": "Hyperkalemia",
+      "medicalSystem": "endocrinology",
+      "algorithm": {
+        "title": "Hyperkalemia pathway",
+        "steps": [
+          "High potassium: ECG assessment",
+          "Stabilize cardiac membrane if needed",
+          "Shift potassium intracellularly",
+          "Remove potassium"
+        ]
+      },
+      "examPearls": [
+        "ECG changes determine urgency.",
+        "Always consider renal failure and medications."
+      ],
+      "tables": [
+        {
+          "title": "ECG concerns",
+          "headers": ["ECG", "Concern"],
+          "rows": [
+            ["Peaked T waves", "Early finding"],
+            ["Wide QRS", "Severe toxicity"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["HYPERKALEMIA", "HYPERKALEMIC"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "hypoglycemia",
+      "topic": "Hypoglycemia",
+      "medicalSystem": "endocrinology",
+      "algorithm": {
+        "title": "Hypoglycemia pathway",
+        "steps": [
+          "Low glucose + symptoms: give glucose source",
+          "Recheck glucose",
+          "Identify cause"
+        ]
+      },
+      "examPearls": [
+        "Treat immediately when suspected.",
+        "Neurologic symptoms may mimic stroke."
+      ],
+      "tables": [
+        {
+          "title": "Causes",
+          "headers": ["Cause", "Examples"],
+          "rows": [
+            ["Medication", "Insulin"],
+            ["Reduced intake", "Fasting"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["HYPOGLYCEMIA", "HYPOGLYCEMIC", "LOW BLOOD SUGAR"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "opioid-overdose",
+      "topic": "Opioid Overdose",
+      "medicalSystem": "toxicology",
+      "algorithm": {
+        "title": "Opioid toxicity pathway",
+        "steps": [
+          "Suspected opioid toxicity: ABCs",
+          "Support ventilation",
+          "Naloxone when indicated",
+          "Monitor recurrence"
+        ]
+      },
+      "examPearls": [
+        "Respiratory depression is the key danger.",
+        "Airway support remains essential."
+      ],
+      "tables": [
+        {
+          "title": "Findings",
+          "headers": ["Finding", "In opioid toxicity"],
+          "rows": [
+            ["Miosis", "Common"],
+            ["Respiratory depression", "Critical"],
+            ["Altered consciousness", "Common"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["OPIOID", "OPIATE", "HEROIN"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "anaphylaxis",
+      "topic": "Anaphylaxis",
+      "medicalSystem": "critical-care",
+      "algorithm": {
+        "title": "Anaphylaxis pathway",
+        "steps": [
+          "Exposure + systemic allergic reaction: ABC assessment",
+          "IM epinephrine",
+          "Airway and breathing support",
+          "Adjunctive therapies"
+        ]
+      },
+      "examPearls": [
+        "Epinephrine is first-line treatment.",
+        "Do not delay epinephrine in severe reactions."
+      ],
+      "tables": [
+        {
+          "title": "Systems",
+          "headers": ["System", "Findings"],
+          "rows": [
+            ["Respiratory", "Wheeze, airway edema"],
+            ["Cardiovascular", "Hypotension"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["ANAPHYLAXIS", "ANAPHYLACTIC"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "ectopic-pregnancy",
+      "topic": "Ectopic Pregnancy",
+      "medicalSystem": "obstetrics-gynecology",
+      "algorithm": {
+        "title": "Ectopic pregnancy pathway",
+        "steps": [
+          "Pregnancy + pain/bleeding: assess stability",
+          "Pregnancy test",
+          "Ultrasound and hCG assessment",
+          "Medical or surgical management"
+        ]
+      },
+      "examPearls": [
+        "Always consider ectopic pregnancy in early pregnancy bleeding.",
+        "Hemodynamic instability requires urgent management."
+      ],
+      "tables": [
+        {
+          "title": "Concerns",
+          "headers": ["Finding", "Concern"],
+          "rows": [
+            ["Shoulder pain/syncope", "Rupture"],
+            ["Adnexal pain", "Ectopic possibility"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["ECTOPIC"]
+      },
+      "status": "under-review"
+    },
+    {
+      "id": "pediatric-fever",
+      "topic": "Pediatric Fever Approach",
+      "medicalSystem": "pediatrics",
+      "algorithm": {
+        "title": "Pediatric fever pathway",
+        "steps": [
+          "Child with fever: assess age and appearance",
+          "Identify source",
+          "Risk stratify",
+          "Investigate/treat according to risk"
+        ]
+      },
+      "examPearls": [
+        "Age changes risk assessment.",
+        "Appearance and behavior are important."
+      ],
+      "tables": [
+        {
+          "title": "Age groups",
+          "headers": ["Age group", "Consideration"],
+          "rows": [
+            ["Young infants", "Higher risk"]
+          ]
+        }
+      ],
+      "references": [
+        "SEG Emergency Medicine Master Library (Parts 1-3)",
+        "Tintinalli's Emergency Medicine",
+        "Rosen's Emergency Medicine"
+      ],
+      "sourceMapping": {
+        "books": ["tintinalli", "rosh", "rosen"],
+        "matchAliases": ["PEDIATRIC FEVER", "FEVER, PEDIATRIC", "FEVER AND SERIOUS BACTERIAL ILLNESS", "NEONATAL FEVER", "INFANT FEVER", "FEVER IN INFANTS"]
+      },
+      "status": "under-review"
+    }
+  ]
+}

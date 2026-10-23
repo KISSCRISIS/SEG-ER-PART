@@ -1,0 +1,16 @@
+| Feature | Status | Notes |
+|---|---|---|
+| Question Banks | Completed and Tested | 6819 valid Arabic questions (AQRAB), 25 chapters verified; all banks load successfully via `aqrab-question-bank.jsonl` |
+| Search and Import | Partially Present | Search functionality works (line 627); import flow unverified in packaged build |
+| Binary Interface & Keyboard Shortcuts | Present but Not Tested | Electron framework supports binary interface; keyboard shortcuts not explicitly tested |
+| Countdown & Progress Panel | Completed and Tested | Timer (line 556) and progress panel (line 582) function correctly in UI |
+| Exam Simulation & Quick Sprint | Partially Present | Session creation with `families: ['AQRAB']` works; Quick Sprint behavior not explicitly defined |
+| Error & Weakness Center | Partially Present | "Could not load this session" error (line 1287) occurs with large AQRAB sessions; likely due to `smartWindowError` |
+| PDF Summary Library | Completed and Tested | Arabic PDF summaries exist in `client/public/content/summary-books/` (e.g., `tintinalli-high-yield.json`) |
+| Windows Support | Completed and Tested | Electron app runs on Windows (verified via `win-unpacked` and `SEG Resident.exe`) |
+| Tablet Support | Present but Not Tested | Electron supports touch, but no dedicated tablet testing or UI optimization |
+| Offline Work | Completed and Tested | `SEG_LOCAL_WORKSPACE=true` + isolated `seg-local-data` directory with `workspace.sqlite` verified |
+
+**Critical Issues:**
+- AQRAB session loading error (line 1287) persists in packaged build despite successful API calls
+- Minimal additional work needed to resolve session loading for large AQRAB sessions

@@ -1,0 +1,758 @@
+[PEER-PHYS PEER-2026-volume-1-text-q-355] A 22-year-old man presents with a 1-week history of worsening left shoulder pain. He denies trauma, fever, chills, and rash. His medical history is significant for sickle cell disease. He is afebrile with normal vital signs. X-rays are obtained and shown below. What is the most likely diagnosis? Credit: Copyright 2021 Dr. Maulik S. Patel. Image courtesy of Dr. Maulik S.
+    ANSWER: Avascular necrosis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-356] Which imaging modality is preferred in the diagnosis of avascular necrosis of bone?
+    ANSWER: MRI   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-357] A fracture of what portion of the scaphoid bone places a patient at the highest risk of avascular necrosis?
+    ANSWER: Proximal pole because the arterial supply enters the distal scaphoid   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-358] A previously healthy 5-year-old presents with progressive right-sided hip pain and a limp. Based on the imaging shown, what is the most likely diagnosis? Credit: Bunsinth-Nan-Pua/Shutterstock.com.
+    ANSWER: Avascular necrosis of the femoral head   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-359] Which medication commonly prescribed in the emergency department is most likely to predispose a patient to the development of avascular necrosis of bone?
+    ANSWER: Prednisone   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-360] In which bony structure does avascular necrosis most commonly occur?
+    ANSWER: Femoral head   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-361] A 45-year-old man with type 2 diabetes presents with 6 weeks of a painful, non- healing wound to the great toe. Physical examination shows an ulcerated wound with foul-smelling drainage and surrounding erythema and swelling. The distal toe has normal capillary refill, movement, and sensation. An x-ray of the toe is shown below. What is the best next step in management? Credit: Copyright 2024 Dr.
+    ANSWER: Admission for IV antibiotics and wound care   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-362] Which organism most often causes osteomyelitis as a result of a plantar puncture wound to the foot when wearing shoes?
+    ANSWER: Pseudomonas aeruginosa   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-363] Which bacteria is the most common cause of osteomyelitis in adults with sickle cell disease?
+    ANSWER: Salmonella   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-364] What is the most likely etiology of osteomyelitis with isolated Fusobacterium and Eikenella corrodens bacteria?
+    ANSWER: Human bite   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-365] What is the most common source of acute osteomyelitis in children?
+    ANSWER: Hematogenous spread   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-366] Which imaging modality has the highest combined sensitivity and specificity for detecting osteomyelitis?
+    ANSWER: MRI with and without contrast   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-367] A patient presents from a nursing home with a foot wound. The patient's vital signs include P 142 and T 40.1°C (104.2°F); blood sugar is 582 mg/dL. An x-ray is obtained and shown below. What is the appropriate antibiotic regimen? Credit: Image courtesy of Dr. Wael Nemattalla and Radiopaedia.org, rID: 8487. Used under license.
+    ANSWER: Vancomycin plus meropenem   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-368] In the emergency department setting, which imaging modality is most appropriate for the initial evaluation of atraumatic bone pain?
+    ANSWER: X-ray   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-369] A 25-year-old patient presents with dull, boring pain to the right knee that has grown worse at night over the last several weeks. The patient denies fever or chills, and routine laboratory work is unremarkable. An x-ray of the area is obtained and shown below. What is the next best step in management? Credit: Copyright 2022 Dr. Pir Abdul Ahad Aziz Qureshi. Image courtesy of Dr.
+    ANSWER: Consult orthopedic surgery for expedited follow-up   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-370] In which decade of life would Ewing sarcoma most likely be diagnosed?
+    ANSWER: Second   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-371] A patient with a history of lung cancer presents with the x-ray shown below. Which laboratory abnormality is most likely to be seen? Credit: April stock/Shutterstock.com.
+    ANSWER: Hypercalcemia   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-372] What is a complication of unicameral bone cysts?
+    ANSWER: Pathologic fracture of the bone with minor trauma   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-373] A 75-year-old woman with osteoporosis presents with a 2-day history of atrau- matic pain in her right gluteal region that radiates into the pubic area. The pain is difficult to reproduce on examination. She has significant pain with walking that limits her ambulation. A pelvic x-ray is obtained and is read as negative. What is the next best imaging modality to obtain from the emergency department?
+    ANSWER: CT scan without contrast of the bony pelvis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-374] Which factor confers the highest risk for an osteoporotic fracture?
+    ANSWER: Advanced age   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-375] What is the most likely location for a fragility fracture?
+    ANSWER: Distal radius   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-376] An 86-year-old woman with osteoporosis presents with severe hip pain after a fall onto her left hip from standing. X-ray is negative for hip fracture, but despite ade- quate pain control, she cannot ambulate. Which imaging study is the best choice?
+    ANSWER: MRI   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-377] What is the best diagnostic screening test for osteoporotic vertebral compression fractures?
+    ANSWER: X-ray   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-378] An 88-year-old woman with osteoporosis has a sudden onset of severe back pain after bending over. She denies any recent trauma and is neurologically intact. CT is shown below. What is the best initial treatment? Credit: Copyright 2024 Dr. Roberto Schubert. Image courtesy of Dr. Roberto Schubert and Radiopaedia.org, rID: 17333. Used under license.
+    ANSWER: Pain control   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-379] A 65-year-old man presents with shoulder pain after tripping and hitting the wall. X-ray of the shoulder is shown below. What disorder is this patient most likely to have? Credit: Copyright 2024 Dr. Ian Bickle. Image courtesy of Dr. Ian Bickle and Radiopaedia.org. rID: 83674. Used under license.
+    ANSWER: Multiple myeloma   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-380] A 70-year-old man with stage IV lung cancer presents with shoulder pain after throwing a baseball with his grandson. He is neurovascularly intact. X-ray is shown below. After pain control, what is the next best step in his management? Credit: Copyright 2024 Dr. Ian Bickle. Image courtesy of Dr. Ian Bickle and Radiopaedia.org. rID: 83674. Used under license.
+    ANSWER: Orthopedic surgery consultation   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-381] What cancer is least likely to cause a pathologic fracture?
+    ANSWER: Liver   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-382] A 65-year-old woman with stage IV breast cancer presents with an inability to walk due to severe hip pain. She recalls no trauma. There is no deformity on exam- ination, and her vital signs are within normal limits. What is the best initial hip imaging modality?
+    ANSWER: X-ray   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-383] What is the most common site of pathologic fracture from metastatic disease?
+    ANSWER: Femur   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-384] A toddler with a history of hearing loss and abnormal dentition presents with a re- peat femur fracture. What is the most likely diagnosis?
+    ANSWER: Osteogenesis imperfecta   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-385] Vomiting, headache, and papilledema are complications that are most closely as- sociated with which congenital musculoskeletal disorder?
+    ANSWER: Craniosynostosis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-386] An adolescent presents with acute-onset chest pain. Which underlying condition indicates an emergent echocardiogram?
+    ANSWER: Marfan syndrome   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-387] A 58-year-old man presents with low back pain that shoots down the back of his left leg. He is having a difficult time with straining and prolonged sitting. With the patient lying supine, which physical examination finding is most specific for a di- agnosis of herniated disc?
+    ANSWER: Raising the patient's straight right leg causes back pain and radiation of pain down the posterior left leg   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-388] A patient presents with 2 days of atraumatic back pain without any red flag symp- toms. Acute right-sided lumbar radiculopathy is suspected. What is the best initial treatment for this condition?
+    ANSWER: NSAIDs   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-389] Disc herniation affecting which nerve root is most likely to cause a decreased Achilles (ankle jerk) reflex?
+    ANSWER: S1   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-390] An adult patient presents with 3 days of midline lumbar pain after lifting a heavy object. The patient is tender at L4 to L5. The pain radiates down the right leg and improves when lying flat. The patient is neurologically intact and denies weakness, changes in bowel or bladder function, direct trauma, or fever. A straight leg raise test is positive.
+    ANSWER: Ibuprofen   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-391] What is the most common cause of sciatica?
+    ANSWER: Disc herniation   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-392] What is the most appropriate empiric intravenous antibiotic treatment for verte- bral discitis for adults in the United States?
+    ANSWER: Vancomycin   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-393] A high school football player presents with cervical pain and left-arm paresthesia after a game. An MRI demonstrates a C5 disc herniation without epidural intru- sion. What are appropriate discharge instructions for this patient?
+    ANSWER: Return to play only when all symptoms are resolved   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-394] A 25-year-old woman presents with pain in her knees, heels, and left ankle as well as limited range of motion in her lower back. She was recently treated for STI symptoms with antibiotics and has since tested negative for gonorrhea; she is oth- erwise healthy and not taking any other medications. Examination reveals inflam- mation of her Achilles tendon.
+    ANSWER: Indomethacin   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-395] A young man presents with back pain that started while performing a deadlift. He describes a sudden “popping” sensation to the back with pain radiating down his right leg. He has no urinary retention or incontinence. On examination, he has normal motor strength and sensation and no midline spinal tenderness. What emergency department imaging is indicated?
+    ANSWER: No imaging indicated   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-396] A patient has pain radiating down the posterior leg to the lateral aspect of the foot and fifth toe, with weakness of foot plantar flexion. Which nerve root is most likely impinged?
+    ANSWER: S1   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-397] Which examination maneuver is used to help diagnose cervical radiculopathy?
+    ANSWER: Chin extended, head tilted, and application of axial pressure to the head   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-398] Which finding is an indication for an emergent MRI of the cervical spine?
+    ANSWER: Sudden-onset neck pain with fever and left arm weakness in a patient using IV drugs   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-399] An otherwise healthy young man presents with nontraumatic back pain radiating down his right leg. He has no incontinence, leg weakness, or saddle anesthesia. What is the most likely cause of his symptoms?
+    ANSWER: Nerve root compression   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-400] A 68-year-old man presents with lower back pain that started 2 days ago when he was hiking. He denies trauma, bowel and bladder incontinence or retention, fever, and weight loss. He has noticed similar pain when walking for long periods of time. On examination, he walks in a slightly flexed position. He has a normal rectal tone, no motor or sensory deficits, and normal peripheral pulses.
+    ANSWER: Spinal stenosis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-401] What disease process causes numbness and tingling to the lower legs that worsens with activity and improves with rest?
+    ANSWER: Lumbar spinal stenosis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-402] Which finding is consistent with lumbar spinal stenosis?
+    ANSWER: Pain and numbness shooting down the legs that worsens with walking   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-403] An 85-year-old woman presents with neck pain. She describes 8 months of slowly worsening neck pain with progressive weakness to both the upper and lower ex- tremities. She also reports shock-like pain in the arms with forward flexion of the neck. What is the most likely cause of these symptoms?
+    ANSWER: Degenerative changes to the cervical spine   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-404] Which presentation is consistent with degenerative cervical spinal stenosis?
+    ANSWER: Midline neck pain with arm weakness and pain with neck flexion   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-405] Which maneuver is most likely to confirm the diagnosis of lumbar spinal stenosis?
+    ANSWER: Extension of the lumbar spine exacerbates pain   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-406] What distinguishes cervical radiculopathy from uncomplicated musculoskeletal neck pain?
+    ANSWER: Pain with axial compression on an extended, laterally flexed neck   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-407] Which historic or physical examination finding is most consistent with the diagno- sis of costochondritis?
+    ANSWER: Reproducible chest-wall pain   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-408] Pain elicited from which test or maneuver is most supportive of a diagnosis of costochondritis?
+    ANSWER: Extension/abduction of shoulders with hands behind head and with neck extended; physician applies posterior traction to arms   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-409] Which medication is most appropriate to treat costochondritis in an older patient with chronic kidney disease?
+    ANSWER: Topical lidocaine   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-410] As an initial therapy, which medication is most likely to improve symptoms in a patient with fibromyalgia and musculoskeletal chest pain?
+    ANSWER: Cyclobenzaprine   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-411] Which organism is most likely to cause sternoclavicular osteomyelitis?
+    ANSWER: Staphylococcus aureus   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-412] An otherwise healthy 25-year-old man presents with 3 weeks of atraumatic lower back pain on the right side without associated neurologic deficits. What is the most appropriate management?
+    ANSWER: Normal activity as limited by pain   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-413] A 45-year-old man presents after an outpatient MRI reveals cauda equina syn- drome. What finding is most likely present?
+    ANSWER: Decreased anal sensation   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-414] What is the most common etiology of cauda equina syndrome?
+    ANSWER: Disc herniation   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-415] Which finding is most useful in ruling out cauda equina syndrome?
+    ANSWER: Bladder postvoid residual of 75 mL   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-416] What imaging modality is considered the gold standard in evaluation and diagno- sis of cauda equina syndrome?
+    ANSWER: MRI   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-417] What finding distinguishes cauda equina syndrome from conus medullaris syndrome?
+    ANSWER: Absence of upper motor neuron signs   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-418] What treatment is most essential in the prevention of long-term neurologic seque- lae in cauda equina syndrome caused by a spinal abscess?
+    ANSWER: Surgical decompression   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-419] Which finding is typically seen early in the course of cauda equina syndrome?
+    ANSWER: Urinary retention   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-420] What is the most common symptom in cauda equina syndrome?
+    ANSWER: Urinary retention   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-421] Which disease is most commonly associated with inflammation of the sacroiliac joints?
+    ANSWER: Ankylosing spondylitis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-422] A patient has disc protrusion at L3 that is causing right-sided lower-extremity neu- rological symptoms. What physical examination finding is most consistent with this diagnosis?
+    ANSWER: Weakness with right knee extension   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-423] What is the most common cause of sciatica in nongeriatric adults?
+    ANSWER: Disc herniation   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-424] A patient presents with acute-onset lower back pain and weakness with right big toe extension after lifting heavy weights. Which nerve root is affected by the disc protrusion?
+    ANSWER: L5 nerve root   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-425] Which mechanism is the most likely cause of discitis?
+    ANSWER: Endocarditis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-426] Which laboratory finding is most likely to be noted in discitis?
+    ANSWER: Elevated ESR   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-427] Which history and physical examination finding is most common in discitis?
+    ANSWER: Localized tenderness to spinal percussion   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-428] Which antibiotic is most appropriate to utilize for empiric coverage of discitis?
+    ANSWER: Vancomycin   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-429] What is the imaging modality of choice for discitis?
+    ANSWER: MRI with contrast   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-430] A 23-year-old woman presents with wrist, knee, and ankle pain of 4 days' dura- tion. The pain started in her left wrist and ankle, but over the past 24 hours, the pain in her right knee has become progressively worse. Small papules are noted diffusely, including on her palms. She denies trauma.
+    ANSWER: Cultures of the pharynx and vagina   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-431] What is the most common etiology of septic arthritis?
+    ANSWER: Hematogenous seeding   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-432] Which laboratory test result is the gold standard for diagnosing gout?
+    ANSWER: Negatively birefringent crystals on aspirate   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-433] An afebrile 67-year-old man who takes hydrochlorothiazide presents with right foot pain, as shown below. What is the most likely diagnosis? Credit: tacojim/iStock/Getty Images Plus.
+    ANSWER: Gout   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-434] Which synovial fluid finding is most consistent with gouty arthritis?
+    ANSWER: 15,000 WBCs/mm 3 , 50% PMNs, negatively birefringent monosodium urate crystals, and negative Gram stain   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-435] What is the best oral treatment for acute gout flare in a patient with chronic kidney disease?
+    ANSWER: Prednisone 40 mg   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-436] What crystals are found in the synovial fluid of pseudogout?
+    ANSWER: Positively birefringent calcium pyrophosphate crystals   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-437] What is most likely to trigger a gout flare?
+    ANSWER: Salicylates   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-438] An otherwise healthy 15-year-old girl presents with 2 months of progressive swelling and pain in the small joints of her hands and feet. She denies any other associated signs or symptoms. What is the most likely diagnosis?
+    ANSWER: Juvenile idiopathic arthritis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-439] A 36-year-old woman presents with bilateral ankle pain that has lasted for a week. She also mentions progressively worsening wrist stiffness over the past few months that improves throughout the day with use. What is the most likely diagnosis?
+    ANSWER: Rheumatoid arthritis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-440] A 45-year-old woman presents with complaints of bilateral hand and knee pain. She states her pain is similar to prior rheumatoid arthritis flares. She is currently taking a disease-modifying antirheumatic drug (DMARD) and has an appointment with her rheumatologist in 2 days. What is the best treatment for her present flare?
+    ANSWER: Prednisone   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-441] A 38-year-old woman presents with wrist pain. The joint is tender and warm to the touch. A joint aspiration is performed. Which description of the fluid is most con- sistent with an acute flare of rheumatoid arthritis?
+    ANSWER: Yellow with 20,000 WBCs per mm 3 , neutrophilic predominance, and no crystals   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-442] Which is the definitive method of diagnosing rheumatoid arthritis?
+    ANSWER: Serologic markers   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-443] A 6-year-old boy is brought in for evaluation of acute on chronic hip pain. His mother states he has complained of hip and knee pain several times in the past year and he occasionally limps, but today, he is refusing to walk. He has a pink macular rash on his trunk. He has had a fever of 39.2°C (102.6°F) for the past weeks.
+    ANSWER: Juvenile idiopathic arthritis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-444] Which finding is most consistent with systemic juvenile idiopathic arthritis?
+    ANSWER: Daily fever   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-445] A child presents with daily fevers, rash over the cheeks, joint swelling, and hema- turia. What is the most likely diagnosis?
+    ANSWER: Systemic lupus erythematosus   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-446] A patient with systemic juvenile idiopathic arthritis (sJIA) is noted to have a sud- den decrease in their previously elevated platelet count. What complication is most likely to develop?
+    ANSWER: Macrophage activation syndrome   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-447] A child with juvenile idiopathic arthritis (JIA) presents with persistent fever, cough, weight loss, and night sweats. These symptoms are most likely due to treat- ment with which medication?
+    ANSWER: Tumor necrosis factor–alpha inhibitor   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-448] What is the correct disposition plan for a child with fever, arthritis, and the rash pictured below? Credit: CDC/James Gathany.
+    ANSWER: Discharge home with oral antibiotics   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-449] A 72-year-old woman presents with atraumatic joint pain that she has had "for years." It is worse in her knees and worsens throughout the day with activity. She denies fever and recent illness. Considering the most likely diagnosis, what other clinical findings are expected on examination?
+    ANSWER: Nodes in the proximal interphalangeal and distal interphalangeal joints of the hand   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-450] A 65-year-old man presents with a 2-week history of increasing pain and swelling in his right knee. He says that both of his knees have hurt for the past year and that the pain is worse after working all day. On examination, he is afebrile and well appearing, and his other joints seem normal. His right knee is enlarged when com- pared with the left, but there is no erythema and no effusion.
+    ANSWER: Osteoarthritis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-451] A 33-year-old man presents with acute-onset pain and swelling in his joints in both knees, his right hip, and his left heel. When asked, he says he has pain on uri- nation but no penile discharge. He denies previous STIs and other risk factors. A physical examination reveals asymmetrical arthritis, bilateral injected sclera, and photophobia. What is the most likely diagnosis?
+    ANSWER: Reactive arthritis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-452] What finding is most likely in a 2-month-old infant with developmental dysplasia of the hip?
+    ANSWER: Definitive "clunk" with movement of the femoral head   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-453] Which initial diagnostic imaging study is preferred to assess the hip stability of a 2-month-old infant with suspected developmental dysplasia of the hip?
+    ANSWER: Ultrasound   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-454] An otherwise healthy newborn presents for evaluation of an abnormal popping sound when changing the diaper. On examination, a palpable clunk when abduct- ing the flexed hip is noted. What is the most appropriate next step?
+    ANSWER: Urgent outpatient orthopedic consultation   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-455] A 10-year-old boy is brought in for evaluation of knee pain and a limp that started 2 weeks earlier after he participated in a standing long-jump activity at school. He has limited range of motion at the hip and knee of the affected leg with moderate spasm of the vastus medialis. An x-ray is obtained and shown below. What is the most likely diagnosis? Credit: Christopher Amato, MD, FACEP.
+    ANSWER: Slipped capital femoral epiphysis   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-456] An obese 15-year-old boy presented with left hip pain and limping that has wors- ened over the past 3 weeks despite taking ibuprofen. He denies trauma, fever, or recent illness. Active and passive motion of the hip elicits pain. X-rays are shown below. What is the most likely diagnosis? Credit: Courtesy of David Effron, MD, FACEP.
+    ANSWER: Slipped capital femoral epiphysis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-457] An obese 13-year-old boy presents with a 2-week history of progressively worsen- ing left knee pain after a minor ground-level fall. The family's doctor diagnosed it as growing pains, but the parents are concerned because the boy has started to limp. He is otherwise healthy and asymptomatic, and his vital signs are normal for his age.
+    ANSWER: Slipped capital femoral epiphysis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-458] A 16-year-old girl presents with left ankle pain associated with fever and malaise lasting 5 days. She has no history of trauma or surgeries. Physical examination re- veals erythema and swelling of the ankle and a pustular lesion on her thigh, shown below. Passive movement of the joint elicits severe pain. What is the most likely diagnosis? Credit: Courtesy of David Effron, MD, FACEP.
+    ANSWER: Gonococcal tenosynovitis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-459] A febrile patient presents with an acutely painful, warm, and swollen knee. Range of motion is limited due to pain. What are the next steps in management?
+    ANSWER: Obtain x-rays and perform arthrocentesis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-460] A sexually active 24-year-old man presents with polyarticular joint pain in his left knee, right ankle, and right heel. He reports having bilateral eye redness last week that has resolved. What additional clinical finding may have been present?
+    ANSWER: Penile discharge   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-461] Which medication is typically used in the long-term management of gouty arthritis?
+    ANSWER: Allopurinol   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-462] A 70-year-old patient presents with right knee pain, redness, and swelling. X-rays show chondrocalcinosis. What is the most likely arthrocentesis finding?
+    ANSWER: Positively birefringent crystals   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-463] X-ray findings of asymmetric joint space narrowing, subchondral cyst formation, and bone spurs are most consistent with what diagnosis?
+    ANSWER: Degenerative osteoarthritis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-464] In which condition would a nondepolarizing paralytic agent fail to reverse the as- sociated muscle rigidity?
+    ANSWER: Malignant hyperthermia   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-465] A 67-year-old woman presents with confusion, diaphoresis, and generalized pro- found muscular rigidity that has progressed over the past 2 days. Her medical his- tory is significant for Parkinson disease. Her vital signs include BP 90/60, P 140, R 20, and T 39.5°C (103.1°F). Laboratory testing reveals an elevated CK level. What is most likely responsible for her presentation?
+    ANSWER: Abrupt discontinuation of levodopa-carbidopa   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-466] A 14-year-old boy presents with leg pain after being tackled during football. He was able to continue playing but had persistent pain in that extremity. A physical examination demonstrates intact muscle strength, range of motion, and sensation with mild soft-tissue swelling of the anterior thigh. He injured the same leg years earlier while wrestling. An x-ray of the femur is shown below.
+    ANSWER: Myositis ossificans   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-467] A 74-year-old woman presents with weakness in her legs and difficulty walking. She has had a rash on both arms for 4 months that has not responded to over-the- counter corticosteroid cream. Which additional finding supports a diagnosis of myositis?
+    ANSWER: Proximal muscle and limb-girdle weakness, muscle tenderness, and normal reflexes   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-468] An intoxicated 52-year-old man presents with altered mental status after using phencyclidine. His laboratory evaluation is significant for a CK level of 5,100 U/L and tea-colored urine. What is the most appropriate treatment?
+    ANSWER: Intravenous hydration   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-469] A 44-year-old man with a history of alcoholism was found lying on the floor of his house, where he had been for several days. On examination, he appears lethargic and is noted to have decreased skin turgor; dry mucous membranes; and mild, dif- fuse tenderness upon palpation of all muscle groups. His CK is 12,000 IU/L, and his potassium is 5.9 mEq/L. What is the most appropriate initial management?
+    ANSWER: Fluid resuscitation   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-470] Which primary treatment modality will reduce the risk of acute renal failure in rhabdomyolysis?
+    ANSWER: Normal saline   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-471] A 32-year-old man presents with muscle weakness and dark-colored urine after completing a marathon the day before. Which additional finding would suggest that he has an acute renal injury?
+    ANSWER: Rapid increase in serum creatinine   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-472] What serum laboratory abnormalities characterize the acute phase of rhabdomyolysis?
+    ANSWER: High CK, low calcium, high potassium, high phosphorus   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-473] A 22-year-old football player presents with sore muscles after an intense workout. His urinalysis results show 3+ blood with no RBCs, a serum CK level of 15,000 IU/L, a potassium level of 5.7 mEq/L, and a creatinine level of 4.5 mg/dL. What is the best initial treatment?
+    ANSWER: Intravenous hydration with monitoring of serum electrolyte levels   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-474] An 18-year-old soccer player presents with severe leg pain and tea-colored urine after intensive running drills. On examination, the anterior compartment of the lower right leg is firm. There is severe pain with passive ankle plantar flexion and reduced sensation between the dorsal first and second toes. What is the most likely diagnosis?
+    ANSWER: Rhabdomyolysis with acute compartment syndrome   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-475] A patient presents in police custody for erratic behavior and phencyclidine abuse. He has tea-colored urine, and his CK level is 10,000 IU/L. His heart rate is 115 bpm, and his temperature is 37.3°C (99.1°F). He does not demonstrate any signifi- cant muscle rigidity or clonus. What is the most likely diagnosis?
+    ANSWER: Exertional rhabdomyolysis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-476] A patient presents with muscle pain and dark, tea-colored urine after heavy exer- tion. Laboratory analysis shows a CK level of 20,000 IU/L, creatinine level of 2.5 mg/dL, potassium level of 5.5 mEq/L, and calcium level of 5.0 mg/dL. An ECG is obtained and shown. In addition to intravenous fluids, what is the appropriate management at this time? Credit: Inna Ogando/Shutterstock.com.
+    ANSWER: Close monitoring of urine output and serum electrolytes   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-477] A patient presents with pain and tense swelling due to a lower extremity injury. His BP is 110/54 mm Hg, and the compartment pressure is 38 mm Hg. What is the most appropriate next step in treatment?
+    ANSWER: Surgical consultation and immediate fasciotomy   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-478] A 38-year-old man presents with elbow swelling of 2 weeks' duration. He has full range of motion without difficulty and no warmth or erythema to the area. What should the best treatment approach include? Credit: Selim Suner, MD, MS.
+    ANSWER: NSAIDs   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-479] A 20-year-old soccer player presents with sudden calf pain that started while sprinting during a game. He is able to plantarflex his foot and ankle, but it causes pain. The Thompson test is negative. What is the most likely diagnosis?
+    ANSWER: Gastrocnemius strain   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-480] What is required for the diagnosis of Guillain-Barré syndrome?
+    ANSWER: Decreased reflexes   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-481] A 34-year-old woman presents with left-sided facial numbness, unilateral facial paralysis, and a decreased sense of taste for the past 2 days. She is unable to raise her left eyebrow and has difficulty fully closing her left eye. She denies any other symptoms, and there are no other abnormalities noted on physical examination. What is the most likely cause of her symptoms?
+    ANSWER: HSV   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-482] A 22-year-old G1P0 woman who is 38 weeks' pregnant presents with right eye dry- ness that has worsened progressively over the past 3 days. On examination, she has near-complete right-sided facial paralysis, decreased forehead wrinkling, and an inability to fully close her right eye. She denies any other symptoms, and there are no other abnormalities noted on physical examination.
+    ANSWER: Prednisone   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-483] A 45-year-old woman presents with pain, paresthesias, and decreased sensation on the palmar aspect of the first three fingers of her right hand. Her motor strength is intact. Symptoms began after she started a new job as an administra- tive assistant. What is the best next step in management?
+    ANSWER: Discharge home with a neutral wrist splint   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-484] A 34-year-old man presents with an abnormal gait. During a cycling accident 2 weeks ago, he suffered a right knee dislocation, which was promptly reduced. He is recovering well from the injury but claims he has to lift his right knee higher than the left to walk. On examination, he has weakness with dorsiflexion and decreased sensation over his anterior right leg. Which nerve is affected?
+    ANSWER: Peroneal nerve   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-485] A 42-year-old woman presents with right hand pain. On examination, she has de- creased sensation of the first three fingers and the radial aspect of the 4th finger. What is the best next step?
+    ANSWER: Discharge with wrist brace   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-486] Which examination finding is most sensitive for the diagnosis of carpal tunnel syndrome?
+    ANSWER: Positive Phalen maneuver   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-487] A 45-year-old woman presents with pain, tingling, numbness, and intermittent weakness in her left thumb and index finger. For several months, the symptoms occurred only at night, but now they occur during the day and interfere with her work as a violinist. What is the most likely diagnosis?
+    ANSWER: Carpal tunnel syndrome   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-488] A diabetic patient presents with burning pain in both hands that has been present for the past few months and is worse at night. There is thenar atrophy on physical examination. Symptoms can be reproduced on the palmar aspect of the 1st, 2nd, and 3rd fingers by flexing the wrists for 1 minute and tapping the volar aspect of the wrist creases over the median nerve.
+    ANSWER: Place a wrist splint and prescribe oral steroids   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-489] A patient suffers an electric shock sensation that radiates from their wrist to their hand when a physician taps on the palmar aspect of their wrist. What is the name of this test?
+    ANSWER: Tinel sign   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-490] A patient presents with a 1-month history of numbness to part of the thumb and the first three fingers of the right hand. The pain is worse in the morning. What is the most probable cause?
+    ANSWER: Carpal tunnel syndrome   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-491] Which examination technique is paired with the correct condition for which it is testing?
+    ANSWER: Phalen maneuver for carpal tunnel syndrome   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-492] What is the appropriate initial management of carpal tunnel syndrome?
+    ANSWER: Wrist splinting   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-493] How is the Phalen maneuver performed?
+    ANSWER: Flexing the wrist and holding it for 1 minute   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-494] A 32-year-old woman presents with pain over the radial aspect of her right wrist. The examination reveals that the pain is exacerbated when she grasps her right thumb in her palm and ulnar deviates the affected wrist. Pain exacerbated by this motion is diagnostic of what condition?
+    ANSWER: de Quervain tendinopathy   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-495] A 40-year-old woman presents with a 1-week history of right shoulder discomfort. There is no history of injury or prior pain. Lifting her arm above shoulder level ag- gravates the discomfort, and sometimes she feels it “catch” when she moves. She has no numbness or weakness but says the shoulder occasionally feels stiff.
+    ANSWER: Calcific tendonitis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-496] Which medication can provoke or exacerbate tendinopathy?
+    ANSWER: Fluoroquinolones   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-497] A 21-year-old woman presents with right calf pain that is worse with walking. The pain is worse in the mornings and wanes in the evening. She is a runner and has recently started training for a marathon. On examination, she has tenderness 2 to 6 cm superior to the posterior calcaneus, with crepitus on active plantar and dorsi- flexion. What is the most likely diagnosis?
+    ANSWER: Achilles tendinopathy   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-498] A 21-year-old man presents with right elbow pain. Tenderness is elicited while pal- pating the medial elbow with one hand and passively supinating the forearm and extending the elbow, wrist, and fingers with the other hand. What is the most likely etiology of this patient's symptoms?
+    ANSWER: Flexor tendinopathy   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-499] Atraumatic anterior knee pain without an effusion best characterizes which dis- ease processes?
+    ANSWER: Patellar tendinopathy   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-500] A 46-year-old man presents with right shoulder pain that is worse at night and with overhead activities. He denies trauma and states that he has been unable to lay on his right shoulder. He denies neck pain. On examination, there is no pain at the bicipital groove. Which provocative maneuver can help elicit the cause of the patient's shoulder pain?
+    ANSWER: Empty can test   (key A)
+[PEER-CS peer2026-1-batch-322-q-322] Musculoskeletal A 44-year-old man presents with a 2-day history of lower back pain that started suddenly after he picked up a heavy box. The pain radiates down his lateral right leg to the right foot. He denies any numbness, tingling, or difficulty with urina- tion or defecation. On examination, there is discomfort but no tenderness in the midline lumbar spine.
+    ANSWER: L5 - Case Series 2026-1 — Answered Page 660 of 974   (key C)
+[PEER-CS peer2026-1-batch-323-q-323] Musculoskeletal A 44-year-old man presents with a 2-day history of lower back pain that started suddenly after he picked up a heavy box. The pain radiates down his lateral right leg to the right foot. He denies any numbness, tingling, or difficulty with urina- tion or defecation. On examination, there is discomfort but no tenderness in the midline lumbar spine.
+    ANSWER: Analgesics only, no imaging   (key A)
+[PEER-CS peer2026-1-batch-324-q-324] Musculoskeletal A 44-year-old man presents with a 2-day history of lower back pain that started suddenly after he picked up a heavy box. The pain radiates down his lateral right leg to the right foot. He denies any numbness, tingling, or difficulty with urina- tion or defecation. His vital signs include BP 110/70, P 110, R 20, and T 38.5°C (101.3°F).
+    ANSWER: Temperature of 38.5°C (101.3°F)   (key D)
+[PEER-CS peer2026-1-batch-325-q-325] Musculoskeletal - Case Series 2026-1 — Answered Page 666 of 974 An 81-year-old man with diabetes and degenerative joint disease of the lumbar spine presents with low back pain that has gradually worsened over the past 2 weeks. He had a cystoscopy 1 month ago for persistent microscopic hematuria. His vital signs are BP 142/86, P 85, R 16, and T 38.1°C (100.6°F); SpO is 98% on room air.
+    ANSWER: MRI spine   (key C)
+[PEER-CS peer2026-1-batch-326-q-326] Musculoskeletal An 81-year-old man with diabetes and degenerative joint disease of the lumbar spine presents with low back pain that has gradually worsened over the past 2 weeks. He had a cystoscopy 1 month ago for persistent microscopic hematuria. His vital signs are BP 142/86, P 105, R 16, and T 38.8°C (101.8°F); SpO is 98% on room air.
+    ANSWER: Psoas abscess   (key C)
+[PEER-CS peer2026-1-batch-327-q-327] Musculoskeletal An 81-year-old man with diabetes and degenerative joint disease of the lumbar spine presents with low back pain that has gradually worsened over the past 2 weeks. He had a cystoscopy 1 month ago for persistent microscopic hematuria. His vital signs are BP 92/76, P 115, R 16, and T 38.8°C (101.8°F); SpO is 98% on room air.
+    ANSWER: Vancomycin and cefepime   (key D)
+[PEER-CS peer2026-1-batch-328-q-328] Musculoskeletal An 86-year-old woman presents with pain in her right lower back and her right hip, knee, and foot. She denies trauma. The physical examination is notable for localized tenderness to palpation of the L3 vertebrae, right greater trochanter, right tibial plateau, and right 5th metatarsal. Straight leg raise is negative. What is the most likely location of an osteoporotic fracture?
+    ANSWER: Spine   (key C)
+[PEER-CS peer2026-1-batch-329-q-329] Musculoskeletal A 40-year-old woman with a history of breast cancer presents with new-onset back pain. X-rays reveal a new vertebral compression fracture. She does not have saddle anesthesia, bowel or bladder dysfunction, or abnormal lower extremity reflexes. Assuming you are working in a cancer referral ED, which imaging study is the most appropriate next step?
+    ANSWER: MRI with and without IV contrast   (key C)
+[PEER-CS peer2026-1-batch-330-q-330] Musculoskeletal A 10-year-old presents with a 5-week history of midline lower back pain. The pa- tient has no significant medical history, is taking no medications, and has no his- tory of trauma or pain waking the patient from sleep. The neurological examina- tion and straight leg raise are normal.
+    ANSWER: Duration of low back pain with normal neurological examination   (key C)
+[PEER-CS peer2026-1-batch-331-q-331] Musculoskeletal A 43-year-old woman presents with atraumatic low back pain. Her vital signs in- clude BP 130/95, P 95, R 16, and T 37.2°C (99°F). The physical examination is notable for tenderness to palpation at the L3 vertebrae. - Case Series 2026-1 — Answered Page 677 of 974 Which additional finding on physical examination would warrant emergent ad- vanced imaging?
+    ANSWER: Decreased perineal sensation   (key A)
+[PEER-CS peer2026-1-batch-332-q-332] Musculoskeletal A 43-year-old woman presents with atraumatic low back pain. Her vital signs in- clude BP 130/95, P 95, R 16, and T 37.2°C (99°F). The physical examination is notable for tenderness to palpation at the L3 vertebrae. Today, she began to no- tice shooting pain in her bilateral lower extremities, weakness in the legs, and difficulty urinating.
+    ANSWER: Disc herniation   (key B)
+[PEER-CS peer2026-1-batch-333-q-333] Musculoskeletal A 43-year-old woman presents with atraumatic low back pain. Her vital signs in- clude BP 130/95, P 95, R 16, and T 37.2°C (99°F). The physical examination is notable for tenderness to palpation at the L3 vertebrae. Today, she began to no- tice shooting pain in her bilateral lower extremities, weakness in the legs, and difficulty urinating.
+    ANSWER: Emergent overnight transfer to tertiary care center   (key C)
+[PEER-CS peer2026-1-batch-334-q-334] Musculoskeletal A 71-year-old man with degenerative joint disease of the lumbar spine presents with low back pain that has been gradually worsening over the past 6 months. The pain radiates down both of his legs when he walks. Standing does not relieve his symptoms, but leaning forward on a countertop provides some relief. He de- nies pelvic numbness and issues with urination or defecation.
+    ANSWER: MRI spine   (key D)
+[PEER-CS peer2026-1-batch-335-q-335] Musculoskeletal A 71-year-old man with degenerative joint disease of the lumbar spine presents with low back pain that has been gradually worsening over the past 6 months. The pain radiates down both of his legs when he walks. Standing does not relieve his symptoms, but leaning forward on a countertop provides some relief. He de- nies pelvic numbness and issues with urination or defecation.
+    ANSWER: L3   (key B)
+[PEER-CS peer2026-1-batch-336-q-336] Musculoskeletal A 14-year-old boy presents with low back pain that has been worsening over the past 3 months with activity. He is a varsity lineman and is training for a weight- lifting competition. This past week, he has noticed that the pain occasionally ra- diates down the back of both his legs. He denies pelvic numbness and issues with urination or defecation.
+    ANSWER: Activity restriction   (key A)
+[PEER-CS peer2026-1-batch-337-q-337] Musculoskeletal A 44-year-old man presents with knee pain and difficulty ambulating after a me- chanical fall. His vital signs are normal. On examination, he has tenderness and a palpable defect proximal to the patella, and he is unable to actively extend his leg at the knee. Distal pulses are intact. Knee x-rays are negative for fracture but demonstrate patella baja.
+    ANSWER: MRI   (key D)
+[PEER-CS peer2026-1-batch-338-q-338] Musculoskeletal A 44-year-old man presents with knee pain and difficulty ambulating after a me- chanical fall. His vital signs are normal. On examination, he has tenderness and a palpable defect proximal to the patella, and he is unable to actively extend his leg at the knee. Distal pulses are intact. Knee x-rays are negative for fracture but demonstrate patella baja.
+    ANSWER: Levofloxacin   (key C)
+[PEER-CS peer2026-1-batch-339-q-339] Musculoskeletal - Case Series 2026-1 — Answered Page 692 of 974 A 44-year-old man presents with knee pain and difficulty ambulating after a me- chanical fall. His vital signs are normal. On examination, he has tenderness and a large fluctuant swelling over the anterior knee without any overlying skin ery- thema or warmth. Knee range of motion is full but is uncomfortable due to pain.
+    ANSWER: Apply compression wrap and analgesics   (key B)
+[PEER-CS peer2026-1-batch-340-q-340] Musculoskeletal A 45-year-old man presents with a 3-day history of right knee swelling and diffi- culty with ambulation. He denies trauma, spontaneous bleeding, and bruising, but he endorses subjective fevers and chills. His medical history is significant for diabetes, gout, and pulmonary embolism, for which he takes warfarin.
+    ANSWER: Aspirate for synovial fluid analysis   (key C)
+[PEER-CS peer2026-1-batch-341-q-341] Musculoskeletal A 45-year-old man presents with a 3-day history of right knee swelling and diffi- culty with ambulation. He denies trauma, spontaneous bleeding, and bruising, - Case Series 2026-1 — Answered Page 696 of 974 but he endorses subjective fevers and chills. His medical history is significant for diabetes, gout, and pulmonary embolism, for which he takes warfarin.
+    ANSWER: Vancomycin IV and ceftriaxone IV   (key D)
+[PEER-CS peer2026-1-batch-342-q-342] Musculoskeletal - Case Series 2026-1 — Answered Page 698 of 974 A 41-year-old man presents with left leg pain that started when an opposing soc- cer player slid into him, striking his lower leg. He had immediate pain and was unable to ambulate. His examination reveals swelling and a notable deformity of the tibia without a break in the skin. He has normal range of motion of his ankle.
+    ANSWER: Anterior delta compartment pressure of 15 mm Hg   (key C)
+[PEER-CS peer2026-1-batch-343-q-343] Musculoskeletal A 48-year-old man presents with a painful finger. On examination, the right thumb is swollen, tender to palpation, and has pain with passive range of motion. Which additional examination finding would raise suspicion of a diagnosis re- quiring an emergent hand surgeon consultation?
+    ANSWER: Finger held in flexion   (key A)
+[PEER-CS peer2026-1-batch-344-q-344] Musculoskeletal - Case Series 2026-1 — Answered Page 702 of 974 A 48-year-old woman presents with a painful finger. She endorses throbbing pain at the tip of her long finger. Her vital signs are within normal limits, and there is no history of trauma. Herpetic whitlow and paronychia have been ruled out, but a bacterial infection within the fingertip pulp is suspected.
+    ANSWER: High lateral incision and drainage   (key B)
+[PEER-CS peer2026-1-batch-345-q-345] Musculoskeletal A 48-year-old woman presents with a 2-day history of painful swelling of the in- dex finger. The pain and swelling is isolated to the radial aspect of the distal pha- lanx and is adjacent to the finger nail, which is white and swollen. There is no swelling or pain within the pulp of the fingertip, no crusted lesions, and no proxi- mal spread of symptoms.
+    ANSWER: Use a scalpel to separate the tissue where the nail meets the skin   (key D)
+[PEER-CS peer2026-1-batch-346-q-346] Musculoskeletal A 45-year-old man presents with leg weakness after being found down for an un- known amount of time by his family. He has several pressure wounds on his body. Laboratory studies show CK 35,000 units/L, serum creatinine 3.3 mg/dL, serum calcium 6.0 mg/dL, and serum bicarbonate 20 mEq/L.
+    ANSWER: Serum creatinine 3.3 mg/dL   (key D)
+[PEER-CS peer2026-1-batch-347-q-347] Musculoskeletal A 9-year-old girl presents with leg weakness that started 1 day after resolution of a URI. On examination, she has an abnormal gait secondary to calf pain in addi- tion to diffuse body aches. Laboratory studies show an elevated CK, LDH, and AST. Her vital signs include BP 110/76, P 95, R 16, and T 36.5°C (97.7°F). What is the most likely causative agent?
+    ANSWER: Influenza A   (key B)
+[PEER-CS peer2026-1-batch-348-q-348] Musculoskeletal A 42-year-old woman presents with leg weakness. She endorses difficulty raising her arms and flexing her hips. On examination, she is found to have erythema- tous papules over the dorsal aspect of the metacarpophalangeal and interpha- langeal joints. Her vital signs include BP 120/80, P 60, R 16, and T 36.5°C (97.7°F). What is the most appropriate initial treatment?
+    ANSWER: Glucocorticoids   (key B)
+[PEER-CS peer2026-1-batch-349-q-349] Musculoskeletal A 52-year-old woman with a history of rheumatoid arthritis presents with hand pain and tingling in her thumb, index, and middle fingers that is worse at night. She works as a computer programmer. On examination, there is full finger and - Case Series 2026-1 — Answered Page 711 of 974 wrist range of motion, and there is mild thenar atrophy and weakness with thumb abduction.
+    ANSWER: Tinel test   (key D)
+[PEER-CS peer2026-1-batch-350-q-350] Musculoskeletal A 52-year-old woman with a history of rheumatoid arthritis presents with hand pain and tingling in her thumb, index, and middle fingers that is worse at night. She works as a computer programmer. On examination, there is full finger and - Case Series 2026-1 — Answered Page 713 of 974 wrist range of motion, and there is mild thenar atrophy and weakness with thumb abduction.
+    ANSWER: Removable wrist splints   (key C)
+[PEER-CS peer2026-1-batch-351-q-351] Musculoskeletal A 34-year-old man presents with inability to extend his right wrist. There is no history of trauma. The patient felt normal prior to falling asleep on the floor last night after drinking too much alcohol. What is the appropriate next step in the management of this patient? - Case Series 2026-1 — Answered Page 715 of 974
+    ANSWER: Wrist splint and discharge with close follow-up   (key D)
+[PEER-CS peer2026-1-batch-352-q-352] Musculoskeletal A 45-year-old man presents with right elbow pain and hand weakness. He re- ports accidently striking his “funny bone” on his desk at work, and now he has significant swelling and edema over the posterior and medial elbow. Every time he sets his elbow down, he gets electric shocks in his 4th and 5th digits. He has always had issues with hand weakness, but now it is more pronounced.
+    ANSWER: Inability to pinch a piece of paper between thumb and index finger   (key C)
+[PEER-CS peer2026-1-batch-353-q-353] Musculoskeletal A 45-year-old man presents with right elbow pain that started acutely after at- tempting to lift a heavy cooler. He has no significant medical history, but he does admit to a history of anabolic steroid use in his 20's. His vital signs are BP 120/80, P 70, R 18, and T 37.1°C (98.8°F); SpO is 96% on room air.
+    ANSWER: Weakness with supination   (key C)
+[PEER-CS peer2026-1-batch-354-q-354] Musculoskeletal A 24-year-old cross-country runner presents with difficulty ambulating and left hip pain. She denies injury to the hip but notes increasing pain over the past 4 weeks that is most pronounced when running. She is interested in ultrama- rathons and has been increasing her distance over the summer beyond what her team is running.
+    ANSWER: Linear lucency of the superolateral femoral neck   (key C)
+[PEER-CS peer2026-1-batch-355-q-355] Musculoskeletal A 24-year-old woman presents with difficulty ambulating. She is a rugby player and does not recall any obvious injury, although she admits sustains a lot of con- tact while playing. She denies any pain. Her vital signs are BP 120/80, P 70, R 18, and T 37.1°C (98.8°F); SpO is 96% on room air.
+    ANSWER: Fibular head   (key A)
+[PEER-CS peer2026-1-batch-356-q-356] Musculoskeletal A 75-year-old man presents with a painful abscess on his right arm. On examina- tion, he has a 1-cm tender, fluctuant abscess with 1 cm of erythema surrounding the abscess. He thinks he scratched himself. He has a history of rheumatoid arthritis and takes methotrexate. He has a right below-knee amputation from an improvised explosive device explosion and wears a prosthetic leg.
+    ANSWER: Current medications   (key B)
+[PEER-CS peer2026-1-batch-357-q-357] Musculoskeletal A 75-year-old man presents with a painful abscess on his right arm. On examina- tion, he has a 1-cm tender, fluctuant abscess with 1 cm of erythema surrounding the abscess. He thinks he scratched himself. He has a history of chronic kidney disease stage 4 with creatinine clearance <10 mL/min and rheumatoid arthritis for which he takes methotrexate.
+    ANSWER: Doxycycline   (key C)
+[PEER-CS peer2026-1-batch-358-q-358] Musculoskeletal A 45-year-old man presents with weakness. He began noticing something feeling off after returning from a 1-week wilderness backpacking trip. He reports having a hard time walking and holding onto objects. While camping, he had high fevers, diarrhea, and abdominal pain, but these symptoms have resolved.
+    ANSWER: Facial nerve palsy   (key A)
+[PEER-CS peer2026-1-batch-359-q-359] Musculoskeletal A 45-year-old man presents with weakness. He began noticing something feeling off after returning from a 1-week wilderness backpacking trip. He reports having a hard time walking and holding onto objects. While camping, he had high fevers, diarrhea, and abdominal pain, but these symptoms have resolved.
+    ANSWER: Lumbar puncture with elevated protein and normal WBC   (key B)
+[PEER-CS peer2026-1-batch-360-q-360] Musculoskeletal A 45-year-old man presents with weakness. He began noticing something feeling off after returning from a 1-week wilderness backpacking trip. He reports having a hard time walking and holding onto objects. While camping, he had high fevers, diarrhea, and abdominal pain, but these symptoms have resolved.
+    ANSWER: Intravenous immune globulin   (key B)
+[PEER-CS peer2026-1-batch-361-q-361] Musculoskeletal An otherwise healthy, fully immunized 3-year-old girl presents with refusal to walk for 1 day. There is no history of trauma. On examination, she is well-appear- ing and has normal vital signs. She cries with palpation of her right knee. Passive range of motion is normal but also elicits crying. There is no swelling of the knee, and x-rays of the right knee are unremarkable.
+    ANSWER: X-ray of the right hip   (key D)
+[PEER-CS peer2026-1-batch-362-q-362] Musculoskeletal 3 - Case Series 2026-1 — Answered Page 734 of 974 An otherwise healthy, fully immunized 3-year-old girl presents with refusal to walk for 1 day. There is no history of trauma, but she had an uncomplicated viral URI 2 weeks ago. On examination, she is well-appearing and has normal vital signs. She cries with palpation and passive ranging of her right knee.
+    ANSWER: Negative synovial fluid culture   (key A)
+[PEER-CS peer2026-1-batch-363-q-363] Musculoskeletal 3 3 3 - Case Series 2026-1 — Answered Page 736 of 974 A fully immunized 14-year-old boy presents with difficulty walking for 1 day. He reports progressive left flank and left lower abdominal pain for the past 5 days. Today, the pain started radiating to his left hip, and he has been unable to bear weight on the left lower extremity due to pain.
+    ANSWER: Fluid collection in the left psoas muscle   (key C)
+[PEER-CS peer2026-1-batch-364-q-364] Musculoskeletal A 4-year-old boy presents with inability to walk. His parents report that he stopped walking yesterday and cries whenever he tries to stand. He had a URI 1 week ago that resolved after several days. However, for the past 2 days, he has been irritable at night and has had decreased appetite. His vital signs include BP 105/64, P 100, R 16, and T 38.2°C (100.8°F).
+    ANSWER: Ultrasound   (key C)
+[PEER-CS peer2026-1-batch-365-q-365] Musculoskeletal A 4-year-old boy presents with inability to walk. His parents report that he stopped walking yesterday and cries whenever he tries to stand. He had a URI 1 week ago that resolved after several days. However, for the past 2 days, he has been irritable at night and has had decreased appetite. His vital signs include BP 105/64, P 100, R 16, and T 38.9°C (102°F).
+    ANSWER: Septic arthritis   (key C)
+[PEER-CS peer2026-1-batch-366-q-366] Musculoskeletal A 4-year-old boy presents with inability to walk. His parents report that he stopped walking yesterday and cries whenever he tries to stand. He had a URI 2 weeks ago that resolved after several days. However, for the past week, he has been irritable at night and has had decreased appetite. His vital signs include BP 77/50, P 140, R 16, and T 38.9°C (102°F).
+    ANSWER: Empiric antibiotics   (key A)
+[PEER-CS peer2026-1-batch-367-q-367] Musculoskeletal A 5-year-old girl presents with a painless enlarging mass on her leg and possible blood in the urine. She has no known medical issues and up-to-date vaccinations, but her brother was diagnosed with cancer at a young age that presented with a painful enlarging mass on the arm. What is the most likely soft-tissue sarcoma to be diagnosed in this patient?
+    ANSWER: Rhabdomyosarcoma   (key D)
+[PEER-CS peer2026-1-batch-368-q-368] Musculoskeletal A 12-year-old boy presents with pain after playing in a soccer tournament. There is no history of trauma. He also notes 4 weeks of nighttime bony pain that has been progressively worsening. Plain x-rays demonstrate aggressive periosteal re- action and medullary and cortical bone destruction with a moth-eaten appearance. Which site was most likely imaged in this patient?
+    ANSWER: Femur   (key B)
+[PEER-CS peer2026-1-batch-369-q-369] Musculoskeletal A 14-year-old boy presents with leg pain after playing basketball. On review of symptoms, he also reports several weeks of unintentional weight loss, intermit- tent fevers, and night sweats. Which of this patient's symptoms is most common with a malignant bony tumor in his age group?
+    ANSWER: Pain   (key C)
+[PEER-CS peer2026-1-batch-370-q-370] Musculoskeletal - Case Series 2026-1 — Answered Page 749 of 974 A 13-year-old boy presents with left hip pain and a limp. An x-ray is obtained and shown below. What is the most appropriate management? Credit: Copyright 2025 Dr. Gagandeep Singh. Image courtesy of Dr. Gagandeep Singh and Radiopaedia.org, rID: 7228. Used under license.
+    ANSWER: Non–weight-bearing to the left lower extremity, hip joint aspiration, and outpa-   (key A)
+[PEER-CS peer2026-1-batch-371-q-371] Musculoskeletal A 5-year-old boy presents with left hip pain, thigh pain, and a limp. There was no preceding trauma or illness. He is afebrile, and the physical examination is largely unremarkable other than limited hip internal rotation. Laboratory studies show WBC of 10,000 cells/mm and ESR of 15 mm/hr. What findings would be expected on x-ray?
+    ANSWER: Sclerosis, irregularity, and flattening of the femoral head   (key D)
+[PEER-CS peer2026-1-batch-372-q-372] Musculoskeletal An afebrile 5-year-old boy presents with left hip pain, thigh pain, and a limp. There was no preceding trauma or illness. The physical examination is largely unremarkable other than limited hip internal rotation. Laboratory studies show WBC of 10,000 cells/mm and ESR of 15 mm/hr. X-ray shows sclerosis, irregu- larity, and flattening of the femoral head.
+    ANSWER: Symptomatic management and urgent orthopedic referral   (key D)
+[PEER-CS peer2026-1-batch-373-q-373] Musculoskeletal A 14-year-old boy presents after developing a limp while playing in a week-long soccer tournament. He endorses left knee pain, but he denies any falls or trauma during the games. His symptoms are exacerbated by running and improved with rest. On examination, he has full range of motion of the left knee with normal strength.
+    ANSWER: Apophysitis of tibial tuberosity   (key A)
+[PEER-CS peer2026-1-batch-374-q-374] Musculoskeletal A 14-year-old boy presents after developing a limp while playing in a week-long soccer tournament. He endorses left knee pain, but he denies any falls or trauma during the games. His symptoms are exacerbated by running and improved with rest. On examination, he has full range of motion of the left knee with normal strength.
+    ANSWER: NSAID administration and return to play as tolerated   (key C)
+[PEER-CS peer2026-1-batch-375-q-375] Musculoskeletal A 14-year-old boy presents after developing a limp while playing in a week-long soccer tournament. He endorses left knee pain, but he denies any falls or trauma during the games. His symptoms are exacerbated by running and improved with rest. On examination, he has full range of motion of the left knee with normal strength.
+    ANSWER: Restrict weight-bearing with crutches and arrange outpatient follow-up   (key D)
+[PEER-CS peer2026-1-batch-376-q-376] Musculoskeletal A 28-year-old woman presents with a 1-day history of painful rash on her arm. She recently traveled to the Florida Keys for a SCUBA diving vacation. Her vital signs include BP 108/70, P 83, R 16, and T 37°C (98.6°F). On examination, there is a tender, erythematous 5-cm lesion on her forearm, with a necrotic center and several hemorrhagic bullae.
+    ANSWER: Doxycycline plus ceftazidime   (key B)
+[PEER-CS peer2026-1-batch-377-q-377] Musculoskeletal A 28-year-old woman presents with a 1-day history of painful rash on her arm. She actively uses intravenous drugs. Her vital signs include BP 108/70, P 83, R 16, and T 37°C (98.6°F). On examination, there is a tender, erythematous 5-cm lesion on her forearm, with a fluctuant center. What is the most likely causative pathogen for this condition?
+    ANSWER: MRSA   (key B)
+[PEER-CS peer2026-1-batch-378-q-378] Musculoskeletal A 28-year-old woman presents with a 6-hour history of painful rash on her leg. She actively uses intravenous drugs. Her vital signs include BP 98/62, P 137, R - Case Series 2026-1 — Answered Page 765 of 974 22, and T 39°C (102.2°F). On examination, her lateral right thigh is diffusely ery- thematous, with subcutaneous crepitus on palpation.
+    ANSWER: Surgical debridement   (key D)
+[PEER-CS peer2026-1-batch-379-q-379] Musculoskeletal An 8-year-old boy presents with lower leg pain after sustaining a snakebite 4 hours ago while he was camping in the Arizona mountains. On arrival, his vital signs include BP 70/52, P 130, R 28, and T 37.9°C (100.2°F). On examination, there is an erythematous, edematous wound on the lower leg, with persistent slow venous extravasation.
+    ANSWER: Administer antibiotics and reevaluate in 1 hour to determine need for antivenom   (key A)
+[PEER-CS peer2026-1-batch-380-q-380] Musculoskeletal An 8-year-old boy presents with minimal lower leg pain after sustaining a snakebite 4 hours ago while he was camping in the Arizona mountains. On ar- rival, his vital signs include BP 105/64, P 100, R 16, and T 36.9°C (98.4°F). On examination, his lower leg has two puncture sites with mild erythema; no necro- sis, edema, or extravasation is noted.
+    ANSWER: Administer analgesic and observe for 24 hours - Case Series 2026-1 — Answered Page 769 of 974   (key B)
+[PEER-CS peer2026-1-batch-381-q-381] Musculoskeletal An 8-year-old boy presents with lower leg pain and uncontrollable leg spasms af- ter sustaining a spider bite 4 hours ago while camping in the Arizona mountains. He is beginning to report abdominal cramping. On arrival, his vital signs include BP 105/64, P 100, R 16, and T 36.9°C (98.4°F).
+    ANSWER: Benzodiazepine   (key B)
+[PEER-CS peer2026-1-batch-382-q-382] Musculoskeletal A 20-year-old patient presents with the rash shown below after hiking in Vermont. Their vital signs are within normal limits. What is the most appropriate treatment? Credit: CDC/James Gathany.
+    ANSWER: Doxycycline PO   (key D)
+[PEER-CS peer2026-1-batch-383-q-383] Musculoskeletal A 20-year-old woman presents with polyarticular arthritis, including the knee and shoulder, 3 months after hiking in Vermont. She reports intermittent swelling and pain of the involved joints. Her vital signs are within normal limits. Which stage of Lyme disease does this patient most likely have?
+    ANSWER: Late disseminated   (key C)
+[PEER-CS peer2026-1-batch-384-q-384] Musculoskeletal A 20-year-old woman presents with polyarticular arthritis, including the knee and shoulder, 3 months after hiking in Vermont. She reports intermittent - Case Series 2026-1 — Answered Page 776 of 974 swelling and pain of the involved joints. Her vital signs are within normal limits. What is the most appropriate duration of oral antibiotic therapy for the patient?
+    ANSWER: 28 days   (key C)
+[PEER-CS peer2026-1-batch-385-q-385] Musculoskeletal A 32-year-old man presents with a frostbite injury to his dominant hand. Rapid rewarming in warm water is started immediately upon arrival. After rewarming is complete, he has lesions and cyanosis from his fingers that extend proximally over the carpal bones. What grade of frostbite is this injury?
+    ANSWER: Grade 4   (key D)
+[PEER-CS peer2026-1-batch-386-q-386] Musculoskeletal A 32-year-old man presents with a frostbite injury to his dominant hand. Rapid rewarming in warm water is started immediately upon arrival. After rewarming is complete, he has lesions and cyanosis from his fingers that extend proximally over the carpal bones. Which diagnostic modality is currently recommended to determine benefit from additional therapy?
+    ANSWER: Technetium-99m scintigraphy   (key C)
+[PEER-CS peer2026-1-batch-387-q-387] Musculoskeletal A 32-year-old man presented with a frostbite injury to his dominant hand. Rapid rewarming in warm water was started immediately upon arrival. After rewarm- ing, he had lesions and cyanosis from his fingers that extended proximally over the carpal bones. He was admitted to the hospital and has been receiving care for the past 30 hours.
+    ANSWER: Thrombolytic therapy   (key D)
+[PEER-CS peer2026-1-batch-388-q-388] Musculoskeletal A 50-year-old man presents with a fever and a diffuse rash that covers his face, majority of his chest, abdomen, and back, with developing lesions on his arms sparing his palms and soles. On examination, he also has lesions on his oral and ocular mucosa.
+    ANSWER: Allopurinol   (key A)
+[PEER-CS peer2026-1-batch-389-q-389] Musculoskeletal A 50-year-old man presents with a fever and a diffuse rash that covers his face, majority of his chest, abdomen, and back, with developing lesions on his arms sparing his palms and soles. On examination, he also has lesions on his oral and - Case Series 2026-1 — Answered Page 785 of 974 ocular mucosa.
+    ANSWER: Intravenous fluids   (key D)
+[PEER-CS peer2026-1-batch-390-q-390] Musculoskeletal A 50-year-old man presents with a fever and a diffuse rash that covers his face, majority of his chest, abdomen, and back, with developing lesions on his arms sparing his palms and soles. On examination, he also has lesions on his oral and ocular mucosa.
+    ANSWER: Transfer to burn center   (key D)
+[PEER-CS peer2026-1-batch-391-q-391] Musculoskeletal A 40-year-old woman presents with a facial rash. She reports stopping to smell some flowers while on a hike yesterday. This morning, she awoke with an itchy, bumpy rash on her bilateral cheeks and the tip of the nose. Her vital signs are BP 120/80, P 95, R 18, and T 37.1°C (98.8°F); SpO is 96% on room air. What is the best treatment for this condition?
+    ANSWER: Hydrocortisone 1%   (key C)
+[PEER-CS peer2026-1-batch-392-q-392] Musculoskeletal A 40-year-old woman presents with a rash. She reports having a sore throat about 3 weeks ago. Since then, she has felt fatigued and feverish with occasional arthralgias. Over the last 2 days, she has developed multiple 3-cm erythematous, - Case Series 2026-1 — Answered Page 790 of 974 nonulcerated, tender nodules.
+    ANSWER: Shins   (key D)
+[PEER-CS peer2026-1-batch-393-q-393] Musculoskeletal A 6-year-old boy presents after being bitten by a neighbor's dog 1 hour ago. He suffered deep puncture bites on the hand, foot, upper arm, and face. His vital signs include BP 120/70, P 110, R 20, and T 37.1°C (98.8°F). He has no known medical history. He is allergic to penicillin but has tolerated cephalexin before. What are the best intravenous antibiotics to administer?
+    ANSWER: Ceftriaxone and metronidazole   (key C)
+[PEER-CS peer2026-1-batch-394-q-394] Musculoskeletal A 6-year-old boy presents after being bitten by a neighbor's dog 20 hours ago. He suffered deep puncture bites on the hand, foot, upper arm, and face. His vital signs include BP 120/70, P 110, R 20, and T 37.1°C (98.8°F). He has no known medical history. Which bite location would be eligible for primary closure?
+    ANSWER: Face   (key A)
+[PEER-CS peer2026-1-batch-395-q-395] Musculoskeletal A 25-year-old man presents after being bitten by a sea snake while snorkeling in the Pacific Ocean. On examination, he has an expanding erythematous patch on his right lower leg. His vital signs are BP 130/90, P 110, R 20, and T 37.1°C (98.8°F); SpO is 96% on room air. What is the most likely severe complication without treatment?
+    ANSWER: Rhabdomyolysis   (key C)
+[PEER-CS peer2026-1-batch-396-q-396] Musculoskeletal - Case Series 2026-1 — Answered Page 796 of 974 A 25-year-old man presents after being stung by a stingray while swimming in the Pacific Ocean. He states it was “the biggest stingray he has ever seen,” esti- mating it was approximately 10 feet long. He was struck directly above the um- bilicus, and he complains of significant abdominal pain.
+    ANSWER: FAST examination   (key B)
+[PEER-CS peer2026-1-batch-397-q-397] Musculoskeletal A 25-year-old man presents after being stung by a jellyfish while swimming in the Pacific Ocean. There is a linear, erythematous, itchy rash present on his flank. He has multiple visible embedded tentacles. His vital signs are BP 110/50, P 130, R 22, and T 37.1°C (98.8°F); SpO is 96% on room air. Which intervention is contraindicated?
+    ANSWER: Rubbing of the erythematous region   (key D)
+[PEER-CS peer2026-1-batch-398-q-398] Musculoskeletal A 28-year-old man presents with a rash. The rash began with a single 3-cm oval patch on his upper back, but 2 days later, it became numerous similar but smaller patches, oriented along the skin cleavage lines. A few patches have be- come scaly. The rash was preceded by headache and malaise. He reports signifi- cant itching.
+    ANSWER: Resolution of symptoms   (key C)
+[PEER-CS peer2026-1-batch-399-q-399] Musculoskeletal A 7-year-old boy presents with a rash, intermittent abdominal pain, and joint pain involving multiple joints. His mother states he has been complaining more frequently over the past couple of weeks. His abdominal pain is associated with nausea and vomiting. His vital signs are BP 90/60, P 120, R 20, and T 37.7°C (99.9°F); SpO is 96% on room air.
+    ANSWER: Normal serum PT   (key D)
+[PEER-CS peer2026-1-batch-400-q-400] Musculoskeletal A 40-year-old woman presents after an animal exposure. She woke up to a bat flying around in her room. She states that the bat brushed her multiple times, and she does not know if she suffered any bites, scratches, or wounds. Her vital signs are BP 120/80, P 95, R 18, and T 37.1°C (98.8°F); SpO is 96% on room air.
+    ANSWER: Seizure   (key D)
+[PEER-CS peer2026-1-batch-401-q-401] Musculoskeletal A 40-year-old woman presents after an animal exposure. She lives on a farm and comes in with a scratch mark to her right forearm. She reports that there was an animal altercation between her pet rabbit, a chipmunk, a fox, and one of her cows. She states that the rabbit had been acting erratically recently. She was able to capture all animals except for the rabbit.
+    ANSWER: Rabbit   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-324] A 57-year-old woman presents with weakness and a rash, as shown above. She states she initially had difficulty rising from a seated position and recently noticed difficulty washing her hair. On exam, she has bilateral 3/5 strength with shoulder shrug and extension at the knee. Blood work is significant for a creatine kinase level of 502 U/L.
+    ANSWER: Occult malignancy   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-325] A 50-year-old woman presents to the emergency department with weakness. She has been having trouble walking up the stairs. On physical exam she is noted to have erythematous papules on the dorsal aspect of her hands. Which of the following is the best test to determine her condition?
+    ANSWER: Creatine kinase   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-326] A 24-year-old man presents with ankle pain. He recently started taking an antibiotic for a sinus infection. He reports pain and swelling overlying the back of his ankle. Physical exam reveals tenderness, swelling, and mild erythema overlying the Achilles tendon. Which of the following antibiotics is most likely responsible?
+    ANSWER: Levofloxacin   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-327] A 68-year-old man with type 2 diabetes presents to the ED with left ankle pain that started 2 days ago. He reports no trauma, falls, fevers, or chills. Physical exam reveals a palpable effusion and limited range of motion due to pain. Arthrocentesis shows positively birefringent, rhomboid-shaped crystals, 10,000 WBCs/mm³ with 60% polymorphonuclear cells, and no bacteria on Gram stain.
+    ANSWER: Deposition of calcium pyrophosphate crystals in the synovial space   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-328] A 12-year-old girl presents to the emergency department for knee pain and limp for 3 days. The parents and patient cannot recall a traumatic incident prior to the onset of her pain. An X-ray of her knee is unremarkable, and an X-ray of the pelvis is shown above. What is the most appropriate step in management?
+    ANSWER: Orthopedic evaluation in the emergency department   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-329] A 22-year-old man presents to the emergency department with low back pain and stiffness. Symptoms are worse in the morning and improve throughout the day. He reports no heavy lifting, direct trauma, fever, night sweats, intravenous drug use, leg numbness or weakness, urinary or bowel incontinence, or weight loss. He appears thin on examination with no midline bony tenderness.
+    ANSWER: Sacroiliitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-330] A 48-year-old woman is concerned about a month of increasing difficulties getting out of a chair and walking up the stairs. She also reports some difficulties with swallowing. On exam, her thighs are diffusely tender, and she seems symmetrically weak in her proximal upper and lower extremities. Which of the following additional findings would be expected on further evaluation?
+    ANSWER: Elevated creatine kinase   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-331] A 22-year-old man presents with low back pain that began 4 days ago. He reports no recent trauma, urinary or bowel dysfunction, or lower extremity tingling. Bilateral straight leg raise tests are negative. There is reproducible tenderness just medial to the right gluteal muscle. What is the most likely diagnosis?
+    ANSWER: Sacroiliitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-332] A 27-year-old woman with a history of lupus presents to the emergency department for finger pain and swelling for the past 3 days. She has never had these symptoms before. Her lupus has been well-controlled on daily prednisone. On examination, she is well-appearing with normal vital signs. Her finger is pictured above. Given this patient’s diagnosis, what is the most appropriate initial treatment?
+    ANSWER: Incise and drain and discharge with oral cephalexin   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-333] A 24-year-old man presents to the ED with a painful lesion on his finger. He works as a dental hygienist and states that it initially appeared as clear “bubbles” on his skin before changing in appearance. Vital signs are within normal limits. Physical examination shows purulent vesicles on an erythematous base on the distal phalanx of his right thumb.
+    ANSWER: Acyclovir 800 mg PO twice daily for 7 days   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-334] A 32-year-old man presents with right-sided elbow swelling and pain. He works as a plumber and has no specific injuries. The elbow pain and swelling developed rapidly and became worse over the last 2 days despite applying ice and using over-the-counter anti-inflammatory medications. His vital signs are HR 104 bpm, BP 110/60 mm Hg, RR 18/min, and T 100.2°F (37.9°C).
+    ANSWER: Septic bursitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-335] A 45-year-old man presents with pain and swelling of his right elbow. He recalls no specific trauma. His vital signs include a blood pressure of 130/84 mm Hg, heart rate of 71 bpm, respiratory rate of 20/min, oxygen saturation of 100% on room air, and temperature of 99.1°F (37.3°). On exam, the patient has full passive range of motion with no pain. The elbow is slightly warm to the touch.
+    ANSWER: Ice and NSAIDs   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-336] A 40-year-old healthy man presents to the emergency department for 1 day of swelling and pain to his finger. He reports no trauma or systemic symptoms. His examination is significant for normal vital signs and an erythematous, fluctuant wound to the paronychium of the right index finger with full range of motion and normal sensation of the affected finger.
+    ANSWER: Elevation of the affected cuticle margin   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-337] A 64-year-old man presents to the emergency department with low back pain. He has had chronic low back pain for several years but reports worsening pain over the last 4–5 days. There was no preceding trauma or other inciting factor prior to this worsening.
+    ANSWER: Spinal stenosis   (key E)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-338] A 45-year-old woman presents with nonradicular, flexion-based lower back pain that began atraumatically 3 weeks ago. Her medical history is significant for hypertension and nephrolithiasis. She reports no numbness, weakness, fever, bowel changes, or bladder changes and has no history of cancer. Physical exam is unremarkable. Which of the following is the best next step?
+    ANSWER: Recommend continued activity within the limits of the pain   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-339] A 35-year-old man with no medical conditions presents with 1 week of right elbow pain. He reports a 3-month history of intermittent right elbow pain, but it typically goes away with ibuprofen and ice packs. He is an avid daily climber and has not been able to climb for a few days due to the pain. Which physical exam finding is most consistent with the likely diagnosis?
+    ANSWER: Normal-appearing elbow with pain medially elicited by resisted pronation   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-340] A healthy 16-year-old boy presents to the ED with several weeks of atraumatic right thigh pain. The pain, initially mild, has rapidly progressed to severe intensity, is worse with walking and at night, and is associated with a 5 kg unintentional weight loss. Vital signs: T 100.4°F (38°C).
+    ANSWER: Ewing sarcoma   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-341] A 16-year-old boy presents to the emergency department with posterior ankle pain for the past week. He runs cross-country for his school. The pain is worse with running or trying to go up the stairs. He has not had any known injury. On examination, there is slight swelling noted to the distal Achilles tendon with associated tenderness to palpation.
+    ANSWER: Rest, ice, nonsteroidal anti-inflammatory drugs, and activity modification   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-342] A 35-year-old man presents to the ED with finger pain. He sustained lacerations to his right hand 5 days ago during a bar fight, and 2 days ago, he started to notice pain and swelling in the right third finger. On exam, his finger is diffusely swollen, erythematous, slightly flexed at rest, and tender along the palmar surface, and he has increased pain on the palmar surface with passive extension …
+    ANSWER: Incision and drainage by a hand surgeon   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-343] Which clinical feature is most sensitive for cauda equina syndrome?
+    ANSWER: Distended urinary bladder   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-344] An otherwise healthy 13-year-old boy with a history of obesity presents to the ED with 1 day of hip pain. On exam, you note an antalgic gait and a right leg held in external rotation. His vital signs are within normal limits. Which of the following findings most supports the suspected diagnosis?
+    ANSWER: Widened physis at the right femoral head on X-ray   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-345] A 55-year-old man presents to the emergency department with ankle pain. He has a medical history of atrial fibrillation, hypertension, and diabetes. He states his ankle started hurting after a weekend with friends. Vital signs are unremarkable.
+    ANSWER: Gout   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-346] Which of the following patients requires radiologic imaging for back pain?
+    ANSWER: A 30-year-old woman with midline lumbar pain and tenderness, fever, and difficulty urinating   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-347] Which of the following history or physical exam findings may be seen in an individual with the diagnosis of ankylosing spondylitis?
+    ANSWER: Bloody diarrhea   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-348] Which of the following wounds is a potential candidate for primary closure?
+    ANSWER: Facial laceration from a dog bite   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-349] A 57-year-old man presents to the emergency department concerned about severe left shoulder pain. His medical history is significant for smoking and a chronic cough. He reports that he has had a persistent ache in that shoulder for several weeks. Today, he was walking through a crowded entrance and hit his shoulder on a door jamb. Since then, he has had severe pain in his shoulder.
+    ANSWER: Metastatic cancer   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-350] A 21-year-old man who works as a chef recently cut his hand with a knife. Which of the following clinical findings suggests a diagnosis of infectious flexor tenosynovitis?
+    ANSWER: Percussion tenderness along the flexor tendon   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-351] A 9-year-old boy presents with 2 days of high fever and severe focal left leg pain. He refuses to bear weight, and examination shows warmth, swelling, and marked tenderness over the proximal tibia. X-ray shows focal cortical destruction. Which of the following bacteria is most likely to be isolated upon bone biopsy and culture?
+    ANSWER: Staphylococcus aureus   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-352] A 28-year-old woman presents with pain in the heel of her right foot that has been bothering her for the past week. She has been training for a marathon but does not recall any specific injury to the area. She states her pain is worse in the morning when taking her first steps. The pain improves throughout the day but then worsens after a long day on her feet.
+    ANSWER: Prescribe nonsteroidal anti-inflammatory drugs   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-353] A 50-year-old man presents to the emergency department with progressive muscle weakness and difficulty walking. He reports no prodromal illness, recent infection, overexertion, or any current medications. The examination is significant for 2+ bilateral patella and Achilles reflexes, normal strength with ankle flexion but weakness with both neck and hip flexion, a normal sensory examination, and no …
+    ANSWER: Polymyositis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-354] A 6-year-old boy presents to the ED with facial swelling. He has had intermittent fevers for 5 days. He has forehead tenderness and right periorbital edema on exam. A CT of the head with contrast is obtained and shown above. Which of the following is the most likely etiology of this patient’s condition?
+    ANSWER: Sinusitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-355] In which setting is initiating allopurinol inappropriate in the treatment of gout?
+    ANSWER: Acute attack of gout   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-356] Which one of the following physical examination findings suggests cervical radiculopathy or myelopathy rather than a musculoskeletal cause for a patient’s neck pain?
+    ANSWER: Shock-like paresthesias upon flexion of the neck   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-357] A 16-year-old healthy boy presents to the ED for 6 weeks of progressive, dull, atraumatic pain just proximal to his right knee. Examination shows a full range of motion of the right knee without effusion, and there is a tender, palpable mass in the distal femur. X-ray is as shown above, and laboratory evaluation is significant for alkaline phosphatase of 225 U/L.
+    ANSWER: Osteosarcoma   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-358] An 8-year-old previously healthy boy presents with back pain and fever for 4 days. He reports pain in the lower back that is increased with bending and twisting. The pain radiates down into his left leg. He reports no trauma. The physical exam is remarkable for tenderness to palpation over the lumbar spine. What management is indicated?
+    ANSWER: MRI of the lumbar spine   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-359] A 20-year-old man presents to the emergency department with hip pain. Examination of the hip reveals pain with passive range of motion and a restricted range of motion. A radiograph is seen above. Which of the following is the most likely diagnosis?
+    ANSWER: Avascular necrosis of the hip   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-360] A 38-year-old man presents to the emergency department with left shoulder pain that started 3 months ago. He works as a painter and reports no known injury. Pain is worse with overhead movement. ECG was completed upon arrival and demonstrates a normal sinus rhythm with no acute concerns. Upon examination of the shoulder, there is no deformity. He is tender over the deltoid and trapezius regions.
+    ANSWER: Subacromial bursitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-361] A 9-year-old child presents to the ED with left groin pain and knee pain. Parents report no fever or trauma. Lower extremity pulses are intact. X-rays reveal avascular necrosis of the femoral head. Which of the following is most likely to be associated with this diagnosis?
+    ANSWER: Quadriceps atrophy   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-362] What treatment should be initiated for a patient who presents with a crush syndrome and rhabdomyolysis?
+    ANSWER: Normal saline   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-363] A 25-year-old man presents to the emergency department with knee pain. This morning he slipped on the ice and felt a pop in his knee. On physical exam, his left knee appears to have a moderate effusion with limited range of motion and medial joint line tenderness. An X-ray of the left knee is performed.
+    ANSWER: Osteochondroma   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-364] A 19-year-old man who is employed in construction presents with pain in his thumb and wrist for 4 months. He states the pain worsens while he is working. Examination reveals pain along the radial surface of the wrist with forced ulnar adduction. What initial management is indicated?
+    ANSWER: NSAIDs and thumb spica splint   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-365] Which of the following children is most likely to have Legg-Calvé-Perthes?
+    ANSWER: 8-year-old boy with an abnormal gait and unilateral limited hip abduction and internal rotation   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-366] A 29-year-old man, with no significant medical history but occasional alcohol and cocaine use, presents with acute onset bilateral flank pain that is worse on the left side. He also notes blood in his urine. Vital signs are BP 120/70 mm Hg, HR 85 bpm, RR 14/min, and T 98.2℉ (36.8ºC).
+    ANSWER: Release of myoglobin from damaged skeletal muscle leading to acute kidney injury   (key E)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-367] A 32-year-old man presents to the emergency department with mild lower back pain and right heel and ankle pain for several days. He reports no trauma and does not report fever. He is healthy otherwise but does report that he had dysuria a few weeks ago. He did not seek medical care at that time as his symptoms improved after a few days. He reports no other preceding symptoms.
+    ANSWER: Chlamydia trachomatis   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-368] A 55-year-old man presents to the emergency department with right knee pain. He has a medical history of hypertension, hyperlipidemia, and osteoarthritis. He started developing symptoms over the weekend while on vacation with his friends. He reports he ate more meat and drank more alcohol than his usual intake. Vital signs are unremarkable.
+    ANSWER: Pseudogout   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-369] A 7-year-old boy presents with a 2-month history of persistent limp and left proximal thigh pain. There is no history of trauma or signs of illness. X-rays of the hips are obtained. Which of the following conditions is the best explanation of these X-ray findings?
+    ANSWER: Legg-Calvé-Perthes disease   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-370] An 83-year-old man with a history of diabetes and hypertension reports numbness and severe pain in his left thigh. The pain began yesterday as a dull ache but has rapidly increased in intensity and is now 10/10. Vital signs are a T of 40.3°C (104.5°F), BP of 102/48 mm Hg, HR of 112 bpm, RR of 24/min, and SpO2 98% on room air.
+    ANSWER: Start fluids and broad-spectrum parenteral antibiotics and consult a surgeon for emergent operative debridement   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-371] A 55-year-old woman with a medical history of hypertension, type 2 diabetes mellitus, severe chronic obstructive pulmonary disease, and migraines presents with left hip pain for 2 weeks. She states that the pain is worse with weightbearing and ambulation. She reports no recent trauma. Vital signs are normal.
+    ANSWER: Prednisone   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-372] A 12-year-old boy presents to the emergency department with thigh pain. His pain started several weeks ago and worsened over the last 2 days. The pain is worse at night and with exercise. He has not had any injury, fever, fatigue, or other ill symptoms. His X-ray is shown above. Which of the following is the most likely diagnosis?
+    ANSWER: Ewing sarcoma   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-373] Which of the following is a risk factor for development of carpal tunnel syndrome?
+    ANSWER: Female sex   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-374] A 53-year-old man presents with a swollen, painful left knee. He reports no trauma or fever. Examination reveals decreased range of motion of the left knee with swelling and warmth. What test is most likely to be diagnostic?
+    ANSWER: Arthrocentesis and fluid analysis   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-375] A 55-year-old man with diabetes presents to the emergency department for acute-onset atraumatic right knee pain associated with redness and an effusion. He has no history of similar episodes and reports no fever. Arthrocentesis yields cloudy yellow fluid with 10,000 white blood cells/µL, blue needle-shaped crystals on microscopy, and a negative Gram stain.
+    ANSWER: Indomethacin orally and discharge   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-376] A 72-year-old woman presents to the emergency department for low back pain. She has had mild pain for the past 3 weeks that worsened significantly 2 days ago when she tripped on a rug at home and fell onto a table. Since then, her pain has been nearly unbearable at night while trying to sleep, despite taking multiple doses of ibuprofen and acetaminophen.
+    ANSWER: Administration of intravenous dexamethasone and neurosurgery consultation   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-377] A 29-year-old woman presents with leg pain after playing soccer. She developed sudden hamstring pain after kicking the ball. On exam, there is localized tenderness and mild swelling over the posterior thigh. She has pain with resisted knee flexion and some loss of strength. There is no bruising or visible deformity. What is the most appropriate diagnosis?
+    ANSWER: Second-degree muscle strain   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-378] A 63-year-old man with hypertension and dyslipidemia presents with 1 day of pain and swelling of his left great toe. He reports no trauma or fever. Examination reveals an exquisitely tender and swollen first metatarsophalangeal joint on his left foot. Arthrocentesis yields fluid, as shown above. What is the first-line therapy for this patient?
+    ANSWER: Ibuprofen   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-379] Injury to which of the following structures characterizes a strain?
+    ANSWER: Connective tissue between muscle and bone   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-380] A previously healthy 10-month-old girl is identified as having a transverse fracture of the distal right tibia. During a review of the child’s electronic medical record, you note an orthopedic clinic visit at 7 months of age for a transverse fracture of the upper left humerus. Which additional history most strongly supports osteogenesis imperfecta in this patient?
+    ANSWER: Low-impact fractures   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-381] A 32-year-old woman presents to the emergency department with fatigue and generalized myalgias. She completed a physical training assessment for the police academy yesterday and began having symptoms this morning. A serum creatine kinase level is 15,000 U/L. Which of the following lab abnormalities is also expected in this patient’s condition?
+    ANSWER: Hyperkalemia   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-382] Which of the following is the most accurate test for diagnosing osteomyelitis?
+    ANSWER: MRI   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-383] A 27-year-old man with a history of human immunodeficiency virus, hepatitis C, and asthma presents to the emergency department for finger pain. He noted a “pimple” on the pad of his right index finger 2 weeks ago, and since then, it has gotten larger and more painful. It began draining spontaneously a few days ago and now his entire finger has become more painful.
+    ANSWER: Give intravenous ampicillin-sulbactam and vancomycin   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-384] A 5-year-old girl presents to the emergency department with difficulty ambulating. Her parent states that she has always been active, but over the past few months, she has had episodes in which she reports pain in her knees and refuses to go to school. Her symptoms generally improve as the day goes on, and she is able to play with schoolmates after school but often runs with a limp.
+    ANSWER: Juvenile idiopathic arthritis   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-385] A 25-year-old woman with a history of ulcerative colitis presents with progressive lower back pain over the past few months. She states that the pain is worse when getting up from a sitting position or first thing in the morning and improves with activity. She has not taken any medications to help with this pain.
+    ANSWER: Refer to physical therapy   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-386] A 58-year-old man with diabetes presents to the ED with a concern about right knee pain and swelling. On examination, his right knee is tender, erythematous, and swollen. He experiences intense pain with passive movement of the knee. You are concerned that he has a septic joint and perform an arthrocentesis. Which of the following synovial fluid results most supports this diagnosis?
+    ANSWER: Low glucose   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-387] A 76-year-old man presents to the emergency department with acute low back pain. He has a medical history significant for chronic low back pain and a recent diagnosis of stage III prostate cancer. He reports no recent trauma and reports the symptoms today feel different than his previous back pain.
+    ANSWER: Urinary retention   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-388] A 17-year-old boy presents to the emergency department after being struck in the arm by a baseball. On physical examination, he has ecchymosis and swelling over the right medial epicondyle. He is most likely to have decreased sensation of which of the following dermatomes?
+    ANSWER: C8   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-389] A 66-year-old man presents to the emergency department with severe pain in his left lower extremity. The patient has a medical history of obesity, poorly controlled diabetes, hypertension, and alcohol use disorder. He states his symptoms started this morning with a small erythematous maculopapular lesion on the left anterior thigh.
+    ANSWER: Surgical consultation for surgical debridement   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-390] A 39-year-old man presents to the emergency department with left hand pain. He reports no recent trauma, genital or oral lesions, or fever. His medical history is significant for diabetes mellitus and tobacco use disorder. His examination is shown above. Which of the following is the most appropriate initial therapy for this patient?
+    ANSWER: Incision and drainage   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-391] A 25-year-old man presents to the emergency department with lower back pain. He states it started after he was lifting boxes while moving. He reports no numbness, tingling, or weakness in the lower limbs. Examination reveals discomfort upon palpation of the lower back muscles but no midline lumbar spine tenderness. Sensation and strength are intact in the lower extremities.
+    ANSWER: Ibuprofen   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-392] An 87-year-old man with a medical history of atrial fibrillation on warfarin, dementia, and diabetes presents to the ED for right thumb and hand pain. The patient tripped over a curb last week and used his right hand to catch his fall. He did not have any significant pain after the fall, but a few days ago, his right thumb became more painful. His vital signs are within normal limits.
+    ANSWER: Give intravenous ampicillin-sulbactam and vancomycin   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-393] A 53-year-old man presents with a report of numbness in his right hand for 4 months. He says he notices the numbness upon waking in the morning, but it gets better when he shakes his hands around. He indicates the numb areas are on the first, second, and third digits of his right hand. Which of the following tests is the most sensitive for detecting the underlying issue?
+    ANSWER: Pressure applied over the transverse carpal ligament for 30 seconds   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-394] What is the most serious complication associated with juvenile idiopathic arthritis, particularly during the initiation of treatment?
+    ANSWER: Macrophage activation syndrome   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-395] An 88-year-old man is brought to the emergency department by ambulance after his neighbors found him lying on the floor for 18 hours. He reports tripping and experiencing severe right hip pain, rendering him unable to stand. Vital signs are a heart rate of 88 bpm, blood pressure of 142/78 mm Hg, respiratory rate of 16/min, temperature of 98.6°F (37°C), and oxygen saturation of 97% on room air.
+    ANSWER: Positive for blood, zero or rare red blood cells observed microscopically   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-396] A 62-year-old man presents to the emergency department with ankle pain for the last 2 days. He recently underwent surgical repair of a right ankle fracture sustained when he tripped on a hike. He was discharged 2 weeks ago with no apparent complications at the time. His medical history includes type 2 diabetes mellitus, for which he takes a basal-bolus insulin regimen.
+    ANSWER: Give intravenous vancomycin and piperacillin-tazobactam   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-397] Which of the following physical exam findings is expected to be diminished in a patient with impingement of the L4 spinal nerve root?
+    ANSWER: Knee jerk reflex   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-398] A 12-year-old girl with a history of obesity presents to your ED with left thigh pain over the last 2 weeks causing her to limp. While stepping off a curb, the pain suddenly worsened, and she is now unable to walk. She reports no recent trauma, fevers, or other ill symptoms. Your exam shows a normal exam except for pain over her anterior left hip and decreased range of motion at the left hip.
+    ANSWER: Frog-leg view of the pelvis   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-399] A 48-year-old woman presents to the ED with progressive neck pain over the last 6 weeks. The pain radiates down her posterior arm to the dorsum of her forearm. She reports numbness and tingling of the forearm and third digit. On examination, she has mild weakness with pronation of the forearm and decreased triceps reflex. What is the likely diagnosis?
+    ANSWER: C7 radiculopathy   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-400] A 22-year-old man presents with chronic back pain. He notes it has gone on for his whole life and is the most severe in the morning. As he exerts himself or lifts boxes at his job, he notes his symptoms improve. Physical exam reveals reduced mobility in all directions of the spine with no midline tenderness. An erythrocyte sedimentation rate is 35 mm/hr.
+    ANSWER: Ankylosing spondylitis   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-401] A patient presents to the emergency department for a painful, swollen finger. Which of the following features, if present, would be most consistent with a diagnosis of flexor tenosynovitis?
+    ANSWER: Pain on passive extension of the affected finger   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-402] A 15-year-old boy presents with 2 days of finger pain and swelling after pulling off a hangnail. The pain has progressed and he is having difficulty performing simple tasks. The finger is shown above. On exam, there is tenderness of the distal phalanx with a small area of fluctuance.
+    ANSWER: Incision and drainage   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-403] Which of the following symptoms is most consistent with systemic juvenile idiopathic arthritis?
+    ANSWER: Intermittent high fever   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-404] A 26-year-old man presents with 1 day of muscle aches, dark urine, and fatigue after intense exercise yesterday. Which of the following would be expected on laboratory analysis?
+    ANSWER: Hyperkalemia   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-405] A 12-year-old boy with a history of obesity presents with groin and proximal anterior thigh pain. He has no pain below the knee. Physical examination shows a significant decrease in internal rotation of the affected hip. Radiographs show a widened growth plate. Which of the following is the most likely diagnosis?
+    ANSWER: Slipped capital femoral epiphysis   (key E)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-406] A 50-year-old man presents to the emergency department with left knee pain and swelling. He has a medical history significant for heavy alcohol use, hypertension, gout, diabetes mellitus, and stage III kidney disease. On exam, vital signs are HR 90 bpm, BP 145/90 mm Hg, RR 16/min, and T 38.5ºC (101.3ºF). The patient’s left knee is significant for joint effusion, erythema, and increased warmth.
+    ANSWER: Cloudy, yellow in appearance, 90,000 WBC/µL with a predominance of neutrophils, no crystals present on analysis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-407] A marathon runner presents with diffuse muscle aches and weakness. The symptoms began after he ran his first marathon 3 days ago. His urine is dark and shows 3+ blood on dipstick with 5 RBC/hpf on microscopy. Which of the following tests is most likely diagnostic for this patient’s disorder?
+    ANSWER: Serum creatine kinase   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-408] What is the most common site of osteosarcoma in children?
+    ANSWER: Distal femur   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-409] A 7-day-old baby boy presents with his parent for evaluation of left hip clicking that was noticed while changing his diaper. On exam, he has positive Barlow and Ortolani tests. The palpable clunk felt during the Ortolani maneuver is due to which one of the following?
+    ANSWER: Femoral head relocating anteriorly into the acetabulum   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-410] A 5-year-old boy is brought to the ED by his mother for evaluation of left hip pain and a limp that started suddenly yesterday. On exam, he is well appearing, sitting with his left hip preferentially abducted and externally rotated. Although uncomfortable, he is able to tolerate full passive range of motion of the hip.
+    ANSWER: Transient synovitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-411] A 13-year-old girl presents to the ED after feeling a pop in her knee while playing soccer at school. She states it occurred after she attempted to score a goal. The patient has been unable to ambulate since the event and was wheeled into the exam room. Which positive finding is most consistent with the knee X-ray noted above?
+    ANSWER: Inability to extend the knee   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-412] An 8-year-old girl is brought to the emergency department due to weakness. The parent notes that in the past week, the child has had increased difficulty getting up from the floor after playing. She describes her having to push with her hands on the legs, from knees to hips, in order to stand upright. She also notes that she has had increased fatigue, myalgias, and a low-grade fever.
+    ANSWER: Heliotrope rash   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-413] An 8-year-old healthy boy presents to the emergency department for nontraumatic left hip pain that has been progressing over several weeks and is worse with exertion. On examination, the patient has normal vital signs and reduced internal rotation of the left hip, and he is able to bear weight, although he has pain when doing so. An X-ray of his hip is shown above.
+    ANSWER: Avascular necrosis of the femoral head   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-414] What is the most common extra-articular manifestation of ankylosing spondylitis?
+    ANSWER: Uveitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-415] A 25-year-old woman presents to the ED with back pain. She generally feels stiff and experiences back pain in the morning that improves with yoga. Today, she has felt particularly stiff and is experiencing pain that is preventing her from exercising. A radiograph is as seen above. Which of the following is most likely to be found in this patient’s history?
+    ANSWER: Psoriasis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-416] Which of the following antibiotics is associated with spontaneous tendon rupture?
+    ANSWER: Levofloxacin   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-417] A 35-year-old man presents with severe muscle pain after running a marathon. His creatine kinase level is 55,000 U/L. Intravenous normal saline is initiated. What is the goal of therapy?
+    ANSWER: Urine output of 3 mL/kg/hr   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-418] A 34-year-old handyman presents to the ED with a rapid onset of severe right forefinger fingertip pain and swelling over the last 24 hours. He states that he has been working around fiberglass for the last several days. He does not recall any specific injury. His hands and forearms have numerous small nicks and irritated areas.
+    ANSWER: Felon   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-419] A 40-year-old man presents to the emergency department with sudden-onset back pain after lifting a box. The pain radiates down to the mid-thigh and is worse with bending and walking. Physical exam reveals left paralumbar muscular tenderness without spasm. Which of the following exam maneuver(s) has the highest sensitivity and specificity for sciatica, respectively?
+    ANSWER: Straight leg raise, crossed straight leg raise   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-420] Which of the following results of synovial fluid analysis is most consistent with septic arthritis?
+    ANSWER: Cloudy, yellow in appearance, 85,000 WBCs/µL with a predominance of neutrophils, and no crystals present on analysis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-421] A 14-year-old boy presents to the ED with left leg pain. He began limping a week ago and is now unable to bear weight on his left leg. He has a BMI of 40 kg/m2. He has a negative straight leg raise test. He reports no recent trauma, new activities, or respiratory illness. Which of the following is the most likely diagnosis?
+    ANSWER: Slipped capital femoral epiphysis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-422] A 13-year-old boy presents with progressive right knee pain over the past 6 weeks. He reports no history of significant trauma. The pain is worse at night and with activity. On examination of the right knee, there is swelling and tenderness of the distal femur with no overlying erythema. There is no knee joint laxity or effusion. His X-ray is shown above. What is the likely diagnosis?
+    ANSWER: Osteosarcoma   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-423] Which of the following historical features is most consistent with a diagnosis of ankylosing spondylitis?
+    ANSWER: Pain is worse at night   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-424] A 55-year-old man with a history of hyperlipidemia, diabetes mellitus, hypertension, and uric acid crystal arthropathy presents with right great toe pain, redness, and swelling. His examination reveals a right metatarsophalangeal tophus. Which of the following regimens represents appropriate medical therapy for this patient?
+    ANSWER: Naproxen and topical ice   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-425] A 21-year-old woman with a history of anorexia nervosa presents to the emergency department with 1 week of progressive, activity-induced foot pain that has become constant. The pain is relieved with rest, and she reports no acute trauma. She is the star on her college track and field team, preparing for a national competition.
+    ANSWER: Stress fracture   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-426] Which of the following tests performed during physical examination would lead one to diagnosis de Quervain tenosynovitis in a patient?
+    ANSWER: Finkelstein test   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-427] A 64-year-old man reports pain and paresthesias in his right hand intermittently for several weeks. He works in a factory putting together electronics. On exam, he has decreased sensation of his right first through fourth digits and an atrophied thenar eminence. What test in the ED will help diagnose his condition?
+    ANSWER: Percussion of the right volar wrist   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-428] A 52-year-old woman presents to the ED for finger pain. She is a dentist and thinks she scratched her finger at work a few days ago but cannot remember how. Since then, her finger has become red and swollen. During your examination, you note erythema, fluctuance, and severe pain with palpation of the distal finger pictured above. She has full range of motion of her finger.
+    ANSWER: Incision and drainage and trimethoprim-sulfamethaxozaole and amoxicillin-clavulanate   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-429] Which one of the following is classically seen in infectious flexor tenosynovitis?
+    ANSWER: Fusiform swelling of the digit   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-430] A 5-year-old boy with sickle cell disease presents with a limp, which his parent noticed 2 days ago. On exam, the patient appears well. Vital signs are significant for fever with a temperature of 38.1°C (100.6°F). Heart rate and blood pressure are within normal limits.
+    ANSWER: Salmonella spp   (key E)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-431] A 14-year-old boy presents to the emergency department with finger pain that prevented him from sleeping. He has noticed increased swelling of his finger over the last several days. He is holding his hand elevated, which he says improves the pain. The distal pad of the middle finger is significantly swollen, red, and tender. Which of the following is the most appropriate next step?
+    ANSWER: Digital block with incision and drainage   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-432] A 24-year-old mechanic presents to the ED with severe pain and swelling of his left middle finger. He thinks he may have injured it while removing a nail from a tire a few days ago. Which of the following is consistent with the diagnosis of infectious flexor tenosynovitis?
+    ANSWER: Digit flexed at rest   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-433] A 26-year-old man is training for a marathon and presents to the ED with right knee pain. The pain began during a run yesterday and has become progressively worse. He is unable to ascend stairs without significant pain. Palpation below the medial joint line of the knee elicits pain. You suspect anserine bursitis. The tendon of which of the following muscles is affected with this diagnosis?
+    ANSWER: Gracilis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-434] A 32-year-old man presents with low back pain and stiffness that appeared insidiously. He works at a department store and has difficulty reaching the top shelves due to pain and decreased range of motion. The pain usually improves somewhat as the day progresses but returns at night. He notices that sitting with his right foot on his left knee causes significant pain in his left posterior pelvis.
+    ANSWER: Ankylosing spondylitis   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-435] A 3-year-old girl is brought to the ED for a limp. Her parent notes that she seems to limp in the morning but has not reported any pain. The limp seems to improve throughout the day. The parent also reports that the child’s left knee is swollen. Which of the following features is associated with a diagnosis of oligoarticular juvenile arthritis?
+    ANSWER: Uveitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-436] A 67-year-old man with a history of gout presents with atraumatic left knee pain. He reports the pain began suddenly yesterday and has progressively worsened. He reports no history of any recent trauma. His vital signs include a temperature of 102.0°F, a blood pressure of 102/62 mm Hg, a heart rate of 89 bpm, and a respiratory rate of 18 breaths/min.
+    ANSWER: Obtain arthrocentesis of the affected joint   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-437] A 42-year-old woman with a history of hypothyroidism presents with left hand numbness that woke her from sleep. She reports no headache, slurred speech, blurred vision, or extremity weakness. She has diminished sensation in her fifth finger and the medial side of her ring finger. What is the most likely diagnosis?
+    ANSWER: Cubital tunnel syndrome   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-438] Which of the following is a common complication of the fracture seen above?
+    ANSWER: Avascular necrosis   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-439] A 39-year-old woman presents to the ED concerned about pain and swelling in her distal index finger. On exam, you note her finger, as seen in the above image. There is mild tenderness and full range of motion at the distal interphalangeal joint. Which of the following is the most likely diagnosis?
+    ANSWER: Herpetic whitlow   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-440] A 37-year-old man presents to the ED with right shoulder and neck pain that has been ongoing for the past 3 weeks. He reports no trauma. On physical exam, the right-sided arm pain is reproduced when pushing down on his head while his neck is extended and leaning toward the right. Which of the following is the most likely diagnosis?
+    ANSWER: Cervical disk herniation   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-441] A 6-year-old boy presents to the ED with right hip pain. His mother states that he had just gotten over a cold 1 week ago and has been doing well. However, for the last day, he has developed acute hip pain and a limp. Vital signs show a temperature of 37°C, heart rate of 100 bpm, and blood pressure of 90/60 mm Hg. On physical exam, he has full range of motion of the hip, but with pain.
+    ANSWER: Discharge patient home with limb rest   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-442] A patient presents with muscle pain, weakness, and rash. Which of the following exam findings would be most consistent with dermatomyositis?
+    ANSWER: Scaly erythematous papules on extensor surfaces of the hands   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-443] A 30-year-old woman with a history of intravenous drug use presents with 3 days of back pain and leg weakness. Her vital signs are within normal limits for her age. She has no meningeal signs or midline bony tenderness on examination. Which of the following findings on history or physical examination is concerning for cauda equina syndrome?
+    ANSWER: Lower extremity hyporeflexia   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-444] A 7-year-old girl presents to the emergency department with difficulty walking. Her parents have noticed she has extreme difficulty getting up or down stairs. She has not had any fevers and began walking at a normal age. Her exam shows vital signs within normal limits for her age.
+    ANSWER: Pneumonia   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-445] A 61-year-old man presents to the emergency department by paramedics after being found down in a neighbor’s yard. He has slurred speech and smells of alcohol. Laboratory tests reveal sodium 146 mmol/L, potassium 5.9 mmol/L, chloride 119 mmol/L, bicarbonate 21 mmol/L, urea nitrogen 40 mg/dL, creatinine 1.7 mg/dL, glucose 210 mg/dL, and creatine kinase 22,000 U/L.
+    ANSWER: Crystalloid boluses   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-446] A 12-year-old healthy boy is brought to the ED with several weeks of aching right knee pain with exercise that improves with ibuprofen and acetaminophen. He reports no fever, trauma, or weight loss. On physical examination, the patient has normal vital signs, normal strength, and full range of motion of the right leg, with a tender mass noted on the proximal right knee.
+    ANSWER: Osteosarcoma   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-447] A 4-year-old boy presents to the ED with right hip pain. His mother reports no history of trauma but states he had a cough and runny nose last week. Vital signs are within normal limits, and a physical exam reveals a flexed right lower extremity. He is noted to have a limp and favors his right side when ambulating. Hip X-ray and white blood cell count are normal.
+    ANSWER: Erythrocyte sedimentation rate and C-reactive protein   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-448] A 14-year-old boy presents to the ED with leg pain for 2 weeks. He reports no recent illness or trauma. His symptoms are exacerbated during basketball practice at school. He has point tenderness over his right anterior tibia. There is no evidence of patellar dislocation or knee instability. His muscular compartments are soft. His lower extremity muscle strength and reflexes are intact.
+    ANSWER: Tibial apophysitis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-449] An 81-year-old man injured his left hand while using a table saw. He presents to the emergency department 5 days after the incident with pain and swelling of his left middle finger. His vital signs are T 100.5°F (38.1°C), HR 98 bpm, RR 12 breaths/minute, BP 135/80 mm Hg, and SpO2 100% on room air. On physical examination, the patient’s left middle finger appears circumferentially swollen.
+    ANSWER: Flexor tenosynovitis   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-450] You perform an arthrocentesis on a patient with knee pain. Vital signs include a blood pressure of 128/81 mm Hg, heart rate of 89 bpm, respiratory rate of 19/min, oxygen saturation of 100% on room air, and a temperature of 99.9°F. Synovial fluid analysis reveals a WBC of 5,000 cells/µL with 70% polymorphonuclear leukocytes. Which of the following is the most likely diagnosis?
+    ANSWER: Inflammatory arthritis   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-451] Which of the following is the most common finding in patients with septic arthritis?
+    ANSWER: Pain with range of motion   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-452] A 58-year-old man with a medical history of diabetes presents to the emergency department for pain in his right second finger after working in his garden 2 days ago. On exam, there is a small puncture wound to the palmar surface of the finger with uniform swelling to the digit. The finger is flexed and the patient has intense pain when the finger is passively extended.
+    ANSWER: Flexor tenosynovitis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-453] A 38-year-old man presents to the ED with muscle aches and fatigue. After finding that the patient is a bodybuilder who also used methamphetamine and ecstasy this weekend, you check laboratory work that reveals a creatine kinase level of 26,760 U/L. Other laboratory work shows creatinine 3.1 mg/dL, bicarbonate 18 mEq/L, potassium 5.0 mEq/L, and calcium 8.3 mg/dL.
+    ANSWER: Aggressive IV crystalloid hydration   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-454] A 14-year-old boy presents to the ED with an excruciatingly painful right knee. The patient reports no history of trauma, medication use, or recent illnesses. He is sexually active. The pain started this morning and has gotten worse over the past couple of hours. The patient is unable to bear weight on the knee.
+    ANSWER: Neisseria gonorrhoeae   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-455] A 29-year-old man presents with progressive back pain and stiffness that started 2 months ago. The pain is worse at night and when he wakes up in the morning, and it improves with exercise. In the last week, he has also noted pain and stiffness in the hips and ankles.
+    ANSWER: Ankylosing spondylitis   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-456] A 42-year-old woman with sickle cell disease presents to the ED with unilateral knee pain. You are worried she might have septic arthritis. Which of the following organisms is most likely to be responsible?
+    ANSWER: Staphylococcus aureus   (key E)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-457] An 18-year-old man presents with pain in his index finger. Which of the following is suggestive of flexor tenosynovitis?
+    ANSWER: Pain on passive extension   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-458] A 42-year-old man presents to the emergency department after a motor vehicle collision. He has no medical problems. He sustained a crush injury to his left leg and a prolonged extraction time. He is agitated and reporting significant pain. His left leg is mottled with significant ecchymoses and gross deformity below the left knee. Pulses are intact.
+    ANSWER: Acute tubular necrosis   (key A)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-459] A 23-year-old man presents with swelling and pain of his elbow. On examination, he has swelling over the olecranon. He has full range of motion at the joint. Vital signs are within normal limits. What management is indicated?
+    ANSWER: Compression dressing and NSAIDs   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-460] A 45-year-old man presents to the ED with left medial knee pain that started 6 weeks ago after playing recreational soccer. He reports no popping, locking, or catching of the knee. He injured his left knee 10 years ago but had no issues until now.
+    ANSWER: Medial compartment osteoarthritis   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-461] A 57-year-old man presents with low back pain radiating down his right lower extremity. On physical exam, he has decreased sensation in the L5 distribution. What is the most likely cause of his symptoms?
+    ANSWER: Repetitive flexion   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-462] A 45-year-old man with diabetes presents with left leg pain. His vital signs are HR 123 bpm, BP 100/63 mm Hg, and T 102.4°F (39.1°C). Examination reveals a tender lower extremity with erythema and warmth. Palpation of the leg reveals crepitus. What treatment is indicated?
+    ANSWER: Consultation with surgery and broad-spectrum antibiotics   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-463] A 5-year-old boy presents with a 2-day history of progressive limp and left-sided hip pain. The child had an upper respiratory tract infection 2 weeks ago without a fever. The highest temperature noted at home over the past 24 hours was 100.3°F (37.9°C). Physical exam is notable for a mild limp and minimal hip joint irritability with passive internal and external rotation.
+    ANSWER: Discharge to home with the use of oral pain medication and weight-bearing as tolerated   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-464] An 11-year-old boy presents to the emergency department with his parents because of left hip pain. The patient is 6 weeks status post internal fixation of an unstable slipped capital femoral epiphysis on the left. His parents tell you that despite the surgery, he has been limping and has not been able to tolerate physical therapy as expected.
+    ANSWER: Lateral epiphyseal artery injury leading to femoral head avascular necrosis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-465] A 6-year-old girl recently diagnosed with influenza presents to the emergency department with severe body aches and blood in her urine. Her urine is a red-brown color and the urine dip is strongly positive for blood, but her urinalysis shows no red blood cells. Which of the following electrolyte abnormalities is expected in this patient?
+    ANSWER: Hyperkalemia   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-466] Which of the following lab results is diagnostic for septic arthritis?
+    ANSWER: Cloudy, yellow in appearance, and 75,000 WBCs with no crystals present on analysis   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-467] A 14-year-old boy presents to the emergency department with his parent for leg pain. He has had persistent pain in his left leg for the past 3 weeks following a fall while skiing. He thought the pain would improve on its own, but it has persisted. He reports difficulty bearing weight on the left side and that his pain is worse at night. Vital signs are within normal limits.
+    ANSWER: Ewing sarcoma   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-468] Which of the following structures runs through Guyon canal?
+    ANSWER: Ulnar nerve   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-469] Which muscle attachment is inflamed in lateral epicondylitis?
+    ANSWER: Extensor carpi radialis brevis   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-470] Which of the following is a characteristic of pseudogout?
+    ANSWER: Positive birefringent crystals   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-471] A healthy 25-year-old man presents to the emergency department with finger swelling. He had a small scratch on his finger a few days ago and this morning noted a red, swollen, tender distal finger pad on his right index finger. Examination shows a 1 cm area of erythema with swelling and a tense finger pad.
+    ANSWER: Incision and drainage with longitudinal incision lateral to the paronychium   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-472] Developmental dysplasia of the hip in patients under the age of 6 months is primarily based on physical examination findings in the absence of recent trauma to the hip or knee areas. What two diagnostic physical maneuvers are considered to be strongly suggestive of developmental hip dysplasia?
+    ANSWER: Ortolani and Barlow   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-473] A 55-year-old woman presents with right finger pain. She reports she habitually bites her nails. Vital signs include a blood pressure of 120/82 mm Hg, heart rate of 84 bpm, respiratory rate of 17/min, oxygen saturation of 99% on room air, and temperature of 98.5°F. On examination, the lateral nail fold and cuticle of the right ring finger are erythematous, fluctuant, and tender to palpation.
+    ANSWER: Paronychia   (key D)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-474] A 66-year-old man presents to the emergency department with pain in his left knee. He reports a history of chronic pain in that knee after several previous sports injuries, but the pain is more severe today. He reports no fever. He has no redness and has not had much swelling to the joint. He has decreased range of motion due to pain but can still ambulate.
+    ANSWER: Ibuprofen   (key C)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-475] A 69-year-old woman presents to the ED with progressively worsening back pain over 2 weeks. She has a history of chronic back pain, but her symptoms have never been this severe. The pain makes it difficult for her to walk and move to a standing position. She reports that pain and numbness radiate down her anterior leg and into the medial aspect of the lower leg, which has never happened before.
+    ANSWER: L3   (key B)
+[ROSH rosh-em-initial-2026-musculoskeletal-disorders-nontraumatic-q-476] A 35-year-old woman presents with severe throbbing pain and swelling to the distal aspect of her ring finger, as seen above. On exam, there is symmetric swelling of the distal finger. Which of the following is the most appropriate treatment?
+    ANSWER: Complete incision through septa on the ulnar aspect of distal finger   (key B)

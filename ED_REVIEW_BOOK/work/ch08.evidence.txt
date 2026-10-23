@@ -1,0 +1,842 @@
+### [PEER-PHYS | PEER-immune-q-74]
+Q: A 60-year-old man presents with discoloration in his ring finger, as shown, after clearing snow from his driveway. What does this abnormality represent?
+A: Vasoconstriction
+EXPLANATION: This patient likely has Raynaud phenomenon, a vasospasm that occurs when exposure to cold causes a demarcation between ischemic and normal tissue resolving with rewarming. It typically affects fingers, toes, nose, and earlobes with a predictable pattern: pallor from vasoconstriction, then cyanosis from ischemia, then rubor from hyperemia and reperfusion.
+ARABIC: ظاهرة رينود تبدأ بشحوب بسبب تضيق الأوعية (vasoconstriction) عند التعرض للبرد.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-219]
+Q: A 66-year-old woman presents to the emergency department for diarrhea. Her history includes chronic lymphocytic leukemia, for which she underwent an allogeneic hematopoietic stem cell transplant 2 months ago. Physical examination reveals an erythematous, macular rash on the neck and posterior shoulders.
+A: Acute graft-versus-host disease
+EXPLANATION: Graft-versus-host disease (GVHD) is a multisystem condition that occurs as a common complication of allogeneic hematopoietic stem cell transplantation and, much less commonly, solid organ transplantation. Its pathogenesis involves transplanted cells (graft) recognizing the recipient tissue (host) as foreign and inciting a T-cell immune response against the recipient tissue. The incidence varies from 20–40% in patients with grafts from matched sibling donors to > 50% in those with grafts from unrelated donors, with human leukocyte antigen mismatching being the primary risk factor.
+
+### [PEER-PHYS | PEER-immune-q-75]
+Q: A 25-year-old woman presents with pain in her knees, left ankle, and bilateral heels as well as limited range of motion in her lower back. She recently completed antibiotics for chlamydia and gonorrhea for a presumed STI; she is otherwise healthy and not taking any other medications. The physical examination reveals inflammation of her Achilles tendon.
+A: Indomethacin
+EXPLANATION: This patient presents with reactive arthritis following a recent STI. The treatment of choice is an NSAID, commonly indomethacin. Antibiotics may have benefit in postchlamydial reactive arthritis, but NSAIDs remain first-line for pain.
+ARABIC: الالتهاب المفصلي التفاعلي يعالج أولاً بمضاد التهاب غير ستيرويدي مثل indomethacin.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-220]
+Q: A patient presents with the finding shown above after hiking in the woods. What type of hypersensitivity reaction is this?
+A: IV
+EXPLANATION: Type IV hypersensitivity reactions, or delayed-type hypersensitivity reactions, are cell-mediated rather than humoral-mediated reactions. This type of hypersensitivity reaction is mediated by CD4+ T cells. This patient appears to have a linear rash consistent with contact dermatitis. Contact dermatitis is a type IV hypersensitivity reaction and presents after exposure to certain antigens, such as nickel, poison ivy, and poison oak. It presents with erythematous and pruritic plaques, vesicles, and bullae, as seen in this patient. Management is first centered on removing exposure to the causative antigen. Antihistamines can be given to mitigate symptoms.
+
+### [PEER-PHYS | PEER-immune-q-76]
+Q: A 67-year-old woman presents with a cough she has had "for weeks" that now produces blood-tinged sputum. She also reports fever, chills, shortness of breath, night sweats, and weight loss. Her medical history includes hypertension, diabetes, asthma, and rheumatoid arthritis. A chest x-ray shows upper lobe consolidation.
+A: Etanercept
+EXPLANATION: The most likely diagnosis is tuberculosis (TB). Anti-TNF medications such as etanercept cause immunosuppression, increasing the risk of severe infections, including TB. Methotrexate does not increase TB risk to the same degree.
+ARABIC: مضادات TNF مثل etanercept تزيد خطر السل (TB) بسبب كبت المناعة.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-221]
+Q: A 79-year-old woman reports progressively worsening neck pain over several weeks. She has a history of rheumatoid arthritis and has been taking steroids for years. She has been taking NSAIDs and acetaminophen without relief. What cervical spine abnormality is classically associated with this patient’s disease process?
+A: Atlantoaxial subluxation
+EXPLANATION: Patients with rheumatoid arthritis (RA) are at risk for developing atlantoaxial subluxation. Chronic rheumatic disease damages the transverse ligament and erodes the odontoid process, leading to instability of the atlantoaxial joint. Subluxation can occur spontaneously or following a trivial injury. Risk factors include male sex, positive anti-cyclic citrullinated peptide antibody, long disease duration, extra-articular manifestations, and higher inflammatory marker levels. Overall, the rate of atlantoaxial subluxation has begun to decline with the advent of more effective disease-modifying antirheumatic drugs.
+
+### [PEER-PHYS | PEER-immune-q-77]
+Q: A 44-year-old woman presents with finger pain in both hands. She says her fingers started to hurt while she was mixing drinks but that it has happened before. She is otherwise asymptomatic and denies trauma or other medical problems. On examination, her hands are pale white and the skin is shiny and taut. After starting hand-warming, what is the most appropriate next step in management?
+A: Nifedipine PO
+EXPLANATION: This patient has scleroderma with Raynaud phenomenon. The appropriate next step is gentle rewarming combined with topical or oral calcium-channel blockers or nitrates. Advanced treatments are indicated only in refractory cases or severe ischemia.
+ARABIC: بعد التدفئة، حاصرات قنوات الكالسيوم مثل nifedipine هي الخطوة الأولى في ظاهرة رينود.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-222]
+Q: A 50-year-old woman on unknown chemotherapy presents with shortness of breath. Her electrocardiogram is unchanged from a recent test, and troponin level is unremarkable. In addition to the thoracic ultrasound findings above, her inferior vena cava measures 2.5 cm and she has poor left ventricular squeeze. Which of the following medications is associated with this patient’s suspected diagnosis?
+A: Trastuzumab
+EXPLANATION: This patient is presenting with symptoms and ultrasound findings consistent with acute heart failure. The most common symptoms of heart failure include shortness of breath, orthopnea, fatigue, chest pain, and extremity swelling. Physical exam findings include jugular venous distension, pitting edema, S3 heart sounds, and crackles on lung auscultation. Ultrasound findings suggestive of heart failure include B lines, plethoric inferior vena cava (IVC), and poor left ventricular function best evaluated in the parasternal short-axis cardiac view. The IVC is considered plethoric if it is > 2 cm in diameter when viewed in the long axis.
+
+### [PEER-PHYS | PEER-immune-q-78]
+Q: A woman presents with several weeks of worsening difficulty swallowing. She also notes episodes of numbness and pallor affecting her fingers for many years. On examination, the patient demonstrates many small, flat, spider-like vascular lesions on her face. Which is the most likely diagnosis?
+A: CREST syndrome
+EXPLANATION: The patient describes esophageal dysmotility and Raynaud phenomenon, and she demonstrates telangiectasia on examination: three components of CREST syndrome. Other components include calcinosis and sclerodactyly.
+ARABIC: توسع الشعيرات مع ارتجاع مريئي وظاهرة رينود يشير إلى CREST syndrome، أحد أشكال التصلب الجهازي.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-223]
+Q: A 54-year-old woman presents to the emergency department for hypertension. She reports readings on her home blood pressure cuff above 180/100 mm Hg, which caused her to be concerned and seek attention. Her medical history includes a kidney transplant 6 years ago due to lupus nephritis.
+A: Spot urine protein to creatinine ratio
+EXPLANATION: Chronic allograft nephropathy is a poorly understood clinicopathologic entity previously known by several other names, including chronic rejection. It specifically refers to a pathologic process characterized by interstitial fibrosis and tubular atrophy, while it does not identify a particular pathogenesis underlying these changes. Thus, the term chronic rejection represents such an etiology, but not all cases of chronic allograft nephropathy are due to alloimmune rejection. The primary risk factors for developing chronic allograft nephropathy are prior episodes of acute rejection, delayed graft function following transplantation, and concomitant hypertension and hyperlipidemia.
+
+### [PEER-PHYS | PEER-immune-q-79]
+Q: A 45-year-old patient with a history of Raynaud phenomenon presents with gradually worsening digital ulcerations over the past week. What is the most likely diagnosis?
+A: Systemic sclerosis
+EXPLANATION: Raynaud phenomenon is commonly associated with autoimmune rheumatic diseases, including systemic sclerosis. Critical digital ischemia, digital ulceration, and gangrene rarely occur in systemic sclerosis and SLE, but when present, they suggest systemic sclerosis.
+ARABIC: تقرحات الأصابع المتقدمة عند مريض ظاهرة رينود توحي بتصلب الجلد الجهازي (systemic sclerosis).
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-224]
+Q: A 33-year-old man presents to the ED with joint pain. He describes lower back and wrist pain that has progressed to pain in his left knee in the setting of feeling generally fatigued and weak. He also notes he had mild dysuria last week. Physical exam is notable for mild conjunctival injection, pain with passive movement of the patient’s left knee, and erythema and edema of both wrists.
+A: Reactive arthritis
+EXPLANATION: This patient is presenting with symptoms suggestive of reactive arthritis, a seronegative reactive spondyloarthropathy that presents as an acute asymmetric oligoarthritis (in particular of the lower extremities). It can present with generalized malaise, lower back pain, and migratory arthritis. An infection, such as urethritis or an enteric infection, typically precedes reactive arthritis. Common infectious agents that are associated with reactive arthritis include Ureaplasma urealyticum, Chlamydia trachomatis, Salmonella enteritidis, and Shigella.
+
+### [PEER-PHYS | PEER-immune-q-80]
+Q: Which constellation of findings is consistent with systemic sclerosis (scleroderma)?
+A: Skin thickening or hardening affecting digits and Raynaud phenomenon
+EXPLANATION: Skin thickening or hardening affecting the hands and digits (sclerodactyly) and Raynaud phenomenon are common findings in scleroderma. Other findings include pruritus, edema, pigmentation changes, ulcerations, telangiectasia, arthritis, tendonitis, dysphagia, interstitial lung disease, and renal dysfunction.
+ARABIC: تصلب الجلد في الأصابع (sclerodactyly) مع ظاهرة رينود هما العلامتان المميزتان لتصلب الجلد.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-225]
+Q: A 37-year-old woman presents to the ED with a facial rash. Physical examination reveals papular lesions along the nasal alar rim and smooth violaceous plaques on the cheeks and nose consistent with lupus pernio. She is followed by a pulmonologist for a chronic lung condition. Which of the following conditions is the patient most likely to have?
+A: Sarcoidosis
+EXPLANATION: Sarcoidosis is a systemic granulomatous disease of unclear etiology that most often affects the lungs but can involve multiple organ systems, including the skin, eyes, and lymphatic system. The condition is characterized histologically by noncaseating granulomas. It most commonly affects individuals between 20 and 40 years of age. Environmental and occupational exposures, along with certain genetic factors, are thought to contribute to disease development, although the exact cause remains unknown. Lupus pernio is the most specific cutaneous manifestation of sarcoidosis. It presents as chronic, violaceous, indurated plaques and papules, typically on the nose, cheeks, lips, and ears.
+
+### [PEER-PHYS | PEER-immune-q-81]
+Q: A scleroderma patient presents with mouth sores, throat pain, and severe diarrhea. She has been taking methotrexate 20 mg daily for the past 10 days, although her prescription is for 20 mg weekly. What treatment will this patient likely require?
+A: Folinic acid
+EXPLANATION: Methotrexate toxicity is treated with folinic acid, the activated form of folic acid. Toxicity can include stomatitis, GI upset, dermatitis, renal failure, hepatitis, myelosuppression, and CNS effects. Cumulative doses greater than 100 to 150 mg over a few days increase risk. Other treatments include multi-dose activated charcoal, urinary alkalinization, hemodialysis, and glucarpidase.
+ARABIC: تسمم الميثوتركسيت يعالج بحمض الفولينيك (folinic acid) لتعويض نقص الفولات النشط.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-226]
+Q: A 27-year-old woman presents to the emergency department with a cough, dyspnea, and chest pain. Her symptoms have persisted for several weeks and occur in the setting of fatigue, malaise, and a low-grade fever. She came to the emergency department today because she noticed that her ability to exercise at the gym has diminished and her weakness has not been improving.
+A: Hypercalcemia
+EXPLANATION: Sarcoidosis is a systemic inflammatory disease that manifests with noncaseating granulomas most commonly found in the lungs and lymph nodes (manifesting as hilar lymphadenopathy). Other systemic findings can be found, including dermatologic findings (cutaneous nodules), cardiac findings (restrictive cardiomyopathy, dilated cardiomyopathy, and heart block), pulmonary findings (cough and shortness of breath), arthritis, uveitis, fatigue, and malaise. Electrolyte disturbances in sarcoidosis can include hypercalcemia, which is believed to occur secondary to increased intestinal absorption of calcium due to high serum calcitriol concentrations and decreased fecal excretion.
+
+### [PEER-PHYS | PEER-immune-q-82]
+Q: A scleroderma patient presents with new renal failure and severe hypertension with encephalopathy that is suspicious for scleroderma renal crisis. What treatment should be initiated?
+A: Captopril and nitroprusside
+EXPLANATION: Scleroderma renal crisis is a rare complication of diffuse cutaneous systemic sclerosis. Captopril, an ACE inhibitor, is first-line therapy. Nitroprusside may be added initially in patients with severe hypertension and CNS effects. High-dose steroids are associated with increased risk of SRC.
+ARABIC: أزمة الكلى في تصلب الجلد تعالج بمثبط ACE مثل captopril، ويمكن إضافة nitroprusside للضغط الشديد.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-227]
+Q: A 32-year-old woman presents after a vacation in the Bahamas. In the past, she “never got sunburned,” but on this trip, she developed a painful, diffuse rash after only 20 minutes in the sun. She also noticed a worsening of a blemish on her forehead that first appeared around 1 month ago. She tried petroleum jelly on the lesion without improvement.
+A: Systemic lupus erythematosus
+EXPLANATION: Patients with systemic lupus erythematosus (SLE) can present with photosensitivity. This patient’s new photosensitivity, worsening discoid rash, and fatigue make a lupus flare most likely. In patients with lupus, ultraviolet light can trigger translocation of nuclear proteins to the cell surface of epithelial cells, which activates lymphocytes and causes a rash or sunburn. The photosensitivity rash can vary from urticaria to an erythematous maculopapular rash. While malar rash is still the most typical skin finding associated with lupus, around 20% of patients present with discoid rashes.
+
+### [PEER-PHYS | PEER-immune-q-83]
+Q: A 37-year-old woman complains of gradual onset of sharp, pleuritic chest pain. On physical examination, she is also found to have oral ulcers, a rash, and tender wrist and proximal interphalangeal joints. The rash is limited to the distal upper extremities, backs of the hands, and the face. What laboratory test, if positive, would help to confirm the diagnosis?
+A: Antinuclear antibody
+EXPLANATION: Systemic lupus erythematosus (SLE) is a multisystem autoimmune disease. A positive antinuclear antibody (ANA) is one of the diagnostic criteria. ANA is very sensitive for lupus, testing positive in 95% of patients; a negative ANA makes lupus very unlikely.
+ARABIC: الـ ANA حساس جداً للذئبة الحمامية الجهازية، وسلبيته تجعل التشخيص مستبعداً.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-228]
+Q: A 9-year-old boy with no significant medical history presents to the emergency department with facial swelling. He states that his symptoms started 1 day ago. He also notes that his urine has been foamier than it usually is. His parent reports that he recently recovered from a sore throat and fever 2 weeks ago, which was treated with antibiotics. Urinalysis shows red blood cells and proteinuria.
+A: Immune complex deposition
+EXPLANATION: The patient is presenting with poststreptococcal glomerulonephritis, which is caused by immune complex deposition in the kidney, causing local damage and impaired filtration. Poststreptococcal glomerulonephritis occurs after prior infection with group A beta-hemolytic Streptococcus pyogenes, typically involving the pharynx or skin. Immune complexes will form secondary to the deposition of streptococcal antigens within the glomerulus, causing local damage. Symptoms usually present around 2 weeks after the infection, depending on the type of infection. Typically, Streptococcus skin infections lead to a later onset of poststreptococcal glomerulonephritis.
+
+### [PEER-PHYS | PEER-immune-q-84]
+Q: An otherwise healthy 21-year-old woman presents with new-onset dyspnea and pleuritic chest pain that is worse when she lies down. She denies trauma or any medication use. She had fever and joint pain 2 days ago. Ultrasound reveals a small pericardial effusion without tamponade. Initial laboratory tests show a negative urine hCG, proteinuria on urinalysis; Hgb 9 g/dL; and platelets 75,000/mcL.
+A: Systemic lupus erythematosus
+EXPLANATION: This patient demonstrates signs of pericarditis, arthritis, anemia, thrombocytopenia, and proteinuria, meeting criteria for systemic lupus erythematosus (SLE). SLE is a chronic autoimmune disorder with multisystem involvement. Acute flares are often treated with glucocorticoids.
+ARABIC: Pericarditis مع arthritis وفقر دم وقلة صفيحات وبيلة بروتينية يوحي بالذئبة الحمامية الجهازية.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-229]
+Q: A 29-year-old woman presents to the ED with the above finding as well as a rash on her chest and arms. Her blood pressure is 87/48 mm Hg, pulse is 130/min, respiratory rate is 23/min, and oxygen saturation is 99% on room air. Which of the following is the best initial treatment for this patient?
+A: Epinephrine
+EXPLANATION: Angioedema typically occurs secondary to an increase in vascular permeability in the subcutaneous or submucosal tissue, which typically occurs secondary to histamine and bradykinin. Angioedema with anaphylaxis presents with the classic findings of angioedema in addition to hypotension, tachycardia, urticaria, and bronchoconstriction. Anaphylaxis is a serious allergic (hypersensitivity) reaction that can progress rapidly and may cause death. It is a systemic reaction that manifests acutely with involving multiple organ systems (i.e., skin/mucosa, respiratory, cardiovascular, gastrointestinal) after exposure to an allergen in a previously sensitized individual.
+
+### [PEER-PHYS | PEER-immune-q-85]
+Q: A 62-year-old woman presents with a new-onset headache localized to the left side of her head with temporal tenderness. She has pain with chewing and talking, and she has body aches and fatigue. She denies having similar headaches in the past; she has no fever or neck pain, and her neurologic examination is normal. What is the best next step?
+A: Administer steroids
+EXPLANATION: Giant cell arteritis (temporal arteritis) is a vasculitis affecting the superficial branches of the carotid artery, especially the superficial temporal artery. Patients with suspected arteritis should be started on steroids immediately to prevent irreversible vision loss. Biopsy can be performed after steroids are started.
+ARABIC: الاشتباه بالتهاب الشرايين العملاقة يتطلب بدء الستيرويدات فوراً لمنع فقدان البصر.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-230]
+Q: A 3-year-old boy with a history of a peanut allergy presents with rash and shortness of breath after eating a cookie. Vital signs are a T of 98.0°F (36.7°C), BP of 80/50 mm Hg, HR of 140 bpm, RR of 28/min, and SpO2 of 98% on room air. On physical exam, he is mildly tachypneic with expiratory wheezing and has urticaria on his trunk and upper extremities.
+A: 0.01 mL/kg of intramuscular 1 mg/mL (1:1,000) epinephrine
+EXPLANATION: This patient, who presents with urticaria and wheezing after ingesting a likely allergen, has anaphylaxis. Anaphylaxis is a serious allergic (hypersensitivity) reaction that can progress rapidly that can lead to airway, breathing, circulatory dysfunction, and death. Epinephrine is the treatment of choice and is the only medication that has proven to be effective in anaphylaxis. Intramuscular epinephrine is efficacious, easily administered, and has fewer adverse effects compared to the intravenous route and is thus the preferred initial treatment.
+
+### [PEER-PHYS | PEER-immune-q-86]
+Q: An otherwise healthy 42-year-old woman presents with urticaria, wheezing, and headache 30 minutes after eating lobster. Her vitals are BP 148/92, P 105, R 22, and T 36.8°C (98.2°F); SpO2 is 99% on room air. What feature distinguishes this patient's condition as anaphylaxis rather than a non–life-threatening allergic reaction?
+A: Wheezing
+EXPLANATION: The presence of urticaria and wheezing satisfies the clinical criteria for anaphylaxis. For a likely allergen, anaphylaxis can be diagnosed when two of the following are present: skin/mucosal involvement, respiratory compromise, persistent GI upset, or reduced blood pressure/end-organ malperfusion. Wheezing indicates respiratory compromise.
+ARABIC: وجود صفير (wheezing) مع الشرى بعد التعرض لمادة محتملة يفي بمعايير الصدمة التحسسية.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-231]
+Q: A 45-year-old man with a medical history of hepatitis B virus presents with weight loss, abdominal pain, and fatigue for several weeks. He also has numbness and weakness in the left hand and a rash on his extremities. Vital signs are a T of 100.1°F (37.8°C), BP of 185/100 mm Hg, HR of 80 bpm, RR of 16/min, and SpO2 of 99% on room air.
+A: Polyarteritis nodosa
+EXPLANATION: Polyarteritis nodosa (PAN) is a necrotizing vasculitis of medium-sized arteries with multisystem involvement. Segmental, transmural inflammation of medium-sized arteries leads to intimal narrowing, thrombosis, end-organ ischemia, and aneurysmal dilation. The pathogenesis is not well understood, and unlike many other vasculitides, PAN is not associated with a specific autoantibody. PAN usually presents between ages 40 and 50 and is more common in patients who use intravenous drugs and those with hepatitis B virus (HBV) infection. PAN can affect any organ, but the kidneys, skin, gastrointestinal tract, and peripheral nerves are most often involved, while the lungs are classically spared.
+
+### [PEER-PHYS | PEER-immune-q-87]
+Q: A 12-year-old boy presents after ingesting peanut butter. He has no known allergies. On examination, he has diffuse urticaria, vomiting, lip swelling, and stridor. Immediate resuscitation is started with intramuscular epinephrine, steroids, and antihistamines. He initially improves but then has a return of stridor and swelling.
+A: Pediatric intensive care unit
+EXPLANATION: This patient has severe anaphylaxis requiring a continuous epinephrine infusion. Once a patient is receiving a continuous epinephrine infusion, they should be admitted to an ICU for close monitoring and additional treatment.
+ARABIC: الحاجة إلى تسريب إبينفرين وريدي مستمر بعد صدمة تحسسية شديدة تستوجب إدخال العناية المركزة.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-232]
+Q: A 56-year-old woman presents to the emergency department with joint pain and stiffness in her hands for several days. Which of the following historical and physical examination findings suggests a diagnosis of rheumatoid arthritis instead of osteoarthritis?
+A: Morning stiffness and pain &gt; 1 hour
+EXPLANATION: Rheumatoid arthritis is a symmetric, inflammatory, peripheral polyarthritis that leads to deformity and destruction of joints through erosion of cartilage and bone. Initial evaluation of a patient presenting with inflammatory polyarthritis requires a careful history and physical examination to make a correct diagnosis. Specifically in rheumatoid arthritis laboratory evaluation is also helpful.
+
+### [PEER-PHYS | PEER-immune-q-88]
+Q: A 50-year-old man with tree nut allergies presents immediately after ingesting a walnut. He has hives, vomiting, and a “tight sensation” in this throat. His lungs are clear to auscultation, and there is no obvious tongue or lip swelling. BP is normal. Which medication should be administered first?
+A: 1:1,000 epinephrine 0.3 mg IM
+EXPLANATION: This patient is having an allergic reaction affecting three organ systems (skin, oropharyngeal/ENT, and GI), concerning for anaphylaxis. First-line treatment in adults is intramuscular 0.3 mg of 1:1,000 epinephrine. The 1:10,000 concentration is for IV use, typically in cardiac arrest.
+ARABIC: العلاج الأول للصدمة التحسسية هو إبينفرين 1:1,000 بجرعة 0.3 ملغ عضلياً.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-233]
+Q: A 13-year-old boy presents to the ED with the above rash noted on his upper arms, thighs, abdomen, and back. The rash started only a few hours ago while outside exercising. The patient has had no known exposure to new foods, soaps, detergents, or animals. His parent gave him a dose of diphenhydramine, after which the patient immediately vomited.
+A: Anaphylaxis
+EXPLANATION: Anaphylaxis is serious allergic (hypersensitivity) reaction that can progress rapidly and may cause death. It is commonly caused by foods but can be caused by medication, latex, and exercise. Anaphylaxis is usually IgE mediated but can be immune complex mediated or even complement mediated. The end result of a complex chain of events is diffuse mast cell or basophil degranulation of histamine, tryptase, or tumor necrosis factor. Drugs that cause anaphylaxis tend to be immune complex or complement mediated. The release of histamine leads to tachycardia, flushing, and hives.
+
+### [PEER-PHYS | PEER-immune-q-89]
+Q: A 53-year-old man presents via ambulance in anaphylaxis. Two intramuscular injections of epinephrine and 2 L of normal saline were given en route. On arrival, his vital signs include BP 85/50, P 120, and R 20; SpO2 is 94% on room air. Which route of administration should be used for the next dose of epinephrine?
+A: Intravenous infusion
+EXPLANATION: This patient exhibits cardiovascular collapse from anaphylaxis despite two IM epinephrine injections. Intravenous infusion of epinephrine is warranted. Bolus IV dosing should be avoided if possible due to higher cardiovascular complication risk. Subcutaneous administration is not indicated.
+ARABIC: بعد فشل جرعتين عضليتين من الإبينفرين، يستخدم تسريب وريدي مستمر بحذر.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-234]
+Q: A 3-year-old boy presents to the ED with a fever. He has had a high fever of > 103°F (39.4°C) for the past week. On physical exam, you note left-sided cervical lymphadenopathy, fissuring of the lips, conjunctival injection without drainage, and a diffuse faint maculopapular rash. Which of the following is the most appropriate treatment for this patient?
+A: Immune globulin and aspirin
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with Kawasaki disease (mucocutaneous lymph node syndrome). Kawasaki disease most commonly affects children 5 days, unilateral cervical lymphadenopathy > 1.5 cm, mucous membrane involvement (e.g., strawberry tongue or fissured lips), extremity changes (e.g. edema or erythema), bilateral nonexudative conjunctivitis without iritis, and nonvesicular rash. Diagnosis is clinical. Fever > 5 days must be present and at least 4 of the 5 aforementioned signs. If there are < 4 signs present, diagnosis may be made with evidence of coronary artery disease on echocardiography or by a constellation of laboratory tests.
+
+### [PEER-PHYS | PEER-immune-q-90]
+Q: A 37-year-old man presents with abdominal pain, vomiting, hives, and wheezing after eating at a new restaurant. An intravenous line is established, and oxygen is given via nasal cannula. What is the most appropriate initial treatment?
+A: Epinephrine
+EXPLANATION: This patient is presenting with anaphylaxis. Epinephrine is indicated immediately and helps decrease airway edema and induces bronchodilation and vasoconstriction. Antihistamines and steroids are adjuncts and should not replace epinephrine.
+ARABIC: الإبينفرين هو العلاج الأول للصدمة التحسسية، ولا يجب تأخيره لأي دواء آخر.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-235]
+Q: A 41-year-old woman with diffuse systemic sclerosis presents to the ED with altered mental status. Her vital signs are T 97.5°F (36.4ºC), BP 225/118 mm Hg, HR 99 bpm, RR 14/minute, and SpO2 97% on room air. She is disoriented but follows commands. She has no focal neurologic deficits.
+A: Scleroderma renal crisis
+EXPLANATION: Scleroderma renal crisis is a kidney emergency that demands rapid recognition and treatment to reduce morbidity and mortality. It usually develops within the first 4 years after the onset of systemic sclerosis and is more common in those with diffuse illness. The use of glucocorticoids has been implicated as a precipitating factor. It is characterized by a rapid and dramatic decline in kidney function along with hypertensive encephalopathy and, to a lesser extent, microangiopathic hemolytic anemia. Management involves aggressive blood pressure control. Angiotensin-converting enzyme inhibitors (e.g., captopril, enalaprilat) are the recommended therapy.
+
+### [PEER-PHYS | PEER-immune-q-91]
+Q: A 65-year-old man presents with anaphylaxis. His medical history includes hypertension treated with atenolol. What medication should be considered for hypotension and airway edema refractory to epinephrine?
+A: Glucagon
+EXPLANATION: If a patient is taking beta-adrenergic blocking agents such as atenolol, the beneficial effects of epinephrine may be blunted. Glucagon stimulates cyclic adenosine monophosphate and can reverse beta-receptor blockade. It is administered as 1 mg IV every 5 minutes as needed.
+ARABIC: الجلوكاجون يفيد في الصدمة التحسسية المقاومة للإبينفرين عند مرضى حاصرات بيتا.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-236]
+Q: A 4-year-old girl presents to the ED with a fever for the past 5 days. Her parent also notes a diffuse rash. On physical exam, you find cervical lymphadenopathy as well as conjunctival injection and fissured lips. Which of the following is the appropriate treatment for this patient’s presentation?
+A: Aspirin
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with Kawasaki disease or mucocutaneous lymph node syndrome. Kawasaki disease most commonly affects children 1.5 cm, mucous membrane involvement (e.g., strawberry tongue or fissured lips), extremity changes (e.g., edema or erythema), bilateral nonexudative conjunctivitis without iritis, and nonvesicular rash. Diagnosis is clinical. Fever ≥ 5 days must be present, and at least four of the five aforementioned signs must be present. If there are fewer than four signs present, a diagnosis may be made with evidence of coronary artery disease on echocardiography or by a constellation of laboratory tests.
+
+### [PEER-PHYS | PEER-immune-q-92]
+Q: A hypotensive patient is intubated for peanut-induced anaphylactic shock that is refractory to treatment with epinephrine, diphenhydramine, famotidine, and methylprednisolone. The patient remains hypotensive. Which variable best explains the failed response to therapy?
+A: Vascular permeability
+EXPLANATION: Third spacing from increased vascular permeability in anaphylaxis can result in rapid and sustained fluid shift into the extravascular space. The combination of third spacing and loss of vasomotor tone can produce significant hypotension. Aggressive crystalloid resuscitation should be instituted early.
+ARABIC: زيادة النفاذية الوعائية (vascular permeability) تؤدي إلى تسرب السوائل وانخفاض الضغط المقاوم للعلاج.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-237]
+Q: A 9-year-old girl presents to the emergency department with abdominal pain and rash. She had a viral upper respiratory infection that resolved 2 weeks ago. This morning she began experiencing intermittent abdominal pain and then a rash appeared on her extremities. She is also reporting bilateral knee and elbow pain.
+A: Biopsy with IgA deposition
+EXPLANATION: A skin or kidney biopsy with immunoglobulin A (IgA) deposition confirms the diagnosis of IgA vasculitis, also known as Henoch-Schönlein Purpura (HSP). HSP is a small vessel vasculitis involving the skin, gut, and kidney and is characterized by IgA immune deposits in target organs. It is more common in children, but adults can be affected as well. It occurs most often in the winter and early spring following a viral upper respiratory infection in two-thirds of cases. Other inciting agents include insect bites and drugs. Patients often present with fever, palpable purpura on the lower extremities and buttocks, abdominal pain, arthritis, and hematuria.
+
+### [PEER-PHYS | PEER-immune-q-93]
+Q: A 58-year-old man presents with tongue swelling that has progressed over the past hour. He says he feels like he is "having trouble breathing." He has no allergies, and he takes lisinopril daily. Given a suspected diagnosis of angioedema and concern for his airway, what is the most definitive step in management?
+A: Intubation
+EXPLANATION: Angioedema from ACE inhibitors is caused by decreased metabolism of bradykinin and does not respond to typical anaphylaxis medications. This patient has airway compromise, so emergent intubation is the most definitive step to protect the airway.
+ARABIC: الوذمة الوعائية الناتجة عن ACE inhibitors لا تستجيب للإبينفرين، والأهم تأمين مجرى الهواء بالتنبيب.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-238]
+Q: A 14-year-old boy with no significant medical history presents with a new-onset rash and “bumps under my skin.” The patient first noticed a blotchy red rash on his trunk that “went away except for the outer edge.” He presents because the rings have spread and coalesced, as shown above. The rash is not pruritic, but he notices that being outside in the summer heat worsens the rash.
+A: Antistreptolysin O titer
+EXPLANATION: This patient presents with an erythematous rash that coalesced into a serpiginous rash as well as painless subcutaneous nodules, two of the major criteria for acute rheumatic fever. Streptococcal antibody titers (most commonly antistreptolysin O) are the test of choice to verify acute rheumatic fever. Acute rheumatic fever is the most common cause of heart disease in individuals < 40 years. A streptococcal infection precipitates an autoimmune disorder in which antibodies cross-react with other tissues around the body, most notably the heart (carditis), joints (polyarthritis), and skin.
+
+### [PEER-PHYS | PEER-immune-q-94]
+Q: A 24-year-old woman presents with isolated diffuse tongue swelling that began shortly before arrival. She has had two prior episodes and says that her mother has had similar problems. She has not eaten any new foods or recently begun using new toiletries, clothing, or medications. Which medication is the most efficacious to treat this condition?
+A: C1 inhibitor
+EXPLANATION: This patient likely has hereditary angioedema, an autosomal-dominant genetic deficiency that manifests before age 30. C1-inhibitor deficiency leads to excess bradykinin and angioedema. C1 inhibitor is the treatment to stop this cascade.
+ARABIC: الوذمة الوعائية الوراثية تنتج عن نقص C1 inhibitor، والعلاج النوعي هو C1 inhibitor.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-239]
+Q: A 4-year-old boy presents to the ED with fever. He was born via term vaginal delivery with no complications and his immunizations are up to date. He has had an oral temperature > 101°F (38.3ºC) at home for the last 5 days. Today his vital signs are T 104.5°F (40.3ºC), HR 130 bpm, RR 18/min, BP 93/50 mm Hg, and SpO2 100% on room air.
+A: Kawasaki disease
+EXPLANATION: Kawasaki disease, or mucocutaneous lymph node syndrome, is a childhood febrile vasculitis with an unknown etiology despite several postulated theories. Most cases occur in children 5 days of fever is suggestive of Kawasaki disease. Exanthem subitum (B), or roseola infantum, is a pediatric febrile exanthem characterized by 3–5 days of high fever (often > 104ºF [40ºC]) that resolves abruptly and is then followed by a truncal maculopapular rash. Postinfectious glomerulonephritis (D) is an inflammatory proliferative glomerular disorder that classically occurs secondary to streptococcal infections (e.g., streptococcal pharyngitis).
+
+### [PEER-PHYS | PEER-immune-q-95]
+Q: A 19-year-old woman with a history of anaphylaxis presents with a swollen tongue, stridor, and drooling. Her BP is 80/50 mm Hg. After securing the airway, what is the most important medication in the management of her condition?
+A: Epinephrine
+EXPLANATION: This patient is manifesting signs of allergic-type angioedema with anaphylaxis due to mast-cell mediation and histamine release. Epinephrine remains the cornerstone of treating anaphylaxis and angioedema secondary to a hypersensitivity reaction.
+ARABIC: عند وجود صدمة تحسسية مع وذمة وعائية، الإبينفرين هو الدواء الأساسي بعد تأمين المجرى الهوائي.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-240]
+Q: Which organ system do the clinical manifestations of anaphylaxis most often involve?
+A: Skin
+EXPLANATION: Anaphylaxis is an IgE-mediated hypersensitivity reaction. Antigens bind to IgE on the surface of mast cells and basophils, resulting in degranulation of mediators. Histamine is the most important mediator and is responsible for most symptoms related to anaphylaxis. Symptoms typically occur within minutes of exposure. The most frequently seen symptoms (in nearly 90% of patients with anaphylaxis) involve the skin. Patients often describe a generalized feeling of warmth and tingling followed by pruritus, which can be accompanied by flushing, urticaria, and angioedema.
+
+### [PEER-PHYS | PEER-immune-q-96]
+Q: A patient with a known peanut allergy and a history of hypertension presents with lip and tongue swelling. He has no personal or family history of similar events. There is no urticaria or wheezing on examination. The swelling is unimproved with intramuscular epinephrine. What is the most likely cause of this patient's swelling?
+A: Lisinopril
+EXPLANATION: The most likely cause is lisinopril, an ACE inhibitor, causing ACE-inhibitor–induced angioedema. This is bradykinin-mediated, not histamine-mediated, so it is unresponsive to epinephrine and antihistamines. Hereditary angioedema is less likely without family history.
+ARABIC: وذمة وعائية لا تستجيب للإبينفرين مع استخدام lisinopril تشير إلى وذمة ACE inhibitor.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-241]
+Q: A 30-year-old man with a history of epilepsy presents to the ED with a fever and rash. He was started on carbamazepine 3 weeks ago. Vital signs are BP 120/80 mm Hg, HR 110 bpm, RR 18/min, SpO2 98% on room air, and T 101°F (38.3°C). On physical exam, he has a diffuse erythematous rash and lymphadenopathy.
+A: Drug reaction with eosinophilia and systemic symptoms
+EXPLANATION: Drug reaction with eosinophilia and systemic symptoms (DRESS), also known as drug-induced hypersensitivity syndrome, is a life-threatening hypersensitivity drug reaction. DRESS is characterized by a long latency period between drug exposure and developing symptoms. The most commonly implicated medications included antiepileptic agents such as carbamazepine, lamotrigine, phenytoin, and phenobarbital. Antibiotics, including sulfonamides, dapsone, and vancomycin, may also lead to DRESS. In most patients, symptoms begin approximately 2–6 weeks after starting the offending medication. Fever, malaise, lymphadenopathy, and skin eruption are the most common presenting symptoms.
+
+### [PEER-PHYS | PEER-immune-q-97]
+Q: Which medication can be used to treat ACE inhibitor–induced angioedema?
+A: Tranexamic acid
+EXPLANATION: ACE-inhibitor–induced angioedema occurs by a bradykinin- and substance P–mediated mechanism, not histamine-mediated. Traditional anaphylaxis medications are ineffective. Tranexamic acid, icatibant, and C1 esterase inhibitor may be useful, though data are limited.
+ARABIC: حمض الترانيكساميك قد يفيد في وذمة ACE inhibitor الناتجة عن آلية براديكينين.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-242]
+Q: In addition to evidence of a preceding streptococcal infection, which of the following combination of manifestations meets the criteria for the diagnosis of acute rheumatic fever?
+A: Carditis and polyarthritis
+EXPLANATION: The Jones criteria were established > 70 years ago and remain the basis for diagnosing acute rheumatic fever. Diagnosis requires evidence of a preceding streptococcal infection (e.g., positive throat culture, positive rapid streptococcal antigen test, or elevated streptococcal antibody titer) in addition to two major criteria or one major and two minor criteria. Carditis, polyarthritis, chorea, erythema marginatum, and subcutaneous nodules are considered major manifestations of the disease. Minor manifestations are fever, arthralgias, elevated erythrocyte sedimentation rate or C-reactive protein, and a prolonged PR interval on ECG.
+
+### [PEER-PHYS | PEER-immune-q-98]
+Q: If a patient has a true anaphylaxis to amoxicillin, which other medication is most likely to cause similar symptoms?
+A: Cephalexin
+EXPLANATION: Amoxicillin is an aminopenicillin. Patients with anaphylaxis to penicillins are at increased risk with cephalosporins. First-generation cephalosporins such as cephalexin possess similar R1 side chains and have the greatest cross-reactivity risk. Later-generation cephalosporins have very low risk.
+ARABIC: السيفالكسين (first-generation cephalosporin) له تشابه بنيوي مع الأمينوبنسلينات ويزيد خطر التفاعل التحسسي.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-243]
+Q: A 6-year-old girl is brought to the emergency department with hematuria today. According to her parent, the girl recently had a sore throat with a fever but improved from that illness. She had not been seen for that illness. Now she has blood in her urine. She reports no pain with urination and has not had a fever today. Vital signs show HR 98 bpm, BP 157/88 mm Hg, RR 16/min, and T 37.7°C.
+A: Furosemide intravenously
+EXPLANATION: This patient is most likely presenting with poststreptococcal glomerulonephritis. Poststreptococcal glomerulonephritis appears to be caused by glomerular immune complex disease induced by specific nephritogenic strains of group A beta-hemolytic Streptococcus. The presentation varies from asymptomatic to full-blown acute nephritic syndrome with red urine, proteinuria, edema, hypertension, and elevated serum creatinine. Poststreptococcal glomerulonephritis usually occurs approximately 1–3 weeks after group A streptococcal pharyngitis and can occur 3–6 weeks following a group A streptococcal skin infection. There is no specific therapy for poststreptococcal glomerulonephritis.
+
+### [PEER-PHYS | PEER-immune-q-99]
+Q: Which type of infection is most common in post-transplant patients more than 8 months after the transplant?
+A: Community-acquired pneumonia
+EXPLANATION: Infections after transplant are stratified by time. More than 6 months after transplant, infections are typically community-acquired pneumonias, UTIs, or late viral infections. Less than 1 month usually indicates nosocomial or surgical complications; 1–6 months favors opportunistic infections.
+ARABIC: بعد أكثر من 6 أشهر من الزرع، تكون الأخماج المكتسبة من المجتمع مثل ذات الرئة أكثر شيوعاً.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-244]
+Q: A 19-month-old girl has been sick for 6 days. Symptoms include fussiness, cough, rhinorrhea, conjunctivitis, fever, and a rash. Vital signs include T 102.8°F (39.3ºC), BP 75/44 mm Hg, HR 165 bpm, RR 28/min, SpO2 97%. The exam shows a diffuse erythematous rash affecting the trunk, extremities, hands, and feet. She has cervical lymphadenopathy and erythema of the lips and pharynx.
+A: Decreased left ventricular ejection fraction on echocardiogram
+EXPLANATION: This patient is in the acute phase of Kawasaki disease (mucocutaneous lymph node syndrome). It is an acute vasculitis primarily affecting children < 5 years of age with a predilection for the coronary arteries. It is the leading cause of acquired heart disease among children in the United States. The immunologic and inflammatory cascade is thought to weaken vessel walls and predispose them to aneurysms. The acute phase of illness lasts 1–2 weeks and includes the classic clinical findings, with the diagnosis based on fever lasting ≥ 5 days and at least four of the other clinical criteria listed below.
+
+### [PEER-PHYS | PEER-immune-q-100]
+Q: Roughly 5 months after a kidney transplant, a patient presents with a fever, decreased urine output, hypertension, and tenderness over the graft site without identifiable cause on renal ultrasound. Which disorder is most likely?
+A: Acute rejection
+EXPLANATION: This patient has symptoms typical of acute rejection of the transplanted kidney, which is known to present within the first 6 months after transplant. Symptoms include fever, hypertension, decreased urine output, graft site pain, and edema. Diagnosis is confirmed by biopsy.
+ARABIC: بعد 5 أشهر من زرع الكلية، حمى وقلة إدرار وألم موضع الزرع يوحي بالرفض الحاد.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-245]
+Q: A 26-year-old woman presents with 1 year of progressive myalgias, weight loss, fevers, and episodes of lightheadedness. She reports increasing pain in her chest and extremities after modest exercise. She now has tenderness in her left anterior neck. The patient reports no visual changes, rash or skin lesions, or focal neurological symptoms.
+A: Takayasu arteritis
+EXPLANATION: Takayasu arteritis is a chronic systemic vasculitis affecting large vessels such as the aorta and its large branches. It typically presents in young women 60 years old. It may cause vasculitis of the aorta and its large branches. The classic presentation includes constitutional symptoms, jaw claudication, and pain over the temporal artery. Kawasaki disease (C) is a systemic vasculitis that commonly affects infants. The typical presentation is a fever for > 5 days, bilateral conjunctivitis without exudate, erythema and cracking of the lips and oral mucosa, diffuse rash, erythema, and desquamation of the hands and feet, and cervical lymphadenopathy.
+
+### [PEER-PHYS | PEER-immune-q-101]
+Q: One month after a kidney transplant, a patient presents with severely elevated blood pressure, generalized fatigue, fever, and a rising creatinine. Which imaging study should be obtained first?
+A: Renal ultrasound with Doppler
+EXPLANATION: When transplant rejection is suspected, the first imaging modality of choice is renal ultrasound with Doppler. This assesses for thrombosis, vascular stenosis, hematoma, fistula, urine leakage, abscess, and other infections. Contrast studies should be discussed with the transplant team due to nephrotoxicity.
+ARABIC: عند الاشتباه برفض الزرع الكلوي، يبدأ التصوير بالسونار مع دوبلر لتقييم التروية والأوعية.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-246]
+Q: A 35-year-old woman presents to the ED with fever and decreased urine output 2 weeks after a kidney transplant. Physical exam reveals tenderness over the graft site. Laboratory testing reveals a creatinine of 1.9 mg/dL, which increased from 0.8 mg/dL 3 days ago. Which of the following is the most likely diagnosis?
+A: Acute rejection
+EXPLANATION: This patient is exhibiting signs and symptoms of transplant rejection. Approximately 30–50% of transplant patients experience at least one episode of rejection. Rejection occurs when the graft is identified as foreign by the body’s immune system. Injury occurs via cellular, humoral, and inflammatory pathways. There are three types of transplant rejection. The first is hyperacute rejection which is a rare event occurring minutes to hours after transplant. It is caused by large amounts of preformed antibodies such as anti-ABO antibodies or human leukocyte antigen (HLA) mismatch.
+
+### [PEER-PHYS | PEER-immune-q-102]
+Q: A 10-year-old boy presents with fever, generalized fatigue, elevated creatinine, and high blood pressure. He received a kidney transplant 2 months ago, and his care team is concerned for acute rejection. What immune mechanism is most likely causing this patient's rejection?
+A: Recipient T-cell–mediated cellular rejection
+EXPLANATION: Acute rejection occurs between the time of transplant and 6 months after transplant and is caused by a recipient T-cell–mediated response. Chronic rejection is more antibody-mediated. Donor T-cell–mediated rejection is typically seen in stem cell transplants as graft-versus-host disease.
+ARABIC: الرفض الحاد بعد الزرع يحدث بوساطة خلايا T للمستقبل ضد العضو المزروع.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-247]
+Q: A 12-year-old boy with a history of seizures presents to the emergency department with a widespread minimally pruritic rash about 2 weeks after starting carbamazepine. On exam, he has a temperature of 38.6°C and appears tired, with a diffuse erythematous and tender rash containing macules and papules greatest over his trunk. He has mild facial edema and anterior cervical lymphadenopathy.
+A: Complete blood cell count and peripheral smear
+EXPLANATION: The most common drug eruption is an exanthematous drug eruption. It occurs 1–2 weeks after starting a new medication, and its treatment is largely symptomatic other than drug discontinuation. Findings of fever, facial edema, skin tenderness, blistering, erythroderma, or mucositis suggest a more severe hypersensitivity such as drug-induced hypersensitivity syndrome, also known as drug reaction with eosinophilia and systemic symptoms (DRESS). Drug-induced hypersensitivity syndrome also begins about 2 weeks after starting a medication, most commonly an antiepileptic (e.g., carbamazepine, lamotrigine, phenytoin, and phenobarbital) or sulfonamide.
+
+### [PEER-PHYS | PEER-immune-q-103]
+Q: Which type of transplant is most commonly associated with graft-versus-host disease?
+A: Stem cell
+EXPLANATION: Graft-versus-host disease (GVHD) occurs in up to 50% of allogeneic hematopoietic stem cell transplants. Donor T-cells generate an immune response against the recipient. The most common organ systems affected are skin, GI tract, and liver.
+ARABIC: داء الطعم ضد المضيف أشيع بعد زرع الخلايا الجذعية المكونة للدم.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-248]
+Q: A 45-year-old man presents to the emergency department and reports fatigue, pelvic pain, and a noticeable reduction in urine output over the last few days. He had a kidney transplant for end-stage kidney disease secondary to polycystic kidney disease 6 months ago. He takes tacrolimus tablets and had four doses of oral acetaminophen for pain.
+A: Acute kidney transplant rejection
+EXPLANATION: This patient’s clinical presentation, including fatigue, pelvic pain, reduced urine output, tenderness over the site of surgery, lower limb edema, and fever, raises concern for acute kidney transplant rejection. The elevated serum creatinine (2.8 mg/dL), increased blood urea nitrogen (40 mg/dL), electrolyte imbalances (hyperkalemia, hyponatremia), and abnormal urinalysis with significant proteinuria, hematuria, and white blood cells further support the diagnosis. The venous blood gas showing acidosis (pH 7.25), negative base excess, and low bicarbonate level is consistent with impaired kidney function.
+
+### [PEER-PHYS | PEER-immune-q-104]
+Q: A 70-year-old patient presents 8 months after a kidney transplant with slowly progressing visual changes, memory difficulty, and findings consistent with dementia. Which infection is the most likely cause of this presentation?
+A: Human JC polyomavirus
+EXPLANATION: This presentation is concerning for progressive multifocal leukoencephalopathy (PML), caused by human JC polyomavirus. PML is a progressive demyelinating disease that affects the neurologic system and is often fatal. It typically presents more than 6 months after transplant.
+ARABIC: تغيرات بصرية وذاكرية تدريجية بعد أكثر من 6 أشهر من الزرع توحي بـ PML بسبب JC virus.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-249]
+Q: Which of the following historical features is most consistent with a diagnosis of rheumatoid arthritis?
+A: Pain and stiffness that improves with activity
+EXPLANATION: Rheumatoid arthritis is a chronic inflammatory peripheral polyarthritis. It develops in women two to three times more often than in men, with a peak incidence in the 40s and 50s. The exact cause is unknown, but both genetic and environmental factors play a role in its development. Patients often present with an insidious onset of fatigue, morning stiffness, and joint pain. Joint involvement is often symmetrical, with the distal joints affected most commonly (with the exception of the distal interphalangeal joints, which are spared). The metacarpophalangeal joints, proximal interphalangeal joints, wrists, and metatarsophalangeal joints are most often involved.
+
+### [PEER-PHYS | PEER-immune-q-105]
+Q: What is the most common serious side effect of tacrolimus?
+A: Nephrotoxicity
+EXPLANATION: Nephrotoxicity is the most common serious side effect of tacrolimus, occurring in approximately 20% to 40% of solid organ transplant patients. Tacrolimus is a calcineurin inhibitor used to prevent transplant rejection. It can also cause neurotoxicity, hyperglycemia, hyperlipidemia, and hyperuricemia.
+ARABIC: السمية الكلوية (nephrotoxicity) هي أخطر وأشيع تأثير جانبي خطير للتاكروليمس.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-250]
+Q: An 8-year-old boy presents to the emergency department with a chief concern of dark urine. The patient’s parents state he has been healthy other than a crusty rash on his face a few weeks ago. His blood pressure is 120/80 mm Hg and heart rate is 95 bpm. Physical exam is notable for periorbital edema. Which of the following is the most likely diagnosis?
+A: Poststreptococcal glomerulonephritis
+EXPLANATION: Poststreptococcal glomerulonephritis typically occurs after an initial streptococcal infection, including infections such as streptococcal pharyngitis or impetigo. The immune response toward streptococcal antigens causes increased production of antibodies and complement factors that then deposit in the kidney leading to acute kidney injury. Findings in poststreptococcal glomerulonephritis are secondary to this kidney injury and include dark urine, hypertension, and edema (with periorbital edema being one of the more sensitive locations to detect it).
+
+### [PEER-PHYS | PEER-immune-q-106]
+Q: What is a common side effect of both cyclosporine and tacrolimus?
+A: Nephrotoxicity
+EXPLANATION: Cyclosporine and tacrolimus are used in solid organ transplant but both can cause dose-related nephrotoxicity. When a renal transplant patient on these medications presents with decreased renal function, the three most common causes are infection, rejection, and medication-induced nephropathy.
+ARABIC: كلاً من السيكلوسبورين والتاكروليمس يسببان سمية كلوية (nephrotoxicity).
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-251]
+Q: A 22-year-old man presents to the emergency department with joint pain and swelling. He experienced bloody diarrhea 3 weeks ago that resolved in a few days. The diarrhea was associated with abdominal pain, night sweats, and body aches. Joint pain and swelling started 3 days ago.
+A: Reactive arthritis
+EXPLANATION: Reactive arthritis is a sterile reactive inflammatory arthritis that occurs most commonly in young men ages 15–35 years. It has an association with patients with the HLA-B27 genetic marker. Reactive arthritis is a constellation of symptoms that occur following an infection with Chlamydia trachomatis, Salmonella, Shigella, Yersinia, or Campylobacter. Clinical manifestations typically do not occur until 2–6 weeks following an episode of urethritis, cervicitis, or dysentery. The syndrome is polyarticular and asymmetrical, affecting the lower extremities more often. Conjunctivitis is an early clinical manifestation that may progress to uveitis.
+
+### [PEER-PHYS | PEER-immune-q-107]
+Q: A 55-year-old man presents with fever, fatigue, and nausea for the past 2 days. He underwent kidney transplant 2 months ago. His temperature is 38.3°C (101°F). What is the most likely underlying infection?
+A: Cytomegalovirus
+EXPLANATION: In the first 1 to 6 months after transplant, viral infections and opportunistic infections are common. Cytomegalovirus (CMV) is a typical culprit and often manifests as pneumonia. Active CMV infection can cause or worsen organ rejection, so it must be suspected early.
+ARABIC: بعد 1-6 أشهر من زرع الكلية، الفيروسات الانتهازية مثل CMV هي الأكثر شيوعاً.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-252]
+Q: A 9-year-old girl with a history of recent pharyngitis is brought to the ED by her parent with fever and diffuse joint pains. On exam, she has erythematous ring-like lesions with central clearing on her trunk. Her left knee joint is swollen and tender. An ECG is notable for a first-degree AV block. Which of the following is the most likely diagnosis?
+A: Acute rheumatic fever
+EXPLANATION: Complications of group A Streptococcus (GAS) pharyngitis include suppurative (acute sinusitis, peritonsillar abscess, and otitis media) and nonsuppurative (acute glomerulonephritis, acuterheumaticfever [ARF], and scarlet fever) conditions. ARF typically occurs 2–4 weeks after GAS pharyngitis. It can occur at any age but most commonly presents in children between the ages of 5 and 15 years old. The estimated incidence is 19 per 100,000 school-aged children worldwide but is lower (< 2 per 100,000 school-aged children) in the US.
+
+### [PEER-PHYS | PEER-immune-q-108]
+Q: A 2-year-old girl presents with a fever of 7 days' duration. Her primary care physician evaluated her 2 days earlier and diagnosed a viral illness; a streptococcal culture obtained at that visit was negative. Her vital signs are BP 92/68, P 96, R 28, and T 39°C (102.2°F); SpO2 is 99% on room air.
+A: Urinalysis 24 WBC/hpf
+EXPLANATION: This patient has classic features of Kawasaki disease. Supplemental laboratory criteria include sterile pyuria (≥10 WBC/hpf on urinalysis), elevated inflammatory markers, low albumin, high platelet count, and elevated ALT. WBC count is often elevated; albumin is low; platelets rise after day 7.
+ARABIC: في داء كاواساكي، بيلة قيحية عقيمة (≥10 WBC/hpf) من المعايير المخبرية الداعمة.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-253]
+Q: A 52-year-old man with a history of sarcoidosis presents to the ED with left-sided flank pain and dark urine for the last 2 days. He appears uncomfortable and cannot sit still. His vital signs are within normal limits. His abdominal examination reveals left costovertebral angle tenderness.
+A: Parathyroid hormone
+EXPLANATION: The granulomas of sarcoidosis produce 1,25-dihydroxyvitamin D, leading to hypercalcemia and hypercalciuria in patients with sarcoidosis. Elevated calcium levels will lead to decreased production of parathyroid hormone due to negative feedback mechanisms. Sarcoidosis is a systemic inflammatory connective tissue disorder that is more common in women. Most patients are asymptomatic, but symptoms may include fever, fatigue, arthralgias or myalgias, cough, dyspnea on exertion, hemoptysis, neuropathies, and cutaneous lesions. Characteristic findings on chest X-ray include hilar adenopathy with or without parenchymal findings and pulmonary fibrosis.
+
+### [PEER-PHYS | PEER-immune-q-109]
+Q: Which finding is included in the diagnostic criteria for Kawasaki disease?
+A: Cervical lymphadenopathy
+EXPLANATION: Kawasaki disease diagnostic criteria include fever ≥5 days and at least four of: bilateral nonpurulent conjunctival injection, inflammatory changes of lips/oral mucosa, erythema/swelling of hands or feet, nonvesicular rash, and cervical lymphadenopathy.
+ARABIC: تضخم العقد اللمفية الرقبية من المعايير التشخيصية لداء كاواساكي.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-254]
+Q: Which of the following is a minor Jones criterion for the diagnosis of acute rheumatic fever?
+A: Fever
+EXPLANATION: Fever is one of four minor Jones criteria for the diagnosis of acute rheumatic fever. Acute rheumatic fever results from molecular cross-reactivity between Streptococcus and host cell proteins, resulting in antibody formation. This is a type II hypersensitivity inflammatory reaction. Diagnosis is based on the Jones criteria, which contains major and minor criteria. A patient is determined to have acute rheumatic fever if they have evidence of a prior group A streptococcal infection along with either two major criteria or one major and two minor criteria.
+
+### [PEER-PHYS | PEER-immune-q-110]
+Q: A 2-year-old girl presents with a persistent fever for the past 5 days. On examination, she has bright red injected lips, pharyngeal erythema, cervical lymphadenopathy, conjunctivitis, and a scarlatiniform rash. What is an essential element in the therapy of this child's disease?
+A: Intravenous immune globulin
+EXPLANATION: This is Kawasaki disease. Intravenous immune globulin (IVIG) 2 g/kg over 8–12 hours reduces the risk of coronary artery aneurysms from 20–25% to 3–4%. Aspirin is continued until afebrile for 48 hours, then reduced. Plasma exchange is not indicated.
+ARABIC: العلاج الأساسي لداء كاواساكي هو IVIG لتقليل خطر أمهات الدم الإكليلية.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-255]
+Q: A 45-year-old patient presents to the emergency department with facial swelling, as seen above. They report no other symptoms. Home medications include lisinopril. Which of the following is the most effective intervention for this patient?
+A: Discontinue lisinopril and provide supportive care
+EXPLANATION: Angioedema, swelling of the face and lips, can physiologically be thought of as caused by C1 esterase deficiency or dysfunction (hereditary and acquired) or bradykinin-mediated. Bradykinin-mediated angioedema is most commonly caused by angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers. Other causes include aliskiren (a renin inhibitor), thrombolytics, and some estrogens (such as oral contraceptive pills). The management of bradykinin-mediated angioedema is cessation of the causative agent and supportive care. Patients should be intubated if they are at risk of losing their airway. However, intubation in angioedema can be very challenging.
+
+### [PEER-PHYS | PEER-immune-q-111]
+Q: A pediatric patient presents with a fever, arthritis, and mild carditis after a recent streptococcal infection. Acute rheumatic fever is suspected. What is the most important therapy?
+A: Penicillin
+EXPLANATION: Acute rheumatic fever (ARF) is a potential complication of streptococcal infection. All patients with ARF should receive antibiotics, and penicillin is the antibiotic of choice. Erythromycin may be used in penicillin-allergic patients. Carditis is the biggest risk for death and disease.
+ARABIC: كل مريض بحمى روماتزمية حادة يجب أن يتلقى بنسلين للقضاء على العقديات.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-256]
+Q: A 19-year-old woman without significant medical history presents to the emergency department with hand pain. She notes that whenever she walks outside in the winter, her fingers on both hands become cold and mildly painful. She notices that her fingers turn white, then blue, and then will turn red after going inside. On examination, her hands appear normal.
+A: No associated symptoms or conditions
+EXPLANATION: Raynaud phenomenon is an exaggeration of normal vasoconstriction of the fingers secondary to cold exposure. It is characterized by the sudden onset of cold and painful fingers associated with well-demarcated skin pallor secondary to vasoconstriction and cyanosis secondary to hypoxia, followed by reperfusion erythema. These characteristic color changes, from white to blue to red, typically last 15–20 minutes with rewarming. Raynaud phenomenon is classified as either primary or idiopathic Raynaud phenomenon (also called Raynaud disease) and secondary Raynaud phenomenon (also called Raynaud syndrome).
+
+### [PEER-PHYS | PEER-immune-q-112]
+Q: Which is the most common clinical manifestation of acute rheumatic fever?
+A: Migratory polyarthritis
+EXPLANATION: The most common clinical manifestation of acute rheumatic fever (ARF) is a migratory polyarthritis that predominantly involves larger joints and is seen in up to 80% of cases. Carditis is the second most common manifestation.
+ARABIC: أشيع مظاهر الحمى الروماتزمية الحادة هو التهاب المفاصل المهاجر (migratory polyarthritis).
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-257]
+Q: Which of the following infectious agents is associated with reactive arthritis?
+A: Chlamydia trachomatis
+EXPLANATION: The development of reactive arthritis is associated with a number of bacterial agents. Reactive arthritis is characterized by conjunctivitis or uveitis, urethritis, and oligoarthritis (known by the mnemonic can’t see, can’t pee, can’t climb a tree). The syndrome occurs in susceptible hosts after infection with certain agents, including Chlamydia trachomatis. Other bacterial agents that are commonly associated with reactive arthritis include Shigella, Salmonella, Yersinia, and Campylobacter organisms. The arthritis typically develops 2–6 weeks after an episode of urethritis or dysentery.
+
+### [PEER-PHYS | PEER-immune-q-113]
+Q: A patient presents with polyarthritis, fever, and subcutaneous nodules 2 weeks after a bout of pharyngitis and is found to have a new heart murmur. What is the likely causative organism?
+A: Streptococcus pyogenes
+EXPLANATION: Acute rheumatic fever is a delayed sequela that occurs 1 to 5 weeks following pharyngeal infection with group A Streptococcus (Streptococcus pyogenes). Diagnosis is clinical using Jones criteria. Carditis can present as valvulitis with a new murmur.
+ARABIC: الحمى الروماتزمية الحادة تتبع عدوى البلعوم بالمكورات العقدية A (Streptococcus pyogenes).
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-258]
+Q: A 28-year-old woman with a history of kidney insufficiency presents to the ED with chest pain and diffuse arthralgias. On physical exam, you note oral ulcers and an erythematous rash across her cheeks. Her ECG is shown above. Which of the following is the most appropriate therapy?
+A: Prednisone
+EXPLANATION: This patient is presenting with evidence of systemic lupus erythematosus (SLE)and associated pericarditis. Electrocardiogram findings consistent with pericarditis include diffuse ST elevation (typically concave up) and PR depression. There is a significant genetic predisposition in SLE. It requires at least 4 out of the following 11 criteria to diagnose: malar rash (butterfly-shaped erythema over the cheeks and bridge of the nose), discoid rash, photosensitivity, oral ulcers, symmetric polyarthritis, serositis (including pericarditis or pleuritis), kidney disorder, neurologic disorder (including headaches and memory issues), hematologic disorders with abnormalities in one or more blood count …
+
+### [PEER-PHYS | PEER-immune-q-114]
+Q: Which symptom is a major manifestation of acute rheumatic fever, according to the revised Jones criteria?
+A: Carditis
+EXPLANATION: Major manifestations of acute rheumatic fever include arthritis (usually polyarthritis of large joints), carditis or valvulitis, CNS involvement (Sydenham chorea), subcutaneous nodules, and erythema marginatum. Minor manifestations include arthralgia, fever, prolonged PR interval, and elevated acute phase reactants.
+ARABIC: التهاب القلب (carditis) من المعايير الكبرى لحمى الروماتزم حسب Jones.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-259]
+Q: A 42-year-old woman presents with 2 weeks of progressive fatigue, weight loss, and joint pain. She has not had similar symptoms previously. Her joint symptoms involve the metacarpophalangeal and proximal interphalangeal joints of the hand bilaterally. Joint pain and stiffness seem to be worse in the morning and improve after a few hours of moving around. Her vital signs are normal.
+A: Prednisone
+EXPLANATION: Rheumatoid arthritis is a chronic, progressive inflammatory disorder that preferentially affects women with a peak incidence in the fourth and fifth decades of life. Symptoms are usually insidious in onset with a prodrome of fatigue, generalized weakness, fever, and possibly weight loss. Joint involvement is usually symmetric and additive, with the metacarpophalangeal (MCP) and proximal interphalangeal (PIP) joints frequently affected. Patients often describe morning stiffness, which improves after a few hours of moving about. Findings of acute joint inflammation include edema and tenderness with palpation and range of motion, and patients often have decreased grip strength.
+
+### [PEER-PHYS | PEER-immune-q-115]
+Q: Which symptom is a minor manifestation of acute rheumatic fever according to the revised Jones criteria?
+A: Fever
+EXPLANATION: Fever is a minor manifestation of acute rheumatic fever. Major manifestations include carditis, polyarthritis, chorea, subcutaneous nodules, and erythema marginatum. Minor manifestations include fever, arthralgia, prolonged PR interval, and elevated ESR/CRP.
+ARABIC: الحمى من المعايير الصغرى لحمى الروماتزم حسب Jones.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-260]
+Q: A 34-year-old woman with a history of rheumatoid arthritis presents to the ED with a fever and cough. The patient reports that she has been getting sick more frequently recently including having bacterial pharyngitis, pneumonia, and skin abscesses over the past several months. The patient is sexually active and smokes cigarettes occasionally.
+A: Felty syndrome
+EXPLANATION: Rheumatoid arthritis typically presents in women with symmetric joint pain (typically involving the hands) that is worse in the morning and improves throughout the day. Symptomatic management of rheumatoid arthritis includes nonsteroidal anti-inflammatory drugs and steroids. Long-term management can involve disease-modifying agents, including methotrexate. A rare but possible sequelae of rheumatoid arthritis is Felty syndrome. The classic triad of Felty syndrome is rheumatoid arthritis, neutropenia, and splenomegaly. Though the etiology is unknown, inflammation and an imbalance between granulocyte production and granulocyte removal contributes to the pathophysiology.
+
+### [PEER-PHYS | PEER-immune-q-116]
+Q: A teenager presents with involuntary, abrupt right-arm movements; fever; and pain in the right knee, left wrist, and left elbow. There is no significant medical history, but the patient had a sore throat 3 weeks ago. Workup is significant for prolonged PR interval on ECG and elevated ESR and CRP levels. What is the most likely diagnosis?
+A: Acute rheumatic fever
+EXPLANATION: This patient presents with one major manifestation (Sydenham chorea) and all four minor manifestations of acute rheumatic fever. ARF is an assortment of symptoms that occurs 1 to 5 weeks following group A Streptococcus pharyngeal infection.
+ARABIC: رقص سيدنهام مع حمى ومفاصل مهاجرة بعد التهاب بلعومي يوحي بالحمى الروماتزمية الحادة.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-261]
+Q: A 26-year-old woman with a history of lupus and end-stage kidney disease status post kidney transplant 15 weeks ago presents concerned about a fever. For the past day, she has noted low-grade fevers, malaise, and nausea. Her current medications consist of prednisone and tacrolimus. Her abdominal exam is benign without tenderness, rebound, or guarding.
+A: Epstein-Barr virus
+EXPLANATION: Transplant patients require immunosuppressants to prevent graft versus host disease and consequently are at risk for a wide variety of infections that are either uncommon in the immunocompetent patient or do not affect immunocompetent patients to the same degree. Solid organ transplants have a well-established timeline for the various infections that affect these patients. This timeline is broken up into three categories: 6 months.
+
+### [PEER-PHYS | PEER-immune-q-117]
+Q: A teenager presents with involuntary, abrupt right-arm movements; fever; and pain in the right knee, left wrist, and left elbow. There is no significant medical history, but the patient had a sore throat 3 weeks ago. Workup is significant for prolonged PR interval on ECG and elevated ESR and CRP levels. What is the preferred treatment for this patient's condition?
+A: Penicillin G
+EXPLANATION: This patient has acute rheumatic fever, for which the preferred treatment is long-acting penicillin G benzathine. Treatment aims to eradicate the GAS infection. Azithromycin may be used for penicillin allergy, but resistance rates are higher.
+ARABIC: علاج الحمى الروماتزمية الحادة المفضل هو بنسلين G benzathine للقضاء على العقديات.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-262]
+Q: An 8-year-old girl with epilepsy presents to the ED with a fever and rash. She saw her primary care clinician and was diagnosed with a morbilliform viral exanthem 2 days ago. Since then, the rash has worsened, and the patient has decreased activity but no upper respiratory symptoms, vomiting, or diarrhea. On exam, she has a T of 101.1°F (38.4°C) and an HR of 110 bpm.
+A: Discontinue carbamazepine
+EXPLANATION: A drug reaction with eosinophilia and systemic symptoms (DRESS), also known as drug-induced hypersensitivity syndrome, should be considered in any patient presenting with rash, fever, facial edema, and lymphadenopathy after being started on a new drug treatment within the last 2–6 weeks. Drugs that are commonly implicated as causes of DRESS are antiepileptics, especially carbamazepine, lamotrigine, phenytoin, and phenobarbital. Allopurinol is another common cause. Less commonly implicated drugs include olanzapine, sulfonamides, dapsone, minocycline, vancomycin, imatinib, sorafenib, and vemurafenib.
+
+### [PEER-PHYS | PEER-immune-q-118]
+Q: A 45-year-old woman with sarcoidosis presents with red nodules on the fronts of her lower legs. She has not felt well for the past few days and has mild joint and muscle aches. What is the correct pharmacotherapy?
+A: NSAIDs
+EXPLANATION: This patient most likely has erythema nodosum, a vasculitis with many varied causes. Treatment is generally supportive with NSAIDs, rest, and elevation. Corticosteroids are reserved for refractory or severe cases. Antibiotics are not indicated unless there is an underlying infection.
+ARABIC: الحمامى العقدية (erythema nodosum) تعالج داعماً بمضادات الالتهاب غير الستيرويدية NSAIDs.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-263]
+Q: A 1-year-old girl presents to the ED with a fever for the last 6 days. Physical exam reveals conjunctival injection, oral fissures, a rash with peeling on two fingers, and cervical lymphadenopathy. Which of the following tests is most appropriate?
+A: Echocardiography
+EXPLANATION: Kawasaki disease (mucocutaneous lymph node syndrome) is a life-threatening vasculitis most common in children. The diagnostic criteria for classic Kawasaki disease include fever for 5 days in addition to at least four of five other physical exam findings. These findings include conjunctival injection; oral mucosa membrane changes such as fissured lips, injected pharynx, or strawberry tongue; peripheral extremity changes including erythema of the palms or soles, or edema of the hands or feet; a polymorphous rash; and cervical lymphadenopathy. Of note, the diagnosis of Kawasaki disease can be made in a patient with a fever for 4 days if they meet all other diagnostic criteria.
+
+### [PEER-PHYS | PEER-immune-q-119]
+Q: A 28-year-old, otherwise healthy woman presents with progressively worsening shortness of breath, intermittent fever, and weight loss of a few weeks' duration. The physical examination reveals elbow and knee stiffness and a rash (shown below). Chest x-ray reveals bilateral hilar lymphadenopathy, and hypercalcemia is noted on laboratory test results.
+A: Sarcoidosis
+EXPLANATION: This patient has sarcoidosis. The triad of erythema nodosum, bilateral hilar adenopathy, and arthralgia is called Löfgren syndrome, a diagnostic syndrome of sarcoidosis. Sarcoidosis is a chronic systemic inflammatory disease with diffuse noncaseating granulomas.
+ARABIC: ثلاثي الحمامى العقدية وتضخم العقد النقبية الثنائي وألم المفاصل (Löfgren) يشير إلى الساركويد.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-264]
+Q: A 2-year-old boy presents with an itchy rash and joint pain, which appeared suddenly this afternoon. His parent is concerned because he ate peanuts earlier this morning, although he has had them in the past without problems. He also developed a cough and rhinorrhea 2 days ago and is taking amoxicillin for an ear infection diagnosed 8 days ago. He has not had any vomiting or difficulty breathing.
+A: Serum sickness-like reaction
+EXPLANATION: Serum sickness is an immune complex-mediated hypersensitivity reaction seen after the administration of one of the few medications derived from animal serum. Immunoglobulin M antibodies can develop about 7–14 days after exposure to animal serum, which forms complexes with any remaining animal serum depositing in tissues, activating complement and causing mast cells to degranulate. Symptoms include a urticarial rash, lymphadenopathy, and sometimes fever and arthralgias. The rash often appears as annular, sharply marginated, coalescing plaques, as seen in this patient.
+
+### [PEER-PHYS | PEER-immune-q-120]
+Q: Which diagnosis is most consistent with the x-ray findings shown below?
+A: Pulmonary sarcoidosis
+EXPLANATION: This chest x-ray demonstrates bilateral hilar lymphadenopathy. Sarcoidosis classically demonstrates this finding. Abnormalities on chest x-ray are seen in 90% of sarcoidosis patients; the most common are symmetric hilar and mediastinal lymphadenopathy and perilymphatic pulmonary micronodules.
+ARABIC: تضخم العقد اللمفية النقبية الثنائي على صورة الصدر يوحي بالساركويد الرئوي.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-265]
+Q: A 55-year-old woman presents to the emergency department with a burning sensation in her chest that is worse when she lays flat at night. She has had this sensation before but finds her symptoms have been worsening. Review of systems is notable for fatigue and difficulty manipulating household items, such as utensils, due to stiffness in her hands.
+A: Scleroderma
+EXPLANATION: Scleroderma is a systemic connective tissue disease that occurs secondary to the pathologic formation or production of collagen. Scleroderma can present with dermatologic findings (tight and smooth skin), joint pain (which is typically mild and symmetric), pulmonary findings (including pulmonary fibrosis and hypertension), cardiac findings (restrictive cardiomyopathy), and kidney abnormalities (with scleroderma renal crisis as the most life-threatening sequelae). Gastrointestinal symptoms occur secondary to dysmotility, which can cause severe reflux disease and small bowel bacterial overgrowth from stasis, which causes chronic diarrhea.
+
+### [PEER-PHYS | PEER-immune-q-121]
+Q: Which patient has symptoms that are most consistent with an initial presentation of sarcoidosis?
+A: 36-year-old Black woman with bilateral eye redness, blurred vision, and pain
+EXPLANATION: Bilateral anterior uveitis with eye redness, blurred vision, and eye pain is one of the most common presentations of sarcoidosis. Approximately 5% to 20% of sarcoid patients may initially present with eye disease. Sarcoidosis affects Black women three to four times more often than White women.
+ARABIC: الساركويد قد يبدأ بالتهاب العنبية الأمامي الثنائي (bilateral uveitis) خاصة عند النساء السود.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-266]
+Q: A 25-year-old woman with no significant medical history presents to the ED with a dry cough and dyspnea for the past 2 weeks. Her vital signs are within normal limits, and an ECG is unremarkable. Her X-ray is shown above. Which of the following findings would best support this suspected diagnosis?
+A: Elevated serum angiotensin-converting enzyme level
+EXPLANATION: This patient most likely has sarcoidosis, a multi-organ inflammatory condition characterized by noncaseating granulomas. The lung is the most commonly affected organ. Other commonly affected organs include the skin, eyes, and liver. The etiology is not fully understood but is thought to be due to an immune reaction related to a prior insult, such as chemical exposure or infection earlier in life. The disease occurs in young, otherwise healthy adults > 18 years old. Symptoms depend on the organ involved and may range from asymptomatic to organ failure. Constitutional symptoms include fever, fatigue, night sweats, and weight loss.
+
+### [PEER-PHYS | PEER-immune-q-122]
+Q: A 37-year-old Black woman presents with bilateral eye redness, photophobia, and pain. She is found to have bilateral uveitis. The patient's chest x-ray is shown. What is the next best step?
+A: Discharge home with ophthalmology follow-up
+EXPLANATION: Bilateral uveitis and bilateral hilar adenopathy are suggestive of sarcoidosis. Most newly diagnosed sarcoidosis may be treated by appropriate specialists as an outpatient. Corticosteroids are the mainstay of treatment for ocular sarcoidosis; antibiotics and emergent surgery are not indicated initially.
+ARABIC: التهاب العنبية الثنائي مع تضخم العقد النقبية يوحي بالساركويد، ويمكن متابعته عيادياً.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-267]
+Q: A 2-year-old girl presents with intermittent episodes of abdominal pain associated with nausea and vomiting. An abdominal ultrasound image is provided above. Which of the following is the most likely diagnosis associated with?
+A: IgA vasculitis
+EXPLANATION: This patient most likely has intussusception, as evidenced by her symptoms and abdominal ultrasound showing the classic bullseye lesion, reflecting telescoping bowel, which is a highly sensitive and specific sonographic finding. Intussusception is associated with IgA vasculitis, formerly known as Henoch-Schönlein purpura. IgA vasculitis is a small-vessel vasculitis affecting children between 2 and 11 years of age, caused by the deposition of IgA immune complexes. The etiology of the immune complex deposition is unclear, but there appears to be an association with a preceding upper respiratory infection.
+
+### [PEER-PHYS | PEER-immune-q-123]
+Q: A 45-year-old Black woman presents with acute-onset shortness of breath associated with light-headedness, particularly with exertion. A STAT transthoracic echocardiogram is obtained, and the results are consistent with restrictive cardiomyopathy. What is a likely cause of this patient's shortness of breath?
+A: Cardiac sarcoidosis
+EXPLANATION: These echocardiogram findings are consistent with restrictive cardiomyopathy, most commonly caused by infiltrative processes such as amyloidosis or sarcoidosis. Cardiac sarcoidosis occurs in approximately 5% of patients with systemic sarcoidosis and may cause atrioventricular block, arrhythmias, and cardiomyopathies.
+ARABIC: اعتلال عضلة القلب التقييدي (restrictive cardiomyopathy) قد ينتج عن الساركويد القلبي.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-268]
+Q: A 28-year-old woman presents with fever, malaise, blurry vision, and extremity pain, with diminished upper extremity pulses. Vital signs are significant for a T of 100.9°F (38.3°C) and BP of 170/95 mm Hg. Her blood work shows an erythrocyte sedimentation rate of 81 mm/h and C-reactive protein of 210 mg/L. MRI shows inflammatory thickening of the vasculature.
+A: Aortic arch
+EXPLANATION: This patient most likely has Takayasu arteritis, a large-vessel granulomatous vasculitis. Takayasu arteritis affects the aorta and its major branches, including the subclavian and carotid arteries, in contrast to giant cell (temporal) arteritis, which predominantly affects patients over 50 years old and has a predilection for the temporal artery. Patients with Takayasu arteritis may present with nonspecific constitutional symptoms such as fever, malaise, and weight loss. Large artery inflammation and damage can lead to decreased upper extremity pulses, unequal blood pressures in the arms, tenderness over the carotid arteries, bruits, hypertension, retinopathy, and limb claudication.
+
+### [PEER-PHYS | PEER-immune-q-124]
+Q: A patient with sarcoidosis presents with bilateral lower-extremity edema and intermittent chest pain that has been gradually worsening over the last 2 weeks. Her ECG is shown below. What is the most likely electrolyte derangement?
+A: Hypercalcemia
+EXPLANATION: This patient's ECG demonstrates a shortened QT interval, consistent with hypercalcemia. In sarcoidosis, there is uncontrolled synthesis of 1,25-dihydroxyvitamin D3 by macrophages that leads to resorption of calcium in the bone and increased absorption in the intestine. This can lead to hypercalcemia.
+ARABIC: قصر فترة QT في تخطيط القلب مع الساركويد يشير إلى فرط كالسيوم الدم.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-269]
+Q: Which type of hypersensitivity reaction is responsible for serum sickness?
+A: Immune complex-mediated reaction
+EXPLANATION: Immune complex-mediated reactions (type III hypersensitivity) occur when IgG or IgM antibodies bind to antigens and form a soluble complex that then causes a local inflammatory reaction. Serum sickness is an example of this type of reaction. Classic serum sickness occurs after administration of a nonhuman protein antigen (e.g., venom antitoxins, rabies antigen). Serum sickness-like symptoms are more commonly seen in children and occur after administration of various medications, such as amoxicillin, cefaclor, and trimethoprim-sulfamethoxazole. Patients present with fever, polyarthralgias, polyarthritis, and a rash usually 1–2 weeks after starting a new medication.
+
+### [PEER-PHYS | PEER-immune-q-125]
+Q: An 8-year-old girl presents for evaluation of facial swelling and "brown pee." The girl had pharyngitis 3 weeks ago. When asked, she confirms decreased urine output. The physical examination is notable for mild periorbital edema and no rashes. The urine is positive for blood and protein. What is the most likely diagnosis?
+A: Glomerulonephritis
+EXPLANATION: The important clues are history of pharyngitis, edema, and tea-colored urine. This clinical presentation is consistent with poststreptococcal acute glomerulonephritis, the most common cause of glomerulonephritis in children 5 to 12 years old. Treatment is supportive.
+ARABIC: بعد التهاب بلعومي، وذمة وبول داكن مع بيلة دموية وبروتينية يشير إلى التهاب كبيبات الكلى التالي للعقديات.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-270]
+Q: A 63-year-old man presents to the emergency department for dyspnea on exertion. He has had worsening dyspnea for the last 4 days, which has been most noticeable when climbing stairs, but reports no chest pain. His medical history includes a heart transplantation 10 months ago for cardiac amyloidosis.
+A: IV methylprednisolone and cardiology consultation for endomyocardial biopsy
+EXPLANATION: Acute cardiac allograft rejection remains a prominent complication of heart transplantation despite recent advances in immunosuppressive therapy. All cardiac transplant recipients are at risk, but the risk increases in the presence of several known donor and recipient factors, including recipients who are younger (< 24 years) and female, donors who are female, and the presence of recipient antibodies against donor antigens. Nonadherence to immunosuppressive therapy is another prominent risk factor that is thought to underlie many cases of rejection in adolescent and young adult recipients (age 17–24 years).
+
+### [PEER-PHYS | PEER-immune-q-126]
+Q: A 7-year-old presents with fever and lethargy. The patient tested positive for SARS-CoV-2 infection 3 weeks ago and is unvaccinated. Examination reveals swollen, erythematous hands and feet as well as a diffuse rash. Laboratory testing revealed elevated CRP, troponin, BNP, and d-dimer as well as lymphopenia and thrombocytopenia.
+A: Multisystem inflammatory syndrome in children
+EXPLANATION: This patient has features consistent with multisystem inflammatory syndrome in children (MIS-C), an inflammatory syndrome seen in children and adolescents associated with SARS-CoV-2 infection. It shares features with Kawasaki disease and can present with cardiovascular involvement and cytopenias.
+ARABIC: بعد عدوى كوفيد عند الطفل، حمى واعتلال متعدد الأعضاء مع التهاب عضلة القلب يشير إلى MIS-C.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-271]
+Q: A 7-year-old boy presents with fever for 6 days. Examination reveals an uncomfortable child with erythema around the lips with cracking, bilateral conjunctivitis, a generalized rash, and swelling of the hands. Lab tests show an elevated platelet count, C-reactive protein, and erythrocyte sedimentation rate. Which therapy should be initiated?
+A: Intravenous gamma globulin
+EXPLANATION: Kawasaki disease (mucocutaneous lymph node syndrome) is a common vasculitis in childhood. Clinicians should consider the diagnosis in any child presenting with prolonged fever. Classic Kawasaki disease is diagnosed based on the presence of fever for > 5 days and four of the five following signs: unilateral cervical lymphadenopathy, mucous membrane involvement (strawberry tongue, lip fissures), extremity changes (edema, erythema, pain, desquamation), bilateral conjunctivitis, and nonvesicular rash.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-272]
+Q: A 42-year-old woman presents to the emergency department with a fever and malaise. Her medical history includes end-stage kidney disease due to systemic lupus erythematosus with a subsequent kidney transplant. She underwent transplantation 4 months ago, at which time the deceased donor allograft was transplanted into the right iliac fossa.
+A: Right lower quadrant tenderness and elevated serum creatinine levels
+EXPLANATION: While its incidence has decreased with advances in antirejection therapy, acute allograft rejection remains a fairly common, serious complication of kidney transplantation that threatens graft survival. The introduction of calcineurin inhibitors and antiproliferative agents reduced the incidence of one or more episodes of acute rejection in the first 5 years following transplantation, going from 50–60% in the 1980s to just 8% in 2017. Risk factors for acute rejection include presensitization, human leukocyte antigen mismatches, blood group incompatibility, and age < 18 years. Deceased donor allografts carry a slightly higher risk of acute rejection than living donor grafts.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-273]
+Q: A 30-year-old woman presents with a rash on her arm and face. She burned her forearm on a curling iron 1 week ago and has been applying a topical antibiotic to the burn. She has since developed redness and itching on the forearm that spread to her eyelids. Her vital signs are normal.
+A: Contact dermatitis
+EXPLANATION: Contact dermatitis is an inflammatory skin reaction resulting from direct contact with an allergen or irritant. Allergic contact dermatitis is a T cell-mediated, delayed hypersensitivity reaction. Common allergens include nickel, topical antibiotics, fragrances, preservatives in soaps and cleansers, rubber, and plants of the Toxicodendron species (e.g., poison ivy). Irritant contact dermatitis presents similarly to the allergic form, but it is not immune mediated. Common irritants include industrial solvents and detergents. Acute contact dermatitis presents with well-demarcated, erythematous, pruritic papules, plaques, or vesicles, often with linear streaking.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-274]
+Q: A 67-year-old man presents to the emergency department with gradually worsening shortness of breath, wheezing, and a nonproductive cough, which started 7 months ago. He now feels short of breath even with minor exertion. The patient has a 50 pack-year smoking history, but he has not smoked for several years prior to his left lung transplant, which occurred 2 years ago.
+A: Bronchiolitis obliterans
+EXPLANATION: Bronchiolitis obliterans may have a multifactorial etiology, but it is generally thought of as a manifestation of chronic lung transplant rejection. Early in the pathology, a submucosal lymphocytic inflammation can disrupt the epithelium of the small airways, followed by an ingrowth of fibromyxoid granulation tissue into the airway lumen, leading to the obliteration of the airway lumen. The presentation of bronchiolitis obliterans can be vague but presents in the setting of a lung transplant with dyspnea on exertion, nonproductive cough, and possible wheezing.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-275]
+Q: A 29-year-old woman presents to the emergency department for chest pain. She reports no other symptoms. The pain began several hours after she was lifting weights at the gym. Her vital signs are HR 74 bpm, BP 128/84 mm Hg, RR 16/min, SpO2 99%, and T 36.9°C. She is in no acute distress, and her physical exam is unremarkable.
+A: Obtain cardiac enzymes
+EXPLANATION: This patient presents with symptoms that sound most consistent with costochondritis or musculoskeletal chest pain. However, her medical history is notable for systemic lupus erythematosus (SLE). The inflammatory process caused by SLE causes accelerated atherosclerosis and a hypercoagulable state, which predisposes individuals to atherosclerotic and thromboembolic disease. Early coronary artery disease is a major cause of morbidity and mortality in patients with SLE. The risk of myocardial infarction is markedly higher in patients with SLE, particularly for young premenopausal women relative to healthy women of the same age group.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-276]
+Q: A 54-year-old woman presents to the emergency department due to dyspnea. She notes progressive dyspnea with associated cough and intermittent hemoptysis for the past 3 weeks. Her medical history includes a kidney transplant 5 months ago due to chronic interstitial nephritis. She takes mycophenolate mofetil and tacrolimus daily.
+A: Aspergillus fumigatus
+EXPLANATION: Infection is a significant obstacle in achieving disease-free survival for patients following solid organ transplantation. With improving immunosuppressive regimens and longer graft survival, the incidence and spectrum of infection complications have grown. The risk of developing infectious complications results from the interplay between epidemiologic exposure of the patient and the overall immunosuppressive state. The risk of infection with a specific pathogen varies by post-transplant timing.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-277]
+Q: A 20-year-old man presents to the ED after a bee sting. He has a diffuse urticarial rash. Physical exam reveals wheezing bilaterally. Which of the following medications is most appropriate?
+A: Epinephrine
+EXPLANATION: Anaphylaxis is an acute IgE-mediated immune response that can be triggered by food, drugs, insect stings, or other antigens. Anaphylaxis is defined as a serious allergic (hypersensitivity) reaction that can progress rapidly and may cause death. It is characterized by involvement of multiple organ systems including the skin (urticaria or rash), mucosa (swelling of the lips or tongue), GI (vomiting), cardiovascular (tachycardia and hypotension), and respiratory (difficulty breathing and wheezing) systems. Skin and mucosal findings occur in up to 90% of patients. Several diagnostic criteria have been recognized.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-278]
+Q: Which of the following is the most common major manifestation found in patients diagnosed with rheumatic fever?
+A: Carditis
+EXPLANATION: Acute rheumatic fever most commonly affects children between 5 and 15 years of age and follows a streptococcal pharyngitis infection. The five major manifestations (i.e., Jones criteria) of acute rheumatic fever are carditis, arthritis, central nervous system involvement (e.g., Sydenham chorea), subcutaneous nodules, and erythema marginatum. Arthritis is common, most often involves the large joints, and is usually migratory and polyarticular. Carditis is usually subclinical but found in well over one-half of patients with rheumatic fever and is also one of the most common major manifestations (along with arthritis). An echocardiogram is typically necessary to diagnose carditis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-279]
+Q: A 30-year-old woman presents with diffuse joint pain and a rash, which is shown above. She is febrile to 101.1°F (38.4°C). Which of the following antibodies is the most specific for the most likely diagnosis?
+A: Anti-Smith antibodies
+EXPLANATION: Systemic lupus erythematosus (SLE) is an autoimmune disease considered a type III hypersensitivity reaction in which cells and virtually every organ may be damaged via tissue-specific autoantibodies and immune complexes. Though the disease etiology is unknown, a subtype of lupus is drug-induced. Commonly implicated drugs include procainamide, hydralazine, and isoniazid. Approximately 90% of patients with SLE are women of reproductive age. SLE affects nearly every organ in the body, so patients may have various presentations. Classic signs and symptoms include a characteristic malar or discoid rash, arthralgias, and fever.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-280]
+Q: A 38-year-old woman presents to the emergency department with right lower quadrant pain. The pain started yesterday and is associated with nausea, fever, and decreased urine output. She had a kidney transplant 2 weeks ago. On examination, her heart rate is 112 bpm, blood pressure is 155/100 mm Hg, and temperature is 101.3°F (38.5ºC).
+A: CD8+ T-cell mediated process against donor tissue resulting in leukocyte infiltration of graft vessels impairing perfusion
+EXPLANATION: CD8+ T-cell mediated process against donor tissue resulting in leukocyte infiltration of graft vessels impairing perfusion is the mechanism of acute rejection following kidney transplant. This is a type IV hypersensitivity reaction similar to a tuberculosis skin test, or contact dermatitis (poison ivy, poison oak). It is a delayed T-cell mediated attack against foreign major histocompatibility complexes in the donated organ. It can occur within weeks of transplant and up to approximately 3 months after. It results in microvascular lesions via leukocyte infiltration of the graft vessels impairing perfusion to the graft.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-281]
+Q: A 29-year-old man presents to the emergency department for facial swelling. He states that symptoms started 1 hour prior to arrival after being slapped on the right side of his face. He reports that symptoms started with mild right-sided facial swelling but has progressed to involve his entire face as well as his mouth. He has no history of allergies. He does not use any medications.
+A: Fresh frozen plasma
+EXPLANATION: The patient is presenting with hereditary angioedema and should be given fresh frozen plasma. Hereditary angioedema is an autosomal dominant disorder that is characterized by a deficiency of C1 esterase inhibitor. Patients will present with recurrent acute bouts of angioedema without urticaria or pruritus. Minor trauma can trigger episodes, but oftentimes a clear trigger is not identifiable. Hereditary angioedema can be diagnosed by obtaining serum C4 levels. Normal treatments for anaphylaxis and allergic reactions, such as epinephrine, corticosteroids, and antihistamines, are ineffective at treating hereditary angioedema.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-282]
+Q: A 12-year-old girl presents with joint pain and fevers. She reports that over the past week, she has had pain in multiple joints, starting in the shoulders, then moving to the left knee. Today, her parent noticed that she had a fever and a rash. She has a history of anaphylaxis to penicillin, and on review of systems, she notes a sore throat for several days 1 month ago.
+A: Azithromycin
+EXPLANATION: This patient is presenting with signs and symptoms concerning for acute rheumatic fever. Primarily a disease of childhood, rheumatic fever occurs 2–6 weeks after an initial group A beta-hemolytic Streptococcus infection. Antibodies subsequently form and then invade host tissues. Patients usually present with nonspecific systemic symptoms early in the disease course, then develop more focal symptoms as the disease progresses. There is a specific constellation of symptoms that is characteristic of rheumatic fever that confirms the diagnosis. The Jones criteria were developed to establish a diagnosis of rheumatic fever in conjunction with evidence of an antecedent streptococcal infection.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-283]
+Q: Which of the following findings differentiates rheumatoid arthritis from osteoarthritis?
+A: Presence of constitutional symptoms
+EXPLANATION: Rheumatoid arthritis (RA) and osteoarthritis (OA) share a number of features, but constitutional symptoms are only seen in RA. RA is a chronic inflammatory disease that is more common in women and has a peak onset between the ages of 30 and 59. Patients with RA often present with fatigue, fever, malaise, weakness, and musculoskeletal pain lasting for weeks to months. Arthritis involves symmetric joints of the hands, wrists, and elbows. Morning stiffness is common and usually lasts for about an hour. Inflammation may affect other organs, leading to hepatitis, scleritis, myocarditis, pericarditis, and pleuritis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-284]
+Q: What test is helpful in ruling out the diagnosis of systemic lupus erythematosus?
+A: Antinuclear antibody
+EXPLANATION: The antinuclear antibody (ANA) test is highly sensitive, as it is present in nearly all patients with systemic lupus erythematosus (SLE). SLE is a multisystem autoimmune disorder. The disease results in organ inflammation, dysfunction, and eventually destruction. Patients can present with a wide variety of clinical presentations, including nephritis, thrombosis, carditis, pneumonitis, pulmonary hypertension, and stroke. The workup of patients with signs or symptoms concerning for SLE involves a number of serum tests, all of which are imperfect. However, nearly all patients with the disease will have ANA present on testing. The absence of this antibody virtually rules out the disease.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-285]
+Q: Which of the following is a minor rather than a major Jones criterion in the diagnosis of acute rheumatic fever?
+A: Fever
+EXPLANATION: Rheumatic fever is a known delayed sequela of infection with group A streptococcal infection. The Jones criteria, created in 1944 and updated in 1992, are used to diagnose acute rheumatic fever (ARF). Rheumatic heart disease is an important yet uncommon sequela of rheumatic fever. ARF incidence is declining in the US and other resource-rich countries and is reported to be < 20 cases per 100,000 individuals in school-aged children. Diagnosis of ARF is possible using one major plus two minor Jones criteria or two major Jones criteria.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-286]
+Q: A 63-year-old woman with a prior orthotopic kidney transplant who takes tacrolimus and levothyroxine presents with a new skin rash. The rash developed yesterday with painless “blood blisters” that formed on her buttocks and arms.
+A: Broad-spectrum antibiotics
+EXPLANATION: This immunocompromised patient presents with hemorrhagic bullae that give way to necrotic ulcers, most concerning for ecthyma gangrenosum, which should be treated immediately with broad-spectrum antibiotics with double antipseudomonal coverage. Ecthyma gangrenosum is a rare, rapidly progressive skin manifestation of bacteremia, usually from Pseudomonas aeruginosa. Bacteria invade perivascular structures and lead to diffuse ulcerative lesions from ischemic necrosis. The lesions develop in < 18 hours and progress rapidly. Patients are usually immunosuppressed.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-287]
+Q: A 47-year-old woman with a history of Raynaud phenomenon presents to the emergency department with pain in her second and third fingers of both hands. She also reports a pale color and paresthesias. She has felt this way since yesterday and has not been able to relieve the symptoms with her typical maneuvers.
+A: Nifedipine
+EXPLANATION: Raynaud phenomenon is a disorder characterized by exaggerated vasoconstriction of the digital arteries in response to cold temperature or emotional stress. The disease may be a primary disorder not associated with other symptoms, or it may be associated with other autoimmune disorders, such as systemic lupus erythematosus or systemic sclerosis. The phenomenon is most often found in the hands. Typically, patients report sudden-onset cold fingers, paresthesias, aching fingers, and hand clumsiness, and they have sharply demarcated skin pallor due to constricted blood flow. The skin can become cyanotic, which suggests tissue hypoxia.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-288]
+Q: A 25-year-old woman presents to the emergency department with finger pain. The patient was shoveling snow when her symptoms began. These symptoms have happened to her before and typically start with severe pain in her hands, followed by color changes in her fingers. Which of the following is the best treatment for this patient's most likely diagnosis?
+A: Nifedipine
+EXPLANATION: Primary Raynaud phenomenon occurs secondary to vasospasm, typically of the digits, and presents with severe pain and a color change in the fingers, which is typically seen as white discoloration of the fingers (initial vasospasm), followed by cyanosis (tissue hypoxia), and then rubor (reperfusion). These episodes are painful and can be precipitated by stressors, such as exertion, emotions, or cold weather (environment). Secondary Raynaud phenomenon is seen in association with other connective tissue diseases, such as scleroderma. Thus, a new diagnosis of Raynaud phenomenon warrants outpatient follow-up to ensure that a systemic connective tissue disease is not present.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-289]
+Q: A 54-year-old woman presents after a fall. She notes she usually walks with a cane but did not have it handy today. You notice contractures of the fingers bilaterally, and her skin is thick and hard. When you range her elbows, you can hear what sounds like crepitus along the triceps tendon during extension.
+A: Fingers turn white, red, and blue in response to cold
+EXPLANATION: This patient is presenting with systemic sclerosis, also known as scleroderma. This disease is caused by excessive accumulation of collagen and matrix in various tissues. Skin involvement is the most clinically apparent feature, manifesting as skin thickening and hardening. Early in the disease, patients may have nonpitting edema of the extremities and pruritus, which eventually progresses to such significant skin tightness that patients develop contractures (commonly in the hands) and digital ulcers. Scleroderma also affects the musculoskeletal system, leading to arthralgia, arthritis, and tendon friction rubs.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-290]
+Q: A 67-year-old man presents to the emergency department for generalized fatigue and weakness. He had a kidney transplant 7 weeks ago and is currently on immunosuppressive therapy. His temperature is 99.5°F (37.5°C), blood pressure is 167/108 mm Hg, heart rate is 90 bpm, respiratory rate is 14/min, and oxygen saturation is 98% on room air.
+A: Acute rejection
+EXPLANATION: Acute kidney graft rejection typically occurs within the first 6 months after transplantation (secondary to T cell activity) and may present in an asymptomatic patient or with weakness, fatigue, fevers, or tenderness of the transplanted kidney. The diagnosis is typically suggested by an increased creatinine (which is a late manifestation) or proteinuria. The incidence of acute rejection has been reduced since the introduction and use of immunosuppressive agents, but patients who do not take their medication are at particular risk for rejection.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-291]
+Q: A 12-year-old girl presents to the ED with hematuria. Her parent states that the patient had a recent sore throat but has been otherwise healthy. Vital signs are BP 140/95 mm Hg, HR 105 bpm, and T 99.4°F (37.4°C). Which of the following conditions may precede the development of the most likely disease process?
+A: Impetigo
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with acute poststreptococcal glomerulonephritis. Acute glomerulonephritis following acute group A streptococcal infection is characterized by the sudden appearance of hematuria, red blood cell casts in the urine, edema, and hypertension with or without oliguria. The classic presentation of edema, hematuria, and hypertension makes up the constellation of findings in nephritic syndrome. Laboratory testing will reveal elevated creatinine and blood urea nitrogen. An antistreptolysin O titer should be performed to confirm the diagnosis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-292]
+Q: A 17-year-old girl presents with shortness of breath, rash, and nausea after an insect bite. Her vital signs are T 97.7°F (36.5°C), HR 128 bpm, BP 85/56 mm Hg, RR 28/min, and SpO2 93%. Exam reveals diffuse hives and posterior pharyngeal swelling. Which of the following should be immediately administered?
+A: Epinephrine 1:1,000 (1 mg/mL) 0.3 mL IM
+EXPLANATION: This patient presents with anaphylactic shock from an insect bite and requires immediate administration of epinephrine. Epinephrine is potentially life-saving in severe anaphylactic reactions. During an anaphylactic reaction, mast cells degranulate, leading to the release of histamines and other immune mediators. These mediators lead to the hallmark symptoms of allergic reactions, including hives, nausea and vomiting, airway edema, bronchoconstriction, and hypotension. Epinephrine acts immediately on adrenergic receptors to reverse these symptoms. Inhaled beta-agonists can also be given to rapidly reverse bronchoconstriction.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-293]
+Q: Which of the following criteria, in addition to high-grade fever for 5 days, is sufficient to diagnose complete Kawasaki disease?
+A: Conjunctivitis, strawberry tongue, lymphadenopathy, and swollen hands and feet
+EXPLANATION: Kawasaki disease is a type of vasculitis and the leading cause of acquired heart disease in children. The cause of Kawasaki disease is unknown. Kawasaki disease affects children with a peak at 2 years of age but can present in children up to 10 years of age. Diagnosis can be made clinically if the presentation is complete or classical. The criteria for diagnosing the complete presentation include 5 days of fever in addition to four of the following: bilateral nonexudative conjunctivitis, cervical lymphadenopathy, erythema of the lips or oral mucosa, various skin changes of the extremities such as swelling or peeling of skin, and a rash. The fevers are usually abrupt and high-grade.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-294]
+Q: A 29-year-old woman with a history of asthma presents to the ED with mouth pain and the findings shown in the image above. What should be recommended to the patient based on this finding?
+A: Use a spacer
+EXPLANATION: Corticosteroid medications are used to treat a wide range of medical conditions, including many autoimmune and inflammatory disorders, adrenal insufficiency, asthma, and certain types of hematologic malignancies. The adverse effects of corticosteroids are manifold. Hyperglycemia, hypertension, osteoporosis, leukocytosis from demargination, Cushing syndrome, cataracts, and acute psychosis are among the many complications that present with long-term corticosteroid use. The mechanism of action of corticosteroids is suppression of B-cell and T-cell function by decreasing inflammatory cytokine gene transcription.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-295]
+Q: Which of the following is an appropriate treatment for a patient with acute rheumatic fever who has a severe penicillin allergy?
+A: Clindamycin
+EXPLANATION: Nearly all patients with acute rheumatic fever have evidence of an antecedent group A streptococcal (GAS) pharyngitis infection either by history or serology. Diagnosis is made using two major or one major and two minor Jones criteria. The five major Jones criteria include carditis, polyarthritis, erythema marginatum, subcutaneous nodules, and chorea. The Jones criteria were updated in 2015 to include subclinical carditis based on echocardiography. The four minor criteria were also updated and include arthritis (monoarthralgia in high-risk populations), fever, elevated erythrocyte sedimentation rate or C-reactive protein, and a prolonged PR interval on ECG.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-296]
+Q: A 65-year-old woman presents to the emergency department with 2 weeks of decreased urine volume. Her medical history is notable for a kidney transplant 3 months ago. She stopped taking all her medications last week because they make her nauseous. Her vital signs on arrival are T 38.5°C, HR 120 bpm, RR 18/min, BP 190/110 mm Hg, and SpO2 98% on room air.
+A: Lymphocytic infiltration of graft tissue
+EXPLANATION: The patient is presenting with symptoms of acute rejection. This diagnosis is suggested by rising serum creatinine, worsening proteinuria, and worsening hypertension in a patient who is < 1 year post-transplant, especially if she is off immunosuppressant medications. In patients who are not taking their immunosuppressants, graft pain, fever, malaise, and decreased urine output can occur. Most patients with acute rejection are asymptomatic, and the diagnosis is made through routine laboratory surveillance. Laboratory findings consistent with acute rejection include a rise in serum creatinine, pyuria, and new or worsening proteinuria.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-297]
+Q: A 53-year-old woman presents reporting severe acute neck pain at the base of her skull, intermittent occipital headaches, bilateral paresthesias in her arms, and vertigo when she looks down. She has a longstanding history of progressively worsening symmetric painful swelling in her joints.
+A: Rheumatoid arthritis
+EXPLANATION: Rheumatoid arthritis is a chronic systemic inflammatory disorder that has a predilection for the atlantoaxial joint. Instability and subluxation of the atlantoaxial joint may be spontaneous or related to minor injury. Many patients with atlantoaxial instability have no symptoms. Flexion and extension of the cervical spine are contraindicated in patients with rheumatoid arthritis and may precipitate symptoms of acute cervical myelopathy. Symptoms suspicious for instability or subluxation include severe cervical pain that radiates occipitally, upper limb paresthesias and vertigo, and other signs of vertebrobasilar ischemia.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-298]
+Q: A 38-year-old woman presents to the emergency department with elevated blood pressure. She had a kidney transplant 18 months ago. On examination, her heart rate is 80 bpm, blood pressure is 180/100 mm Hg, and temperature is 98.3°F (36.8ºC). She has minimal tenderness to palpation in the right lower quadrant overlying her kidney graft.
+A: CD4+ T cell mediated process against donor tissue resulting in proliferation of the vascular intima and fibrosis of renal vessels causing marked decrease in lumen size
+EXPLANATION: CD4+ T cell mediated process resulting in the proliferation of the vascular intima and fibrosis of renal vessels causing a marked decrease in lumen size describes the pathophysiology of chronic rejection following a kidney transplant. Chronic rejection occurs over months to years following transplant. It involves a combination of type II and type IV hypersensitivity reactions against donor tissue that look like self-tissue presenting a foreign antigen. This process ultimately results in intimal thickening and fibrosis, leading to systemic hypertension and ischemia to the graft.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-299]
+Q: A 34-year-old man arrives by ambulance with shortness of breath and hives. He is allergic to peanuts and was given two doses of epinephrine by the medics en route to the hospital without significant improvement. Vital signs include a respiratory rate of 24/min and a blood pressure of 85/52 mm Hg. On exam, he has diffuse hives, lip swelling, and bilateral wheezing.
+A: Glucagon
+EXPLANATION: Anaphylaxis encompasses both immunologic (IgE-mediated and non-IgE-mediated) and nonimmunologic (mast cell and basophil degranulation in the absence of immunoglobulins) immediate hypersensitivity reactions, both of which can produce the same rapidly fatal disease process. Common causes include foods, insect stings, medications, latex, and allergen immunotherapy. Exposure causes rapid degranulation of mast cells or basophils with the release of inflammatory mediators. Symptoms occur within minutes to hours following allergen exposure but may occur in the absence of a known exposure.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-300]
+Q: An 8-year-old boy presents with a fever for the last 6 days. He has been fussy, has decreased activity, and has had daily vomiting and diarrhea. He has not had any upper respiratory symptoms since recovering from COVID-19 4 weeks ago. He had eye redness 4 days ago, and his lips are a brighter red than usual per the parents. He has no rash or lymphadenopathy.
+A: Multisystem inflammatory disease in children
+EXPLANATION: COVID-19 usually only causes a mild illness in children, with a few days of fever and tachycardia and occasionally croup. However, a postinfectious overactive inflammatory response can occur 2–6 weeks later in a small group of children, and it is called multisystem inflammatory syndrome in children (MIS-C). This illness is poorly understood and occurs almost exclusively in patients who did not develop COVID-19 pneumonia and are instead in a period of viral recovery. While it has some features similar to Kawasaki disease, it is thought to be a distinct illness. Kawasaki disease historically was hypothesized to be associated with coronavirus, but this was never proven.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-301]
+Q: A 20-year-old man is bitten by a rattlesnake. He develops significant local and systemic effects and is treated in the intensive care unit for 2 days before he is discharged asymptomatic. He returns to the ED with fevers, arthralgias, rash, and malaise 1 week later. Which of the following is the most likely diagnosis?
+A: Type III hypersensitivity
+EXPLANATION: Serum sickness, a type III hypersensitivity reaction occurs when IgM-containing immune complexes deposit in membranes, fix complement, and cause tissue damage. Patients with serum sickness present with fevers, polyarthralgias, polyarthritis, rash, and malaise typically 7–14 days after initial exposure. This patient was bitten by a crotalid snake and likely treated with the antivenin Crotalidae polyvalent immune fab due to his significant local and systemic effects, which led to serum sickness. Other causes of serum sickness include therapeutic antibodies such as rituximab and infliximab.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-302]
+Q: A patient with Hodgkin lymphoma presents to the ED with tingling and burning in his hands and feet after starting a new chemotherapy agent. This agent acts by binding beta-tubulin and inhibiting the polymerization into microtubules, thus preventing mitotic spindle formation and arresting the M phase of the cell cycle. Which of the following medications does this describe?
+A: Vincristine
+EXPLANATION: Vincristine and vinblastine are chemotherapeutic agents classified as vinca alkaloids, derived from the periwinkle plant (Catharanthus roseus). Their primary mechanism of action is the inhibition of microtubule polymerization, which is essential for the formation of the mitotic spindle during cell division. Microtubules are structural components of the cytoskeleton and play a crucial role in mitosis, intracellular transport, and maintenance of cell shape. By preventing microtubule assembly, these agents disrupt mitotic spindle formation, thereby arresting the cell cycle at the metaphase stage and leading to apoptosis of rapidly dividing cells.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-303]
+Q: A patient presents to the ED with an anaphylactic reaction to peanuts and receives epinephrine. The beta-2 agonist effect from epinephrine has which one of the following primary actions?
+A: Stabilizes mast cells
+EXPLANATION: Anaphylaxis is a severe, dramatic type-1 hypersensitivity reaction (i.e., immunoglobulin E-mediated) that can progress rapidly and may cause death if not recognized and treated early and appropriately. Definitions vary from source to source as to the criteria for anaphylaxis. It should be suspected when a patient exposed to a known allergen develops hypotension. Anaphylaxis is associated with urticaria; generalized flushing or itching; or swelling of the tongue, lips, uvula, or skin within minutes to hours after allergen exposure, along with either respiratory distress or hypoxia, hypotension, or other organ dysfunction (e.g., syncope, incontinence).
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-304]
+Q: A 26-year-old woman presents to the emergency department with joint pain. She reports no medical history and does not know if her immunizations are up to date. Her pain began approximately 1 week ago in her left knee and ankle. However, today, the pain is also in her right knee, so she came to the emergency department for evaluation.
+A: Sore throat suggesting pharyngitis
+EXPLANATION: This patient is presenting with signs and symptoms that fit the criteria for a diagnosis of acute rheumatic fever, which is a nonsuppurative sequelae that occurs 2–4 weeks after group A Streptococcus infection, most often from pharyngitis. Thus, the important information to ask this patient is whether she had a sore throat a few weeks ago that might suggest she had pharyngitis. A diagnosis of acute rheumatic fever is established on clinical grounds using the revised Jones criteria. This patient meets the criteria for a diagnosis of acute rheumatic fever based on a new murmur, polyarthritis, and fever.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-305]
+Q: A 25-year-old man presents to the ED with joint and back pain. He was diagnosed with urethritis 2 weeks ago. On physical exam, he is noted to have joint effusions of his right ankle and left knee. Which of the following is the most likely diagnosis?
+A: Reactive arthritis
+EXPLANATION: Reactive arthritis is an inflammatory asymmetric oligoarthritis that develops soon after or during an infection elsewhere in the body. It can occur after urethritis, secondary to Chlamydia trachomatis, or after gastrointestinal infections caused by organisms such as Salmonella, Shigella, or Campylobacter. Clinical manifestations include symptoms of preceding enteric or genitourinary infections, peripheral arthritis, dactylitis, and low back pain. Extra-articular signs and symptoms include conjunctivitis, dysuria, urethritis, cervicitis, and prostatitis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-306]
+Q: A 55-year-old woman presents to the ED with a rash on her left arm. She was stung by a wasp while attempting to destroy a nest in her garage. On examination, she has diffuse urticaria and biphasic wheezes. She says this happened to her when she was a child. She begins to vomit while you are examining her. Which of the following is the most likely diagnosis?
+A: Anaphylaxis
+EXPLANATION: Anaphylaxis is a life-threatening type I mast cell-mediated hypersensitivity reaction and is the likely diagnosis when any one of the following criteria is met: (1) hypotension after exposure to an allergen, (2) onset of illness involving the skin or mucosal surfaces with accompanying respiratory compromise or hypotension, or (3) two of the following after exposure to a suspected allergen: skin or mucosal tissue involvement, hypotension, respiratory compromise, or GI symptoms. Anaphylaxis is often underdiagnosed and undertreated. Urticaria and bronchospasm do not need to be present for anaphylaxis to be diagnosed.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-307]
+Q: An 8-year-old girl presents to the emergency department with facial swelling. She has asymmetric, nonpitting, non-gravity-dependent edema, as shown above. Which of the following history and exam findings most suggests this patient has C1 esterase inhibitor deficiency?
+A: Gradual onset over 24 hours
+EXPLANATION: Angioedema is caused by the local extravasation of fluid into the interstitial tissues. It tends to affect the face, extremities, and genitals. When it occurs on the face, it tends to involve the airway, including the lips, mouth, uvula, larynx, and pharynx. It tends to be rapid in onset, asymmetric, and not to involve gravity-dependent areas. It can be mast cell mediated or bradykinin mediated. When mast cell mediated, it is often seen as a component of allergic symptoms, which range from mild to anaphylaxis. This type is associated with bronchospasm, itching, flushed skin, hypotension, and urticaria. It has an onset within hours and resolves within 1–2 days.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-308]
+Q: A 3-year-old boy presents to the ED with a fever for 6 days. His T is 103°F (39.4°C), BP is 85/50 mm Hg, HR is 142 bpm, RR is 23/min, and SpO2 is 100% on room air. Physical exam is notable for the finding above. Conjunctival injection is also noted. The patient has a desquamating rash on his palms and soles. There is tender cervical lymphadenopathy noted as well.
+A: Echocardiography, IV immune globulin, and aspirin
+EXPLANATION: Kawasaki disease, or mucocutaneous lymph node syndrome, is a medium-vessel vasculitis that usually presents in children < 5 years of age. The diagnostic criteria for Kawasaki disease include a fever for ≥ 5 days and four out of the following five criteria: cervical adenopathy, polymorphous rash, conjunctival injection, oral membrane changes (strawberry tongue, cracked lips), and extremity changes (erythema and a desquamating rash of the palms and soles). The management of Kawasaki disease includes echocardiography, IV immune globulin, and aspirin. The erythrocyte sedimentation rate and C-reactive protein levels are often elevated in this condition and can help support the diagnosis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-309]
+Q: Which of the following is an expected history or exam finding of serum sickness?
+A: Arthralgias
+EXPLANATION: A true serum sickness reaction is uncommon due to the decrease in the use of medications made with animal serum. It was first described when antitoxins from horse serum were used to treat diphtheria and scarlet fever in the early 1900s. In serum sickness, nonhuman proteins form immune complexes, causing a variety of allergic symptoms a few weeks after administration (i.e., Gell and Coombs type III hypersensitivity). Many drug reactions to antibiotics have a similar appearance, timeframe, and duration and are thus called serum sickness-like reactions, despite being thought to be caused by a different mechanism.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-310]
+Q: Which of the following findings is consistent with scleroderma renal crisis?
+A: Normal urinalysis
+EXPLANATION: The hallmark of scleroderma, also known as systemic sclerosis, is an uncontrolled accumulation of collagen affecting nearly every organ in the body, and widespread vascular involvement. It is an autoimmune disorder that more commonly affects women than men with a peak age of onset between 30 and 50 years of age. Kidney disease is the most common cause of death in patients with systemic sclerosis. Scleroderma renal crisis affects up to 20% of patients with systemic sclerosis and occurs early in the course of the disease, often within 5 years of diagnosis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-311]
+Q: A 33-year-old man presents to the emergency department with the above physical exam finding, which he states he has experienced before. His primary care clinician recently treated him for an infection, but the patient cannot recall the name of the drug. Which of the following is the most likely diagnosis?
+A: Fixed drug eruption
+EXPLANATION: This patient is presenting with findings and a history suggestive of a fixed drug eruption. A fixed drug eruption is believed to be associated with CD8+ T-cell activity and presents with a fixed lesion that typically occurs in the same area when exposed to an offending agent. The presenting dermatologic finding is typically an oval or circular hyperpigmented lesion that can be erythematous, edematous, and may demonstrate central blistering and necrosis. The lesions typically fade when the offending agent is removed and may leave a hyperpigmented lesion behind. The treatment of a fixed drug eruption is typically symptomatic therapy involving oral antihistamines and topical steroids.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-312]
+Q: A 7-year-old boy presents to the emergency department with dark-colored urine. He has no significant medical history and is fully immunized. His symptoms started yesterday evening, and his parent initially thought he was dehydrated. A review of systems reveals a recent rash with a yellowish crust that was treated with topical antibiotics 3 weeks ago. The rash has since resolved.
+A: Poststreptococcal glomerulonephritis
+EXPLANATION: Poststreptococcal glomerulonephritis is a kidney disorder that is caused by a prior infection of specific nephrogenic strains of group A beta-hemolytic Streptococcus. Poststreptococcal glomerulonephritis is the most common cause of acute nephritis in children worldwide, with it being more common in resource-poor areas. It has a bimodal distribution affecting the young, between 5 and 12 years of age, and those ≥ 60 years. It is twice as common in male patients compared to female patients. Clinical features range from being completely asymptomatic or having microscopic hematuria to having full-blown acute nephritic syndrome.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-313]
+Q: A 20-year-old man with a medical history of asthma presents with a rash and difficulty breathing. His symptoms started shortly after taking the first dose of an antibiotic that he was prescribed for cellulitis. Vital signs are a T of 98.5°F (36.9°C), BP of 89/50 mm Hg, HR of 130 bpm, RR of 22/min, and SpO2 of 92% on room air. On physical exam, he appears anxious and has diffuse urticaria.
+A: Intramuscular epinephrine
+EXPLANATION: This patient, who presents with urticaria, bronchospasm, and signs of shock, has anaphylaxis, which is a serious allergic (hypersensitivity) reaction that can progress rapidly and may cause death. Common triggers include foods, medications, and insect stings. Patients can present with a range of symptoms and disease severity, from mild wheezing and urticaria to shock and complete airway obstruction. Most patients present with mucocutaneous involvement, including urticaria, pruritus, lip and oropharyngeal swelling, periorbital edema, and conjunctival injection.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-314]
+Q: A 45-year-old woman presents to the ED with shortness of breath. Chest radiograph reveals bilateral hilar lymphadenopathy and evidence of pulmonary fibrosis. Which of the following laboratory abnormalities is associated with this disease process?
+A: Hypercalcemia
+EXPLANATION: This patient is exhibiting signs and symptoms of sarcoidosis. It is characterized by the formation of noncaseating granulomas composed of helper T cells and other inflammatory cells such as macrophages. Only 5% of patients with sarcoidosis are asymptomatic, and half of them have pulmonary or systemic concerns, which manifest later in the disease process. When patients become symptomatic later in the disease process, they have constitutional symptoms such as fever, fatigue, weight loss, polyarthritis, or myositis and respiratory symptoms such as cough, dyspnea on exertion, or hemoptysis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-315]
+Q: A 42-year-old man presents to the ED with left knee pain and swelling. Review of systems is notable for the presence of penile discharge and a recent history of bloody diarrhea. In addition to mild swelling and discomfort with range of motion of the left knee, the physical examination shows bilateral conjunctival erythema.
+A: Synovial WBC of 40,000 cells/mm³
+EXPLANATION: Reactive arthritis is a form of spondyloarthritis that characteristically occurs following an infection. The classic triad of reactive arthritis is asymmetrical polyarthritis, urethritis, and conjunctivitis. A mnemonic used to remember these symptoms is “can’t see (conjunctivitis), can’t pee (urethritis), can’t climb a tree (arthritis).” Reactive arthritis typically follows enteric infection, with Yersinia, Salmonella, Shigella, and Campylobacter being the most commonly implicated. While less common, infections with Escherichia coli, Chlamydia, and Clostridioides difficile may also lead to the development of reactive arthritis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-316]
+Q: A 4-year-old girl is brought to the ED with fever, eye redness, and rash. On physical exam, you note bilateral conjunctivitis, cervical lymphadenopathy, fissured lips, and a diffuse nonvesicular rash. Which of the following is the most serious complication of this disease process?
+A: Coronary artery aneurysms
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with Kawasaki disease. Kawasaki disease most commonly affects children 1.5 cm, mucous membrane involvement (e.g., strawberry tongue or fissured lips), extremity changes (e.g., edema or erythema), bilateral nonexudative conjunctivitis without iritis, and nonvesicular rash. Diagnosis is clinical. Fever ≥ 5 days must be present and at least four of the five aforementioned features. If there are fewer than four signs present, diagnosis may be made with evidence of coronary artery disease on echocardiography or by a constellation of laboratory tests.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-317]
+Q: A 27-year-old woman presents to the ED with fever, weight loss, and joint pain. She states her joint pain has been worsening steadily, is bilateral and symmetric, and occurs in the setting of fatigue and weakness. Physical exam is notable for the finding shown above. Which of the following complications is this patient at increased risk of experiencing?
+A: Recurrent pregnancy loss
+EXPLANATION: This woman has a malar rash and systemic symptoms consistent with systemic lupus erythematosus (SLE). SLE can involve antiphospholipid antibodies, which increase the risk of hypercoagulability and lead to complications such as recurrent pregnancy loss. Women with SLE should be screened for antiphospholipid syndrome when planning pregnancy due to this risk. SLE presents with symptoms and findings that include serositis, oropharyngeal ulcers, antinuclear antibody positivity, photosensitivity, blood disorders (including anemia and leukopenia), kidney disorders (including acute and chronic kidney injury), autoimmune hemolytic anemia, neurologic disorders (including psychosis, headaches, and seiz …
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-318]
+Q: A 2-year-old girl presents to the ED with daily fevers for 6 days. She was initially seen at an urgent care and diagnosed with a viral illness. However, her parent says the fever will not come down. On exam, the child has a fever and tachycardia. You notice injected conjunctiva and dry mucous membranes with cracked lips.
+A: Coronary artery aneurysms
+EXPLANATION: This patient is presenting with signs and symptoms that are characteristic of Kawasaki disease or mucocutaneous lymph node syndrome. It is a generalized systemic vasculitis that is the leading cause of acquired heart disease in North America. It affects infants and young children. The diagnosis is clinical and is based on criteria including fever for ≥ 5 days, bilateral conjunctivitis, oropharyngeal erythema, a diffuse nonspecific rash with erythema or edema of the hands and feet, and cervical lymphadenopathy. The disease can look like many other illnesses, so it should be considered when other causes, such as viral illnesses, are excluded.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-319]
+Q: A 27-year-old woman with no significant medical history presents with shortness of breath. For the past few months, the patient has noted low-grade fevers, arthralgias, and anorexia with a 10-pound weight loss. More recently, she developed dyspnea on exertion and a nonproductive cough. Physical exam reveals clear lungs bilaterally and pretibial erythema nodosum.
+A: Macrophage production of calcitriol
+EXPLANATION: Sarcoidosis is an inflammatory disease characterized by noncaseating granulomas that can affect any organ system, the underlying mechanism for which remains undetermined. Some individuals are more likely to develop Löfgren syndrome, which is comprised of erythema nodosum, polyarthralgias, and bilateral perihilar lymphadenopathy. Sarcoidosis has a predilection for the lymph system and lungs but also commonly affects the skin, eyes (e.g., uveitis), and heart (e.g., dysrhythmias and heart failure). Cutaneous manifestations include erythema nodosum and lupus pernio, a rash with violaceous plaques and nodules affecting the cheeks, nose, forehead, and ears.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-320]
+Q: Which of the following infections should be ruled out by pretreatment screening before initiating treatment with a tumor necrosis factor-alpha inhibitor?
+A: Tuberculosis
+EXPLANATION: Tumor necrosis factor (TNF)-alpha inhibitors have become cornerstone therapies for treating chronic inflammatory and autoimmune diseases, including rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, plaque psoriasis, and inflammatory bowel disease such as Crohn disease and ulcerative colitis. TNF-alpha is a proinflammatory cytokine central to the immune response, playing a key role in the activation of macrophages, recruitment of neutrophils and monocytes, and formation and maintenance of granulomas, which are critical for containing infections like tuberculosis.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-321]
+Q: A 23-year-old man presents to the emergency department with right knee pain for 4 days. He reports no trauma to the knee. He works in construction and typically has back pain, but that has also been worse over the last few days. What preceding symptoms would suggest that this patient’s knee pain is due to reactive arthritis?
+A: Diarrhea and urethritis
+EXPLANATION: Reactive arthritis is a spondyloarthropathy that presents with acute, asymmetric oligoarthritis approximately 2–6 weeks after an infectious illness. The classic presenting triad of reactive arthritis includes joint pain, urethritis, and conjunctivitis. All three components are not necessary for the diagnosis but are highly suggestive of it. When considering this disease on your differential for a patient with arthritic pain, the patient should be questioned regarding a previous enteric infection and for symptoms of urethritis. Common organisms that are associated with reactive arthritis include Chlamydia trachomatis, Yersinia, Salmonella, Shigella, and Campylobacter.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-322]
+Q: A 25-year-old woman presents to the ED with swelling to her tongue. She indicates that the right side of her tongue and cheek became swollen immediately after eating a spice on her taco. She also developed some itching around her neck. She reports no difficulty swallowing or difficulty breathing. Her vital signs show HR 72 bpm, BP 125/72 mm Hg, RR 16/min, and T 37.3°C.
+A: Intravenous diphenhydramine plus methylprednisolone plus famotidine
+EXPLANATION: This patient is having an acute hypersensitivity reaction or type I immunoglobulin E-mediated reaction to a specific food allergen. Adverse reactions to foods are more common. Much like allergic reactions to other substances, a wide range of symptoms, including local edema and urticaria to widespread angioedema and anaphylaxis, can develop. It is the clinician’s job to determine the severity of the illness and treat it accordingly. It is common for people with food allergies to develop local urticaria and angioedema where the food touches the skin. This is the case in this patient since only part of her tongue and part of her cheek are swollen.
+
+### [ROSH | rosh-em-initial-2026-immune-system-disorders-q-323]
+Q: A 4-year-old boy is brought to the ED by his parent due to a fever and rash for 1 week. Physical exam is notable for conjunctival injection, dry-appearing lips, a generalized rash, and cervical lymphadenopathy. Which of the following is the most appropriate therapy?
+A: Aspirin
+EXPLANATION: Kawasaki disease is a febrile, exanthematous, multisystem vasculitis of the small- and medium-sized vessels thought to be caused by an immune response to a respiratory infection. Left untreated, it can lead to coronary artery aneurysms and other abnormalities. It typically affects children < 5 years of age and has a male predominance. Classically, Kawasaki disease is diagnosed in a child with a fever for ≥ 5 days and at least four of the following five symptoms: bilateral conjunctival injection, red and cracked lips or strawberry tongue, cervical lymphadenopathy, palmar or plantar erythema and edema or periungual desquamation, and a polymorphous generalized rash.

@@ -1,0 +1,4501 @@
+{
+  "id": "seg-unified-review-guide",
+  "title": "SEG Unified Emergency Medicine Review Guide",
+  "targetPages": 400,
+  "status": "under-review",
+  "chapters": [
+    {
+      "id": "unified-rosh-0001",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Cardiovascular System",
+      "sourcePages": {
+        "start": 11,
+        "end": 75
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0002",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Orthopedics/Rheumatology",
+      "sourcePages": {
+        "start": 76,
+        "end": 135
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0003",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Gastrointestinal/Nutritional",
+      "sourcePages": {
+        "start": 136,
+        "end": 196
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0004",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Pulmonology",
+      "sourcePages": {
+        "start": 197,
+        "end": 234
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0005",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Neurology",
+      "sourcePages": {
+        "start": 235,
+        "end": 303
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0006",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "ENOT/Ophthalmology",
+      "sourcePages": {
+        "start": 304,
+        "end": 352
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0007",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Urology/Renal",
+      "sourcePages": {
+        "start": 353,
+        "end": 391
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0008",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Dermatology",
+      "sourcePages": {
+        "start": 392,
+        "end": 421
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0009",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Endocrinology",
+      "sourcePages": {
+        "start": 422,
+        "end": 450
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0010",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Obstetrics/Gynecology",
+      "sourcePages": {
+        "start": 451,
+        "end": 485
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0011",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Psychiatry/Behavioral Medicine",
+      "sourcePages": {
+        "start": 486,
+        "end": 512
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosh-0012",
+      "source": "Rosh Review Emergency Medicine Rotation Exam",
+      "sourceId": "rosh-rotation-2019",
+      "title": "Hematology",
+      "sourcePages": {
+        "start": 513,
+        "end": 555
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0001",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 1",
+      "sourcePages": {
+        "start": 20,
+        "end": 28
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0002",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 2",
+      "sourcePages": {
+        "start": 29,
+        "end": 47
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0003",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 3",
+      "sourcePages": {
+        "start": 48,
+        "end": 55
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0004",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 4",
+      "sourcePages": {
+        "start": 56,
+        "end": 78
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0005",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 5",
+      "sourcePages": {
+        "start": 79,
+        "end": 82
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0006",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 6",
+      "sourcePages": {
+        "start": 83,
+        "end": 85
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0007",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 7",
+      "sourcePages": {
+        "start": 86,
+        "end": 95
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0008",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 8",
+      "sourcePages": {
+        "start": 96,
+        "end": 99
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0009",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 9",
+      "sourcePages": {
+        "start": 100,
+        "end": 103
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0010",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 10",
+      "sourcePages": {
+        "start": 104,
+        "end": 114
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0011",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 11",
+      "sourcePages": {
+        "start": 115,
+        "end": 119
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0012",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 12",
+      "sourcePages": {
+        "start": 120,
+        "end": 126
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0013",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 13",
+      "sourcePages": {
+        "start": 127,
+        "end": 130
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0014",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 14",
+      "sourcePages": {
+        "start": 131,
+        "end": 133
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0015",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 15",
+      "sourcePages": {
+        "start": 134,
+        "end": 139
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0016",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 16",
+      "sourcePages": {
+        "start": 140,
+        "end": 143
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0017",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 17",
+      "sourcePages": {
+        "start": 144,
+        "end": 149
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0018",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 18",
+      "sourcePages": {
+        "start": 150,
+        "end": 156
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0019",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 19",
+      "sourcePages": {
+        "start": 157,
+        "end": 159
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0020",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 20",
+      "sourcePages": {
+        "start": 160,
+        "end": 164
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0021",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 21",
+      "sourcePages": {
+        "start": 165,
+        "end": 167
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0022",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 22",
+      "sourcePages": {
+        "start": 168,
+        "end": 170
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0023",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 23",
+      "sourcePages": {
+        "start": 171,
+        "end": 178
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0024",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 24",
+      "sourcePages": {
+        "start": 179,
+        "end": 185
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0025",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 25",
+      "sourcePages": {
+        "start": 186,
+        "end": 193
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0026",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 26",
+      "sourcePages": {
+        "start": 194,
+        "end": 199
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0027",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 27",
+      "sourcePages": {
+        "start": 200,
+        "end": 205
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0028",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 28",
+      "sourcePages": {
+        "start": 206,
+        "end": 209
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0029",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 29",
+      "sourcePages": {
+        "start": 210,
+        "end": 217
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0030",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 30",
+      "sourcePages": {
+        "start": 218,
+        "end": 222
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0031",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 31",
+      "sourcePages": {
+        "start": 223,
+        "end": 226
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0032",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 32",
+      "sourcePages": {
+        "start": 227,
+        "end": 229
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0033",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 33",
+      "sourcePages": {
+        "start": 230,
+        "end": 231
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0034",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 34",
+      "sourcePages": {
+        "start": 232,
+        "end": 235
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0035",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 35",
+      "sourcePages": {
+        "start": 236,
+        "end": 240
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0036",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 36",
+      "sourcePages": {
+        "start": 241,
+        "end": 243
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0037",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 37",
+      "sourcePages": {
+        "start": 244,
+        "end": 251
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0038",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 38",
+      "sourcePages": {
+        "start": 252,
+        "end": 255
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0039",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 39",
+      "sourcePages": {
+        "start": 256,
+        "end": 257
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0040",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 40",
+      "sourcePages": {
+        "start": 258,
+        "end": 262
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0041",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 41",
+      "sourcePages": {
+        "start": 263,
+        "end": 265
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0042",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 42",
+      "sourcePages": {
+        "start": 266,
+        "end": 270
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0043",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 43",
+      "sourcePages": {
+        "start": 271,
+        "end": 274
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0044",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 44",
+      "sourcePages": {
+        "start": 275,
+        "end": 277
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0045",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 45",
+      "sourcePages": {
+        "start": 278,
+        "end": 280
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0046",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 46",
+      "sourcePages": {
+        "start": 281,
+        "end": 283
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0047",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 47",
+      "sourcePages": {
+        "start": 284,
+        "end": 291
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0048",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 48",
+      "sourcePages": {
+        "start": 292,
+        "end": 300
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0049",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 49",
+      "sourcePages": {
+        "start": 301,
+        "end": 305
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0050",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 50",
+      "sourcePages": {
+        "start": 306,
+        "end": 310
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0051",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 51",
+      "sourcePages": {
+        "start": 311,
+        "end": 314
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0052",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 52",
+      "sourcePages": {
+        "start": 315,
+        "end": 317
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0053",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 53",
+      "sourcePages": {
+        "start": 318,
+        "end": 321
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0054",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 54",
+      "sourcePages": {
+        "start": 322,
+        "end": 324
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0055",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 55",
+      "sourcePages": {
+        "start": 325,
+        "end": 330
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0056",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 56",
+      "sourcePages": {
+        "start": 331,
+        "end": 334
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0057",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 57",
+      "sourcePages": {
+        "start": 335,
+        "end": 337
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0058",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 58",
+      "sourcePages": {
+        "start": 338,
+        "end": 341
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0059",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 59",
+      "sourcePages": {
+        "start": 342,
+        "end": 346
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0060",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 60",
+      "sourcePages": {
+        "start": 347,
+        "end": 353
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0061",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 61",
+      "sourcePages": {
+        "start": 354,
+        "end": 358
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0062",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 62",
+      "sourcePages": {
+        "start": 359,
+        "end": 362
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0063",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 63",
+      "sourcePages": {
+        "start": 363,
+        "end": 365
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0064",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 64",
+      "sourcePages": {
+        "start": 366,
+        "end": 368
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0065",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 65",
+      "sourcePages": {
+        "start": 369,
+        "end": 371
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0066",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 66",
+      "sourcePages": {
+        "start": 372,
+        "end": 379
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0067",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 67",
+      "sourcePages": {
+        "start": 380,
+        "end": 384
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0068",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 68",
+      "sourcePages": {
+        "start": 385,
+        "end": 390
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0069",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 69",
+      "sourcePages": {
+        "start": 391,
+        "end": 397
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0070",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 70",
+      "sourcePages": {
+        "start": 398,
+        "end": 403
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0071",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 71",
+      "sourcePages": {
+        "start": 404,
+        "end": 406
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0072",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 72",
+      "sourcePages": {
+        "start": 407,
+        "end": 413
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0073",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 73",
+      "sourcePages": {
+        "start": 414,
+        "end": 418
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0074",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 74",
+      "sourcePages": {
+        "start": 419,
+        "end": 425
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0075",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 75",
+      "sourcePages": {
+        "start": 426,
+        "end": 427
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0076",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 76",
+      "sourcePages": {
+        "start": 428,
+        "end": 430
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0077",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 77",
+      "sourcePages": {
+        "start": 431,
+        "end": 435
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0078",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 78",
+      "sourcePages": {
+        "start": 436,
+        "end": 438
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0079",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 79",
+      "sourcePages": {
+        "start": 439,
+        "end": 443
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0080",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 80",
+      "sourcePages": {
+        "start": 444,
+        "end": 446
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0081",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 81",
+      "sourcePages": {
+        "start": 447,
+        "end": 450
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0082",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 82",
+      "sourcePages": {
+        "start": 451,
+        "end": 461
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0083",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 83",
+      "sourcePages": {
+        "start": 462,
+        "end": 473
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0084",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 84",
+      "sourcePages": {
+        "start": 474,
+        "end": 479
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0085",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 85",
+      "sourcePages": {
+        "start": 480,
+        "end": 486
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0086",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 86",
+      "sourcePages": {
+        "start": 487,
+        "end": 491
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0087",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 87",
+      "sourcePages": {
+        "start": 492,
+        "end": 498
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0088",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 88",
+      "sourcePages": {
+        "start": 499,
+        "end": 502
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0089",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 89",
+      "sourcePages": {
+        "start": 503,
+        "end": 509
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0090",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 90",
+      "sourcePages": {
+        "start": 510,
+        "end": 515
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0091",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 91",
+      "sourcePages": {
+        "start": 516,
+        "end": 523
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0092",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 92",
+      "sourcePages": {
+        "start": 524,
+        "end": 531
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0093",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 93",
+      "sourcePages": {
+        "start": 532,
+        "end": 535
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0094",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 94",
+      "sourcePages": {
+        "start": 536,
+        "end": 541
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0095",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 95",
+      "sourcePages": {
+        "start": 542,
+        "end": 545
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0096",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 96",
+      "sourcePages": {
+        "start": 546,
+        "end": 549
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0097",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 97",
+      "sourcePages": {
+        "start": 550,
+        "end": 558
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0098",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 98",
+      "sourcePages": {
+        "start": 559,
+        "end": 564
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0099",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 99",
+      "sourcePages": {
+        "start": 565,
+        "end": 573
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0100",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 100",
+      "sourcePages": {
+        "start": 574,
+        "end": 582
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0101",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 101",
+      "sourcePages": {
+        "start": 583,
+        "end": 584
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0102",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 102",
+      "sourcePages": {
+        "start": 585,
+        "end": 592
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0103",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 103",
+      "sourcePages": {
+        "start": 593,
+        "end": 598
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0104",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 104",
+      "sourcePages": {
+        "start": 599,
+        "end": 602
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0105",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 105",
+      "sourcePages": {
+        "start": 603,
+        "end": 609
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0106",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 106",
+      "sourcePages": {
+        "start": 610,
+        "end": 616
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0107",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 107",
+      "sourcePages": {
+        "start": 617,
+        "end": 620
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0108",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 108",
+      "sourcePages": {
+        "start": 621,
+        "end": 631
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0109",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 109",
+      "sourcePages": {
+        "start": 632,
+        "end": 635
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0110",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 110",
+      "sourcePages": {
+        "start": 636,
+        "end": 639
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0111",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 111",
+      "sourcePages": {
+        "start": 640,
+        "end": 642
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0112",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 112",
+      "sourcePages": {
+        "start": 643,
+        "end": 644
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0113",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 113",
+      "sourcePages": {
+        "start": 645,
+        "end": 649
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0114",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 114",
+      "sourcePages": {
+        "start": 650,
+        "end": 655
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0115",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 115",
+      "sourcePages": {
+        "start": 656,
+        "end": 661
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0116",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 116",
+      "sourcePages": {
+        "start": 662,
+        "end": 664
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0117",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 117",
+      "sourcePages": {
+        "start": 665,
+        "end": 667
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0118",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 118",
+      "sourcePages": {
+        "start": 668,
+        "end": 673
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0119",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 119",
+      "sourcePages": {
+        "start": 674,
+        "end": 676
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0120",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 120",
+      "sourcePages": {
+        "start": 677,
+        "end": 684
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0121",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 121",
+      "sourcePages": {
+        "start": 685,
+        "end": 688
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0122",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 122",
+      "sourcePages": {
+        "start": 689,
+        "end": 691
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0123",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 123",
+      "sourcePages": {
+        "start": 692,
+        "end": 693
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0124",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 124",
+      "sourcePages": {
+        "start": 694,
+        "end": 696
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0125",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 125",
+      "sourcePages": {
+        "start": 697,
+        "end": 704
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0126",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 126",
+      "sourcePages": {
+        "start": 705,
+        "end": 710
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0127",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 127",
+      "sourcePages": {
+        "start": 711,
+        "end": 713
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0128",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 128",
+      "sourcePages": {
+        "start": 714,
+        "end": 719
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0129",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 129",
+      "sourcePages": {
+        "start": 720,
+        "end": 727
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0130",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 130",
+      "sourcePages": {
+        "start": 728,
+        "end": 729
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0131",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 131",
+      "sourcePages": {
+        "start": 730,
+        "end": 733
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0132",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 132",
+      "sourcePages": {
+        "start": 734,
+        "end": 737
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0133",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 133",
+      "sourcePages": {
+        "start": 738,
+        "end": 744
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0134",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 134",
+      "sourcePages": {
+        "start": 745,
+        "end": 747
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0135",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 135",
+      "sourcePages": {
+        "start": 748,
+        "end": 752
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0136",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 136",
+      "sourcePages": {
+        "start": 753,
+        "end": 757
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0137",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 137",
+      "sourcePages": {
+        "start": 758,
+        "end": 763
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0138",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 138",
+      "sourcePages": {
+        "start": 764,
+        "end": 769
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0139",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 139",
+      "sourcePages": {
+        "start": 770,
+        "end": 777
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0140",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 140",
+      "sourcePages": {
+        "start": 778,
+        "end": 783
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0141",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 141",
+      "sourcePages": {
+        "start": 784,
+        "end": 793
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0142",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 142",
+      "sourcePages": {
+        "start": 794,
+        "end": 799
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0143",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 143",
+      "sourcePages": {
+        "start": 800,
+        "end": 802
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0144",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 144",
+      "sourcePages": {
+        "start": 803,
+        "end": 810
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0145",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 145",
+      "sourcePages": {
+        "start": 811,
+        "end": 814
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0146",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 146",
+      "sourcePages": {
+        "start": 815,
+        "end": 818
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0147",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 147",
+      "sourcePages": {
+        "start": 819,
+        "end": 824
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0148",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 148",
+      "sourcePages": {
+        "start": 825,
+        "end": 831
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0149",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 149",
+      "sourcePages": {
+        "start": 832,
+        "end": 844
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0150",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 150",
+      "sourcePages": {
+        "start": 845,
+        "end": 849
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0151",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 151",
+      "sourcePages": {
+        "start": 850,
+        "end": 856
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0152",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 152",
+      "sourcePages": {
+        "start": 857,
+        "end": 863
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0153",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 153",
+      "sourcePages": {
+        "start": 864,
+        "end": 869
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0154",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 154",
+      "sourcePages": {
+        "start": 870,
+        "end": 874
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0155",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 155",
+      "sourcePages": {
+        "start": 875,
+        "end": 883
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0156",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 156",
+      "sourcePages": {
+        "start": 884,
+        "end": 887
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0157",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 157",
+      "sourcePages": {
+        "start": 888,
+        "end": 891
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0158",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 158",
+      "sourcePages": {
+        "start": 892,
+        "end": 895
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0159",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 159",
+      "sourcePages": {
+        "start": 896,
+        "end": 898
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0160",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 160",
+      "sourcePages": {
+        "start": 899,
+        "end": 904
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0161",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 161",
+      "sourcePages": {
+        "start": 905,
+        "end": 910
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0162",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 162",
+      "sourcePages": {
+        "start": 911,
+        "end": 915
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0163",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 163",
+      "sourcePages": {
+        "start": 916,
+        "end": 921
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0164",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 164",
+      "sourcePages": {
+        "start": 922,
+        "end": 927
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0165",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 165",
+      "sourcePages": {
+        "start": 928,
+        "end": 932
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0166",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 166",
+      "sourcePages": {
+        "start": 933,
+        "end": 934
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0167",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 167",
+      "sourcePages": {
+        "start": 935,
+        "end": 938
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0168",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 168",
+      "sourcePages": {
+        "start": 939,
+        "end": 941
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0169",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 169",
+      "sourcePages": {
+        "start": 942,
+        "end": 947
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0170",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 170",
+      "sourcePages": {
+        "start": 948,
+        "end": 952
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0171",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 171",
+      "sourcePages": {
+        "start": 953,
+        "end": 960
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0172",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 172",
+      "sourcePages": {
+        "start": 961,
+        "end": 967
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0173",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 173",
+      "sourcePages": {
+        "start": 968,
+        "end": 974
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0174",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 174",
+      "sourcePages": {
+        "start": 975,
+        "end": 979
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0175",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 175",
+      "sourcePages": {
+        "start": 980,
+        "end": 984
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0176",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 176",
+      "sourcePages": {
+        "start": 985,
+        "end": 987
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0177",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 177",
+      "sourcePages": {
+        "start": 988,
+        "end": 993
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0178",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 178",
+      "sourcePages": {
+        "start": 994,
+        "end": 997
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0179",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 179",
+      "sourcePages": {
+        "start": 998,
+        "end": 1001
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0180",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 180",
+      "sourcePages": {
+        "start": 1002,
+        "end": 1006
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0181",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 181",
+      "sourcePages": {
+        "start": 1007,
+        "end": 1013
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0182",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 182",
+      "sourcePages": {
+        "start": 1014,
+        "end": 1016
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0183",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 183",
+      "sourcePages": {
+        "start": 1017,
+        "end": 1021
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0184",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 184",
+      "sourcePages": {
+        "start": 1022,
+        "end": 1025
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0185",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 185",
+      "sourcePages": {
+        "start": 1026,
+        "end": 1028
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0186",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 186",
+      "sourcePages": {
+        "start": 1029,
+        "end": 1031
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0187",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 187",
+      "sourcePages": {
+        "start": 1032,
+        "end": 1034
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0188",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 188",
+      "sourcePages": {
+        "start": 1035,
+        "end": 1039
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-tintinalli-0189",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourceId": "tintinalli-manual-8e",
+      "title": "Chapter 189",
+      "sourcePages": {
+        "start": 1040,
+        "end": 1043
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosen-0001",
+      "source": "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e",
+      "sourceId": "rosen-barkin-5min",
+      "title": "P1: OSO/OVY P2: OSO/OVY QC: OSO/OVY T1: OSO",
+      "sourcePages": {
+        "start": 1,
+        "end": 649
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosen-0002",
+      "source": "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e",
+      "sourceId": "rosen-barkin-5min",
+      "title": "P1: PCF/PBY P2: PCF/PBY QC: PCF/PBY T1: PCF",
+      "sourcePages": {
+        "start": 650,
+        "end": 1328
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    },
+    {
+      "id": "unified-rosen-0003",
+      "source": "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e",
+      "sourceId": "rosen-barkin-5min",
+      "title": "P1: PBU/OVY P2: PBU/OVY QC: PBU/OVY T1: PBU",
+      "sourcePages": {
+        "start": 1329,
+        "end": 1335
+      },
+      "objectives": [
+        "Identify the emergency presentation and immediate priorities.",
+        "Organize diagnostic and management decisions.",
+        "Recognize red flags and escalation triggers."
+      ],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "شرح عربي مبسط يُكتب بعد مراجعة المحتوى والمصادر الحالية.",
+      "linkedQuestionIds": [],
+      "status": "under-review",
+      "clinicalReview": "pending",
+      "coverage": "unmapped-until-official-blueprint"
+    }
+  ],
+  "notes": [
+    "Original high-yield synthesis; not a replacement for source books.",
+    "Official Jordanian Board blueprint weights are not publicly verified.",
+    "All clinical claims require current-source and reviewer sign-off."
+  ]
+}

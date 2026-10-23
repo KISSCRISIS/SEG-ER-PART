@@ -1,0 +1,95 @@
+# SEG Project CI/CD Pipeline
+# Stages: test -> build -> deploy
+
+default:
+  image: node:22-bookworm-slim
+  before_script:
+    - corepack enable
+    - corepack prepare pnpm@11.10.0 --activate
+    - pnpm config set store-dir .pnpm-store
+
+cache:
+  key:
+    files:
+      - pnpm-lock.yaml
+  paths:
+    - .pnpm-store/
+    - node_modules/
+
+stages:
+  - test
+  - build
+  - deploy
+
+# --- Quality and unit tests ---
+quality:
+  stage: test
+  interruptible: true
+  script:
+    - pnpm install --frozen-lockfile
+    - pnpm lint
+    - pnpm check
+    - pnpm test
+    - pnpm repo:hygiene
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+    - if: $CI_COMMIT_BRANCH == 'main' || $CI_COMMIT_BRANCH == 'master'
+
+dependency-audit:
+  stage: test
+  interruptible: true
+  script:
+    - pnpm install --frozen-lockfile
+    - pnpm security:audit
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+    - if: $CI_COMMIT_BRANCH == 'main' || $CI_COMMIT_BRANCH == 'master'
+
+browser-quality:
+  stage: test
+  interruptible: true
+  script:
+    - pnpm install --frozen-lockfile
+    - pnpm exec playwright install --with-deps chromium
+    - pnpm test:ui
+    - pnpm dev > /tmp/seg-dev.log 2>&1 &
+    - node scripts/wait-for-url.mjs http://127.0.0.1:3000/healthz
+    - pnpm test:lighthouse
+  artifacts:
+    when: always
+    paths:
+      - reports/playwright-report/
+      - reports/playwright-results/
+      - reports/lighthouse/
+    expire_in: 1 week
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+    - if: $CI_COMMIT_BRANCH == 'main' || $CI_COMMIT_BRANCH == 'master'
+
+# --- Build ---
+build:
+  stage: build
+  interruptible: true
+  script:
+    - pnpm install --frozen-lockfile
+    - pnpm build
+  artifacts:
+    paths:
+      - dist/
+    expire_in: 1 week
+  rules:
+    - if: $CI_COMMIT_BRANCH == 'main' || $CI_COMMIT_BRANCH == 'master'
+
+# --- Deploy ---
+# TODO: Replace the script below with your actual deployment command.
+# Examples:
+#   - Docker: docker build -t seg-app . && docker push registry/seg-app
+#   - SSH:    ssh user@server 'cd /app && git pull && pnpm install && pnpm start'
+#   - Cloud:  use a provider-specific CLI (e.g. fly deploy, railway up)
+deploy:
+  stage: deploy
+  when: manual
+  script:
+    - echo "Deployment step - configure your deploy command here."
+  rules:
+    - if: $CI_COMMIT_BRANCH == 'main' || $CI_COMMIT_BRANCH == 'master'

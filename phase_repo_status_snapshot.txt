@@ -1,0 +1,130 @@
+?? SEG_EVIDENCE_LANDING_WAVE1_1280x720.png
+?? SEG_EVIDENCE_LANDING_WAVE1_1280x720_AFTER_NOOP.png
+?? SEG_EVIDENCE_LANDING_WAVE1_390x844_AFTER_NOOP.png
+?? SEG_LEGACY_KNOWLEDGE_AUDIT_STRUCTURE.txt
+?? SEG_PHASE_7_4_IMPLEMENTATION_REPORT.md
+?? SEG_PHASE_7_8_5_LEGACY_ASSET_HASHES.tsv
+?? SEG_PHASE_7_8_5_LEGACY_ASSET_STRUCTURE.txt
+?? SEG_PHASE_7_8_5_LEGACY_METADATA_ANALYSIS.stdout
+?? SEG_PHASE_7_8_5_LEGACY_METADATA_ANALYSIS.txt
+?? SEG_PHASE_7_8_6_TAXONOMY_EVIDENCE.txt
+?? SEG_UI_PATCH1_BASELINE_NOTES.md
+?? SEG_UI_PATCH1_EVIDENCE/baseline-contact-sheet.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/landing-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/landing-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/landing-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/landing-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/login-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/login-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/login-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/login-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/register-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/register-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/register-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/baseline/register-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark-contact-sheet.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/landing-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/landing-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/landing-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/landing-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/login-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/login-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/login-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/login-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/metrics.json
+?? SEG_UI_PATCH1_EVIDENCE/dark/register-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/register-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/register-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/dark/register-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light-contact-sheet.png
+?? SEG_UI_PATCH1_EVIDENCE/light/landing-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/landing-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/landing-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/landing-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/login-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/login-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/login-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/login-430x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/metrics.json
+?? SEG_UI_PATCH1_EVIDENCE/light/register-320x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/register-360x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/register-390x844.png
+?? SEG_UI_PATCH1_EVIDENCE/light/register-430x844.png
+?? SEG_UI_PATCH1_IMPLEMENTATION_REPORT.md
+?? analyze_legacy_knowledge_audit.py
+?? analyze_phase_7_8_12_content_intelligence.py
+?? analyze_phase_7_8_5_legacy_assets.py
+?? analyze_phase_7_8_5_legacy_metadata.py
+?? analyze_phase_7_8_7_legacy_object_crosswalk.py
+?? analyze_phase_7_8_9_identity_evidence.py
+?? analyze_updated_source_package.py
+?? compare_updated_package_content.py
+?? extract_phase_7_8_6_taxonomy_evidence.py
+?? extract_phase_7_8_9_relationships.py
+?? generate_legacy_knowledge_audit_reports.py
+?? generate_phase_7_7_6_reports.py
+?? generate_phase_7_8_11_reports.py
+?? generate_phase_7_8_12_reports.py
+?? generate_phase_7_8_13_reports.py
+?? generate_phase_7_8_14_reports.py
+?? generate_phase_7_8_5_reports.py
+?? generate_phase_7_8_6_evidence_reports.py
+?? generate_phase_7_8_6_reports.py
+?? generate_phase_7_8_7_object_crosswalk_reports.py
+?? generate_phase_7_8_8_identity_bridge_reports.py
+?? generate_phase_7_8_9_identity_evidence_report.py
+?? generate_phase_7_8_artifacts.py
+?? inspect_phase_7_8_7_crosswalk_inputs.py
+?? phase_7_8_10_content_overlap.md
+?? phase_7_8_10_updated_source_intake/INTAKE_FINDINGS.md
+?? phase_7_8_10_updated_source_intake/sha256_manifest.txt
+?? "phase_7_8_10_updated_source_intake/\330\247\330\263\330\246\331\204\331\207 +\330\247\331\204\330\264\330\261\330\255 \330\250\330\247\331\204\330\271\330\261\330\250\331\212/FRCEM_High_Yield_Study_Book.txt"
+?? "phase_7_8_10_updated_source_intake/\330\247\330\263\330\246\331\204\331\207 +\330\247\331\204\330\264\330\261\330\255 \330\250\330\247\331\204\330\271\330\261\330\250\331\212/HIPPO_Questions_Answers_Brief_Arabic_Explanations_By_Chapter.txt"
+?? "phase_7_8_10_updated_source_intake/\330\247\330\263\330\246\331\204\331\207 +\330\247\331\204\330\264\330\261\330\255 \330\250\330\247\331\204\330\271\330\261\330\250\331\212/frcem All_Chapters_Questions_and_Explanations_Full.txt"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/1400q_Study_Guide_UTF8.txt"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/Emergency_Oxford_Essentials.pdf"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/FRCEM_High_Yield_Study_Book.txt"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/FRCEM_High_Yield_Study_Book_Colored.pdf"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/FRCEM_High_Yield_Study_Book_Editable.docx"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/HIPPO_High_Yield_Study_Book.txt"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/HIPPO_High_Yield_Study_Book_Colored.pdf"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/HIPPO_High_Yield_Study_Book_Editable.docx"
+?? "phase_7_8_10_updated_source_intake/\331\203\330\252\330\250 \330\271\331\204\330\247\330\241 \331\206\330\265 \330\257\330\261\330\247\330\263\331\212/pretestnew_Study_Guide_UTF8.txt"
+?? phase_7_8_10_updated_source_inventory_comparison.md
+?? phase_7_8_12_content_intelligence_raw.json
+?? phase_7_8_12_content_intelligence_raw.md
+?? phase_7_8_12_content_intelligence_stdout.json
+?? phase_7_8_6_evidence_findings.md
+?? phase_7_8_6_evidence_package/CONTENT_SOURCES.md
+?? phase_7_8_6_evidence_package/EM_MASTER_TEXTBOOK_ARABIC_COMPLETION.md
+?? phase_7_8_6_evidence_package/EM_MASTER_TEXTBOOK_BUILD.md
+?? phase_7_8_6_evidence_package/FINAL_MEDICAL_CONTENT_AUDIT.md
+?? phase_7_8_6_evidence_package/FINAL_SCOPE.md
+?? phase_7_8_6_evidence_package/PDF_VISUAL_MAPPING_SYSTEM.md
+?? phase_7_8_7_legacy_object_crosswalk.tsv
+?? phase_7_8_7_legacy_object_crosswalk_summary.md
+?? phase_7_8_9_candidate_files.txt
+?? phase_7_8_9_identity_evidence_hits.txt
+?? phase_7_8_9_identity_evidence_raw_analysis.md
+?? phase_7_8_9_legacy_file_inventory.txt
+?? phase_7_8_9_relationship_inventory.md
+?? phase_repo_status_snapshot.txt
+?? schemas/SEG_CONTENT_RECORD_V1_1/SEG_CONTENT_RECORD_V1_1.schema.json
+?? schemas/SEG_CONTENT_RECORD_V1_1/clinical_case.schema.json
+?? schemas/SEG_CONTENT_RECORD_V1_1/clinical_skill.schema.json
+?? schemas/SEG_CONTENT_RECORD_V1_1/reference_framework.schema.json
+?? schemas/SEG_CONTENT_RECORD_V1_1/validator/SEG_CONTENT_RECORD_V1_1_VALIDATOR.py
+?? scripts/capture_ui_patch1_cdp.mjs
+?? scripts/make_ui_patch1_contact_sheet.py
+?? scripts/make_ui_patch1_post_sheets.py
+?? scripts/summarize_ui_patch1_metrics.py
+?? seg_origin_evidence.txt
+?? seg_phase_7_7_6_input_parser.py
+?? seg_phase_7_7_6_provenance_audit.py
+?? validate_phase_7_7_6_reports.py
+?? validate_phase_7_8_5_reports.py
+?? validate_phase_7_8_6_evidence_reports.py
+?? validate_phase_7_8_6_reports.py
+?? validate_phase_7_8_7_reports.py
+?? validate_phase_7_8_artifacts.py
+?? validate_phase_7_8_review_report.py

@@ -1,0 +1,279 @@
+{
+  "generatedAt": "2026-09-09T00:07:29.386Z",
+  "summaryRecords": 45,
+  "matched": 0,
+  "unmatched": 45,
+  "matchedRecords": [],
+  "unmatchedRecords": [
+    {
+      "summaryId": "sample-shock",
+      "title": "Therapeutic Approach to the Hypotensive Patient",
+      "outlineId": null,
+      "file": "summary-batch-02.json"
+    },
+    {
+      "summaryId": "sample-anaphylaxis",
+      "title": "Anaphylaxis, Acute Allergic Reactions, and Angioedema",
+      "outlineId": null,
+      "file": "summary-batch-02.json"
+    },
+    {
+      "summaryId": "sample-pneumothorax",
+      "title": "Spontaneous and Iatrogenic Pneumothorax",
+      "outlineId": null,
+      "file": "summary-batch-02.json"
+    },
+    {
+      "summaryId": "sample-seizure",
+      "title": "Seizures and Status Epilepticus",
+      "outlineId": null,
+      "file": "summary-batch-02.json"
+    },
+    {
+      "summaryId": "sample-pediatric-resuscitation",
+      "title": "Resuscitation of Children and Neonates",
+      "outlineId": null,
+      "file": "summary-batch-02.json"
+    },
+    {
+      "summaryId": "sample-sepsis",
+      "title": "Sepsis and Septic Shock",
+      "outlineId": null,
+      "file": "summary-batch-03.json"
+    },
+    {
+      "summaryId": "sample-stroke",
+      "title": "Acute Stroke Assessment",
+      "outlineId": null,
+      "file": "summary-batch-03.json"
+    },
+    {
+      "summaryId": "sample-major-trauma",
+      "title": "Initial Evaluation of Major Trauma",
+      "outlineId": null,
+      "file": "summary-batch-03.json"
+    },
+    {
+      "summaryId": "sample-toxicology",
+      "title": "Approach to the Poisoned Patient",
+      "outlineId": null,
+      "file": "summary-batch-03.json"
+    },
+    {
+      "summaryId": "sample-abdominal-pain",
+      "title": "Acute Abdominal Pain",
+      "outlineId": null,
+      "file": "summary-batch-03.json"
+    },
+    {
+      "summaryId": "sample-gi-bleed",
+      "title": "Acute Gastrointestinal Bleeding",
+      "outlineId": null,
+      "file": "summary-batch-04.json"
+    },
+    {
+      "summaryId": "sample-asthma-copd",
+      "title": "Asthma and COPD Exacerbation",
+      "outlineId": null,
+      "file": "summary-batch-04.json"
+    },
+    {
+      "summaryId": "sample-aki",
+      "title": "Acute Kidney Injury and Electrolyte Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-04.json"
+    },
+    {
+      "summaryId": "sample-obstetric-emergency",
+      "title": "Emergency Care in Pregnancy",
+      "outlineId": null,
+      "file": "summary-batch-04.json"
+    },
+    {
+      "summaryId": "sample-agitation",
+      "title": "Behavioral Emergencies and Agitation",
+      "outlineId": null,
+      "file": "summary-batch-04.json"
+    },
+    {
+      "summaryId": "seg-peds-fever-sepsis",
+      "title": "Pediatric Fever and Sepsis",
+      "outlineId": null,
+      "file": "summary-batch-05.json"
+    },
+    {
+      "summaryId": "seg-acute-headache",
+      "title": "Acute Headache and Subarachnoid Hemorrhage",
+      "outlineId": null,
+      "file": "summary-batch-05.json"
+    },
+    {
+      "summaryId": "seg-burns",
+      "title": "Burns and Inhalation Injury",
+      "outlineId": null,
+      "file": "summary-batch-05.json"
+    },
+    {
+      "summaryId": "seg-environmental-emergencies",
+      "title": "Heat, Cold, and Environmental Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-05.json"
+    },
+    {
+      "summaryId": "seg-emergency-arrhythmias",
+      "title": "Emergency Arrhythmias",
+      "outlineId": null,
+      "file": "summary-batch-05.json"
+    },
+    {
+      "summaryId": "seg-acute-coronary-syndrome",
+      "title": "Acute Coronary Syndrome and STEMI",
+      "outlineId": null,
+      "file": "summary-batch-06.json"
+    },
+    {
+      "summaryId": "seg-acute-heart-failure",
+      "title": "Acute Heart Failure and Pulmonary Edema",
+      "outlineId": null,
+      "file": "summary-batch-06.json"
+    },
+    {
+      "summaryId": "seg-acute-stroke",
+      "title": "Acute Ischemic Stroke and Intracranial Hemorrhage",
+      "outlineId": null,
+      "file": "summary-batch-06.json"
+    },
+    {
+      "summaryId": "seg-diabetic-emergencies",
+      "title": "Diabetic Ketoacidosis and Hyperosmolar State",
+      "outlineId": null,
+      "file": "summary-batch-06.json"
+    },
+    {
+      "summaryId": "seg-acute-liver-failure",
+      "title": "Acute Liver Failure and Hepatic Encephalopathy",
+      "outlineId": null,
+      "file": "summary-batch-06.json"
+    },
+    {
+      "summaryId": "seg-pediatric-respiratory",
+      "title": "Pediatric Respiratory Distress",
+      "outlineId": null,
+      "file": "summary-batch-07.json"
+    },
+    {
+      "summaryId": "seg-poisoning-overdose",
+      "title": "Common Poisoning and Overdose Approach",
+      "outlineId": null,
+      "file": "summary-batch-07.json"
+    },
+    {
+      "summaryId": "seg-orthopedic-trauma",
+      "title": "Fractures, Dislocations, and Neurovascular Injury",
+      "outlineId": null,
+      "file": "summary-batch-07.json"
+    },
+    {
+      "summaryId": "seg-ophthalmic-emergencies",
+      "title": "Ophthalmic Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-07.json"
+    },
+    {
+      "summaryId": "seg-ent-emergencies",
+      "title": "ENT Emergencies and Deep Neck Infection",
+      "outlineId": null,
+      "file": "summary-batch-07.json"
+    },
+    {
+      "summaryId": "seg-neonatal-emergencies",
+      "title": "Neonatal Resuscitation and Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-08.json"
+    },
+    {
+      "summaryId": "seg-infectious-emergencies",
+      "title": "Serious Infections and Meningitis",
+      "outlineId": null,
+      "file": "summary-batch-08.json"
+    },
+    {
+      "summaryId": "seg-acute-pancreatitis",
+      "title": "Acute Pancreatitis",
+      "outlineId": null,
+      "file": "summary-batch-08.json"
+    },
+    {
+      "summaryId": "seg-acute-urinary",
+      "title": "Acute Urinary Retention and Renal Colic",
+      "outlineId": null,
+      "file": "summary-batch-08.json"
+    },
+    {
+      "summaryId": "seg-rheumatologic-emergencies",
+      "title": "Rheumatologic and Musculoskeletal Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-08.json"
+    },
+    {
+      "summaryId": "seg-acute-anemia-transfusion",
+      "title": "Acute Anemia and Transfusion Reactions",
+      "outlineId": null,
+      "file": "summary-batch-09.json"
+    },
+    {
+      "summaryId": "seg-thromboembolic-disease",
+      "title": "Pulmonary Embolism and Deep Vein Thrombosis",
+      "outlineId": null,
+      "file": "summary-batch-09.json"
+    },
+    {
+      "summaryId": "seg-aortic-emergencies",
+      "title": "Aortic Dissection and Aortic Syndromes",
+      "outlineId": null,
+      "file": "summary-batch-09.json"
+    },
+    {
+      "summaryId": "seg-electrical-injury",
+      "title": "Electrical Injury and Lightning",
+      "outlineId": null,
+      "file": "summary-batch-09.json"
+    },
+    {
+      "summaryId": "seg-drowning",
+      "title": "Drowning and Submersion Injury",
+      "outlineId": null,
+      "file": "summary-batch-09.json"
+    },
+    {
+      "summaryId": "seg-sickle-cell-crisis",
+      "title": "Sickle Cell Crisis",
+      "outlineId": null,
+      "file": "summary-batch-10.json"
+    },
+    {
+      "summaryId": "seg-neutropenic-fever",
+      "title": "Neutropenic Fever",
+      "outlineId": null,
+      "file": "summary-batch-10.json"
+    },
+    {
+      "summaryId": "seg-acute-dermatology",
+      "title": "Acute Dermatologic Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-10.json"
+    },
+    {
+      "summaryId": "seg-acute-gynecology",
+      "title": "Acute Gynecologic Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-10.json"
+    },
+    {
+      "summaryId": "seg-palliative-emergencies",
+      "title": "Palliative and End-of-Life Emergencies",
+      "outlineId": null,
+      "file": "summary-batch-10.json"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/mcq-metadata.schema.json",
+  "title": "SEG MCQ Metadata",
+  "description": "Links one question to its canonical topicId. Population of the full bank is Phase 4-E work; the contract is frozen here.",
+  "type": "object",
+  "required": ["questionId", "topicId", "source"],
+  "properties": {
+    "questionId": { "type": "string", "minLength": 1, "examples": ["Q_ACS_001"] },
+    "topicId": {
+      "type": "string",
+      "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$",
+      "description": "Must exist in medical-content/knowledge-graph/topic-registry.json",
+      "examples": ["EM_CARDIO_ACS"]
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Question origin bank, e.g. PEER, FRCEM, HIPPO, ROSEN, TINTINALLI"
+    },
+    "difficulty": { "enum": ["Easy", "Medium", "Hard"] },
+    "boardRelevance": { "enum": ["Very High", "High", "Medium", "Low"] },
+    "errorClassification": {
+      "type": ["string", "null"],
+      "enum": [
+        "Knowledge Gap",
+        "Concept Error",
+        "Management Decision Error",
+        "Diagnostic Reasoning Error",
+        "Question Interpretation Error",
+        null
+      ]
+    }
+  },
+  "additionalProperties": true
+}

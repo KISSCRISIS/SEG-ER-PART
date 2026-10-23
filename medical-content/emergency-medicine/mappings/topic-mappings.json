@@ -1,0 +1,645 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14T09:19:30.829Z",
+  "origin": "SEG Emergency Medicine Master Library (Parts 1-3)",
+  "mappings": [
+    {
+      "enhancementId": "cardiac-arrest",
+      "topic": "Cardiac Arrest",
+      "medicalSystem": "critical-care",
+      "linkCount": 1,
+      "links": [
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0167",
+          "title": "CARDIAC ARREST",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "shock-approach",
+      "topic": "Shock Approach",
+      "medicalSystem": "critical-care",
+      "linkCount": 6,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-019",
+          "title": "Cardiogenic Shock",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-088",
+          "title": "Toxic Shock Syndromes",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0174",
+          "title": "CARDIOGENIC SHOCK",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0381",
+          "title": "HEMORRHAGIC SHOCK",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0701",
+          "title": "SHOCK",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0777",
+          "title": "TOXIC SHOCK SYNDROME",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "sepsis-septic-shock",
+      "topic": "Sepsis / Septic Shock",
+      "medicalSystem": "infectious-disease",
+      "linkCount": 3,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-089",
+          "title": "Sepsis",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0527",
+          "title": "NEONATAL SEPSIS",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0697",
+          "title": "SEPSIS",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "acute-coronary-syndrome",
+      "topic": "Acute Coronary Syndrome",
+      "medicalSystem": "cardiovascular",
+      "linkCount": 9,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-018",
+          "title": "Acute Coronary Syndromes",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-020",
+          "title": "Low-Probability Acute Coronary Syndrome",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-026",
+          "title": "Systemic and Pulmonary Hypertension",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-181",
+          "title": "Emergencies in Systemic Rheumatic Diseases",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0060",
+          "title": "ACUTE CORONARY SYNDROME: ANGINA",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0063",
+          "title": "ACUTE CORONARY SYNDROME: CORONARY VASOSPASM",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0065",
+          "title": "ACUTE CORONARY SYNDROME: MYOCARDIAL INFARCTION",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-ch-017",
+          "title": "ACUTE CORONARY SYNDROME: NON–Q-WAVE (NON–ST-ELEVATION) MI",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0753",
+          "title": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "cardiac-tamponade",
+      "topic": "Cardiac Tamponade",
+      "medicalSystem": "cardiovascular",
+      "linkCount": 3,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-024",
+          "title": "The Cardiomyopathies, Myocarditis, and Pericardial Disease",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0571",
+          "title": "PERICARDIAL EFFUSION/TAMPONADE",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0572",
+          "title": "PERICARDITIS",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "acute-asthma",
+      "topic": "Acute Asthma Exacerbation",
+      "medicalSystem": "respiratory",
+      "linkCount": 3,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-034",
+          "title": "Asthma and Chronic Obstructive Pulmonary Disease",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0121",
+          "title": "ASTHMA, ADULT",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0122",
+          "title": "ASTHMA, PEDIATRIC",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "copd-exacerbation",
+      "topic": "COPD Exacerbation",
+      "medicalSystem": "respiratory",
+      "linkCount": 2,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-034",
+          "title": "Asthma and Chronic Obstructive Pulmonary Disease",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0209",
+          "title": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "pneumothorax",
+      "topic": "Pneumothorax / Tension Pneumothorax",
+      "medicalSystem": "respiratory",
+      "linkCount": 2,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-032",
+          "title": "Spontaneous and Iatrogenic Pneumothorax",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0605",
+          "title": "PNEUMOTHORAX",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "pulmonary-embolism",
+      "topic": "Pulmonary Embolism",
+      "medicalSystem": "respiratory",
+      "linkCount": 2,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-025",
+          "title": "Venous Thromboembolism",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0643",
+          "title": "PULMONARY EMBOLISM",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "primary-trauma-survey",
+      "topic": "Primary Trauma Survey (ABCDE)",
+      "medicalSystem": "trauma",
+      "linkCount": 14,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-156",
+          "title": "Trauma in Adults",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-157",
+          "title": "Trauma in Children",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-158",
+          "title": "Trauma in the Elderly",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-159",
+          "title": "Trauma in Pregnancy",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-166",
+          "title": "Penetrating Trauma to The Flank and Buttocks",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0039",
+          "title": "ABDOMINAL TRAUMA, BLUNT",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0041",
+          "title": "ABDOMINAL TRAUMA, IMAGING",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0043",
+          "title": "ABDOMINAL TRAUMA, PENETRATING",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0089",
+          "title": "AMPUTATION TRAUMATIC/REPLANTATION",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0107",
+          "title": "AORTIC RUPTURE, TRAUMATIC (TAI)",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0203",
+          "title": "CHEST TRAUMA, BLUNT",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0204",
+          "title": "CHEST TRAUMA, PENETRATING",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0364",
+          "title": "HEAD TRAUMA, BLUNT",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0519",
+          "title": "NECK TRAUMA, BLUNT, ANTERIOR",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "traumatic-brain-injury",
+      "topic": "Traumatic Brain Injury",
+      "medicalSystem": "trauma",
+      "linkCount": 6,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-160",
+          "title": "Head Trauma",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0295",
+          "title": "EPIDURAL ABSCESS",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0296",
+          "title": "EPIDURAL HEMATOMA",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0364",
+          "title": "HEAD TRAUMA, BLUNT",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0365",
+          "title": "HEAD TRAUMA, PENETRATING",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0737",
+          "title": "SUBDURAL HEMATOMA",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "acute-stroke",
+      "topic": "Acute Stroke",
+      "medicalSystem": "neurology",
+      "linkCount": 4,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-141",
+          "title": "Stroke Syndromes and Spontaneous Subarachnoid Hemorrhage",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0448",
+          "title": "INTRACEREBRAL HEMORRHAGE",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0736",
+          "title": "SUBARACHNOID HEMORRHAGE",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0783",
+          "title": "TRANSIENT ISCHEMIC ATTACK (TIA)",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "status-epilepticus",
+      "topic": "Status Epilepticus",
+      "medicalSystem": "neurology",
+      "linkCount": 5,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-076",
+          "title": "Seizures and Status Epilepticus in Children",
+          "kind": "chapter"
+        },
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-145",
+          "title": "Seizures and Status Epilepticus in Adults",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0693",
+          "title": "SEIZURE, ADULT",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0694",
+          "title": "SEIZURE, FEBRILE",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0695",
+          "title": "SEIZURE, PEDIATRIC",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "acute-abdominal-pain",
+      "topic": "Acute Abdominal Pain Approach",
+      "medicalSystem": "gastrointestinal",
+      "linkCount": 3,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-035",
+          "title": "Acute Abdominal Pain",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0036",
+          "title": "ABDOMINAL PAIN",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0726",
+          "title": "SPONTANEOUS BACTERIAL PERITONITIS",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "gi-bleeding",
+      "topic": "GI Bleeding",
+      "medicalSystem": "gastrointestinal",
+      "linkCount": 1,
+      "links": [
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0344",
+          "title": "GASTROINTESTINAL BLEEDING",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "dka-hhs",
+      "topic": "DKA / HHS",
+      "medicalSystem": "endocrinology",
+      "linkCount": 2,
+      "links": [
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0258",
+          "title": "DIABETIC KETOACIDOSIS",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0419",
+          "title": "HYPEROSMOLAR SYNDROME",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "hyperkalemia",
+      "topic": "Hyperkalemia",
+      "medicalSystem": "endocrinology",
+      "linkCount": 1,
+      "links": [
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0417",
+          "title": "HYPERKALEMIA",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "hypoglycemia",
+      "topic": "Hypoglycemia",
+      "medicalSystem": "endocrinology",
+      "linkCount": 3,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-079",
+          "title": "Hypoglycemia and Metabolic Emergencies in Infants and Children",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0431",
+          "title": "HYPOGLYCEMIA",
+          "kind": "topic"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0432",
+          "title": "HYPOGLYCEMIC AGENT POISONING",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "opioid-overdose",
+      "topic": "Opioid Overdose",
+      "medicalSystem": "toxicology",
+      "linkCount": 1,
+      "links": [
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0536",
+          "title": "OPIATE POISONING",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "anaphylaxis",
+      "topic": "Anaphylaxis",
+      "medicalSystem": "critical-care",
+      "linkCount": 2,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-006",
+          "title": "Anaphylaxis, Acute Allergic Reactions, and Angioedema",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0093",
+          "title": "ANAPHYLAXIS",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "ectopic-pregnancy",
+      "topic": "Ectopic Pregnancy",
+      "medicalSystem": "obstetrics-gynecology",
+      "linkCount": 2,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-059",
+          "title": "Ectopic Pregnancy and Emergencies",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0283",
+          "title": "ECTOPIC PREGNANCY",
+          "kind": "topic"
+        }
+      ]
+    },
+    {
+      "enhancementId": "pediatric-fever",
+      "topic": "Pediatric Fever Approach",
+      "medicalSystem": "pediatrics",
+      "linkCount": 2,
+      "links": [
+        {
+          "book": "tintinalli",
+          "unitId": "tintinalli-manual-8e-ch-066",
+          "title": "Fever and Serious Bacterial Illness in Children",
+          "kind": "chapter"
+        },
+        {
+          "book": "rosen",
+          "unitId": "rosen-5min-topic-0323",
+          "title": "FEVER, PEDIATRIC",
+          "kind": "topic"
+        }
+      ]
+    }
+  ]
+}

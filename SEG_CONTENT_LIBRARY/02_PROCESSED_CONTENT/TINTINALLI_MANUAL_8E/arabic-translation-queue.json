@@ -1,0 +1,11 @@
+{
+  "source": "tintinalli-manual-8e",
+  "status": "queued",
+  "policy": "Translate only the extracted English summary; do not add clinical recommendations or doses.",
+  "batchSize": 10,
+  "completedBatches": [],
+  "nextBatch": [11,12,13,14,15,16,17,18,19,20],
+  "queuedBatches": [[1,2,3,4,5,6,7,8,9,10],[11,12,13,14,15,16,17,18,19,20]],
+  "reviewStatus": "UNDER_REVIEW",
+  "note": "Translation requires an approved translation service or editorial pass before publication."
+}

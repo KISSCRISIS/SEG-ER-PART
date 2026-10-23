@@ -1,0 +1,117 @@
+{
+  "id": "rosh-rotation-2019",
+  "title": "Emergency Medicine Rotation Exam - Rapid Review",
+  "publisher": "Rosh Review",
+  "edition": 1,
+  "year": 2019,
+  "pages": 555,
+  "sha256": "cef8bf211d1b77bf1bc4a4dc1e7ceeea8630a789d6f7aa2edea2d65a3da4a56c",
+  "source": "D:\\study\\Copy of Emergency-Medicine-FULL.pdf",
+  "status": "under-review",
+  "ownerApproval": "approved-for-private-pilot-use",
+  "usageScope": "private-pilot",
+  "jordanBoardApproval": "not-verified",
+  "role": "supplementary-review",
+  "chapters": [
+    {
+      "id": "rosh-2019-ch-01",
+      "title": "Cardiovascular System",
+      "printedStart": 1,
+      "printedEnd": 65,
+      "pdfStart": 11,
+      "pdfEnd": 75
+    },
+    {
+      "id": "rosh-2019-ch-02",
+      "title": "Orthopedics/Rheumatology",
+      "printedStart": 66,
+      "printedEnd": 125,
+      "pdfStart": 76,
+      "pdfEnd": 135
+    },
+    {
+      "id": "rosh-2019-ch-03",
+      "title": "Gastrointestinal/Nutritional",
+      "printedStart": 126,
+      "printedEnd": 186,
+      "pdfStart": 136,
+      "pdfEnd": 196
+    },
+    {
+      "id": "rosh-2019-ch-04",
+      "title": "Pulmonology",
+      "printedStart": 187,
+      "printedEnd": 224,
+      "pdfStart": 197,
+      "pdfEnd": 234
+    },
+    {
+      "id": "rosh-2019-ch-05",
+      "title": "Neurology",
+      "printedStart": 225,
+      "printedEnd": 293,
+      "pdfStart": 235,
+      "pdfEnd": 303
+    },
+    {
+      "id": "rosh-2019-ch-06",
+      "title": "ENOT/Ophthalmology",
+      "printedStart": 294,
+      "printedEnd": 342,
+      "pdfStart": 304,
+      "pdfEnd": 352
+    },
+    {
+      "id": "rosh-2019-ch-07",
+      "title": "Urology/Renal",
+      "printedStart": 343,
+      "printedEnd": 381,
+      "pdfStart": 353,
+      "pdfEnd": 391
+    },
+    {
+      "id": "rosh-2019-ch-08",
+      "title": "Dermatology",
+      "printedStart": 382,
+      "printedEnd": 411,
+      "pdfStart": 392,
+      "pdfEnd": 421
+    },
+    {
+      "id": "rosh-2019-ch-09",
+      "title": "Endocrinology",
+      "printedStart": 412,
+      "printedEnd": 440,
+      "pdfStart": 422,
+      "pdfEnd": 450
+    },
+    {
+      "id": "rosh-2019-ch-10",
+      "title": "Obstetrics/Gynecology",
+      "printedStart": 441,
+      "printedEnd": 475,
+      "pdfStart": 451,
+      "pdfEnd": 485
+    },
+    {
+      "id": "rosh-2019-ch-11",
+      "title": "Psychiatry/Behavioral Medicine",
+      "printedStart": 476,
+      "printedEnd": 502,
+      "pdfStart": 486,
+      "pdfEnd": 512
+    },
+    {
+      "id": "rosh-2019-ch-12",
+      "title": "Hematology",
+      "printedStart": 503,
+      "printedEnd": 545,
+      "pdfStart": 513,
+      "pdfEnd": 555
+    }
+  ],
+  "lowTextPages": [
+    9
+  ],
+  "extractionNote": "Raw text preserves page references; layout, duplicated lettering, figures and clinical accuracy require review."
+}

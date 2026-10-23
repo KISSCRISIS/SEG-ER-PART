@@ -1,0 +1,1010 @@
+[
+  {
+    "referenceId": "rosen_c2_t1",
+    "source": "Rosen",
+    "chapterNumber": "2",
+    "chapterTitle": "Airway and Resuscitation",
+    "topic": "Lung-Protective Ventilation in the ED",
+    "trap": "Assuming lung-protective strategies are only for ICU patients with existing ARDS; initiation in the ED is critical."
+  },
+  {
+    "referenceId": "rosen_c2_t2",
+    "source": "Rosen",
+    "chapterNumber": "2",
+    "chapterTitle": "Airway and Resuscitation",
+    "topic": "Sepsis-3 Definitions",
+    "trap": "Relying solely on SIRS criteria for defining sepsis according to the new Sepsis-3 standards."
+  },
+  {
+    "referenceId": "rosen_c3_t1",
+    "source": "Rosen",
+    "chapterNumber": "3",
+    "chapterTitle": "Shock",
+    "topic": "Cardiogenic Shock and Fluids",
+    "trap": "Avoid fluid challenges in hypotension if rales and pulmonary edema are present on examination."
+  },
+  {
+    "referenceId": "rosen_c3_t2",
+    "source": "Rosen",
+    "chapterNumber": "3",
+    "chapterTitle": "Shock",
+    "topic": "Balanced Crystalloids vs. Normal Saline",
+    "trap": "Avoid Normal Saline for massive resuscitation due to the risk of renal injury from high chloride load."
+  },
+  {
+    "referenceId": "rosen_c4_t1",
+    "source": "Rosen",
+    "chapterNumber": "4",
+    "chapterTitle": "Cardiac Arrest",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis",
+    "trap": "Avoid pre-hospital infusion of cold saline for induction of cooling as it increases the risk of pulmonary edema and rearrest."
+  },
+  {
+    "referenceId": "rosen_c4_t1",
+    "source": "Rosen",
+    "chapterNumber": "4",
+    "chapterTitle": "Cardiac Arrest",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis",
+    "trap": "Do not withdraw care early based on a poor neuro exam in the first 24-48 hours."
+  },
+  {
+    "referenceId": "rosen_c6_t1",
+    "source": "Rosen",
+    "chapterNumber": "6",
+    "chapterTitle": "Pain Management",
+    "topic": "Pain Transmission and Assessment",
+    "trap": "Assuming a patient isn't in pain because their heart rate and blood pressure are normal (non-verbal signs are unreliable)."
+  },
+  {
+    "referenceId": "rosen_c7_t1",
+    "source": "Rosen",
+    "chapterNumber": "7",
+    "chapterTitle": "Procedural Sedation and Analgesia",
+    "topic": "Ketamine Complications and Contraindications",
+    "trap": "Giving ketamine to a patient with a known open globe injury could extrude intraocular contents due to increased pressure."
+  },
+  {
+    "referenceId": "rosen_c9_t1",
+    "source": "Rosen",
+    "chapterNumber": "9",
+    "chapterTitle": "Neuromuscular Weakness",
+    "topic": "Botulism Pathophysiology",
+    "trap": "Confusing botulism with Myasthenia Gravis; Myasthenia involves nicotinic receptors and lacks the autonomic findings (dry mouth/bladder issues) seen in botulism."
+  },
+  {
+    "referenceId": "rosen_c10_t1",
+    "source": "Rosen",
+    "chapterNumber": "10",
+    "chapterTitle": "Dysfunctional Hemoglobins",
+    "topic": "Methemoglobinemia Clinical Presentation",
+    "trap": "Pulse oximetry often reads ~85% due to the light absorption spectrum of methemoglobin, regardless of true PaO2."
+  },
+  {
+    "referenceId": "rosen_c14_t1",
+    "source": "Rosen",
+    "chapterNumber": "14",
+    "chapterTitle": "Seizures",
+    "topic": "Eclamptic Seizures Management",
+    "trap": "Administering Phenytoin or Benzodiazepines as first-line for eclampsia instead of Magnesium."
+  },
+  {
+    "referenceId": "rosen_c22_t1",
+    "source": "Rosen",
+    "chapterNumber": "22",
+    "chapterTitle": "Chest Pain",
+    "topic": "Tension Pneumothorax and Ventilation",
+    "trap": "Waiting for an X-ray to confirm a tension pneumothorax in an unstable/hypotensive patient."
+  },
+  {
+    "referenceId": "rosen_c25_t1",
+    "source": "Rosen",
+    "chapterNumber": "25",
+    "chapterTitle": "Nausea and Vomiting",
+    "topic": "Gastric Outlet Obstruction",
+    "trap": "Mistaking GOO for simple gastroenteritis if the 'time since last meal' history isn't obtained."
+  },
+  {
+    "referenceId": "rosen_c28_t1",
+    "source": "Rosen",
+    "chapterNumber": "28",
+    "chapterTitle": "Constipation and Diarrhea",
+    "topic": "Fecal Impaction and Diarrhea",
+    "trap": "Dismissing impaction in an elderly patient complaining of watery diarrhea without a rectal exam."
+  },
+  {
+    "referenceId": "rosen_c30_t1",
+    "source": "Rosen",
+    "chapterNumber": "30",
+    "chapterTitle": "Vaginal Bleeding",
+    "topic": "Initial Evaluation of Vaginal Bleeding",
+    "trap": "Starting structural workup (US) or hormonal therapy before confirming pregnancy status with a test."
+  },
+  {
+    "referenceId": "rosen_c32_t1",
+    "source": "Rosen",
+    "chapterNumber": "32",
+    "chapterTitle": "Trauma: Overview",
+    "topic": "Pediatric Trauma Anatomy and Physiology",
+    "trap": "Assuming stable blood pressure in a child means they are not in shock; tachycardia is the more reliable early sign."
+  },
+  {
+    "referenceId": "rosen_c32_t2",
+    "source": "Rosen",
+    "chapterNumber": "32",
+    "chapterTitle": "Trauma: Overview",
+    "topic": "Primary Survey Priorities",
+    "trap": "Obtaining an AMPLE history is part of the secondary survey, NOT the primary survey."
+  },
+  {
+    "referenceId": "rosen_c34_t1",
+    "source": "Rosen",
+    "chapterNumber": "34",
+    "chapterTitle": "Facial Trauma",
+    "topic": "Septal Hematoma",
+    "trap": "Dismissing simple nasal trauma without internal inspection; the hematoma is often hidden behind the columella."
+  },
+  {
+    "referenceId": "rosen_c36_t1",
+    "source": "Rosen",
+    "chapterNumber": "36",
+    "chapterTitle": "Neck Trauma",
+    "topic": "Penetrating Neck Trauma (No-Zone Approach)",
+    "trap": "Relying on the anatomical zone of injury to determine the need for surgery instead of clinical 'hard signs'."
+  },
+  {
+    "referenceId": "rosen_c37_t1",
+    "source": "Rosen",
+    "chapterNumber": "37",
+    "chapterTitle": "Thoracic Trauma",
+    "topic": "Tension Pneumothorax in Intubated Patients",
+    "trap": "Waiting for an X-ray to confirm tension pneumothorax in a hypotensive patient; it is a clinical diagnosis."
+  },
+  {
+    "referenceId": "rosen_c38_t1",
+    "source": "Rosen",
+    "chapterNumber": "38",
+    "chapterTitle": "Abdominal Trauma",
+    "topic": "Unstable Pelvic Fracture and FAST",
+    "trap": "Sending an unstable patient with a positive FAST to IR instead of the OR for laparotomy."
+  },
+  {
+    "referenceId": "rosen_c46_t1",
+    "source": "Rosen",
+    "chapterNumber": "46",
+    "chapterTitle": "Urogenital Trauma",
+    "topic": "Urethral Injury Evaluation",
+    "trap": "Blindly inserting a Foley catheter when blood at the meatus is present, which can convert a partial tear to a full transection."
+  },
+  {
+    "referenceId": "rosen_c51_t1",
+    "source": "Rosen",
+    "chapterNumber": "51",
+    "chapterTitle": "Eye Trauma",
+    "topic": "Seidel Test and Open Globe",
+    "trap": "Performing Tonometry (checking IOP) when an open globe is suspected; this can extrude eye contents."
+  },
+  {
+    "referenceId": "rosen_c56_t1",
+    "source": "Rosen",
+    "chapterNumber": "56",
+    "chapterTitle": "Dental Emergencies",
+    "topic": "Alveolar Osteitis (Dry Socket)",
+    "trap": "Treating dry socket with oral antibiotics; it is a localized inflammatory process, not typically an infection."
+  },
+  {
+    "referenceId": "rosen_c59_t1",
+    "source": "Rosen",
+    "chapterNumber": "59",
+    "chapterTitle": "Asthma",
+    "topic": "Risk Factors for Asthma-Related Death",
+    "trap": "Underestimating the risk in a patient who has not been hospitalized recently but has a history of prior intubation."
+  },
+  {
+    "referenceId": "rosen_c64_t1",
+    "source": "Rosen",
+    "chapterNumber": "64",
+    "chapterTitle": "ACS and MI",
+    "topic": "Angiography After Cardiac Arrest (ROSC)",
+    "trap": "Delaying the cath lab for a ROSC-STEMI patient because they are comatose; revascularization is still the priority."
+  },
+  {
+    "referenceId": "rosen_c71_t1",
+    "source": "Rosen",
+    "chapterNumber": "71",
+    "chapterTitle": "Acute Aortic Syndrome",
+    "topic": "Medical Management of Aortic Dissection",
+    "trap": "Using vasodilators like Nitroprusside alone, which can cause reflex tachycardia and increase shear stress on the dissection flap."
+  },
+  {
+    "referenceId": "rosen_c75_t1",
+    "source": "Rosen",
+    "chapterNumber": "75",
+    "chapterTitle": "Esophagus",
+    "topic": "Esophageal Perforation Imaging",
+    "trap": "Starting with Barium in an unstable or high-suspicion patient; if it leaks into the mediastinum, it causes an intense inflammatory response."
+  },
+  {
+    "referenceId": "rosen_c77_t1",
+    "source": "Rosen",
+    "chapterNumber": "77",
+    "chapterTitle": "Small Bowel",
+    "topic": "Small Bowel Obstruction (SBO)",
+    "trap": "Dismissing SBO in a patient without prior surgery; remember to check for incarcerated hernias, which are the second most common cause."
+  },
+  {
+    "referenceId": "rosen_c78_t1",
+    "source": "Rosen",
+    "chapterNumber": "78",
+    "chapterTitle": "Acute Mesenteric Ischemia",
+    "topic": "Diagnosis of Mesenteric Ischemia",
+    "trap": "Waiting for an elevated lactate or peritoneal signs to order a CTA; by that time, the bowel may already be necrotic."
+  },
+  {
+    "referenceId": "rosen_c86_t1",
+    "source": "Rosen",
+    "chapterNumber": "86",
+    "chapterTitle": "Gynecology",
+    "topic": "Ovarian Torsion",
+    "trap": "Ruling out torsion because a sonographer reports 'normal Doppler flow' in a patient with classic symptoms."
+  },
+  {
+    "referenceId": "rosen_c91_t1",
+    "source": "Rosen",
+    "chapterNumber": "91",
+    "chapterTitle": "Central Nervous System Disorders",
+    "topic": "Multiple Sclerosis and Optic Neuritis",
+    "trap": "Do not mistake MS for a simple migraine even if the patient has a history of them; the focal deficits and eye pain are red flags."
+  },
+  {
+    "referenceId": "rosen_c93_t1",
+    "source": "Rosen",
+    "chapterNumber": "93",
+    "chapterTitle": "Peripheral Nerve Disorders",
+    "topic": "Peripheral Neuropathy Patterns",
+    "trap": "Assuming all symmetrical neuropathies are Guillain-Barré; check for the 'stocking-glove' distribution of chronic metabolic causes."
+  },
+  {
+    "referenceId": "rosen_c94_t1",
+    "source": "Rosen",
+    "chapterNumber": "94",
+    "chapterTitle": "Neuromuscular Disorders",
+    "topic": "Dermatomyositis",
+    "trap": "Do not expect fasciculations; these are seen in motor neuron disease (ALS), not inflammatory myopathies like dermatomyositis."
+  },
+  {
+    "referenceId": "rosen_c102_t1",
+    "source": "Rosen",
+    "chapterNumber": "102",
+    "chapterTitle": "Joint Disorders",
+    "topic": "Septic Arthritis vs. Gout",
+    "trap": "Ruling out infection because you saw crystals under the microscope; joint fluid MUST be sent for culture if suspicion is high."
+  },
+  {
+    "referenceId": "rosen_c105_t1",
+    "source": "Rosen",
+    "chapterNumber": "105",
+    "chapterTitle": "Allergy and Anaphylaxis",
+    "topic": "ACE-Inhibitor Induced Angioedema",
+    "trap": "Wasting time with 'Anaphylaxis' meds (Epinephrine, Solu-Medrol) while the airway closes; proceed directly to intubation if stridor is present."
+  },
+  {
+    "referenceId": "rosen_c107_t1",
+    "source": "Rosen",
+    "chapterNumber": "107",
+    "chapterTitle": "Blood Transfusion",
+    "topic": "Massive Transfusion Protocol (MTP) Ratios",
+    "trap": "Using Type O blood as the universal donor for FFP; Type O is for RBCs, AB is for Plasma."
+  },
+  {
+    "referenceId": "rosen_c108_t1",
+    "source": "Rosen",
+    "chapterNumber": "108",
+    "chapterTitle": "Anemia and Hypocoagulable States",
+    "topic": "Warfarin Reversal in Life-Threatening Bleed",
+    "trap": "Giving Vitamin K alone; it takes 6-12 hours to work and will not help a patient actively bleeding into their brain."
+  },
+  {
+    "referenceId": "rosen_c112_t1",
+    "source": "Rosen",
+    "chapterNumber": "112",
+    "chapterTitle": "Oncologic Emergencies",
+    "topic": "Febrile Neutropenia Management",
+    "trap": "Waiting for an ANC result before starting antibiotics in a septic cancer patient; treat empirically if neutropenia is suspected."
+  },
+  {
+    "referenceId": "rosen_c113_t1",
+    "source": "Rosen",
+    "chapterNumber": "113",
+    "chapterTitle": "Acid-Base Disorders",
+    "topic": "Priority in Metabolic Acidosis",
+    "trap": "Over-correcting pH with bicarbonate in DKA; this increases the risk of cerebral edema, especially in children."
+  },
+  {
+    "referenceId": "rosen_c117_t1",
+    "source": "Rosen",
+    "chapterNumber": "117",
+    "chapterTitle": "Endocrine Disorders",
+    "topic": "Thyrotoxicosis and Thyroid Storm",
+    "trap": "Administering Iodine BEFORE blocking thyroid hormone synthesis with PTU/Methimazole; this can worsen the storm."
+  },
+  {
+    "referenceId": "rosen_c118_t1",
+    "source": "Rosen",
+    "chapterNumber": "118",
+    "chapterTitle": "Infectious Disease",
+    "topic": "Diphtheria Presentation",
+    "trap": "Dismissing it as a simple viral sore throat; look for the grayish coat that bleeds when scraped."
+  },
+  {
+    "referenceId": "rosen_c121_t1",
+    "source": "Rosen",
+    "chapterNumber": "121",
+    "chapterTitle": "Foreign Bodies",
+    "topic": "Esophageal Food Bolus Impaction",
+    "trap": "Using meat tenderizer (papain) which can digest the esophageal wall along with the food bolus."
+  },
+  {
+    "referenceId": "rosen_c122_t1",
+    "source": "Rosen",
+    "chapterNumber": "122",
+    "chapterTitle": "Envenomations",
+    "topic": "Scorpion and Snake Bite Observation",
+    "trap": "Discharging a child early after a scorpion sting; neurotoxicity can have a delayed onset."
+  },
+  {
+    "referenceId": "rosen_c128_t1",
+    "source": "Rosen",
+    "chapterNumber": "128",
+    "chapterTitle": "Hypothermia and Frostbite",
+    "topic": "Termination of Resuscitation in Hypothermia",
+    "trap": "Stopping resuscitation because the patient 'looks dead' and is cold; they must be 'warm and dead' unless specific TOR criteria are met."
+  },
+  {
+    "referenceId": "rosen_c136_t1",
+    "source": "Rosen",
+    "chapterNumber": "136",
+    "chapterTitle": "Toxic Alcohols",
+    "topic": "Isopropyl Alcohol Metabolism",
+    "trap": "Assuming ketosis always implies DKA or alcoholic ketoacidosis; check the anion gap and pH."
+  },
+  {
+    "referenceId": "rosen_c138_t1",
+    "source": "Rosen",
+    "chapterNumber": "138",
+    "chapterTitle": "Acetaminophen",
+    "topic": "King's College Criteria for Liver Transplant",
+    "trap": "Attempting to use the nomogram for a patient who took APAP over 3 days for a toothache."
+  },
+  {
+    "referenceId": "rosen_c142_t1",
+    "source": "Rosen",
+    "chapterNumber": "142",
+    "chapterTitle": "Cardiovascular Drugs",
+    "topic": "Chronic Digoxin Toxicity",
+    "trap": "Acute overdose causes HYPERkalemia, while chronic toxicity is often associated with HYPOkalemia."
+  },
+  {
+    "referenceId": "rosen_c155_t1",
+    "source": "Rosen",
+    "chapterNumber": "155",
+    "chapterTitle": "Pediatric Resuscitation",
+    "topic": "Compensated Shock in Children",
+    "trap": "Mistaking respiratory distress (lung issue) for respiratory compensation (shock issue)."
+  },
+  {
+    "referenceId": "rosen_c156_t1",
+    "source": "Rosen",
+    "chapterNumber": "156",
+    "chapterTitle": "Pediatric Airway",
+    "topic": "Endotracheal Tube Depth Formula",
+    "trap": "Using the 'Age + 16' formula for depth; the 3x rule is simpler and standard for board exams."
+  },
+  {
+    "referenceId": "rosen_c173_t1",
+    "source": "Rosen",
+    "chapterNumber": "173",
+    "chapterTitle": "Obstetrics",
+    "topic": "$\beta$-hCG Discriminatory Zone",
+    "trap": "Using the traditional 1500–2000 threshold to rule out IUP, which risks giving Methotrexate to a viable early pregnancy."
+  },
+  {
+    "referenceId": "rosen_c177_t1",
+    "source": "Rosen",
+    "chapterNumber": "177",
+    "chapterTitle": "Trauma in Pregnancy",
+    "topic": "Resuscitative Hysterotomy",
+    "trap": "Transferring to the OR for the procedure; it MUST be performed in the ED to be effective."
+  },
+  {
+    "referenceId": "rosen_ce15_t1",
+    "source": "Rosen",
+    "chapterNumber": "E15",
+    "chapterTitle": "Radiation Emergencies",
+    "topic": "Radiation Triage Priority",
+    "trap": "Delaying the cardiac cath lab for a STEMI patient because they triggered a radiation meter."
+  },
+  {
+    "referenceId": "rosen_c17_t1",
+    "source": "Rosen",
+    "chapterNumber": "17",
+    "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+    "topic": "Retinal Detachment POCUS",
+    "trap": "Do not confuse with vitreous hemorrhage; hemorrhage appears as scattered white echoes/swirling smoke rather than a distinct tethered line."
+  },
+  {
+    "referenceId": "rosen_c38_t2",
+    "source": "Rosen",
+    "chapterNumber": "38",
+    "chapterTitle": "Abdominal Trauma",
+    "topic": "Management Algorithm for Unstable Pelvic Fractures",
+    "trap": "Sending a hypotensive patient with a positive FAST to IR instead of the OR; a positive FAST implies intraperitoneal hemorrhage requiring surgery."
+  },
+  {
+    "referenceId": "rosen_c95_t1",
+    "source": "Rosen",
+    "chapterNumber": "95",
+    "chapterTitle": "Renal and Genitourinary Disorders",
+    "topic": "Complications of Ureteral Stenting",
+    "trap": "Dismissing microhematuria after stent placement as the cause of severe anemia; microhematuria is common, but significant Hgb drops require imaging for hematoma."
+  },
+  {
+    "referenceId": "rosen_c155_t2",
+    "source": "Rosen",
+    "chapterNumber": "155",
+    "chapterTitle": "Pediatric Resuscitation",
+    "topic": "Fever in Well-Appearing Infants Criteria",
+    "trap": "Rochester criteria excludes lumbar puncture, meaning the number of missed meningitis cases may be unknown compared to Philadelphia."
+  },
+  {
+    "referenceId": "rosen_c177_t2",
+    "source": "Rosen",
+    "chapterNumber": "177",
+    "chapterTitle": "Trauma in Pregnancy",
+    "topic": "Pregnancy-Adapted YEARS Algorithm",
+    "trap": "Applying standard D-dimer cutoffs (500) to all pregnant patients without using clinical items, which leads to over-imaging."
+  },
+  {
+    "referenceId": "tint_c1_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "1",
+    "chapterTitle": "Prehospital Care and Disaster Management",
+    "topic": "EMTALA and Interfacility Transfer",
+    "trap": "Liability does NOT transfer to the receiving physician immediately upon acceptance of the patient transfer call."
+  },
+  {
+    "referenceId": "tint_c1_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "1",
+    "chapterTitle": "Prehospital Care and Disaster Management",
+    "topic": "Blast Injury Pathophysiology",
+    "trap": "Don't assume a normal-appearing eardrum rules out serious internal lung or bowel blast injury."
+  },
+  {
+    "referenceId": "tint_c5_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "5",
+    "chapterTitle": "Cardiovascular Disorders",
+    "topic": "TIMI Risk Score",
+    "trap": "Patient 'History' is NOT a component of the TIMI score, whereas it IS a component of the HEART score."
+  },
+  {
+    "referenceId": "tint_c6_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "6",
+    "chapterTitle": "Thoracic-Respiratory Disorders",
+    "topic": "Klebsiella Pneumonia",
+    "trap": "Do not confuse with simple Strep pneumonia; the presence of an abscess or bulging fissure in an alcoholic patient strongly points to Klebsiella."
+  },
+  {
+    "referenceId": "tint_c10_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "10",
+    "chapterTitle": "Pediatrics",
+    "topic": "Pediatric Airway Sizing",
+    "trap": "Uncuffed tubes are traditional, but modern guidelines (AHA/AAP) support cuffed tubes to prevent leak and improve ventilation accuracy."
+  },
+  {
+    "referenceId": "tint_c10_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "10",
+    "chapterTitle": "Pediatrics",
+    "topic": "Pediatric Head Trauma Rules (PECARN)",
+    "trap": "Frontal hematomas in children <2 years are NOT high-risk; it is the non-frontal (parietal/occipital) ones that mandate concern."
+  },
+  {
+    "referenceId": "tint_c11_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "11",
+    "chapterTitle": "Systemic Infectious Disorders",
+    "topic": "Disseminated Gonococcal Infection (DGI)",
+    "trap": "Don't confuse DGI skin lesions with simple cellulitis; look for the acral distribution and the patient's sexual history."
+  },
+  {
+    "referenceId": "tint_c11_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "11",
+    "chapterTitle": "Systemic Infectious Disorders",
+    "topic": "Toxic Shock Syndrome (TSS)",
+    "trap": "Staph TSS rash is typically PAINLESS; if the rash/area is severely painful, think Strep TSS/Necrotizing Fasciitis."
+  },
+  {
+    "referenceId": "tint_c11_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "11",
+    "chapterTitle": "Systemic Infectious Disorders",
+    "topic": "Tetanus Management",
+    "trap": "Never debride a suspected tetanus wound before giving TIG; manipulation can trigger a massive release of toxin."
+  },
+  {
+    "referenceId": "tint_c12_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "12",
+    "chapterTitle": "Nervous System Disorders",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+    "trap": "If left untreated, the most serious sequela is permanent vision loss, not stroke or migraine."
+  },
+  {
+    "referenceId": "tint_c12_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "12",
+    "chapterTitle": "Nervous System Disorders",
+    "topic": "Status Epilepticus",
+    "trap": "Do NOT wait for 30 minutes to define status; current standard is 5 minutes for starting aggressive treatment."
+  },
+  {
+    "referenceId": "tint_c13_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "13",
+    "chapterTitle": "Toxicologic Disorders",
+    "topic": "Caustic Ingestions (Acid vs Alkali)",
+    "trap": "NEVER neutralize a caustic with water or weak acid/base; the exothermic reaction causes severe thermal burns."
+  },
+  {
+    "referenceId": "tint_c13_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "13",
+    "chapterTitle": "Toxicologic Disorders",
+    "topic": "Methemoglobinemia",
+    "trap": "Supplemental oxygen is ineffective because the hemoglobin cannot release oxygen to the tissues."
+  },
+  {
+    "referenceId": "tint_c14_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "14",
+    "chapterTitle": "Environmental Injuries",
+    "topic": "Frostbite Management",
+    "trap": "Do NOT debride frostbite in the ED; you may remove tissue that could eventually survive."
+  },
+  {
+    "referenceId": "tint_c14_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "14",
+    "chapterTitle": "Environmental Injuries",
+    "topic": "Carbon Monoxide (CO) Poisoning",
+    "trap": "Standard pulse oximetry cannot distinguish between oxyhemoglobin and carboxyhemoglobin; it will be falsely normal."
+  },
+  {
+    "referenceId": "tint_c15_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "15",
+    "chapterTitle": "Endocrine, Metabolic, and Nutritional Disorders",
+    "topic": "Diabetic Ketoacidosis (DKA) Management",
+    "trap": "Never start insulin if potassium is <3.3 mEq/L; replace potassium first."
+  },
+  {
+    "referenceId": "tint_c15_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "15",
+    "chapterTitle": "Endocrine, Metabolic, and Nutritional Disorders",
+    "topic": "Adrenal Crisis",
+    "trap": "Do NOT wait for a cosyntropin stimulation test in a crashing patient; treat empirically with steroids if suspected."
+  },
+  {
+    "referenceId": "tint_c16_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "16",
+    "chapterTitle": "Hematologic Disorders",
+    "topic": "Immune Thrombocytopenic Purpura (ITP)",
+    "trap": "Avoid NSAIDs and aspirin as they further impair platelet function in an already thrombocytopenic patient."
+  },
+  {
+    "referenceId": "tint_c17_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "17",
+    "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+    "topic": "Retinal Detachment",
+    "trap": "Do NOT confuse with vitreous hemorrhage; the retina is a more distinct, tethered membrane on US."
+  },
+  {
+    "referenceId": "tint_c17_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "17",
+    "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+    "topic": "Tracheoinnominate Artery Fistula",
+    "trap": "The 'sentinel bleed' is often dismissed as minor suction trauma; always suspect a fistula in an ED patient with any trach bleed."
+  },
+  {
+    "referenceId": "tint_c18_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "18",
+    "chapterTitle": "Dermatology",
+    "topic": "Erythema Multiforme (EM) and SJS/TEN",
+    "trap": "Nikolsky sign (skin peeling with lateral pressure) is POSITIVE in SJS/TEN but negative in bullous pemphigoid."
+  },
+  {
+    "referenceId": "tint_c19_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "19",
+    "chapterTitle": "Traumatic Disorders",
+    "topic": "Pregnancy in Trauma",
+    "trap": "A negative ultrasound does NOT rule out placental abruption; diagnosis is clinical and monitored via cardiotocography."
+  },
+  {
+    "referenceId": "tint_c19_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "19",
+    "chapterTitle": "Traumatic Disorders",
+    "topic": "NEXUS Rules for Chest Imaging",
+    "trap": "NEXUS rules for chest CANNOT be applied if the patient is over 60 years old."
+  },
+  {
+    "referenceId": "tint_c20_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "20",
+    "chapterTitle": "Injuries to Bones and Joints",
+    "topic": "Ottawa Knee Rules",
+    "trap": "Do NOT apply rules to non-traumatic knee pain or chronic injuries."
+  },
+  {
+    "referenceId": "tint_c20_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "20",
+    "chapterTitle": "Injuries to Bones and Joints",
+    "topic": "Compartment Syndrome",
+    "trap": "A normal pulse does NOT rule out compartment syndrome; tissue pressure exceeds capillary perfusion pressure long before it exceeds arterial pressure."
+  },
+  {
+    "referenceId": "tint_c21_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "21",
+    "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+    "topic": "Sciatica and Herniated Nucleus Pulposus (HNP)",
+    "trap": "Avoid ordering an emergent MRI in the ED for simple sciatica unless there are signs of Cauda Equina (saddle anesthesia, urinary retention)."
+  },
+  {
+    "referenceId": "tint_c21_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "21",
+    "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+    "topic": "Psoas Abscess",
+    "trap": "Do not confuse with simple hip arthritis; look for systemic toxicity and pain when extending the hip (stretching the psoas)."
+  },
+  {
+    "referenceId": "tint_c21_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "21",
+    "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+    "topic": "Septic Arthritis in Immunocompromised Patients",
+    "trap": "Do NOT rule out septic arthritis just because crystals are present or if the WBC count is only 20,000 in an HIV patient."
+  },
+  {
+    "referenceId": "tint_c22_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "22",
+    "chapterTitle": "Psychosocial Disorders",
+    "topic": "Suicide Risk Assessment",
+    "trap": "Do NOT assume that asking about suicide will plant the idea in a patient's head; direct questioning is essential and safe."
+  },
+  {
+    "referenceId": "tint_c22_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "22",
+    "chapterTitle": "Psychosocial Disorders",
+    "topic": "Acute Dystonic Reactions",
+    "trap": "Do NOT mistake dystonia for a seizure or tetanus; look for recent medication changes or antiemetic use (e.g., Metoclopramide)."
+  },
+  {
+    "referenceId": "tint_c22_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "22",
+    "chapterTitle": "Psychosocial Disorders",
+    "topic": "Eating Disorders (Bulimia Nervosa)",
+    "trap": "Normal BMI does NOT rule out a serious eating disorder; bulimic patients are often normal weight or overweight."
+  },
+  {
+    "referenceId": "tint_c23_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "23",
+    "chapterTitle": "Abuse and Assault",
+    "topic": "Intimate Partner Violence (IPV)",
+    "trap": "IPV occurs across all socioeconomic and educational levels; do not exclude based on appearance or demographics."
+  },
+  {
+    "referenceId": "tint_c23_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "23",
+    "chapterTitle": "Abuse and Assault",
+    "topic": "Elder Abuse",
+    "trap": "Presence of pressure ulcers (bedsores) in an immobilized patient is not always evidence of abuse if standard care was followed, but requires investigation."
+  },
+  {
+    "referenceId": "tint_c24_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "24",
+    "chapterTitle": "Special Situations",
+    "topic": "Febrile IV Drug User (IVDU) and TB Isolation",
+    "trap": "Do NOT delay negative pressure isolation while waiting for CT or sputum results in a high-risk patient with a cavitary lesion."
+  },
+  {
+    "referenceId": "tint_c24_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "24",
+    "chapterTitle": "Special Situations",
+    "topic": "Consent and the Mature Minor Doctrine",
+    "trap": "Religious beliefs of a patient with capacity must be respected, even if they refuse life-saving treatment (e.g., blood products)."
+  },
+  {
+    "referenceId": "tint_c24_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "24",
+    "chapterTitle": "Special Situations",
+    "topic": "Tactical Combat Casualty Care (TCCC)",
+    "trap": "Do NOT start with airway (intubation) in a tactical scene while under fire; priority is securing the area and stopping massive hemorrhage."
+  },
+  {
+    "referenceId": "tint_c25_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Cardiac Tamponade POCUS",
+    "trap": "Do NOT rely on effusion size alone; look at the RV in diastole. If it collapses, it's tamponade regardless of fluid volume."
+  },
+  {
+    "referenceId": "tint_c25_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Pneumothorax POCUS (M-Mode)",
+    "trap": "The 'Lung Point' is the most specific finding for PTX (where the lung meets the air), but it may not be visible in large PTX."
+  },
+  {
+    "referenceId": "tint_c25_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Abdominal Aortic Aneurysm (AAA) POCUS",
+    "trap": "Do NOT measure just the black patent lumen; you will underestimate the size if there is a mural thrombus."
+  },
+  {
+    "referenceId": "tint_c25_t4",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Retinal Detachment POCUS",
+    "trap": "Do not confuse with Vitreous Hemorrhage; blood in the vitreous moves like 'swirling smoke' and is NOT tethered to the nerve."
+  },
+  {
+    "referenceId": "tint_c25_t5",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "POCUS for Aortic Dissection Limitations",
+    "trap": "Do NOT rely on US to clear a patient with suspicious chest pain for home; CTA or TEE is required if dissection is suspected."
+  },
+  {
+    "referenceId": "tint_ce1_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E1",
+    "chapterTitle": "Global Emergency Medicine",
+    "topic": "Scope and Principles of GEM",
+    "trap": "Humanitarian work (disaster relief) and development work (system building) are distinct but must be integrated for sustainable health systems."
+  },
+  {
+    "referenceId": "tint_ce4_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E4",
+    "chapterTitle": "Geriatric Emergency Care",
+    "topic": "Geriatric Emergency Department (GED) Guidelines",
+    "trap": "Proper technique for central line placement is NOT part of the geriatric-specific GED recommendations."
+  },
+  {
+    "referenceId": "tint_ce11_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E11",
+    "chapterTitle": "Forensic Emergency Medicine",
+    "topic": "Gunshot Wound (GSW) Documentation",
+    "trap": "Speculating on the bullet's trajectory or caliber in the medical record can be used to discredit medical testimony in court."
+  },
+  {
+    "referenceId": "tint_ce12_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E12",
+    "chapterTitle": "EMS Systems",
+    "topic": "Interfacility Transport of STEMI",
+    "trap": "Do NOT delay transport for stable STEMI patients to perform secondary imaging or wait for lab results."
+  },
+  {
+    "referenceId": "tint_ce14_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E14",
+    "chapterTitle": "Disaster Management",
+    "topic": "SAVE Triage Guidelines",
+    "trap": "SAVE is NOT for day-to-day triage; it is an extreme resource-allocation tool for prolonged disaster response."
+  },
+  {
+    "referenceId": "tint_c1_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "1",
+    "chapterTitle": "Prehospital Care and Disaster Management",
+    "topic": "Mass Casualty Triage and Utstein Template",
+    "trap": "Day-to-day triage differs from MCI triage."
+  },
+  {
+    "referenceId": "tint_c2_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "Brugada Syndrome",
+    "trap": "Do not mistake Brugada for simple STEMI."
+  },
+  {
+    "referenceId": "tint_c2_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "Septic Shock Resuscitation",
+    "trap": "Avoid dopamine as first-line when norepinephrine is available."
+  },
+  {
+    "referenceId": "tint_c2_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "End-Tidal Capnography (ETCO2)",
+    "trap": "Sudden sustained rise in ETCO2 may indicate ROSC."
+  },
+  {
+    "referenceId": "tint_c2_t4",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "Trauma-Induced Coagulopathy and MTP",
+    "trap": "Over-resuscitation with crystalloid worsens coagulopathy."
+  },
+  {
+    "referenceId": "tint_c3_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "3",
+    "chapterTitle": "Analgesia, Anesthesia, and Procedural Sedation",
+    "topic": "Local Anesthetic Systemic Toxicity (LAST)",
+    "trap": "Avoid vasopressin and high-dose epinephrine in LAST arrest."
+  },
+  {
+    "referenceId": "tint_c3_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "3",
+    "chapterTitle": "Analgesia, Anesthesia, and Procedural Sedation",
+    "topic": "Ketamine in Procedural Sedation",
+    "trap": "Match dosing to analgesia vs dissociation goal."
+  },
+  {
+    "referenceId": "tint_c4_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "4",
+    "chapterTitle": "Wound Management",
+    "topic": "Methods of Wound Closure: Staples",
+    "trap": "Avoid staples where cosmetic precision matters, such as face."
+  },
+  {
+    "referenceId": "tint_c4_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "4",
+    "chapterTitle": "Wound Management",
+    "topic": "Eyelid Lacerations",
+    "trap": "Visible orbital fat or medial canthus injury requires specialist repair."
+  },
+  {
+    "referenceId": "tint_c5_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "5",
+    "chapterTitle": "Cardiovascular Disorders",
+    "topic": "Cocaine-Induced Myocardial Ischemia",
+    "trap": "Avoid beta-blockers in cocaine chest pain board-style convention."
+  },
+  {
+    "referenceId": "tint_c5_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "5",
+    "chapterTitle": "Cardiovascular Disorders",
+    "topic": "Cardiac Tamponade",
+    "trap": "Pericardiocentesis is for unstable tamponade, not stable effusion."
+  },
+  {
+    "referenceId": "tint_c6_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "6",
+    "chapterTitle": "Thoracic-Respiratory Disorders",
+    "topic": "Spontaneous Pneumothorax",
+    "trap": "Observation applies to selected primary PTX, not secondary PTX."
+  },
+  {
+    "referenceId": "tint_c7_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "7",
+    "chapterTitle": "Abdominal and Gastrointestinal Disorders",
+    "topic": "Upper GI Bleed Management",
+    "trap": "Do not delay PPI while awaiting endoscopy in ulcer-related UGIB."
+  },
+  {
+    "referenceId": "tint_c7_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "7",
+    "chapterTitle": "Abdominal and Gastrointestinal Disorders",
+    "topic": "Gastrointestinal Foreign Bodies",
+    "trap": "Do not use meat tenderizer for food impactions."
+  },
+  {
+    "referenceId": "tint_c8_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "8",
+    "chapterTitle": "Renal and Genitourinary Disorders",
+    "topic": "Fournier's Gangrene",
+    "trap": "Do not delay surgery for CT if clinical suspicion is high."
+  },
+  {
+    "referenceId": "tint_c8_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "8",
+    "chapterTitle": "Renal and Genitourinary Disorders",
+    "topic": "Dialysis Complications",
+    "trap": "Check glucose; hypotension may mask hypoglycemia in diabetic dialysis patient."
+  },
+  {
+    "referenceId": "tint_c9_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "9",
+    "chapterTitle": "Obstetrics and Gynecology",
+    "topic": "Ectopic Pregnancy and Infertility",
+    "trap": "IUP does not rule out ectopic in assisted reproduction."
+  },
+  {
+    "referenceId": "tint_c9_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "9",
+    "chapterTitle": "Obstetrics and Gynecology",
+    "topic": "Premature Rupture of Membranes (PROM)",
+    "trap": "Avoid routine digital pelvic exam in suspected PROM."
+  },
+  {
+    "referenceId": "tint_c10_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "10",
+    "chapterTitle": "Pediatrics",
+    "topic": "Intussusception",
+    "trap": "Do not wait for currant jelly stools; late sign."
+  },
+  {
+    "referenceId": "tint_ce7_t1",
+    "source": "Tintinalli?",
+    "chapterNumber": "E7",
+    "chapterTitle": "Legal and Bioethical Issues",
+    "topic": "EMTALA and Interfacility Transfer Liability",
+    "trap": "E-chapter source contamination suspected."
+  },
+  {
+    "referenceId": "tint_ce8_t1",
+    "source": "Tintinalli?",
+    "chapterNumber": "E8",
+    "chapterTitle": "Safety and Quality",
+    "topic": "Triage Bias and Errors",
+    "trap": "Clinician must reassess triage momentum."
+  },
+  {
+    "referenceId": "tint_ce15_t1",
+    "source": "Tintinalli?",
+    "chapterNumber": "E15",
+    "chapterTitle": "Radiation Emergencies",
+    "topic": "Irradiation vs Contamination Triage",
+    "trap": "Treat life threats before decontamination."
+  }
+]

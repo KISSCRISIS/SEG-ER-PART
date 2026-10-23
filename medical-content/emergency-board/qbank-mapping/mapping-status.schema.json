@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/qbank-mapping-status.schema.json",
+  "title": "SEG Qbank Mapping Status",
+  "description": "Lifecycle for a single question's topic mapping. No question is modified; status lives in the mapping layer only.",
+  "type": "string",
+  "enum": [
+    "UNMAPPED",
+    "UNRESOLVED",
+    "CANDIDATE_FOUND",
+    "AUTO_MATCHED",
+    "AUTO_MAPPED",
+    "REVIEW_REQUIRED",
+    "VERIFIED"
+  ]
+}

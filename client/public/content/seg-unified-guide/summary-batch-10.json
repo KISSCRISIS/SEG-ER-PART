@@ -1,0 +1,140 @@
+{
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "seg-sickle-cell-crisis",
+      "title": "Sickle Cell Crisis",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "قيّم الألم ونقص الأكسجة والعدوى ومتلازمة الصدر الحادة؛ ابدأ التسكين والدعم وابحث عن سبب المحرض واستشر اختصاصي الدم عند الحالات الخطرة.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-neutropenic-fever",
+      "title": "Neutropenic Fever",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الحمى مع نقص العدلات حالة إسعافية؛ خذ الزرع دون تأخير العلاج، وابدأ مضادًا واسع الطيف وفق البروتوكول المحلي وتقييم مصدر العدوى.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-dermatology",
+      "title": "Acute Dermatologic Emergencies",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "الطفح مع سمية جهازية أو فقاعات أو إصابة مخاطية قد يدل على حالة خطرة مثل SJS/TEN أو التهاب نسيج ناخر ويحتاج إحالة عاجلة.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-acute-gynecology",
+      "title": "Acute Gynecologic Emergencies",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "استبعد الحمل أولًا عند سن الإنجاب؛ النزف أو الألم مع عدم الاستقرار يتطلب إنعاشًا وتصويرًا واستدعاء النساء والتوليد مبكرًا.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-palliative-emergencies",
+      "title": "Palliative and End-of-Life Emergencies",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "احترم أهداف الرعاية وقرارات المريض، وركز على تخفيف الألم وضيق النفس والهذيان مع تواصل واضح مع الأسرة والفريق المعالج.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

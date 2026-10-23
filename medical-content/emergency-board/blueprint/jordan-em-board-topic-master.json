@@ -1,0 +1,42 @@
+{
+  "blueprintId": "JEM_BOARD_MASTER_V1",
+  "title": "Jordanian Emergency Medicine Board Evidence-Informed Master Topic Database",
+  "version": "1.0",
+  "officialBlueprint": false,
+  "purpose": "Adaptive learning intelligence foundation",
+  "registryControl": {
+    "status": "Frozen for Integration",
+    "primaryKey": "topicId",
+    "modificationRule": {
+      "newTopicRequires": [
+        "unique topicId",
+        "evidence basis",
+        "review status"
+      ]
+    }
+  },
+  "mappingPolicy": {
+    "duplicateTopicPrevention": true,
+    "unknownMappings": "needs-review",
+    "falseMappings": "not-allowed"
+  },
+  "mappingConfidenceModel": {
+    "levels": {
+      "High": "Automatic trusted mapping",
+      "Medium": "Requires review",
+      "Low": "Manual review required"
+    }
+  },
+  "knowledgeGraphRelations": {
+    "topicId": {
+      "links": [
+        "MCQ Metadata",
+        "Algorithm Metadata",
+        "Exam Pearl Metadata",
+        "Table Metadata",
+        "Study Plan Tasks"
+      ]
+    }
+  },
+  "phase": "4-D Completed / Ready for 4-E Knowledge Graph Integration"
+}

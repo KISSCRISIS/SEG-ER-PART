@@ -1,0 +1,628 @@
+[PEER-PHYS PEER-2026-pdf-5-q-380] Which condition is most consistent with ABG findings of pH 7.33, pCO 30 mm Hg, and HCO 15 mEq/L?
+    ANSWER: Acute metabolic acidosis   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-381] A patient is found with acidosis and a severely elevated lactate level (>20 mg/dL). Which agent is most likely to produce this finding in overdose?
+    ANSWER: Sodium azide   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-382] Which condition is most consistent with ABG findings of pH 7.47, pCO 47 mm Hg, and HCO 34 mEq/L?
+    ANSWER: Prolonged vomiting   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-383] An overdose of which drug results in a severe mixed acid-base disturbance?
+    ANSWER: Aspirin   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-384] Which laboratory abnormality is expected in primary adrenal insufficiency?
+    ANSWER: Hyponatremia   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-385] A mother brings in her 10-day-old son for evaluation of pallor and increased sleepiness. She says he has been a poor feeder since birth and that he has been vomiting and fussy for the past day. The child is somnolent throughout the exam- ination and does not stir when the nurse draws blood. His vital signs include BP 58/36, P 180, R 72, and T 37°C (98.6°F).
+    ANSWER: Congenital adrenal hyperplasia   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-386] A 65-year-old woman with a history of celiac disease presents with yellow skin, hypoglycemia, and hypotension. She is on no medications. She is hypotensive, and her blood pressure is unresponsive to vasopressors. Laboratory test results show hyponatremia and hyperkalemia. What is the most likely underlying diagnosis?
+    ANSWER: Primary adrenal insufficiency   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-387] A neonate presents with poor feeding, lethargy, and clitoral enlargement. What intravenous therapy should be initiated first?
+    ANSWER: Hydrocortisone   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-388] A toddler presents with intermittent episodes of abdominal pain, vomiting, and lethargy after a viral illness. Which diagnostic test is preferred to confirm the diagnosis?
+    ANSWER: Abdominal ultrasound   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-389] A 40-year-old woman presents with hypotension, confusion, and skin hyperpig- mentation. Her blood glucose is 55 mg/dL. Glucose and broad-spectrum antibi- otics are administered. Despite 3 L of intravenous lactated Ringer solution and initiation of norepinephrine, she remains hypotensive.
+    ANSWER: Hydrocortisone 100 mg IV   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-390] What is an example of primary adrenal insufficiency?
+    ANSWER: Addison disease   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-391] A physician is evaluating a patient that has been on long-term prednisone ther- apy. The patient has marked fat deposition around the upper back, stretch marks, round face, and recent-onset diabetes mellitus. What condition is most likely?
+    ANSWER: Secondary adrenal insufficiency, or Cushing syndrome   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-392] A 4-week-old infant who was born at home presents for vomiting, reduced food intake, lethargy, and failure to gain weight. Their vital signs include P 180 and T 37°C (98.6°F). On examination, the patient appears dehydrated. The physician notes hyperpigmentation to the skin, especially the nipples and scrotum. What laboratory abnormalities will most likely be found?
+    ANSWER: Hyponatremia, hyperkalemia, and metabolic acidosis   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-393] A 6-year-old child with a history of congenital adrenal hyperplasia presents with sepsis caused by a UTI. Initially, the patient's vital signs include BP 75/55 and P 150. After antibiotics and two fluid boluses, repeat vital signs show BP 80/60 and P 145. What medication should be administered next?
+    ANSWER: Hydrocortisone IV   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-394] A 57-year-old patient presents in septic shock. Despite receiving 30 mL/kg of crystalloid fluid, antibiotics, and 10 mcg/min of norepinephrine, the patient's vi- tal signs show BP 80/60 and P 130. After the administration of hydrocortisone 100 mg IV, the patient's vital signs include BP 110/70 and P 105. What underly- ing condition does this patient most likely have?
+    ANSWER: Systemic lupus erythematosus   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-395] Which medication is the best choice for initial management of a patient with acute adrenal crisis?
+    ANSWER: Hydrocortisone   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-396] A previously healthy 33-year-old woman presents with visual hallucinations, headaches, fatigue, and weight gain. Her vital signs are BP 165/95, P 85, R 16, and T 37.0°C (98.6°F); SpO is 99% on room air. She has central obesity and bi- lateral lower-extremity edema. Laboratory studies are notable for a glucose level of 258 mg/dL and a potassium level of 3.0 mEq/L.
+    ANSWER: Low-dose dexamethasone suppression test   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-397] Following aggressive intravenous fluid resuscitation, which pharmacotherapy is indicated for the treatment of symptomatic hypercalcemia of malignancy?
+    ANSWER: Zoledronic acid   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-398] An otherwise healthy 22-year-old man presents with severe, painless, generalized weakness. He says he has had similar episodes. An ECG is obtained and shown below. Which abnormal laboratory test result is most likely? Credit: Mary Jo Wagner, MD, FACEP.
+    ANSWER: Hypokalemia   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-399] A 30-year-old man with chronic kidney disease presents with malaise and gener- alized weakness after 2 days of vomiting and diarrhea. His vital signs include BP 100/64, P 75, R 18, and T 37°C (98.6°F). The cardiac monitor demonstrates the rhythm shown. Which pharmacotherapy should be administered intravenously? Credit: Annals of Emergency Medicine.
+    ANSWER: Calcium gluconate   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-400] An 18-year-old man presents with a 6-hr history of proximal muscle weakness. His deep tendon reflexes are intact, and there is no sensory, bulbar, or autonomic involvement. The patient was healthy until 2 weeks ago, when he had an identical episode of weakness and was successfully treated at another hospital. What is the most likely diagnosis?
+    ANSWER: Hypokalemic periodic paralysis   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-401] A 40-year-old man presents with flaccid paralysis of his legs 1 hour after an in- tense workout. He reports having similar episodes in the past. His family mem- bers have also had similar presentations. An ECG is obtained and shown below. What treatment is most likely to resolve his symptoms? Credit: Reproduced with permission from: Amal Mattu, MD, FACEP.
+    ANSWER: Potassium chloride   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-402] In which patient with hyponatremia would rapid serum sodium correction with 3% hypertonic saline be contraindicated?
+    ANSWER: Normal mental status; serum sodium 120 mEq/L   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-403] A 52-year-old woman presents with a smoker's chronic cough and weight loss. Her vital signs are normal, and there is no evidence of dehydration. Serum sodium level is 119 mEq/L. A chest x-ray is obtained and shown below. What is the best intervention? Credit: Case courtesy of A. Prof Frank Gaillard, Radiopaedia.org, rID: 10494. Used under license.
+    ANSWER: Restrict fluids   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-404] A 36-year-old man is transferred to the emergency department from a psychi- atric facility following a seizure. He had been previously observed drinking large amounts of water. He is somnolent but arousable to voice with normal vital signs. Laboratory test results are: sodium 106 mEq/L, potassium 3.5 mEq/L, chlorine 94 mEq/L, bicarbonate 22 mEq/L, BUN 4, creatinine 0.5, and glucose 90.
+    ANSWER: Hypertonic saline (3%) 100 mL   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-405] In which patient should intravenous magnesium be avoided?
+    ANSWER: A patient with end-stage renal disease on lithium   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-406] A 38-year-old woman presents with generalized weakness and paresthesias in her fingers after a thyroidectomy. In addition to hypocalcemia, what other elec- trolyte abnormality is likely present?
+    ANSWER: Hyperphosphatemia   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-407] A 17-year-old boy presents with dizziness, sweating, nausea, and vomiting. He has type 1 diabetes and uses an insulin pump. He recently started taking pram- lintide, and his point-of-care glucose level is 42 mg/dL. What treatment should be administered?
+    ANSWER: Dextrose IV   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-408] Which action is most appropriate in the treatment of an adult patient with dia- betic ketoacidosis?
+    ANSWER: Delay insulin administration if initial serum potassium level is below 3.3 mEq/L   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-409] What electrolyte level should be checked prior to starting an insulin drip for dia- betic ketoacidosis?
+    ANSWER: Potassium   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-410] A 17-year-old boy presents with diabetic ketoacidosis. He has type 1 diabetes mel- litus. A venous blood gas analysis is conducted, and the pH is 7.09. Treating this patient with sodium bicarbonate could result in which complication?
+    ANSWER: Hypokalemia   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-411] A 56-year-old man with insulin-dependent diabetes presents after insulin non- compliance. His laboratory test results are sodium 132 mEq/L, potassium 4.9 mEq/L, chloride 100 mEq/L, bicarbonate 12 mEq/L, BUN 20 mg/dL, creatinine 1.2 mg/dL, glucose 600 mg/dL, phosphorus 3 mg/dL, pH 7.26, and pCO 26 mm Hg. Urinalysis is strongly positive for ketones. Normal saline and an insulin drip are started.
+    ANSWER: Potassium chloride   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-412] Which finding can indicate insulin pump device failure?
+    ANSWER: Diabetic ketoacidosis   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-413] What alone most reliably distinguishes hyperglycemic hyperosmolar state from diabetic ketoacidosis?
+    ANSWER: pH level   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-414] Which statement describes laboratory values in diabetic ketoacidosis (DKA) and hyperosmolar hyperglycemic state (HHS)?
+    ANSWER: Serum sodium value is more likely to be elevated in HHS   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-415] Which laboratory value is more commonly found in hyperosmolar hyperglycemic state than diabetic ketoacidosis?
+    ANSWER: pH level &gt;7.3   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-416] Which metabolic derangement is most commonly associated with severe neuro- logic symptoms, including obtundation, hemiparesis, or seizures found in hyper- osmolar hyperglycemic state?
+    ANSWER: Hyperosmolarity   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-417] A 72-year-old diabetic patient presents from a nursing home with altered mental status. Their vital signs are BP 135/76, P 115, R 12, and T 36.9°C (98.4°F); SpO is 96% on room air. The patient appears dehydrated on examination. Laboratory evaluation shows: Na 123 K 3.2 Cl 89 Bicarbonate 22 BUN 32 Cr 1.5 Glucose 1215 What is the best initial step in treatment?
+    ANSWER: Isotonic crystalloid infusion   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-418] What is the most common precipitating factor in patients diagnosed with hyper- osmolar hyperglycemic state?
+    ANSWER: Infection   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-419] Patients with hyperosmolar hyperglycemic state typically present with which finding?
+    ANSWER: Altered mental status   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-420] A man presents with confusion and slurred speech. The triage nurse activates a “stroke code.” The patient is unable to articulate his symptoms. He seems to have weakness in his right arm but is unable to properly follow commands. What is the best test to obtain prior to sending the patient for a head CT?
+    ANSWER: Blood glucose   (key B)
+[PEER-PHYS PEER-2026-pdf-5-q-421] In a conscious patient with uncomplicated hypoglycemia, what will most effec- tively provide a sustained improvement in serum glucose level?
+    ANSWER: A turkey and cheese sandwich   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-422] A 15-month-old boy presents with lethargy. His caregiver reports that he may have recently had access to a family member's alcoholic beverage. What is the best first step in management?
+    ANSWER: Point-of-care glucose   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-423] A child presents with a glucose level of 48 mg/dL and a bicarbonate level of 14 mg/dL. Which additional factor warrants an endocrinology consultation?
+    ANSWER: Negative urine ketones   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-424] A lethargic toddler presents with a blood glucose level of 42 mg/dL in the setting of vomiting and diarrhea. What is the treatment?
+    ANSWER: 10% dextrose solution in water (2.5-5 mL/kg at a rate of 2-3 mL/min)   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-425] A patient with type 2 diabetes mellitus is found to have an anion gap metabolic acidosis and an elevated serum beta hydroxybutyrate. Renal function and lactic acid are normal, and serum glucose is 190 mg/dL. Which medication class is most likely to be responsible for these laboratory abnormalities?
+    ANSWER: SGLT2 inhibitor   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-426] Which vitamin deficiency is associated with tachycardia, dyspnea, paroxysmal nocturnal dyspnea, and peripheral edema?
+    ANSWER: B 1 Thiamine   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-427] Based on the x-ray below, what is the most likely diagnosis? Credit: Copyright 2023 Dr. Ian Bickle. Image courtesy of Dr. Ian Bickle and Radiopaedia.org, rID: 51638. Used under license.
+    ANSWER: Rickets   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-428] Deficiency in which vitamin is most likely to present with an altered level of con- sciousness, ataxia, and nystagmus?
+    ANSWER: Thiamine   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-429] A patient with a history of alcohol use disorder presents with ataxia, slurred speech, nystagmus, and paralysis of the extraocular muscles with significant deficit when looking laterally. What is the most likely diagnosis?
+    ANSWER: Wernicke encephalopathy   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-430] Which characteristics are typical of Wernicke encephalopathy?
+    ANSWER: Ataxia, encephalopathy, and oculomotor dysfunction   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-431] Which group of symptoms best characterizes Korsakoff syndrome?
+    ANSWER: Amnesia, confabulation, and intact cognition   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-432] A patient with a history of alcohol use disorder presents with confusion, impaired coordination, nystagmus, and a blood glucose of 40 mg/dL. What is the best ini- tial intravenous therapy?
+    ANSWER: Dextrose   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-433] A patient with a history of alcohol dependence presents with confusion, ataxia, and ophthalmoplegia. What is the most appropriate initial treatment?
+    ANSWER: Thiamine IV   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-434] What is characteristic of most cases of Korsakoff syndrome?
+    ANSWER: Requires long-term supervision and support   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-435] Which electrolyte imbalances are most consistent with refeeding syndrome?
+    ANSWER: Hypophosphatemia and hypokalemia   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-436] Which finding is most consistent with a diagnosis of primary hyperparathyroidism?
+    ANSWER: Asymptomatic with elevated serum calcium levels   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-437] A 70-year-old man presents for generalized weakness, fatigue, syncopal episodes, and “feeling cold” for 1 week. He had a severe-onset headache followed shortly after by diplopia 10 days ago. His vitals include BP 70/50, P 52, and T 35.5°C (96°F). Laboratory studies show a sodium of 134 mmol/L, TSH of 0.002mlU/L, and a free T4 of 0.04ng/dL. What is the most likely diagnosis?
+    ANSWER: Pituitary apoplexy   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-438] Which medication is contraindicated in the treatment of thyroid storm?
+    ANSWER: Salicylic acid   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-439] A 54-year-old woman with known Graves' disease presents with delirium, dysp- nea, and fecal soiling. Her vital signs are BP 168/65, P 134, R 35, and T 38.9°C (102°F); SpO is 91% on room air. An ECG reveals atrial fibrillation without evi- dence of ischemia. In addition to general supportive care, what is the most ap- propriate treatment order?
+    ANSWER: Propranolol, methimazole, iodine, and hydrocortisone   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-440] An 86-year-old woman presents with a 6-month history of fatigue, lethargy, in- creasing confusion, constipation, poor appetite, slowed speech, and dyspnea. Her vital signs include BP 105/60, P 55, and T 33.5°C (92.3°F); SpO is 91% on room air. She has bilateral pleural effusions and nonpitting peripheral edema. What is the most likely drug-induced etiology of this presentation?
+    ANSWER: Amiodarone   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-441] A 26-year-old otherwise healthy woman presents with weight loss. She is 2 months postpartum after an uncomplicated pregnancy and delivery and has lost all of her pregnancy weight as well as an additional 5 pounds. She also complains of palpitations, anxiety, irritability, and a tremor, which is inconsistent with her previous two pregnancies. Which lab test will most likely aid in management?
+    ANSWER: TSH   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-442] A 61-year-old man with a history of Graves disease presents with altered mental status. His family states that he has not been taking his thyroid medication for the last 2 weeks. On examination, the patient has an irregular pulse with a rate of 105, diffuse rales, and 2+ bipedal edema. He is somewhat agitated and di- aphoretic. What is the best order to administer the medications?
+    ANSWER: Methimazole followed by potassium iodide and hydrocortisone   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-443] What set of thyroid function tests is diagnostic of thyroid storm?
+    ANSWER: Low TSH, high free triiodothyronine, and high free thyroxine   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-444] An 18-year-old woman presents with fever, atrial fibrillation, and congestive heart failure. She is currently taking levothyroxine. What is the most likely diagnosis?
+    ANSWER: Thyrotoxicosis factitia   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-445] Which constellation of features is most suggestive of apathetic thyrotoxicosis?
+    ANSWER: Lethargy, atrial fibrillation, low TSH, high T 3 , and high T 4   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-446] When managing thyroid storm, which statement describes the correct order of treatment?
+    ANSWER: Beta-blocker, thionamide, iodine   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-447] Which medication has been implicated in precipitating thyroid storm?
+    ANSWER: Amiodarone   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-448] Which physical examination finding is expected in patients with myxedema coma?
+    ANSWER: Hypothermia   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-449] A 45-year-old man with a history of neurofibromatosis presents with a headache, anxiety, and sweating. He reports similar episodes a few times a month for the past 3 months. His vital signs are BP 210/120, P 114, R 18, and T 37.0°C (98.6°F); SpO is 98% on room air. An ECG shows sinus tachycardia. Which in- travenous medication should be administered first? 2
+    ANSWER: Phentolamine   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-450] What medication should be administered first for a hypertensive emergency sec- ondary to a pheochromocytoma?
+    ANSWER: Phentolamine   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-451] What is the most common symptom in patients with pheochromocytoma?
+    ANSWER: Headache   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-452] Which condition is most commonly associated with pheochromocytoma?
+    ANSWER: Multiple endocrine neoplasia type 2   (key C)
+[PEER-PHYS PEER-2026-pdf-5-q-453] Which medication should be avoided in a patient with a known diagnosis of pheochromocytoma?
+    ANSWER: Glucocorticoids   (key A)
+[PEER-PHYS PEER-2026-pdf-5-q-454] A 33-year-old patient presents with sudden-onset epigastric abdominal pain, pal- pitations, and shortness of breath. The patient's vital signs are BP 208/135, P 145, R 30, and T 37°C (98.6°F); SpO is 88% on room air. The patient's examina- tion shows sinus tachycardia, diffuse pulmonary rales, and epigastric abdominal tenderness.
+    ANSWER: Phentolamine   (key D)
+[PEER-PHYS PEER-2026-pdf-5-q-455] Which emergent condition associated with pheochromocytoma has the highest mortality?
+    ANSWER: Pheochromocytoma multisystem crisis   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-156] A 49-year-old woman with a history of breast cancer, hypertension, and diabetes presents to the emergency department with malaise, decreased appetite, and mild abdominal cramping for 5 days. Vital signs are within normal limits, and examination is remarkable for mild diffuse abdominal tenderness. Diagnostic testing is notable for glucose 244 mg/dL and calcium 13.3 mg/dL.
+    ANSWER: Intravenous normal saline alone   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-157] A 55-year-old man with stage III chronic kidney disease presents to the emergency department after a syncopal episode. He reports cramping and weakness in his arms and legs for 2 days. A 12-lead ECG obtained in triage is shown above. Which of the following therapies should be initiated immediately?
+    ANSWER: Calcium gluconate   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-158] A 2-year-old previously healthy boy presents to the emergency department with a seizure. He has been increasingly sleepy over the past 24 hours, which developed into confusion and seizure. He has had no fevers, and his serum glucose is 92 mg/dL. His seizure does not stop with two appropriate doses of intravenous lorazepam but stops after a bolus of normal saline.
+    ANSWER: Salt poisoning   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-159] A patient presents to the ED with dyspnea. An arterial blood gas is drawn with the following results: pH: 7.50 PCO2: 25 mm Hg PO2: 102 mm Hg Bicarbonate: 23 mEq/L Which of the following conditions could this patient have?
+    ANSWER: Panic attack   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-160] A 25-year-old woman with poorly controlled type 1 diabetes mellitus presents to the ED for vomiting. Her initial blood tests are notable for a glucose of 473 mg/L, pH of 7.19, sodium of 130 mEq/L, potassium of 2.7 mEq/L, chloride of 95 mEq/L, and bicarbonate of 10 mEq/L.
+    ANSWER: Continue insulin infusion and add 5% dextrose to fluids   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-161] A 43-year-old man presents to the ED with abdominal pain. His medical history includes type 1 diabetes and nonischemic cardiomyopathy, for which he takes subcutaneous insulin, metoprolol, losartan, and empagliflozin. He states he ran out of his insulin 4 days ago. Vital signs are within normal limits.
+    ANSWER: IV insulin infusion at 0.1 U/kg/hr and IV 5% dextrose infusion at 100 mL/hr   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-162] An 82-year-old woman is transferred to your emergency department from another hospital. She presents with confusion, lethargy, trouble speaking and swallowing, and profound weakness in all extremities. Her condition is most consistent with a complication from the treatment of which electrolyte abnormality?
+    ANSWER: Hyponatremia   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-163] Which of the following findings can distinguish primary adrenal insufficiency from secondary adrenal insufficiency?
+    ANSWER: Hyperkalemia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-164] A 25-year-old woman presents to the emergency department reporting “leaking from my breasts” for 2 weeks. She is not currently breastfeeding or taking any hormonal therapies. She also reports slight visual disturbances and mild headaches. Her last menstrual period was 6 months ago. Prior to this, they were regular. Her vital signs are within normal limits and her urine pregnancy test is negative.
+    ANSWER: Suprasellar adenoma   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-165] You are treating a patient who has been diagnosed with thyroid storm. The patient reports a headache. Which of the following is contraindicated during acute thyroid storm?
+    ANSWER: Aspirin   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-166] A 19-year-old woman with a history of depression presents via EMS to the ED after a suicide attempt during which she ingested a full bottle of aspirin approximately 1 hour ago. Her vital signs include a BP of 90/58 mm Hg, HR of 112 bpm, and RR of 30/min. An arterial blood gas shows a pH of 7.50, pCO2 of 30 mm Hg, and bicarbonate of 22 mEq/L.
+    ANSWER: Direct stimulation of the medullary respiratory center   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-167] A 5-year-old boy with known medium-chain acyl-coenzyme A dehydrogenase deficiency presents to the emergency department with a fever and vomiting. He has had multiple exposures to a circulating stomach virus and has had two episodes of nonbloody, nonbilious vomiting without diarrhea. He had a temperature of 38.0°C at home that resolved without antipyretics.
+    ANSWER: Start D10 in 0.5% normal saline at 1.5 times maintenance   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-168] A 34-year-old man presents to the emergency department with malaise, dry mouth, and mild abdominal discomfort. He was drinking alcohol with friends 3 days ago, but he does not drink alcohol regularly. He has felt unwell since that day. He reports no vomiting, diarrhea, or fever. He has been eating but less than normal.
+    ANSWER: Intravenous insulin   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-169] Which of the following electrolyte abnormalities is associated with the most common tumor in patients with multiple endocrine neoplasia type 1?
+    ANSWER: Hypophosphatemia   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-170] A 33-year-old woman with a medical history of alcohol use disorder, asthma, hypothyroidism, and rheumatoid arthritis is brought to the emergency department by paramedics after she was found passed out in the street. The patient is unable to offer a history at this time. Her T is 97.6°F (36.4°C), BP is 72/51 mm Hg, HR is 142 bpm, RR is 22/min, and SpO2 is 100% on room air.
+    ANSWER: Hydrocortisone   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-171] A 45-year-old man presents with altered mental status. On arrival, his fingerstick glucose is 35 mg/dL. He is given dextrose leading to the return of a normal mental status. On history, he reports he may have unintentionally taken extra medication. Which of the following medications requires prolonged observation in the hospital?
+    ANSWER: Glipizide   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-172] A 56-year-old man presents to the ED with worsening shortness of breath and a nonproductive cough. He was recently diagnosed with influenza and his symptoms worsened today. His medical history includes hypertension and obesity. On examination, he is alert but tachypneic. Vital signs are a T of 39.2°C (102.6°F), BP of 130/78 mm Hg, HR of 122 bpm, RR of 32/min, and SpO2 of 89% on room air.
+    ANSWER: pH of 7.48, PCO 2 of 30 mm Hg, bicarbonate of 22 mEq/L   (key E)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-173] A 30-year-old man presents to the ED with shortness of breath and a headache. The patient states he brought his charcoal grill inside to cook. Vital signs are a BP of 140/60, HR of 110 bpm, RR of 22/min, SpO2 of 96% on room air, and T of 99°F (37.2°C). Lab results reveal a pH of 7.2, and carbon dioxide level is within normal limits.
+    ANSWER: Carbon monoxide toxicity   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-174] A 74-year-old man with a history of type 2 diabetes mellitus presents to the ED with agitation and delirium. He has tachycardia, and his blood pressure is 102/58 mm Hg. His serum glucose level is 958 mg/dL. Which of the following is the most common precipitant of this disease process?
+    ANSWER: Pneumonia   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-175] Which of the following conditions is most likely to result from a lesion of the posterior pituitary gland?
+    ANSWER: Arginine vasopressin deficiency   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-176] A 32-year-old woman presents to the ED with fatigue and a depressed mood, which have been going on for several months and gradually worsening. She reports having gained about 20 pounds (~10 kg) during this time frame and has noticed that her skin is dry and her face looks puffy. She also mentions worsening chronic muscle and joint pain.
+    ANSWER: Hyponatremia   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-177] Which one of the following conditions can result in refractory hypokalemia that is not correctable by the administration of potassium?
+    ANSWER: Hypomagnesemia   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-178] A 38-year-old woman is brought to the ED after being found unresponsive at home. Her history includes Graves disease treated with total thyroidectomy 3 years ago. She has been maintained on oral levothyroxine. She underwent a sleeve gastrectomy 2 months ago. On arrival, her vital signs are a T of 33.6 °C (92.5 °F), BP of 84/50 mm Hg, HR of 46 bpm, RR of 8/min, and SpO2 of 91% on room air.
+    ANSWER: Hydrocortisone IV and levothyroxine IV   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-179] A 32-year-old woman presents with tachycardia, palpitations, nausea, vomiting, and fever. She was recently diagnosed with Graves disease. On examination, she is diaphoretic and mildly agitated, with a heart rate of 132 bpm, blood pressure of 189/91 mm Hg, and temperature of 39.4°C (102.9°F). What is the correct order of treatment for this patient?
+    ANSWER: Propranolol, propylthiouracil, iodide, hydrocortisone   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-180] A 32-year-old man presents with epigastric pain and vomiting. His fingerstick blood glucose reads 452 mg/dL. A urine dipstick is positive for ketones. His venous blood gas is pH 7.08, pCO2 32 mm Hg, and pO2 45 mm Hg. Electrolytes are sodium 136 mEq/L, potassium 5.8 mEq/L, chloride 100 mEq/L, and bicarbonate 6 mEq/L.
+    ANSWER: Insulin 0.1 units/kg/hour IV infusion   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-181] A 70-year-old woman presents to the ED with confusion and slurred speech. Her fingerstick blood glucose is 20 mg/dL on arrival. She receives 1 amp of dextrose with a resolution of her symptoms. She reports that she ran out of most of her diabetes medications and has been taking more of one of them to make up for it.
+    ANSWER: Glipizide   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-182] A 42-year-old woman presents to the emergency department for neck swelling following a thyroidectomy performed 2 days ago. Physical exam shows a large neck hematoma that requires intubation for airway protection. Lab results show potassium of 4.2 mEq/L, sodium of 137 mEq/L, magnesium of 2.1 mg/dL, and calcium of 7.6 mg/dL. Which of the following findings would be expected on physical exam?
+    ANSWER: Facial muscle contraction with tapping of the facial nerve   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-183] A 39-year-old man with a history of alcohol use disorder presents to the emergency department with alcohol intoxication. He is vomiting and declines to offer further history. His T is 97°F (36.1°C), BP is 105/72 mm Hg, HR is 120 bpm, RR is 27/min, and SpO2 is 100% on room air. Physical exam reveals a malnourished and intoxicated man.
+    ANSWER: Normal saline with 5% dextrose, thiamine, and a multivitamin   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-184] A 40-year-old woman presents to the emergency department with fatigue. She also notes increased shortness of breath when she goes on her daily runs, which is unusual for her. Physical exam reveals bilateral nonpitting edema and dry skin. Which of the following is a complication of this disease process?
+    ANSWER: Carpal tunnel syndrome   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-185] A 32-year-old man presents to the ED with an acute onset of profound lower extremity weakness that began this morning after a high-carbohydrate meal the previous night. He reports no trauma, back pain, or sensory deficits. His vital signs show an HR of 110 bpm, BP of 135/80 mm Hg, RR of 16/min, and T of 37.2°C.
+    ANSWER: Administer potassium gluconate and obtain thyroid function tests   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-186] A 54-year-old man with severe heart failure presents to the ED with generalized weakness, altered mental status, and diaphoresis. A fingerstick glucose is 35 mg/dL, and his symptoms improve with intravenous 50% dextrose in water. He reports recurrent episodes of hypoglycemia. The patient has no history of diabetes mellitus and reports no insulin or other medication use.
+    ANSWER: Diazoxide   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-187] A 65-year-old man with a history of chronic alcohol use presents to the ED with a rash and diarrhea. On further questioning, the patient seems confused and is having difficulty with his short-term memory. Physical exam reveals a pigmented dermatitis over the face, neck, and arms. Which of the following is the most likely diagnosis?
+    ANSWER: Pellagra   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-188] What electrolyte abnormalities are typically seen in primary adrenal insufficiency?
+    ANSWER: Hyponatremia and hyperkalemia   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-189] A patient with metastatic breast cancer presents with weakness and nausea. An ECG is shown above. What electrolyte abnormality is likely in this patient?
+    ANSWER: Hypercalcemia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-190] A 12-year-old girl with chronic kidney disease presents to the emergency department with anuria and muscle weakness. An intravenous line is placed, and labs are drawn. The most concerning laboratory finding is serum potassium of 7.6 mEq/L, which increased significantly from her last blood draw 2 weeks ago.
+    ANSWER: Calcium gluconate   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-191] A 49-year-old man with a history of end-stage kidney disease and congestive heart failure on milrinone presents to the ED for severe fatigue and generalized weakness. His finger stick glucose is 278 mg/dL. An ECG at triage shows normal sinus rhythm with normal intervals and peaked T waves. His serum potassium level is 5.9 mEq/L.
+    ANSWER: P wave flattening   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-192] A 45-year-old woman with type I diabetes mellitus presents with fatigue in the setting of medication noncompliance. Her laboratory tests reveal sodium 125 mEq/L, potassium 3.1 mEq/L, chloride 97 mEq/L, bicarbonate 10 mEq/L, glucose 761 mg/dL, and pH 7.21. The patient is started on intravenous fluids. What therapy is most important to start next?
+    ANSWER: Potassium   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-193] A patient is found to be hyponatremic. Laboratory evaluation reveals low serum osmolality, urine sodium concentration > 20 mEq/L, and fractional excretion of sodium > 1%. He appears to be fluid overloaded. Which of the following is the most likely cause of this hyponatremia?
+    ANSWER: Hypertensive nephropathy   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-194] A 23-year-old man with a history of alcohol use disorder presents with weakness, fatigue, confusion, and intoxication. The patient is observed until clinically sober but indicates he is too weak to walk. His T is 97°F (36.1°C), BP is 115/70 mm Hg, HR is 92 bpm, RR is 15/min, and SpO2 is 100% on room air. Physical examination reveals 3 out of 5 strength in all muscle groups.
+    ANSWER: Hypomagnesemia   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-195] A 67-year-old man with hypertension and end-stage kidney disease presents after an incomplete dialysis session secondary to shortness of breath. His vital signs are a BP of 110/95 mm Hg, HR of 50 bpm, RR of 22/min, T of 37.3°C (99.1°F), and SpO2 of 99% on 2 L nasal cannula. You obtain the ECG above. Which of the following is the most appropriate next step in management?
+    ANSWER: Calcium gluconate   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-196] A 27-year-old man is brought to the ED after a generalized tonic-clonic seizure that lasted about 1 minute. He sustained a head injury in a motor vehicle collision 1 week ago. He lost consciousness at the time, but his mental status returned to baseline. CT scan of the head was normal, and he was discharged after 24 hours of observation.
+    ANSWER: MRI of the brain   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-197] A 51-year-old man was found stumbling in a grocery store parking lot. He is brought into the ED by police for public intoxication. He appears disheveled and irritable, but his speech is normal. He has a normal finger-nose-finger exam with no dysdiadochokinesia.
+    ANSWER: Increased mean corpuscular volume   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-198] What is the most common cause of adrenal insufficiency, regardless of type?
+    ANSWER: Chronic corticosteroid therapy   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-199] A 22-year-old woman presents to the emergency department with altered mental status. She has a known history of diabetes mellitus type I with frequent visits secondary to uncontrolled blood sugars and diabetes-related ketoacidosis. Paramedics report the patient’s blood sugar today on arrival is 480 mg/dL.
+    ANSWER: Continue insulin drip at decreased rate of 0.02–0.05 U/kg/hr; change fluids over to D5 0.45% normal saline   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-200] A 54-year-old woman with a history of childhood Hodgkin lymphoma and hypothyroidism presents with 1 week of hoarse voice. She was previously in a normal state of health. She reports no recent procedures or infectious symptoms such as fevers, rhinorrhea, or sore throat. Her vital signs are within normal limits. Which of the following are you most likely to find on the physical exam?
+    ANSWER: Solitary thyroid nodule that is firm and nonmobile   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-201] Which of the following findings is consistent with a diagnosis of Cushing syndrome?
+    ANSWER: Facial plethora   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-202] A 51-year-old woman presents to the emergency department with palpitations. She has been living on the street for many years and was recently accepted into a community living center. A representative from the facility tells you that she initially looked emaciated and has gained several pounds since beginning to eat a consistent diet.
+    ANSWER: Phosphorous   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-203] A 27-year-old woman with type 2 diabetes and depression presents with acute onset numbness and tingling in the hands and feet. She was eating breakfast when she had an onset of lightheadedness and chest discomfort with palpitations and was anxious that her heart might stop. She called 911 and took a full-strength aspirin.
+    ANSWER: Disturbance in acid-base status   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-204] Which of the following is typically seen in Korsakoff syndrome?
+    ANSWER: Impairment of short-term memory   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-205] A 65-year-old woman with a history of type 2 diabetes presents to the ED via family with newly developed confusion following several days of nausea and vomiting with poor oral fluid intake. She has been unable to take her oral metformin and glyburide for 2 days. Other medical history includes coronary artery disease and mild chronic kidney disease.
+    ANSWER: Immediate 15–20 mL/kg intravenous isotonic fluid bolus, start intravenous regular insulin drip (0.05–0.1 unit/kg/hr) if blood glucose does not fall by 50–70 mg/dL per hour, replace potassium when level is &lt; 5.3–5.5 mEq/L   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-206] A 5-year-old boy is brought to the ED due to decreased activity. Approximately 1 week ago, he had rhinorrhea, cough, and fever that lasted 3 days. Since then, he has had decreased interest in food, increased duration of sleep, and intermittent vomiting. He is only producing scant dark yellow urine. Today, his HR is 160 bpm, BP is 70/40 mm Hg, RR is 30/min, and SpO2 is 98%.
+    ANSWER: Diabetes-related ketoacidosis   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-207] A 75-year-old woman with a history of alcohol use disorder presents to the ED with a rash after a vacation in Puerto Rico. She also notes severe watery diarrhea and difficulty with memory and executive functions, such as balancing her checkbook and paying her bills. She has a pigmented dermatitis over the face and neck. Which of the vitamin deficiencies is most likely causing her symptoms?
+    ANSWER: Niacin   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-208] A 3-year-old boy presents to the emergency department with increased thirst. His parents were disturbed when they found him getting water from the toilet in the middle of the night and brought him to the emergency department for evaluation. He constantly asks for water throughout the day. He is developmentally normal but still needs a diaper at night.
+    ANSWER: Admission for water deprivation test   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-209] A 28-year-old man with a history of type 1 diabetes mellitus presents to the emergency department with confusion. His T is 97°F (36.1°C), BP is 95/70 mm Hg, HR is 132 bpm, RR is 35/min, and SpO2 is 97% on room air. Physical exam reveals a confused man with dry mucous membranes. The patient is ordered for 2 L of normal saline. Laboratory studies reveal a blood glucose of 422 mg/dL.
+    ANSWER: Potassium   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-210] A 38-year-old man presents to the emergency department for a headache. He states that over the past 2 months, he has been experiencing severe and intense headaches that abruptly resolve. During these episodes, he breaks out in a sweat and develops palpitations. He is asymptomatic in between occurrences.
+    ANSWER: Phentolamine   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-211] A 42-year-old man presents to the ED with a racing heart rate and difficulty breathing. On physical exam, you note bilateral ocular proptosis and 3+ nonpitting edema of the bilateral lower extremities. His electrocardiogram is shown above. Which of the following complications of this disease is this patient most likely experiencing?
+    ANSWER: High output heart failure   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-212] A 56-year-old man presents to the emergency department with altered mental status. He has a history of type 2 diabetes mellitus. However, he has not taken his medications for “quite some time,” per his family member. Laboratory analysis reveals sodium 116 mEq/L, potassium 5.6 mEq/L, blood urea nitrogen 22 mg/dL, glucose 860 mg/dL, and bicarbonate 16 mEq/L. An insulin drip is started.
+    ANSWER: 0.9% normal saline   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-213] A 65-year-old man with an unknown medical history is brought to the ED with confusion. The results of his initial arterial blood gas are shown below: pH: 7.25 PCO2: 65 mm Hg PO2: 72 mm Hg Bicarbonate: 14 mEq/L Which of the following best describes these results?
+    ANSWER: Mixed metabolic and respiratory acidosis   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-214] A 57-year-old woman with multiple myeloma presents with myalgias, abdominal pain, generalized weakness, and confusion. Laboratory testing demonstrates a calcium of 15.5 mg/dL. Aggressive hydration with normal saline is initiated. Which of the following medications is also indicated?
+    ANSWER: Bisphosphonate   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-215] A 42-year-old man presents to the emergency department with fatigue, weakness, and irritability. He has trouble recalling details of his medical history but has frequent visits for alcohol intoxication. His T is 97°F (36.1°C), BP is 105/82 mm Hg, HR is 112 bpm, RR is 18/min, and SpO2 is 100% on room air. Physical exam reveals a poorly kempt man and the finding above.
+    ANSWER: Vitamin C   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-216] A 45-year-old man with newly diagnosed diabetes presents in the morning to the emergency department via EMS with altered mental status. He is found to have a bedside glucose reading of 26 mg/dL. He is given 25 grams of 50% dextrose solution intravenously with a return to his baseline mental status. He reports taking his regular diabetes medication the previous night.
+    ANSWER: Glyburide   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-217] Which of the following drugs can cause hypothyroidism in either therapeutic usage or overdose?
+    ANSWER: Lithium   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-218] Which medication used in the standard treatment of tuberculosis can exacerbate underlying adrenal insufficiency?
+    ANSWER: Rifampin   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-219] A 72-year-old woman presents to the ED for mental status changes. The neighbor reports the patient was found outside her home in the snow, confused and agitated. They are unaware of any significant medical history for the patient. Vital signs show a T of 32.3°C (90.2°F), BP of 82/44 mm Hg, HR of 49 bpm, RR of 14/min, and SpO2 of 99% on room air.
+    ANSWER: IV levothyroxine, hydrocortisone, and a normal saline bolus   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-220] A 45-year-old man presents to the ED in police custody for acting obscenely in a nearby grocery store. He is intoxicated and has slurred speech and impaired extraocular movements. He also seems to be fabricating stories about his behavior earlier in the day. Which of the following should be administered at this time?
+    ANSWER: Thiamine   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-221] Which of the following primary acid-base disorders would most likely present with a pH of 7.1, bicarbonate of 15 mEq/L, and PCO2 of 30 mm Hg?
+    ANSWER: Metabolic acidosis   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-222] A 50-year-old man presents to the emergency department with his spouse, who states he has been confused for 4 weeks. He is currently taking several medications for a “lung infection” and has not been eating well for several months. He also has daily episodes of diarrhea. He is disoriented to place and time and has repetitive speech. He has a pigmented, scaling rash and a bright red tongue.
+    ANSWER: Niacin   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-223] A 44-year-old man presents to the ED with generalized weakness and dark-colored urine. He reports regular heavy alcohol use with poor nutritional intake. Earlier today, he drank soda and ate a large meal for the first time in days. He now has difficulty lifting his arms and climbing stairs.
+    ANSWER: Hypophosphatemia   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-224] A patient presents to the emergency department with weakness and the above ECG. Which of the following treatments will cause increased cellular uptake of the abnormal electrolyte causing this presentation?
+    ANSWER: Insulin   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-225] A 65-year-old woman is brought to the emergency department by her family for 2 months of severe fatigue, confusion, and frequent falls. Vital signs are BP 109/83 mm Hg, HR 84 bpm, RR 17/min, and SpO2 98% on room air. On physical exam, she is alert and oriented and has 2+ pitting edema of the bilateral lower extremities.
+    ANSWER: Furosemide   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-226] A 23-year-old woman is referred to the ED from a nearby clinic for an “abnormal blood test.” Her vital signs are within normal limits. She is in no acute distress. Her arterial blood gas is a pH of 7.51, PCO2 of 50 mm Hg, PO2 of 100 mm Hg, and bicarbonate of 30 mmol/L. Which of the following is a possible underlying cause of these findings?
+    ANSWER: Cystic fibrosis   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-227] Which of the following signs or symptoms is most common in the setting of a pituitary gland tumor?
+    ANSWER: Visual changes   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-228] A 34-year-old G2P1 woman at 36 weeks gestation presents to the ED with a sudden, severe bifrontal headache that began abruptly during her prenatal appointment. She describes the pain as pressure-like, radiating down the back of her neck, and rates it 10/10. She reports associated blurry vision, nausea, and vomiting. She also has new-onset double vision and difficulty moving her left eye.
+    ANSWER: Hydrocortisone   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-229] A 33-year-old woman presents to the emergency department with fatigue, abdominal pain, nausea, and vomiting. She states her symptoms have worsened over the last 24 hours. She has a history of severe asthma and was recently discharged from the hospital following an asthma exacerbation. However, she stopped taking her medications 2 days ago when she started feeling fatigued.
+    ANSWER: Hydrocortisone   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-230] A 3-year-old girl presents to the ED with vomiting and abdominal pain. On physical exam, you note a fruity odor to her breath and rapid, deep breathing. Vital signs are BP 86/44 mm Hg, HR 150 bpm, RR 46/minute, and T 100.8°F (38.2°C). Which of the following is a potentially serious complication associated with overaggressive treatment of this disease process?
+    ANSWER: Cerebral edema   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-231] A 50-year-old woman presents to the ED with a sore throat. She is also reporting anxiety and palpitations over the past 3 days. Vitals signs are BP 145/90 mm Hg, HR 115 bpm, RR 16/min, and SpO2 98% on room air. On physical exam, she has tenderness over her anterior neck and bilateral hand tremors. Which of the following is the most appropriate therapy?
+    ANSWER: Propranolol   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-232] A 12-year-old girl presents to the ED with fever, vomiting, and dysuria. On physical exam, she has a fruity odor to her breath and is breathing deeply and rapidly. Vital signs are BP 94/50 mm Hg, HR 125 bpm, RR 30/minute, and T 100.8°F (38.2ºC). Which of the following serum levels is most important to know before initiation of definitive treatment?
+    ANSWER: Potassium   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-233] Which of the following conditions can cause severe hypophosphatemia?
+    ANSWER: Diabetic ketoacidosis   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-234] A 41-year-old woman presents to the ED with chest pain, dyspnea, and leg swelling. On review of systems, she notes weight loss, brittle hair, increased fatigue, and anxiety over the previous 9 months. Her lungs are clear, and her heart is tachycardic. You note a slight tremor in her hands. You obtain the ECG seen above.
+    ANSWER: Esmolol   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-235] A 38-year-old man presents to the ED with fatigue, nausea, and vomiting. He has a history of alcohol use disorder but has been sober for over a year and recently became homeless. His vital signs are BP 95/60 mm Hg, HR 117 bpm, RR 25/min, T 97°F (36.1°C), and SpO2 100% on room air. Physical exam reveals diffuse muscle atrophy and dry mucous membranes.
+    ANSWER: Malnutrition   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-236] A 26-year-old woman presents with altered mental status. Per family, she has a history of bulimia nervosa and laxative misuse. She was recently discharged from an inpatient facility where she was treated for an eating disorder. She had an argument with a friend and has been withdrawn for the past few days, spending large amounts of time in the bathroom.
+    ANSWER: Crystalloid infusion   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-237] A 4-day-old male infant is brought to the emergency department by his parent with lethargy and somnolence. She is distraught and notes that her son has had 7–10 wet diapers a day with soft stools. Up until today, he was drinking a bottle of formula every 3–4 hours.
+    ANSWER: Hypertonic saline   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-238] A 21-year-old woman presents to the emergency department for lightheadedness. She is 5 days postpartum. Upon further questioning, she reports that her child is doing well, but she has been frustrated because she is having trouble breastfeeding. Her vital signs include a T of 37.8°C, HR of 60 bpm, BP of 98/65 mm Hg, and SpO2 of 100%.
+    ANSWER: Postpartum hemorrhage   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-239] A 50-year-old man presents to the emergency department with fatigue for the last 4 months. His medical history includes osteoarthritis and chronic back pain from an occupational injury. He reports constipation, nausea, and worsening confusion since his symptoms began. Vital signs include a T of 98.6°F (37ºC), HR of 68 bpm, RR of 16/min, and BP of 135/91 mm Hg.
+    ANSWER: Adenoma   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-240] A 12-year-old boy presents with easy bruising. A careful history reveals he has gained excessive weight with no vertical growth in the last year. His exam shows striae, proximal muscle weakness, no sexual development, acne, elevated blood pressure, and a prominent fat pad at the upper thoracic spine. Which of the following test results is expected and helps confirm the diagnosis in this patient?
+    ANSWER: High serum adrenocorticotropic hormone level   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-241] A 75-year-old man presents to the ED with pallor, generalized weakness, and a sore tongue. On physical exam, the patient has paresthesias in the bilateral lower extremities, gait ataxia, and a positive Romberg test. Which of the following is the most likely underlying disease process?
+    ANSWER: Pernicious anemia   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-242] Which of the following findings is consistent with a diagnosis of diabetes mellitus in the ED?
+    ANSWER: Random plasma glucose &gt; 200 mg/dL and polyuria   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-243] A 48-year-old woman without housing is brought to the emergency department by EMS for altered mental status. She has a history of epilepsy, diabetes, congestive heart failure, substance use disorder, and hypothyroidism. On arrival, she is obtunded. Vital signs are BP 99/73 mm Hg, HR 48 bpm, RR 14/min, SpO2 95%, and T 34.7°C. On physical exam, she has diffuse nonpitting edema of the extremities.
+    ANSWER: Hypothyroidism   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-244] Thyroid storm is a severe variant of thyrotoxicosis. Which of the following is the most appropriate way to diagnose it?
+    ANSWER: Clinical findings   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-245] Which metabolic derangements would you expect in tumor lysis syndrome?
+    ANSWER: Hypocalcemia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-246] A 55-year-old man with a history of alcohol use disorder presents with an unsteady gait. His vital signs include a blood pressure of 135/85 mm Hg, heart rate of 92 bpm, respiratory rate of 18/min, oxygen saturation of 96% on room air, and temperature of 36.7°C (98.1°F). MRI of the brain shows increased T2 signal intensity in the medial thalamus.
+    ANSWER: Thiamine   (key E)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-247] A 45-year-old woman with a history of breast cancer presents to the ED with weakness, confusion, and constipation. She is found to have a serum calcium concentration of 15 mg/dL. What is the most appropriate initial treatment?
+    ANSWER: Normal saline   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-248] A 54-year-old man is brought to the ED with a sudden-onset severe headache, nausea, vomiting, and diplopia. His partner reports the patient briefly lost consciousness earlier in the day. On examination, he appears acutely ill and is hypotensive, with dry mucous membranes. Neurologic evaluation reveals right-sided ptosis and impaired right eye adduction.
+    ANSWER: Hyponatremia, normokalemia, hypoglycemia, pH within normal limits   (key E)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-249] A 53-year-old woman with chronic alcohol use disorder presents with confusion and blurred vision. Her vital signs are within normal limits. Physical examination reveals a wide-based gait, inability to fully abduct her right eye, nystagmus, and difficulty with memory. Her alcohol level is 0.0 mg/dL. Which of the following is most likely to diagnose this patient’s underlying disease process?
+    ANSWER: Response to thiamine administration   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-250] A 67-year-old man presents to the emergency department for fatigue, constipation, and lethargy. The patient comes from a nursing home, and no additional history is offered. The patient’s vital signs are notable for tachycardia, and physical exam reveals a confused older man who responds incoherently to questions and who seems uncomfortable with abdominal palpation as well as palpation of his extre …
+    ANSWER: Hyperparathyroidism   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-251] Which of the following findings carries the highest diagnostic weight for thyroid storm, according to the Burch and Wartofsky scoring criteria?
+    ANSWER: Coma   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-252] A 55-year-old man with a history of diabetes, depression, and hypertension presents to the ED with altered mental status after an overdose. His blood glucose is 45 mg/dL, his BP is 84/60 mm Hg, and his ECG is shown above. Treatment starts with a medication that improves heart rate and contractility via cyclic adenosine monophosphate pathway.
+    ANSWER: Nausea   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-253] A 38-year-old man presents to the emergency department with fatigue, malaise, leg pain, and requesting a place to sleep. He has a history of alcohol use disorder, with his last drink 2 hours ago. His vitals are T 98°F (36.7°C), BP 110/80 mm Hg, HR 115 bpm, RR 15/min, and SpO2 100% on room air.
+    ANSWER: Delayed wound healing   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-254] A 72-year-old man presents to the ED for an altered level of consciousness. He has bradypnea, hypothermia, and hypoglycemia. The patient has an old surgical scar over his larynx, and the family states that he has not been taking his levothyroxine for months. Which of the following findings is most likely?
+    ANSWER: Hyponatremia   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-255] Which of the following presentations is most consistent with pheochromocytoma?
+    ANSWER: Episodic headaches, diaphoresis, and hypertension   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-256] A 28-year-old man presents to the emergency department by ambulance for evaluation of altered mental status. He had been working on a construction site in the heat when some of his coworkers noticed that he had altered mentation. His BP is 110/65 mm Hg, HR is 110 bpm, and T is 103.8°F (40°C). A physical exam reveals a flushed patient with confusion and no focal neurologic deficits.
+    ANSWER: Potassium level   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-257] A 50-year-old woman presents to the emergency department with a 3-day history of lower abdominal pain. During the course of her workup, computed tomography is performed and the radiologist reports an incidental adrenal mass not seen on previous imaging. There are no other acute findings.
+    ANSWER: Increased mass vascularity   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-258] What is the initial treatment for a patient with a serum calcium of 14 mg/dL?
+    ANSWER: Isotonic saline   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-259] A 59-year-old man presents to the emergency department with fatigue and diffuse muscle aches. The patient has recurrent visits for similar concerns and has a history of alcohol use disorder. He is experiencing vague paresthesias and tingling. His T is 98°F (36.7°C), BP is 100/70 mm Hg, HR is 115 bpm, RR is 15/min, and SpO2 is 100% on room air.
+    ANSWER: Hypocalcemia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-260] A 72-year-old man with no significant medical history except type 2 diabetes mellitus presents to the ED with a generalized illness. Which combination of findings prior to treatment is most likely to indicate the diagnosis of hyperosmolar hyperglycemic state?
+    ANSWER: Confused mental status, signs of hypoperfusion, poor skin turgor, blood glucose 700 mg/dL, trace urine ketones, serum sodium of 140 mmol/L   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-261] A 62-year-old man presents to the emergency department with weakness, nausea, and vomiting. He has a history of poorly controlled hypertension and diabetes. His nausea and vomiting began 3 days ago. He has been taking antacids with no relief. On physical exam, his heart rate is 110 bpm, blood pressure is 100/60 mm Hg, respirations are 10 breaths/minute, and oxygen saturation is 90% on room air.
+    ANSWER: Hemodialysis   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-262] A 63-year-old woman with a history of congestive heart failure presents to the ED with confusion, nausea, constipation, and worsening fatigue. She has a history of osteoporosis. Vital signs show a T of 98.6°F (37.0°C), BP of 100/60 mm Hg, and HR of 110 bpm. The exam reveals dry mucous membranes, bilateral crackles at the lung bases, elevated jugular venous pressure, and 2+ lower extremity edema.
+    ANSWER: IV normal saline with a loop diuretic   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-263] A 19-year-old woman presents to the emergency department with severe flushing, tremors, and vision changes. Vital signs are a BP of 240/110 mm Hg, HR of 104 bpm, RR of 20/min, and T of 100.4°F (38.0°C). She was recently found to have a mass on her kidney. Which of the following is the most appropriate course of treatment for this patient?
+    ANSWER: Phentolamine followed by labetalol   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-264] A parent is planning a trip to Mount Kilimanjaro. Before leaving, her 3-year-old son accidentally ingests her acetazolamide pills. Which of the following acid-base disturbances is most likely to be seen in the child?
+    ANSWER: Nonanion gap metabolic acidosis   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-265] A 57-year-old man with a history of obesity presents to the emergency department with generalized malaise and altered mental status. A fingerstick glucose is 979 mg/dL. The physical exam is notable for confusion and dehydration. Laboratory studies include a sodium of 128 mEq/L, a potassium of 3.3 mEq/L, a chloride of 100 mEq/L, and a bicarbonate of 19 mEq/L.
+    ANSWER: Correction of serum osmolality   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-266] A 35-year-old woman presents to the ED with a racing heart rate, fever, vomiting, and diarrhea. On physical exam, you note bilateral ocular proptosis. Vital signs are a BP of 118/70 mm Hg, HR of 150 bpm, RR of 26/minute, and T of 100.4°F (38°C). Which of the following would you expect to find on her electrocardiogram?
+    ANSWER: Atrial fibrillation with rapid ventricular response   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-267] Which of the following subtypes of thyroid carcinoma is associated with multiple endocrine neoplasia?
+    ANSWER: Medullary   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-268] What is the most common clinical presentation of thyroid cancer?
+    ANSWER: Thyroid nodule   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-269] A 24-year-old man with type 1 diabetes mellitus is brought to the ED by his roommate after being found confused and diaphoretic. The roommate states the patient has been “stomach sick” for 2 days and has not been eating well. Initial fingerstick glucose is 38 mg/dL. Following the administration of 50 mL of 50% dextrose, the patient’s mental status improves.
+    ANSWER: Hepatic glycogenolysis triggered by glucagon   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-270] A 5-year-old boy presents to the ED with vomiting and rapid breathing. The patient’s parent notes he has been breathing quickly but deeply and smells fruity to her. Vital signs are BP 86/48 mm Hg, HR 140 bpm, RR 40/minute, and T 100.6°F (38.1°C). Which of the following is the most common primary acid-base abnormality associated with this disease process?
+    ANSWER: Anion gap metabolic acidosis   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-271] A 6-year-old boy with epilepsy presents to the emergency department after a seizure. Measurements of his electrolytes show an ionized calcium of 0.4 mmol/L (normal 1.05–1.3 mmol/L) verified by repeat analysis. You suspect his epilepsy may be misdiagnosed hypoparathyroidism. Which of the following additional findings on history or exam most supports your suspicion?
+    ANSWER: Mucocutaneous candidiasis   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-272] Which of the following visual disturbances is most likely to be caused by a space-occupying lesion of the pituitary gland?
+    ANSWER: Bitemporal hemianopsia   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-273] A 45-year-old man with a history of alcohol use disorder presents to the emergency department with altered mental status. He is confused and demonstrates an ataxic gait when escorted to his room. Physical exam is notable for nystagmus and lateral rectus palsy upon cranial nerve examination.
+    ANSWER: Administer thiamine   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-274] A 72-year-old man with type 2 diabetes mellitus is brought to the ED with confusion and profound weakness. His family reports progressive lethargy over 3 days. Current medications include metformin, hydrochlorothiazide, lisinopril, and acetaminophen, and he recently completed a course of cephalexin for a minor skin infection.
+    ANSWER: Hydrochlorothiazide   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-275] Which of the following clinical scenarios most likely explains a blood gas with a pH of 7.47, bicarbonate of 35 mEq/L, and partial pressure of carbon dioxide of 45 mm Hg?
+    ANSWER: A 2-year-old boy with vomiting   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-276] A 23-year-old woman presents to the emergency department for fatigue and weakness. She has felt progressively more tired over the past week and now feels as if she will faint when standing. Her T is 97.6°F (36.4°C), BP is 92/51 mm Hg, HR is 112 bpm, RR is 17/min, and SpO2 is 98% on room air. Physical exam reveals a thin woman with tan skin. She feels lightheaded when standing.
+    ANSWER: Primary adrenal insufficiency   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-277] A 3-month-old girl presents to the emergency department with a generalized tonic-clonic seizure. Point-of-care glucose is 88 mg/dL, and she does not respond to two appropriate doses of intravenous midazolam. Additional history reveals she has had diarrhea for the last 3 days, and her parent has been supplementing her usual feeds with water.
+    ANSWER: 0.9% saline infusion   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-278] A 62-year-old man presents to the ED with weakness, fatigue, and somnolence. He has a history of kidney failure and is on dialysis but missed his recent dialysis sessions. He also has chronic constipation and has been self-managing it with magnesium citrate. His T is 97°F (36.1°C), BP is 185/92 mm Hg, HR is 90 bpm, RR is 9/min, and SpO2 is 98% on room air.
+    ANSWER: Hypermagnesemia   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-279] Which of the following history or physical exam findings is most common in a child with hyperthyroidism?
+    ANSWER: Goiter   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-280] Which of the following causes of metabolic alkalosis is most likely to respond to normal saline infusion?
+    ANSWER: Furosemide use   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-281] A 39-year-old man presents to the ED with a sudden onset headache. He has been experiencing sinus congestion, rhinorrhea, and visual field changes for a few weeks. He had sexual intercourse this evening prior to the onset of the headache. He reports photophobia but no nuchal rigidity, fever, rash, or sick contacts. His vital signs are within normal limits for his age.
+    ANSWER: Corticosteroids and neurosurgical consultation   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-282] A 34-year-old woman presents to the emergency department for seizures. Her partner states that she was competing in a 30-mile mountain bike race today when she became unconscious during a rest. Her partner reports the patient was wearing a hydration backpack during the race and refilled it several times. She has no medical or surgical history.
+    ANSWER: Exercise-associated hyponatremia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-283] A 73-year-old woman is brought in by paramedics after being found unresponsive at her home by her neighbors. Vital signs are remarkable for a temperature of 33°C, heart rate of 45 bpm, blood pressure of 95/60 mm Hg, and respiratory rate of 10/min. Physical examination is notable for slow shallow breathing with coarse breath sounds, macroglossia, and nonpitting edema.
+    ANSWER: Myxedema coma   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-284] An 84-year-old man presents to the ED with fever, vomiting, and diarrhea. On physical exam, you note ocular proptosis and tremulousness. Vital signs are a BP of 130/90 mm Hg, HR of 160 bpm, RR of 28/minute, and T of 101.2°F (38.4°C). Which of the following is the most likely diagnosis?
+    ANSWER: Thyroid storm   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-285] A 12-year-old boy presents with a fever and a headache that began today. He has a history of craniopharyngioma and had a near-complete excision 3 years ago. He is currently taking desmopressin, hydrocortisone, and thyroxine and is receiving growth hormone injections. Exam and vital signs are unremarkable, and viral testing detects influenza.
+    ANSWER: Hydrocortisone   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-286] A 27-year-old man with a medical history of alcohol use disorder presents to the emergency department for fatigue. His vital signs are within normal limits and his exam is unremarkable. Initial laboratory values show a hemoglobin of 10 mg/dL, a mean corpuscular volume of 115 fL, a calcium of 9.9 mg/dL, and a potassium of 3.9 mEq/L.
+    ANSWER: Folate   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-287] A 7-year-old girl has been taking her parents’ vitamins for the past 6 months and now is experiencing blurred vision, loss of appetite, hair loss, dry skin, pruritus, and leg pain. Which of the following vitamins is the most likely cause of her symptoms?
+    ANSWER: Vitamin A   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-288] A patient with a history of untreated Graves disease is presenting with chest pain, shortness of breath, and confusion. Her temperature is 103°F (39.4°C), HR is 150 bpm, BP is 150/100 mm Hg, RR is 30/min, and SpO2 is 95% on room air. Physical examination shows jugular venous distention and 3+ bilateral lower extremity pitting edema.
+    ANSWER: Propylthiouracil   (key E)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-289] A 42-year-old man with a recent diagnosis of pheochromocytoma presents to the emergency department with a left shoulder dislocation. Vital signs on arrival are HR 98 bpm, BP 178/100 mm Hg, RR 16/minute, and T 37.6°C. Radiographs confirm an uncomplicated shoulder dislocation that will require reduction. The patient reports significant pain in his shoulder and anxiety about his blood pressure.
+    ANSWER: Ketamine   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-290] A 16-year-old boy with type 2 diabetes presents with increased thirst and urinary frequency over the last week. He acknowledges he does not take his insulin as often as he should. His serum glucose is 980 mg/dL, and urine shows small ketones. After a bolus of normal saline, the blood glucose is 840 mg/dL, pH is 7.32, and bicarbonate is 21 mEq/L.
+    ANSWER: Start a 0.45% sodium chloride infusion at 200 mL/hr   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-291] A 74-year-old woman with a history of hypothyroidism presents to the ED with confusion, rigors, and lightheadedness. Vital signs are BP 110/64 mm Hg, HR 48 beats per minute, RR 12 breaths per minute, and T 95.2°F (35.1°C). Her electrocardiogram is shown above. Which of the following is the most likely diagnosis?
+    ANSWER: Myxedema coma   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-292] A 63-year-old man with a history of chronic alcohol use presents to the ED for generalized weakness. Vital signs are within normal limits for his age. He reports no recent trauma. Which of the following physical exam findings suggests vitamin C deficiency in this patient?
+    ANSWER: Perifollicular hemorrhages   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-293] A 17-year-old boy with a history of insulin-dependent diabetes presents to the ED with vomiting and abdominal pain. On physical exam, he has a fruity odor to his breath and is breathing rapidly. Vital signs show tachycardia and mild hypotension. Which of the following is the most common trigger for this patient’s most likely diagnosis?
+    ANSWER: Medication noncompliance   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-294] Which of the following arterial blood gas results is consistent with a pure metabolic acidosis?
+    ANSWER: pH 7.31, pCO 2 36 mm Hg, HCO 3 - 18 mEq/L   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-295] A 32-year-old man presents to the emergency department for seizures. He has a history of seizure disorder for which he takes levetiracetam and carbamazepine. Vital signs are within normal limits, and neurologic examination is nonfocal. Initial workup shows serum sodium of 132 mEq/L. Which of the following would most likely be seen in further laboratory analysis?
+    ANSWER: High urine sodium, high urine osmolality, normal serum potassium   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-296] What is the most common clinical presentation of a patient with a nonfunctioning pituitary gland adenoma?
+    ANSWER: Decreased vision such as visual field loss   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-297] A 7-year-old boy presents to the ED with his parent with abdominal pain and vomiting. His parent notes he has been very thirsty over the past several weeks and urinating often. On physical exam, you note diffuse abdominal tenderness without rebound or guarding. Vital signs are a BP of 86/48 mm Hg, HR of 140 bpm, RR of 40/minute, and T of 100.6°F (38.1ºC).
+    ANSWER: Low bicarbonate   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-298] A 22-year-old man with an unknown medical history presents to the emergency department with confusion. He is unable to offer a history on arrival. A rhythm strip is performed and is notable for the finding above. The patient’s ECG converts to sinus rhythm with another ECG revealing a QTc of 650 ms.
+    ANSWER: Alcohol use disorder   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-299] A 60-year-old woman presents to the emergency department with altered mental status. Vital signs are BP 80/40 mm Hg, HR 130 bpm, and T 101°F (38.3°C). Laboratory studies include glucose 40 mg/dL, sodium 125 mEq/L, and potassium 6.8 mEq/L. Which of the following best explains the cause of this patient’s electrolyte abnormalities?
+    ANSWER: Adrenal insufficiency   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-300] A 48-year-old man with alcohol use disorder is brought to the ED with confusion and abdominal pain. His partner reports several days of vomiting and poor oral intake. On examination, he appears dehydrated and tachypneic. Laboratory results are a sodium of 140 mEq/L, chloride of 104 mEq/L, pH of 7.28, PCO2 of 26 mm Hg, and bicarbonate of 12 mEq/L.
+    ANSWER: Pure high anion gap metabolic acidosis   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-301] A 94-year-old woman with worsening fatigue and confusion today presents to the emergency department from a skilled nursing facility where she has been receiving physical therapy after a femur fracture. The nursing facility staff report that the patient has been in their facility for the past week and began coughing 3 days ago. On exam, the patient is confused.
+    ANSWER: Hyponatremia   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-302] A 45-year-old woman with a history of hypertension, two previous cesarean sections, and a previous cholecystectomy presents for evaluation of nausea and vomiting for 4 days. She reports diffuse abdominal pain and distension that began today. Her last bowel movement was 5 days ago. On examination, her abdomen is distended and diffusely tender with guarding.
+    ANSWER: Intravenous normal saline   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-303] Which biochemical abnormality causes contraction of the ipsilateral facial muscles when tapping the facial nerve in the preauricular space?
+    ANSWER: Hypocalcemia   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-304] A 22-year-old man presents with intermittent episodes of anxiety, palpitations, and sweating that happen at random times. He thinks they are caused by stress at his new job. The patient is currently having an episode of these symptoms. His T is 97.0°F (36.1°C), BP is 255/110 mm Hg, HR is 125 bpm, RR is 24/min, and SpO2 is 100% on room air.
+    ANSWER: Plasma metanephrine levels   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-305] A 63-year-old man presents to the ED with dyspnea. His medical history includes COPD. A prior venous blood gas from several months ago showed a PCO2 of 50 mm Hg with a normal pH. Which of the following findings on blood gas analysis suggests acute exacerbation of his chronic illness today?
+    ANSWER: pH 7.28, PCO 2 60 mm Hg, bicarbonate 30 mEq/L   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-306] A man presents with difficulty walking and painful calves. He has a history of alcohol use disorder and ulcerative colitis, both untreated. He reports no history of chronic diarrhea. A blood toxicology screen is negative for alcohol and drugs of nonmedical use.
+    ANSWER: B1   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-307] The triage attending hands you the results of laboratory studies obtained on a new patient in the emergency department critical care area that he wants you to see. The patient's lab results show pH 7.31 and PCO2 10 mm Hg. The basic metabolic panel shows sodium 133 mmol/L, chloride 92 mmol/L, and bicarbonate 10 mEq/L.
+    ANSWER: A lethargic patient, covered in emesis, with a history of depression   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-308] Which of the following best characterizes arginine vasopressin disorder?
+    ANSWER: Low urine osmolality, high serum osmolality   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-309] A 12-year-old girl presents to the emergency department with a firm anterior neck mass. Her parent first noticed it this morning, but the patient says it has been slowly growing over the last few weeks. The patient is short for her age but reports no weight changes, palpitations, constipation, diarrhea, or difficulty with temperature changes.
+    ANSWER: Chronic autoimmune thyroiditis   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-310] A 44-year-old man with end-stage kidney disease presents from dialysis with weakness and shortness of breath. He states he missed his last dialysis session, and today, they thought he was too sick and sent him to the ED. His vital signs are a T of 37.5°C (99.5°F), HR of 73 bpm, and BP of 89/52 mm Hg. A 12-lead ECG is performed, as seen above.
+    ANSWER: Intravenous calcium chloride   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-311] Which of the following is the most likely presentation of a child with primary hyperparathyroidism in a resource-rich setting?
+    ANSWER: Asymptomatic hypercalcemia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-312] A 55-year-old woman with prior abdominal surgeries presents to the ED with 3 days of crampy abdominal pain, vomiting, and alternating diarrhea and constipation, with quiet bowel sounds. Imaging shows air-fluid levels and no rectal air. What is the most common electrolyte abnormality?
+    ANSWER: Hypokalemia   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-313] Which of the following is the most common cause for finding an elevated serum potassium level?
+    ANSWER: Spurious elevation due to hemolysis during blood sampling   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-314] A 68-year-old man with a history of thyroid surgery who has not been taking any medications presents to the ED with new-onset tremor, rigidity, and bradykinesia worsening over several months. He also reports new intermittent muscle cramps and paresthesias. Physical exam reveals cogwheel rigidity and resting tremor of the hands.
+    ANSWER: Calcification of the basal ganglia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-315] An ill-appearing 35-year-old woman with a history of Addison disease presents to the emergency department with 2 days of nausea and vomiting and is unable to tolerate anything by mouth. Her blood pressure is 85/44 mm Hg. Her laboratory workup reveals a glucose of 50 mg/dL, a sodium of 125 mEq/L, and a potassium of 6.0 mEq/L. A bolus of intravenous normal saline with 5% dextrose is initiated.
+    ANSWER: Hydrocortisone   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-316] Which of the following is a risk factor for developing hypercalcemia?
+    ANSWER: Sarcoidosis   (key E)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-317] A 2-year-old boy who is actively seizing presents to the emergency department early one morning. Oxygen is supplied, and the patient is placed on monitors. An intravenous line is placed, and the patient is given two doses of intravenous lorazepam but continues to seize. The parent reports he has never had a seizure before and has not been sick.
+    ANSWER: Fingerstick glucose   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-318] A previously healthy 21-year-old man is found unresponsive by his roommates. On arrival at the emergency department, his pupils are pinpoint, and his oxygen saturation is 88% on room air. A blood gas reveals a pH of 7.25, PCO2 of 60 mm Hg, PO2 of 65 mm Hg, and bicarbonate of 26 mEq/L. Which of the following mechanisms is the most likely cause of his laboratory abnormalities?
+    ANSWER: Decreased respiratory drive   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-319] A 56-year-old man is brought to the ED by EMS after being found at home with a decreased level of consciousness. On arrival, his vital signs are a T of 39.2°C (102.6°F), BP of 86/52 mm Hg, HR of 138 bpm, RR of 28/min, and SpO2 of 91% on room air. He is intubated for airway protection. Broad laboratory studies are obtained, including thyroid function tests.
+    ANSWER: Nonthyroidal illness syndrome   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-320] A 33-year-old woman who is 3 months postpartum presents to the ED with palpitations, fatigue, and abnormal sweating. Temperature is 37.0°C (98.6°F), heart rate is 101 bpm, respirations are 18/min, blood pressure is 120/80 mm Hg, and SpO2 is 99% on room air. Physical exam reveals a diffusely enlarged, nontender thyroid gland.
+    ANSWER: Low serum TSH, elevated free T4   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-321] A 19-year-old woman with a history of hypertension and abnormal menstrual cycles presents to the ED with hypertension and headache. She reports 2 days of generalized headache that persists even with over-the-counter treatment. She takes multiple antihypertensives. Her T is 37°C (98.6°F), HR is 84 bpm, RR is 18/min, BP is 160/110 mm Hg, and SpO₂ is 99%. on room air.
+    ANSWER: Increased 24-hour urinary cortisol excretion   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-322] A 5-day-old infant without prenatal care presents to the emergency department after a seizure. His history and exam findings suggest DiGeorge syndrome as he has difficulty feeding, micrognathia, low-set ears, a harsh systolic murmur, no thymus on X-ray, and long QT on ECG. Measurements of his electrolytes show an ionized calcium of 0.6 mmol/L (normal 1.05–1.3 mmol/L) verified by repeat analysis.
+    ANSWER: High phosphorus measurement   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-323] Which of the following is an indication to discontinue the patient's home insulin pump upon hospital admission of a patient with type 1 diabetes?
+    ANSWER: Ketoacidosis   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-324] A 68-year-old man with a history of alcohol use disorder presents to the ED with difficulty walking. On physical exam, the patient has paresthesias in the bilateral lower extremities, an inability to sense vibration or position in his feet, gait ataxia, and a positive Romberg test. Deficiency in which of the following is the most likely etiology of this patient’s presentation?
+    ANSWER: Cobalamin   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-325] A 14-year-old boy presents to the emergency department with difficulty breathing. He was sitting in class when he had an abrupt onset of palpitations, sweating, and choking sensation accompanied by intense fear and sensation that he was about to die. On arrival, he is hyperventilating and has involuntary muscle contractions of the hands and wrists.
+    ANSWER: pH 7.50, PCO 2 20 mm Hg, bicarbonate 21 mEq/L   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-326] A male newborn is born prematurely at 28 weeks. He is delivered apneic and neonatal resuscitation is started. The patient’s blood sugar is found to be 29 mg/dL and his weight is 1 kg. Which of the following doses of glucose is most appropriate for this patient via peripheral access?
+    ANSWER: 5 mL 10% dextrose IV   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-327] A 76-year-old man with hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease presents with altered mental status. He is brought in by his neighbor, who found him lying in his bed after not hearing from him for a few days. The patient appears confused and is unable to answer questions with appropriate responses.
+    ANSWER: Start IV potassium   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-328] A 12-year-old boy with a history of diabetes presents to the ED with altered mental status. According to the parent, the patient has not felt well for several days and has had a productive cough and fevers. The patient’s vital signs are a heart rate of 120 bpm, respiratory rate of 30/min, and blood pressure of 100/60 mm Hg.
+    ANSWER: Administer a normal saline bolus   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-329] A 34-year-old woman presents to the ED with progressive muscle weakness, easy bruising, and recurrent infections. She reports weight gain over the past 6 months. On examination, she has thin skin with multiple ecchymoses, central obesity, and proximal muscle wasting. Vital signs are within normal limits.
+    ANSWER: Chronic exogenous glucocorticoid use   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-330] A 19-year-old man presents with vomiting, rapid breathing, and confusion after a week of not using his prescribed medications. He takes topiramate for epilepsy and loratadine for seasonal allergies. His vital signs include BP of 132/90 mm Hg, HR of 102 bpm, RR of 21/min, and T of 98.5°F (37°C). He is disoriented and lethargic, and his skin is pale, cool, and moist.
+    ANSWER: Ketones   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-331] A 35-year-old man presents to the emergency department with fatigue, weakness, and weight loss over the past several months. He reports increased pigmentation of his skin, particularly in areas exposed to the sun. On examination, his blood pressure is low, and he appears dehydrated. What laboratory abnormalities are most likely to be found based on his most likely diagnosis?
+    ANSWER: Hyponatremia and hyperkalemia   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-332] A 74-year-old woman with end-stage kidney disease presents to the ED with fatigue, nausea, and diminished deep tendon reflexes after recently starting magnesium-containing laxatives for constipation. Which of the following additional findings is most likely to be found in this patient?
+    ANSWER: Hypotension and bradycardia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-333] A 47-year-old woman presents to the ED with what she describes as a racing heart rate and vomiting. On physical exam, you note bilateral ocular proptosis. Vital signs are a BP of 118/70 mm Hg, HR of 150 bpm, RR of 26/minute, and T of 100.4°F (38.0°C). Which of the following is the most appropriate initial therapy?
+    ANSWER: Propranolol   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-334] A 50-year-old man with a history of alcohol use disorder presents with confusion and diarrhea. He has been living alone for the past year after the death of his spouse. When his daughter visited him for the first time in several months, she found him to be disheveled and disoriented. His vital signs are within normal limits.
+    ANSWER: Niacin deficiency   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-335] A 20-year-old woman presents to the ED with lightheadedness. She reports no syncope, chest pain, shortness of breath, abdominal pain, vaginal bleeding, or trauma. Her vital signs are T 97.4°F (36.3°C), HR 112 beats/minute, RR 12 breaths/minute, BP 85/60 mm Hg, and SpO2 100% on room air. Her skin appears intact with mild hyperpigmentation.
+    ANSWER: Potassium   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-336] A 78-year-old woman with a history of type II diabetes presents to the ED with agitation and delirium. Vital signs are BP 94/50 mm Hg, HR 132 bpm, RR 18/minute, and T 100.2°F (37.9°C). Her serum glucose is 1,018 mg/dL. Which of the following is the most likely diagnosis?
+    ANSWER: Hyperosmolar hyperglycemic state   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-337] A 70-year-old woman with hypertension and COPD presents with shortness of breath. On evaluation, she appears tachypneic with increased work of breathing. Her breath sounds are notable for diffuse wheezing. She reports no fevers, productive cough, headache, nausea, or vomiting. She is started on ipratropium and albuterol.
+    ANSWER: pH 7.25, PaCO 2 80 mm Hg, bicarbonate 30 mmol/L   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-338] Which of the following is consistent with adrenal insufficiency?
+    ANSWER: Hyponatremia and hyperkalemia   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-339] A 67-year-old man presents with generalized weakness. He has had poor oral intake for several days. Vital signs include a BP of 122/86 mm Hg, HR of 48 bpm, RR of 17/minute, SpO2 of 98% on room air, and T of 98.5°F. An ECG is performed, as seen above. Which of the following medications should immediately be administered?
+    ANSWER: Calcium   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-340] A 55-year-old woman presents to the emergency department with generalized fatigue, weakness, and a headache that has been gradually worsening over the past several months. The patient is not followed by a primary care clinician and has no previous medical diagnoses. Review of systems is notable for general cold intolerance and a change in vision that started today.
+    ANSWER: Hydrocortisone   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-341] Which of the following medications blocks the release of stored thyroid hormone?
+    ANSWER: Iodine   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-342] A 55-year-old man with a history of COPD requiring 3 L of oxygen at baseline presents with increased work of breathing but rapidly becomes somnolent and bradypneic. An arterial blood gas shows a PaCO2 of 110 mm Hg compared to the patient’s baseline of 70 mm Hg. They are intubated using rocuronium, with propofol as a pre- and postintubation sedative. The patient's ideal body weight is 100 kg.
+    ANSWER: Increase the tidal volume   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-343] A 65-year-old man presents to the ED with diffuse bone pain, abdominal cramping, and severe constipation. He is currently undergoing dialysis for end-stage kidney disease but has not been to dialysis this week. Vital signs include a blood pressure of 158/92 mm Hg, heart rate of 90 bpm, respiratory rate of 20/min, oxygen saturation of 97% on room air, and temperature of 98.6°F.
+    ANSWER: Hypercalcemia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-344] A 42-year-old woman with a history of a known nonfunctioning pituitary adenoma presents with a sudden headache that began 2 hours ago. She also reports blurred vision and nausea. Her vital signs are T 37.2°C (99.0°F), BP 102/64 mm Hg, and HR 108 bpm. Physical examination reveals bilateral ptosis and a fixed, dilated right pupil. Laboratory studies show a glucose of 62 mg/dL.
+    ANSWER: Administration of high-dose IV dexamethasone   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-345] A 40-year-old woman presents to the ED reporting neck pain. For the past 3 days, she has had a fever, myalgias, and increasing fatigue. Vital signs are a BP of 130/90 mm Hg, HR of 99 bpm, RR of 14/minute, SpO2 of 97% on room air, and T 100.4°F (38°C). On physical exam, she has tenderness over her anterior midline neck. Which of the following is the most appropriate treatment?
+    ANSWER: NSAIDs   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-346] Which of the following disorders causes a normal anion gap metabolic acidosis?
+    ANSWER: Diarrhea   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-347] Which of the following genetic abnormalities is associated with a pheochromocytoma?
+    ANSWER: Von Hippel-Lindau disease   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-348] A 23-year-old woman presents to the emergency department with chest pain, palpitations, and shortness of breath. She is tachycardic on initial vital sign evaluation so you decide to perform a workup for pulmonary embolism, which includes computed tomography imaging of her chest. Her imaging study is negative for pulmonary embolism, but the radiologist mentions a small, incidental thyroid nodule.
+    ANSWER: Thyroid ultrasonography   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-349] A 23-year-old woman with a history of primary adrenal insufficiency who currently takes prednisone 5 mg daily presents to the emergency department with fatigue, cough, and body aches. Her children have the same symptoms. She is otherwise healthy and has no other concerns today. Her T is 99.0°F (37.2°C), BP is 121/80 mm Hg, HR is 88 bpm, RR is 17/min, and SpO2 is 98% on room air.
+    ANSWER: Increase prednisone to 10 mg PO for 3 days   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-350] A 44-year-old man presents to the emergency department with confusion. His medical history is unknown. His T is 97°F (36.1°C), BP is 107/78 mm Hg, HR is 133 bpm, RR is 16/min, and SpO2 is 100% on room air. Physical examination reveals a confused man with dry mucous membranes and poor skin turgor. Laboratory studies are notable for a glucose level of 1,100 mg/dL and a sodium level of 115 mEq/L.
+    ANSWER: Hyperosmolar hyperglycemic state   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-351] A 23-year-old postpartum woman presents to the emergency department feeling depressed. She states that, since the birth of her baby, she has felt unable to care for herself or the newborn. She has not resumed her menses and has been unable to breastfeed. Upon reviewing her recent history, you note that the patient had required a transfusion of 3 units of blood after the delivery.
+    ANSWER: Postpartum hypopituitarism   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-352] A 42-year-old man with a history of alcohol use disorder is brought to the ED by EMS after being found confused and diaphoretic at home. He was last seen drinking heavily the previous night. On arrival, his vital signs are a T of 36.8°C (98.2°F), BP of 112/70 mm Hg, HR of 104 bpm, RR of 18/min, and SpO2 of 97% on room air.
+    ANSWER: IO dextrose   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-353] Which vitamin deficiency presents with photosensitive dermatitis, diarrhea, and dementia?
+    ANSWER: Niacin   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-354] An 88-year-old man presents to the emergency department for altered mental status and is accompanied by staff from his nursing home. Vital signs are within normal limits. Mucous membranes appear dry, and serum sodium is 151 mEq/L. What is the maximum rate by which this patient’s serum sodium should be corrected over the next 24 hours?
+    ANSWER: 12 mEq/L   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-355] A 39-year-old man presents to the emergency department after a fingerstick blood glucose at a local pharmacy demonstrated a blood glucose of 250 mg/dL. The patient has a medical history of obesity and hypertension and has not seen his primary care clinician in > 7 years. Which of the following is the best explanation for this patient’s presentation?
+    ANSWER: Tissue insulin resistance   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-356] A 15-year-old girl with anorexia nervosa presents to the ED with a new rash after sun exposure. The red, itchy, and painful rash appears on sun-exposed skin and differs from previous sunburns. She also reports mild diarrhea over the past few days. She has been eating one small meal a day and takes no supplements or medications. Which vitamin deficiency is most likely contributing to her symptoms?
+    ANSWER: Vitamin B3   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-357] A 12-year-old girl being worked up for Graves disease as an outpatient presents to the ED with abdominal pain. After a CT scan with iodine contrast shows acute appendicitis, the patient becomes restless. At first, she develops a tremor and then begins having visual hallucinations. She becomes severely agitated and delirious and develops difficulty breathing. The patient is intubated.
+    ANSWER: Propranolol   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-358] A 31-year-old woman with a history of depression and a previous suicide attempt by an overdose of her medications presents to the ED with polyuria and polydipsia for 1 week. She was previously diagnosed with diabetes, but she did not like the medication prescribed to her. Metformin caused her to have abdominal cramping and diarrhea, so she stopped taking it. Her examination is unremarkable.
+    ANSWER: Pioglitazone   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-359] A 52-year-old man presents to the ED with severe abdominal pain, nausea, and repeated vomiting. He has not been able to tolerate oral intake. Vital signs are a T of 38.1°C (100.6°F), BP of 92/58 mm Hg, HR of 118 bpm, RR of 24/min, and SpO2 of 95% on room air. A CT of the abdomen is obtained as shown above. Which electrolyte abnormalities are most likely based on this presentation?
+    ANSWER: Hypomagnesemia, hypocalcemia, hypokalemia   (key E)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-360] A 24-year-old man with a history of polysubstance use disorder presents to the emergency department with weakness and fatigue. The patient is requesting food and reports no other symptoms. His T is 97°F (36.1°C), BP is 115/72 mm Hg, HR is 120 bpm, RR is 17/min, and SpO2 is 100% on room air. Physical exam reveals a poorly kept man with temporal wasting and an odor of alcohol.
+    ANSWER: Food consumption   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-361] A 64-year-old woman with breast cancer and bony metastases presents to the ED with nausea, vomiting, and generalized weakness. She is found to have an elevated calcium level. Which of the following is an indication of emergent hemodialysis?
+    ANSWER: Presence of heart failure with reduced ejection fraction   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-362] A 14-year-old girl presents to the emergency department with palpitations. Her parents are concerned she may be using illicit drugs since she is having difficulty concentrating at school, fatigue, and weight loss despite an increase in appetite over the last few months. On review of systems, the patient also reports diarrhea, infrequent periods, and heat intolerance.
+    ANSWER: Tongue fasciculations   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-363] A 24-year-old woman presents to the emergency department after she found out her blood pressure was 160/100 mm Hg at a local pharmacy. The patient has a medical history of hypertension that is currently refractory to thiazide diuretics and weight loss. Physical exam is notable for a left-sided abdominal bruit. Which of the following laboratory abnormalities is most likely in this patient?
+    ANSWER: Metabolic alkalosis   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-364] A 70-year-old woman with recently diagnosed multiple myeloma presents with lethargy, abdominal cramping, nausea, and generalized weakness. Her vital signs include a blood pressure of 138/82 mm Hg, heart rate of 58 bpm, respiratory rate of 18/minute, oxygen saturation of 97%, and temperature of 98.3°F. Physical examination reveals mild pallor and reduced sensation in the feet.
+    ANSWER: Hypercalcemia   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-365] A 78-year-old man with a history of hypothyroidism presents to the ED with confusion and agitation. He has diffuse nonpitting edema of all extremities and the abdomen. Which of the following is often seen and is predictive of high mortality from this disease process?
+    ANSWER: Hypothermia   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-366] A 68-year-old woman presents with difficulty walking. She reports a 7-day history of vomiting and diarrhea and has been able to tolerate only small sips of water. Her neurologic examination is notable for ataxia. An MRI of the brain does not show any acute pathology. On laboratory analysis, her sodium is 108 mEq/L. Which of the following is the most appropriate next step in management?
+    ANSWER: 3% hypertonic saline 100 mL bolus   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-367] A 16-year-old girl with a history of anorexia nervosa presents with lethargy. She has not improved with outpatient management and is now enrolled in an inpatient program where she required placement of a nasogastric tube for alimentation. Temperature is 37°C (98.6°F), heart rate is 84/min, respirations are 18/min, blood pressure is 100/70 mm Hg, and oxygen saturation is 99%.
+    ANSWER: Administer intravenous phosphorus   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-368] A 37-year-old woman presents to the ED with a headache. She has been experiencing periodic headaches along with diaphoresis and sudden rises in her blood pressure. She does not report trauma, vision changes, polyuria, neck stiffness, fever, or weight loss. Her vital signs are T 98.9°F (37.1°C), BP 189/100 mm Hg, HR 101 bpm, RR 14/minute, and SpO2 100% on room air.
+    ANSWER: Pheochromocytoma   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-369] A 23-year-old man presents to the emergency department after a suicide attempt. The patient ingested an entire bottle of an unknown substance 5 hours ago and was subsequently brought in by his parents due to a worsening mental status. Initially, the patient reported ringing in his ears, nausea, and vomiting and was noted to be breathing rapidly. The patient is now somnolent.
+    ANSWER: Metabolic acidosis and respiratory alkalosis   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-370] A 41-year-old woman with a history of myasthenia gravis presents to the ED with progressive generalized weakness and difficulty speaking. She reports worsening fatigue over the past few days and now feels too weak to lift her head. She takes pyridostigmine, but she missed several doses due to nausea. On examination, she has slurred speech, shallow breathing, and uses accessory muscles to breathe.
+    ANSWER: Endotracheal intubation   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-371] A newborn boy presents to the ED with his parent for seizure activity. The child appears lethargic without obvious trauma. The fontanel is open, soft, and nonpulsatile. His vital signs are T 99.9°F (37.7°C), BP 50/42 mm Hg, HR 132 bpm, RR 32/min, and SpO2 98% on room air. During the exam, he has a generalized tonic-clonic seizure that resolves spontaneously after 30 seconds.
+    ANSWER: Sodium chloride 3% IV bolus   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-372] Which of the following arterial blood gases is most consistent with a patient who has severe chronic obstructive pulmonary disease but is not currently in an exacerbation?
+    ANSWER: pH 7.35, PCO 2 60 mm Hg, bicarbonate 32 mEq/L   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-373] A 76-year-old woman with dementia is brought to the ED from her nursing home for altered mental status and weakness. She has a history of hypertension, osteoarthritis, and moderate Alzheimer disease. Her vital signs are T 99.2°F (37.3°C), HR 102 bpm, BP 96/64 mm Hg, RR 18/min, and SpO2 98% on room air.
+    ANSWER: Administer 0.9% normal saline at 250 mL/hr   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-374] A 32-year-old woman with a history of hypothyroidism presents to the ED with an ankle fracture after a fall on ice. Vital signs are a BP of 110/70 mm Hg, HR of 60 bpm, RR of 18/minute, and T of 97.2°F (36.2°C). ECG is shown above. Which of the following medications should be avoided in this patient?
+    ANSWER: Amiodarone   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-375] A 36-year-old woman presents with numbness in her arms and legs for 2 hours. She had a total thyroidectomy 3 days prior to presentation. Vital signs are within normal limits, and the patient’s exam is significant for a clean, well-healing surgical incision on her neck and twitching of the corners of the mouth with tapping at the angle of the jaw.
+    ANSWER: Replenish calcium   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-376] A 20-year-old man with a history of diabetes presents to the emergency department with altered mental status and malaise. Upon presentation, his serum sodium is 140 mEq/L, potassium is 6.2 mEq/L, chloride is 92 mEq/L, and bicarbonate is 10 mEq/L. A fingerstick glucose is 325 mg/dL, and serum ketones are positive. The patient is started on normal saline and an insulin drip.
+    ANSWER: Change to fluids containing potassium and dextrose   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-377] A 67-year-old man presents to the emergency department with a fever, shortness of breath, and confusion. He is not able to offer a history. A review of the medical record reveals he has a 35 pack-year smoking history, diabetes, and hypertension. His T is 102°F (38.9°C), BP is 92/61 mm Hg, HR is 132 bpm, RR is 32/min, and SpO2 is 68% on room air. His chest radiograph shows pneumonia.
+    ANSWER: Mixed respiratory and metabolic acidosis   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-378] A 5-year-old boy with a limited diet due to autism presents with abnormal laboratory values. On routine laboratory testing, the 25-hydroxyvitamin D level was discovered to be low. On exam, the patient has frontal bossing, prominent costochondral junctions, widening of the wrists and ankles, and genu valgum. Which of the following is expected on laboratory testing of this patient?
+    ANSWER: Elevated alkaline phosphatase   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-379] Which of the following clinical scenarios most likely explains a blood gas with a pH of 7.25, bicarbonate of 11 mEq/L, and partial pressure of carbon dioxide of 25 mm Hg?
+    ANSWER: A 16-year-old girl with sepsis   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-380] Which of the following order of medical treatments is appropriate to treat thyroid storm?
+    ANSWER: Propranolol → propylthiouracil → iodine → dexamethasone   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-381] A 24-year-old woman presents to the emergency department with a severe headache, palpitations, and tremors after running a 5K race for the first time. She recently lost 20 pounds unintentionally. Vital signs are a BP of 230/120 mm Hg, HR of 100 bpm, RR of 24/min, and T of 101.3°F (38.5°C). Which of the following is most likely to aid in making the diagnosis?
+    ANSWER: Plasma metanephrine levels   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-382] A 33-year-old woman presents to the emergency department with symptoms of tingling in her hands and around her mouth following a thyroidectomy. A laboratory evaluation reveals electrolyte abnormalities. Which of the following would be expected?
+    ANSWER: Hypocalcemia, hyperphosphatemia   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-383] An 85-year-old man with a history of type 2 diabetes presents with confusion and lethargy. His serum glucose is 1,227 mg/dL. Which of the following represents the average fluid deficit of a patient with this disease process?
+    ANSWER: 8–12 L   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-384] A 29-year-old woman with type 2 diabetes mellitus presents to the ED with nausea, abdominal pain, and rapid breathing for 1 day. She recently started empagliflozin. She reports no recent illness or alcohol use. Vital signs are a T of 37.4°C (99.3°F), BP of 112/64 mm Hg, HR of 126 bpm, RR of 28/min, and SpO2 of 98% on room air. Her exam reveals dry mucous membranes.
+    ANSWER: 5% dextrose with 0.9% sodium chloride   (key D)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-385] An 81-year-old man presents with altered mental status. The patient’s spouse states that he was working in the backyard in the hot sun all day and had been taking salt tablets to replace his sweat. His sodium level is 157 mmol/L. What is the goal sodium level for this patient in the next 24 hours?
+    ANSWER: 140 mmol/L   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-386] A 23-year-old woman presents with seizures. The patient received 2 mg of lorazepam by EMS but continues to seize. Serum lab tests show the following: Sodium: 118 mEq/L Potassium: 3.6 mEq/L Chloride: 90 mEq/L Bicarbonate: 21 mEq/L Blood urea nitrogen: 10 mg/dL Creatinine: 1.0 mg/dL Glucose: 89 mg/dL What treatment should be administered next?
+    ANSWER: 3% hypertonic saline IV   (key A)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-387] A 54-year-old woman with a history of hyperthyroidism presents to the ED with fever, vomiting, palpitations, and tremors. Which of the following would you expect to find on physical exam?
+    ANSWER: Ocular proptosis   (key E)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-388] A 60-year-old woman with a history of multiple bowel resections due to recurrent small bowel obstructions presents to the ED with gait instability and tingling in her legs. On exam, she has an ataxic gait and impaired positional and vibrational sensation. Blood work shows a hemoglobin of 9.9 g/dL and mean corpuscular volume of 108 fL.
+    ANSWER: Ileum   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-389] A 35-year-old woman with a history of celiac sprue and malabsorption presents to the ED with a sore tongue, bilateral lower extremity numbness, and difficulty walking. On physical exam, she has decreased sensation in the bilateral lower extremities, gait ataxia, and a positive Romberg test. Which of the following would you expect to find on laboratory testing?
+    ANSWER: Macrocytic anemia   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-390] Which of the following is most likely in a toddler with severe diarrhea due to gastroenteritis?
+    ANSWER: Low bicarbonate   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-391] A 23-year-old man with a history of alcohol use disorder is brought into the emergency department with confusion and alcohol intoxication. His T is 97°F (36.1°C), BP is 125/80 mm Hg, HR is 82 bpm, RR is 15/min, and SpO2 is 98% on room air.
+    ANSWER: Vitamin C   (key C)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-392] A 70-year-old man presents to the ED with his spouse due to confusion and weakness for 1 day. The patient has end-stage kidney disease requiring dialysis three times a week. The spouse states that the patient did not make it to dialysis yesterday. On exam, he is oriented only to person. His vital signs are BP 150/85 mm Hg, HR 65 bpm, RR 16/min, and SpO2 98% on room air.
+    ANSWER: Calcium gluconate   (key B)
+[ROSH rosh-em-initial-2026-endocrine-metabolic-and-nutritional-disorders-q-393] A 19-year-old man presents to the ED with concerns of episodic headache, sweating, and tachycardia. His blood pressure is 185/95 mm Hg despite taking three antihypertensive medications. His parent had multiple tumors surgically removed in his twenties after experiencing similar symptoms. Neoplasm in which of the following organs is associated with this condition?
+    ANSWER: Thyroid   (key D)

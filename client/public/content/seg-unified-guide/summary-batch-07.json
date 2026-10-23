@@ -1,0 +1,140 @@
+{
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "seg-pediatric-respiratory",
+      "title": "Pediatric Respiratory Distress",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "راقب جهد التنفس والوعي والزرقة؛ ابدأ بالأكسجين والدعم المناسب للعمر، وصعّد التدخل مبكرًا عند التعب أو فشل التهوية.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-poisoning-overdose",
+      "title": "Common Poisoning and Overdose Approach",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "ثبّت المريض أولًا، حدّد المادة والوقت والكمية، افحص السكر والحرارة والتخطيط، واستعمل الترياقات عند وجود استطباب واضح واستشر مركز السموم.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-orthopedic-trauma",
+      "title": "Fractures, Dislocations, and Neurovascular Injury",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "وثّق الحالة العصبية والوعائية قبل وبعد الرد أو التجبير، وابحث عن متلازمة الحيز والإصابات المفتوحة، مع تصوير مناسب ومسكنات فعالة.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-ophthalmic-emergencies",
+      "title": "Ophthalmic Emergencies",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "افحص حدة البصر والحدقات والضغط عند الحاجة؛ الألم مع نقص الرؤية أو إصابة كيميائية أو جسم نافذ يحتاج تدبيرًا وإحالة عاجلين.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "seg-ent-emergencies",
+      "title": "ENT Emergencies and Deep Neck Infection",
+      "source": "SEG synthesis · Tintinalli/Rosen",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [],
+      "examTraps": [],
+      "arabicExplanation": "احمِ مجرى الهواء عند صعوبة البلع أو الصوت المكتوم أو سيلان اللعاب، وتجنب الفحص الرضحي عند الاشتباه بالتهاب لسان المزمار أو خراج عميق.",
+      "references": [
+        "SEG synthesis · Tintinalli/Rosen"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

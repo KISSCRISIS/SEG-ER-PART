@@ -1,0 +1,766 @@
+[
+  {
+    "id": "cardiac-arrest",
+    "topic": "Cardiac Arrest",
+    "medicalSystem": "critical-care",
+    "tables": [
+      {
+        "title": "Arrest rhythms",
+        "headers": [
+          "Rhythm",
+          "Type",
+          "Action"
+        ],
+        "rows": [
+          [
+            "VF/VT",
+            "Shockable",
+            "Defibrillation"
+          ],
+          [
+            "PEA",
+            "Non-shockable",
+            "CPR + cause"
+          ],
+          [
+            "Asystole",
+            "Non-shockable",
+            "CPR + cause"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "AHA/ACLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "shock-approach",
+    "topic": "Shock Approach",
+    "medicalSystem": "critical-care",
+    "tables": [
+      {
+        "title": "Shock types",
+        "headers": [
+          "Type",
+          "Feature"
+        ],
+        "rows": [
+          [
+            "Hypovolemic",
+            "Loss of volume"
+          ],
+          [
+            "Cardiogenic",
+            "Pump failure"
+          ],
+          [
+            "Obstructive",
+            "Mechanical blockage"
+          ],
+          [
+            "Distributive",
+            "Vasodilation"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "sepsis-septic-shock",
+    "topic": "Sepsis / Septic Shock",
+    "medicalSystem": "infectious-disease",
+    "tables": [
+      {
+        "title": "Definitions",
+        "headers": [
+          "Term",
+          "Definition"
+        ],
+        "rows": [
+          [
+            "Sepsis",
+            "Infection + organ dysfunction"
+          ],
+          [
+            "Septic shock",
+            "Persistent hypotension after resuscitation"
+          ]
+        ]
+      },
+      {
+        "title": "Components",
+        "headers": [
+          "Component",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Infection",
+            "Suspected source"
+          ],
+          [
+            "Organ dysfunction",
+            "Hypotension, altered function"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-coronary-syndrome",
+    "topic": "Acute Coronary Syndrome",
+    "medicalSystem": "cardiovascular",
+    "tables": [
+      {
+        "title": "ACS types",
+        "headers": [
+          "Type",
+          "Finding",
+          "Pathway"
+        ],
+        "rows": [
+          [
+            "STEMI",
+            "ST elevation",
+            "Reperfusion pathway"
+          ],
+          [
+            "NSTEMI",
+            "Biomarker elevation without ST elevation",
+            "ACS management"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "AHA/ACLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "cardiac-tamponade",
+    "topic": "Cardiac Tamponade",
+    "medicalSystem": "cardiovascular",
+    "tables": [
+      {
+        "title": "Tamponade findings",
+        "headers": [
+          "Finding",
+          "In tamponade"
+        ],
+        "rows": [
+          [
+            "JVD",
+            "Common"
+          ],
+          [
+            "Hypotension",
+            "Common"
+          ],
+          [
+            "Muffled sounds",
+            "Classic"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-asthma",
+    "topic": "Acute Asthma Exacerbation",
+    "medicalSystem": "respiratory",
+    "tables": [
+      {
+        "title": "Severity",
+        "headers": [
+          "Severity",
+          "Findings"
+        ],
+        "rows": [
+          [
+            "Mild",
+            "Minimal symptoms"
+          ],
+          [
+            "Severe",
+            "Increased work of breathing, poor air movement"
+          ],
+          [
+            "Life-threatening",
+            "Exhaustion/altered state"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "copd-exacerbation",
+    "topic": "COPD Exacerbation",
+    "medicalSystem": "respiratory",
+    "tables": [
+      {
+        "title": "Assessment",
+        "headers": [
+          "Aspect",
+          "Detail"
+        ],
+        "rows": [
+          [
+            "Trigger",
+            "Infection, irritants, other causes"
+          ],
+          [
+            "Concern",
+            "Hypercapnia: ventilatory failure"
+          ],
+          [
+            "Severe sign",
+            "Altered mental status"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pneumothorax",
+    "topic": "Pneumothorax / Tension Pneumothorax",
+    "medicalSystem": "respiratory",
+    "tables": [
+      {
+        "title": "Types",
+        "headers": [
+          "Type",
+          "Key feature",
+          "Action"
+        ],
+        "rows": [
+          [
+            "Simple",
+            "Stable patient",
+            "Observation/chest tube based on size"
+          ],
+          [
+            "Tension",
+            "Shock + respiratory compromise",
+            "Immediate decompression"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pulmonary-embolism",
+    "topic": "Pulmonary Embolism",
+    "medicalSystem": "respiratory",
+    "tables": [
+      {
+        "title": "Presentations",
+        "headers": [
+          "Presentation",
+          "Consider"
+        ],
+        "rows": [
+          [
+            "Sudden dyspnea",
+            "PE"
+          ],
+          [
+            "Pleuritic pain",
+            "PE/pneumothorax"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "primary-trauma-survey",
+    "topic": "Primary Trauma Survey (ABCDE)",
+    "medicalSystem": "trauma",
+    "tables": [
+      {
+        "title": "Survey steps",
+        "headers": [
+          "Step",
+          "Focus",
+          "Action"
+        ],
+        "rows": [
+          [
+            "A",
+            "Airway obstruction",
+            "Immediate airway management"
+          ],
+          [
+            "B",
+            "Respiratory compromise",
+            "Oxygen / ventilation"
+          ],
+          [
+            "C",
+            "Shock/bleeding",
+            "Hemorrhage control"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "traumatic-brain-injury",
+    "topic": "Traumatic Brain Injury",
+    "medicalSystem": "trauma",
+    "tables": [
+      {
+        "title": "Red flags",
+        "headers": [
+          "Finding",
+          "Concern"
+        ],
+        "rows": [
+          [
+            "Loss of consciousness",
+            "Intracranial injury"
+          ],
+          [
+            "Unequal pupils",
+            "Herniation risk"
+          ],
+          [
+            "Low GCS",
+            "Severe injury"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-stroke",
+    "topic": "Acute Stroke",
+    "medicalSystem": "neurology",
+    "tables": [
+      {
+        "title": "Stroke types",
+        "headers": [
+          "Type",
+          "Imaging finding",
+          "Main pathway"
+        ],
+        "rows": [
+          [
+            "Ischemic",
+            "No bleed",
+            "Reperfusion assessment"
+          ],
+          [
+            "Hemorrhagic",
+            "Blood present",
+            "Bleeding management"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "status-epilepticus",
+    "topic": "Status Epilepticus",
+    "medicalSystem": "neurology",
+    "tables": [
+      {
+        "title": "Causes",
+        "headers": [
+          "Cause",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "Metabolic",
+            "Glucose/electrolytes"
+          ],
+          [
+            "Toxic",
+            "Drugs/withdrawal"
+          ],
+          [
+            "Structural",
+            "Stroke/tumor"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-abdominal-pain",
+    "topic": "Acute Abdominal Pain Approach",
+    "medicalSystem": "gastrointestinal",
+    "tables": [
+      {
+        "title": "Red-flag features",
+        "headers": [
+          "Feature",
+          "Suggests"
+        ],
+        "rows": [
+          [
+            "Rigid abdomen",
+            "Peritonitis"
+          ],
+          [
+            "GI bleeding",
+            "Hemorrhage"
+          ],
+          [
+            "Pain out of proportion",
+            "Mesenteric ischemia"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "gi-bleeding",
+    "topic": "GI Bleeding",
+    "medicalSystem": "gastrointestinal",
+    "tables": [
+      {
+        "title": "Sources",
+        "headers": [
+          "Source",
+          "Common clues"
+        ],
+        "rows": [
+          [
+            "Upper GI",
+            "Melena/hematemesis"
+          ],
+          [
+            "Lower GI",
+            "Hematochezia"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "dka-hhs",
+    "topic": "DKA / HHS",
+    "medicalSystem": "endocrinology",
+    "tables": [
+      {
+        "title": "DKA findings",
+        "headers": [
+          "Finding",
+          "DKA"
+        ],
+        "rows": [
+          [
+            "Glucose",
+            "Elevated"
+          ],
+          [
+            "Ketones",
+            "Present"
+          ],
+          [
+            "Acidosis",
+            "Present"
+          ]
+        ]
+      },
+      {
+        "title": "DKA vs HHS",
+        "headers": [
+          "Feature",
+          "DKA",
+          "HHS"
+        ],
+        "rows": [
+          [
+            "Ketones",
+            "High",
+            "Mild/absent"
+          ],
+          [
+            "Acidosis",
+            "Present",
+            "Minimal"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "hyperkalemia",
+    "topic": "Hyperkalemia",
+    "medicalSystem": "endocrinology",
+    "tables": [
+      {
+        "title": "ECG concerns",
+        "headers": [
+          "ECG",
+          "Concern"
+        ],
+        "rows": [
+          [
+            "Peaked T waves",
+            "Early finding"
+          ],
+          [
+            "Wide QRS",
+            "Severe toxicity"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "hypoglycemia",
+    "topic": "Hypoglycemia",
+    "medicalSystem": "endocrinology",
+    "tables": [
+      {
+        "title": "Causes",
+        "headers": [
+          "Cause",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "Medication",
+            "Insulin"
+          ],
+          [
+            "Reduced intake",
+            "Fasting"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "opioid-overdose",
+    "topic": "Opioid Overdose",
+    "medicalSystem": "toxicology",
+    "tables": [
+      {
+        "title": "Findings",
+        "headers": [
+          "Finding",
+          "In opioid toxicity"
+        ],
+        "rows": [
+          [
+            "Miosis",
+            "Common"
+          ],
+          [
+            "Respiratory depression",
+            "Critical"
+          ],
+          [
+            "Altered consciousness",
+            "Common"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "anaphylaxis",
+    "topic": "Anaphylaxis",
+    "medicalSystem": "critical-care",
+    "tables": [
+      {
+        "title": "Systems",
+        "headers": [
+          "System",
+          "Findings"
+        ],
+        "rows": [
+          [
+            "Respiratory",
+            "Wheeze, airway edema"
+          ],
+          [
+            "Cardiovascular",
+            "Hypotension"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "ectopic-pregnancy",
+    "topic": "Ectopic Pregnancy",
+    "medicalSystem": "obstetrics-gynecology",
+    "tables": [
+      {
+        "title": "Concerns",
+        "headers": [
+          "Finding",
+          "Concern"
+        ],
+        "rows": [
+          [
+            "Shoulder pain/syncope",
+            "Rupture"
+          ],
+          [
+            "Adnexal pain",
+            "Ectopic possibility"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pediatric-fever",
+    "topic": "Pediatric Fever Approach",
+    "medicalSystem": "pediatrics",
+    "tables": [
+      {
+        "title": "Age groups",
+        "headers": [
+          "Age group",
+          "Consideration"
+        ],
+        "rows": [
+          [
+            "Young infants",
+            "Higher risk"
+          ]
+        ]
+      }
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  }
+]

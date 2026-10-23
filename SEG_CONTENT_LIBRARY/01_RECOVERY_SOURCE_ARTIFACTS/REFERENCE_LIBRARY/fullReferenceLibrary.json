@@ -1,0 +1,3997 @@
+[
+  {
+    "id": "rosen_c2_t1",
+    "source": "Rosen",
+    "chapterNumber": "2",
+    "chapterTitle": "Airway and Resuscitation",
+    "topic": "Lung-Protective Ventilation in the ED",
+    "keyPoints": [
+      "Implementing lung-protective ventilation (low tidal volume) starting in the ED reduces the incidence of pulmonary complications.",
+      "Inspiratory airway pressures are associated with hospital mortality in mechanically ventilated patients even without ARDS.",
+      "ED providers should avoid high tidal volumes to prevent secondary lung injury."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Assuming lung-protective strategies are only for ICU patients with existing ARDS; initiation in the ED is critical."
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Mechanical Ventilation"
+    ],
+    "boardSafeLogic": "Lowering tidal volumes reduces volutrauma and barotrauma, improving survival from the point of ED admission.",
+    "arabicMentorExplanation": "شو الفكرة؟ استعمل أحجام هواء صغيرة (Tidal volume) للمريض على المنفسة حتى لو ما عنده ARDS. وين الفخ؟ التأخير لبعد النقل للعناية بزيد الوفيات. كيف أستخدمها؟ لو سألك عن أحسن طريقة لتقليل مضاعفات الرئة، الجواب (Lung-protective ventilation).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c2_t2",
+    "source": "Rosen",
+    "chapterNumber": "2",
+    "chapterTitle": "Airway and Resuscitation",
+    "topic": "Sepsis-3 Definitions",
+    "keyPoints": [
+      "The Sepsis-3 consensus defines sepsis as life-threatening organ dysfunction caused by a dysregulated host response to infection.",
+      "Quick SOFA (qSOFA) includes: Altered mental status, Systolic BP <= 100, and RR >= 22.",
+      "Organ dysfunction can be identified as an acute change in total SOFA score >= 2 points."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [
+      "qSOFA score for mortality prediction."
+    ],
+    "relatedTraps": [
+      "Relying solely on SIRS criteria for defining sepsis according to the new Sepsis-3 standards."
+    ],
+    "relatedKeywords": [
+      "Sepsis-3",
+      "SOFA",
+      "qSOFA",
+      "Organ Dysfunction"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Septic Shock"
+    ],
+    "boardSafeLogic": "Sepsis-3 prioritizes organ dysfunction and mortality risk over the non-specific inflammatory response (SIRS).",
+    "arabicMentorExplanation": "شو الفكرة؟ تعريف السيبسيس الجديد بيعتمد على فشل الأعضاء (SOFA). وين الفخ؟ الـ SIRS (زي الحرارة والنبض) ما عادت هي الأساس في التعريف الجديد. كيف أستخدمها؟ الـ qSOFA هو الأداة السريعة بالطوارئ لتقييم خطر الوفاة.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c3_t1",
+    "source": "Rosen",
+    "chapterNumber": "3",
+    "chapterTitle": "Shock",
+    "topic": "Cardiogenic Shock and Fluids",
+    "keyPoints": [
+      "Norepinephrine (or inotropes like Dobutamine) is the first-line agent for cardiogenic shock.",
+      "Crystalloid fluid boluses should be avoided in patients with cardiogenic shock and signs of pulmonary edema.",
+      "Rapid reperfusion (PCI or thrombolytics) is the definitive management while providing hemodynamic support."
+    ],
+    "tables": [],
+    "visuals": [
+      "POCUS showing severely impaired left ventricular function."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid fluid challenges in hypotension if rales and pulmonary edema are present on examination."
+    ],
+    "relatedKeywords": [
+      "Cardiogenic Shock",
+      "Norepinephrine",
+      "Pulmonary Edema",
+      "Dobutamine"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Cardiogenic Shock"
+    ],
+    "boardSafeLogic": "In cardiogenic shock with fluid overload, vasopressors provide pressure support without worsening lung congestion.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض جلطة وضغطه واطي وعنده سوائل ع الرئة. وين الفخ؟ إياك تعطيه سوائل (Crystalloids). كيف أستخدمها؟ العلاج الأول للضغط هون هو Norepinephrine مع ترتيب القسطرة فوراً.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c3_t2",
+    "source": "Rosen",
+    "chapterNumber": "3",
+    "chapterTitle": "Shock",
+    "topic": "Balanced Crystalloids vs. Normal Saline",
+    "keyPoints": [
+      "Balanced crystalloids (e.g., Lactated Ringer’s) are preferred over Normal Saline in septic shock.",
+      "Large volumes of Normal Saline (0.9% NaCl) can cause hyperchloremic metabolic acidosis and acute kidney injury (AKI).",
+      "Synthetic colloids like Hydroxyethyl starch (HES) are associated with renal failure and should be avoided."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid Normal Saline for massive resuscitation due to the risk of renal injury from high chloride load."
+    ],
+    "relatedKeywords": [
+      "Lactated Ringers",
+      "Normal Saline",
+      "Hyperchloremic Acidosis",
+      "Septic Shock"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Septic Shock",
+      "Endocrine / DKA / Electrolytes"
+    ],
+    "boardSafeLogic": "Recent trials (SMART/SALT-ED) support the use of balanced fluids to preserve renal function in critically ill adults.",
+    "arabicMentorExplanation": "شو الفكرة؟ الـ LR أحسن من الـ Saline في حالات الصدمة الإنتانية. وين الفخ؟ السينلاين بكميات كبيرة بيعمل حموضة بالدم (Hyperchloremic acidosis) وممكن يضرب الكلى. كيف أستخدمها؟ دايماً اختار Balanced crystalloids لو الخيار موجود.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c4_t1",
+    "source": "Rosen",
+    "chapterNumber": "4",
+    "chapterTitle": "Cardiac Arrest",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis",
+    "keyPoints": [
+      "All comatose patients (no meaningful response to verbal commands) with ROSC should receive TTM, regardless of the initial rhythm.",
+      "The earliest reliable time for neuro-prognostication is 72 hours post-arrest.",
+      "Non-convulsive seizures are common after arrest; EEG monitoring is recommended for comatose survivors."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid pre-hospital infusion of cold saline for induction of cooling as it increases the risk of pulmonary edema and rearrest.",
+      "Do not withdraw care early based on a poor neuro exam in the first 24-48 hours."
+    ],
+    "relatedKeywords": [
+      "TTM",
+      "ROSC",
+      "Cold Saline",
+      "Neuro-prognostication",
+      "EEG"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Cardiac Arrest / ROSC / TTM"
+    ],
+    "boardSafeLogic": "TTM improves neurologic outcomes; 72 hours allows for the resolution of transient post-arrest brain dysfunction.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض رجع قلبه بس لساته بغيبوبة. وين الفخ؟ ممنوع تحكم عليه إنه ميت دماغياً قبل مرور 72 ساعة. كيف أستخدمها؟ الـ TTM ضروري لكل المرضى اللي ما بصحصحوا بعد الإنعاش، وابعد عن تبريد المريض بالسوائل الباردة قبل ما يوصل المستشفى.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c6_t1",
+    "source": "Rosen",
+    "chapterNumber": "6",
+    "chapterTitle": "Pain Management",
+    "topic": "Pain Transmission and Assessment",
+    "keyPoints": [
+      "Self-reporting of pain by the patient is the gold standard and most reliable assessment method.",
+      "Non-verbal signs (tachycardia, movements) correlate poorly with the actual severity of pain felt by the patient.",
+      "Cardiac pain is specifically transmitted via the sympathetic system."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Assuming a patient isn't in pain because their heart rate and blood pressure are normal (non-verbal signs are unreliable)."
+    ],
+    "relatedKeywords": [
+      "Pain Assessment",
+      "Self-report",
+      "Sympathetic Transmission",
+      "Cardiac Pain"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Procedural Sedation / Analgesia"
+    ],
+    "boardSafeLogic": "Pain is a subjective experience; physiological changes are non-specific and may be absent in chronic or adapted pain states.",
+    "arabicMentorExplanation": "شو الفكرة؟ كيف بنقيس الوجع؟ وين الفخ؟ لا تعتمد على النبض أو الضغط لتعرف إذا المريض بيتوجع. كيف أستخدمها؟ كلام المريض هو المرجع الأول (Gold standard). معلومة للامتحان: وجع القلب بينتقل عن طريق الجهاز السمبثاوي.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c7_t1",
+    "source": "Rosen",
+    "chapterNumber": "7",
+    "chapterTitle": "Procedural Sedation and Analgesia",
+    "topic": "Ketamine Complications and Contraindications",
+    "keyPoints": [
+      "Ketamine provides dissociative anesthesia while maintaining respiratory drive and airway reflexes.",
+      "Laryngospasm is a rare complication, more frequent in infants <3 months or those with active URIs.",
+      "Ketamine increases intraocular pressure and should be avoided in patients with open globe injuries or glaucoma."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Giving ketamine to a patient with a known open globe injury could extrude intraocular contents due to increased pressure."
+    ],
+    "relatedKeywords": [
+      "Ketamine",
+      "Laryngospasm",
+      "Intraocular Pressure",
+      "Dissociative Anesthesia"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Procedural Sedation / Analgesia",
+      "RSI / Paralytics / Sedation physiology"
+    ],
+    "boardSafeLogic": "Ketamine is sympathetically active, supporting BP, but its effects on IOP and the risk of laryngospasm in high-risk groups must be considered.",
+    "arabicMentorExplanation": "شو الفكرة؟ مخاطر الكيتامين. وين الفخ؟ الكيتامين بيرفع ضغط العين، فممنوع لو المريض عنده إصابة 'عين مفتوحة'. كيف أستخدمها؟ لو المريض طفل وصار عنده (Laryngospasm)، بكون غالباً بسبب التهاب تنفسي حالي أو عمره أقل من 3 شهور.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c9_t1",
+    "source": "Rosen",
+    "chapterNumber": "9",
+    "chapterTitle": "Neuromuscular Weakness",
+    "topic": "Botulism Pathophysiology",
+    "keyPoints": [
+      "Botulism causes progressive impairment in the release of Acetylcholine (ACh) from the pre-synaptic terminal.",
+      "Presents with autonomic findings: abnormal pupil response, dry mucosa (decreased saliva), and urinary retention (bladder distension).",
+      "Weakness is typically descending and symmetric, starting with cranial nerves."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Confusing botulism with Myasthenia Gravis; Myasthenia involves nicotinic receptors and lacks the autonomic findings (dry mouth/bladder issues) seen in botulism."
+    ],
+    "relatedKeywords": [
+      "Botulism",
+      "ACh release",
+      "Autonomic",
+      "Descending Paralysis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Stroke / Brainstem / Dissection",
+      "Toxicology / Antidotes"
+    ],
+    "boardSafeLogic": "The absence of ACh release affects both nicotinic (muscular) and muscarinic (autonomic) systems, a key differentiator from other NMJ disorders.",
+    "arabicMentorExplanation": "شو الفكرة؟ تسمم الوشيق (Botulism). وين الفخ؟ المريض بكون عنده أعراض (Autonomic) زي نشاف ريق واحتباس بول، وهاد اللي بيميزه عن الوهن العضلي الوبيل (Myasthenia). كيف أستخدمها؟ لو شفت شلل نازل (Descending) مع أعراض ناشفة، فكر بالبوتولزم.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c10_t1",
+    "source": "Rosen",
+    "chapterNumber": "10",
+    "chapterTitle": "Dysfunctional Hemoglobins",
+    "topic": "Methemoglobinemia Clinical Presentation",
+    "keyPoints": [
+      "Oxidizing agents like Benzocaine (teething gels) convert ferrous iron (Fe2+) to ferric iron (Fe3+).",
+      "Methemoglobinemia causes a 'refractory' cyanosis that does not improve with supplemental oxygen.",
+      "Classic finding: 'Chocolate-colored' blood or serum."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Pulse oximetry often reads ~85% due to the light absorption spectrum of methemoglobin, regardless of true PaO2."
+    ],
+    "relatedKeywords": [
+      "Benzocaine",
+      "Methylene Blue",
+      "Ferric Iron",
+      "Chocolate Blood"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxicology / Antidotes"
+    ],
+    "boardSafeLogic": "Treatment with Methylene Blue reduces iron back to the Fe2+ state, restoring oxygen-carrying capacity.",
+    "arabicMentorExplanation": "شو الفكرة؟ الدم المصدأ (Methemoglobinemia). وين الفخ؟ المريض لونه أزرق بس الأكسجين بالدم (ABG) طبيعي، والتشبع (O2 sat) بكون ثابت عند 85%. كيف أستخدمها؟ لو طفل استعمل جل أسنان وصار أزرق، ابحث عن 'دم بلون الشوكولاتة' والعلاج (Methylene Blue).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c14_t1",
+    "source": "Rosen",
+    "chapterNumber": "14",
+    "chapterTitle": "Seizures",
+    "topic": "Eclamptic Seizures Management",
+    "keyPoints": [
+      "Intravenous Magnesium Sulfate (4 to 6 g loading dose) is the first-line therapy for eclamptic seizures.",
+      "Neuroimaging (CT head) should be considered only if neurologic deficits persist or consciousness is prolonged.",
+      "Magnesium prevents recurrent seizures while maintaining better uterine and fetal blood flow than standard anti-epileptics."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Administering Phenytoin or Benzodiazepines as first-line for eclampsia instead of Magnesium."
+    ],
+    "relatedKeywords": [
+      "Eclampsia",
+      "Magnesium Sulfate",
+      "Pregnancy Seizure",
+      "Neuroimaging"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB",
+      "Seizures / Status"
+    ],
+    "boardSafeLogic": "Magnesium is superior to anticonvulsants in eclampsia because it addresses the specific underlying vascular/endothelial pathology.",
+    "arabicMentorExplanation": "شو الفكرة؟ تشنجات الحامل (Eclampsia). وين الفخ؟ لا تبدأ بالأدوية العادية زي الـ Valproate، الحل الأول دايماً هو (Magnesium Sulfate). كيف أستخدمها؟ 4 لـ 6 غرام وريد هي الخطوة الأولى، وصورة الأشعة بس لو المريض ما صحي بعد التشنج.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c22_t1",
+    "source": "Rosen",
+    "chapterNumber": "22",
+    "chapterTitle": "Chest Pain",
+    "topic": "Tension Pneumothorax and Ventilation",
+    "keyPoints": [
+      "Tension pneumothorax is a clinical diagnosis: hypotension, respiratory distress, and decreased breath sounds.",
+      "A hallmark in intubated patients is a sudden increase in resistance during bag-valve-mask ventilation.",
+      "Immediate management: Needle decompression followed by tube thoracostomy."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Waiting for an X-ray to confirm a tension pneumothorax in an unstable/hypotensive patient."
+    ],
+    "relatedKeywords": [
+      "Tension Pneumothorax",
+      "Needle Decompression",
+      "Ventilation Resistance",
+      "Hypotension"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pneumothorax / Hemothorax",
+      "Trauma"
+    ],
+    "boardSafeLogic": "Tension prevents venous return; physical release of air must occur before hemodynamic stabilization is possible.",
+    "arabicMentorExplanation": "شو الفكرة؟ هواء الصدر الضاغط. وين الفخ؟ لو المريض على المنفسة وفجأة صار صعب تضغط البالون (Resistance)، هاد دليل قوي على (Tension). كيف أستخدمها؟ التشخيص إكلينيكي والحل إبرة فوراً قبل حتى صورة الأشعة.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c25_t1",
+    "source": "Rosen",
+    "chapterNumber": "25",
+    "chapterTitle": "Nausea and Vomiting",
+    "topic": "Gastric Outlet Obstruction",
+    "keyPoints": [
+      "Vomiting intact, undigested food eaten more than 12 hours earlier is pathognomonic for Gastric Outlet Obstruction (GOO).",
+      "Often caused by peptic ulcer disease or malignancy obstructing the pylorus.",
+      "Treatment involves decompression (NG tube) and definitive imaging to find the cause."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Mistaking GOO for simple gastroenteritis if the 'time since last meal' history isn't obtained."
+    ],
+    "relatedKeywords": [
+      "GOO",
+      "Undigested Food",
+      "Pyloric Obstruction",
+      "Vomiting"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "GI / Abdominal Pain"
+    ],
+    "boardSafeLogic": "Normal gastric emptying of solids should be largely complete by 12 hours; retained solids imply mechanical blockage.",
+    "arabicMentorExplanation": "شو الفكرة؟ انسداد مخرج المعدة (GOO). وين الفخ؟ العلامة المميزة جداً هي إن المريض بيستفرغ أكل أكله قبل أكتر من 12 ساعة ولساته زي ما هو. كيف أستخدمها؟ هاد العرض بيشخص الانسداد فوراً ولازم تركب NG tube وتدور على السبب (زي قرحة أو ورم).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c28_t1",
+    "source": "Rosen",
+    "chapterNumber": "28",
+    "chapterTitle": "Constipation and Diarrhea",
+    "topic": "Fecal Impaction and Diarrhea",
+    "keyPoints": [
+      "Diarrhea does not rule out fecal impaction; 'overflow' diarrhea can occur around a solid mass of stool.",
+      "Manual disimpaction is often necessary for solid impactions but may require procedural sedation due to pain.",
+      "Elderly and nursing home patients are at highest risk."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Dismissing impaction in an elderly patient complaining of watery diarrhea without a rectal exam."
+    ],
+    "relatedKeywords": [
+      "Fecal Impaction",
+      "Overflow Diarrhea",
+      "Manual Disimpaction",
+      "Elderly"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "GI / Abdominal Pain"
+    ],
+    "boardSafeLogic": "Hard stool acts as a partial obstruction; only liquid stool can pass the blockage, presenting as diarrhea.",
+    "arabicMentorExplanation": "شو الفكرة؟ الإسهال الكاذب (Overflow diarrhea). وين الفخ؟ المريض الكبير بالعمر ممكن يجي بإسهال وهو بالأصل عنده 'تسكيرة' براز (Impaction). كيف أستخدمها؟ الفحص الشرجي (Rectal exam) ضروري جداً لهيك حالات قبل ما توصف أدوية إسهال وتزيد المشكلة.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c30_t1",
+    "source": "Rosen",
+    "chapterNumber": "30",
+    "chapterTitle": "Vaginal Bleeding",
+    "topic": "Initial Evaluation of Vaginal Bleeding",
+    "keyPoints": [
+      "Pregnancy status is the single most important determination to make after assessing hemodynamic stability.",
+      "A negative urine pregnancy test effectively rules out intrauterine and most ectopic pregnancies.",
+      "Heavy bleeding requires prompt assessment for coagulopathy or structural lesions."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Starting structural workup (US) or hormonal therapy before confirming pregnancy status with a test."
+    ],
+    "relatedKeywords": [
+      "Vaginal Bleeding",
+      "Pregnancy Test",
+      "Hemodynamic Stability",
+      "hCG"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB"
+    ],
+    "boardSafeLogic": "Pregnancy changes the entire management branch of vaginal bleeding; it must be the first step in logic.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريضة عندها نزيف مهبلي. وين الفخ؟ أهم وأول خطوة بعد التأكد من الضغط هي 'فحص الحمل'. كيف أستخدمها؟ النتيجة بتغير كل مسار العلاج والفحوصات، فلا تطلب سونار قبل ما تعرف هي حامل أو لأ.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_1_chapters_1_30.json"
+  },
+  {
+    "id": "rosen_c32_t1",
+    "source": "Rosen",
+    "chapterNumber": "32",
+    "chapterTitle": "Trauma: Overview",
+    "topic": "Pediatric Trauma Anatomy and Physiology",
+    "keyPoints": [
+      "Children have a smaller body mass, making them more susceptible to multisystem injury from single-impact mechanisms.",
+      "Damage control resuscitation in pediatrics emphasizes limiting crystalloid volume to minimize coagulopathy.",
+      "Pediatric patients compensate for shock for longer periods but deteriorate rapidly once physiological thresholds are exceeded."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Assuming stable blood pressure in a child means they are not in shock; tachycardia is the more reliable early sign."
+    ],
+    "relatedKeywords": [
+      "Pediatric Trauma",
+      "Shock Compensation",
+      "Damage Control Resuscitation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "Paediatrics / Neonatal"
+    ],
+    "boardSafeLogic": "Physiological reserve in children masks blood loss; do not wait for hypotension to initiate resuscitation.",
+    "arabicMentorExplanation": "شو الفكرة؟ جسم الطفل صغير فالحوادث بتضرب أكتر من جهاز مع بعض. وين الفخ؟ الطفل بضل ضغطه طبيعي لآخر لحظة وبعدين بينهار. كيف أستخدمها؟ اعتمد ع النبض مش الضغط للتشخيص.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c32_t2",
+    "source": "Rosen",
+    "chapterNumber": "32",
+    "chapterTitle": "Trauma: Overview",
+    "topic": "Primary Survey Priorities",
+    "keyPoints": [
+      "The goal of the primary survey is to rapidly identify and treat life-threatening conditions (ATLS ABCs).",
+      "Treatment should begin at the time a life-threatening diagnosis is identified, rather than after the full survey.",
+      "Secondary survey goals include obtaining a detailed AMPLE history and evaluating non-life-threatening injuries."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [
+      "ATLS Primary Survey (ABCDE)"
+    ],
+    "relatedTraps": [
+      "Obtaining an AMPLE history is part of the secondary survey, NOT the primary survey."
+    ],
+    "relatedKeywords": [
+      "Primary Survey",
+      "Secondary Survey",
+      "AMPLE History",
+      "ATLS"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "Hemorrhagic Shock / MTP"
+    ],
+    "boardSafeLogic": "The sequence is designed to fix the most immediate cause of death first; never skip to the secondary survey until ABCs are stable.",
+    "arabicMentorExplanation": "شو الفكرة؟ ترتيب الأولويات في الحوادث. وين الفخ؟ قصة المريض (AMPLE) مكانها بالـ Secondary survey مش بالبداية. كيف أستخدمها؟ دايماً صلّح المشكلة اللي بتلاقيها قبل ما تكمل الفحص.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c34_t1",
+    "source": "Rosen",
+    "chapterNumber": "34",
+    "chapterTitle": "Facial Trauma",
+    "topic": "Septal Hematoma",
+    "keyPoints": [
+      "Nasal trauma can result in blood collection within the septum (septal hematoma).",
+      "Requires prompt drainage to prevent septal abscess or ischemia of the cartilage.",
+      "Untreated septal hematomas classically lead to a 'saddle nose' deformity."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Dismissing simple nasal trauma without internal inspection; the hematoma is often hidden behind the columella."
+    ],
+    "relatedKeywords": [
+      "Septal Hematoma",
+      "Saddle Nose",
+      "Nasal Drainage",
+      "Cartilage Ischemia"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "HEENT / Eye Emergencies",
+      "Trauma"
+    ],
+    "boardSafeLogic": "Cartilage lacks its own blood supply and depends on the perichondrium; a hematoma separates these, leading to rapid necrosis.",
+    "arabicMentorExplanation": "شو الفكرة؟ تجمع دموي في حاجز الأنف. وين الفخ؟ لو ما فرغته بسرعة، الغضروف بموت وبصير شكل الأنف مشوه (Saddle nose). كيف أستخدمها؟ أي مريض مضروب ع أنفه لازم تفحصه من جوا بدقة.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c36_t1",
+    "source": "Rosen",
+    "chapterNumber": "36",
+    "chapterTitle": "Neck Trauma",
+    "topic": "Penetrating Neck Trauma (No-Zone Approach)",
+    "keyPoints": [
+      "Modern consensus has shifted from zone-based surgical exploration to a 'no-zone' approach.",
+      "Management is guided by clinical examination and high-quality CTA Neck.",
+      "'Hard signs' of vascular or aerodigestive injury mandate immediate surgical intervention."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Relying on the anatomical zone of injury to determine the need for surgery instead of clinical 'hard signs'."
+    ],
+    "relatedKeywords": [
+      "Hard Signs",
+      "No-Zone",
+      "CTA Neck",
+      "Penetrating Neck Trauma"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "Airway Failure / Intubation"
+    ],
+    "boardSafeLogic": "If the patient is hemodynamically stable without hard signs, CTA is the preferred diagnostic modality regardless of the zone.",
+    "arabicMentorExplanation": "شو الفكرة؟ طعنات الرقبة. وين الفخ؟ بطلنا نعتمد ع الـ Zones؛ المهم هو الفحص السريري وصورة الـ CTA. كيف أستخدمها؟ لو في 'علامات قوية' (Hard signs) زي نزيف نبضي، المريض بروح العمليات فوراً.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c37_t1",
+    "source": "Rosen",
+    "chapterNumber": "37",
+    "chapterTitle": "Thoracic Trauma",
+    "topic": "Tension Pneumothorax in Intubated Patients",
+    "keyPoints": [
+      "Sudden increased resistance during bag-valve-mask ventilation is a hallmark of tension pneumothorax.",
+      "Presents with hypotension, tachycardia, and unilaterally decreased breath sounds.",
+      "Treatment: Immediate needle decompression followed by tube thoracostomy."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Waiting for an X-ray to confirm tension pneumothorax in a hypotensive patient; it is a clinical diagnosis."
+    ],
+    "relatedKeywords": [
+      "Tension Pneumothorax",
+      "Ventilation Resistance",
+      "Needle Decompression",
+      "Tube Thoracostomy"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pneumothorax / Hemothorax",
+      "Trauma",
+      "Airway Failure / Intubation"
+    ],
+    "boardSafeLogic": "Positive pressure ventilation accelerates the development of tension; any post-intubation crash should be assumed tension PTX until proven otherwise.",
+    "arabicMentorExplanation": "شو الفكرة؟ هواء الصدر الضاغط. وين الفخ؟ لو المريض مركبله أنبوبة وفجأة صار صعب تنفخ البالون (Resistance)، هاد Tension فوراً. كيف أستخدمها؟ الحل إبرة (Decompression) قبل الأشعة.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c38_t1",
+    "source": "Rosen",
+    "chapterNumber": "38",
+    "chapterTitle": "Abdominal Trauma",
+    "topic": "Unstable Pelvic Fracture and FAST",
+    "keyPoints": [
+      "If a hypotensive patient with a pelvic fracture has a positive FAST (intraperitoneal fluid), they go to the Operating Room (OR).",
+      "If the FAST is negative but the patient is still hypotensive, pelvic bleeding is likely retroperitoneal; the next step is Interventional Radiology (IR).",
+      "Pelvic binders are temporary stabilizing measures but do not replace definitive hemorrhage control."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [
+      "Unstable Pelvis Management Algorithm"
+    ],
+    "relatedTraps": [
+      "Sending an unstable patient with a positive FAST to IR instead of the OR for laparotomy."
+    ],
+    "relatedKeywords": [
+      "Pelvic Fracture",
+      "FAST",
+      "Laparotomy",
+      "Angioembolization"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "FAST / eFAST",
+      "Hemorrhagic Shock / MTP"
+    ],
+    "boardSafeLogic": "FAST only detects intraperitoneal fluid; a negative FAST in pelvic trauma implies the blood is in the retroperitoneum, which is managed via embolization.",
+    "arabicMentorExplanation": "شو الفكرة؟ كسر الحوض مع هبوط ضغط. وين الفخ؟ لو السونار (FAST) فيه سوائل، المريض بروح العمليات (OR). لو السونار نظيف والمريض لساته هابط، غالباً النزيف خلف الأمعاء ولازم يروح القسطرة (IR).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c46_t1",
+    "source": "Rosen",
+    "chapterNumber": "46",
+    "chapterTitle": "Urogenital Trauma",
+    "topic": "Urethral Injury Evaluation",
+    "keyPoints": [
+      "Blood at the urethral meatus in trauma is a classic sign of urethral injury.",
+      "High-riding prostate on rectal exam is another sign, though less sensitive.",
+      "Management: Perform a retrograde urethrogram (RUG) BEFORE attempting foley catheterization."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Blindly inserting a Foley catheter when blood at the meatus is present, which can convert a partial tear to a full transection."
+    ],
+    "relatedKeywords": [
+      "Retrograde Urethrogram",
+      "Blood at Meatus",
+      "Urethral Tear",
+      "High-riding Prostate"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "Renal Colic / Urinary"
+    ],
+    "boardSafeLogic": "RUG defines urethral integrity; a leak of contrast confirms injury and requires suprapubic drainage or specialized repair.",
+    "arabicMentorExplanation": "شو الفكرة؟ إصابة الإحليل. وين الفخ؟ لو شفت دم ع الفتحة، ممنوع تركب قسطرة (Foley). كيف أستخدمها؟ الخطوة الأولى هي صورة ملونة (Retrograde urethrogram) للتأكد من سلامة المجرى.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c51_t1",
+    "source": "Rosen",
+    "chapterNumber": "51",
+    "chapterTitle": "Eye Trauma",
+    "topic": "Seidel Test and Open Globe",
+    "keyPoints": [
+      "Seidel test: Fluorescein streaming (rivulets) under a slit lamp indicates aqueous humor leaking through a corneal defect.",
+      "Positive Seidel test is diagnostic of a full-thickness globe perforation.",
+      "Orbital fat seen in a lid laceration indicates a breach of the orbital septum."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Performing Tonometry (checking IOP) when an open globe is suspected; this can extrude eye contents."
+    ],
+    "relatedKeywords": [
+      "Seidel Test",
+      "Open Globe",
+      "Fluorescein",
+      "Orbital Septum"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "HEENT / Eye Emergencies",
+      "Trauma"
+    ],
+    "boardSafeLogic": "In open globe, management involves stopping the exam, applying a rigid eye shield, and giving IV antibiotics/antiemetics.",
+    "arabicMentorExplanation": "شو الفكرة؟ فحص إصابات العين المخترقة. وين الفخ؟ لو الـ (Seidel test) إيجابي يعني العين 'مفتوحة'؛ هون ممنوع تفحص ضغط العين بالـ (Tonometer). كيف أستخدمها؟ بس غطي العين بـ (Shield) واتصل بالأخصائي.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c56_t1",
+    "source": "Rosen",
+    "chapterNumber": "56",
+    "chapterTitle": "Dental Emergencies",
+    "topic": "Alveolar Osteitis (Dry Socket)",
+    "keyPoints": [
+      "Presents as severe dental pain 2–4 days after a tooth extraction.",
+      "Caused by premature loss or lysis of the blood clot in the socket, exposing bone.",
+      "Treatment: Irrigation with saline and packing with medicated gauze (e.g., eugenol)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Treating dry socket with oral antibiotics; it is a localized inflammatory process, not typically an infection."
+    ],
+    "relatedKeywords": [
+      "Dry Socket",
+      "Alveolar Osteitis",
+      "Post-extraction Pain",
+      "Eugenol"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "HEENT / Eye Emergencies"
+    ],
+    "boardSafeLogic": "The pain in dry socket is often refractory to systemic analgesics but responds immediately to local packing.",
+    "arabicMentorExplanation": "شو الفكرة؟ وجع بعد خلع الضرس بيومين لـ 4 أيام. وين الفخ؟ هاد مش التهاب بكتيري فما بيحتاج مضاد حيوي (Antibiotics). كيف أستخدمها؟ الحل هو تنظيف المكان وحشوه بشاش مبلل بـ (Eugenol).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c59_t1",
+    "source": "Rosen",
+    "chapterNumber": "59",
+    "chapterTitle": "Asthma",
+    "topic": "Risk Factors for Asthma-Related Death",
+    "keyPoints": [
+      "History of intubation or ICU admission for asthma is the strongest predictor of future fatal attacks.",
+      "Frequent ED visits (2+ in the last year) and excessive SABA use (2+ canisters/month) indicate high risk.",
+      "Comorbidities like cardiovascular disease and illicit drug use (cocaine) significantly increase mortality risk."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Underestimating the risk in a patient who has not been hospitalized recently but has a history of prior intubation."
+    ],
+    "relatedKeywords": [
+      "Asthma Death",
+      "Risk Stratification",
+      "Status Asthmaticus",
+      "Intubation History"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Asthma / COPD"
+    ],
+    "boardSafeLogic": "High-risk features should prompt a lower threshold for admission and aggressive early therapy.",
+    "arabicMentorExplanation": "شو الفكرة؟ مين مريض الأزمة اللي ممكن يموت؟ وين الفخ؟ أهم علامة هي 'تاريخ التنبيب' (Prior intubation). لو المريض دخل عناية قبل هيك بسبب الأزمة، هاد خطر جداً حتى لو حالته الحالية متوسطة.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_2_chapters_31_60.json"
+  },
+  {
+    "id": "rosen_c64_t1",
+    "source": "Rosen",
+    "chapterNumber": "64",
+    "chapterTitle": "ACS and MI",
+    "topic": "Angiography After Cardiac Arrest (ROSC)",
+    "keyPoints": [
+      "Immediate coronary angiography is mandated for ROSC patients with ST-elevation on ECG.",
+      "In patients without ST-elevation after ROSC, immediate angiography has not shown superior survival over a delayed approach (COACT trial).",
+      "Management should focus on identifying other non-cardiac causes if ECG is non-diagnostic."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Delaying the cath lab for a ROSC-STEMI patient because they are comatose; revascularization is still the priority."
+    ],
+    "relatedKeywords": [
+      "ROSC",
+      "STEMI",
+      "Angiography",
+      "Post-arrest Care"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "ACS / Chest Pain / Cardiovascular Risk Stratification",
+      "Cardiac Arrest / ROSC / TTM"
+    ],
+    "boardSafeLogic": "The ECG remains the primary triage tool for the cath lab in the post-ROSC period.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض رجع قلبه (ROSC) وعنده جلطة واضحة. وين الفخ؟ لو الـ ECG فيه STEMI، لازم يروح القسطرة فوراً حتى لو مش واعي. لو الـ ECG طبيعي، ممكن نستنى. كيف أستخدمها بالامتحان؟ جلطة واضحة = قسطرة فوراً.",
+    "needsVerification": true,
+    "_batchFile": "reference_library_cleaned_corrections_patch.json"
+  },
+  {
+    "id": "rosen_c71_t1",
+    "source": "Rosen",
+    "chapterNumber": "71",
+    "chapterTitle": "Acute Aortic Syndrome",
+    "topic": "Medical Management of Aortic Dissection",
+    "keyPoints": [
+      "The primary goal is to minimize aortic shear forces by decreasing the force of cardiac contraction (dP/dt).",
+      "Beta-1 adrenergic blockade (Antiadrenergics) is the preferred initial treatment.",
+      "Target heart rate should be 60 beats per minute or less.",
+      "Nitroprusside should only be added after heart rate is controlled to prevent reflex tachycardia."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Using vasodilators like Nitroprusside alone, which can cause reflex tachycardia and increase shear stress on the dissection flap."
+    ],
+    "relatedKeywords": [
+      "Aortic Dissection",
+      "dP/dt",
+      "Beta-blockade",
+      "Labetalol",
+      "Esmolol"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Aortic Dissection"
+    ],
+    "boardSafeLogic": "Controlling heart rate first reduces the 'water hammer' effect on the aortic wall before lowering systemic pressure.",
+    "arabicMentorExplanation": "شو الفكرة؟ علاج تمزق الأورطي. وين الفخ؟ أهم شي تقلل قوة خبطة الدم (dP/dt) مش بس الضغط. كيف أستخدمها؟ ابدأ بالـ (Antiadrenergic) زي الـ Labetalol عشان تنزل النبض تحت الـ 60 قبل ما تعطي أدوية توسيع الشرايين.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_3_chapters_61_90.json"
+  },
+  {
+    "id": "rosen_c75_t1",
+    "source": "Rosen",
+    "chapterNumber": "75",
+    "chapterTitle": "Esophagus",
+    "topic": "Esophageal Perforation Imaging",
+    "keyPoints": [
+      "Gastrografin (water-soluble) esophagography is the initial test of choice in stable patients to avoid mediastinal fibrosis.",
+      "Barium sulfate is more sensitive for small perforations but is reserved if the Gastrografin study is negative.",
+      "Upper endoscopy is generally not recommended as primary diagnosis due to risk of enlarging the perforation from air insufflation."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Starting with Barium in an unstable or high-suspicion patient; if it leaks into the mediastinum, it causes an intense inflammatory response."
+    ],
+    "relatedKeywords": [
+      "Esophageal Perforation",
+      "Gastrografin",
+      "Barium Swallow",
+      "Mediastinitis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Foreign Body / Button Battery / Caustic",
+      "GI / Abdominal Pain"
+    ],
+    "boardSafeLogic": "Water-soluble agents are safer if a leak exists; Barium is more sensitive but higher risk if it extravasates.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض شاكين عنده ثقب بالمريء. وين الفخ؟ ابدأ بصبغة (Gastrografin) لأنها بتذوب بالمية وما بتعمل مشاكل لو طلعت برة المريء. كيف أستخدمها؟ لو صورة الـ Gastrografin طلعت طبيعية والشك لساته عالي، وقتها بس بنطلب (Barium).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_3_chapters_61_90.json"
+  },
+  {
+    "id": "rosen_c77_t1",
+    "source": "Rosen",
+    "chapterNumber": "77",
+    "chapterTitle": "Small Bowel",
+    "topic": "Small Bowel Obstruction (SBO)",
+    "keyPoints": [
+      "Adhesions from prior surgeries are the most common cause of SBO in adults.",
+      "CT imaging is the gold standard, helping identify a 'transition point' between dilated and decompressed bowel.",
+      "High-grade or strangulated obstructions mandate emergent surgical intervention."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Dismissing SBO in a patient without prior surgery; remember to check for incarcerated hernias, which are the second most common cause."
+    ],
+    "relatedKeywords": [
+      "SBO",
+      "Adhesions",
+      "Transition Point",
+      "Strangulation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "GI / Abdominal Pain"
+    ],
+    "boardSafeLogic": "Identification of a mechanical transition point on CT differentiates SBO from adynamic ileus.",
+    "arabicMentorExplanation": "شو الفكرة؟ انسداد الأمعاء الدقيقة. وين الفخ؟ التصاقات العمليات القديمة (Adhesions) هي أشهر سبب. كيف أستخدمها؟ الـ CT هو الأفضل لتحديد مكان الانسداد بالضبط (Transition point). لو ما في عمليات سابقة، دور ع الفتوق (Hernias).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_3_chapters_61_90.json"
+  },
+  {
+    "id": "rosen_c78_t1",
+    "source": "Rosen",
+    "chapterNumber": "78",
+    "chapterTitle": "Acute Mesenteric Ischemia",
+    "topic": "Diagnosis of Mesenteric Ischemia",
+    "keyPoints": [
+      "Classically presents as 'pain out of proportion to exam' in an older patient with vascular risk factors (e.g., Atrial Fibrillation).",
+      "CT Angiography (CTA) is the preferred diagnostic study in the emergency department.",
+      "Lactate is often a late marker; a normal lactate does NOT rule out early ischemia."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Waiting for an elevated lactate or peritoneal signs to order a CTA; by that time, the bowel may already be necrotic."
+    ],
+    "relatedKeywords": [
+      "Mesenteric Ischemia",
+      "Pain Out of Proportion",
+      "CTA Abdomen",
+      "Atrial Fibrillation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Mesenteric Ischemia",
+      "GI / Abdominal Pain"
+    ],
+    "boardSafeLogic": "High clinical suspicion in patients with embolic risk factors should drive early imaging with CTA.",
+    "arabicMentorExplanation": "شو الفكرة؟ نقص تروية الأمعاء. وين الفخ؟ المريض بيتوجع بجنون بس فحص البطن بكون 'طبيعي' (Pain out of proportion). كيف أستخدمها؟ لا تستنى اللاكتات (Lactate) يرفع عشان تطلب (CTA).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_3_chapters_61_90.json"
+  },
+  {
+    "id": "rosen_c86_t1",
+    "source": "Rosen",
+    "chapterNumber": "86",
+    "chapterTitle": "Gynecology",
+    "topic": "Ovarian Torsion",
+    "keyPoints": [
+      "Diagnosis is primarily clinical supported by ultrasound showing an enlarged, edematous ovary.",
+      "The presence of arterial or venous Doppler flow does NOT rule out torsion due to dual blood supply (Ovarian and Uterine arteries).",
+      "Ovarian masses or cysts >5 cm are the most common predisposing factors."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Ruling out torsion because a sonographer reports 'normal Doppler flow' in a patient with classic symptoms."
+    ],
+    "relatedKeywords": [
+      "Ovarian Torsion",
+      "Doppler Flow",
+      "Adnexal Mass",
+      "Dual Blood Supply"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB",
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "Vascular flow is maintained in up to 25-40% of torsion cases; clinical judgment and ovary size are more reliable.",
+    "arabicMentorExplanation": "شو الفكرة؟ التواء المبيض. وين الفخ؟ وجود تروية دم (Doppler flow) بالتقرير 'ما بنفي' الالتواء. كيف أستخدمها؟ التشخيص بيعتمد على كبر حجم المبيض ووجع المريضة. لو شاكك، اتصل بالجراح حتى لو السونار فيه (Flow).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_3_chapters_61_90.json"
+  },
+  {
+    "id": "rosen_c91_t1",
+    "source": "Rosen",
+    "chapterNumber": "91",
+    "chapterTitle": "Central Nervous System Disorders",
+    "topic": "Multiple Sclerosis and Optic Neuritis",
+    "keyPoints": [
+      "Classic presentation: Young woman with painful, unilateral vision loss and papilledema.",
+      "History often includes prior neurologic deficits separated in time and space (e.g., resolving numbness).",
+      "MRI of the brain and spinal cord is the preferred study to identify demyelinating plaques."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not mistake MS for a simple migraine even if the patient has a history of them; the focal deficits and eye pain are red flags."
+    ],
+    "relatedKeywords": [
+      "Multiple Sclerosis",
+      "Optic Neuritis",
+      "Demyelination",
+      "Plaques"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Stroke / Brainstem / Dissection",
+      "HEENT / Eye Emergencies"
+    ],
+    "boardSafeLogic": "Optic neuritis is often the first clinical manifestation of MS; symptoms are typically painful, which differentiates it from central retinal artery occlusion.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريضة صغيرة عندها زغللة وجع بالعين مع تاريخ تنميل قديم راح ورجع. وين الفخ؟ مش كل وجع عين 'شقيقة'؛ هون العصب البصري ملتهب. كيف أستخدمها بالامتحان؟ التشخيص (MS) ولازم تطلب (MRI).",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c93_t1",
+    "source": "Rosen",
+    "chapterNumber": "93",
+    "chapterTitle": "Peripheral Nerve Disorders",
+    "topic": "Peripheral Neuropathy Patterns",
+    "keyPoints": [
+      "Pure motor and pure sensory peripheral neuropathies tend to occur in an asymmetrical distal pattern.",
+      "Autonomic involvement (e.g., in Botulism) differentiates certain neuropathies from pure motor ones like Myasthenia Gravis.",
+      "Initial evaluation focuses on identifying treatable underlying causes like diabetes or toxins."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Assuming all symmetrical neuropathies are Guillain-Barré; check for the 'stocking-glove' distribution of chronic metabolic causes."
+    ],
+    "relatedKeywords": [
+      "Neuropathy",
+      "Pure Motor",
+      "Asymmetrical",
+      "Distal"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Stroke / Brainstem / Dissection"
+    ],
+    "boardSafeLogic": "The distribution (proximal vs. distal) and type (motor vs. sensory) are the most useful features for narrowing the differential diagnosis.",
+    "arabicMentorExplanation": "شو الفكرة؟ أنماط ضعف الأعصاب الطرفية. وين الفخ؟ الضعف الحركي 'البحت' بكون غالباً مش متماثل (Asymmetrical). كيف أستخدمها بالامتحان؟ لو الضعف بس حركي أو بس حسي، فكر بالأعصاب الطرفية.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c94_t1",
+    "source": "Rosen",
+    "chapterNumber": "94",
+    "chapterTitle": "Neuromuscular Disorders",
+    "topic": "Dermatomyositis",
+    "keyPoints": [
+      "Inflammatory myopathy primarily affecting proximal muscle groups (e.g., hip flexors).",
+      "Clinical hallmark: Difficulty sitting upright from a supine position or climbing stairs.",
+      "Associated with a characteristic rash (e.g., Heliotrope or Gottron papules) on the chest or face."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not expect fasciculations; these are seen in motor neuron disease (ALS), not inflammatory myopathies like dermatomyositis."
+    ],
+    "relatedKeywords": [
+      "Dermatomyositis",
+      "Proximal Weakness",
+      "Heliotrope Rash",
+      "Muscle Biopsy"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Dermatology Emergencies"
+    ],
+    "boardSafeLogic": "Proximal muscle group involvement with a preserved distal strength is the defining motor pattern for myositis.",
+    "arabicMentorExplanation": "شو الفكرة؟ التهاب عضلات مناعي مع طفح جلدي. وين الفخ؟ المريض ما بيقدر يقوم من التخت (Proximal weakness) بس لساته بيقدر يمسك القلم ويكتب (Distal sparing). كيف أستخدمها بالامتحان؟ ضعف عضلات الورك + طفح ع الصدر = Dermatomyositis.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c102_t1",
+    "source": "Rosen",
+    "chapterNumber": "102",
+    "chapterTitle": "Joint Disorders",
+    "topic": "Septic Arthritis vs. Gout",
+    "keyPoints": [
+      "Septic arthritis typically presents with a very high synovial WBC count (>50,000) and PMN predominance (>75%).",
+      "The presence of crystals (e.g., needle-shaped in gout) does NOT rule out co-existing septic arthritis.",
+      "Staphylococcus aureus is the most common causative organism overall."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Ruling out infection because you saw crystals under the microscope; joint fluid MUST be sent for culture if suspicion is high."
+    ],
+    "relatedKeywords": [
+      "Septic Arthritis",
+      "Gout",
+      "Crystals",
+      "Synovial Fluid"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis",
+      "Orthopedics / Fractures"
+    ],
+    "boardSafeLogic": "Host immune status can lower the absolute WBC threshold; clinical gestalt and Gram stain/culture remain the gold standard.",
+    "arabicMentorExplanation": "شو الفكرة؟ التهاب مفصل بكتيري. وين الفخ؟ لو شفت بلورات 'النقرس' (Gout crystals) هاد مش معناه إنه ما في بكتيريا. كيف أستخدمها بالامتحان؟ لو المفصل ملتهب جداً والـ WBC عالي، ابدأ مضاد حيوي حتى لو في نقرس.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c105_t1",
+    "source": "Rosen",
+    "chapterNumber": "105",
+    "chapterTitle": "Allergy and Anaphylaxis",
+    "topic": "ACE-Inhibitor Induced Angioedema",
+    "keyPoints": [
+      "Caused by accumulation of bradykinin, not histamine; therefore, it does NOT respond to steroids or antihistamines.",
+      "Most commonly involves the lips, tongue, and upper airway; can occur years after starting the medication.",
+      "First priority is airway management, as progression can be rapid and unpredictable."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Wasting time with 'Anaphylaxis' meds (Epinephrine, Solu-Medrol) while the airway closes; proceed directly to intubation if stridor is present."
+    ],
+    "relatedKeywords": [
+      "Angioedema",
+      "ACE Inhibitor",
+      "Bradykinin",
+      "Airway"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Anaphylaxis / Hereditary Angioedema",
+      "Airway Failure / Intubation"
+    ],
+    "boardSafeLogic": "Management is supportive; specialized agents like Icatibant have shown mixed efficacy in trials compared to standard care.",
+    "arabicMentorExplanation": "شو الفكرة؟ تحسس بسبب دواء الضغط (ACEi). وين الفخ؟ هاد النوع ما بستجيب للكورتيزون ولا للأدرينالين. كيف أستخدمها بالامتحان؟ لو اللسان منفوخ والمريض بياخد (Lisinopril)، جهز حالك للتنبيب فوراً وما تضيع وقت بالأدوية.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c107_t1",
+    "source": "Rosen",
+    "chapterNumber": "107",
+    "chapterTitle": "Blood Transfusion",
+    "topic": "Massive Transfusion Protocol (MTP) Ratios",
+    "keyPoints": [
+      "Optimal resuscitation in trauma uses a 1:1:1 ratio of Fresh Frozen Plasma (FFP), Platelets, and Red Blood Cells (RBCs).",
+      "The PROPPR trial demonstrated that this ratio reduces mortality from exsanguination and improves hemostasis.",
+      "Type AB is the universal donor for FFP (contains no A or B antibodies)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Using Type O blood as the universal donor for FFP; Type O is for RBCs, AB is for Plasma."
+    ],
+    "relatedKeywords": [
+      "MTP",
+      "1:1:1 Ratio",
+      "FFP",
+      "Hemostasis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Hemorrhagic Shock / MTP",
+      "Trauma"
+    ],
+    "boardSafeLogic": "Balanced resuscitation aims to mimic whole blood to prevent dilutional coagulopathy in the 'lethal triad' of trauma.",
+    "arabicMentorExplanation": "شو الفكرة؟ بروتوكول نقل الدم المكثف (MTP). وين الفخ؟ النسبة الصح هي 1:1:1 (دم : بلازما : صفائح). كيف أستخدمها بالامتحان؟ تذكر إن البلازما (AB) هي اللي بتنعطى للكل، والدم (O) هو اللي بنعطى للكل.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c108_t1",
+    "source": "Rosen",
+    "chapterNumber": "108",
+    "chapterTitle": "Anemia and Hypocoagulable States",
+    "topic": "Warfarin Reversal in Life-Threatening Bleed",
+    "keyPoints": [
+      "Prothrombin Complex Concentrate (PCC) is the first-line agent for rapid reversal of Warfarin in patients with intracranial hemorrhage.",
+      "Intravenous Vitamin K (5-10 mg) must be given concurrently to provide long-term clotting factor synthesis.",
+      "PCC is superior to FFP because it reverses the INR faster and with less volume (preventing fluid overload in CHF patients)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Giving Vitamin K alone; it takes 6-12 hours to work and will not help a patient actively bleeding into their brain."
+    ],
+    "relatedKeywords": [
+      "Warfarin",
+      "INR Reversal",
+      "PCC",
+      "Vitamin K"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Hematologic Disorders",
+      "Stroke / Brainstem / Dissection"
+    ],
+    "boardSafeLogic": "In the setting of CHF and intracranial bleed, PCC is mandatory to avoid the volume-overload associated with multiple units of FFP.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض بياخد وارفارين وعنده نزيف دماغ. وين الفخ؟ الـ (FFP) صار قديم وبياخد وقت؛ الحل السريع هو (PCC) مع فيتامين K وريد. كيف أستخدمها بالامتحان؟ لو المريض عنده هبوط قلب (CHF)، الـ PCC أحسن عشان ما نغرقه بالسوائل.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c112_t1",
+    "source": "Rosen",
+    "chapterNumber": "112",
+    "chapterTitle": "Oncologic Emergencies",
+    "topic": "Febrile Neutropenia Management",
+    "keyPoints": [
+      "Defined as a single temperature >38.3°C or >38.0°C sustained for 1 hour, with an ANC < 500 cells/μL.",
+      "Emergent blood cultures and initiation of broad-spectrum antibiotics (e.g., Cefepime) must occur within 60 minutes.",
+      "Initial physical exam focus: Mucositis, perianal abscesses, and indwelling catheter sites."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Waiting for an ANC result before starting antibiotics in a septic cancer patient; treat empirically if neutropenia is suspected."
+    ],
+    "relatedKeywords": [
+      "Febrile Neutropenia",
+      "ANC",
+      "Cefepime",
+      "Blood Cultures"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "Neutropenic patients may lack typical signs of inflammation (e.g., no rales in pneumonia or no pus in an abscess) because they cannot mount a WBC response.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض سرطان عنده حرارة. وين الفخ؟ المريض ممكن يكون عنده التهاب رئوي بس صورة الصدر 'طبيعية' لأنه ما عنده خلايا تعمل صديد. كيف أستخدمها بالامتحان؟ حرارة + سرطان = مضاد حيوي (Cefepime) خلال ساعة بدون تأخير.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c113_t1",
+    "source": "Rosen",
+    "chapterNumber": "113",
+    "chapterTitle": "Acid-Base Disorders",
+    "topic": "Priority in Metabolic Acidosis",
+    "keyPoints": [
+      "The primary goal is identifying and treating the underlying cause (e.g., DKA, Sepsis, Toxins).",
+      "Sodium Bicarbonate is generally NOT indicated for pH > 7.1 and may cause a paradoxical intracellular acidosis.",
+      "Monitoring the 'Base Excess' helps quantify the severity of the metabolic derangement."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Over-correcting pH with bicarbonate in DKA; this increases the risk of cerebral edema, especially in children."
+    ],
+    "relatedKeywords": [
+      "Metabolic Acidosis",
+      "Bicarbonate",
+      "Base Excess",
+      "Anion Gap"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Endocrine / DKA / Electrolytes"
+    ],
+    "boardSafeLogic": "Treating the cause (e.g., fluid/insulin for DKA) allows the body to metabolize organic acids and naturally correct the pH.",
+    "arabicMentorExplanation": "شو الفكرة؟ حموضة الدم. وين الفخ؟ لا تركض ورا الـ (Bicarbonate)؛ الأولوية هي علاج السبب (زي السوائل للصدمة). كيف أستخدمها بالامتحان؟ البيكربونات بس لو الحموضة شديدة جداً (تحت 7.1)، وغير هيك بتضر المريض.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c117_t1",
+    "source": "Rosen",
+    "chapterNumber": "117",
+    "chapterTitle": "Endocrine Disorders",
+    "topic": "Thyrotoxicosis and Thyroid Storm",
+    "keyPoints": [
+      "Tachycardia is the most common presenting sign of thyrotoxicosis.",
+      "Thyroid storm is a clinical diagnosis (Burch-Wartofsky score) involving hyperpyrexia, CNS dysfunction, and GI symptoms.",
+      "Stepwise treatment: Beta-blocker (Propranolol) -> PTU/Methimazole -> Iodine -> Steroids."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Administering Iodine BEFORE blocking thyroid hormone synthesis with PTU/Methimazole; this can worsen the storm."
+    ],
+    "relatedKeywords": [
+      "Thyrotoxicosis",
+      "Thyroid Storm",
+      "Tachycardia",
+      "Propranolol"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Endocrine / DKA / Electrolytes",
+      "Dysrhythmias / ECG Patterns"
+    ],
+    "boardSafeLogic": "The sequence of medications is critical to prevent a sudden release of pre-formed thyroid hormone into the circulation.",
+    "arabicMentorExplanation": "شو الفكرة؟ عاصفة الغدة الدرقية. وين الفخ؟ الترتيب في العلاج هو كل شي. لازم تعطي (PTU) قبل 'اليود'. كيف أستخدمها بالامتحان؟ أشهر علامة هي تسارع النبض، وأول دواء هو (Propranolol) عشان يهدي القلب ويمنع تحول الهرمون.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c118_t1",
+    "source": "Rosen",
+    "chapterNumber": "118",
+    "chapterTitle": "Infectious Disease",
+    "topic": "Diphtheria Presentation",
+    "keyPoints": [
+      "Classic finding: Grayish-white, 'leathery' pseudomembranous coat over the tonsils and posterior pharynx.",
+      "Presents with profound neck swelling ('bull neck') and can cause airway obstruction.",
+      "Most significant life-threatening complication is myocarditis/dysrhythmias (from the exotoxin)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Dismissing it as a simple viral sore throat; look for the grayish coat that bleeds when scraped."
+    ],
+    "relatedKeywords": [
+      "Diphtheria",
+      "Pseudomembrane",
+      "Bull Neck",
+      "Exotoxin"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis",
+      "Airway Failure / Intubation"
+    ],
+    "boardSafeLogic": "Diphtheria is a reportable public health emergency requiring immediate antitoxin and isolation.",
+    "arabicMentorExplanation": "شو الفكرة؟ مرض الدفتيريا. وين الفخ؟ العلامة المميزة هي غشاء رمادي ع اللوزتين ورقبة منفوخة (Bull neck). كيف أستخدمها بالامتحان؟ لو شفت مريض مهاجر عنده حرارة ورقبة منفوخة وغشاء رمادي، هاد خطر جداً ع القلب والجهاز التنفسي.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_4_chapters_91_120.json"
+  },
+  {
+    "id": "rosen_c121_t1",
+    "source": "Rosen",
+    "chapterNumber": "121",
+    "chapterTitle": "Foreign Bodies",
+    "topic": "Esophageal Food Bolus Impaction",
+    "keyPoints": [
+      "Glucagon (1–2 mg IV) is more efficacious than nitroglycerin or nifedipine for meat bolus impaction.",
+      "Enzymatic degradation with papain is STRICTLY CONTRAINDICATED due to high risk of esophageal perforation.",
+      "Endoscopy remains the gold standard for definitive removal."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Using meat tenderizer (papain) which can digest the esophageal wall along with the food bolus."
+    ],
+    "relatedKeywords": [
+      "Food Bolus",
+      "Glucagon",
+      "Papain",
+      "Esophageal Perforation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Foreign Body / Button Battery / Caustic",
+      "GI / Abdominal Pain"
+    ],
+    "boardSafeLogic": "Medical therapies are temporizing; chemical digestion of the bolus is unsafe and obsolete.",
+    "arabicMentorExplanation": "شو الفكرة؟ علاج انحشار الأكل بالمريء. وين الفخ؟ مادة (Papain) اللي بمطرّي اللحم ممنوعة لأنها بتعمل ثقب بالمريء. كيف أستخدمها بالامتحان؟ استعمل (Glucagon) كخيار طبي، بس المنظار هو الحل النهائي.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c122_t1",
+    "source": "Rosen",
+    "chapterNumber": "122",
+    "chapterTitle": "Envenomations",
+    "topic": "Scorpion and Snake Bite Observation",
+    "keyPoints": [
+      "Symptomatic children with scorpion stings require admission; asymptomatic cases must be observed for at least 6 hours.",
+      "Most venomous snake bites show signs of envenomation within 6 hours (the 'dry bite' rule).",
+      "Pregnant patients and those with comorbidities should be admitted after black widow envenomation."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Discharging a child early after a scorpion sting; neurotoxicity can have a delayed onset."
+    ],
+    "relatedKeywords": [
+      "Scorpion Sting",
+      "Snake Bite",
+      "Dry Bite",
+      "Envenomation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Environmental Emergencies",
+      "Toxicology / Antidotes"
+    ],
+    "boardSafeLogic": "A 6-hour observation window is standard to safely rule out significant envenomation in stable patients.",
+    "arabicMentorExplanation": "شو الفكرة؟ متى تروح مريض مقروص؟ وين الفخ؟ الطفل لازم يضل تحت العين 6 ساعات ع الأقل. كيف أستخدمها بالامتحان؟ لو مريض قرصته أفعى وما طلع عليه أعراض بـ 6 ساعات، غالباً القرصة 'ناشفة' (Dry bite) وبقدر يروح.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c128_t1",
+    "source": "Rosen",
+    "chapterNumber": "128",
+    "chapterTitle": "Hypothermia and Frostbite",
+    "topic": "Termination of Resuscitation in Hypothermia",
+    "keyPoints": [
+      "Indicators for early termination of CPR (before rewarming) include a body frozen solid (chest non-compressible).",
+      "Serum potassium >12 mmol/L is a reliable indicator of non-viability in hypothermic arrest.",
+      "Fixed and dilated pupils are NOT specific in hypothermia and should not be used to stop resuscitation."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [
+      "Figure 14.5: Triage tool for hypothermic cardiac arrest."
+    ],
+    "relatedTraps": [
+      "Stopping resuscitation because the patient 'looks dead' and is cold; they must be 'warm and dead' unless specific TOR criteria are met."
+    ],
+    "relatedKeywords": [
+      "Hypothermic Arrest",
+      "Serum Potassium",
+      "Frozen Solid",
+      "TOR"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Cardiac Arrest / ROSC / TTM",
+      "Environmental Emergencies"
+    ],
+    "boardSafeLogic": "Extreme hyperkalemia (>12) indicates massive cell death and lysis, making survival impossible regardless of temperature.",
+    "arabicMentorExplanation": "شو الفكرة؟ متى نوقف إنعاش مريض متجمد؟ وين الفخ؟ المريض مش ميت ليصير (Warm and Dead). كيف أستخدمها بالامتحان؟ لو البوتاسيوم فوق 12 أو الجسم متجمد لدرجة إنه الصدر ما بينضغط، هون بس بنوقف قبل التدفئة.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c136_t1",
+    "source": "Rosen",
+    "chapterNumber": "136",
+    "chapterTitle": "Toxic Alcohols",
+    "topic": "Isopropyl Alcohol Metabolism",
+    "keyPoints": [
+      "Isopropyl alcohol is metabolized to acetone, leading to ketonemia and ketonuria WITHOUT metabolic acidosis.",
+      "Presents with 'fruity' breath, CNS depression, and hemorrhagic gastritis.",
+      "Management is primarily supportive; hemodialysis is rarely needed unless hypotension is refractory."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Assuming ketosis always implies DKA or alcoholic ketoacidosis; check the anion gap and pH."
+    ],
+    "relatedKeywords": [
+      "Isopropyl Alcohol",
+      "Acetone",
+      "Ketosis without Acidosis",
+      "Hemorrhagic Gastritis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxicology / Antidotes",
+      "Endocrine / DKA / Electrolytes"
+    ],
+    "boardSafeLogic": "The hallmark of Isopropanol is a large osmolal gap with a normal anion gap and pH.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض سكران وعنده كيتونات بس دمه مش حامض. وين الفخ؟ (Isopropyl) بيعمل كيتونات بالبول بس 'بدون' حموضة (Normal pH). كيف أستخدمها بالامتحان؟ لو لقيت كيتونات والـ pH طبيعي، هاد Isopropyl مش DKA.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c138_t1",
+    "source": "Rosen",
+    "chapterNumber": "138",
+    "chapterTitle": "Acetaminophen",
+    "topic": "King's College Criteria for Liver Transplant",
+    "keyPoints": [
+      "Used to determine the need for immediate hepatic transplant in fulminant APAP-induced liver failure.",
+      "Criteria: pH <7.3 (or lactate >3.5 mmol/L) after resuscitation OR the combination of Cr >3.3, INR >6.5, and encephalopathy.",
+      "Repeated supratherapeutic ingestions (chronic) cannot be plotted on the Rumack-Matthew nomogram."
+    ],
+    "tables": [
+      "King's College Criteria for Hepatic Transplant."
+    ],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Attempting to use the nomogram for a patient who took APAP over 3 days for a toothache."
+    ],
+    "relatedKeywords": [
+      "APAP",
+      "King's College Criteria",
+      "Fulminant Hepatic Failure",
+      "NAC"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxicology / Antidotes",
+      "GI / Abdominal Pain"
+    ],
+    "boardSafeLogic": "Prognosis in APAP toxicity depends on early NAC and identifying those who have already progressed to irreversible failure.",
+    "arabicMentorExplanation": "شو الفكرة؟ متى مريض الباراسيتامول بدوه زراعة كبد؟ وين الفخ؟ معايير (King's College) هي الحكم. كيف أستخدمها بالامتحان؟ لو الـ pH تحت 7.3 أو اللاكتات لساته عالي بعد السوائل، هاد مريض لازم يتحول لمركز زراعة أعضاء فوراً.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c142_t1",
+    "source": "Rosen",
+    "chapterNumber": "142",
+    "chapterTitle": "Cardiovascular Drugs",
+    "topic": "Chronic Digoxin Toxicity",
+    "keyPoints": [
+      "Chronic toxicity presents with vague symptoms: nausea, weakness, and visual changes (yellow-green halos/xanthopsia).",
+      "Potentiated by hypokalemia (often due to concurrent diuretic use).",
+      "Treatment: Digoxin-specific antibody fragments (Digibind/Digifab)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Acute overdose causes HYPERkalemia, while chronic toxicity is often associated with HYPOkalemia."
+    ],
+    "relatedKeywords": [
+      "Digoxin",
+      "Xanthopsia",
+      "Hypokalemia",
+      "Digibind"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxicology / Antidotes",
+      "Dysrhythmias / ECG Patterns"
+    ],
+    "boardSafeLogic": "Chronic toxicity happens at lower levels than acute; clinical symptoms are more important than the absolute number.",
+    "arabicMentorExplanation": "شو الفكرة؟ تسمم الديجوكسين المزمن. وين الفخ؟ المريض بيجي بأعراض عادية زي 'لوعة وزغللة بالألوان' (هالات صفراء). كيف أستخدمها بالامتحان؟ لو مريض قلب وعنده زغللة، اطلب مستوى الديجوكسين وعالجه بـ (Digibind) لو في أعراض خطيرة.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c155_t1",
+    "source": "Rosen",
+    "chapterNumber": "155",
+    "chapterTitle": "Pediatric Resuscitation",
+    "topic": "Compensated Shock in Children",
+    "keyPoints": [
+      "Tachypnea with clear breath sounds on auscultation is characteristic of compensated shock.",
+      "The tachypnea represents respiratory compensation for a primary metabolic acidosis.",
+      "Blood pressure remains normal in compensated shock; once it drops, the child is in decompensated shock."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Mistaking respiratory distress (lung issue) for respiratory compensation (shock issue)."
+    ],
+    "relatedKeywords": [
+      "Pediatric Shock",
+      "Compensated Shock",
+      "Tachypnea",
+      "Clear Lungs"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Paediatrics / Neonatal",
+      "Septic Shock"
+    ],
+    "boardSafeLogic": "Children use their heart rate and respiratory rate to maintain cardiac output and pH until they abruptly collapse.",
+    "arabicMentorExplanation": "شو الفكرة؟ كيف تعرف إن الطفل بصدمة؟ وين الفخ؟ 'النهجة' (Tachypnea) مع رئة صافية بالسماعة معناها الطفل بيحاول يعوض حموضة الدم. كيف أستخدمها بالامتحان؟ هاد طفل بوضع (Compensated shock) ولازم سوائل وريد فوراً حتى لو ضغطه لسه طبيعي.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c156_t1",
+    "source": "Rosen",
+    "chapterNumber": "156",
+    "chapterTitle": "Pediatric Airway",
+    "topic": "Endotracheal Tube Depth Formula",
+    "keyPoints": [
+      "The formula for ETT insertion depth (lip to mid-trachea) is 3 × ETT size.",
+      "Example: A 4.0 ETT should be taped at 12 cm at the lip.",
+      "Uncuffed ETT size formula (1-10 years): 4 + (Age/4)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Using the 'Age + 16' formula for depth; the 3x rule is simpler and standard for board exams."
+    ],
+    "relatedKeywords": [
+      "Pediatric ETT",
+      "Depth Formula",
+      "Airway Management"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Airway Failure / Intubation",
+      "Paediatrics / Neonatal"
+    ],
+    "boardSafeLogic": "Correct depth prevents endobronchial intubation or accidental extubation during movement.",
+    "arabicMentorExplanation": "شو الفكرة؟ قديش ندخل أنبوبة الأطفال؟ وين الفخ؟ العمق دايماً 3 أضعاف حجم الأنبوبة. كيف أستخدمها بالامتحان؟ لو استعملت أنبوبة قياس 4، ثبتها عند علامة الـ 12 سم (3*4).",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c173_t1",
+    "source": "Rosen",
+    "chapterNumber": "173",
+    "chapterTitle": "Obstetrics",
+    "topic": "$\beta$-hCG Discriminatory Zone",
+    "keyPoints": [
+      "The modern discriminatory zone for visualizing an IUP on transvaginal ultrasound is 3500 IU/L.",
+      "A value of 3500 is used to avoid misdiagnosing a nonviable pregnancy in patients with a desired IUP.",
+      "If the level is below 3500 and the patient is stable, the most appropriate next step is repeat hCG in 48 hours."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Using the traditional 1500–2000 threshold to rule out IUP, which risks giving Methotrexate to a viable early pregnancy."
+    ],
+    "relatedKeywords": [
+      "$\beta$-hCG",
+      "Discriminatory Zone",
+      "Ectopic Pregnancy",
+      "IUP"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB",
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "Higher thresholds prioritize the safety of a potential pregnancy over immediate diagnosis of ectopic pregnancy in stable patients.",
+    "arabicMentorExplanation": "شو الفكرة؟ متى لازم نشوف كيس الحمل بالسونار المهبلي؟ وين الفخ؟ الرقم الجديد للامتحان هو 3500. كيف أستخدمها بالامتحان؟ لو الهرمون تحت الـ 3500 والسونار مش مبين شي، 'إياك' تستعجل؛ استنى 48 ساعة وراقب تطور الهرمون.",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c177_t1",
+    "source": "Rosen",
+    "chapterNumber": "177",
+    "chapterTitle": "Trauma in Pregnancy",
+    "topic": "Resuscitative Hysterotomy",
+    "keyPoints": [
+      "Indicated in maternal cardiopulmonary arrest if the pregnancy is >20 weeks (fundus at or above umbilicus).",
+      "Ideally performed within 4 minutes of arrest and completed by 5 minutes if no ROSC.",
+      "Procedure uses a vertical midline incision to optimize speed and fetal access."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Transferring to the OR for the procedure; it MUST be performed in the ED to be effective."
+    ],
+    "relatedKeywords": [
+      "Resuscitative Hysterotomy",
+      "Perimortem C-Section",
+      "Maternal Arrest",
+      "Viability"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "Pregnancy / OB",
+      "Cardiac Arrest / ROSC / TTM"
+    ],
+    "boardSafeLogic": "Evacuating the uterus removes aortocaval compression, which may lead to successful maternal ROSC while potentially saving the fetus.",
+    "arabicMentorExplanation": "شو الفكرة؟ عملية قيصرية طارئة وقت توقف قلب الأم الحامل. وين الفخ؟ لازم تنعمل بغرفة الطوارئ خلال 4-5 دقائق لو الحمل فوق الـ 20 أسبوع. كيف أستخدمها بالامتحان؟ الهدف إنقاذ الأم (بتقليل الضغط ع الشرايين) والجنين؛ والفتحة دايماً طولية (Vertical).",
+    "needsVerification": true,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_ce15_t1",
+    "source": "Rosen",
+    "chapterNumber": "E15",
+    "chapterTitle": "Radiation Emergencies",
+    "topic": "Radiation Triage Priority",
+    "keyPoints": [
+      "Medical stabilization (ABCDEs) always takes priority over radiation decontamination.",
+      "Conditions like STEMI or tension pneumothorax must be treated before sending the patient to the shower.",
+      "Pure irradiation (exposure to rays) poses no threat to medical staff; only contamination (dust/fluid) requires PPE."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Delaying the cardiac cath lab for a STEMI patient because they triggered a radiation meter."
+    ],
+    "relatedKeywords": [
+      "Radiation Triage",
+      "Decontamination",
+      "STEMI",
+      "Contamination"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems",
+      "ACS / Chest Pain / Cardiovascular Risk Stratification",
+      "Trauma"
+    ],
+    "boardSafeLogic": "Immediate life-threats kill in minutes; radiation injury kills in days to weeks.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض متعرض للإشعاع وعنده جلطة قلبية. وين الفخ؟ الـ (ABC) وإنقاذ الحياة دايماً أهم من تنظيف المريض من الإشعاع. كيف أستخدمها بالامتحان؟ لو المريض جلطة، فعّل فريق القسطرة فوراً ولا تضيع وقت بالدوش؛ الحياة أولاً.",
+    "needsVerification": false,
+    "_batchFile": "rosen_reference_batch_5_chapters_121_end.json"
+  },
+  {
+    "id": "rosen_c17_t1",
+    "source": "Rosen",
+    "chapterNumber": "17",
+    "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+    "topic": "Retinal Detachment POCUS",
+    "keyPoints": [
+      "Characterized by painless monocular vision loss described as a 'dark curtain' or 'flashers'.",
+      "POCUS finding: A thin, white echogenic line superficial to the posterior part of the eye.",
+      "The detached membrane remains tethered to the optic nerve (optic disc).",
+      "Risk factors include increasing age, myopia, and family history."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 17.2: Ultrasound showing thin white line of detached retina.",
+      "Figure 25.32: POCUS view of retinal detachment tethered to optic disc."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not confuse with vitreous hemorrhage; hemorrhage appears as scattered white echoes/swirling smoke rather than a distinct tethered line."
+    ],
+    "relatedKeywords": [
+      "Retinal Detachment",
+      "Painless Vision Loss",
+      "Optic Nerve Tether",
+      "Flashers and Floaters"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "HEENT / Eye Emergencies",
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "Retinal detachment is an anatomical extension of the optic nerve; its fixed attachment at the disc on POCUS is the defining diagnostic feature.",
+    "arabicMentorExplanation": "شو الفكرة؟ تشخيص انفصال الشبكية بالسونار. وين الفخ؟ الشبكية دايماً بضل 'مربوطة' بالعصب البصري (Optic Disc) وهاد بميزها عن نزيف العين. كيف أستخدمها بالامتحان؟ لو شفت غشاء بيتحرك بس ماسك في نقطة العصب، هي شبكية.",
+    "needsVerification": false,
+    "_batchFile": "rosen_missing_citation_patch.json"
+  },
+  {
+    "id": "rosen_c38_t2",
+    "source": "Rosen",
+    "chapterNumber": "38",
+    "chapterTitle": "Abdominal Trauma",
+    "topic": "Management Algorithm for Unstable Pelvic Fractures",
+    "keyPoints": [
+      "The e-FAST examination is the primary tool for guiding disposition in unstable pelvic trauma.",
+      "Unstable patient + Positive FAST = Immediate transfer to the Operating Room (OR) for laparotomy.",
+      "Unstable patient + Negative FAST = Immediate transfer to Interventional Radiology (IR) for pelvic angiography and embolization."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [
+      "Unstable Pelvis Management Algorithm (FAST-based triage)."
+    ],
+    "relatedTraps": [
+      "Sending a hypotensive patient with a positive FAST to IR instead of the OR; a positive FAST implies intraperitoneal hemorrhage requiring surgery."
+    ],
+    "relatedKeywords": [
+      "Pelvic Fracture",
+      "FAST",
+      "Angiography",
+      "Laparotomy",
+      "Retroperitoneal Hemorrhage"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "FAST / eFAST",
+      "Hemorrhagic Shock / MTP"
+    ],
+    "boardSafeLogic": "A negative FAST scan in the setting of pelvic trauma and hypotension strongly suggests the bleeding is retroperitoneal, which is managed via embolization, not laparotomy.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض حادث عنده كسر حوض وضغطه واطي. وين الفخ؟ السونار (FAST) هو اللي بقرر وين يروح. كيف أستخدمها بالامتحان؟ لو السونار فيه سوائل (+) وديه العمليات فوراً. لو نظيف (-) والمريض لساته هابط، يعني النزيف خلف الأمعاء وديه القسطرة (IR).",
+    "needsVerification": false,
+    "_batchFile": "rosen_missing_citation_patch.json"
+  },
+  {
+    "id": "rosen_c95_t1",
+    "source": "Rosen",
+    "chapterNumber": "95",
+    "chapterTitle": "Renal and Genitourinary Disorders",
+    "topic": "Complications of Ureteral Stenting",
+    "keyPoints": [
+      "Acute anemia (e.g., hemoglobin drop from 13 to 6.7) post-ureteral stent placement is a red flag.",
+      "Most common life-threatening complication to consider is a retroperitoneal hematoma.",
+      "Non-contrast CT of the abdomen and pelvis is the appropriate diagnostic study to evaluate for this complication."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Dismissing microhematuria after stent placement as the cause of severe anemia; microhematuria is common, but significant Hgb drops require imaging for hematoma."
+    ],
+    "relatedKeywords": [
+      "Ureteral Stent",
+      "Retroperitoneal Hematoma",
+      "Acute Anemia",
+      "CT Abdomen"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Renal Colic / Urinary",
+      "Trauma"
+    ],
+    "boardSafeLogic": "Procedure-related vascular injury can lead to occult retroperitoneal bleeding; clinical suspicion must remain high if vitals or labs deteriorate post-stenting.",
+    "arabicMentorExplanation": "شو الفكرة؟ مضاعفات تركيب دعامة الحالب (Stent). وين الفخ؟ لو المريض صار عنده فقر دم حاد بعد العملية، لا تلوم الدم اللي بالبول بس. كيف أستخدمها بالامتحان؟ فكر فوراً بـ (Retroperitoneal hematoma) واطلب صورة CT.",
+    "needsVerification": false,
+    "_batchFile": "rosen_missing_citation_patch.json"
+  },
+  {
+    "id": "rosen_c155_t2",
+    "source": "Rosen",
+    "chapterNumber": "155",
+    "chapterTitle": "Pediatric Resuscitation",
+    "topic": "Fever in Well-Appearing Infants Criteria",
+    "keyPoints": [
+      "Philadelphia Protocol (29–56 days): Used for infants with fever ≥38.2°C; includes CBC, BC, UA, UC, CSF, and CXR.",
+      "Rochester Criteria (≤60 days): Focuses on low-risk features (WBC 5k-15k, band-to-neutrophil ratio ≤0.2) to predict serious bacterial infection (SBI).",
+      "Boston Criteria (28–89 days): Identifies low-risk infants with fever ≥38°C who may be candidates for outpatient management.",
+      "Philadelphia Criteria boasts a Negative Predictive Value (NPV) of 99.7% for SBI."
+    ],
+    "tables": [
+      "Table 10.3: Comparison of Low-Risk Rochester, Philadelphia, and Boston Criteria."
+    ],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Rochester criteria excludes lumbar puncture, meaning the number of missed meningitis cases may be unknown compared to Philadelphia."
+    ],
+    "relatedKeywords": [
+      "Philadelphia Criteria",
+      "Rochester Criteria",
+      "Boston Criteria",
+      "SBI",
+      "Febrile Infant"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Paediatrics / Neonatal",
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "These criteria are used to identify infants at such low risk for SBI that they can potentially be discharged without parenteral antibiotics.",
+    "arabicMentorExplanation": "شو الفكرة؟ معايير تقييم خطر الالتهابات عند الأطفال الصغار المسخنين. وين الفخ؟ سكور (فيلادلفيا) هو الأدق والأشمل لأنه بيشمل فحص سائل الظهر (CSF). كيف أستخدمها بالامتحان؟ لو الطفل عمره (29-56 يوم) وحرارته فوق 38.2، بنطبق عليه سكور فيلادلفيا لتقليل خطر الـ SBI.",
+    "needsVerification": true,
+    "_batchFile": "rosen_missing_citation_patch.json"
+  },
+  {
+    "id": "rosen_c177_t2",
+    "source": "Rosen",
+    "chapterNumber": "177",
+    "chapterTitle": "Trauma in Pregnancy",
+    "topic": "Pregnancy-Adapted YEARS Algorithm",
+    "keyPoints": [
+      "A diagnostic tool used to safely rule out Pulmonary Embolism (PE) in pregnant patients while minimizing radiation.",
+      "Incorporates three YEARS items: signs of DVT, hemoptysis, and PE as the most likely diagnosis.",
+      "If 0 items are present and D-dimer <1000 ng/mL, PE is ruled out.",
+      "If >=1 item is present and D-dimer <500 ng/mL, PE is ruled out."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [
+      "Pregnancy-Adapted YEARS Algorithm"
+    ],
+    "relatedTraps": [
+      "Applying standard D-dimer cutoffs (500) to all pregnant patients without using clinical items, which leads to over-imaging."
+    ],
+    "relatedKeywords": [
+      "YEARS Algorithm",
+      "PE in Pregnancy",
+      "D-dimer",
+      "Radiation Stewardship"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB",
+      "Pulmonary Embolism"
+    ],
+    "boardSafeLogic": "YEARS items + D-dimer provides a sensitive strategy to avoid CTPA or V/Q scans in a significant portion of pregnant patients.",
+    "arabicMentorExplanation": "شو الفكرة؟ سكور (YEARS) لتشخيص جلطة الرئة عند الحوامل بدون أشعة زيادة. وين الفخ؟ لو ما في أعراض (Zero items)، بنرفع سقف الـ D-dimer للـ 1000. كيف أستخدمها بالامتحان؟ استعمل السكور لتقرر مين لازم تعملها صورة صبغة (CTPA) ومين لا.",
+    "needsVerification": true,
+    "_batchFile": "rosen_missing_citation_patch.json"
+  },
+  {
+    "id": "tint_c1_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "1",
+    "chapterTitle": "Prehospital Care and Disaster Management",
+    "topic": "EMTALA and Interfacility Transfer",
+    "keyPoints": [
+      "EMTALA requires a medical screening exam (MSE) and stabilization prior to transfer.",
+      "Liability for adverse events during transfer remains with the transferring physician at the sending hospital.",
+      "Transfer is appropriate when the benefits of care at a higher-level facility outweigh the risks of transport."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Liability does NOT transfer to the receiving physician immediately upon acceptance of the patient transfer call."
+    ],
+    "relatedKeywords": [
+      "EMTALA",
+      "Stabilization",
+      "Medical Screening Exam",
+      "Liability"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Stabilization must be attempted within the capabilities of the transferring facility, but the transferring physician remains legally responsible for the patient until the transfer is complete.",
+    "arabicMentorExplanation": "شو الفكرة؟ قانون EMTALA بيحمي المريض من النقل قبل الاستقرار. وين الفخ؟ الطبيب اللي بيبعت المريض هو اللي بيتحمل المسؤولية القانونية وقت النقل. كيف أستخدمها بالامتحان؟ المسؤولية تقع على عاتق المستشفى المرسِل.",
+    "needsVerification": true,
+    "_batchFile": "reference_library_cleaned_corrections_patch.json"
+  },
+  {
+    "id": "tint_c1_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "1",
+    "chapterTitle": "Prehospital Care and Disaster Management",
+    "topic": "Blast Injury Pathophysiology",
+    "keyPoints": [
+      "Lung barotrauma is the most common cause of primary fatality among blast victims.",
+      "Secondary blast injuries are caused by flying debris and bomb fragments and are the most common cause of morbidity/mortality overall.",
+      "Tympanic membrane rupture is a common primary blast injury but NOT an accurate predictor of internal visceral injury."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Don't assume a normal-appearing eardrum rules out serious internal lung or bowel blast injury."
+    ],
+    "relatedKeywords": [
+      "Blast Injury",
+      "Lung Barotrauma",
+      "Primary Blast Injury",
+      "Secondary Blast Injury"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pneumothorax / Hemothorax",
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Primary injuries affect air-filled organs (lungs, ears, bowel) due to the pressure wave; secondary injuries are kinetic (shrapnel).",
+    "arabicMentorExplanation": "شو الفكرة؟ إصابات الانفجار بتقسم لدرجات. وين الفخ؟ إصابة الرئة هي القاتل الأول بالأولية، بس طبلة الأذن مش مقياس دقيق لإصابات الصدر والبطن. كيف أستخدمها بالامتحان؟ الرئة هي أهم عضو في الـ Primary blast.",
+    "needsVerification": false,
+    "_batchFile": "reference_library_cleaned_corrections_patch.json"
+  },
+  {
+    "id": "tint_c5_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "5",
+    "chapterTitle": "Cardiovascular Disorders",
+    "topic": "TIMI Risk Score",
+    "keyPoints": [
+      "Used to risk stratify patients with chest pain for ACS/MI outcomes.",
+      "Components: Age >=65, 3+ CAD risk factors, prior stenosis >50%, ASA use (last 7 days), 2+ angina episodes (24h), ST changes, (+) markers.",
+      "HEART score is often preferred in modern practice as it includes patient history ('H')."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Patient 'History' is NOT a component of the TIMI score, whereas it IS a component of the HEART score."
+    ],
+    "relatedKeywords": [
+      "TIMI Score",
+      "ACS",
+      "Risk Stratification",
+      "Cardiac Markers"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "ACS / Chest Pain / Cardiovascular Risk Stratification"
+    ],
+    "boardSafeLogic": "TIMI is validated for predicting 14-day mortality or MI in patients already suspected of having unstable angina or NSTEMI.",
+    "arabicMentorExplanation": "شو الفكرة؟ سكور TIMI لتقييم خطورة مرضى جلطات القلب. وين الفخ؟ إنه ما بيعتمد على قصة المريض السريرية (History) زي الـ HEART score. كيف أستخدمها بالامتحان؟ ركز بالأرقام: العمر فوق 65، واستخدام الأسبرين آخر أسبوع.",
+    "needsVerification": false,
+    "_batchFile": "reference_library_cleaned_corrections_patch.json"
+  },
+  {
+    "id": "tint_c6_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "6",
+    "chapterTitle": "Thoracic-Respiratory Disorders",
+    "topic": "Klebsiella Pneumonia",
+    "keyPoints": [
+      "Classically affects patients with chronic alcoholism or diabetes.",
+      "Presents with 'currant jelly' sputum (thick and bloody).",
+      "Radiographic hallmark: Bulging fissure sign due to heavy inflammatory exudate."
+    ],
+    "tables": [],
+    "visuals": [
+      "Bulging fissure sign on CXR"
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not confuse with simple Strep pneumonia; the presence of an abscess or bulging fissure in an alcoholic patient strongly points to Klebsiella."
+    ],
+    "relatedKeywords": [
+      "Klebsiella",
+      "Currant jelly sputum",
+      "Bulging fissure sign",
+      "Alcoholism"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "Klebsiella is a necrotizing lobar pneumonia that often involves the upper lobes.",
+    "arabicMentorExplanation": "شو الفكرة؟ التهاب رئوي حاد عند مرضى الكحول. وين الفخ؟ البلغم بكون لونه زي 'مربى التوت' (Currant jelly). كيف أستخدمها بالامتحان؟ لو شفت مريض كحولي وعنده (Bulging fissure sign) بالأشعة، الجواب هو كليبسيلا.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_1_chapters_1_10.json"
+  },
+  {
+    "id": "tint_c10_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "10",
+    "chapterTitle": "Pediatrics",
+    "topic": "Pediatric Airway Sizing",
+    "keyPoints": [
+      "0–6 months: 3.5 cuffed ETT; Blade size 1 straight.",
+      "1–2 years: 4.5 cuffed ETT; Blade size 1.5 straight.",
+      "9–10 years: 6.0 cuffed ETT; Blade size 2.0 curved."
+    ],
+    "tables": [
+      "Table 10.1: Age-Based Airway Equipment Size."
+    ],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Uncuffed tubes are traditional, but modern guidelines (AHA/AAP) support cuffed tubes to prevent leak and improve ventilation accuracy."
+    ],
+    "relatedKeywords": [
+      "Pediatric Intubation",
+      "ETT Size",
+      "Laryngoscope",
+      "Cuffed ETT"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "Paediatrics / Neonatal",
+      "Airway Failure / Intubation"
+    ],
+    "boardSafeLogic": "Correct equipment size is based on age-related anatomy; cuffed tubes are now standard for almost all ages.",
+    "arabicMentorExplanation": "شو الفكرة؟ مقاسات أنابيب التنفس للأطفال حسب العمر. وين الفخ؟ زمان كانوا يفضلوا الـ Uncuffed للصغار، بس حالياً الـ Cuffed هو المفضل. كيف أستخدمها بالامتحان؟ احفظ المقاسات لكل فئة عمرية بدقة.",
+    "needsVerification": true,
+    "_batchFile": "reference_library_cleaned_corrections_patch.json"
+  },
+  {
+    "id": "tint_c10_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "10",
+    "chapterTitle": "Pediatrics",
+    "topic": "Pediatric Head Trauma Rules (PECARN)",
+    "keyPoints": [
+      "Used to identify children at very low risk for clinically important traumatic brain injury (ciTBI).",
+      "Criteria for <2 years: GCS <15, AMS, palpable skull fracture, non-frontal scalp hematoma, LOC >5s, severe mechanism.",
+      "Criteria for >=2 years: GCS <15, AMS, signs of basilar skull fracture, LOC, severe headache, severe vomiting, severe mechanism."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [
+      "PECARN Head Trauma Algorithm"
+    ],
+    "relatedTraps": [
+      "Frontal hematomas in children <2 years are NOT high-risk; it is the non-frontal (parietal/occipital) ones that mandate concern."
+    ],
+    "relatedKeywords": [
+      "PECARN",
+      "ciTBI",
+      "Skull Fracture",
+      "Scalp Hematoma"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Trauma",
+      "Paediatrics / Neonatal"
+    ],
+    "boardSafeLogic": "Clinical decision rules help minimize unnecessary CT scans while maintaining near 100% sensitivity for injuries requiring surgery.",
+    "arabicMentorExplanation": "شو الفكرة؟ متى أطلب صورة طبقية (CT) لرأس الطفل بعد الوقعة؟ وين الفخ؟ الضربة ع الجبهة (Frontal) مش خطيرة، بس الضربة من الجنب أو ورا هي اللي بتخوف. كيف أستخدمها بالامتحان؟ طبق قواعد PECARN لتجنب الأشعة الزائدة.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_1_chapters_1_10.json"
+  },
+  {
+    "id": "tint_c11_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "11",
+    "chapterTitle": "Systemic Infectious Disorders",
+    "topic": "Disseminated Gonococcal Infection (DGI)",
+    "keyPoints": [
+      "Presents with a classic triad: tenosynovitis, dermatitis (pustular acral skin lesions), and polyarthralgia.",
+      "Acral skin lesions are often sparse, pustular, or hemorrhagic with an erythematous base.",
+      "Urethral chlamydial infection should be considered as a co-infection or in the differential for sterile pyuria."
+    ],
+    "tables": [
+      "Table 11.2: Treatment of Sexually Transmitted Infections"
+    ],
+    "visuals": [
+      "Figure 11.1: Acral pustular rash on arm."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Don't confuse DGI skin lesions with simple cellulitis; look for the acral distribution and the patient's sexual history."
+    ],
+    "relatedKeywords": [
+      "Gonococcemia",
+      "Pustular Rash",
+      "Sterile Pyuria",
+      "Tenosynovitis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "DGI often presents with skin lesions and joint pain; always check for Neisseria in young, sexually active patients with these symptoms.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض شاب عنده وجع مفاصل وطفح جلدي حبوب (Pustules). وين الفخ؟ التشخيص بيعتمد على مكان الحبوب (Acral) والقصة الجنسية. كيف أستخدمها؟ لو شفت حبوب ع الأطراف مع وجع مفاصل، فكر بـ DGI.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c11_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "11",
+    "chapterTitle": "Systemic Infectious Disorders",
+    "topic": "Toxic Shock Syndrome (TSS)",
+    "keyPoints": [
+      "Staphylococcal TSS: Painless, diffuse, red, macular rash (sunburn-like) involving palms and soles.",
+      "Associated with retained foreign bodies: tampons, nasal packing, or barrier contraceptives.",
+      "Streptococcal TSS: Often associated with a painful soft tissue infection (necrotizing fasciitis) and carries higher mortality."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Staph TSS rash is typically PAINLESS; if the rash/area is severely painful, think Strep TSS/Necrotizing Fasciitis."
+    ],
+    "relatedKeywords": [
+      "TSS",
+      "Staphylococcus aureus",
+      "Sunburn rash",
+      "Nasal packing"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "Always remove the focus of infection (like nasal packing) in suspected TSS cases while starting aggressive fluid resuscitation.",
+    "arabicMentorExplanation": "شو الفكرة؟ تسمم بكتيري بيعمل هبوط ضغط وطفح جلدي زي حرق الشمس. وين الفخ؟ الطفح في الـ Staph بيكون مش مؤلم، بس في الـ Strep بيكون فيه وجع شديد. كيف أستخدمها؟ دور على سدادة أنف أو (tampon) منسي.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c11_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "11",
+    "chapterTitle": "Systemic Infectious Disorders",
+    "topic": "Tetanus Management",
+    "keyPoints": [
+      "Tetanus Immune Globulin (TIG) should be administered BEFORE wound debridement to neutralize exotoxin release.",
+      "Recommended TIG dose: 3000 to 6000 units IM, with a portion injected around the wound.",
+      "Commonly presents as 'lockjaw' (trismus) and generalized muscle spasms."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Never debride a suspected tetanus wound before giving TIG; manipulation can trigger a massive release of toxin."
+    ],
+    "relatedKeywords": [
+      "Tetanus",
+      "TIG",
+      "Exotoxin",
+      "Trismus",
+      "Opisthotonus"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "Management focuses on toxin neutralization, infection control, and airway protection.",
+    "arabicMentorExplanation": "شو الفكرة؟ التيتانوس بيعمل تشنجات عضلية قاتلة. وين الفخ؟ لازم تعطي المضاد (TIG) 'قبل' ما تنظف الجرح عشان ما تطلع السموم زيادة. كيف أستخدمها؟ ترتيب الخطوات مهم جداً في السؤال: TIG أولاً.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c12_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "12",
+    "chapterTitle": "Nervous System Disorders",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+    "keyPoints": [
+      "Classic patient: Obese woman of childbearing age presenting with headache and visual changes.",
+      "Hallmark sign: Papilledema on fundoscopic exam.",
+      "Diagnosis: Elevated opening pressure on Lumbar Puncture (LP) with normal CSF composition and normal imaging."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 12.1: Papilledema on funduscopy."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "If left untreated, the most serious sequela is permanent vision loss, not stroke or migraine."
+    ],
+    "relatedKeywords": [
+      "Pseudotumor cerebri",
+      "Papilledema",
+      "Opening pressure",
+      "Vision loss"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Stroke / Brainstem / Dissection",
+      "HEENT / Eye Emergencies"
+    ],
+    "boardSafeLogic": "LP serves both a diagnostic (opening pressure) and therapeutic (volume removal) role.",
+    "arabicMentorExplanation": "شو الفكرة؟ ضغط عالي جوا الدماغ بدون سبب واضح، بيجي للستات البدينات. وين الفخ؟ أهم خطر هو فقدان البصر الدائم. كيف أستخدمها؟ لو مريضة بدينة عندها وجع رأس وغباش رؤية، الـ LP هو الحل للتشخيص.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c12_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "12",
+    "chapterTitle": "Nervous System Disorders",
+    "topic": "Status Epilepticus",
+    "keyPoints": [
+      "Definition: Seizure activity lasting >= 5 minutes or two or more seizures without regaining consciousness.",
+      "Initial drug of choice: Intravenous Benzodiazepines (e.g., Lorazepam).",
+      "Nonconvulsive status: Comatose or abnormal mental status without overt movements; diagnosed by EEG."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT wait for 30 minutes to define status; current standard is 5 minutes for starting aggressive treatment."
+    ],
+    "relatedKeywords": [
+      "Status Epilepticus",
+      "Lorazepam",
+      "EEG",
+      "Refractory Seizure"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Seizures / Status"
+    ],
+    "boardSafeLogic": "Time is brain; rapid intervention with benzodiazepines followed by long-acting agents (e.g., Keppra, Phenytoin) is key.",
+    "arabicMentorExplanation": "شو الفكرة؟ تشنج مستمر أكتر من 5 دقائق. وين الفخ؟ التعريف القديم (30 دقيقة) ما عاد ينفع للامتحان. كيف أستخدمها؟ الخطوة الأولى دايماً بنزو (Lorazepam) وإذا ما نفع، بنروح للخطوة التانية.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c13_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "13",
+    "chapterTitle": "Toxicologic Disorders",
+    "topic": "Caustic Ingestions (Acid vs Alkali)",
+    "keyPoints": [
+      "Alkali (e.g., Lye): Cause liquefactive necrosis; deep penetration through tissues.",
+      "Acids: Cause coagulation necrosis; form a superficial eschar that may limit penetration.",
+      "Treatment focus: Securing the airway and emergent endoscopy (within 24 hours)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "NEVER neutralize a caustic with water or weak acid/base; the exothermic reaction causes severe thermal burns."
+    ],
+    "relatedKeywords": [
+      "Liquefactive necrosis",
+      "Coagulation necrosis",
+      "Endoscopy",
+      "Lye"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Foreign Body / Button Battery / Caustic",
+      "Toxicology / Antidotes"
+    ],
+    "boardSafeLogic": "Absence of oral burns does NOT rule out significant esophageal injury, especially with alkali.",
+    "arabicMentorExplanation": "شو الفكرة؟ بلع مواد كاوية (حمض أو قلوي). وين الفخ؟ ممنوع تعطي مية أو حليب عشان تعادل المادة (Neutralization) لأنها بتعمل حرارة وبتحرق الأنسجة زيادة. كيف أستخدمها؟ الخطوة الصح هي المنظار (Endoscopy).",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c13_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "13",
+    "chapterTitle": "Toxicologic Disorders",
+    "topic": "Methemoglobinemia",
+    "keyPoints": [
+      "Commonly caused by oxidizing agents like benzocaine (teething gels) or nitrates.",
+      "Presentation: Cyanosis (blue-grey skin) that does not improve with supplemental oxygen.",
+      "Pulse oximetry often saturates around 85% regardless of actual oxygenation.",
+      "Antidote: Methylene Blue."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Supplemental oxygen is ineffective because the hemoglobin cannot release oxygen to the tissues."
+    ],
+    "relatedKeywords": [
+      "Methemoglobin",
+      "Benzocaine",
+      "Methylene Blue",
+      "Chocolate-colored blood"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxicology / Antidotes"
+    ],
+    "boardSafeLogic": "Methylene blue reduces the ferric iron (Fe3+) in methemoglobin back to the ferrous state (Fe2+).",
+    "arabicMentorExplanation": "شو الفكرة؟ المريض بصير لونه أزرق ودمه لونه زي الشوكولاتة. وين الفخ؟ الأكسجين ما برفع التشبع (O2 sat) بضل بحدود الـ 85%. كيف أستخدمها؟ لو طفل استعمل جل أسنان (Benzocaine) وصار أزرق، العلاج (Methylene Blue).",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c14_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "14",
+    "chapterTitle": "Environmental Injuries",
+    "topic": "Frostbite Management",
+    "keyPoints": [
+      "Treatment involves rapid rewarming in a warm water bath (37–39°C).",
+      "Third and fourth-degree frostbite involve full-thickness skin destruction and hemorrhagic blisters.",
+      "Debridement should be DELAYED until clear demarcation of devitalized tissue (days to weeks)."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 14.1: Hemorrhagic blisters in frostbite."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT debride frostbite in the ED; you may remove tissue that could eventually survive."
+    ],
+    "relatedKeywords": [
+      "Frostbite",
+      "Rapid rewarming",
+      "Hemorrhagic blisters",
+      "Demarcation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Environmental Emergencies"
+    ],
+    "boardSafeLogic": "The hallmark of successful management is rewarming without mechanical trauma (avoid rubbing/friction).",
+    "arabicMentorExplanation": "شو الفكرة؟ تجمد الأطراف. وين الفخ؟ إياك تشيل الجلد الميت (Debridement) في الطوارئ؛ استنى أسابيع لتبين الحدود. كيف أستخدمها؟ العلاج الأساسي تدفئة سريعة بمية دافية (مش حامية كتير).",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c14_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "14",
+    "chapterTitle": "Environmental Injuries",
+    "topic": "Carbon Monoxide (CO) Poisoning",
+    "keyPoints": [
+      "CO binds to hemoglobin with >200x the affinity of oxygen, causing tissue hypoxia.",
+      "Indications for Hyperbaric Oxygen (HBO): Pregnancy with COHb >15%, any COHb >25%, syncope, seizure, or focal deficits.",
+      "Initial treatment: 100% supplemental oxygen (normobaric)."
+    ],
+    "tables": [
+      "Table 14.2: Indications for HBO in CO poisoning."
+    ],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Standard pulse oximetry cannot distinguish between oxyhemoglobin and carboxyhemoglobin; it will be falsely normal."
+    ],
+    "relatedKeywords": [
+      "CO poisoning",
+      "Carboxyhemoglobin",
+      "HBO",
+      "Fetal hemoglobin"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Environmental Emergencies",
+      "Toxicology / Antidotes"
+    ],
+    "boardSafeLogic": "Fetal hemoglobin has a higher affinity for CO; thus, the threshold for HBO is lower in pregnant patients.",
+    "arabicMentorExplanation": "شو الفكرة؟ تسمم غاز أول أكسيد الكربون. وين الفخ؟ جهاز الـ (Pulse oximetry) العادي بكون طبيعي رغم إن المريض مخنوق. كيف أستخدمها؟ احفظ أرقام الـ (HBO): أكتر من 15 للحامل وأكتر من 25 للباقي.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c15_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "15",
+    "chapterTitle": "Endocrine, Metabolic, and Nutritional Disorders",
+    "topic": "Diabetic Ketoacidosis (DKA) Management",
+    "keyPoints": [
+      "Cornerstones: Volume repletion, potassium replacement, and insulin drip.",
+      "Potassium must be replaced if <5.2 mEq/L BEFORE or during insulin starting to avoid life-threatening hypokalemia.",
+      "Sodium Bicarbonate is generally NOT recommended and may increase the risk of cerebral edema, especially in children."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 15.3: DKA treatment checklist."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Never start insulin if potassium is <3.3 mEq/L; replace potassium first."
+    ],
+    "relatedKeywords": [
+      "DKA",
+      "Anion Gap",
+      "Hypokalemia",
+      "Cerebral Edema"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Endocrine / DKA / Electrolytes"
+    ],
+    "boardSafeLogic": "Insulin drives potassium intracellularly; treating DKA without checking K+ can cause sudden cardiac arrest.",
+    "arabicMentorExplanation": "شو الفكرة؟ حموضة الدم لمرضى السكر. وين الفخ؟ أهم شي البوتاسيوم. إذا البوتاسيوم واطي وبدأت (Insulin)، المريض ممكن يموت فوراً. كيف أستخدمها؟ تأكد من البوتاسيوم قبل ما تشغل مضخة الإنسولين.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c15_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "15",
+    "chapterTitle": "Endocrine, Metabolic, and Nutritional Disorders",
+    "topic": "Adrenal Crisis",
+    "keyPoints": [
+      "Presents with refractory hypotension, fever, and GI symptoms, often in patients on chronic steroids.",
+      "Classic electrolyte pattern: Hyponatremia and Hyperkalemia (in primary insufficiency).",
+      "Definitive treatment: Hydrocortisone 100 mg IV."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT wait for a cosyntropin stimulation test in a crashing patient; treat empirically with steroids if suspected."
+    ],
+    "relatedKeywords": [
+      "Adrenal crisis",
+      "Hydrocortisone",
+      "Hyponatremia",
+      "Hyperkalemia"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Endocrine / DKA / Electrolytes",
+      "Septic Shock"
+    ],
+    "boardSafeLogic": "Secondary adrenal insufficiency (from stopping oral steroids) usually doesn't have hyperkalemia because mineralocorticoids are still active.",
+    "arabicMentorExplanation": "شو الفكرة؟ فشل الغدة الكظرية، بكون المريض عنده هبوط ضغط ما بتحسن بالسوائل. وين الفخ؟ فكر فيها دايماً لو مريض بياخد كورتيزون ووقفه فجأة. كيف أستخدمها؟ العلاج هو (Hydrocortisone) 100 ملغ وريد فوراً.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c16_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "16",
+    "chapterTitle": "Hematologic Disorders",
+    "topic": "Immune Thrombocytopenic Purpura (ITP)",
+    "keyPoints": [
+      "Characterized by isolated thrombocytopenia with a normal physical exam (no splenomegaly).",
+      "Treatment (if platelets <30,000): Corticosteroids are first-line.",
+      "Prophylactic platelet transfusion is only for counts <10,000–20,000 to prevent spontaneous bleed."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid NSAIDs and aspirin as they further impair platelet function in an already thrombocytopenic patient."
+    ],
+    "relatedKeywords": [
+      "ITP",
+      "Platelets",
+      "Corticosteroids",
+      "Purpura"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Hematologic Disorders"
+    ],
+    "boardSafeLogic": "ITP is a diagnosis of exclusion; ensure no other causes of low platelets (like TTP or DIC) are present.",
+    "arabicMentorExplanation": "شو الفكرة؟ تكسر صفائح مناعي. وين الفخ؟ المريض بكون (Well-appearing) وما عنده تضخم طحال. كيف أستخدمها؟ لو الصفائح تحت الـ 30 ألف، ابدأ كورتيزون. نقل الصفائح بس للحالات الخطيرة جداً.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c17_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "17",
+    "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+    "topic": "Retinal Detachment",
+    "keyPoints": [
+      "Presentation: Painless vision loss described as a 'dark curtain' or 'flashers and floaters'.",
+      "POCUS finding: Thin echogenic line in the vitreous that remains tethered to the optic nerve.",
+      "Emergent ophthalmology consult is mandatory to preserve vision."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 17.2/25.15: Ultrasound showing detached retina."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT confuse with vitreous hemorrhage; the retina is a more distinct, tethered membrane on US."
+    ],
+    "relatedKeywords": [
+      "Retinal detachment",
+      "Flashers",
+      "Floaters",
+      "Optic nerve tether"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "HEENT / Eye Emergencies",
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "Detachment is often spontaneous but risk increases with age, myopia, and trauma.",
+    "arabicMentorExplanation": "شو الفكرة؟ انفصال الشبكية. وين الفخ؟ المريض بحس ببرق (Flashers) أو ستارة سودة نزلت على عينه. كيف أستخدمها؟ بالسونار بتشوف خط أبيض طاير جوا العين بس لساته ماسك في العصب البصري.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c17_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "17",
+    "chapterTitle": "Eye, Ear, Nose, Throat, and Oral Disorders",
+    "topic": "Tracheoinnominate Artery Fistula",
+    "keyPoints": [
+      "A rare but lethal complication of tracheostomy, usually occurring within weeks of placement.",
+      "Presents with 'sentinel bleed' (minor bleed) followed by massive, pulsatile hemorrhage.",
+      "Emergency management: Hyperinflate the trach cuff to tamponade the artery against the sternum."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "The 'sentinel bleed' is often dismissed as minor suction trauma; always suspect a fistula in an ED patient with any trach bleed."
+    ],
+    "relatedKeywords": [
+      "Tracheostomy",
+      "Innominate artery",
+      "Tamponade",
+      "Sentinel bleed"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Airway Failure / Intubation",
+      "HEENT / Eye Emergencies"
+    ],
+    "boardSafeLogic": "If cuff hyperinflation fails, insert a finger into the stoma to manually compress the artery against the manubrium.",
+    "arabicMentorExplanation": "شو الفكرة؟ ناسور بين القصبة الهوائية وشريان كبير، بيعمل نزيف مرعب. وين الفخ؟ النزيف الصغير اللي بسبق الانفجار (Sentinel bleed) هو التحذير الأخير. كيف أستخدمها؟ انفخ الـ (Cuff) ع الآخر عشان تضغط الشريان وتوقف النزيف.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c18_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "18",
+    "chapterTitle": "Dermatology",
+    "topic": "Erythema Multiforme (EM) and SJS/TEN",
+    "keyPoints": [
+      "EM Minor: Localized target lesions, often on extremities, usually after infection (e.g., HSV).",
+      "EM Major (SJS): Widespread lesions, mucosal involvement, and epidermal detachment <10% BSA.",
+      "Toxic Epidermal Necrolysis (TEN): Detachment >30% BSA; high mortality, requires burn center care."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Nikolsky sign (skin peeling with lateral pressure) is POSITIVE in SJS/TEN but negative in bullous pemphigoid."
+    ],
+    "relatedKeywords": [
+      "Target lesions",
+      "SJS",
+      "TEN",
+      "Nikolsky sign",
+      "Mucosal involvement"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Dermatology Emergencies"
+    ],
+    "boardSafeLogic": "SJS/TEN is usually drug-induced (e.g., sulfonamides, lamotrigine), while EM minor is typically infectious.",
+    "arabicMentorExplanation": "شو الفكرة؟ حساسية جلدية شديدة للأدوية. وين الفخ؟ الـ SJS والـ TEN هم نفس المرض بس الفرق بالمساحة اللي بتقشر. كيف أستخدمها؟ دور على علامة (Nikolsky) - إذا الجلد بفتح بالإيد، المريض في خطر ولازم يروح مركز حروق.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c19_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "19",
+    "chapterTitle": "Traumatic Disorders",
+    "topic": "Pregnancy in Trauma",
+    "keyPoints": [
+      "Aortocaval compression: Tilt the patient 30 degrees to the left to avoid supine hypotension in gestation >20 weeks.",
+      "Uterine irritability (>=3 contractions/hr) is the most sensitive finding for placental abruption.",
+      "Fetal viability is generally considered at 24 weeks gestation."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "A negative ultrasound does NOT rule out placental abruption; diagnosis is clinical and monitored via cardiotocography."
+    ],
+    "relatedKeywords": [
+      "Aortocaval compression",
+      "Placental abruption",
+      "Viability",
+      "Cardiotocography"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB",
+      "Hemorrhagic Shock / MTP"
+    ],
+    "boardSafeLogic": "In trauma, the best way to care for the fetus is to aggressively resuscitate the mother first.",
+    "arabicMentorExplanation": "شو الفكرة؟ حادث لمريضة حامل. وين الفخ؟ أهم حركة هي إنك تميل المريضة لليسار 30 درجة عشان الرحم ما يضغط على الوريد الأجوف. كيف أستخدمها؟ تذكر إن السونار ما بنفي انفصال المشيمة، المراقبة بالجهاز (CTG) هي الأساس.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c19_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "19",
+    "chapterTitle": "Traumatic Disorders",
+    "topic": "NEXUS Rules for Chest Imaging",
+    "keyPoints": [
+      "Exclusion criteria (imaging required if): Age >60, rapid deceleration mechanism, chest pain, intoxication, abnormal alertness, or distracting injury.",
+      "Allows for selective imaging in blunt trauma patients to reduce radiation exposure.",
+      "Tenderness to chest wall palpation is also a positive NEXUS finding."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "NEXUS rules for chest CANNOT be applied if the patient is over 60 years old."
+    ],
+    "relatedKeywords": [
+      "NEXUS",
+      "Chest X-ray",
+      "Blunt trauma",
+      "Deceleration"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pneumothorax / Hemothorax",
+      "FAST / eFAST"
+    ],
+    "boardSafeLogic": "NEXUS Rules are highly sensitive for identifying clinically significant chest injuries.",
+    "arabicMentorExplanation": "شو الفكرة؟ متى أطلب صورة أشعة للصدر في الحوادث؟ وين الفخ؟ إذا عمر المريض فوق الـ 60، القواعد هاي ما بتنفع ولازم تطلب صورة. كيف أستخدمها؟ طبق الشروط، إذا واحد منهم موجود، اطلب الصورة.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c20_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "20",
+    "chapterTitle": "Injuries to Bones and Joints",
+    "topic": "Ottawa Knee Rules",
+    "keyPoints": [
+      "Criteria for X-ray: Age >=55, isolated patellar tenderness, tenderness at the head of the fibula, inability to flex knee to 90 degrees.",
+      "Inability to bear weight (4 steps) both immediately and in the ED also requires imaging.",
+      "Rules are validated for children aged 2–16 years."
+    ],
+    "tables": [
+      "Table 20.2: Ottawa Knee Rules Criteria."
+    ],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT apply rules to non-traumatic knee pain or chronic injuries."
+    ],
+    "relatedKeywords": [
+      "Ottawa Knee Rules",
+      "Patellar tenderness",
+      "Fibula head",
+      "Weight bearing"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Orthopedics / Fractures"
+    ],
+    "boardSafeLogic": "The rules aim to reduce unnecessary imaging while maintaining nearly 100% sensitivity for fractures.",
+    "arabicMentorExplanation": "شو الفكرة؟ متى أطلب صورة للركبة؟ وين الفخ؟ انتبه لموضوع الـ (fibula head) والقدرة على المشي 4 خطوات. كيف أستخدمها؟ إذا المريض ما بقدر يمشي أو عمره فوق 55، الصورة ضرورية.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c20_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "20",
+    "chapterTitle": "Injuries to Bones and Joints",
+    "topic": "Compartment Syndrome",
+    "keyPoints": [
+      "Most sensitive clinical finding: Pain with passive stretch of the muscles in the affected compartment.",
+      "Common site: Lower leg (40% of cases, often involving the tibia/fibula).",
+      "Distal pulse deficit is a LATE and unreliable sign; do not wait for it to diagnose."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "A normal pulse does NOT rule out compartment syndrome; tissue pressure exceeds capillary perfusion pressure long before it exceeds arterial pressure."
+    ],
+    "relatedKeywords": [
+      "Compartment Syndrome",
+      "Passive stretch",
+      "Fasciotomy",
+      "Paresthesia"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Orthopedics / Fractures"
+    ],
+    "boardSafeLogic": "Diagnosis is clinical or by direct pressure measurement (Delta pressure <= 30 mm Hg).",
+    "arabicMentorExplanation": "شو الفكرة؟ ضغط عالي جوا العضلات بيقطع عنها التروية. وين الفخ؟ دايماً الطلاب بفكروا إن غياب النبض هو العلامة الأساسية، بس الحقيقة إنه 'الوجع مع شد العضلة' هو أدق علامة. كيف أستخدمها؟ لا تستنى النبض ليختفي، شخصها بدري.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_2_chapters_11_20.json"
+  },
+  {
+    "id": "tint_c21_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "21",
+    "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+    "topic": "Sciatica and Herniated Nucleus Pulposus (HNP)",
+    "keyPoints": [
+      "Sciatica is most commonly caused by HNP, leading to radicular pain in a dermatomal distribution.",
+      "Initial management focuses on conservative therapy: NSAIDs (Ibuprofen) and Acetaminophen.",
+      "Bed rest is not recommended; early return to activity is preferred."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid ordering an emergent MRI in the ED for simple sciatica unless there are signs of Cauda Equina (saddle anesthesia, urinary retention)."
+    ],
+    "relatedKeywords": [
+      "Sciatica",
+      "HNP",
+      "Radiculopathy",
+      "Conservative management"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Orthopedics / Fractures"
+    ],
+    "boardSafeLogic": "MRI is sensitive but not indicated for simple radiculopathy in the acute setting unless surgical red flags (Cauda Equina) are present.",
+    "arabicMentorExplanation": "شو الفكرة؟ وجع ظهر نازل ع الرجل (Radiculopathy). وين الفخ؟ مش دايماً بدها MRI؛ العلاج الأولي دايماً هو مسكنات (NSAIDs). كيف أستخدمها؟ لو المريض ما عنده علامات (Cauda Equina)، ارفض الـ MRI.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c21_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "21",
+    "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+    "topic": "Psoas Abscess",
+    "keyPoints": [
+      "Classic triad: Fever, flank/hip pain, and difficulty with hip extension (Psoas sign).",
+      "Staphylococcus aureus is the most common causative organism.",
+      "Often associated with diabetes, IV drug use, or recent surgery/infection."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not confuse with simple hip arthritis; look for systemic toxicity and pain when extending the hip (stretching the psoas)."
+    ],
+    "relatedKeywords": [
+      "Psoas Abscess",
+      "Staph aureus",
+      "Hip Extension",
+      "Retroperitoneal"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "Retroperitoneal infections like psoas abscess can present with vague symptoms; CT with IV contrast is the diagnostic study of choice.",
+    "arabicMentorExplanation": "شو الفكرة؟ خراج في العضلة خلف الأمعاء (Psoas). وين الفخ؟ المريض بيجي بوجع ورك بس المشكلة مش بالورك نفسه. كيف أستخدمها؟ دور على وجع لما تمد الورك لورا (Extension) ومريض عنده حرارة وسكري.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c21_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "21",
+    "chapterTitle": "Musculoskeletal Disorders (Non-Traumatic)",
+    "topic": "Septic Arthritis in Immunocompromised Patients",
+    "keyPoints": [
+      "Septic arthritis can present with lower synovial WBC counts (e.g., <50,000) in immunocompromised hosts (HIV, ESRD).",
+      "Crystal-induced arthritis (Gout/Pseudogout) can coexist with septic arthritis.",
+      "Treatment requires emergent orthopedic consultation and broad IV antibiotics (Vancomycin + Cefepime)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT rule out septic arthritis just because crystals are present or if the WBC count is only 20,000 in an HIV patient."
+    ],
+    "relatedKeywords": [
+      "Septic Arthritis",
+      "Immunocompromised",
+      "Synovial Fluid",
+      "Crystals"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis",
+      "Orthopedics / Fractures"
+    ],
+    "boardSafeLogic": "Host immune status alters the sensitivity of traditional synovial fluid criteria; treat empirically if suspicion is high.",
+    "arabicMentorExplanation": "شو الفكرة؟ التهاب مفصل بكتيري. وين الفخ؟ مريض المناعة الضعيفة (زي مريض الـ HIV) ممكن ما يكون عنده خلايا دم بيضاء عالية بالمفصل. كيف أستخدمها؟ لا تعتمد بس على فحص السائل إذا المريض تعبان وعنده مناعة ضعيفة، ابدأ مضادات حيوية فوراً.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c22_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "22",
+    "chapterTitle": "Psychosocial Disorders",
+    "topic": "Suicide Risk Assessment",
+    "keyPoints": [
+      "SAD PERSONS scale is a common screening tool for suicide risk factors.",
+      "Highest risk population: Recently widowed, older white males with access to firearms.",
+      "Presence of a concrete plan and lethal means requires mandatory admission."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT assume that asking about suicide will plant the idea in a patient's head; direct questioning is essential and safe."
+    ],
+    "relatedKeywords": [
+      "Suicide Risk",
+      "SAD PERSONS",
+      "Mandatory Admission",
+      "Firearms"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Identification of lethal means and lack of social support (e.g., single/widowed) are primary drivers for emergent intervention.",
+    "arabicMentorExplanation": "شو الفكرة؟ تقييم خطر الانتحار. وين الفخ؟ الرجال الكبار بالعمر اللي فقدوا زوجاتهم وعندهم سلاح هم الأكثر عرضة للانتحار الفعلي. كيف أستخدمها؟ لو المريض عنده 'خطة' (Plan)، لازم يدخل المستشفى رغماً عنه (Involuntary).",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c22_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "22",
+    "chapterTitle": "Psychosocial Disorders",
+    "topic": "Acute Dystonic Reactions",
+    "keyPoints": [
+      "Common side effect of typical antipsychotics (e.g., Haloperidol).",
+      "Presents with involuntary muscle contractions: torticollis, oculogyric crisis, or opisthotonus.",
+      "Treatment: Anticholinergics (Diphenhydramine or Benztropine)."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT mistake dystonia for a seizure or tetanus; look for recent medication changes or antiemetic use (e.g., Metoclopramide)."
+    ],
+    "relatedKeywords": [
+      "Dystonia",
+      "Extrapyramidal",
+      "Benztropine",
+      "Oculogyric Crisis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxicology / Antidotes"
+    ],
+    "boardSafeLogic": "Dystonia results from a sudden dopamine-acetylcholine imbalance in the basal ganglia, corrected by lowering cholinergic tone.",
+    "arabicMentorExplanation": "شو الفكرة؟ تشنج عضلي غريب بسبب دواء (زي الهالدول). وين الفخ؟ ممكن تكون بسبب أدوية الاستفراغ (Metoclopramide) مش بس أدوية النفسية. كيف أستخدمها؟ العلاج هو (Diphenhydramine) أو (Benztropine) وريد والتحسن بكون سحري وسريع.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c22_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "22",
+    "chapterTitle": "Psychosocial Disorders",
+    "topic": "Eating Disorders (Bulimia Nervosa)",
+    "keyPoints": [
+      "Physical findings: Dental enamel erosion, Russell's sign (calluses on knuckles), and parotid gland swelling.",
+      "Common electrolyte abnormality: Metabolic alkalosis with hypokalemia and hypochloremia.",
+      "Most common life-threatening complication: Cardiac dysrhythmias due to electrolytes."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Normal BMI does NOT rule out a serious eating disorder; bulimic patients are often normal weight or overweight."
+    ],
+    "relatedKeywords": [
+      "Bulimia",
+      "Metabolic Alkalosis",
+      "Hypokalemia",
+      "Russell's Sign"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Endocrine / DKA / Electrolytes",
+      "Dysrhythmias / ECG Patterns"
+    ],
+    "boardSafeLogic": "Chronic purging leads to loss of HCl from the stomach, driving a chloride-responsive metabolic alkalosis.",
+    "arabicMentorExplanation": "شو الفكرة؟ اضطراب الأكل (تطريش متعمد). وين الفخ؟ المريض ممكن يكون وزنه طبيعي بس عنده تآكل في الأسنان وجروح في مفاصل الإيد (Russell sign). كيف أستخدمها؟ الـ ECG مهم جداً عشان نشوف تأثير نقص البوتاسيوم (Prolonged QTc).",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c23_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "23",
+    "chapterTitle": "Abuse and Assault",
+    "topic": "Intimate Partner Violence (IPV)",
+    "keyPoints": [
+      "Central pattern of injury (head, neck, thorax, abdomen) is highly suggestive of abuse.",
+      "Pregnancy is a high-risk period for the escalation or initiation of IPV.",
+      "Clinicians should screen all patients privately and document only factual evidence."
+    ],
+    "tables": [
+      "Table 23.2: Signs Suggestive of Intimate Partner Violence"
+    ],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "IPV occurs across all socioeconomic and educational levels; do not exclude based on appearance or demographics."
+    ],
+    "relatedKeywords": [
+      "IPV",
+      "Central Injury Pattern",
+      "Pregnancy Abuse",
+      "Mandatory Reporting"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Injuries during pregnancy are more likely to involve the abdomen and breasts in IPV cases compared to accidental trauma.",
+    "arabicMentorExplanation": "شو الفكرة؟ عنف أسري. وين الفخ؟ لو المريضة حامل وعندها كدمات على البطن أو الصدر، هاي علامة حمراء للعنف. كيف أستخدمها؟ لازم تفحص المريضة لحالها وتوثق الإصابات بدقة بدون إصدار أحكام.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c23_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "23",
+    "chapterTitle": "Abuse and Assault",
+    "topic": "Elder Abuse",
+    "keyPoints": [
+      "Most common perpetrator is the primary caregiver, often an adult child.",
+      "Financial exploitation (using the elder's money for own use) is a common form of neglect.",
+      "Advanced illness (e.g., Dementia, Parkinson's) increases the caregiver burden and risk of abuse."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Presence of pressure ulcers (bedsores) in an immobilized patient is not always evidence of abuse if standard care was followed, but requires investigation."
+    ],
+    "relatedKeywords": [
+      "Elder Abuse",
+      "Caregiver Burden",
+      "Financial Exploitation",
+      "Neglect"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Mandatory reporting laws apply to elder abuse in many jurisdictions if the patient is a vulnerable adult.",
+    "arabicMentorExplanation": "شو الفكرة؟ إساءة معاملة كبار السن. وين الفخ؟ غالباً اللي بيأذي هو الشخص اللي بيهتم فيه (الابن أو البنت). كيف أستخدمها؟ لو شفت كدمات أو المريض محروم من أدويته أو فلوسه بتنسرق، لازم تبلغ الجهات المعنية.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c24_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "24",
+    "chapterTitle": "Special Situations",
+    "topic": "Febrile IV Drug User (IVDU) and TB Isolation",
+    "keyPoints": [
+      "A right upper lobe cavitary infiltrate in a febrile IVDU mandates negative pressure isolation.",
+      "A negative PPD (purified protein derivative) result from 6 months ago does NOT rule out active TB due to immune dysregulation.",
+      "Septic pulmonary emboli from right-sided endocarditis are a key differential for cavitary lesions."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT delay negative pressure isolation while waiting for CT or sputum results in a high-risk patient with a cavitary lesion."
+    ],
+    "relatedKeywords": [
+      "IVDU",
+      "Cavitary Infiltrate",
+      "TB Isolation",
+      "Endocarditis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "Infection control and public health safety take priority when TB is suspected based on high-risk radiographic findings.",
+    "arabicMentorExplanation": "شو الفكرة؟ مريض مدمن (IVDU) وعنده حرارة وصورة الأشعة فيها فتحات بالرئة (Cavitary). وين الفخ؟ الـ PPD السالب القديم ما بنفي السل (TB). كيف أستخدمها؟ الخطوة الأولى والأساسية هي عزله في غرفة ضغط سالب (Isolation) لحماية المستشفى.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c24_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "24",
+    "chapterTitle": "Special Situations",
+    "topic": "Consent and the Mature Minor Doctrine",
+    "keyPoints": [
+      "Generally, minors cannot consent to medical treatment without a parent or guardian.",
+      "The 'Mature Minor' doctrine allows adolescents (usually 14+ years) to consent if they understand the risks and benefits.",
+      "Emancipated minors (married, in military, or self-supporting) have full adult autonomy."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Religious beliefs of a patient with capacity must be respected, even if they refuse life-saving treatment (e.g., blood products)."
+    ],
+    "relatedKeywords": [
+      "Consent",
+      "Mature Minor",
+      "Emancipation",
+      "Autonomy"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Capacity and maturity, rather than a strict age limit, guide the legal ability to consent in many jurisdictions for specific situations.",
+    "arabicMentorExplanation": "شو الفكرة؟ هل الطفل بقدر يقرر علاجه؟ وين الفخ؟ المراهق فوق الـ 14 اللي فاهم شو بيعمل ممكن يعطي موافقة بدون أهله (Mature Minor). كيف أستخدمها؟ لو المريض متزوج أو بالجيش، بيعتبر (Emancipated) وله كامل الحقوق زي الكبير.",
+    "needsVerification": true,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c24_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "24",
+    "chapterTitle": "Special Situations",
+    "topic": "Tactical Combat Casualty Care (TCCC)",
+    "keyPoints": [
+      "Hemorrhage control (Tourniquet) is the priority MEDICAL intervention during 'Care Under Fire'.",
+      "Needle decompression threshold is very low for penetrating chest trauma in the tactical setting.",
+      "CPR is NOT performed on combat victims who are apneic/pulseless due to low survival probability."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT start with airway (intubation) in a tactical scene while under fire; priority is securing the area and stopping massive hemorrhage."
+    ],
+    "relatedKeywords": [
+      "TCCC",
+      "Care Under Fire",
+      "Tourniquet",
+      "Needle Decompression"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems",
+      "Trauma"
+    ],
+    "boardSafeLogic": "TCCC deviates from standard ACLS to focus on correctable causes of battlefield death: exsanguination and tension pneumothorax.",
+    "arabicMentorExplanation": "شو الفكرة؟ طب الحروب. وين الفخ؟ الترتيب هون مش ABC، الترتيب هو وقف النزيف (Tourniquet) أولاً. كيف أستخدمها؟ تحت النار، ما بنعمل إنعاش قلبي (CPR) لأنه ما بنفع في هاي الحالات.",
+    "needsVerification": true,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c25_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Cardiac Tamponade POCUS",
+    "keyPoints": [
+      "Primary findings: Pericardial effusion, diastolic right ventricular (RV) collapse, and plethoric IVC.",
+      "Right atrial collapse during systole is an early sensitive sign.",
+      "Large chronic effusions can be hemodynamically stable; small acute effusions cause tamponade quickly."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 25.3: Cardiac POCUS views",
+      "Figure 25.21: Tamponade findings schematic"
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT rely on effusion size alone; look at the RV in diastole. If it collapses, it's tamponade regardless of fluid volume."
+    ],
+    "relatedKeywords": [
+      "Tamponade",
+      "RV Collapse",
+      "Diastolic Collapse",
+      "IVC Plethora"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Ultrasound Signs / Views",
+      "Trauma"
+    ],
+    "boardSafeLogic": "Tamponade is a hemodynamic state where intrapericardial pressure exceeds intracardiac filling pressure.",
+    "arabicMentorExplanation": "شو الفكرة؟ تشخيص اندحاس القلب بالسونار. وين الفخ؟ أهم علامة هي انكماش البطين الأيمن (RV) وقت الـ (Diastole). كيف أستخدمها؟ لو الـ IVC كبير وما بتغير مع النفس (Plethoric)، والبطين منكمش، هي حالة طارئة.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c25_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Pneumothorax POCUS (M-Mode)",
+    "keyPoints": [
+      "Normal finding: 'Sandy beach' appearance (waves = chest wall, sand = moving lung).",
+      "Pneumothorax finding: 'Barcode sign' or 'Stratosphere sign' (all horizontal lines).",
+      "Absence of lung sliding is 100% sensitive for PTX at that location, but not specific (e.g., blebs, pleurodesis)."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 25.9: M-mode tracing labeled Left (normal) vs Right (PTX)",
+      "Figure 25.24: Comparison of Sandy Beach vs Barcode"
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "The 'Lung Point' is the most specific finding for PTX (where the lung meets the air), but it may not be visible in large PTX."
+    ],
+    "relatedKeywords": [
+      "M-Mode",
+      "Lung Sliding",
+      "Sandy Beach",
+      "Barcode Sign"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Ultrasound Signs / Views",
+      "Pneumothorax / Hemothorax"
+    ],
+    "boardSafeLogic": "M-mode converts movement over time into a static image; air prevents the visualization of lung tissue moving against the pleura.",
+    "arabicMentorExplanation": "شو الفكرة؟ تشخيص هواء الصدر بالسونار (M-mode). وين الفخ؟ العلامة الطبيعية هي 'شط البحر' (Sandy Beach). كيف أستخدمها؟ لو شفت بس خطوط (Barcode Sign)، يعني في هواء فاصل بين الرئة والجدار.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c25_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Abdominal Aortic Aneurysm (AAA) POCUS",
+    "keyPoints": [
+      "Measure outer wall to outer wall of the aorta; diameter >3 cm is diagnostic for AAA.",
+      "A mural thrombus can look like a normal lumen; must include the thrombus in the measurement.",
+      "POCUS is highly accurate for AAA size but can NOT reliably determine if it has ruptured."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 25.13: AAA with mural thrombus",
+      "Figure 25.31: Unstable aortic aneurysm US"
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT measure just the black patent lumen; you will underestimate the size if there is a mural thrombus."
+    ],
+    "relatedKeywords": [
+      "AAA",
+      "Mural Thrombus",
+      "Outer-to-Outer",
+      "Aortic Measurement"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "Aorta size measurement must always account for the anatomical wall, including any clotted blood within the aneurysm.",
+    "arabicMentorExplanation": "شو الفكرة؟ قياس توسع الشريان الأورطي (AAA). وين الفخ؟ لازم تقيس من جدار الجدار الخارجي. لو في تجلط (Thrombus)، لا تقيس بس الجزء الأسود، لأنك رح تطلع القياس غلط.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c25_t4",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "Retinal Detachment POCUS",
+    "keyPoints": [
+      "Presents with painless vision loss or floaters.",
+      "POCUS finding: A thick echogenic line in the vitreous body.",
+      "Key diagnostic feature: The membrane remains TETHERED to the optic nerve (optic disc)."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 25.15: Ultrasound showing detached retina tethered to optic disc"
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not confuse with Vitreous Hemorrhage; blood in the vitreous moves like 'swirling smoke' and is NOT tethered to the nerve."
+    ],
+    "relatedKeywords": [
+      "Retinal Detachment",
+      "Optic Nerve Tether",
+      "Vitreous Hemorrhage",
+      "Painless Vision Loss"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Ultrasound Signs / Views",
+      "HEENT / Eye Emergencies"
+    ],
+    "boardSafeLogic": "The retina is an anatomical extension of the optic nerve, hence its fixed attachment at the disc even when detached elsewhere.",
+    "arabicMentorExplanation": "شو الفكرة؟ انفصال الشبكية بالسونار. وين الفخ؟ الشبكية دايماً بضل 'مربوطة' بالعصب البصري (Optic Disc). كيف أستخدمها؟ لو شفت غشاء بيتحرك بس ماسك في نقطة العصب، هي شبكية. لو بيتحرك بحرية، غالباً نزيف (Vitreous Hemorrhage).",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_c25_t5",
+    "source": "Tintinalli",
+    "chapterNumber": "25",
+    "chapterTitle": "Point-of-Care Ultrasound in the Emergency Department",
+    "topic": "POCUS for Aortic Dissection Limitations",
+    "keyPoints": [
+      "POCUS has POOR sensitivity for detecting aortic dissection.",
+      "The classic finding (intimal flap) is only seen in 50-70% of Type A cases and rarely in Type B.",
+      "Dissection should NEVER be ruled out based on a negative bedside US."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT rely on US to clear a patient with suspicious chest pain for home; CTA or TEE is required if dissection is suspected."
+    ],
+    "relatedKeywords": [
+      "Intimal Flap",
+      "Type A Dissection",
+      "Sensitivity",
+      "Rule-out Limitation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "The specificity of seeing an intimal flap is high, but the lack of one does not lower pre-test probability enough to be useful.",
+    "arabicMentorExplanation": "شو الفكرة؟ هل السونار بنفي تمزق الأورطي (Dissection)؟ وين الفخ؟ الجواب (لا) قطعية. السونار دقته ضعيفة جداً في هذا المرض. كيف أستخدمها؟ لو السونار طبيعي والمريض عنده وجع صدر 'مزيق'، اطلب (CTA) فوراً.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_batch_3_chapters_21_25.json"
+  },
+  {
+    "id": "tint_ce1_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E1",
+    "chapterTitle": "Global Emergency Medicine",
+    "topic": "Scope and Principles of GEM",
+    "keyPoints": [
+      "GEM focuses on presentation-based solutions rather than diagnosis-based medicine.",
+      "Applies to all age groups and includes trauma, medical, infectious, and pregnancy-related emergencies.",
+      "Seeks to ensure early access to quality care regardless of gender, age, or ability to pay."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Humanitarian work (disaster relief) and development work (system building) are distinct but must be integrated for sustainable health systems."
+    ],
+    "relatedKeywords": [
+      "Global Health",
+      "Presentation-based",
+      "Humanitarian",
+      "Development"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Global Emergency Medicine addresses the acute care needs in resource-limited settings by focusing on high-impact, complaint-driven interventions.",
+    "arabicMentorExplanation": "شو الفكرة؟ الطب الطارئ العالمي بركز على حل المشكلة حسب شكوى المريض مش بس التشخيص. وين الفخ؟ الشغل الإنساني (فزعة) بختلف عن شغل التطوير (بناء نظام). كيف أستخدمها؟ تذكر إنه GEM شامل لكل الأعمار والحالات.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_extra_e_chapters.json"
+  },
+  {
+    "id": "tint_ce4_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E4",
+    "chapterTitle": "Geriatric Emergency Care",
+    "topic": "Geriatric Emergency Department (GED) Guidelines",
+    "keyPoints": [
+      "GED guidelines consist of 40 specific recommendations across six categories: Staffing, Equipment, Education, Policies, Transitions, and Quality Improvement.",
+      "Education should focus on atypical presentations, cognitive disorders, and medication management.",
+      "Evaluation by a physical therapist in the ED after a fall significantly decreases the likelihood of a repeat fall within 30 days."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Proper technique for central line placement is NOT part of the geriatric-specific GED recommendations."
+    ],
+    "relatedKeywords": [
+      "GED",
+      "Falls",
+      "Atypical Presentation",
+      "Physical Therapy"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Geriatric-specific care models focus on multi-disciplinary evaluation to address the complexity of aging physiology and social support.",
+    "arabicMentorExplanation": "شو الفكرة؟ توصيات خاصة لكبار السن بالطوارئ. وين الفخ؟ تقييم 'المعالج الفيزيائي' بالذات بقلل احتمالية وقوع المريض مرة تانية خلال شهر. كيف أستخدمها؟ لو سألك عن شيء بقلل تكرار الزيارات بعد الوقوع، الجواب (Physical Therapy).",
+    "needsVerification": true,
+    "_batchFile": "tintinalli_reference_extra_e_chapters.json"
+  },
+  {
+    "id": "tint_ce11_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E11",
+    "chapterTitle": "Forensic Emergency Medicine",
+    "topic": "Gunshot Wound (GSW) Documentation",
+    "keyPoints": [
+      "Documentation must focus on physical characteristics: size, shape, location, and presence of soot or stippling.",
+      "Emergency clinicians should NOT label wounds as 'entrance' or 'exit' as this is often inaccurate and leads to legal pitfalls.",
+      "Avoid estimating the caliber of the bullet based on the wound appearance."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Speculating on the bullet's trajectory or caliber in the medical record can be used to discredit medical testimony in court."
+    ],
+    "relatedKeywords": [
+      "GSW",
+      "Forensics",
+      "Entrance/Exit",
+      "Stippling"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Precise descriptive language is superior to forensic interpretation for non-forensic specialists.",
+    "arabicMentorExplanation": "شو الفكرة؟ توثيق جروح الرصاص. وين الفخ؟ ممنوع تكتب 'مدخل' أو 'مخرج' (Entrance/Exit) بالتقرير الطبي. كيف أستخدمها؟ بس أوصف الجرح (مكان، قطر، حروق حوله) واترك التفسير للطب الشرعي.",
+    "needsVerification": true,
+    "_batchFile": "tintinalli_reference_extra_e_chapters.json"
+  },
+  {
+    "id": "tint_ce12_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E12",
+    "chapterTitle": "EMS Systems",
+    "topic": "Interfacility Transport of STEMI",
+    "keyPoints": [
+      "Air Medical Transport (AMT) is indicated when distance prevents timely ground transport to a PCI-capable center.",
+      "'Hot loading' (loading the patient while helicopter engines are running) significantly reduces door-in-door-out (DIDO) times.",
+      "DIDO time target is generally <30 minutes for optimal outcomes."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do NOT delay transport for stable STEMI patients to perform secondary imaging or wait for lab results."
+    ],
+    "relatedKeywords": [
+      "STEMI",
+      "DIDO",
+      "Hot Loading",
+      "Air Medical"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "ACS / Chest Pain / Cardiovascular Risk Stratification",
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "Time-to-reperfusion is the primary driver of survival in STEMI; all transport logistics should minimize idle time.",
+    "arabicMentorExplanation": "شو الفكرة؟ نقل مرضى الجلطة بالهليكوبتر. وين الفخ؟ حركة (Hot loading) إنك تحمل المريض والمحركات شغالة بتوفر وقت ثمين جداً. كيف أستخدمها؟ أي تأخير في الـ (DIDO) لأكثر من 30 دقيقة هو مؤشر جودة سيء.",
+    "needsVerification": true,
+    "_batchFile": "tintinalli_reference_extra_e_chapters.json"
+  },
+  {
+    "id": "tint_ce14_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "E14",
+    "chapterTitle": "Disaster Management",
+    "topic": "SAVE Triage Guidelines",
+    "keyPoints": [
+      "Secondary Assessment of Victim Endpoint (SAVE) is used in the 'wait' phase of disasters when resources are overwhelmed.",
+      "Triage decisions are based on the probability of survival with the available resources.",
+      "Differs from START triage, which is used for immediate sorting at the scene."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "SAVE is NOT for day-to-day triage; it is an extreme resource-allocation tool for prolonged disaster response."
+    ],
+    "relatedKeywords": [
+      "SAVE",
+      "Triage",
+      "Disaster",
+      "Expected Outcome"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "In scenarios where patients cannot be evacuated, treatment is prioritized for those most likely to benefit, rather than the most critically ill.",
+    "arabicMentorExplanation": "شو الفكرة؟ ترياج (SAVE) في الكوارث الكبيرة. وين الفخ؟ هون القرار بيعتمد على 'مين اللي رح يعيش لو استهلكنا عليه مواردنا'، مش مين اللي حالته أخطر. كيف أستخدمها؟ لو السؤال عن كارثة مطولة وما في إخلاء، استعمل SAVE.",
+    "needsVerification": false,
+    "_batchFile": "tintinalli_reference_extra_e_chapters.json"
+  },
+  {
+    "id": "tint_c1_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "1",
+    "chapterTitle": "Prehospital Care and Disaster Management",
+    "topic": "Mass Casualty Triage and Utstein Template",
+    "keyPoints": [
+      "Utstein template standardizes cardiac arrest data.",
+      "Disaster triage prioritizes survival probability and resources."
+    ],
+    "tables": [
+      "Utstein template for cardiac arrest data."
+    ],
+    "visuals": [],
+    "algorithms": [
+      "START triage / Utstein template"
+    ],
+    "relatedTraps": [
+      "Day-to-day triage differs from MCI triage."
+    ],
+    "relatedKeywords": [
+      "Utstein Template",
+      "MCI",
+      "Triage",
+      "Regionalization"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems",
+      "Cardiac Arrest / ROSC / TTM"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c2_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "Brugada Syndrome",
+    "keyPoints": [
+      "Downsloping ST elevation in V1-V2 with RBBB-like pattern.",
+      "High risk of sudden cardiac death."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 2.1: Brugada ECG pattern."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not mistake Brugada for simple STEMI."
+    ],
+    "relatedKeywords": [
+      "Brugada",
+      "Sudden Cardiac Death",
+      "Sodium Channel",
+      "AICD"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Cardiac Arrest / ROSC / TTM"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c2_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "Septic Shock Resuscitation",
+    "keyPoints": [
+      "Norepinephrine is first-line vasopressor after fluids.",
+      "Target MAP usually 65 mmHg."
+    ],
+    "tables": [
+      "Table 2.6: Classification of Shock."
+    ],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid dopamine as first-line when norepinephrine is available."
+    ],
+    "relatedKeywords": [
+      "Sepsis",
+      "Norepinephrine",
+      "Vasopressors",
+      "Septic Shock"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Septic Shock"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c2_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "End-Tidal Capnography (ETCO2)",
+    "keyPoints": [
+      "Capnography measures ventilation and CPR quality.",
+      "X portion represents expiratory plateau."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 2.2: End-tidal capnogram components."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Sudden sustained rise in ETCO2 may indicate ROSC."
+    ],
+    "relatedKeywords": [
+      "ETCO2",
+      "Capnography",
+      "ROSC",
+      "Expiratory Plateau"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "ETCO2 / Capnography",
+      "Cardiac Arrest / ROSC / TTM"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c2_t4",
+    "source": "Tintinalli",
+    "chapterNumber": "2",
+    "chapterTitle": "Resuscitation",
+    "topic": "Trauma-Induced Coagulopathy and MTP",
+    "keyPoints": [
+      "Lethal triad: coagulopathy, acidosis, hypothermia.",
+      "MTP often follows 1:1:1 PRBC:FFP:Platelets."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Over-resuscitation with crystalloid worsens coagulopathy."
+    ],
+    "relatedKeywords": [
+      "Lethal Triad",
+      "MTP",
+      "Acidosis",
+      "Hypothermia",
+      "Coagulopathy"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Hemorrhagic Shock / MTP"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c3_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "3",
+    "chapterTitle": "Analgesia, Anesthesia, and Procedural Sedation",
+    "topic": "Local Anesthetic Systemic Toxicity (LAST)",
+    "keyPoints": [
+      "Symptoms include tongue numbness, seizures, cardiovascular collapse.",
+      "Treatment is IV 20% lipid emulsion."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid vasopressin and high-dose epinephrine in LAST arrest."
+    ],
+    "relatedKeywords": [
+      "LAST",
+      "Lipid Emulsion",
+      "Lidocaine Toxicity",
+      "Seizure"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxidromes / Antidotes",
+      "Procedural Sedation / Analgesia"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c3_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "3",
+    "chapterTitle": "Analgesia, Anesthesia, and Procedural Sedation",
+    "topic": "Ketamine in Procedural Sedation",
+    "keyPoints": [
+      "Ketamine preserves respiratory drive and blood pressure.",
+      "Laryngospasm is rare but serious, especially in children."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Match dosing to analgesia vs dissociation goal."
+    ],
+    "relatedKeywords": [
+      "Ketamine",
+      "Laryngospasm",
+      "Dissociative Anesthesia",
+      "Analgesia"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Procedural Sedation / Analgesia",
+      "RSI / Paralytics / Sedation physiology"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c4_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "4",
+    "chapterTitle": "Wound Management",
+    "topic": "Methods of Wound Closure: Staples",
+    "keyPoints": [
+      "Staples are fast for long linear lacerations.",
+      "Staples provide least precise closure."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid staples where cosmetic precision matters, such as face."
+    ],
+    "relatedKeywords": [
+      "Staples",
+      "Wound Closure",
+      "Laceration",
+      "Scalp Repair"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Dermatology Emergencies"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c4_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "4",
+    "chapterTitle": "Wound Management",
+    "topic": "Eyelid Lacerations",
+    "keyPoints": [
+      "Lid margin, lacrimal duct, orbital fat, ptosis are danger findings."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Visible orbital fat or medial canthus injury requires specialist repair."
+    ],
+    "relatedKeywords": [
+      "Eyelid Laceration",
+      "Medial Canthus",
+      "Orbital Septum",
+      "Lacrimal Duct"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Dermatology Emergencies",
+      "HEENT / Eye Emergencies"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c5_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "5",
+    "chapterTitle": "Cardiovascular Disorders",
+    "topic": "Cocaine-Induced Myocardial Ischemia",
+    "keyPoints": [
+      "Initial treatment includes aspirin, nitroglycerin, benzodiazepines."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid beta-blockers in cocaine chest pain board-style convention."
+    ],
+    "relatedKeywords": [
+      "Cocaine MI",
+      "Beta-blocker Contraindication",
+      "Benzodiazepines",
+      "Alpha Stimulation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Toxicology / Antidotes",
+      "ACS / Chest Pain / Cardiovascular Risk Stratification"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": true
+  },
+  {
+    "id": "tint_c5_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "5",
+    "chapterTitle": "Cardiovascular Disorders",
+    "topic": "Cardiac Tamponade",
+    "keyPoints": [
+      "Beck triad plus POCUS findings: effusion, RV collapse, plethoric IVC."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 5.2: POCUS showing pericardial effusion/tamponade."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Pericardiocentesis is for unstable tamponade, not stable effusion."
+    ],
+    "relatedKeywords": [
+      "Tamponade",
+      "Beck's Triad",
+      "RV Collapse",
+      "Pericardiocentesis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "FAST / eFAST",
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c6_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "6",
+    "chapterTitle": "Thoracic-Respiratory Disorders",
+    "topic": "Spontaneous Pneumothorax",
+    "keyPoints": [
+      "Sinus tachycardia can be the most common physical finding.",
+      "Small stable primary PTX may be observed."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 6.6: Chest radiograph of pneumothorax."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Observation applies to selected primary PTX, not secondary PTX."
+    ],
+    "relatedKeywords": [
+      "Pneumothorax",
+      "Spontaneous PTX",
+      "Tachycardia",
+      "Observation"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pneumothorax / Hemothorax"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c7_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "7",
+    "chapterTitle": "Abdominal and Gastrointestinal Disorders",
+    "topic": "Upper GI Bleed Management",
+    "keyPoints": [
+      "Peptic ulcer disease is common cause; lactate elevation predicts worse outcomes."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not delay PPI while awaiting endoscopy in ulcer-related UGIB."
+    ],
+    "relatedKeywords": [
+      "UGIB",
+      "PPI",
+      "Lactate",
+      "Peptic Ulcer"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "GI Bleed"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c7_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "7",
+    "chapterTitle": "Abdominal and Gastrointestinal Disorders",
+    "topic": "Gastrointestinal Foreign Bodies",
+    "keyPoints": [
+      "Esophageal button batteries are emergencies; coin orientation differs in esophagus vs trachea."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 7.2: Foreign body/button battery location."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not use meat tenderizer for food impactions."
+    ],
+    "relatedKeywords": [
+      "Button Battery",
+      "Coin",
+      "Esophagus",
+      "Glucagon"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Foreign Body / Button Battery / Caustic"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c8_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "8",
+    "chapterTitle": "Renal and Genitourinary Disorders",
+    "topic": "Fournier's Gangrene",
+    "keyPoints": [
+      "Perineal necrotizing fasciitis; needs immediate debridement and broad antibiotics."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 8.1: Scrotal findings."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not delay surgery for CT if clinical suspicion is high."
+    ],
+    "relatedKeywords": [
+      "Fournier's Gangrene",
+      "Necrotizing Fasciitis",
+      "Surgical Emergency",
+      "Diabetes"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Dermatology Emergencies",
+      "Infectious Disease / Sepsis"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c8_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "8",
+    "chapterTitle": "Renal and Genitourinary Disorders",
+    "topic": "Dialysis Complications",
+    "keyPoints": [
+      "Hypotension is common after dialysis due to ultrafiltration."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Check glucose; hypotension may mask hypoglycemia in diabetic dialysis patient."
+    ],
+    "relatedKeywords": [
+      "Dialysis",
+      "Hypotension",
+      "Ultrafiltration",
+      "Dry Weight"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Renal Colic / Urinary",
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c9_t1",
+    "source": "Tintinalli",
+    "chapterNumber": "9",
+    "chapterTitle": "Obstetrics and Gynecology",
+    "topic": "Ectopic Pregnancy and Infertility",
+    "keyPoints": [
+      "Heterotopic pregnancy risk rises with ovulation induction/assisted reproduction."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "IUP does not rule out ectopic in assisted reproduction."
+    ],
+    "relatedKeywords": [
+      "Ectopic",
+      "Heterotopic",
+      "Infertility",
+      "hCG",
+      "OHSS"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB",
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c9_t2",
+    "source": "Tintinalli",
+    "chapterNumber": "9",
+    "chapterTitle": "Obstetrics and Gynecology",
+    "topic": "Premature Rupture of Membranes (PROM)",
+    "keyPoints": [
+      "PROM is rupture before labor; ferning test helps diagnosis."
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Avoid routine digital pelvic exam in suspected PROM."
+    ],
+    "relatedKeywords": [
+      "PROM",
+      "Ferning",
+      "Amniotic Fluid",
+      "Chorioamnionitis"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Pregnancy / OB"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_c10_t3",
+    "source": "Tintinalli",
+    "chapterNumber": "10",
+    "chapterTitle": "Pediatrics",
+    "topic": "Intussusception",
+    "keyPoints": [
+      "Ultrasound target/doughnut sign; common cause of obstruction in young children."
+    ],
+    "tables": [],
+    "visuals": [
+      "Figure 10.3: Ultrasound of intussusception."
+    ],
+    "algorithms": [],
+    "relatedTraps": [
+      "Do not wait for currant jelly stools; late sign."
+    ],
+    "relatedKeywords": [
+      "Intussusception",
+      "Target Sign",
+      "Ultrasound",
+      "Ileocolic"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Paediatrics / Neonatal",
+      "Ultrasound Signs / Views"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": false
+  },
+  {
+    "id": "tint_ce7_t1",
+    "source": "Tintinalli?",
+    "chapterNumber": "E7",
+    "chapterTitle": "Legal and Bioethical Issues",
+    "topic": "EMTALA and Interfacility Transfer Liability",
+    "keyPoints": [],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "E-chapter source contamination suspected."
+    ],
+    "relatedKeywords": [
+      "EMTALA",
+      "Liability",
+      "Inpatient Transfer",
+      "Stabilization"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": true
+  },
+  {
+    "id": "tint_ce8_t1",
+    "source": "Tintinalli?",
+    "chapterNumber": "E8",
+    "chapterTitle": "Safety and Quality",
+    "topic": "Triage Bias and Errors",
+    "keyPoints": [],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Clinician must reassess triage momentum."
+    ],
+    "relatedKeywords": [
+      "Triage Bias",
+      "Undertriage",
+      "Medical Error",
+      "Cognitive Bias"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": true
+  },
+  {
+    "id": "tint_ce15_t1",
+    "source": "Tintinalli?",
+    "chapterNumber": "E15",
+    "chapterTitle": "Radiation Emergencies",
+    "topic": "Irradiation vs Contamination Triage",
+    "keyPoints": [],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [
+      "Treat life threats before decontamination."
+    ],
+    "relatedKeywords": [
+      "Radiation",
+      "Decontamination",
+      "Contamination",
+      "Triage Priority"
+    ],
+    "relatedFocusedQuestionFamilies": [
+      "Social / Ethics / Systems",
+      "Trauma",
+      "Environmental Emergencies"
+    ],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": true
+  },
+  {
+    "id": "correction_note_1",
+    "source": "Patch",
+    "chapterNumber": "N/A",
+    "chapterTitle": "Corrections Patch",
+    "topic": "Corrections applied to NotebookLM extraction",
+    "keyPoints": [
+      "TIMI Risk Score -> ACS / Chest Pain / Cardiovascular Risk Stratification",
+      "DGI/TSS/Klebsiella -> Infectious Disease / Sepsis",
+      "ITP -> Hematologic Disorders",
+      "Tension PTX after intubation -> add Airway Failure / Intubation",
+      "Asthma death risk -> Asthma / COPD",
+      "Legal/protocol/guideline dependent topics marked needsVerification true"
+    ],
+    "tables": [],
+    "visuals": [],
+    "algorithms": [],
+    "relatedTraps": [],
+    "relatedKeywords": [],
+    "relatedFocusedQuestionFamilies": [],
+    "boardSafeLogic": "",
+    "arabicMentorExplanation": "",
+    "needsVerification": true
+  }
+]

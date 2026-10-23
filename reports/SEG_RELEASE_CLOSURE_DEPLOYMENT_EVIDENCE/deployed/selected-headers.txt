@@ -1,0 +1,25 @@
+[healthz]
+HTTP/2 404 
+date: Sat, 22 Aug 2026 20:51:54 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+[root]
+HTTP/2 200 
+date: Sat, 22 Aug 2026 20:52:01 GMT
+content-type: text/html; charset=UTF-8
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+last-modified: Sat, 15 Aug 2026 17:00:30 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+[laboratory]
+HTTP/2 200 
+date: Sat, 22 Aug 2026 20:52:07 GMT
+content-type: text/html; charset=UTF-8
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+last-modified: Sat, 15 Aug 2026 17:00:30 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload

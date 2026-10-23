@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-09-09T14:22:10.468Z",
+  "queueUnits": 204,
+  "summaryUnits": 45,
+  "populatedUnifiedUnits": 204,
+  "residentStudyChapters": 50,
+  "queueSummaryMatched": 0,
+  "queueSummaryMissing": 204,
+  "summariesWithValidPages": 7,
+  "duplicateSummaryIds": [],
+  "emptyRequiredFields": {
+    "highYieldSummary": 30,
+    "diagnosis": 45,
+    "management": 45,
+    "algorithms": 45,
+    "tables": 45,
+    "examPearls": 30,
+    "examTraps": 30,
+    "arabicExplanation": 0,
+    "references": 0,
+    "pages": 0
+  },
+  "reviewStatuses": {
+    "UNDER_REVIEW": 45
+  },
+  "populatedUnifiedUnitFieldGaps": {
+    "highYieldSummary": 0,
+    "diagnosis": 0,
+    "management": 0,
+    "algorithms": 0,
+    "tables": 0,
+    "examPearls": 0,
+    "examTraps": 0,
+    "arabicExplanation": 0,
+    "references": 0,
+    "pages": 0
+  },
+  "notes": [
+    "The 204-unit queue is an extraction inventory; it is not evidence that 204 editorial summaries are complete.",
+    "All medical summaries and chapters remain under review and are not board-accredited guidance."
+  ]
+}

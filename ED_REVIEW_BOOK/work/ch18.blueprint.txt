@@ -1,0 +1,556 @@
+[PEER-PHYS PEER-toxic-q-46] Which medication combination is most likely to trigger serotonin syndrome?
+    ANSWER: Citalopram and dextromethorphan   (key B)
+[PEER-PHYS PEER-toxic-q-47] Which physical finding is most specific for serotonin syndrome?
+    ANSWER: Clonus   (key A)
+[PEER-PHYS PEER-toxic-q-48] Which medication should be avoided to prevent serotonin syndrome after an uncomplicated intubation of a patient taking paroxetine?
+    ANSWER: Fentanyl   (key B)
+[PEER-PHYS PEER-toxic-q-49] Cyproheptadine is the preferred agent to treat which condition?
+    ANSWER: Serotonin syndrome   (key D)
+[PEER-PHYS PEER-toxic-q-50] A patient with opioid use disorder on methadone presents with altered mental status, hyperthermia, and sustained clonus. Started a new medication yesterday. Which likely precipitated this?
+    ANSWER: Sumatriptan   (key D)
+[PEER-PHYS PEER-toxic-q-51] How do patients with alcoholic ketoacidosis most commonly present?
+    ANSWER: Abdominal pain and vomiting   (key A)
+[PEER-PHYS PEER-toxic-q-52] What distinguishes the ethanol metabolism of chronic users from users intolerant of ethanol?
+    ANSWER: Zero-order kinetics metabolism   (key D)
+[PEER-PHYS PEER-toxic-q-53] A patient with elevated anion gap acidosis. Blood gas lactate 19 mmol/L; serum lactate 3.4 mmol/L. What is the most likely causative agent?
+    ANSWER: Ethylene glycol   (key A)
+[PEER-PHYS PEER-toxic-q-54] Which ingestion is associated with VBG pH 7.29, pCO2 29, Na 141, K 3.9, Cl 101, HCO3 14, BUN 21, Cr 2.4, glucose 97, lactate 0.7, calcium oxalate crystals in urine?
+    ANSWER: Ethylene glycol   (key B)
+[PEER-PHYS PEER-toxic-q-55] A 54-year-old man with alcohol abuse presents with altered mental status and vomiting. P 116. Normal anion gap, normal glucose, ketonuria. What is the best next step?
+    ANSWER: Intravenous hydration   (key D)
+[PEER-PHYS PEER-toxic-q-56] In which scenario of known methanol ingestion is immediate treatment with both fomepizole and hemodialysis most indicated?
+    ANSWER: pH/pCO2 7.10/10; methanol level 80 mg/dL; ethanol level 0 mg/dL   (key B)
+[PEER-PHYS PEER-toxic-q-57] A 3-year-old girl with fever 3 days, given acetaminophen every 2 hours. What is the correct use of N-acetylcysteine?
+    ANSWER: It should be guided by specific laboratory tests   (key C)
+[PEER-PHYS PEER-toxic-q-58] An awake and alert patient presents 2 hours after an overdose of acetaminophen. What action should come first?
+    ANSWER: Oral activated charcoal   (key D)
+[PEER-PHYS PEER-toxic-q-59] A 15-year-old presents with abdominal pain, vomiting, drowsiness. Labs: metabolic acidosis, AKI. Drug test negative. What is the most likely ingested substance?
+    ANSWER: Ibuprofen   (key C)
+[PEER-PHYS PEER-toxic-q-60] A 16-year-old found unresponsive. pH 7.07, CO2 27, Cr 1.54, K 5.4, HCO3 13. Salicylates and acetaminophen negative. What is the most likely ingestion?
+    ANSWER: Ibuprofen   (key C)
+[PEER-PHYS PEER-toxic-q-61] What is a clinical manifestation of opioid withdrawal?
+    ANSWER: Piloerection   (key D)
+[PEER-PHYS PEER-toxic-q-62] A patient on multiple psychiatric medications presents in severe opioid withdrawal. Which medication is best to manage the withdrawal?
+    ANSWER: Buprenorphine   (key A)
+[PEER-PHYS PEER-toxic-q-63] For which ingested agent is it most appropriate to administer activated charcoal?
+    ANSWER: Acetylsalicylic acid   (key A)
+[PEER-PHYS PEER-toxic-q-64] Which finding is an indication for hemodialysis in the setting of acute salicylate poisoning?
+    ANSWER: Altered mentation   (key A)
+[PEER-PHYS PEER-toxic-q-65] Which aspect of the physical examination can best distinguish anticholinergic from sympathomimetic toxicity?
+    ANSWER: Skin   (key C)
+[PEER-PHYS PEER-toxic-q-66] Which medication is most likely to produce an anticholinergic toxidrome in overdose?
+    ANSWER: Imipramine   (key B)
+[PEER-PHYS PEER-toxic-q-67] What is a major feature of the anticholinergic toxidrome?
+    ANSWER: Urinary retention   (key D)
+[PEER-PHYS PEER-toxic-q-68] Which medication produces predominantly anticholinergic effects at therapeutic doses?
+    ANSWER: Scopolamine   (key D)
+[PEER-PHYS PEER-toxic-q-69] When considering physostigmine for the treatment of an anticholinergic toxidrome, what is an absolute contraindication?
+    ANSWER: QRS widening   (key C)
+[PEER-PHYS PEER-toxic-q-70] A 15-year-old with altered sensorium after suspected overdose. Which constellation is most consistent with diphenhydramine overdose?
+    ANSWER: Hallucinations, seizures, and dilated pupils   (key A)
+[PEER-PHYS PEER-toxic-q-71] A currently asymptomatic patient reports massive diphenhydramine overdose. What is the most important next step?
+    ANSWER: Cardiac monitoring   (key A)
+[PEER-PHYS PEER-toxic-q-72] Which metabolic complication is most likely to occur with both the therapeutic use and overdose of valproic acid?
+    ANSWER: Elevated ammonia   (key A)
+[PEER-PHYS PEER-toxic-q-73] An overdose of which antidepressant is most likely to cause the ECG changes shown (tachycardia, QRS widening, terminal rightward axis)?
+    ANSWER: Amitriptyline   (key A)
+[PEER-PHYS PEER-toxic-q-74] A patient intentionally overdosed on paroxetine 6 hours ago. Asymptomatic, normal vitals. What lab test is most useful to guide management?
+    ANSWER: Acetaminophen concentration   (key A)
+[PEER-PHYS PEER-toxic-q-75] Which property of tricyclic antidepressants is responsible for the QRS prolongation seen with TCA toxicity?
+    ANSWER: Sodium channel blockade   (key D)
+[PEER-PHYS PEER-toxic-q-76] A patient after acute amitriptyline ingestion. ECG: tachycardia, QRS prolongation, terminal rightward axis. What is the most appropriate treatment?
+    ANSWER: Sodium bicarbonate   (key D)
+[PEER-PHYS PEER-toxic-q-77] A 19-year-old with restlessness and dystonia, neck twisted to the side. On promethazine and loperamide for 2 days. What medication should be administered?
+    ANSWER: Diphenhydramine   (key A)
+[PEER-PHYS PEER-toxic-q-78] What does linezolid inhibit, which can lead to potentially dangerous drug interactions?
+    ANSWER: Monoamine oxidase   (key C)
+[PEER-PHYS PEER-toxic-q-79] A 21-year-old woman with recurrent seizures after ingesting a large quantity of isoniazid. Normal glucose. Which drug should be given IV?
+    ANSWER: Pyridoxine   (key C)
+[PEER-PHYS PEER-toxic-q-80] A 52-year-old woman on chloroquine for malaria prophylaxis presents with cyanosis and dyspnea. SpO2 86% not improving with O2. ABG shows chocolate-brown blood. Which antidote?
+    ANSWER: Methylene blue   (key C)
+[PEER-PHYS PEER-toxic-q-81] A 40-year-old man with confusion, fever, hyporeflexia. Tachycardic, diaphoretic, hypertensive, generalized rigidity. T 38.5°C. On clonazepam and haloperidol. What is the most likely diagnosis?
+    ANSWER: Neuroleptic malignant syndrome   (key C)
+[PEER-PHYS PEER-toxic-q-82] A 30-year-old man with schizophrenia presents with severe agitation and restlessness. Vitals normal, alert, no muscle involvement. Haloperidol dose increased last week. What is the most likely diagnosis?
+    ANSWER: Akathisia   (key A)
+[PEER-PHYS PEER-toxic-q-83] A 37-year-old man presents with ataxia, headache, and nausea after using a gas-powered generator indoors and passing out. Carboxyhemoglobin level 26%. What is the best first step in management?
+    ANSWER: Provide supplemental oxygen   (key C)
+[PEER-PHYS PEER-toxic-q-84] A 40-year-old man with carboxyhemoglobin 20%, normal neuro exam, on nonrebreather. What is the rationale for hyperbaric oxygen?
+    ANSWER: To decrease the likelihood of delayed neurologic sequelae   (key A)
+[PEER-PHYS PEER-toxic-q-85] Hyperbaric oxygen therapy for carbon monoxide poisoning is most likely to reduce the risk of developing what condition?
+    ANSWER: Delayed neurologic sequelae   (key B)
+[PEER-PHYS PEER-toxic-q-86] Four household members present with headache and malaise that started at similar time the previous night. What test is most appropriate?
+    ANSWER: Carboxyhemoglobin level   (key B)
+[PEER-PHYS PEER-toxic-q-87] Which beta-blocker has class III antiarrhythmic properties, and why?
+    ANSWER: Sotalol; potassium channel blockade   (key D)
+[PEER-PHYS PEER-toxic-q-88] In the setting of chronic digoxin poisoning, which finding is the best indication for administering digoxin-specific antibody fragments?
+    ANSWER: Bidirectional ventricular tachycardia   (key A)
+[PEER-PHYS PEER-toxic-q-89] What is an indication to administer digoxin-specific antibody fragments in an adult patient?
+    ANSWER: Lightheadedness and syncope   (key C)
+[PEER-PHYS PEER-toxic-q-90] A 60-year-old man on digoxin presents with vomiting, dizziness, abdominal cramping. ECG shows ST scooping and U waves. K 5.7. Develops PVCs and bradycardia. What is the next best step?
+    ANSWER: Digoxin immune FAB   (key A)
+[PEER-PHYS PEER-toxic-q-91] An overdose of what pharmaceutical can cause an opioid-like toxidrome?
+    ANSWER: Clonidine   (key B)
+[PEER-PHYS PEER-toxic-q-92] A 15-year-old girl presents after overdose with BP 87/45, P 111. What is the most likely exposure?
+    ANSWER: Amlodipine   (key A)
+[PEER-PHYS PEER-toxic-q-93] A patient arrives confused after a witnessed seizure. BP 87/48, P 53. ECG: sinus bradycardia, first-degree AV block, QRS 127 ms, QTc 501 ms. What is the most likely agent?
+    ANSWER: Propranolol   (key D)
+[PEER-PHYS PEER-toxic-q-94] A toddler is found with somnolence, miosis, and bradycardia. What is the most likely ingestion?
+    ANSWER: Clonidine   (key C)
+[PEER-PHYS PEER-toxic-q-95] A patient presents with profound hypotension after amlodipine overdose. What is the best initial therapy?
+    ANSWER: Norepinephrine infusion   (key D)
+[PEER-PHYS PEER-toxic-q-96] What is a unique feature of a beta-blocker overdose when compared to a calcium channel blocker overdose?
+    ANSWER: Hypoglycemia   (key B)
+[PEER-PHYS PEER-toxic-q-97] Overdose of which substance is most likely to be successfully treated with high-dose glucagon?
+    ANSWER: Metoprolol   (key D)
+[PEER-PHYS PEER-toxic-q-98] A patient with hypotension, bradycardia, and hyperglycemia following an overdose. What is the most likely diagnosis?
+    ANSWER: Calcium channel blocker overdose   (key B)
+[PEER-PHYS PEER-toxic-q-99] What is the most appropriate treatment for calcium channel blocker overdose?
+    ANSWER: Insulin   (key B)
+[PEER-PHYS PEER-toxic-q-100] A patient after 120 tablets of 60 mg diltiazem. BP 75/36, P 35. After IV fluids, calcium, and atropine, BP 74/38, P 34. Which medication is most likely to stabilize?
+    ANSWER: Norepinephrine   (key C)
+[PEER-PHYS PEER-toxic-q-101] A toddler fell into a bucket of insecticide. What is an expected finding of carbamate poisoning?
+    ANSWER: Bronchospasm   (key A)
+[PEER-PHYS PEER-toxic-q-102] Which pharmacologic intervention is the mainstay of treatment for organophosphorus insecticide poisoning?
+    ANSWER: Atropine   (key A)
+[PEER-PHYS PEER-toxic-q-103] A woman with suspected exposure to a chemical weapon develops seizures, constricted pupils, copious secretions, and generalized weakness. What is the most likely exposure?
+    ANSWER: Sarin   (key D)
+[PEER-PHYS PEER-toxic-q-104] A moderately symptomatic patient has a presumed nerve agent exposure. What is the most important first step in management?
+    ANSWER: Decontamination   (key B)
+[PEER-PHYS PEER-toxic-q-105] A toddler from an orchard with suspected insecticide poisoning. Which signs and symptoms are expected in organophosphate toxicity?
+    ANSWER: Bradycardia, emesis, and cough   (key B)
+[PEER-PHYS PEER-toxic-q-106] A farm worker develops blurred vision, drooling, cough, fasciculations, abdominal pain, diarrhea. What is the best initial treatment?
+    ANSWER: Atropine   (key A)
+[PEER-PHYS PEER-toxic-q-107] Which finding is most consistent with cyanide poisoning?
+    ANSWER: Lactic acidosis   (key B)
+[PEER-PHYS PEER-toxic-q-108] What is the most appropriate treatment for cyanide poisoning?
+    ANSWER: Hydroxocobalamin   (key A)
+[PEER-PHYS PEER-toxic-q-109] A 5-year-old boy with blood lead level 50 mcg/dL, vomiting, headache, difficulty coloring and tying shoes. What is the best disposition?
+    ANSWER: Admit to the floor for inpatient chelation therapy   (key A)
+[PEER-PHYS PEER-toxic-q-110] Which agent has clinical manifestations of acute toxicity most similar to those of tetanus?
+    ANSWER: Strychnine   (key D)
+[PEER-PHYS PEER-toxic-q-111] Which treatment is contraindicated in the management of an agricultural worker with diaphoresis, fasciculations, hypersalivation, miosis, respiratory distress, and vomiting?
+    ANSWER: Physostigmine   (key C)
+[PEER-PHYS PEER-toxic-q-112] A 3-year-old bit into a glow-stick. Awake, alert, no distress. What is the best next step?
+    ANSWER: Get information about the time and amount of ingestion   (key C)
+[PEER-PHYS PEER-toxic-q-113] Systemic toxicity is most likely to occur after topical dermal exposure to which acid?
+    ANSWER: Hydrofluoric acid   (key C)
+[PEER-PHYS PEER-toxic-q-114] Which electrolyte abnormality can occur after significant exposure to topical, concentrated hydrofluoric acid?
+    ANSWER: Hypocalcemia   (key C)
+[PEER-PHYS PEER-toxic-q-115] A 14-year-old found unconscious with a wet rag, wide-complex dysrhythmia, SpO2 97% on NRB. What is the most likely cause?
+    ANSWER: Halogenated hydrocarbon   (key C)
+[PEER-PHYS PEER-toxic-q-116] An adult painter accidentally ingested methylene chloride. What is a consequence of methylene chloride ingestion?
+    ANSWER: Carbon monoxide poisoning   (key B)
+[PEER-PHYS PEER-toxic-q-117] An accidental ingestion of which single pill by a 1-year-old (10 kg) is potentially life-threatening?
+    ANSWER: Glipizide 5 mg   (key D)
+[PEER-PHYS PEER-toxic-q-118] A patient ingested glyburide and presents with agitation. Which agent best treats the underlying cause?
+    ANSWER: Octreotide   (key D)
+[PEER-PHYS PEER-toxic-q-119] A 30-year-old woman with accidental IV bupivacaine injection, convulsion, then cardiac arrest. Besides standard resuscitation, what IV agent should be strongly considered?
+    ANSWER: Fat emulsion   (key A)
+[PEER-PHYS PEER-toxic-q-120] Which local anesthetic is most likely to cause an allergic reaction?
+    ANSWER: Proparacaine   (key D)
+[PEER-PHYS PEER-toxic-q-121] A 32-year-old man with nausea, vomiting, mouth tingling, and hand burning when drinking iced water after seafood. What is the most likely cause?
+    ANSWER: Ciguatera   (key A)
+[PEER-PHYS PEER-toxic-q-122] A 10-month-old with cyanosis, SpO2 85% not responding to O2, active and vigorous. Teething gel use. What is the most likely cause?
+    ANSWER: Medication effect   (key C)
+[PEER-PHYS PEER-toxic-q-123] A 12-month-old with marked cyanosis, SpO2 86% not improving with high-flow O2, on teething gel. What is most likely to be successful in treating the cyanosis?
+    ANSWER: Methylene blue   (key B)
+[PEER-PHYS PEER-toxic-q-124] What role does oxygen administration play in the treatment of methemoglobinemia?
+    ANSWER: Increases arterial partial pressure of oxygen   (key B)
+[PEER-PHYS PEER-toxic-q-125] Ingestion of which is associated with delayed GI symptoms and hepatic failure?
+    ANSWER: Amanita mushroom   (key A)
+[PEER-PHYS PEER-toxic-q-126] A toddler ingests his mother's prenatal vitamin. Which component is most likely to cause toxicity?
+    ANSWER: Iron   (key B)
+[PEER-PHYS PEER-toxic-q-127] What is most likely to cause toxicity after acute overdose?
+    ANSWER: Vitamin A   (key A)
+[PEER-PHYS PEER-toxic-q-128] A 2-year-old in shock, unconscious, pale, icteric sclera, oozing from IV. Vomiting/diarrhea 2 days ago. pH 7.26. What is the best initial treatment?
+    ANSWER: Deferoxamine   (key B)
+[PEER-PHYS PEER-toxic-q-129] What medication is recommended for the management of acute opioid withdrawal?
+    ANSWER: Clonidine   (key B)
+[PEER-PHYS PEER-toxic-q-130] What is a validated scoring system for the evaluation of opioid withdrawal in adults?
+    ANSWER: COWS   (key B)
+[PEER-PHYS PEER-toxic-q-131] What is a partial agonist of the mu opioid receptor?
+    ANSWER: Buprenorphine   (key A)
+[PEER-PHYS PEER-toxic-q-132] Which signs and symptoms are typical of cannabis intoxication?
+    ANSWER: Euphoria, decreased anxiety, enhanced sensations, and psychomotor slowing   (key C)
+[PEER-PHYS PEER-toxic-q-133] What is the most effective long-term treatment of cannabinoid hyperemesis syndrome?
+    ANSWER: Abstinence   (key A)
+[PEER-PHYS PEER-toxic-q-134] A 20-year-old man took LSD and is having a 'bad trip'. Warm, tachycardic, flushed, paranoid, agitated, combative. Which treatment is indicated?
+    ANSWER: Intravenous diazepam   (key C)
+[PEER-PHYS PEER-toxic-q-135] A 15-year-old found unresponsive, P 40, R 12, T 36°C, no response to naloxone. Comatose 5 hours then suddenly wakes up. What agent?
+    ANSWER: GHB   (key C)
+[PEER-PHYS PEER-toxic-q-136] Flumazenil administration in benzodiazepine overdose should be considered in which scenario?
+    ANSWER: Iatrogenic benzodiazepine overdose   (key C)
+[PEER-PHYS PEER-toxic-q-137] An overdose of what agent is associated with mental status and respiratory depression that resolves within hours?
+    ANSWER: Gamma-hydroxybutyric acid   (key C)
+[PEER-PHYS PEER-toxic-q-138] What is the mainstay of therapy in a toddler with suspected methamphetamine exposure?
+    ANSWER: Anxiolysis   (key C)
+[PEER-PHYS PEER-toxic-q-139] Which constellation of findings is expected after methamphetamine abuse?
+    ANSWER: Choreoathetosis, mydriasis, and psychosis   (key A)
+[PEER-PHYS PEER-toxic-q-140] A 30-year-old man with chest pain after 2 days of cocaine use. BP 200/120, P 120, T 39.9°C, Cr 2.6, CPK 8500. Which treatment should be avoided?
+    ANSWER: Intravenous metoprolol   (key C)
+[PEER-PHYS PEER-toxic-q-141] A 23-year-old diabetic woman with confusion, palpitations, nausea after cocaine use. BP 165/89, P 130, R 28, glucose 440. Besides fluids and insulin, what medication should be given?
+    ANSWER: Lorazepam   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-319] Which of the following findings suggests ethylene glycol ingestion?
+    ANSWER: Lactate of 0.9 mmol/L, pH of 7.12, and creatinine of 2.5 mg/dL   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-320] A 13-year-old boy presents to the ED with nausea, headaches, blurred vision, and ataxia. He notes that his parents and sisters all have similar symptoms. Which of the following will confirm the diagnosis?
+    ANSWER: Co-oximetry   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-321] A 35-year-old woman with a history of depression presents to the ED with altered mental status. Her medication was changed from fluoxetine to phenelzine 2 days ago. Upon arrival, her vital signs are temperature 39.5°C, heart rate 110 bpm, blood pressure 170/110 mm Hg, and respiratory rate 16/minute. Her exam is notable for lower extremity myoclonus.
+    ANSWER: Serotonin syndrome   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-322] A 3-year-old boy presents to the ED with his distraught grandparent. The boy was playing with an old chemistry set in the basement, and was witnessed to ingest a silvery metallic liquid 30 minutes prior to arrival. The grandparent provides a vial labeled Hg. Vital signs are significant for an HR of 109 bpm, BP of 94/56 mm Hg, RR of 24/min, SpO2 of 99%, and T of 97.7°F (36.6°C).
+    ANSWER: Discharge home   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-323] A 31-year-old farmer presents to the ED with signs of organophosphate poisoning. Which of the following is the clinical end point of atropine administration?
+    ANSWER: Attenuation of bronchial secretions   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-324] Which of the following can help distinguish cocaine toxicity from anticholinergic toxicity?
+    ANSWER: Presence of bowel sounds   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-325] A 28-year-old man is brought in by his family for altered mental status. On arrival, he is extremely agitated and reaching for objects that are not there. Vital signs are a T of 101.3°F (38.5°C), HR of 130 bpm, BP of 170/100 mm Hg, and RR of 30/min with SpO2 of 97% on room air.
+    ANSWER: Belladonna ingestion   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-326] A 53-year-old man presents to the emergency department with vomiting, diarrhea, and abdominal cramping that occurred 1 hour after eating a meal prepared from mushrooms he found growing in the forest. Which of the following most predicts a benign course of disease?
+    ANSWER: Symptoms occurring within 2 hours of ingestion   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-327] A 17-year-old boy presents to the ED with a headache, blurred vision, and ataxia. He states that his mother is exhibiting similar symptoms and his pet dog has been “walking strangely” as well. Which of the following is the most likely diagnosis?
+    ANSWER: Carbon monoxide poisoning   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-328] A 35-year-old man presents to the emergency department with several hours of abdominal pain. The patient notes that he was suicidal earlier in the day and took two bottles of acetaminophen. Examination reveals diffuse abdominal pain that localizes to the epigastrium. Which of the following is the active metabolite seen in acetaminophen toxicity?
+    ANSWER: N-acetyl-p-benzoquinoneimine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-329] A 75-year-old patient with atrial fibrillation on anticoagulation presents with altered mental status after a fall. His CT scan is shown above. He is treated with idarucizumab. What is the mechanism of action of the anticoagulant this patient takes?
+    ANSWER: Direct thrombin inhibition   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-330] A 55-year-old man with an unknown cardiac dysrhythmia and an unclear psychiatric diagnosis presents to the emergency department with a neighbor who found him confused with nausea, vomiting, and diarrhea. His T is 97°F (36.1°C), BP is 127/86 mm Hg, HR is 112 bpm, RR is 18/min, and SpO2 is 98% on room air.
+    ANSWER: Lithium   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-331] A 45-year-old man presents to the ED with chest pain that started about 1 hour after using cocaine. His temperature is 98.5°F (36.9ºC), heart rate is 122 bpm, and blood pressure is 200/120 mm Hg. He receives multiple doses of IV benzodiazepines and nitroglycerin, but his blood pressure remains elevated at 210/110 mm Hg.
+    ANSWER: Phentolamine IV   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-332] A 32-year-old man with an unknown medical history presents to the ED with altered mental status. He was found by police talking to buildings and mentioning "shadows" around him. He points to staff, calling them "waving shadows". His vital signs are HR 102 bpm, BP 148/92 mm Hg, RR 14/min, T 37.1°C, SpO2 96% on room air.
+    ANSWER: Phencyclidine   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-333] A 49-year-old man presents to the ED in January for syncope. He was found unconscious by a neighbor and says he “passed out” while working on his running car all night in his garage. He reports a dull headache and fatigue. His oxygen saturation is 95% on room air, and the remainder of his vital signs are within normal limits for his age. An ECG is unremarkable.
+    ANSWER: Deliver supplemental oxygen   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-334] A 25-year-old man presents to the ED after ingesting an entire bottle of acetaminophen. Which of the following is the most likely side effect of the treatment of choice?
+    ANSWER: Anaphylactoid reaction   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-335] A 2-year-old boy presents to the emergency department after a possible accidental ingestion. His parent states his son was playing while he was working in the garage. Suddenly the parent heard crying and noticed his son’s shirt was soaked with kerosene. The parent is concerned that the boy may have ingested kerosene. His physical exam is normal, and he is playing with his toys.
+    ANSWER: Obtain a chest X-ray in 6 hours and discharge if normal   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-336] Which of the following is a contraindication to flumazenil?
+    ANSWER: Mixed overdose   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-337] An 18-year-old man presents after ingesting a bottle of imipramine. His ECG is shown above. What is the most appropriate treatment?
+    ANSWER: Sodium bicarbonate   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-338] A 51-year-old man presents to the ED in a postictal state. His vital signs include a heart rate of 98 bpm, blood pressure of 131/82 mm Hg, respiratory rate of 22/min, and oxygen saturation of 100% on 2 L nasal cannula. His fingerstick blood glucose measurement is 121 mg/dL. He is clearly postictal on examination with somnolence, a visible tongue bite, and evidence of urinary incontinence.
+    ANSWER: Tramadol use   (key E)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-339] A 4-year-old boy presents after spilling chemicals on himself while playing in the garage. He is confused, diaphoretic, and incontinent of urine. His temperature is 99.0°F (37.2°C), heart rate is 110 bpm, and blood pressure is 140/100 mm Hg. In addition to decontamination and supportive care, which of the following medication combinations is indicated?
+    ANSWER: Atropine and pralidoxime   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-340] A large number of patients are presenting to the ED with varying degrees of ocular and blistering dermal burns after a chemical warfare attack in the city. Those closest to the point of attack have arrived intubated with blood-filled endotracheal tubes. Which chemical warfare agent was most likely used in this attack?
+    ANSWER: Mustard   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-341] A 28-year-old man presents to the ED with altered mental status and agitation. He has a history of bipolar disorder and schizophrenia and was recently started on risperidone. Vital signs: HR 128 bpm, BP 85/45 mm Hg, RR 25/min, T 103°F (39.4°C), and SpO2 93%. He is somnolent with a GCS of 12, grossly diaphoretic, and has severe rigidity in all extremities without clonus.
+    ANSWER: Neuroleptic malignant syndrome   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-342] A 2-year-old girl presents to the ED via ambulance. She is actively seizing. She received several doses of IV diazepam without improvement. The patient’s parent arrives with an empty pill bottle that she recently started taking after a positive tuberculin skin test. Which of the following medications is most appropriate to administer next?
+    ANSWER: Pyridoxine   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-343] A 7-year-old boy presents to the emergency department after a nearby terrorist attack. He had a minor arm injury and waited as the department cared for other critically ill patients. He is brought to a room 4 hours after arrival, with difficulty breathing. His SpO2 is 88% on room air. Physical examination reveals diffuse crackles on the chest, and a chest X-ray is shown above.
+    ANSWER: Phosgene   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-344] A patient presents with abdominal pain, vomiting, and diarrhea after an exposure. Vital signs are significant for an HR of 50 bpm. On exam, the patient is salivating, wheezing, and has 2 mm, round, equal, and reactive pupils. An ECG is shown above. Which of the following is the best treatment for this patient’s suspected toxidrome?
+    ANSWER: Atropine and pralidoxime   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-345] What cofactor should be supplemented in a patient with ethylene glycol poisoning?
+    ANSWER: Thiamine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-346] A 34-year-old man presents to the ED with vomiting after exposure to pesticides while working as a farmer. Which of the following would you expect to find on physical exam?
+    ANSWER: Bronchorrhea   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-347] A 35-year-old man presents with hyperthermia, hypertension, and altered mental status. He was recently started on haloperidol for schizophrenia. Physical examination reveals a confused patient with muscle rigidity. Which of the following medications should be administered?
+    ANSWER: Lorazepam   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-348] An 18-year-old man presents to the ED reporting abdominal pain. He works at a factory using wood preservatives. The patient states that he was not wearing his face mask today and inhaled gas at the factory. Since arriving in the ED, he also reports headaches, drowsiness, nausea, and a garlic taste in his mouth. Which of the following gases was this patient exposed to?
+    ANSWER: Arsenic   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-349] Which of the following would have a strong interaction with direct thrombin inhibitors?
+    ANSWER: Carbamazepine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-350] A 33-year-old woman presents to the emergency department after overdosing on medication. The patient is confused and refuses to answer questions. Her family reports her initial symptoms were tremors, nausea, and vomiting. She has now become progressively more confused. Her T is 97°F (36.1°C), BP is 95/70 mm Hg, HR is 87 bpm, RR is 15/min, and SpO2 is 100% on room air.
+    ANSWER: Lithium   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-351] A 26-year-old presents to the ED by EMS for altered mental status. He is minimally responsive to sternal rub and has pinpoint pupils. Vital signs include HR 68 bpm, BP 92/54 mm Hg, and RR 6/minute. He is given naloxone 0.4 mg with a return of normal mentation and improvement in vital signs. Overdose of which of the following medications requires a prolonged observation period?
+    ANSWER: Methadone   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-352] A 57-year-old man with a history of schizophrenia presents to the ED with severe agitation. On physical exam, you note severe muscular rigidity. Vital signs are BP 190/110 mm Hg, HR 140 bpm, RR 24/min, and T 101.9°F (38.8°C). Which of the following combinations is likely responsible for this patient’s presentation?
+    ANSWER: Haloperidol and promethazine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-353] An 18-year-old man presents to the ED after accidentally ingesting an unknown amount of gasoline while siphoning from his friend’s gas tank. He is currently asymptomatic. Vital signs are BP 118/80 mm Hg, HR 80 bpm, RR 16/min, and T 98.2°F (36.8°C). Which of the following is the most appropriate course of action?
+    ANSWER: Observe in the ED for 6 hours and if chest X-ray is normal, discharge home   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-354] A 21-year-old woman is brought to the emergency department after an intentional overdose 4 hours ago. Her family found her with an empty pill bottle that contained one of her grandparent’s medications. In the ED, her vital signs are a BP of 105/80 mm Hg, HR of 109 bpm, RR of 31/min, and SpO2 of 96%. She is lethargic and diaphoretic and is not following commands.
+    ANSWER: Sodium bicarbonate   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-355] A 2-year-old boy presents to the emergency department with a seizure. The seizure involved bilateral stiffness with eyes rolling back and lasted for 3 minutes, after which it self resolved. The patient has not had any fevers. About an hour ago, he started coughing, vomiting, and sweating. He seemed more agitated and anxious for about 30 minutes, after which he had the seizure.
+    ANSWER: Nicotine   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-356] A 51-year-old woman is found somnolent in the garage after a suspected suicide attempt. An empty bottle of antifreeze is found next to her. On arrival to the ED, vital signs are significant for HR 122 bpm, BP 114/66 mm Hg, RR 38/min, SpO2 99%, and T 37.6°C. Physical exam is unremarkable except for a Glasgow Coma Scale score of 3 and hyperpnea. She is protecting her airway.
+    ANSWER: Thiamine and pyridoxine   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-357] A 21-year-old man presents to the ED with difficulty walking due to poor balance. His symptoms began this evening. The only thing he can recall out of the ordinary is that he ate grouper at a business lunch. On physical exam, he is profoundly ataxic and unable to keep his balance. Which of the following other neurologic symptoms is pathognomonic for the most likely disease process?
+    ANSWER: Hot and cold temperature reversal   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-358] A 70-year-old woman with a history of endometrial carcinoma is brought to the emergency department with altered mental status. Her vital signs on arrival are HR 72 bpm, RR 6/min, BP 140/90 mm Hg, and T 37.4°C. The patient opens her eyes to pain, localizes to pain, and mumbles disoriented words. Her physical exam is notable for miotic pupils and decreased bowel sounds.
+    ANSWER: Naloxone   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-359] A 16-year-old boy swallows a large volume of drain cleaner in a suicide attempt. Which of the following is most likely to be associated with this ingestion?
+    ANSWER: Liquefaction necrosis of the esophagus   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-360] A 5-year-old boy presents with lethargy, bradycardia, and hypotension after he was found eating flowers from a yellow oleander plant. What is the most appropriate treatment for this condition?
+    ANSWER: Digoxin-specific antigen-binding fragments   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-361] A 19-year-old woman presents to the ED with right upper quadrant abdominal pain and mild jaundice. Upon further questioning, she tearfully reports she took “two bottles of pills yesterday morning.” Which of the following is the most appropriate treatment?
+    ANSWER: N-acetylcysteine   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-362] A 22-year-old woman presents to the emergency department after an intentional overdose. She has a history of depression and bipolar disorder. The patient was found altered and minimally responsive by her parent with a suicide note. On arrival, the patient is altered and making nonsensical speech. Vital signs are remarkable for an HR of 120 bpm, RR of 28/min, and BP of 180/95 mm Hg.
+    ANSWER: Dry mucous membranes   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-363] A 65-year-old man with a mechanical aortic valve presents with hematemesis. His vital signs are BP 95/50 mm Hg and HR 118 bpm. The patient is on warfarin and has an INR of 7.3. What is the best next step in the treatment of this patient?
+    ANSWER: Vitamin K and prothrombin complex concentrate   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-364] A 55-year-old man who does not have housing presents to the ED with altered mental status. The patient has alcohol use disorder and has frequent visits to the ED. Today he was found passed out on a park bench. The patient is responsive to verbal and noxious stimuli and says he drank a bottle of an unidentified liquid with other individuals who do not have housing.
+    ANSWER: Methanol toxicity   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-365] A 63-year-old woman presents to the ED by ambulance due to a change in mental status. Her medications include glipizide, amlodipine, olanzapine, and sertraline. Her vital signs are BP 140/90 mm Hg, HR 120 bpm, RR 20/min, and T 104℉ (40°C). On physical exam, she has muscle rigidity and hyperreflexia. Her blood glucose level is 114 mg/dL.
+    ANSWER: Involuntary muscle jerks   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-366] A 41-year-old man presents to the ED with cough and wheezing after an intentional ingestion of lighter fluid. What is the mechanism by which this disease process occurs?
+    ANSWER: Destruction of alveolar lipid membranes   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-367] A 65-year-old man with a history of bipolar disorder and heart failure presents to the emergency department with acute tremors and confusion. He is unable to offer further history. His last known ejection fraction is 22%. He is currently on lithium. His T is 97°F (36.1°C), BP is 105/60 mm Hg, HR is 124 bpm, RR is 19/min, and SpO2 is 98% on room air.
+    ANSWER: Nephrology consult for emergent hemodialysis   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-368] A 63-year-old woman with a medical history of hypertension presents with syncope after a witnessed overdose. Her vital signs are T 98.7°F (37.1ºC), HR 40 bpm, BP 80/43 mm Hg, RR 20/min, SpO2 95%, and finger stick glucose 213 mg/dL. The patient is alert, oriented, and cooperative with examination. ECG shows sinus bradycardia. Her only medication is verapamil.
+    ANSWER: Calcium chloride   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-369] A 32-year-old man presents to the ED for blurry vision. He immigrated to the United States 6 months ago. He was diagnosed with a lung disease and was prescribed several medications. Which of the following agents is most likely responsible for his symptoms?
+    ANSWER: Ethambutol   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-370] A 21-year-old woman presents to the ED after an intentional ingestion. On physical examination, she is lethargic, flushed, hot to the touch, and her pupils are dilated. Vital signs include BP 130/90 mm Hg, HR 130 bpm, and RR 22/min. Her ECG is shown above. What is the most appropriate initial therapy?
+    ANSWER: Sodium bicarbonate 50 mEq intravenously   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-371] A 42-year-old man presents to the ED with acute onset confusion and agitation. He has a known history of depression. His friend states his medication dosages were adjusted the previous day. His BP is 155/90 mm Hg, HR 115 bpm, RR 18/min, and T 39.7°C. On exam, you note clonus and muscle rigidity in his lower extremities.
+    ANSWER: Diazepam   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-372] A 16-year-old boy with a history of depression presents with altered mental status. His skin is warm and dry, and he is mumbling and yelling incoherently. His vital signs are T 38.5°C, HR 118 bpm, BP 107/65 mm Hg, RR 24/min, and SpO2 99%. A 12-lead ECG is performed, as seen above. Which of the following is the most appropriate next step in care?
+    ANSWER: Sodium bicarbonate bolus and infusion   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-373] A 77-year-old woman with a medical history of atrial fibrillation that is anticoagulated with warfarin presents to the emergency department with active epistaxis. She also reports gingival bleeding while brushing her teeth. She confirms compliance with her medications and no changes to her warfarin dosing over the past year. Her vital signs are normal.
+    ANSWER: Amiodarone   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-374] A 16-year-old girl presents to the ED with altered mental status. She has to be restrained due to agitation and intermittent bouts of violence. She is responding to internal stimuli and has dilated pupils, tachycardia, flushed skin, and diaphoresis. You administer high doses of benzodiazepines that prevent her from fighting her restraints, after which she falls asleep.
+    ANSWER: Determine core temperature   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-375] A 24-year-old man presents to the ED after taking a large amount of sertraline and meperidine. Which of the following would you expect to find on exam?
+    ANSWER: Hyperreflexia and myoclonus   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-376] Which of the following acid-base abnormalities manifests earliest in salicylate toxicity?
+    ANSWER: Respiratory alkalosis   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-377] Which of the following is associated with carbon monoxide poisoning?
+    ANSWER: Bilateral basal ganglia hypodensities   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-378] A 25-year-old man with a history of epilepsy presents to the ED with status epilepticus. The patient is intubated without paralytics, given multiple doses of lorazepam, and started on a lorazepam drip, which finally stops the seizures. The patient undergoes a complete workup including imaging and lab studies, which are all unremarkable.
+    ANSWER: Propylene glycol toxicity   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-379] An 88-year-old man with Parkinson disease presents with confusion. He is using a rivastigmine patch as part of his therapy but has mistakenly put on five patches. What physical examination finding would be expected in this patient?
+    ANSWER: Lacrimation   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-380] What is the most common side effect following administration of IV amiodarone?
+    ANSWER: Hypotension   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-381] A previously healthy 7-month-old boy presents to the ED with a new onset of cyanosis and fatigue, first noticed this morning. The child was recently treated for thrush, and his parents have been using over-the-counter benzocaine for teething. The child is sleepy but easily awakens and cries. He has no respiratory distress.
+    ANSWER: Methylene blue   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-382] Which of the following is most consistent with the expected signs and symptoms of cannabinoid hyperemesis syndrome?
+    ANSWER: Cyclical vomiting and abdominal pain relieved by hot showers   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-383] A 45-year-old man with a history of hypertension presents with confusion. His spouse brought him to the emergency department because he had been acting strangely. He was his normal self earlier today but then started to report some fuzziness and difficulty thinking. He has since become confused and does not know where he is or who his spouse is.
+    ANSWER: Direct competitive inhibition of oxygen binding to hemoglobin   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-384] A 23-year-old man with no medical history presents to the emergency department for a seizure. His parent states that she found him in his room with an empty can of 2% lidocaine spray near him. He was lethargic at the time and, while he was in the ambulance, was noted to have a tonic-clonic seizure. Multiple rounds of benzodiazepines are given with cessation of seizure.
+    ANSWER: Administer intravenous lipid emulsion   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-385] A 30-year-old man is brought into the ED after being removed from a house fire. He is confused and reports a headache. Examination is significant for a heart rate of 115 bpm and a respiratory rate of 25/min. His lungs are clear bilaterally and skin examination reveals no burns or injuries.
+    ANSWER: Cyanide toxicity   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-386] A 17-year-old boy presents after being found unconscious, with intermittent episodes of apparent apnea, but is easily arousable with stimulation and has midsize pupils. Which substance ingestion best explains this presentation?
+    ANSWER: Gamma-hydroxybutyrate   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-387] A 3-year-old boy presents after ingestion of a pill about 1 hour prior to arrival. The parent states that she accidentally dropped a single 5 mg pill of glipizide, and the boy ingested it before she could stop him. The boy’s blood glucose level is 98 mg/dL. He has no IV access at this time. What is the best next step?
+    ANSWER: Admit for 24-hour observation   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-388] A 43-year-old woman presents to the ED acutely agitated and confused. According to a friend, the patient was recently discharged from a psychiatric hospital for major depressive disorder with psychotic features and is being treated with sertraline and olanzapine. The patient also has a history of chronic low back pain for which she sees an acupuncturist and takes tramadol.
+    ANSWER: Cyproheptadine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-389] A 30-year-old woman presents to the ED with agitation and fever. On physical exam, you note lower extremity hyperreflexia and myoclonus. Vital signs are a BP of 180/110 mm Hg, HR of 130 bpm, RR of 28/min, and T of 101.8°F (38.8°C). Which of the following combinations likely led to this presentation?
+    ANSWER: Dextromethorphan and citalopram   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-390] A 78-year-old woman is brought in by her son for altered mental status. She lives alone and was found by neighbors confused and wandering her neighborhood. The son reports she has a history of diabetes, depression, and hypertension but is unsure of the medicines she is taking. Her vital signs are rectal temperature 101°F (38.3ºC), HR 104 bpm, and BP 134/82 mm Hg.
+    ANSWER: Inhibition of muscarinic acetylcholine receptors   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-391] A 44-year-old man with diabetes presents after a fall. His family states he drinks alcohol every day, and no one has heard from him in 3 days. He is tachycardic and hypertensive with otherwise normal vital signs. He has no traumatic findings on examination but does have dried blood in his beard. Laboratory analysis reveals an elevated osmolar gap.
+    ANSWER: pH 7.40, sodium 140 mEq/L, chloride 105 mEq/L, bicarbonate 25 mEq/L, and ketonemia   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-392] A 16-year-old girl with a history of depression and a previous overdose presents with altered mental status. She is disoriented with mumbling speech. Vital signs include a T of 101.2°F (38.4ºC), HR of 122 bpm, BP of 130/82 mm Hg, and RR of 16/min. Physical examination is notable for dilated pupils, dry mucous membranes, and flushed skin. On ECG, the QRS interval is 160 ms.
+    ANSWER: Diphenhydramine   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-393] A 22-year-old man presents to the emergency department acutely obtunded. He has been this way for the past 20 minutes. He is not protecting his airway on arrival and is promptly intubated. His T is 97°F (36.1°C), BP is 125/80 mm Hg, HR is 82 bpm, RR is 15/min, and SpO2 is 100% on a 21% fraction of inspired oxygen.
+    ANSWER: Gamma-hydroxybutyrate   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-394] A 70-year-old woman presents to the emergency department reporting fatigue, nausea, and mild diffuse abdominal pain. She has a history of heart failure, and her medications include digoxin, enalapril, and simvastatin. She appears ill with a Glasgow Coma Scale score of 14. Her vital signs include T 98.6ºF (37ºC), HR 33 bpm, RR 13/min, BP 89/55 mm Hg, and SpO2 98% on room air.
+    ANSWER: Administer digoxin-specific antibody fragments   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-395] A 58-year-old man is brought to the ED by his family after a rivaroxaban overdose 6 hours ago. Vital signs are within normal limits. He displays no evidence of external or internal bleeding. A CBC is within normal limits and the patient’s INR is 2.7. Which of the following is the best next step?
+    ANSWER: Admit the patient to monitor for bleeding   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-396] A 22-year-old man presents to the emergency department with confusion. He was found outdoors in a field and is unable to answer questions. His T is 97°F (36.1°C), BP is 105/60 mm Hg, HR is 35 bpm, RR is 24/min, and SpO2 is 94% on room air. The patient is somnolent and has miotic pupils. He is drooling, and wheezing is heard on lung auscultation.
+    ANSWER: Acetylcholinesterase inhibition   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-397] A 19-year-old man presents to the ED via EMS restrained and acutely agitated. The patient’s friends state that 1 hour prior to arrival, he went outside to smoke some marijuana, and shortly after returning, they noticed he was acting differently than usual and reporting chest pain.
+    ANSWER: Diazepam   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-398] What is the most common side effect associated with the administration of intravenous N-acetyl-cysteine?
+    ANSWER: Anaphylactoid reaction   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-399] A 6-year-old girl without any significant medical history presents to the emergency department with her parents after she spilled gasoline on herself while alone in their garage. The parents found her coughing and immediately cleaned the gasoline off of her. The girl thinks she swallowed some but reports no vomiting or gagging.
+    ANSWER: Observe for 6 hours post-ingestion and then perform a chest X-ray   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-400] A 19-year-old man presents with confusion, hypertonia, hyperreflexia with clonus, tachycardia, and recent use of multiple serotonergic medications. What is the most appropriate treatment at this time?
+    ANSWER: Cyproheptadine 12 mg oral   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-401] A patient presents to the ED unconscious with suspected cyanide toxicity after a house fire. Intravenous access is obtained. On physical exam, the patient is confused and has a bitter almond odor. Blood work is significant for a lactic acid of 12 mmol/L and carboxyhemoglobin level of 12%. Which of the following is the first-line treatment for the suspected toxicity in this patient?
+    ANSWER: Hydroxocobalamin   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-402] What is the approximate half life of carboxyhemoglobin while a patient is breathing high-flow oxygen via a nonrebreather mask?
+    ANSWER: 60 minutes   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-403] A 21-year-old woman presents after taking an entire bottle of her parent’s hypertension medication in a suicide attempt. Vital signs are T of 98°F (36.7°C), BP of 85/50 mm Hg, HR of 45 bpm, RR of 16/min, and SpO2 of 98% on room air. She is awake and alert but anxious, with cool extremities. Her blood glucose is 300 mg/dL, and her ECG shows sinus bradycardia.
+    ANSWER: High-dose insulin   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-404] A 59-year-old man with a history of depression, prior suicide attempts, and daily alcohol use presents to the emergency department with altered mental status and vomiting after being seen drinking from an unknown bottle 4 hours prior. Vital signs are an HR of 119 bpm, BP of 98/60 mm Hg, T of 95°F (35°C), RR of 20/min, and SpO2 of 96% on room air. Straight catheter urine shows ketonuria.
+    ANSWER: Supportive management   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-405] A 36-year-old man presents with altered mental status. Which of the following additional findings is most specific for a diagnosis of serotonin syndrome?
+    ANSWER: Clonus and lower extremity hyperreflexia   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-406] You are treating a patient with acute salicylate poisoning. Which of the following is an indication for hemodialysis?
+    ANSWER: Salicylate level 110 mg/dL   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-407] An 82-year-old nursing home resident with a recently diagnosed lower extremity deep venous thrombosis on dabigatran presents to the ED with epistaxis, confusion, and lightheadedness. His vital signs include a T of 97.7°F (36.5°C), HR of 110 bpm, and BP of 119/79 mm Hg.
+    ANSWER: Administer idarucizumab to reverse dabigatran’s anticoagulant effect   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-408] A 51-year-old man is brought in by EMS after his spouse found him unresponsive. His heart rate is 44 bpm, respiratory rate is 12/min, blood pressure is 80/40 mm Hg, temperature is 96°F (35.6°C), and oxygen saturation is 95% on room air. His skin is dry, and his pupils are 1 mm bilaterally. He is lethargic and does not respond to a sternal rub.
+    ANSWER: Alpha-2 agonism   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-409] What finding would be most consistent with strychnine poisoning?
+    ANSWER: Opisthotonos   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-410] A 55-year-old man presents to the emergency department after eating several of the mushrooms seen above. He is having abdominal pain, nausea, vomiting, and diarrhea. Which of the following treatments might be indicated to treat the major complication associated with this ingestion?
+    ANSWER: N-acetylcysteine   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-411] A 14-year-old girl presents with seizures after intentional ingestion. On physical exam, you note that she is lethargic, flushed, hot to the touch, and has dilated pupils. Vital signs are BP 130/80 mm Hg, HR 140 bpm, RR 22/min, and T 100.4°F (38°C). ECG is shown above. Which of the following antidysrhythmic categories has the same mechanism of action as the drug this patient likely ingested?
+    ANSWER: Class I   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-412] A 54-year-old man with a history of hypertension, hyperlipidemia, diabetes, and Parkinson disease presents for evaluation of altered mental status. His home medications include metformin, atorvastatin, aspirin, selegiline, carbidopa-levodopa, and sertraline. He was also recently started on amitriptyline for a new diagnosis of migraine headaches.
+    ANSWER: Serotonin syndrome   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-413] An 11-year-old girl presents to the emergency department following an intentional overdose of her grandparent’s medications 2 hours ago. She reports abdominal pain, nausea, vomiting, and changes in her vision. Her parents report that she is becoming increasingly more confused and somnolent. Her examination is only notable for the somnolence. Her ECG on presentation is shown above.
+    ANSWER: Hyperkalemia   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-414] A 22-year-old man presents to the ED after drinking a bottle of insecticide in his parents' garage. Vital signs include a BP of 155/70 mm Hg, HR of 105 bpm, RR of 20/min, T of 37.5°C, and SpO2 of 96% on room air. On exam, the patient is confused and diaphoretic, and he vomits a few times. His pupils are 1 mm. There are crackles on the lung exam.
+    ANSWER: Atropine and pralidoxime   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-415] A 34-year-old woman presents after an NSAID overdose. She has a long history of depression and has had worsening symptoms lately after losing her job. She reports taking 40 tablets of 200 mg ibuprofen 2 hours prior to arrival. She reports no other ingestions. On examination, she is tearful with heart rate 102 bpm, respiratory rate 14/minute, blood pressure 117/68 mm Hg, and weight 70 kg.
+    ANSWER: Observation for 4 hours   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-416] A 25-year-old man with a history of depression is brought to the ED by a coworker for altered mental status. The coworker found the patient lethargic at his workplace on a farm but otherwise cannot offer any additional history. The patient’s initial blood pressure and a finger-stick blood glucose are within normal limits. ECG is shown above.
+    ANSWER: Parathion   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-417] A 2-year-old boy presents to the emergency department within 30 minutes of an ingestion. He weighs 12.5 kg and is currently asymptomatic. Which of the following ingestions would warrant administration of activated charcoal?
+    ANSWER: 2 of his parent's verapamil tablets   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-418] A 74-year-old woman with a history of heart failure, hypertension, and coronary artery disease presents with confusion, abdominal pain, and nausea. Her medications include hydrochlorothiazide, aspirin, and digoxin. The patient’s ECG is shown above. She has a potassium of 5.3 mEq/L. Which of the following treatments should be initiated?
+    ANSWER: Digoxin immune Fab   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-419] A 46-year-old man presents with status epilepticus. He immigrated from central Europe, and other than currently being treated for a “lung infection,” he has no medical conditions. You administer two doses of lorazepam, but he continues to seize. Which of the following medications should also be administered next?
+    ANSWER: Pyridoxine   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-420] A 44-year-old man with a history of substance use disorder presents to the ED confused and unable to offer a history. His T is 102°F (38.9°C), BP is 135/82 mm Hg, HR is 124 bpm, RR is 22/min, and SpO2 is 100% on room air. Physical examination reveals dilated pupils that are not reactive. His skin is warm and dry. Which of the following is the most likely cause of this patient’s symptoms?
+    ANSWER: Diphenhydramine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-421] A family of two parents aged 40 years and 42 years and two children aged 3 years and 6 years presents from home with shared symptoms that include headache, dizziness, nausea, and vomiting. They report no recent sick contacts, well water exposures, and no concerning food exposures.
+    ANSWER: Carbon monoxide toxicity   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-422] Ingestion of which of the following substances is likely to result in cyanide toxicity?
+    ANSWER: Cassava root   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-423] A 2-year-old healthy boy presents one morning unresponsive. He was well all day yesterday, and last night at the party his parents were hosting. His vital signs show a temperature of 35.4°C, heart rate of 160 bpm, respiratory rate of 28/min, and oxygen saturation of 94% on room air. He is sweating and does not respond to IV placement. He begins to have a generalized tonic-clonic seizure.
+    ANSWER: Hypoglycemia   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-424] A patient was accidentally administered a heparin agent when one of the ED staff flushed his IV line. He is experiencing upper GI bleeding. Vital signs are heart rate 100 bpm, blood pressure 90/60 mm Hg, respiratory rate 22/min, and oxygen saturation 97% on room air.
+    ANSWER: Protamine sulfate   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-425] A 23-year-old woman presents to the ED 2 hours after an intentional ingestion of a painkiller. She has nausea and vomiting. Physical exam is unremarkable. Vital signs are BP 110/70 mm Hg, HR 90 bpm, RR 14/minute, and T 98.2°F (36.8°C). Which of the following is necessary to direct your treatment?
+    ANSWER: 4-hour acetaminophen level   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-426] An 83-year-old man with a history of hypertension, gout, atrial fibrillation, hyperlipidemia, and squamous cell carcinoma presents to the ED with palpitations. He has a fast, irregularly irregular pulse and appears diaphoretic. He reports no sick contacts and indicates medication compliance. He also states he has been having heat intolerance, diarrhea, and weight loss over the last several weeks.
+    ANSWER: Amiodarone   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-427] A 54-year-old man is brought to the emergency department for altered mental status. Per report, the patient was found on the ground next to an empty, unmarked bottle. The patient is unable to provide any further history. Laboratory workup is notable for a high anion gap metabolic acidosis. The patient’s urine fluoresces under ultraviolet light. What did the patient most likely ingest?
+    ANSWER: Ethylene glycol   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-428] A 22-year-old woman with a history of daily cannabis use presents with abdominal pain and intractable nausea and vomiting over the past 2 days. Her vital signs are within normal limits and her abdominal exam is benign. A urinalysis, blood work, and bedside right upper quadrant scan are unremarkable. Which of the following is most likely to alleviate this patient’s abdominal pain effectively?
+    ANSWER: Hot water showers   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-429] A 32-year-old woman presents with headache, nausea, and vomiting after an ingestion at home. Which of the following laboratory results would be most consistent with an isopropyl alcohol ingestion?
+    ANSWER: Sodium 141 mmol/L, chloride 104 mmol/L, bicarbonate 24 mmol/L, blood urea nitrogen 14 mg/dL, glucose 108 mg/dL, serum osmolality 315 mOsm/L   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-430] A 22-year-old man presents to the ED after his friends caught him “acting strange” at a college party. His vital signs include T 99.5°F (37.5°C), HR 60 bpm, BP 120/80 mm Hg, and SpO2 100%. On further questioning, the patient is oriented but indicates that he can “see sounds” and “hear colors.” Physical examination shows mild diaphoresis, dilated pupils, and piloerection.
+    ANSWER: Lysergic acid diethylamide   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-431] Which of the following is the most frequent sign of acute valproic acid toxicity?
+    ANSWER: Central nervous system depression   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-432] A 32-year-old woman with a history of depression presents to the ED with 30 minutes of continued tonic-clonic seizure activity. A few months ago, she started a medication after a positive purified protein derivative tuberculin skin test. In addition to lorazepam, which of the following medications is likely to stop her seizure activity?
+    ANSWER: Pyridoxine   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-433] A 64-year-old man with a history of hypertension, hyperlipidemia, type 2 diabetes mellitus, and seizures presents with fatigue for the last week. Additionally, he describes several episodes of dark, sticky stools. His vital signs show a T of 98.6°F (37°C), HR of 89 bpm, BP of 111/68 mm Hg, RR of 19/min, and SpO2 of 97%.
+    ANSWER: Diltiazem   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-434] A 17-year-old girl with bipolar disorder presents to the ED after a suicide attempt. She has vomited twice and is reporting abdominal pain. Her serum acetaminophen level is 170 mcg/mL. N-acetylcysteine is given. What is the mechanism of action of N-acetylcysteine?
+    ANSWER: Regenerates sulfhydryl donor   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-435] A 68-year-old woman is brought to the ED by EMS due to altered mental status. Her neighbor found her minimally responsive on her couch, incontinent of feces and urine. She appears flushed and diaphoretic, mumbling incoherently to noxious stimuli. Her pupils are 4 mm, equal, and reactive to light.
+    ANSWER: Limb rigidity   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-436] A 3-year-old boy is brought in by his parent for lethargy and altered mental status. She found him in the bathroom surrounded by cleaning supplies and emesis. He was previously in his normal state of good health. His lab results include sodium 139 mmol/L, chloride 101 mmol/L, bicarbonate 27 mmol/L, blood urea nitrogen 15 mg/dL, creatinine 3.1 mg/dL, glucose 90 mg/dL, ketones 2.1 mg/dL, serum osmol …
+    ANSWER: Acetone   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-437] Which of the following is a known complication of chronic lithium toxicity?
+    ANSWER: Arginine vasopressin resistance   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-438] A 32-year-old man with bipolar disorder is brought to the ED for altered mental status. He reports taking an overdose of valproic acid approximately 24 hours ago. His vital signs are within normal limits, but he is lethargic and vomiting. His laboratory values are notable for a serum creatinine of 0.9 mg/dL, valproic acid level of 600 mg/L, and an ammonia level of 120 mg/dL.
+    ANSWER: Intravenous L-carnitine therapy   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-439] A 29-year-old man presents to the ED with oral and nail bed cyanosis after undergoing a recent surgical procedure. His pulse oximetry is 85% despite supplemental oxygen. Which of the following is the most likely cause of this patient’s toxicity?
+    ANSWER: Benzocaine   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-440] A 29-year-old woman was recently started on selegiline for depression. Which of the following foods should she avoid in order to prevent a hypertensive crisis?
+    ANSWER: Salami   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-441] A 3-year-old girl is brought to the emergency department due to nausea and vomiting. Her parent states that the symptoms started about 45 minutes after she found the girl playing in the bathroom, and the parent is concerned that the girl may have ingested some vitamins that she found on the bathroom counter. Her abdominal radiograph is shown above.
+    ANSWER: Transient resolution of gastrointestinal symptoms followed by development of metabolic acidosis and fulminant liver failure   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-442] A 25-year-old man presents after being pulled from a structure fire. He was combative and stridulous during transport and noted to be coughing up copious carbonaceous sputum. On arrival in the ED, he was intubated for airway protection. His vital signs on arrival are T 99.5°F (37.5°C), HR 45 bpm, BP 70/40 mm Hg, and oxygen saturations of 92% on 100% FiO₂. Co-oximetry shows a level of 20%.
+    ANSWER: Hydroxocobalamin   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-443] A 65-year-old man presents with generalized weakness. He has a history of hypertension and takes atenolol. His vital signs are BP 77/40 mm Hg and HR 34 bpm. His ECG is shown above. Physical examination reveals a confused patient with bradycardia. What treatment is indicated?
+    ANSWER: High-dose insulin therapy   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-444] A 16-year-old boy presents to the ED with his parents, who report discovering mushrooms in his room today after he was concerned about abdominal pain. He has had mild abdominal pain and diarrhea that started today and reports ingesting some of the mushrooms last night with his friends at a party.
+    ANSWER: Administer activated charcoal and admit for further care   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-445] A 55-year-old man presents to the emergency department with an altered mental status. He has a Glasgow Coma Scale score of 7 and is subsequently intubated. Physical exam is notable for optic disc hyperemia. Laboratory findings demonstrate a pH of 7.20, sodium of 140 mEq/L, potassium of 4.5 mEq/L, bicarbonate of 10 mEq/L, and chloride of 90 mEq/L.
+    ANSWER: Formic acid   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-446] A 2-year-old girl presents 2 hours after licking her parent's sublingual medication. She is currently asymptomatic. Which of the following medications, if licked once by this patient, warrants hospitalization for an extended period of monitoring?
+    ANSWER: Buprenorphine   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-447] A 33-year-old man with a known history of AIDS presents to the ED actively seizing after an ingestion of one of his medications. An intravenous line is established. Despite high doses of diazepam, phenobarbital, and phenytoin, the patient continues to seize. Which one of the following substances did this patient most likely ingest?
+    ANSWER: Isoniazid   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-448] A 77-year-old woman presents with an acute change in mental status. She has a history of diabetes mellitus, hypertension, and prior ischemic stroke. Home medications include aspirin, clopidogrel, lisinopril, and glyburide. She was found by her family to be confused and diaphoretic. Her blood sugar was 32 mg/dL.
+    ANSWER: Admission for 24–hour observation   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-449] A 32-year-old man presents with headache, nausea, and malaise that he first noted when he awoke this morning, and the symptoms have progressively worsened in the last 4 hours. He felt well yesterday when he went to bed. His partner and cousin, who live in the apartment with him, are being seen in the emergency department as well with similar symptoms that started this morning.
+    ANSWER: Place the patient on high-flow oxygen via a nonrebreather mask   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-450] Which of the following laboratory findings most strongly suggest isopropyl alcohol exposure?
+    ANSWER: Ketosis without acidosis   (key E)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-451] While performing a laceration repair on a healthy 20-year-old man, a large volume of bupivacaine solution is inadvertently injected intravascularly. Shortly after, the patient develops mouth tingling and a metallic taste before becoming bradycardic, hypotensive, unresponsive, and finally pulseless.
+    ANSWER: Lipid emulsion IV   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-452] A 22-year-old woman presents to the emergency department 30 minutes after ingesting 40 tablets of over-the-counter ibuprofen. According to her parent, she had been fighting with her partner and then took the tablets. She has a history of depression and anxiety but has not attempted suicide in the past. At this time, she is nontoxic appearing and crying.
+    ANSWER: Activated charcoal   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-453] Which of the following is an indication for hemodialysis in the setting of lithium overdose?
+    ANSWER: Altered mental status and a lithium level of 3 mEq/L   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-454] An approximately 25-year-old man presents unresponsive. There is an odor of almonds when he breathes. Which of the following toxins is most likely associated with this odor?
+    ANSWER: Cyanide   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-455] A 22-year-old man presents to the emergency department with confusion. His friends state he was using drugs prior to this episode. His T is 101°F (38.3°C), BP is 145/90 mm Hg, HR is 127 bpm, RR is 19/min, and SpO2 is 100% on room air. Physical exam reveals a man who is irritable and confused. His skin is warm, dry, and flushed. His pupils are dilated and minimally reactive.
+    ANSWER: Diazepam   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-456] An 18-month-old girl presents to the emergency department by ambulance after she would not wake up from her nap at daycare. The child was in her usual state of good health that morning and was acting normally through lunchtime and while playing outside at daycare. The daycare yard has many plants, bushes, mushrooms, and wild berries.
+    ANSWER: Marijuana edible ingestion   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-457] A 26-year-old man was exposed to an unknown gas while riding a bus to work. Upon exposure to the agent, the patient became dizzy and dyspneic. EMS found him obtunded with a respiratory rate of 30/min, heart rate of 60 bpm, oxygen saturation of 89%, temperature of 37.5°C (99.5°F), and blood pressure of 100/60 mm Hg. On arrival to the ED, he undergoes decontamination procedures.
+    ANSWER: Atropine   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-458] A 21-year-old man with a history of a seizure disorder presents to the ED after an overdose of his medication. He is altered and has been vomiting. Laboratory testing reveals an ammonia level of 103 µmol/L. Which of the following is the antidote to this patient’s toxicity?
+    ANSWER: L-carnitine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-459] A 2-year-old girl without significant medical history is brought to the ED after having multiple seizures while at daycare. Upon arrival, she continues to have recurrent generalized tonic-clonic seizures back-to-back without returning to baseline. She is intubated and tube placement is confirmed on chest X-ray. Her parents have not arrived to provide history.
+    ANSWER: Lead poisoning   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-460] A 33-year-old man presents to the ED with jaundice and altered mental status. His spouse states that he took “a bunch of pills” in a suicide attempt. Laboratory studies reveal an alanine aminotransferase of 1,045 U/L, aspartate aminotransferase of 1,245 U/L, total bilirubin of 14.3 µmol/L, and INR of 4.5. Which of the following is the typical time frame for death from this patient’s overdose?
+    ANSWER: 72–96 hours   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-461] A 4-year-old with asthma presents to the emergency department with difficulty breathing and an exam consistent with an asthma exacerbation. His only daily home medications include an inhaled glucocorticoid and furosemide, which he takes for chronic kidney insufficiency from hemolytic uremic syndrome.
+    ANSWER: Hyperglycemia and hypokalemia   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-462] A 37-year-old woman presents to the ED with headache, blurry vision, and dyspnea. She states that her spouse has similar symptoms. She also notes the family dog seems dyspneic as well. Which of the following would be an indication for hyperbaric oxygen therapy?
+    ANSWER: Seizures   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-463] A 23-year-old man presents to the ED after ingesting an unknown substance. Which of the following would most suggest an ingestion of cocaine rather than diphenhydramine?
+    ANSWER: Wet, warm, flushed skin   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-464] A 6-year-old boy presents to the ED after an accidental ingestion. The parents are concerned he took some of their medication. He has nausea and epigastric discomfort. An abdominal radiograph reveals radiopaque tablets. Which of the following is a marker of toxicity in this case?
+    ANSWER: Vomiting   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-465] A 63-year-old man with a history of atrial fibrillation presents after a syncopal episode. His ECG is shown above. Which medication is the patient likely to be taking?
+    ANSWER: Digoxin   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-466] What ECG finding is most suggestive of digoxin toxicity?
+    ANSWER: Bidirectional ventricular tachycardia   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-467] An 86-year-old man with a history of diabetes is brought to the emergency department after his spouse found him unresponsive on the floor of their kitchen and immediately called 911. On EMS arrival, they found the patient diaphoretic with altered mental status. His finger stick glucose was 17 mg/dL. He was immediately given an ampule of 50% dextrose and brought to the hospital.
+    ANSWER: Sulfonylureas   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-468] A 57-year-old woman presents to the ED with blue lips and hands. She states that she was recently treated for a urinary tract infection. Her triage pulse oximetry is 85% and remains so despite supplemental oxygen. Which of the following is the definitive treatment for this condition?
+    ANSWER: Methylene blue   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-469] What is the minimum dose of ibuprofen considered necessary to cause symptomatic toxicity when taken in overdose?
+    ANSWER: 100 mg/kg   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-470] A 22-year-old man presents to the emergency department with eye pain and decreased vision. On ocular exam, his visual acuity is diminished, and he has difficulty distinguishing certain colors. He is currently being treated for active tuberculosis. Which of the following medications is most likely the cause of his symptoms?
+    ANSWER: Ethambutol   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-471] A 27-year-old woman presents to the emergency department with a headache, nausea, and vomiting. She noticed it this evening and states that her symptoms improved when she went outside to read but resurfaced when she went to bed. Her spouse is also being seen in the emergency department for a severe headache as well.
+    ANSWER: 100% oxygen   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-472] A 68-year-old man presents to the emergency department with a headache, fatigue, nausea, and vomiting. He was working in his garage when his symptoms started. He has no significant medical conditions and is healthy at baseline. He smokes a pack of cigarettes daily. His vital signs and exam are unremarkable. His carbon monoxide level is 20%. The rest of his lab tests and ECG are unremarkable.
+    ANSWER: 100% oxygen via nonrebreather   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-473] A 16-year-old boy is brought to the ED after a suicide attempt. His parents report they found him in his room coughing and vomiting. He was found with his head inside a bag filled with gold paint. He is tearful but otherwise currently asymptomatic. His vital signs include a HR of 88 bpm, BP of 122/78 mm Hg, RR of 14/min, and SPO2 of 98% on room air.
+    ANSWER: Observation with repeat chest X-ray in 4–6 hours   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-474] A 2-year-old girl presents to the ED after ingesting a mouthful of liquid household bleach. The child is currently asymptomatic with no lesions visible in her oral cavity. She is tolerating her oral secretions without difficulty. What is the appropriate care for this patient?
+    ANSWER: Observe in the ED and PO challenge patient prior to discharge   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-475] A 6-year-old girl presents to the emergency department after exposure to an unknown substance. She is unresponsive and covered in vomit and urine. Her heart rate is 50 bpm, and her blood pressure is 82/44 mm Hg. You notice muscle fasciculations and diaphoresis while preparing to intubate her. She has wheezing on auscultation, and you notice copious oral secretions during her intubation.
+    ANSWER: Insecticide   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-476] A 27-year-old woman with a history of depression presents to the ED with abdominal pain and tinnitus after taking 18 tablets of aspirin (324 mg) 6 hours ago. She is sad due to a recent divorce but reports no homicidal ideations or hallucinations. Her vital signs are T 100.1°F (37.8°C), BP 125/85 mm Hg, HR 104 bpm, RR 26/min, and SpO2 99%.
+    ANSWER: Urine pH 7.5–8.0   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-477] A young patient with a history of depression presents after ingesting pesticide. His vital signs are T 98.7°F (37.1°C), HR 44 bpm, BP 100/63 mm Hg, RR 28/min, and SpO2 91%. On examination, he has miotic pupils, vomiting, diaphoresis, and copious frothy secretions. What treatment is indicated after caring for the patient’s airway?
+    ANSWER: Atropine   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-478] An emergency medicine physician is summoned to take care of patients at the scene of a terrorist attack. The first patient the physician encounters has a blood pressure of 117/58 mm Hg and his pulse is 60 bpm. Physical exam is notable for profuse salivation and drooling as well as fasciculations.
+    ANSWER: Pralidoxime   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-479] A 3-year-old girl is brought to the ED for altered mental status. She has no medical history and was previously well. Her parent, who was taking care of the patient's grandparent recently discharged from the hospital for a lung problem, found her confused on the floor of the grandparent’s bedroom after hearing a “thud.” The patient is afebrile but tachycardic, mumbling, and not following commands. …
+    ANSWER: Pyridoxine   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-480] A 21-year-old woman with a history of migraine headaches presents to the emergency department after her roommate found her unconscious in their dormitory room. She noted empty alcohol bottles and an empty propranolol bottle next to her bed. Her initial vital signs include an HR of 31 bpm, a BP of 89/43 mm Hg, an RR of 12/min, an SpO2 of 93% on room air, and a T of 37.1°C. An ECG is shown above.
+    ANSWER: High-dose insulin and dextrose infusions   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-481] A 23-year-old man is brought to the emergency department by his parents when he was found obtunded at home. He has a history of polysubstance use disorder. His T is 97°F (36.1°C), BP is 115/80 mm Hg, HR is 62 bpm, RR is 10/min, and SpO2 is 94% on room air. The patient does not respond to verbal stimuli but localizes to painful stimuli. He snores on occasion while in the ED.
+    ANSWER: Observation on end-tidal CO 2   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-482] A 3-year-old girl with a medical history of constipation is brought to the ED for evaluation of a limp and knee pain. Her physical exam is unremarkable. You obtain the knee radiograph seen above. What do you expect to see on her peripheral blood smear?
+    ANSWER: Basophilic stippling   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-483] A 56-year-old man presents with chest pain 6 hours after using cocaine. The patient reports no history of coronary artery disease or the use of any other drugs or medications. His temperature is 99.8°F (37.7ºC), heart rate is 122 bpm, and blood pressure is 160/100 mm Hg. An ECG is performed and is shown above.
+    ANSWER: Sodium bicarbonate 1 mEq/kg IV   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-484] A 54-year-old man presents via EMS after an intentional overdose. His spouse found him at home, confused and covered in emesis. He was last seen at his baseline 4 hours prior. He has a history of hypertension, hyperlipidemia, diabetes mellitus, and depression. He takes pravastatin, lisinopril, diltiazem, metoprolol, metformin, and sertraline.
+    ANSWER: Insulin and dextrose   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-485] A 45-year-old man (70 kg) with no previous medical problems and who does not take regular medicines presents to the emergency department after intentionally ingesting 50 tablets of regular-strength aspirin approximately 5 hours ago. He is diaphoretic and nauseated. His blood pressure is 150/80 mm Hg, heart rate is 110 bpm, respiratory rate is 32/min, and temperature is 38.6°C.
+    ANSWER: Seizure   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-486] A 23-year-old man presents to the emergency department at a small community hospital via EMS. He reports taking 100 tablets of acetaminophen in a suicide attempt 8 hours ago. He is currently asymptomatic but regretted his actions and decided to seek care. Vital signs are within normal limits. The serum acetaminophen level is 700 mcg/mL. Liver and kidney function tests are within normal limits.
+    ANSWER: IV N-acetylcysteine   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-487] A 22-year-old man presents to the ED with cyanosis after general anesthesia. The triage nurse checks his pulse oximetry and finds it to be 85% despite supplemental oxygen. Which of the following is the most likely diagnosis?
+    ANSWER: Methemoglobinemia   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-488] A 19-year-old man presents to the ED in cardiac arrest. He was found in his garage with an empty bottle of spray paint. On arrival, the monitor shows a wide-complex tachycardia at a rate of 200 bpm. He does not improve after defibrillation. The most appropriate next step is the administration of which of the following?
+    ANSWER: Esmolol   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-489] What observed or measured abnormality is most likely to assist with diagnosing salicylate poisoning in adult patients?
+    ANSWER: Hyperpnea   (key A)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-490] An 87-year-old man with atrial fibrillation, hypertension, and dementia is brought to the ED for 1 day of lethargy. His daughter reports his medication bottles were empty today. His vital signs are HR 44 bpm, BP 92/60 mm Hg, RR 16/min, T 35.5°C, and SpO2 98% on room air. ECG shows bradycardia with a PR interval of 240 ms, QRS of 100 ms, and QTc of 410 ms. Fingerstick glucose is 64 mg/dL.
+    ANSWER: High-dose insulin with glucose   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-491] A 40-year-old man with chronic back pain presents to the ED with altered mental status. His spouse notes he has been reporting ringing in his ears. On physical exam, you find that the patient is diaphoretic, warm to the touch, and is oriented only to person. Vital signs are BP 110/75 mm Hg, HR 120 bpm, RR 28/minute, and T 100.4°F (38°C).
+    ANSWER: Sodium bicarbonate   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-492] A woman presents with a headache. Her headache has been present for the last several nights while at home. She states that this evening her carbon monoxide detector alarmed. Which of the following is an indication for hyperbaric therapy?
+    ANSWER: Syncope   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-493] A 19-year-old man with depression presents after an intentional overdose of his citalopram 4 hours prior to arrival. His vital signs and ECG are unremarkable. Which of the following is the most appropriate next step in management?
+    ANSWER: Observe on telemetry monitoring   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-494] A 27-year-old man presents to the ED with abdominal pain, vomiting, and diarrhea. On physical exam, you note excessive tearing, copious secretions, and muscle fasciculations. Vital signs are BP 140/90 mm Hg, HR 38 bpm, RR 24/min, and T 98.4°F. Which of the following is the most likely substance to which he was exposed?
+    ANSWER: Organophosphate   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-495] A 28-year-old woman with a history of mental health problems and gastroparesis who takes chronic medications for her illnesses presents to the emergency department with altered mental status. Her parent reports that the patient had indicated her symptoms had been worsening over a few days, but they have not seen her for at least 3 days.
+    ANSWER: Promethazine   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-496] A 43-year-old man presents after an unintentional ingestion of industrial hydrogen peroxide (35%). The patient reports headache and weakness in the left arm. What treatment should be initiated?
+    ANSWER: Hyperbaric oxygen therapy   (key B)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-497] A 25-year-old man presents to the emergency department after a suicide attempt in which he overdosed on his parent’s medications. He is unable to offer a history upon arrival. His T is 96°F (35.6°C), BP is 75/50 mm Hg, HR is 42 bpm, RR is 12/min, and SpO2 is 93% on room air. Fingerstick blood glucose is 40 mg/dL. Which of the following is the most likely cause of this patient’s symptoms?
+    ANSWER: Propranolol   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-498] A 73-year-old woman is referred from clinic because her INR is 10.3. She takes warfarin for atrial fibrillation. She has no bleeding. What is the most appropriate management?
+    ANSWER: Vitamin K 5 mg PO and hold warfarin   (key D)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-499] A 21-year-old woman with a history of depression and anxiety presents to the ED with a fever and diaphoresis. She reports no cough, dysuria, abdominal pain, rash, or recent travel. She is adherent to her medications and began taking a new one today. She appears restless and agitated. Her vital signs are T 102°F (38.9ºC), HR 124 bpm, RR 16/minute, BP 150/95 mm Hg, and SpO2 100% on room air.
+    ANSWER: Lower extremity clonus   (key C)
+[ROSH rosh-em-initial-2026-toxicologic-disorders-q-500] A 3-year-old boy presents to the ED after ingesting a large amount of his mother’s prenatal vitamins. He is appropriately treated with deferoxamine and admitted to the hospital. Which of the following acid-base disturbances is most likely to be seen in this patient?
+    ANSWER: Metabolic acidosis with respiratory compensation   (key A)

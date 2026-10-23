@@ -1,0 +1,11 @@
+{
+  "status":"under-review",
+  "plans":[
+    {"id":"residency-year-1","title":"Residency Year 1","focus":"Foundations and safe emergency assessment","daily":{"learnMinutes":45,"questions":15,"reviewMinutes":15},"phases":["ABCDE and basic resuscitation","Core cardiology, respiratory and abdominal emergencies","Procedures, documentation and communication"]},
+    {"id":"residency-year-2","title":"Residency Year 2","focus":"Core emergency presentations and independent management","daily":{"learnMinutes":50,"questions":20,"reviewMinutes":20},"phases":["Shock and sepsis","Neurology, toxicology and trauma","Pediatric and obstetric emergencies"]},
+    {"id":"residency-year-3","title":"Residency Year 3","focus":"Complex cases, prioritization and disposition","daily":{"learnMinutes":55,"questions":25,"reviewMinutes":20},"phases":["Critical care and airway","Advanced imaging and procedures","High-risk differentials and consultation"]},
+    {"id":"residency-year-4","title":"Residency Year 4","focus":"Senior decision-making and exam consolidation","daily":{"learnMinutes":60,"questions":30,"reviewMinutes":25},"phases":["Resuscitation leadership","OSCE and procedural readiness","Timed mixed-board simulations"]},
+    {"id":"jordan-board-part-1","title":"Jordanian Board Part 1","focus":"Basic scientific and clinical principles","daily":{"learnMinutes":60,"questions":30,"reviewMinutes":25},"phases":["Foundations and physiology","Core emergency syndromes","Mixed MCQ consolidation"]},
+    {"id":"jordan-board-part-2","title":"Jordanian Board Part 2","focus":"Advanced clinical science and clinical competence","daily":{"learnMinutes":60,"questions":35,"reviewMinutes":30},"phases":["Advanced resuscitation and critical care","Special populations and procedures","Written and OSCE simulation"]}
+  ]
+}

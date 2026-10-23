@@ -1,0 +1,580 @@
+[PEER-PHYS PEER-psych-q-387] What factor increases the risk of developing psychosis with cocaine use?
+    ANSWER: Young age   (key D)
+[PEER-PHYS PEER-psych-q-388] Which finding from the history and physical examination raises the most concern that a patient has an alcohol use disorder?
+    ANSWER: Multiple alcohol-related injuries in the past year   (key C)
+[PEER-PHYS PEER-psych-q-389] A middle-aged man with long-standing alcohol use disorder and poor nutrition presents with shortness of breath and increasing swelling of his lower legs and groin. His lower extremities are well perfused with bilateral 2+ pitting peripheral edema, and a chest x-ray reveals an enlarged heart and mild pulmonary edema. What is the most appropriate management for the underlying disorder?
+    ANSWER: Magnesium and high-dose thiamine   (key B)
+[PEER-PHYS PEER-psych-q-390] Which medication is most likely to prevent alcohol relapse and reduce alcohol craving without causing unpleasant side effects?
+    ANSWER: Naltrexone   (key D)
+[PEER-PHYS PEER-psych-q-391] What is among the DSM-5 criteria for alcohol use disorder?
+    ANSWER: Requiring more alcohol to achieve the same effect   (key D)
+[PEER-PHYS PEER-psych-q-392] Deficiency in which nutrient is associated with ophthalmoplegia in patients with alcohol use disorder?
+    ANSWER: Thiamine   (key D)
+[PEER-PHYS PEER-psych-q-393] Which finding is most associated with Korsakoff syndrome?
+    ANSWER: Amnesia   (key A)
+[PEER-PHYS PEER-psych-q-394] What is an FDA-approved medication to treat alcohol use disorder as an outpatient?
+    ANSWER: Naltrexone   (key C)
+[PEER-PHYS PEER-psych-q-395] Acamprosate is recommended for which condition?
+    ANSWER: Alcohol use disorder   (key A)
+[PEER-PHYS PEER-psych-q-396] What condition is associated with long-term severe alcohol abuse?
+    ANSWER: Nonischemic cardiomyopathy   (key C)
+[PEER-PHYS PEER-psych-q-397] What is a risk factor for developing delirium tremens in a chronic alcohol user?
+    ANSWER: Hypokalemia and hypomagnesemia   (key C)
+[PEER-PHYS PEER-psych-q-398] An unresponsive and apneic patient arrives via EMS. Their pupils are miotic, and their capillary glucose level is normal. After multiple doses of naloxone, the patient improves. What is the most likely agent of intoxication?
+    ANSWER: Fentanyl   (key B)
+[PEER-PHYS PEER-psych-q-399] A 35-year-old man presents with abdominal pain after allegedly ingesting a small packet of heroin in an attempt to evade detection by police. What is the term used to describe this patient?
+    ANSWER: Body stuffer   (key D)
+[PEER-PHYS PEER-psych-q-400] Which characteristic distinguishes a body stuffer from a body packer?
+    ANSWER: Small amount of drugs in loose packets   (key D)
+[PEER-PHYS PEER-psych-q-401] A 25-year-old body stuffer presents with agitation and diaphoresis 1 hour after swallowing several small bags of a white powder. His vital signs include BP 180/110, P 120, and T 38.9°C (102°F). Which toxidrome does this likely represent?
+    ANSWER: Sympathomimetic   (key D)
+[PEER-PHYS PEER-psych-q-402] A 30-year-old body stuffer presents with altered mental status, depressed respiratory drive, and miosis. What is the next step in management?
+    ANSWER: Naloxone   (key C)
+[PEER-PHYS PEER-psych-q-403] Which indication warrants emergent surgical intervention in the setting of body stuffing with cocaine?
+    ANSWER: Bowel perforation   (key B)
+[PEER-PHYS PEER-psych-q-404] A 41-year-old woman presents via ambulance after being found down on the sidewalk. She is cooperative but somnolent and confused. Her vital signs include BP 110/70, P 95, and R 12; SpO2 is 96% on room air. An empty bottle of lorazepam, filled the day before with 60 tablets, is found in her pocket. What is the most appropriate initial step in management?
+    ANSWER: Perform a capillary blood glucose check   (key D)
+[PEER-PHYS PEER-psych-q-405] Which drug is used as a first-line agent for smoking cessation?
+    ANSWER: Varenicline   (key D)
+[PEER-PHYS PEER-psych-q-406] A 28-year-old man presents in opioid withdrawal. He has been trying to quit using heroin. He has had multiple episodes of vomiting and diarrhea, and he has severe joint pain. He is tachycardic to 114, diaphoretic, and restless. He has a tremor, dilated pupils, and rhinorrhea. What is the best option for immediate treatment of his symptoms?
+    ANSWER: Buprenorphine   (key A)
+[PEER-PHYS PEER-psych-q-407] A 15-year-old boy presents with hypertension, tachycardia, anxiety, confusion, and diaphoresis after a witnessed seizure at home. He endorses chronic use of illicitly obtained prescription medications. Withdrawal from which medication would be most likely to produce this constellation of findings?
+    ANSWER: Alprazolam   (key A)
+[PEER-PHYS PEER-psych-q-408] A young man is found cyanotic and unresponsive. EMS administered two doses of intranasal naloxone en route. Upon arrival, the patient is tachycardic, diaphoretic, and shouting angrily; he demonstrates piloerection and mydriasis. What is the most likely cause of this presentation?
+    ANSWER: Opioid withdrawal   (key D)
+[PEER-PHYS PEER-psych-q-409] A 35-year-old woman presents with anxiety, tremors, difficulty sleeping, mood disturbance, and the sensation of “electric shocks” in her extremities for the past 2 days. She ran out of her home medications 4 days ago, including levothyroxine, prednisone, sertraline, and lisinopril. What is the most likely etiology of her symptoms?
+    ANSWER: Drug discontinuation syndrome   (key A)
+[PEER-PHYS PEER-psych-q-410] A 15-year-old boy with an intrathecal baclofen pump for cerebral palsy presents after a seizure. His parents noted increasing agitation and spasticity over the past 24 hours and deteriorating mental status today. His vital signs include BP 156/97, P 119, R 22, and T 37.7°C (99.9°F). During the examination, the patient has a second seizure in the emergency department.
+    ANSWER: Lorazepam IV   (key C)
+[PEER-PHYS PEER-psych-q-411] A 45-year-old man presents for evaluation after sustaining a fall the previous evening. His medical history is significant for alcohol dependence and withdrawal seizures. On arrival, he is tachycardic, hypertensive, tremulous, and anxious appearing, with visible beads of sweat on his forehead. What is the next best step in management?
+    ANSWER: Phenobarbital IV   (key C)
+[PEER-PHYS PEER-psych-q-412] Which symptom is expected in opioid withdrawal but not alcohol withdrawal?
+    ANSWER: Myalgias   (key C)
+[PEER-PHYS PEER-psych-q-413] Which constellation of findings is expected in a patient with opioid withdrawal?
+    ANSWER: Abdominal pain, rhinorrhea, and piloerection   (key A)
+[PEER-PHYS PEER-psych-q-414] Which feature is diagnostic of opioid use disorder?
+    ANSWER: Tolerance to and dependence on opioid pills   (key D)
+[PEER-PHYS PEER-psych-q-415] What is the mechanism of action of buprenorphine?
+    ANSWER: Partial opioid agonist and weak antagonist   (key D)
+[PEER-PHYS PEER-psych-q-416] A patient on daily buprenorphine-naloxone treatment for opiate use disorder presents with a fractured femur after a car accident. What is an appropriate strategy for acute pain management in this patient?
+    ANSWER: Use a high-potency full opioid agonist such as fentanyl at higher doses than usual   (key D)
+[PEER-PHYS PEER-psych-q-417] Which ECG finding is associated with methadone use for medication-assisted treatment?
+    ANSWER: QT-segment prolongation   (key B)
+[PEER-PHYS PEER-psych-q-418] Which symptom is associated with opiate withdrawal?
+    ANSWER: Piloerection   (key C)
+[PEER-PHYS PEER-psych-q-419] A patient with a history of opioid use disorder presents with tachycardia, restlessness, piloerection, yawning, and dilated pupils. The patient uses opiates by snorting daily but has been unable to get any from their supplier for the past 2 days. What is the best initial therapy for this patient's condition in the acute setting?
+    ANSWER: Buprenorphine-naloxone PO   (key A)
+[PEER-PHYS PEER-psych-q-420] Which medication is contraindicated in a pregnant patient with opioid use disorder?
+    ANSWER: Clonidine   (key C)
+[PEER-PHYS PEER-psych-q-421] Which characteristic of psychosis is demonstrated by a patient who cannot provide a clear history because they frequently change the subject, their answers seem unrelated to the questions, and they sometimes have "word salad?"
+    ANSWER: Disorganized thinking   (key B)
+[PEER-PHYS PEER-psych-q-422] What is one advantage of using atypical antipsychotic medications instead of typical antipsychotic medications in the treatment of psychosis?
+    ANSWER: Increased efficacy in treating negative symptoms   (key B)
+[PEER-PHYS PEER-psych-q-423] A patient behaves violently and requires chemical sedation. Which intramuscular medication has the most rapid onset of action?
+    ANSWER: Midazolam   (key C)
+[PEER-PHYS PEER-psych-q-424] A previously healthy 17-year-old boy with a family history of schizophrenia presents with 1 week of somnolence, delusions, and generalized weakness that makes him unable to walk. He broke up with his girlfriend 2 weeks ago. What is the most appropriate workup?
+    ANSWER: History, physical examination, urine toxicology, serum studies, and observation   (key D)
+[PEER-PHYS PEER-psych-q-425] A 17-year-old presents with psychosis. Which feature, if present, would most strongly suggest a medical cause for the psychosis rather than a primary psychiatric cause?
+    ANSWER: Visual hallucinations   (key D)
+[PEER-PHYS PEER-psych-q-426] A 30-year-old man is brought in by the police after “acting strangely” in public. On examination, the patient is calm and cooperative, has no signs of trauma, and is unsure why he was brought in. The police have left, and the patient has his cell phone and wallet with him. What is the next best step in management?
+    ANSWER: Contact friends or family for collateral information   (key B)
+[PEER-PHYS PEER-psych-q-427] Which symptom is more consistent with bipolar disorder than with major depressive disorder?
+    ANSWER: Flight of ideas   (key A)
+[PEER-PHYS PEER-psych-q-428] Which patient characteristic is considered to be the greatest risk factor for suicide completion?
+    ANSWER: Age >75 years   (key A)
+[PEER-PHYS PEER-psych-q-429] Which characteristic is associated with a higher risk of suicide in a patient with depression?
+    ANSWER: Rational thinking loss   (key D)
+[PEER-PHYS PEER-psych-q-430] You see a social media post from a colleague stating, “Sometimes, I think it would be better for everyone if I weren't around.” What is the best response?
+    ANSWER: Immediately reach out to your colleague   (key C)
+[PEER-PHYS PEER-psych-q-431] What is the strongest risk factor for completed suicide?
+    ANSWER: Previous suicide attempt   (key B)
+[PEER-PHYS PEER-psych-q-432] What age group has the highest rate of completed suicide?
+    ANSWER: Older adults   (key C)
+[PEER-PHYS PEER-psych-q-433] Which patient is most likely to commit suicide?
+    ANSWER: 75-year-old retired man   (key D)
+[PEER-PHYS PEER-psych-q-434] Several weeks after an unsuccessful pediatric code, the intern involved in the patient's care states that he has been having difficulty sleeping and concentrating. He feels as if the patient's death is his fault. What is the most appropriate response?
+    ANSWER: “Sounds like a tough case. Would you like to talk about it?”   (key D)
+[PEER-PHYS PEER-psych-q-435] A resident confides that she made a medical error that resulted in a poor outcome for a patient. She feels that she failed the patient and that she is not smart enough to practice medicine. What syndrome best describes what she is experiencing?
+    ANSWER: Second victim syndrome   (key D)
+[PEER-PHYS PEER-psych-q-436] A colleague discloses that he has been taking opioids prescribed for his wife to treat his chronic back pain. He does not take opioids on days when he is working. What is the next best step?
+    ANSWER: Report his behavior to the state Physician Health Program   (key C)
+[PEER-PHYS PEER-psych-q-437] What is a risk factor for complicated grief following bereavement?
+    ANSWER: Violent death of deceased person   (key C)
+[PEER-PHYS PEER-psych-q-438] What differentiates complicated grief from normal grief?
+    ANSWER: Symptoms longer than 6 to 12 months   (key D)
+[PEER-PHYS PEER-psych-q-439] What differentiates PTSD from grief?
+    ANSWER: Fearful nightmares   (key C)
+[PEER-PHYS PEER-psych-q-440] What is a feature of anticipatory grief?
+    ANSWER: It involves disbelief and yearning for an earlier state of health   (key C)
+[PEER-PHYS PEER-psych-q-441] What would be most beneficial in patients and caregivers experiencing anticipatory grief?
+    ANSWER: Receiving a palliative care referral   (key B)
+[PEER-PHYS PEER-psych-q-442] A 25-year-old schizophrenic man presents because “the voices are becoming unbearable.” His vital signs are normal, and his serum alcohol level is 20 mg/dL. Prior to psychiatric evaluation, what is the most appropriate next step in the evaluation of this patient?
+    ANSWER: Complete the physical examination   (key A)
+[PEER-PHYS PEER-psych-q-443] What is the most common method of completed suicide in the United States?
+    ANSWER: Firearms   (key B)
+[PEER-PHYS PEER-psych-q-444] What is the first priority in the evaluation of a patient presenting after a suicide attempt?
+    ANSWER: Performing a focused medical assessment   (key A)
+[PEER-PHYS PEER-psych-q-445] A mother brings in her 2-year-old daughter because she has blood in her stool. Medical records indicate previous visits and evaluations for the same complaint. Results of allergic/immunologic, endocrine, hematologic, and metabolic laboratory testing are available and reveal no abnormalities.
+    ANSWER: Factitious disorder by proxy   (key A)
+[PEER-PHYS PEER-psych-q-446] A 34-year-old diabetic woman presents with hypoglycemia. She has presented with the same issue multiple times to several different emergency departments over the course of the last 2 months. She reports eating normally and using her insulin as prescribed.
+    ANSWER: Factitious disorder   (key B)
+[PEER-PHYS PEER-psych-q-447] What differentiates factitious disorder from malingering?
+    ANSWER: Obvious secondary gain   (key D)
+[PEER-PHYS PEER-psych-q-448] A 34-year-old woman presents with vomiting. Per the electronic medical record, she has been to several hospitals with the same complaint over the last several months. A nurse witnesses her self-induce vomiting. What is the most likely diagnosis?
+    ANSWER: Factitious disorder   (key C)
+[PEER-PHYS PEER-psych-q-449] A 39-year-old man presents with intermittent chest pain, palpitations, sweating, and feelings of anxiety over the past 8 hours. He has a history of asthma, migraines, and panic attacks; he wants a prescription for a benzodiazepine. Which part of this patient presentation suggests a diagnosis other than a panic attack?
+    ANSWER: Duration of symptoms   (key C)
+[PEER-PHYS PEER-psych-q-450] A 22-year-old woman presents with episodic periods of intense fear associated with nausea, palpitations, and chest discomfort that last 5 to 10 minutes for the past few months. Her examination and vital signs are normal. What is the most likely diagnosis?
+    ANSWER: Panic disorder   (key B)
+[PEER-PHYS PEER-psych-q-451] Which findings are characteristic of generalized anxiety disorder?
+    ANSWER: Apprehension, fear, and excessive worry that dominate one's life   (key B)
+[PEER-PHYS PEER-psych-q-452] A 30-year-old man presents after a brief episode of sudden-onset chest pain, shortness of breath, and tingling in the hands. He was tachycardic and tachypneic initially for paramedics, but his symptoms and physical findings resolved without treatment before arrival.
+    ANSWER: Panic disorder   (key D)
+[PEER-PHYS PEER-psych-q-453] A 65-year-old presents via EMS after family members call for a wellness check. The patient appears anxious and emaciated, stating that they only consume thin liquids due to a choking phobia. Previous medical evaluations have not yielded any physical cause for dysphagia. What is the best choice of therapy for this type of phobia?
+    ANSWER: Cognitive behavioral therapy   (key A)
+[PEER-PHYS PEER-psych-q-454] A patient presents with an acute myocardial infarction. When intravenous access is attempted, the patient begins screaming and throwing objects, stating that they want to leave against medical advice due to a lifelong fear of needles. The patient does not demonstrate an understanding of the risks of refusing care in this situation. Why can this patient not refuse medical treatment?
+    ANSWER: Lack of capacity   (key A)
+[PEER-PHYS PEER-psych-q-455] A patient presents with an insect bite. While relaying their history, they begin to hyperventilate and experience significant emotional distress when asked if they have noticed any spiders in their home. What is the most likely etiology of this patient's emotional distress?
+    ANSWER: Phobic disorder   (key C)
+[PEER-PHYS PEER-psych-q-456] A patient presents to a rural emergency department after sustaining a cerebrovascular accident and is found to have a large vessel occlusion requiring a thrombectomy. This patient must be transferred via helicopter to a facility with thrombectomy capabilities but refuses the transfer, citing a fear of flying. What is the most likely etiology of this patient's refusal of transfer?
+    ANSWER: Phobic disorder   (key C)
+[PEER-PHYS PEER-psych-q-457] A patient presents with clinical findings that are concerning for cauda equina syndrome. The patient refuses an MRI, citing a fear of enclosed spaces. What is a reasonable next step in management?
+    ANSWER: Administer a benzodiazepine prior to the MRI   (key A)
+[PEER-PHYS PEER-psych-q-458] What best differentiates PTSD from acute stress disorder?
+    ANSWER: Symptoms lasting >1 month   (key C)
+[PEER-PHYS PEER-psych-q-459] What is the most common cause of PTSD worldwide?
+    ANSWER: Sexual violence   (key C)
+[PEER-PHYS PEER-psych-q-460] What is most strongly associated with the development of PTSD?
+    ANSWER: Traumatic brain injury   (key D)
+[PEER-PHYS PEER-psych-q-461] Which medication can be used to manage acute anxiety symptoms related to PTSD?
+    ANSWER: Propranolol   (key B)
+[PEER-PHYS PEER-psych-q-462] The presence of what finding increases the severity and health risk of PTSD?
+    ANSWER: Borderline personality disorder   (key A)
+[PEER-PHYS PEER-psych-q-463] In a patient exhibiting psychosis, what factor is most likely to indicate an underlying medical cause rather than a primary psychiatric illness?
+    ANSWER: Sudden onset   (key D)
+[PEER-PHYS PEER-psych-q-464] In a patient with confusion, what finding suggests a primary psychiatric disorder?
+    ANSWER: Insidious onset   (key C)
+[PEER-PHYS PEER-psych-q-465] How should drug psychosis and seizure activity from suspected phencyclidine toxicity be managed?
+    ANSWER: Administer benzodiazepines   (key B)
+[PEER-PHYS PEER-psych-q-466] A 49-year-old man is brought in by his family who say that they cannot take care of him anymore because of his impulsive wandering and disinhibited behavior. The family was told 6 months ago that the patient has dementia, and he has declined progressively since then. What type of dementia does the patient most likely have?
+    ANSWER: Frontotemporal neurocognitive disorder   (key B)
+[PEER-PHYS PEER-psych-q-467] In a patient who exhibits a change in mental status and a normal ability to function, which factor by itself most favors a diagnosis of dementia rather than delirium?
+    ANSWER: Impaired ability to learn new information   (key B)
+[PEER-PHYS PEER-psych-q-468] An 18-month-old presents for evaluation of leg pain and swelling after falling down yesterday. Based on the following x-ray, what is the most likely diagnosis?
+    ANSWER: Nonaccidental trauma fracture   (key B)
+[PEER-PHYS PEER-psych-q-469] A mother brings in her 2-week-old son after he hurt his arm from rolling off a bed. He is awake and alert and appears uncomfortable when the arm is moved. The physical examination is otherwise normal. An x-ray shows an isolated diaphyseal fracture of the humerus. After immobilizing the arm and referring the patient to a pediatric orthopedist, what is the next step in management?
+    ANSWER: Report suspected abuse   (key D)
+[PEER-PHYS PEER-psych-q-470] What is the most common abusive injury in children?
+    ANSWER: Bruising   (key A)
+[PEER-PHYS PEER-psych-q-471] Which fracture is more likely to be due to accidental trauma rather than nonaccidental trauma?
+    ANSWER: Spiral tibial fracture in a 2 year old   (key D)
+[PEER-PHYS PEER-psych-q-472] Which orthopedic injury is most concerning for nonaccidental trauma in an ambulatory child?
+    ANSWER: Metaphyseal chip fracture   (key B)
+[PEER-PHYS PEER-psych-q-473] Which initial presentation is most concerning for possible nonaccidental trauma?
+    ANSWER: 9-month-old with bruising to the tip of the pinna   (key A)
+[PEER-PHYS PEER-psych-q-474] When there is concern for nonaccidental trauma, what is the best approach to ascertain the history in a 4-year-old child who attends daycare?
+    ANSWER: Consult with a child protection/advocacy team   (key C)
+[PEER-PHYS PEER-psych-q-475] Which test is most helpful in the initial management of a preambulatory infant who presents with a femur fracture?
+    ANSWER: AST/ALT   (key C)
+[PEER-PHYS PEER-psych-q-476] Which test is indicated in the evaluation of an asymptomatic 11-month-old sibling of an abused child?
+    ANSWER: Skeletal survey   (key D)
+[PEER-PHYS PEER-psych-q-477] What is the most common form of child abuse?
+    ANSWER: Neglect   (key B)
+[PEER-PHYS PEER-psych-q-478] What is most commonly noted on physical examination in a prepubescent girl who has been sexually assaulted?
+    ANSWER: Normal examination   (key B)
+[PEER-PHYS PEER-psych-q-479] Which history and physical examination findings suggest that a patient who presents with an injury after a fall is at risk for intimate partner violence?
+    ANSWER: Pregnancy   (key D)
+[PEER-PHYS PEER-psych-q-480] What aspect of management is most appropriate when a patient presents following intimate partner violence?
+    ANSWER: Helping the patient develop a safety plan   (key D)
+[PEER-PHYS PEER-psych-q-481] What is the strongest predictor of intimate partner homicide for a patient in a relationship with previous intimate partner violence?
+    ANSWER: Perpetrator has access to firearms   (key A)
+[PEER-PHYS PEER-psych-q-482] A patient presents after nonfatal strangulation associated with intimate partner violence. The patient reports loss of consciousness, incontinence, and dysphagia. The physical examination reveals new left-sided ptosis. What is the most appropriate imaging study to perform?
+    ANSWER: CT angiography of neck   (key B)
+[PEER-PHYS PEER-psych-q-483] What is the most common type of intimate partner violence?
+    ANSWER: Psychological aggression   (key B)
+[PEER-PHYS PEER-psych-q-484] What is the most common anatomic location of injury for victims of intimate partner violence?
+    ANSWER: Face   (key B)
+[PEER-PHYS PEER-psych-q-485] What is the best approach when caring for a victim of intimate partner violence who plans to return to the abusive relationship?
+    ANSWER: Reassure them that help is always available in the emergency department   (key D)
+[PEER-PHYS PEER-psych-q-486] What is a major difference between men and women as victims of intimate partner violence?
+    ANSWER: Men who are victims of intimate partner violence are less likely to report to police   (key C)
+[PEER-PHYS PEER-psych-q-487] A patient presents from home with findings that are concerning for elder abuse. What is the best course of action?
+    ANSWER: Report to Adult Protective Services   (key C)
+[PEER-PHYS PEER-psych-q-488] In which setting is elder abuse most likely to occur?
+    ANSWER: Home setting   (key C)
+[PEER-PHYS PEER-psych-q-489] If a patient presents after sexual assault and a sexual assault nurse examiner is unavailable, who is the next best option to perform the forensic evaluation?
+    ANSWER: SAFE practitioner   (key D)
+[PEER-PHYS PEER-psych-q-490] Prophylaxis for which STI is only given if the patient presents within 72 hours of sexual assault?
+    ANSWER: HIV   (key C)
+[PEER-PHYS PEER-psych-q-491] A 26-year-old man presents via ambulance and is surrounded by police officers. He shouts verbal threats at staff members while being taken into a treatment room. His girlfriend says he has bipolar disorder and has been behaving erratically. Which technique for managing this patient's aggressive behavior should be attempted first?
+    ANSWER: Verbal de-escalation   (key D)
+[PEER-PHYS PEER-psych-q-492] An obese 42-year-old man is brought in by police officers for an involuntary psychiatric evaluation. He is handcuffed and combative. Verbal de-escalation is unsuccessful. What is the most appropriate action to facilitate the evaluation?
+    ANSWER: Administer chemical restraint and apply four-point restraints   (key A)
+[PEER-PHYS PEER-psych-q-493] What is the first step in treating an agitated geriatric patient?
+    ANSWER: Reorientation and verbal de-escalation with the assistance of family or caregivers   (key D)
+[PEER-PHYS PEER-psych-q-494] Which patient is most likely a victim of human trafficking?
+    ANSWER: 17-year-old girl who is a sex worker   (key A)
+[PEER-PHYS PEER-psych-q-495] A 16-year-old girl presents with purulent vaginal discharge, right upper quadrant pain, and fever. When she is asked to place her belongings in a locker prior to going to the ultrasound suite, she becomes tearful and anxious. She repeatedly states that she cannot be without her cell phone but does not explain why. What is the most likely concern?
+    ANSWER: Sex trafficking   (key D)
+[PEER-PHYS PEER-psych-q-496] Assuming that all of the following are taking care of the elderly patient, who is most likely to be reported as a perpetrator of elder abuse?
+    ANSWER: Adult child of the elder   (key A)
+[PEER-PHYS PEER-psych-q-497] Which agency should be notified for cases of elder mistreatment?
+    ANSWER: State Adult Protective Services   (key C)
+[PEER-PHYS PEER-psych-q-498] Which statement best describes elder abuse reporting laws?
+    ANSWER: Reporting laws vary from state to state   (key D)
+[PEER-PHYS PEER-psych-q-499] A previously healthy 1-year-old boy presents with vomiting and fussiness after reportedly falling from his mother's lap 2 days ago. Head CT reveals an acute-on-chronic subdural hematoma. Which additional diagnostic test should be ordered?
+    ANSWER: Skeletal survey   (key C)
+[PEER-PHYS PEER-psych-q-500] A young woman with borderline personality disorder is dropped off by friends after becoming intoxicated at a house party. Her ex-boyfriend states that the patient threatened to kill herself earlier in the day. On examination, the patient smells of alcohol and is slurring some words. What is the correct next step in management?
+    ANSWER: Assessment of capacity   (key B)
+[PEER-CS peer2026-1-batch-402-q-402] Health A 67-year-old man is brought in by EMS for agitation. The patient's partner states that the patient has been anxious and agitated, worsening over the last 5 hours. The patient and his partner came to town yesterday to visit family. He has no known medical problems and takes no medications.
+    ANSWER: Alcohol withdrawal   (key A)
+[PEER-CS peer2026-1-batch-403-q-403] Health A 67-year-old man is brought in by EMS for agitation. The patient's partner states that the patient has been anxious and agitated since this morning. His partner also describes weight loss over the last 3 months. His vital signs on ar- rival are BP 178/110, P 138, R 24, and T 38.22°C (100.8°F); SpO is 98% on room air. He is noted to have tremulous hands and bibasilar rales.
+    ANSWER: Exophthalmos   (key B)
+[PEER-CS peer2026-1-batch-404-q-404] Health A 67-year-old man is brought in by EMS for agitation. The patient's partner states that the patient has been anxious and agitated since this morning. He is di- agnosed with thyroid storm, appropriately treated, and admitted to the hospital. While boarding in the emergency department, the patient becomes confused and agitated.
+    ANSWER: Risperidone   (key C)
+[PEER-CS peer2026-1-batch-405-q-405] Health A 67-year-old man is brought in by EMS for agitation. The patient's partner states that the patient has been anxious and agitated since this morning. He is di- agnosed with thyroid storm, appropriately treated, and admitted to the hospital. While boarding in the emergency department, he becomes confused and agi- tated.
+    ANSWER: Ziprasidone   (key D)
+[PEER-CS peer2026-1-batch-406-q-406] Health - Case Series 2026-1 — Answered Page 815 of 974 A 22-year-old man presents from jail with altered mental status. On arrival, he is agitated, confused, and diaphoretic. His pupils measure 5 mm bilaterally. There is no history of trauma. His vital signs are BP 180/90, P 130, R 24, and T 37.4°C (99.3°F);SpO is 98% on room air. Which toxidrome is most consistent with this presentation?
+    ANSWER: Sympathomimetic syndrome   (key D)
+[PEER-CS peer2026-1-batch-407-q-407] Health - Case Series 2026-1 — Answered Page 817 of 974 A 22-year-old man presents from jail with altered mental status. On arrival, he is agitated, confused, and diaphoretic. His pupils measure 5 mm bilaterally. There is no history of trauma. His vital signs are BP 180/90, P 130, R 24, and T 37.4°C (99.3°F);SpO is 98% on room air. What is the best medication to treat his agitation?
+    ANSWER: Diazepam   (key B)
+[PEER-CS peer2026-1-batch-408-q-408] Health A 22-year-old man presents from jail with altered mental status. On arrival, he is agitated, confused, and diaphoretic. His pupils measure 5 mm bilaterally. There is no history of trauma. His vital signs are BP 180/90, P 130, R 24, and T 37.4°C - Case Series 2026-1 — Answered Page 819 of 974 (99.3°F);SpO is 98% on room air. On further examination, he has bilateral sus- tained clonus.
+    ANSWER: Methamphetamine   (key D)
+[PEER-CS peer2026-1-batch-409-q-409] Health A 27-year-old woman presents with palpitations and anxiety. She has rapid breathing and dry mouth. Her vital signs are BP 120/80, P 120, R 28, and T 36.9°C (98.4°F); SpO is 100% on room air. She denies any ingestion or medica- tions. She is able to speak in complete sentences but has very rapid and deep breathing. What is the most appropriate next step?
+    ANSWER: Obtain a serum glucose   (key C)
+[PEER-CS peer2026-1-batch-410-q-410] Health A 27-year-old woman presents with palpitations and anxiety. She has rapid breathing and dry mouth. Her vital signs are BP 120/80, P 120, R 28, and T 36.9°C (98.4°F); SpO is 100% on room air. She denies any ingestion or medica- tions. Additionally, she endorses chest pain, shortness of breath, and perioral tin- gling.
+    ANSWER: Agoraphobia   (key A)
+[PEER-CS peer2026-1-batch-411-q-411] Health A 27-year-old woman presents with palpitations, anxiety, nausea, and vomiting. She has rapid breathing and dry mouth. Her vital signs are BP 120/80, P 120, R 28, and T 36.9°C (98.4°F); SpO is 100% on room air. On examination, she is di- aphoretic, and her abdomen is soft and nontender. Her ECG shows sinus tachy- cardia, and her pregnancy test is negative.
+    ANSWER: Metronidazole   (key B)
+[PEER-CS peer2026-1-batch-412-q-412] Health A 27-year-old woman presents with palpitations and anxiety. She has rapid breathing and dry mouth. Her vital signs are BP 120/80, P 120, R 28, and T 36.9°C (98.4°F); SpO is 100% on room air. She denies any ingestion or medica- tions. She also endorses diarrhea. On examination, she is mildly agitated and flushed with notable proptosis.
+    ANSWER: Amiodarone   (key A)
+[PEER-CS peer2026-1-batch-413-q-413] Health A 40-year-old man presents for altered mental status. On arrival, he is actively hallucinating. He suddenly starts screaming, spitting, and kicking at staff. Attempts at verbal de-escalation fail. Further history and vitals cannot be ob- tained. In anticipation of giving chemical sedation, his chart is reviewed. It in- cludes an ECG (shown) from a recent visit.
+    ANSWER: Haloperidol 5 mg IV   (key B)
+[PEER-CS peer2026-1-batch-414-q-414] Health A 40-year-old man presents with altered mental status. On arrival, he is actively hallucinating. His family states he has been on antipsychotic medication for schizophrenia for many years, but they are unsure about recent compliance be- cause of side effects.
+    ANSWER: Tardive dyskinesia   (key D)
+[PEER-CS peer2026-1-batch-415-q-415] Health A 40-year-old man presents with altered mental status. On arrival, he is actively hallucinating. His family states the patient is on antipsychotic medication for schizophrenia, recently had his dose increased, and has since been increasingly confused. On examination, the patient is not answering questions, he is di- aphoretic, and his legs appear rigid.
+    ANSWER: Neuroleptic malignant syndrome   (key C)
+[PEER-CS peer2026-1-batch-416-q-416] Health A 40-year-old man presents with altered mental status. On arrival, he is actively hallucinating. His family reports he has no known medical problems outside of schizophrenia but that he recently started to urinate frequently and today started breathing more rapidly and appeared dehydrated and confused.
+    ANSWER: Olanzapine   (key C)
+[PEER-CS peer2026-1-batch-417-q-417] Health A 20-year-old woman with no past medical history presents with new-onset paranoia. She is convinced that her coworkers are hacking into her email and home computer to get her fired. She has made several reports to her boss, to the information technology department at work, and the police, and there is no evi- dence to suggest that computer hacks are occurring.
+    ANSWER: Delusional disorder   (key B)
+[PEER-CS peer2026-1-batch-418-q-418] Health A 20-year-old woman with no past medical history presents with new-onset paranoia. She is convinced that her coworkers are hacking into her email and home computer to get her fired. She has made several reports to her boss, to the information technology department at work, and the police, and there is no evi- dence to suggest that computer hacks are occurring.
+    ANSWER: Persecutory   (key C)
+[PEER-CS peer2026-1-batch-419-q-419] Health A 20-year-old woman with no past medical history presents with new-onset paranoia. She is convinced that her coworkers are hacking into her email and home computer to get her fired. She has made several reports to her boss, to the information technology department at work, and the police, and there is no evi- dence to suggest that computer hacks are occurring.
+    ANSWER: Obtain a set of vital signs - Case Series 2026-1 — Answered Page 844 of 974   (key B)
+[PEER-CS peer2026-1-batch-420-q-420] Health A 20-year-old woman with no past medical history presents with new-onset paranoia. She is convinced that her coworkers are hacking into her email and home computer to get her fired. She has made several reports to her boss, to the information technology department at work, and the police, and there is no evi- dence to suggest that computer hacks are occurring.
+    ANSWER: Dyskinesia   (key A)
+[PEER-CS peer2026-1-batch-421-q-421] Health A 16-year-old girl with no medical history presents after she collapsed at home. She reports feeling generally weak and nauseous for several weeks. She denies fevers or pain. Her mother says that she has always been a picky eater but re- cently has been vomiting after meals. On examination, she has no abdominal ten- derness.
+    ANSWER: Anorexia nervosa   (key A)
+[PEER-CS peer2026-1-batch-422-q-422] Health A 16-year-old girl with no past medical history presents after she collapsed at home. She reports feeling generally weak and nauseous for several weeks. She denies fevers or pain. Her mother reports that she has always been a picky eater but recently has been vomiting after meals. On examination, she has no abdomi- nal tenderness.
+    ANSWER: Hypokalemia   (key D)
+[PEER-CS peer2026-1-batch-423-q-423] Health A 16-year-old girl with no past medical history presents after she collapsed at home. She reports feeling generally weak and nauseous for several weeks. She denies fevers or pain. She choked a few months ago; since then, she has been scared to ingest anything solid and overall avoids eating in general.
+    ANSWER: Orthostatic hypotension   (key A)
+[PEER-CS peer2026-1-batch-424-q-424] Health A 16-year-old girl with no past medical history presents after she collapsed at home. She reports feeling generally weak and nauseous for several weeks. She denies fevers or pain. On examination, she has no abdominal tenderness. Her weight is normal. Her mother reports she has been compulsively eating soil over the past few months and is wondering why she has these cravings.
+    ANSWER: Pregnancy   (key C)
+[PEER-CS peer2026-1-batch-425-q-425] Health An 84-year-old man with a history of hypertension, stroke, peripheral neuropa- thy, and benign prostatic hypertrophy presents for increased confusion. A thor- - Case Series 2026-1 — Answered Page 858 of 974 ough history reveals progressive cognitive decline over the last 6 months after his wife died.
+    ANSWER: Subacute onset   (key D)
+[PEER-CS peer2026-1-batch-426-q-426] Health An 84-year-old man with a history of hypertension, stroke, peripheral neuropa- thy, and benign prostatic hypertrophy presents for increased confusion. A thor- ough history reveals progressive cognitive decline over the last 6 months after his wife died. In addition to confusion, the patient has also experienced subacute worsening of his diet and weight loss.
+    ANSWER: Weight loss   (key D)
+[PEER-CS peer2026-1-batch-427-q-427] Health An 84-year-old man with a history of hypertension, stroke, peripheral neuropa- thy, and benign prostatic hypertrophy presents for increased confusion. A thor- ough history reveals progressive cognitive decline over the last 6 months after his wife died. In addition to confusion, the patient has also experienced subacute worsening of his diet and weight loss.
+    ANSWER: Assessment of living environment   (key A)
+[PEER-CS peer2026-1-batch-428-q-428] Health A 19-year-old woman with a history of cigarette smoking presents with lower ab- dominal pain. The patient's brother, who appears to be much older, is accompa- nying her. The patient does not make eye contact, and her brother responds to most of the questions. When the patient is being registered, the patient's brother has her ID in his possession.
+    ANSWER: Barcode tattoo   (key A)
+[PEER-CS peer2026-1-batch-429-q-429] Health A 19-year-old woman with a history of cigarette smoking presents with lower ab- dominal pain. The patient's brother, who appears to be much older, is accompa- nying her. The patient does not make eye contact, and her brother responds to most of the questions. When the patient is being registered, the patient's brother has her ID in his possession.
+    ANSWER: Verbally provide patient with human trafficking hotline contact information   (key D)
+[PEER-CS peer2026-1-batch-430-q-430] Health A 19-year-old woman with a history of cigarette smoking presents with lower ab- dominal pain. The patient's brother, who appears to be much older, is accompa- nying her. The patient does not make eye contact, and her brother responds to most of the questions. When the patient is being registered, the patient's brother has her ID in his possession.
+    ANSWER: Admit to the ICU - Case Series 2026-1 — Answered Page 869 of 974   (key C)
+[PEER-CS peer2026-1-batch-431-q-431] Health A 32-year-old woman, gravida 1 para 1, with a history of gestational diabetes, presents 14 weeks after vaginal delivery complaining of inability to sleep. Further history reveals that she has a history of depression, and over the past 4 weeks, she has also experienced difficulty concentrating, fatigue, loss of appetite, and in- creasing guilt due to her lack of interest in taking care of he …
+    ANSWER: History of depression   (key B)
+[PEER-CS peer2026-1-batch-432-q-432] Health A 32-year-old woman, gravida 1 para 1, with a history of gestational diabetes, presents 14 weeks after vaginal delivery complaining of inability to sleep. The pa- tient reports not needing to sleep for the past 3 days and explains that she is the chosen one to save the world and was getting supplies in order to do this. She ex- plains her plan in great detail.
+    ANSWER: Pressured speech   (key B)
+[PEER-CS peer2026-1-batch-433-q-433] Health A 32-year-old woman, gravida 1 para 1, with a history of gestational diabetes, presents 14 weeks after vaginal delivery complaining of inability to sleep. She has also noticed increased fatigue, decreased concentration and interest in activities, increased appetite, and depression.
+    ANSWER: Phototherapy   (key D)
+[PEER-CS peer2026-1-batch-434-q-434] Health A 32-year-old woman, gravida 1 para 1, with a history of gestational diabetes, presents 14 weeks after vaginal delivery complaining of inability to sleep. She presents via ambulance with altered mental status. She was found unresponsive at home surrounded by empty pill bottles with a suicide note. She is altered and agitated on arrival but is protecting her airway.
+    ANSWER: Sertraline   (key D)
+[PEER-CS peer2026-1-batch-435-q-435] Health A 27-year-old woman is brought in by EMS after seizure-like activity. The patient was presenting in court when she fell to the ground and had rhythmic shaking of all of her extremities, pelvic thrusting, and turning of her head side to side for 10 minutes. EMS reports that her eyes were closed too tightly to assess for gaze de- viation.
+    ANSWER: Nonepileptiform seizure   (key C)
+[PEER-CS peer2026-1-batch-436-q-436] Health A 27-year-old woman is brought in by EMS after seizure-like activity. The patient was presenting in court when she fell to the ground and had rhythmic shaking of all of her extremities, pelvic thrusting, and turning of her head side to side for 10 minutes. She is now complaining of acute bilateral vision loss. The patient re- ports first noticing her blindness yesterday.
+    ANSWER: Conversion disorder   (key A)
+[PEER-CS peer2026-1-batch-437-q-437] Health A 27-year-old woman is brought in by EMS after seizure-like activity. The patient was presenting in court when she fell to the ground and had rhythmic shaking of all of her extremities, pelvic thrusting, and turning of her head side to side for 10 minutes. She is now complaining of acute bilateral vision loss. The patient re- ports first noticing her blindness yesterday.
+    ANSWER: Symptoms are involuntary   (key D)
+[PEER-CS peer2026-1-batch-438-q-438] Health A 27-year-old woman is brought in by EMS after seizure-like activity. The patient was presenting in court when she fell to the ground and had rhythmic shaking of all of her extremities, pelvic thrusting, and turning of her head side to side for 10 minutes. She has her 2.5-year-old son with her.
+    ANSWER: Exogenous insulin   (key B)
+[PEER-CS peer2026-1-batch-439-q-439] Health A 45-year-old man presents for left forearm pain. The patient has a history of stimulant use disorder and reports intravenous injection of methamphetamine. He reports pain, redness, and swelling of his forearm at the injection site for 3 days. His vital signs on arrival are BP 112/74, P 72, R 18, and T 37.0°C (98.6°F); SpO is 96% on room air.
+    ANSWER: Doxycycline by mouth 2 - Case Series 2026-1 — Answered Page 889 of 974   (key C)
+[PEER-CS peer2026-1-batch-440-q-440] Health A 45-year-old man presents for left forearm pain. The patient has a history of stimulant use disorder and reports intravenous injection of methamphetamine. Additionally, he complains of cough and shortness of breath. His vital signs on arrival are BP 100/60, P 124, R 24, and T 39.0°C (102.2°F); SpO is 82% on room air.
+    ANSWER: Endocarditis   (key A)
+[PEER-CS peer2026-1-batch-441-q-441] Health A 45-year-old man presents for intoxication. The patient has multiple prior visits related to ethanol use. On review of systems, the patient reports changes in his vision. His vital signs on arrival are BP 130/70, P 90, R 30, and T 37.0°C (98.6°F); SpO is 92% on room air. On examination, the patient is in no acute distress and appears clinically intoxicated.
+    ANSWER: Windshield washer fluid   (key D)
+[PEER-CS peer2026-1-batch-442-q-442] Health A 45-year-old man presents for intoxication. The patient has multiple prior visits related to ethanol use. On sober re-evaluation, the patient complains of chronic leg pain. He reports his pain only responds to hydromorphone.
+    ANSWER: Drug seeking behavior   (key B)
+[PEER-CS peer2026-1-batch-443-q-443] Health A 30-year-old woman presents from a house fire with nausea, vomiting, and headache. There is no history of trauma. Her vital signs are BP 130/80, P 120, R 24, and T 36.9°C (98.4°F); SpO is 100% on room air. Her blood glucose level is 98 mg/dL. A carbon monoxide level is measured at 13%. What is the best next step for treatment?
+    ANSWER: Supplemental 100% oxygen   (key D)
+[PEER-CS peer2026-1-batch-444-q-444] Health - Case Series 2026-1 — Answered Page 899 of 974 A 30-year-old woman who is 30 weeks' pregnant presents from a house fire with confusion, nausea, vomiting, and a severe headache. EMS reports that she had a syncopal event but no seizure activity. There is no history of trauma. Her vital signs are BP 130/80, P 120, R 24, and T 36.9°C (98.4°F); SpO is 100% on a non- rebreather mask.
+    ANSWER: Hyperbaric oxygen therapy   (key C)
+[PEER-CS peer2026-1-batch-445-q-445] Health A 34-year-old man presents via EMS for intoxication. His vital signs on arrival are BP 130/70, P 80, R 14, and T 37.7°C (99.9°F); SpO is 94% on room air. The patient reports nausea but denies any other complaint. On examination, he is noted to be clinically intoxicated with a fruity breath odor.
+    ANSWER: Isopropyl alcohol toxicity   (key C)
+[PEER-CS peer2026-1-batch-446-q-446] Health A 34-year-old man presents via EMS for intoxication. His vital signs on arrival are BP 130/70, P 80, R 14, and T 37.7°C (99.9°F); SpO is 94% on room air. The patient reports nausea but denies any other complaint. On examination, he is noted to be clinically intoxicated with a fruity breath odor.
+    ANSWER: Provide supportive care   (key D)
+[PEER-CS peer2026-1-batch-447-q-447] Health A 17-year-old white girl presents via EMS with suicidal thoughts. She has a his- tory of depression with one suicide attempt in the past by medication overdose. She reports that her father committed suicide at age 50 and that she has access to firearms. When asked if she has a plan to harm herself, she endorses a plan to walk into oncoming traffic. She admits to drinking alcohol today.
+    ANSWER: Female sex   (key B)
+[PEER-CS peer2026-1-batch-448-q-448] Health A 17-year-old white girl presents via EMS with suicidal thoughts. She has a his- tory of depression with one suicide attempt in the past by medication overdose. She reports that her father committed suicide at age 50 and that she has access to firearms. When asked if she has a plan to harm herself, she endorses a plan to walk into oncoming traffic. She admits to drinking alcohol today.
+    ANSWER: Keep the patient involuntarily for psychiatric evaluation   (key D)
+[PEER-CS peer2026-1-batch-449-q-449] Health - Case Series 2026-1 — Answered Page 909 of 974 A 17-year-old white girl presents via EMS with suicidal thoughts. She has a his- tory of depression controlled on daily sertraline. She mentioned passive thoughts of harming herself to a friend earlier today. Her friend called EMS to bring the patient in for evaluation.
+    ANSWER: Access to firearms   (key A)
+[PEER-CS peer2026-1-batch-450-q-450] Health A 37-year-old woman with a history of tuberculosis presents with tonic-clonic seizure activity. She is reportedly 22 weeks' pregnant. There is no known history of trauma, and she was acting normally 3 hours prior to the arrival of EMS. She was found with an empty prescription pill bottle. Out-of-hospital, she received diazepam 4 mg IV with no change in her seizure activity.
+    ANSWER: Isoniazid toxicity   (key D)
+[PEER-CS peer2026-1-batch-451-q-451] Health A 37-year-old woman with a history of tuberculosis presents with tonic-clonic seizure activity. She is reportedly 22 weeks' pregnant. There is no known history of trauma, and she was acting normally 3 hours prior to the arrival of EMS. She was found with an empty prescription pill bottle. Out-of-hospital, she received diazepam 4 mg IV with no change in her seizure activity.
+    ANSWER: Pyridoxine IV   (key C)
+[PEER-CS peer2026-1-batch-452-q-452] Health A 17-year-old girl presents for emesis and lethargy. Her grandmother reports finding an empty bottle of “anemia pills'' near the patient. The patient's vital signs on arrival are BP 92/60, P 120, R 20, and T 37.7°C (99.9°F); SpO is 94% on 4-L nasal cannula. On examination, the patient is somnolent but awakens to light noxious stimuli.
+    ANSWER: Abdominal x-ray   (key A)
+[PEER-CS peer2026-1-batch-453-q-453] Health A 17-year-old girl presents for emesis and lethargy. Her grandmother found an empty bottle of “anemia pills'' near the patient. The patient's vital signs on arrival are BP 92/60, P 120, R 20, and T 37.7°C (99.9°F); SpO is 94% on 4-L nasal can- nula. On examination, the patient is somnolent but awakens to light noxious stimuli.
+    ANSWER: Deferoxamine   (key B)
+[PEER-CS peer2026-1-batch-454-q-454] Health A 43-year-old man presents via EMS after being found down at a gas station. His vital signs on arrival are BP 90/60, P 120, R 36, and T 37.7°C (99.9°F); SpO is 94% on nonrebreather mask. On examination, the patient is somnolent and us- ing his accessory muscles with associated tachypnea.
+    ANSWER: Ethylene glycol toxicity   (key A)
+[PEER-CS peer2026-1-batch-455-q-455] Health A 43-year-old man presents via EMS after being found down at a gas station. His vital signs on arrival are BP 90/60, P 120, R 36, and T 37.7°C (99.9°F); SpO is 94% on nonrebreather mask. On examination, the patient is somnolent and us- ing his accessory muscles with associated tachypnea.
+    ANSWER: Fomepizole   (key C)
+[PEER-CS peer2026-1-batch-456-q-456] Health A 43-year-old man presents via EMS after being found down at a gas station. His vital signs on arrival are BP 90/60, P 120, R 36, and T 37.7°C (99.9°F); SpO is 94% on nonrebreather mask. On examination, the patient is somnolent and us- ing his accessory muscles with associated tachypnea.
+    ANSWER: Consult nephrology for emergent hemodialysis   (key C)
+[PEER-CS peer2026-1-batch-457-q-457] Health A 26-year-old woman presents after an intentional overdose of aspirin. Her vital signs on arrival are BP 100/70, P 110, R 26, and T 37.7°C (99.9°F); SpO is 94% on room air. The patient reports muffled hearing. On examination, she is awake and noted to have hyperpnea. Her salicylate concentration is 50 mg/dL. What additional laboratory findings are expected?
+    ANSWER: Metabolic acidosis with respiratory alkalosis   (key B)
+[PEER-CS peer2026-1-batch-458-q-458] Health A 26-year-old woman presents after an intentional overdose of aspirin. Her vital signs on arrival are BP 100/70, P 110, R 26, and T 37.7°C (99.9°F); SpO is 94% on room air. The patient reports muffled hearing. On examination, she is awake and noted to have hyperpnea and tachypnea. Her salicylate concentration is 50 mg/dL. Which medication should be administered for definitive management?
+    ANSWER: Sodium bicarbonate   (key D)
+[PEER-CS peer2026-1-batch-459-q-459] Health A 26-year-old woman presents after an intentional overdose of aspirin. Her vital signs on arrival are BP 100/70, P 130, R 30, and T 38.4°C (101.1°F); SpO is 82% on room air. The patient reports muffled hearing. On examination, she is somno- lent and tachypneic and withdraws to noxious stimuli. Her salicylate concentra- tion is 92 mg/dL.
+    ANSWER: Initiate emergent hemodialysis 2 3 - Case Series 2026-1 — Answered Page 930 of 974   (key B)
+[PEER-CS peer2026-1-batch-460-q-460] Health A 23-year-old man presents from home for altered mental status. He lives with his parents, who called EMS because of his odd behavior. His parents describe the patient not participating in his usual interests, and he recently failed out of his graduate program. He has been seen talking to himself over the last 2 months.
+    ANSWER: Schizophreniform disorder   (key D)
+[PEER-CS peer2026-1-batch-461-q-461] Health A 23-year-old man presents from home for altered mental status. He lives with his parents, who called EMS because of his odd behavior. His parents describe the patient not participating in his usual interests, and he recently failed out of his graduate program. He has been seen talking to himself over the last 2 months.
+    ANSWER: Diphenhydramine   (key D)
+[PEER-CS peer2026-1-batch-462-q-462] Health A 23-year-old man presents from home for altered mental status. He lives with his parents, who called EMS because of his odd behavior. His parents describe the patient not participating in his usual interests, and he recently failed out of his graduate program. He has been seen talking to himself over the last 2 months.
+    ANSWER: Clozapine   (key B)
+[PEER-CS peer2026-1-batch-463-q-463] Health A 23-year-old man presents from home for altered mental status. He lives with his parents, who called EMS because of his odd behavior. His parents describe the patient not participating in his usual interests, and he recently failed out of his graduate program. He has been seen talking to himself over the last 2 months.
+    ANSWER: Tardive dyskinesia   (key D)
+[PEER-CS peer2026-1-batch-464-q-464] Health - Case Series 2026-1 — Answered Page 941 of 974 A 34-year-old transgender man presents following a sexual assault. The male as- sailant was unknown to the patient. The assault took place 3 hours prior to his arrival. The patient has not had gender-affirming surgery, and the assault in- cluded vaginal penetration. A urine pregnancy test result is negative.
+    ANSWER: 1 dose ceftriaxone 250 mg IM, 1 dose azithromycin 1 g PO, 1 dose metronidazole   (key A)
+[PEER-CS peer2026-1-batch-465-q-465] Health A 34-year-old transgender man presents following a sexual assault. The patient states that he was assaulted by a long-term male partner. What demographic group has the highest prevalence of lifetime intimate partner violence?
+    ANSWER: Transgender men   (key D)
+[PEER-CS peer2026-1-batch-466-q-466] Health A 34-year-old transgender man presents following a sexual assault. The patient states that he was assaulted by a long-term male partner. What physical signs should raise suspicion that the patient is a victim of intimate partner violence?
+    ANSWER: Injuries to the neck and chest   (key B)
+[PEER-CS peer2026-1-batch-467-q-467] Health A 34-year-old transgender man presents following a sexual assault. The patient states that he was assaulted by a long-term male partner. What is an appropriate step in management of this patient?
+    ANSWER: Refer to advocates and discuss a safety plan   (key B)
+[PEER-CS peer2026-1-batch-468-q-468] Health A 33-year-old man with a history of schizophrenia and alcohol abuse presents with police. The police state he was drinking when an argument ensued between him and his girlfriend. The argument became violent, so a neighbor called the police. Upon arrival, he is uncooperative and refuses to undress or change into a gown. He is also responding to internal stimuli.
+    ANSWER: Witnessing violence   (key D)
+[PEER-CS peer2026-1-batch-469-q-469] Health A 33-year-old man with a history of schizophrenia and alcohol abuse presents with police. The police state he was drinking when an argument ensued between him and his girlfriend. The argument became violent, so a neighbor called the police. Upon arrival, he is uncooperative and refuses to undress or change into a gown. He is also responding to internal stimuli.
+    ANSWER: Verbally de-escalate the situation   (key D)
+[PEER-CS peer2026-1-batch-470-q-470] Health A 33-year-old man with a history of schizophrenia and alcohol abuse presents with police. The police state he was drinking when an argument ensued between him and his girlfriend. The argument became violent, so a neighbor called the police. Upon arrival, he is uncooperative and refuses to undress or change into a gown. He is also responding to internal stimuli.
+    ANSWER: Persistent command hallucinations   (key D)
+[PEER-CS peer2026-1-batch-471-q-471] Health A 27-year-old woman accompanied by her significant other presents with a com- plaint of fatigue. Her vital signs are BP 120/80, P 90, R 18, and T 36.9°C (98.4°F); SpO is 98% on room air. On physical examination, the patient is hesi- tant to answer questions and does not make eye contact.
+    ANSWER: Speaking to the patient alone   (key D)
+[PEER-CS peer2026-1-batch-472-q-472] Health A 27-year-old woman accompanied by her significant other presents with a com- plaint of fatigue. Her vital signs are BP 120/80, P 90, R 18, and T 36.9°C (98.4°F); SpO is 98% on room air. On physical examination, the patient is hesi- tant to answer questions and does not make eye contact.
+    ANSWER: 12 am on the 7th   (key B)
+[PEER-CS peer2026-1-batch-473-q-473] Health A 27-year-old woman presents with a complaint of fatigue accompanied by her significant other. Her vital signs are BP 120/80, P 90, R 18, and T 36.9°C (98.4°F) ;SpO is 98% on room air. On physical examination, the patient is hesi- tant to answer questions and doesn't make eye contact.
+    ANSWER: Pregnancy   (key C)
+[PEER-CS peer2026-1-batch-474-q-474] Health A 43-year-old man with a past medical history of alcohol withdrawal presents with witnessed seizure-like activity from a nearby detox facility. EMS adminis- tered 2 mg of intravenous lorazepam prior to arrival. His vital signs on arrival are BP 180/115, P 130, R 18, and T 37.7°C (99.9°F); SpO is 94% on room air.
+    ANSWER: Delirium tremens   (key C)
+[PEER-CS peer2026-1-batch-475-q-475] Health - Case Series 2026-1 — Answered Page 962 of 974 A 43-year-old man with a past medical history of alcohol withdrawal presents with witnessed seizure-like activity from a nearby detox facility. EMS adminis- tered 2 mg of intravenous lorazepam prior to arrival. His vital signs on arrival are BP 180/115, P 130, R 18, and T 37.7°C (99.9°F); SpO is 94% on room air.
+    ANSWER: Symptom-triggered benzodiazepine therapy   (key D)
+[PEER-CS peer2026-1-batch-476-q-476] Health A 43-year-old man with a past medical history of alcohol withdrawal presents with witnessed seizure-like activity from a nearby detox facility. EMS adminis- tered 2 mg of intravenous lorazepam prior to arrival. His vital signs on arrival are - Case Series 2026-1 — Answered Page 964 of 974 BP 180/115, P 130, R 18, and T 37.7°C (99.9°F); SpO is 94% on room air.
+    ANSWER: Prior history of delirium tremens   (key D)
+[PEER-CS peer2026-1-batch-477-q-477] Health A 43-year-old man with a past medical history of alcohol withdrawal presents with witnessed seizure-like activity from a nearby detox facility. EMS adminis- tered 2 mg of intravenous lorazepam prior to arrival. His vital signs on arrival are BP 180/115, P 130, R 18, and T 37.7°C (99.9°F); SpO is 94% on room air.
+    ANSWER: Lorazepam   (key C)
+[PEER-CS peer2026-1-batch-478-q-478] Health A 24-year-old man presents with nausea, vomiting and diarrhea. He smokes fen- tanyl daily. His vital signs on arrival are BP 110/80, P 104, R 18 and T 37.0°C (98.6°F); SpO is 98% on room air. On examination, the patient appears restless and is yawning. His pupils are 4 mm, symmetric, and reactive. His skin examina- tion shows piloerection. What is the diagnosis?
+    ANSWER: Opioid withdrawal   (key B)
+[PEER-CS peer2026-1-batch-479-q-479] Health A 24-year-old man presents for nausea, vomiting and diarrhea. He smokes fen- tanyl daily, and his last use was 12 hours prior. His vital signs on arrival are BP - Case Series 2026-1 — Answered Page 969 of 974 150/90, P 110, R 18, and T 37.0°C (98.6°F); SpO is 98% on room air. On exami- nation, the patient appears restless and is yawning. His pupils are 4 mm, sym- metric, and reactive.
+    ANSWER: Buprenorphine   (key A)
+[PEER-CS peer2026-1-batch-480-q-480] Health A 24-year-old man presents for anxiety and irritability. He endorses fatigue and subjective fevers. He uses intravenous heroin daily. His vital signs on arrival are BP 100/60, P 120, R 20, and T 39.0°C (102.2°F); SpO is 98% on room air. On examination, the patient is ill appearing, and there is a II/VI systolic murmur in the lower left sternal border. What diagnostic test should be ordered?
+    ANSWER: Three sets of blood cultures   (key B)
+[PEER-CS peer2026-1-batch-481-q-481] Health A 24-year-old man presents for anxiety and irritability. He was diagnosed with opioid use disorder and was recently initiated on methadone for medication-as- sisted therapy. He denies any GI symptoms. His last dose of methadone was 2 hours prior to arrival. He is concerned his symptoms are related to opioid with- drawal.
+    ANSWER: Buprenorphine   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-405] Which of the following would raise concern for nonaccidental trauma?
+    ANSWER: A 4-month-old infant with mirror image bruises on the jaw   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-406] A 19-year-old woman is brought into the emergency department by EMS after being found in a public restroom. Bystanders found her lying on the floor next to a toilet. She appears thin and withdrawn from conversation. Further examination of which of the following would aid in the diagnosis of bulimia nervosa?
+    ANSWER: Hands   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-407] A 45-year-old man with alcohol use disorder presents intoxicated, now with HR 122 bpm, BP 160/100 mm Hg, and tremulousness after several hours in the ED. Which of the following is the best therapy?
+    ANSWER: IV lorazepam   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-408] An 82-year-old man presents to the emergency department with frequent falls. He lives with his son and states, “I can’t go home. I want to be admitted.” The patient has trouble recalling details of his history. He has dementia but is able to perform most of his acts of daily living. His T is 99°F (37.2°C), BP is 165/90 mm Hg, HR is 102 bpm, RR is 18/min, and SpO2 is 100% on room air.
+    ANSWER: Elder abuse   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-409] A patient is brought to the ED for severe agitation and violent behavior requiring sedation and restraints. He is diaphoretic with reactive pupils and rotary nystagmus. What is the most likely cause of this patient’s symptoms?
+    ANSWER: Phencyclidine use   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-410] A 54-year-old man with chronic alcohol use presents with confusion and visual hallucinations. Vital signs are HR 113 bpm, BP 164/95 mm Hg, finger stick blood glucose 113 mg/dL, and T 100.5°F (38.1ºC). Physical examination reveals a disheveled man with tremors, tongue fasciculations, and agitation. What management should be pursued?
+    ANSWER: Diazepam   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-411] Which of the following is most consistent with alcohol withdrawal?
+    ANSWER: Delirium, hallucinations, and tremor   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-412] A 23-year-old woman who speaks Cambodian presents to the emergency department with abdominal pain and urinary burning. She presents with a man who introduces himself as her boyfriend and insists on assisting with translation. She appears sad and is reluctant to speak for herself. He requests to remain in the room during the physical exam but steps out when you ask a second time.
+    ANSWER: Obtain interpreter services and question her about violence and abuse in private   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-413] A 25-year-old woman with a medical history of insulin-dependent diabetes presents to the ED for altered mental status. She is a nurse at your hospital and was found confused in the breakroom. Her initial glucose level is 23 mg/dL. She is given an ampule of glucose with improvement to 110 mg/dL. However, her glucose continues to drop intermittently, requiring a D10 drip and admission.
+    ANSWER: Factitious disorder   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-414] A 60-year-old woman presents to the ED with her daughter for hallucinations. Her daughter states that her father passed away 1 month ago and her mother has been depressed ever since. She states her mother sleeps throughout the day and will not eat. She no longer enjoys playing with her grandkids and often feels guilty that she did not spend more time with her spouse before he passed away.
+    ANSWER: Major depression with psychotic features   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-415] A 43-year-old nurse presents to the ED with recurrent episodes of hypoglycemia despite no history of diabetes or medication use and frequent self-monitoring of glucose. What is the most likely diagnosis?
+    ANSWER: Factitious disorder   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-416] A 55-year-old woman with fibromyalgia and chronic depression presents to the ED with worsening depression over the past few weeks. She ran out of her medication months ago. She reports increased stress at home, relationship problems, and difficulty caring for her children. She takes tramadol for fibromyalgia but does not recall her previous antidepressant.
+    ANSWER: Phenelzine   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-417] Which of the following is most concerning for possible elder abuse or neglect?
+    ANSWER: Midshaft femur fracture   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-418] Which of the following is most suggestive of pediatric abuse?
+    ANSWER: Transverse fracture of the tibia in a 4-year-old child who reportedly fell off a swing   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-419] An 82-year-old woman presents for evaluation of pain on her sacrum. The patient is alert and oriented to person, place, and time. Physical examination is notable for a stage II pressure ulcer. Multiple bruises are noted on her legs as well. She acknowledges that she remains in bed most of the day and sometimes her son, who is her caregiver, forgets to give her meals or change her diaper.
+    ANSWER: Notify adult protective services   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-420] A 43-year-old woman presents overnight to the emergency department concerned that she might be infected with HIV or hepatitis. The patient requested and completed a course of prophylactic antiretroviral therapy after having intercourse with a new male partner and has had a total of three rounds of negative testing for HIV and hepatitis, the most recent being last week.
+    ANSWER: Illness anxiety disorder   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-421] Which of the following features most likely suggests that a patient with psychosis has a primary psychiatric illness instead of a medical explanation for their illness?
+    ANSWER: Disorganized behavior   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-422] A 19-year-old man presents to the ED with his partner because of fatigue, weakness, and an episode of syncope at the movie theatre tonight. The patient has no other specific concerns, but his partner reports that he has had significant weight loss over the last 2 months and that the patient rarely eats. The patient reports his weight loss is because he has been exercising more regularly.
+    ANSWER: Childhood obesity   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-423] A 22-year-old woman presents to the ED for abdominal pain. On initial evaluation, her abdominal exam is benign, vital signs are within normal limits, and blood work and urinalysis are unremarkable. A rapid response for another patient is called, and you have to exit the room.
+    ANSWER: Histrionic   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-424] Which of the following disorders best describes a patient with a wide variety of concerns and a long and complicated medical history with no apparent medical cause and multiple ED visits?
+    ANSWER: Somatic symptom disorder   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-425] A 2-year-old boy presents by EMS after being found walking alone along a busy road for the second time this month. He is well-appearing and well-nourished with normal vital signs and no signs of trauma. The parent who was supervising him arrives an hour later, embarrassed. What is the best management?
+    ANSWER: Notify child protective services   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-426] A 46-year-old man with a history of depression presents to the emergency department with a self-inflicted laceration to the left arm. The wound is superficial, and the patient states that he did not want to hurt himself. He reports that he is recently divorced, lives alone, and has increased stress at work. These stressors have worsened his depression.
+    ANSWER: Perform emergency psychiatric evaluation   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-427] What is the treatment of choice for borderline personality disorder?
+    ANSWER: Psychotherapy   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-428] A 21-year-old woman presents to the emergency department for sexually transmitted infection treatment after being sexually assaulted 4 days ago. She indicates she had been drinking at the time and does not remember all the details of the night. She awoke in her apartment naked and clearly had had sexual intercourse. She was angry and embarrassed at the time, so did not seek any treatment.
+    ANSWER: Ulipristal acetate   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-429] A 40-year-old woman presents to the ED with an acute behavioral outburst and recent withdrawal, with coworkers noting new-onset talking to herself. She was recently started on a new medication. Which medication is most likely responsible for these new psychiatric symptoms?
+    ANSWER: Prednisone   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-430] Ingestion of which substance may result in a false positive urine drug screen for phencyclidine?
+    ANSWER: Dextromethorphan   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-431] A 3-year-old girl presents to the emergency department with concern about sexual assault. Her mother and father are separated, and her mother wants her checked for signs of sexual assault after getting her back from her father. Which of the following is most likely to be discovered on history or exam, assuming this child is being sexually assaulted?
+    ANSWER: Increased clinginess   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-432] A 14-year-old girl presents with recurrent nightmares and intrusive daytime recollections 6 weeks after a high-speed motor vehicle crash in which her sibling was seriously injured. She refuses to ride on the freeway, startles easily, and her school performance has declined. Which of the following is the best option to address her illness?
+    ANSWER: Cognitive behavioral therapy   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-433] Which one of the following factors is associated with an increased risk of violent behavior in patients with schizophrenia?
+    ANSWER: Auditory hallucinations   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-434] A 19-year-old man is dropped off in the ED by two of his friends who state that he is not breathing. His vital signs include a BP of 115/70 mm Hg, HR 99 bpm, T 37.1°C, RR 5/min, and SpO2 87% on room air. You notice fresh needle marks and miotic pupils. You initiate bag-valve-mask ventilation and the patient's SpO2 increases to 99%.
+    ANSWER: Administer naloxone   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-435] Which of the following is required for a diagnosis of substance use disorder?
+    ANSWER: Pattern of use leading to clinically significant distress and impairment   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-436] What differentiates bipolar I disorder from bipolar II disorder?
+    ANSWER: Occurrence of a manic episode   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-437] A 36-year-old G1P0010 woman presents with 5 weeks of nightmares after she had a stillbirth. She reports vivid nightmares of the delivery that occur multiple times a week, and she has started avoiding the kitchen where she last felt the baby’s kicks.
+    ANSWER: Post-traumatic stress disorder   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-438] A 17-year-old girl presents to the emergency department with her friend for a presumptive panic attack associated with syncope. The girls were arguing when the patient became anxious, reported shortness of breath, and passed out. The episode of syncope was short-lived, and the patient reports feeling better now. She agreed to have a physician evaluation but was hesitant.
+    ANSWER: Have you recently lost more than one stone (14 lbs [6.4 kg]) in a 3-month period?   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-439] A 29-year-old woman presents to the emergency department with fatigue. She reports feeling a “tired heart” today that is worse than normal. She has no true chest pain and perseverates on a heart that is tired. She has no cough, congestion, or shortness of breath. Sometimes she has paresthesias in her hands but none today. She is well-appearing and in no apparent distress. Vital signs are normal.
+    ANSWER: Illness anxiety disorder   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-440] An 82-year-old man who was diagnosed with cancer 8 months ago is brought to the emergency department by his spouse. She tells you that in the past 6 months, he has become increasingly withdrawn, cannot seem to concentrate, and has been losing a lot of weight. He no longer goes with her to their weekly church group or visits with his friends.
+    ANSWER: Tramadol   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-441] A 22-year-old woman is brought to the emergency department by her parents because they are concerned about her health. The patient is upset and states there is nothing wrong with her. The parents report that she spends most of her time exercising and focusing on beauty products and her appearance. They rarely see her eat food, and when she does, she exercises for hours afterward.
+    ANSWER: Anorexia nervosa   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-442] A 72-year-old man is brought to the emergency department for confusion. He has a history of Alzheimer dementia that has been progressively worsening. The patient is usually conversational and able to perform simple tasks, such as using the computer and preparing food. His T is 101°F (38.3°C), BP is 105/50 mm Hg, HR is 102 bpm, RR is 19/min, and SpO2 is 100% on room air.
+    ANSWER: Confusion and agitation that only occur at night   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-443] A 10-month-old boy presents with a parietal scalp hematoma 2 days after a fall from a changing table. His examination is otherwise normal, and CT shows a linear parietal skull fracture without intracranial hemorrhage. Which feature of this case is most concerning for child abuse?
+    ANSWER: Delay in seeking care   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-444] The fifth edition of the Diagnostic and Statistical Manual of Mental Disorders groups personality disorders into three clusters: odd or eccentric, dramatic or erratic, and anxious or fearful. Which of the following is the correct personality disorder and cluster?
+    ANSWER: Narcissistic personality disorder, dramatic or erratic (cluster B)   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-445] A 27-year-old woman presents to the ED with what she states has been diagnosed recently as a panic attack. Her symptoms of a racing heart, “buzzing” in her extremities, shortness of breath, and anxiety started abruptly approximately 15 minutes prior to arrival via EMS. She received no medications from EMS and did not take anything at home when the symptoms started.
+    ANSWER: Advise her that sertraline can take 4–6 weeks to have a positive effect and that her dose may need to be adjusted with frequent follow-up with her clinician   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-446] A 25-year-old man is brought to the emergency department by police for bizarre behavior. His family arrives and states that his behavior changed about 8 months ago. He does not misuse drugs or alcohol. On examination, he has a flat affect and appears to be responding to internal stimuli.
+    ANSWER: Schizophrenia   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-447] A 67-year-old man is brought to the ED with 2 years of gradually worsening memory loss, functional decline, and confusion, now unable to care for himself. He has no hypertension or previous strokes. Which underlying pathophysiologic process is most likely responsible for his symptoms?
+    ANSWER: Decreased cholinergic activity   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-448] A 51-year-old woman presents from a group home with a wound on her right arm. She also reports numbness and tingling in the same arm. She has had numerous emergency department visits and subsequent hospital admissions with specialty diagnostic evaluations. Her caregiver informs you that the patient was found scratching herself vigorously and putting her own fecal matter in her wounds.
+    ANSWER: Factitious disorder   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-449] A 35-year-old man is brought to the ED by paramedics who found him vandalizing a church. He makes poor eye contact and does not want to speak to anyone but the doctor. He follows commands and is not combative. Which of the following most suggests a diagnosis of antisocial personality disorder?
+    ANSWER: Frequent legal problems   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-450] A 22-year-old woman is brought to the emergency department by her family because of concerns about her weight and mood. She has a body mass index of 11 kg/m2. They are concerned because she is still trying to lose weight. The patient has a blood glucose of 45 mg/dL and is given juice and a sandwich. Which of the following electrolyte disorders is she at greatest risk for subsequently?
+    ANSWER: Hypophosphatemia   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-451] Which one of the following best defines delusions?
+    ANSWER: Erroneous beliefs that usually involve a misinterpretation of perceptions or experiences   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-452] A 7-year-old girl presents with a caregiver for concerns about episodes of seizures and low blood sugar. The child has no documented medical conditions and reportedly takes no medications. The child does not speak, appears frail, and is held closely by the caregiver throughout the visit. The caregiver presses you to admit the child to the hospital for an extensive workup.
+    ANSWER: Biological mothers   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-453] A 23-year-old woman with a history of type 1 diabetes mellitus, anxiety, anorexia nervosa, and nicotine dependence is diagnosed with major depressive disorder. Her body mass index is 18 kg/m2. Which of the following antidepressants should be avoided in this patient?
+    ANSWER: Bupropion   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-454] Which of the following injury patterns is most concerning for child abuse?
+    ANSWER: Bruising to the shoulder and neck of a 3-month-old boy   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-455] A restless 17-year-old boy presents to the emergency department with diffuse pain. He reports that he has been taking oxycodone daily for the last several months for the euphoric effects but stopped a few days ago. He is experiencing dysphoria, rhinorrhea, lacrimation, myalgias, vomiting, diarrhea, yawning, and abdominal cramping. He expresses a desire to stop using opioids.
+    ANSWER: Buprenorphine   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-456] A 24-year-old woman presents to the ED with recurrent episodes of shortness of breath and palpitations during university exam stress. Her exam shows anxiety with tachycardia. Her ECG is shown above. What is the most appropriate treatment for this patient?
+    ANSWER: PO lorazepam   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-457] An 18-year-old woman is concerned about heart palpitations, diaphoresis, nausea, and shaking of her whole body, along with a choking sensation. These symptoms have occurred three to four times per week for the last 2 weeks. She states that the symptoms most commonly occur shortly before going to bed and begin suddenly, peaking in 10 minutes before eventually resolving spontaneously.
+    ANSWER: Panic attack   (key E)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-458] A 17-year-old girl with a history of anxiety and skin cutting presents to the emergency department with vomiting. Her parent brought her in today because she has concerns about her daughter’s eating habits. Today, after eating an entire package of cookies, the patient was found inducing vomiting in the bathroom. Her parent is concerned that this has been happening regularly.
+    ANSWER: Bulimia nervosa   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-459] An 18-month-old boy presents to the ED after he fell off his bed and hurt his leg. The child is otherwise healthy and is up to date on his vaccinations. Physical exam is notable for an uncomfortable-appearing child who will not speak with the physician and will not walk secondary to pain. His vital signs are within normal limits for his age. A radiograph is performed as seen above.
+    ANSWER: Skeletal survey   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-460] A 3-year-old boy presents to the ED with a rash. His parents state that he returned from daycare today with a diaper rash. On examination, you notice the rash above. Which of the following characteristics is most consistent with this being a nonaccidental injury?
+    ANSWER: Clear demarcation   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-461] A 32-year-old woman with a history of bipolar disorder and depression presents to the emergency department after being assaulted. She has normal vital signs and generally appears in no distress. However, she has slurred and tangential speech and is not able to provide a detailed history.
+    ANSWER: Perform a head-to-toe physical exam and consult social work for domestic violence   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-462] A 15-year-old girl presents to the ED after running away from a group home. She has a Glasgow Coma Scale score of 15 but is visibly intoxicated and states that she has been living with her 30-year-old boyfriend for the last few weeks. She has a tattoo of a money bag on her face, which is similar to the tattoo on her boyfriend’s arm.
+    ANSWER: Treponemal-specific testing   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-463] A 14-year-old boy with isolated obsessive-compulsive disorder presents to the ED because his known compulsions are worsening. He has participated in cognitive behavioral therapy for the last 3 months. A screening tool for his disorder suggests his impairment has become severe. Which of the following is the recommended next step in this patient’s treatment?
+    ANSWER: SSRI therapy   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-464] An 18-year-old man is brought to the ED by his sibling, who is concerned that he is having a mental breakdown. The patient has had 6 months of social withdrawal and declining school performance. He has had a month of auditory hallucinations, paranoid delusions, and disorganized speech.
+    ANSWER: Oral olanzapine   (key E)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-465] A patient currently being treated for acute alcohol withdrawal requires escalating doses of benzodiazepines. Despite this, the patient is experiencing significant autonomic hyperactivity and symptoms. Phenobarbital is added, resulting in improvement of the patient’s symptoms. Which of the following describes the primary mechanism of action of this medication?
+    ANSWER: Increases gamma-aminobutyric acid receptor opening duration   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-466] A 4-year-old boy presents to the ED as the unrestrained passenger from a motor vehicle collision. The boy was asleep in the backseat when his parent hit a parked car at around 20 miles per hour. The patient appears distressed but is consolable. Neurologic exam is nonfocal, and Glasgow Coma Scale score is 15. The patient has bruising on his back but no midline tenderness over the spine.
+    ANSWER: Admit the patient   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-467] A 24-year-old man presents to the emergency department with chest discomfort, shortness of breath, palpitations, malaise, and tingling in his whole body that was worse a few hours ago but has been improving. He has felt this way many times over the last year, but his symptoms were never this severe.
+    ANSWER: Lorazepam   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-468] A 19-year-old man presents with agitation. EMS states that his friends called 911 after the patient became agitated after smoking drugs. Vital signs are HR 133 bpm, BP 163/93 mm Hg, RR 24/min, SpO2 97%, and finger stick glucose 110 mg/dL. Physical examination reveals an agitated, combative man who is sweating and grunting. Eye exam reveals rotatory nystagmus.
+    ANSWER: Phencyclidine   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-469] Of the following patient characteristics which puts an individual attempting suicide at the greatest risk for suicide completion?
+    ANSWER: Man who lives alone in a rural area   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-470] A 23-year-old man presents to the ED with leg pain for 3 months and requests hydromorphone for pain. The nurse approaches you because she believes the patient is exhibiting drug-seeking behavior, as he became extremely upset when she told him that he would have to wait for the doctor to evaluate him before pain medications could be given.
+    ANSWER: Borderline   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-471] A 20-year-old college student presents for psychiatric evaluation. He describes a difficult social life, noting feeling uncomfortable and awkward in social situations despite desiring friendships and relationships. He attributes this difficulty to a fear of being disliked by his classmates and states, “I’m just not cool enough.” As a result, he spends much of his time alone in his dorm and does no …
+    ANSWER: Anxiety disorders   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-472] Which of the following patients, if they were in your care in the emergency department, would require mandatory reporting for human trafficking?
+    ANSWER: 27-year-old patient with a history of developmental delay with evidence of labor trafficking   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-473] Which of the following behaviors is associated with obsessive-compulsive disorder?
+    ANSWER: Performs a ritual to eliminate intrusive, distressing thoughts   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-474] A 67-year-old man with a history of Parkinson disease is brought to the ED with gradually worsening memory loss. His daughter is concerned that he has been struggling to remember to pay his bills on time. The patient states he can see small people with him sometimes. His T is 97.0°F (36.1°C), BP is 165/82 mm Hg, HR is 82 bpm, RR is 15/min, and SpO2 is 100% on room air.
+    ANSWER: Lewy body dementia   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-475] A 62-year-old woman presents to the ED with weakness of her left leg that started acutely 6 hours ago. She reports being well yesterday and, other than depression, has no other significant medical conditions. Her spouse notes that her symptoms began when she found out her sister died. On examination, she is calm with normal vital signs. She will not move any part of her left leg when asked.
+    ANSWER: Functional neurologic symptom disorder   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-476] A 62-year-old woman presents with altered mental status that has worsened over the past few days. Her spouse notes that she has become confused and disoriented, is not sleeping well, and alternates between being very energetic and happy to crying without reason. She also seems very restless, constantly moving her legs when sitting on the couch.
+    ANSWER: Prednisone   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-477] Which of the following factors predicts the highest risk of death by suicide?
+    ANSWER: Substance use   (key E)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-478] What is the minimum number of alcohol-containing drinks per week that puts a man at risk for alcohol use disorder and alcohol dependence?
+    ANSWER: 15 drinks per week   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-479] A 27-year-old man presents to the ED acutely agitated and confused. He subsequently demonstrates tonic-clonic activity that resolves spontaneously after 15 seconds. The patient is observed until his mental status improves and he is sober. He reports using K2. Which of the following is the most appropriate next step in management?
+    ANSWER: Discharge   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-480] A 22-year-old man is brought to the emergency department by a family member who reports a history of 7 months of odd behavior. When he moved out for college, he began isolating himself and struggled in his classes. He started talking excessively about religion, though his ideas were disorganized and hard to follow. Recently, he has been seen having conversations with no one else in the room.
+    ANSWER: Schizophrenia   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-481] After receiving a positive pregnancy test 6 weeks ago, a 26-year-old patient is brought to the emergency department by her spouse because she has been increasingly irritable for the past 2 days. She repeatedly paces the room and fidgets when asked to sit for the physical exam.
+    ANSWER: Oral diphenhydramine   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-482] A 28-year-old woman presents to the ED with insomnia. Over the past 8 months, she has had difficulty initiating sleep despite taking melatonin supplements. At night, she usually lays in bed for at least an hour with her mind racing. Her lack of sleep has made her feel more sluggish, and multiple friends have commented that she is more irritable with them.
+    ANSWER: Generalized anxiety disorder   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-483] Which of the following is considered a first-line therapy for alcohol use disorder?
+    ANSWER: Naltrexone   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-484] A 32-year-old woman presents to the ED for vaginal discharge. Her vital signs are within normal limits for her age, and her last menstrual period was 2 weeks ago. Speculum examination reveals a retained vaginal tampon with malodorous discharge but no cervical lesions or bleeding. A review of her medical record reveals multiple prior visits describing similar events.
+    ANSWER: Factitious disorder imposed on self   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-485] A 17-year-old boy presents to the emergency department after being found face down in his room at home. There was an empty prescription bottle of oxycodone found next to him. On exam, he is lethargic with miosis, decreased reflexes, and decreased bowel sounds. His heart rate is 55 bpm, blood pressure is 110/70 mm Hg, respiratory rate is 14/min, and oxygen saturation is 99% on room air.
+    ANSWER: End-tidal CO 2 monitoring   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-486] A 14-year-old girl with a history of anxiety and depression presents with rapid breathing accompanied by discomfort, numbness, and tingling in her hands and feet. These symptoms began at school earlier in the day as she was about to take a final examination. She currently takes no medications and sees a therapist once per month.
+    ANSWER: Reduced PCO 2 , elevated pH, and reduced heart rate variability   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-487] A 42-year-old man presents to the emergency department with a concern about painful skin lesions. When you enter the room, you see a man scrubbing his hands and face in the sink. He indicates that he hates having to come to the hospital but is concerned about bacteria in these skin lesions. His concern has had him cleaning his hands and face at least 20 times a day.
+    ANSWER: Obsessive-compulsive disorder   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-488] A 17-year-old boy presents to the emergency department after exhibiting bizarre behavior at home. He has no medical history. His parents note that when he came home from a party tonight, he seemed very agitated and began tearing apart his room while looking for his phone. When his parents confronted him, he became increasingly agitated and threatened them with a knife, so they called the police.
+    ANSWER: N-methyl-D-aspartate receptor antagonist   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-489] A married 26-year-old woman with a history of depression and alcohol use disorder presents to the emergency department with suicidal ideation. She says she stopped taking her antidepressants 5 months ago and has been feeling depressed for a few weeks. She states that she has never attempted suicide in the past. Which of this patient’s characteristics increases her risk of death by suicide?
+    ANSWER: She has a history of alcohol use disorder   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-490] A 55-year-old man with a history of depression, chronic hepatitis C, hepatocellular carcinoma, and alcohol use disorder presents with suicidal ideation. He is clinically intoxicated and smells of alcohol. He says he is having active thoughts of ending his life and has attempted suicide in the past by overdosing on prescription opioids. He owns a gun that is not locked in a safe.
+    ANSWER: Monitor and reassess   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-491] A 30-year-old woman presents to the ED reporting sexual assault last night. Through tears, she states that a man pulled her hair, slapped her several times, and pinned her down before vaginally penetrating her. She reports no previous medical history and takes no medicines.
+    ANSWER: Doxycycline, ceftriaxone, metronidazole, human immunodeficiency virus post-exposure prophylaxis, hepatitis B vaccine, and hepatitis B immune globulin   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-492] A 23-year-old woman presents with sudden-onset blindness that started after she found out her partner cheated on her. Her T is 97°F (36.1°C), BP is 125/80 mm Hg, HR is 72 bpm, RR is 13/min, and SpO2 is 100% on room air. Physical examination reveals symmetric pupils that react to light. The patient indicates she is unable to read a pamphlet given to her.
+    ANSWER: Functional neurological symptom disorder   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-493] A 19-month-old girl presents to the emergency department after reportedly falling down several stairs. Radiographs show a closed, nondisplaced fracture. She is ambulatory and has no significant medical history. Which fracture is most concerning that she was injured intentionally?
+    ANSWER: Posterior rib fracture   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-494] Olanzapine is a commonly used medication in patients with schizophrenia. Which of the following can be expected with the rapid dispersing formulation (wafer) of olanzapine?
+    ANSWER: Bioequivalence to the olanzapine tablet   (key A)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-495] A 32-year-old man with a history of heroin use, who is now on a methadone maintenance program, presents to the emergency department with muscle aches and abdominal pain. He indicates he has not had his usual methadone 60 mg dose in 2 days and thinks he is in opioid withdrawal. He was able to obtain methadone 10 mg last night but does not feel like that helped.
+    ANSWER: Methadone 60 mg orally   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-496] Withdrawal syndromes from which one of the following can be life-threatening?
+    ANSWER: Lorazepam   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-497] What act, when performed by the person experiencing abuse, most increases the chances for death when in a relationship of intimate partner violence?
+    ANSWER: Attempting to leave the relationship   (key B)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-498] A 27-year-old woman presents to the ED after experiencing an episode of her heart racing and a sense that she was losing control of her own body. She was at her friend’s house approximately 3 hours ago when they used an illicit substance that was given to them.
+    ANSWER: Lysergic acid diethylamide   (key C)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-499] A 21-year-old college student arrives at the ED at 1:00 am with crushing, substernal chest pain. Vital signs are BP 170/80 mm Hg, HR 110 bpm, RR 16/min, and T 99°F (37.2°C). An ECG demonstrates ST-segment elevations. The patient states that he was at a party. The patient is emergently taken to the cardiac catheterization lab.
+    ANSWER: Urine drug screen   (key D)
+[ROSH rosh-em-initial-2026-psychobehavioral-disorders-q-500] Which of the following is consistent with a diagnosis of bulimia nervosa?
+    ANSWER: Contraction alkalosis   (key A)

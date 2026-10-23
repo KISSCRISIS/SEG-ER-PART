@@ -1,0 +1,186 @@
+{
+  "guideId": "seg-unified-review-guide",
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "sample-gi-bleed",
+      "title": "Acute Gastrointestinal Bleeding",
+      "source": "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Assess airway risk, hemodynamic status, bleeding severity, anticoagulants, liver disease, and the likely upper or lower source.",
+        "Resuscitate while arranging blood testing, risk assessment, reversal decisions, and early specialist consultation when instability or ongoing bleeding is present.",
+        "Use history, examination, laboratory data, and targeted imaging or endoscopy to guide source control.",
+        "Disposition depends on physiology, recurrence risk, comorbidity, reliable follow-up, and local pathway."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Shock can precede obvious external blood loss."
+      ],
+      "examTraps": [
+        "Do not use a risk score as a substitute for clinical reassessment."
+      ],
+      "arabicExplanation": "قيّم مجرى الهواء والدورة الدموية وشدة النزف والأدوية. ابدأ الإنعاش بالتوازي مع تحديد المصدر والتواصل المبكر مع الاختصاصي عند عدم الاستقرار.",
+      "references": [
+        "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-asthma-copd",
+      "title": "Asthma and COPD Exacerbation",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 213,
+        "end": 220
+      },
+      "highYieldSummary": [
+        "Grade severity by work of breathing, speech, mental status, oxygenation, ventilation, prior admissions, and response to initial therapy.",
+        "Treat bronchospasm and hypoxemia promptly while searching for infection, pneumothorax, pulmonary edema, and other mimics.",
+        "Escalate support when fatigue, altered consciousness, rising carbon dioxide, or refractory hypoxemia develops.",
+        "Before discharge, verify response, inhaler technique, trigger plan, follow-up, and return precautions."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "A quiet chest in a tiring patient can indicate critical airflow limitation."
+      ],
+      "examTraps": [
+        "Do not judge severity from wheeze loudness alone."
+      ],
+      "arabicExplanation": "حدد شدة النوبة من جهد التنفس والوعي والأكسجة والاستجابة، وليس من صوت الصفير وحده. عالج التشنج وابحث عن الأسباب الخطرة مع تصعيد الدعم عند التعب.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 213,
+        "end": 220
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-aki",
+      "title": "Acute Kidney Injury and Electrolyte Emergencies",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 37,
+        "end": 60
+      },
+      "highYieldSummary": [
+        "Confirm the abnormal result and assess ECG, perfusion, urine output, medication exposure, obstruction, and rapidly dangerous electrolyte patterns.",
+        "Treat immediately life-threatening electrical or hemodynamic effects while investigating the underlying cause.",
+        "Review renal function and medication dosing during resuscitation and involve nephrology or critical care when refractory or severe.",
+        "Repeat tests after treatment and provide a clear monitoring and follow-up plan."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "The ECG may show danger before the laboratory value is available."
+      ],
+      "examTraps": [
+        "Do not treat an isolated number without checking symptoms, ECG, trend, and sampling error."
+      ],
+      "arabicExplanation": "ابدأ بتقييم التخطيط والتروية والبول والأدوية. عالج التأثيرات القلبية الخطرة فورًا، ثم ابحث عن السبب وأعد الفحوص بعد العلاج.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 37,
+        "end": 60
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-obstetric-emergency",
+      "title": "Emergency Care in Pregnancy",
+      "source": "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Stabilize the pregnant patient first while accounting for gestational age, physiologic changes, trauma, bleeding, pain, and fetal considerations.",
+        "Use pregnancy-appropriate imaging and medications when needed; do not withhold time-critical maternal diagnosis or treatment because of pregnancy.",
+        "Involve obstetrics early for bleeding, hypertensive disease, abdominal pain, trauma, or maternal instability.",
+        "Document maternal and fetal assessment, consultation, treatment response, and follow-up."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Maternal stabilization is the first fetal intervention."
+      ],
+      "examTraps": [
+        "Do not assume a negative early test excludes ectopic pregnancy."
+      ],
+      "arabicExplanation": "ثبّت الأم أولًا، فاستقرارها هو أفضل تدخل للجنين. حدّد عمر الحمل واستشر النسائية مبكرًا عند النزف أو الألم أو عدم الاستقرار.",
+      "references": [
+        "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-agitation",
+      "title": "Behavioral Emergencies and Agitation",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 1003,
+        "end": 1013
+      },
+      "highYieldSummary": [
+        "Protect staff and patient, use verbal de-escalation when feasible, and rapidly assess for delirium, hypoxia, hypoglycemia, intoxication, withdrawal, trauma, and medical illness.",
+        "Use the least restrictive effective intervention with continuous observation and appropriate monitoring.",
+        "Treat the cause, reassess capacity and risk, and involve mental-health or medical specialists according to the presentation.",
+        "Document behavior, alternatives attempted, proportionality, monitoring, response, and disposition reasoning."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "New agitation in an older adult is delirium until proven otherwise."
+      ],
+      "examTraps": [
+        "Do not label agitation as psychiatric before checking reversible medical causes."
+      ],
+      "arabicExplanation": "احمِ المريض والفريق وابدأ بالتهدئة اللفظية إن أمكن. ابحث عن الهذيان ونقص الأكسجة والسكر والسموم والمرض العضوي قبل افتراض سبب نفسي.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 1003,
+        "end": 1013
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

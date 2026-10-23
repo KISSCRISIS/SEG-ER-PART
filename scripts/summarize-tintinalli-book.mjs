@@ -1,0 +1,22 @@
+import fs from "node:fs/promises";
+import path from "node:path";
+import { arabicEditorialStatus, cleanSourceText, extractSourceSection, findTintinalliTitle } from "./lib/source-summary.mjs";
+const dir = path.resolve("SEG_CONTENT_LIBRARY", "02_PROCESSED_CONTENT", "TINTINALLI_MANUAL_8E");
+const manifest = JSON.parse(await fs.readFile(path.join(dir, "manifest.json"), "utf8"));
+const editorial = JSON.parse(await fs.readFile(path.join(dir, "editorial-translations.json"), "utf8").catch(() => "{}"));
+const pages = (await fs.readFile(path.join(dir, "pages.jsonl"), "utf8")).split(/\r?\n/).filter(Boolean).map(JSON.parse);
+const chapters = (manifest.chapters ?? []).map(ch => {
+  const selected = pages.filter(p => p.pdfPage >= ch.pdfStart && p.pdfPage <= ch.pdfEnd);
+  const text = selected.map(p => p.text).join("\n");
+  const title = findTintinalliTitle(text, ch.number);
+  const diagnosis = extractSourceSection(text, [/DIAGNOSTIC STUDIES/i, /DIAGNOSIS/i, /EVALUATION/i]);
+  const management = extractSourceSection(text, [/MANAGEMENT/i, /TREATMENT/i, /THERAPY/i]);
+  const arabic = arabicEditorialStatus(manifest.title);
+  const unitId = `tintinalli-manual-8e-ch-${String(ch.number).padStart(3, "0")}`;
+  const edited = editorial[unitId];
+  return { unitId, title, arabicTitle: edited?.arabicTitle ?? null, source: manifest.title, edition: manifest.edition, highYieldSummary: [cleanSourceText(text, 1700)].filter(Boolean), diagnosis: [diagnosis].filter(Boolean), management: [management].filter(Boolean), algorithms: [], tables: [], examPearls: [], examTraps: [], arabicExplanation: edited?.arabicExplanation ?? arabic.message, arabicExplanationStatus: edited?.status ?? arabic.status, references: [{ source: manifest.title, edition: manifest.edition, pages: { start: ch.pdfStart, end: ch.pdfEnd } }], pages: { start: ch.pdfStart, end: ch.pdfEnd }, provenance: { sourceId: manifest.id, sourceSha256: manifest.sha256, extractedPages: selected.length, excludedFrontMatterPages: "1-19", editorial: edited?.provenance ?? null }, reviewStatus: "UNDER_REVIEW", clinicalReview: "pending" };
+});
+const output = { schemaVersion: 2, generatedAt: new Date().toISOString(), book: manifest.id, total: chapters.length, status: "UNDER_REVIEW", chapters, editorialNote: "Front matter pages 1–19 (notice, contributors and preface) is excluded. Chapter names are read from the source chapter heading; source pages remain preserved." };
+await fs.writeFile(path.join(dir, "chapter-summaries.json"), JSON.stringify(output, null, 2));
+await fs.writeFile(path.resolve("client/public/content/summary-books/tintinalli-high-yield.json"), JSON.stringify(output, null, 2));
+console.log(`Created ${chapters.length} Tintinalli chapter summaries`);

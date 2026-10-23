@@ -1,0 +1,241 @@
+v
+Contents
+Contributors xi
+Preface xix
+Section 1 Resuscitation Techniques  1
+ 1 Advanced Airway Support   Darren Braude 1
+ 2 Management of Cardiac Rhythm Disturbances   James K. Takayesu 10
+ 3 Resuscitation of Children and Neonates   Marc F. Collin 29
+ 4 Fluids, Electrolytes, and Acid-Base Disorders   Benjamin W. Wachira 37
+ 5 Therapeutic Approach to The Hypotensive Patient   Saurin P . Bhatt 60
+ 6 Anaphylaxis, Acute Allergic Reactions, and Angioedema   Alix L. Mitchell 64
+Section 2 Analgesia, Anesthesia, and Sedation  67
+ 7 Acute Pain Management and Procedural Sedation   Michael S. Mitchell 67
+ 8 Chronic Pain   David M. Cline 77
+Section 3 Emergency Wound Management  81
+ 9 Evaluating and Preparing Wounds   Timothy J. Reeder 81
+ 10 Methods for Wound Closure   Corey R. Heitz 85
+ 11 Lacerations to The Face and Scalp   J. Hayes Calvert 96
+ 12 Injuries to the Arm, Hand, Fingertip, and Nail   John Pettey Sandifer 101
+ 13 Lacerations to the Leg and Foot   Moira Davenport 108
+ 14 Soft Tissue Foreign Bodies   Michael T. Fitch 112
+ 15 Puncture Wounds and Bites   Michael T. Fitch 115
+ 16 Postrepair Wound Care   Eugenia B. Quackenbush 121
+Section 4 Cardiovascular Diseases  125
+ 17 Chest Pain: Cardiac or Not   Andrew Nyce 125
+ 18  Acute Coronary Syndromes: Myocardial Infarction and Unstable 
+Angina   Maame Yaa A. B. Yiadom 131
+ 19 Cardiogenic Shock   Brian Hiestand 138
+ 20 Low-Probability Acute Coronary Syndrome   David A. Wald 141
+ 21 Syncope   Jo Anna Leuck 146
+ 22 Acute Heart Failure   Lori J. Whelan 149
+ 23 Valvular Emergencies   Boyd Burns 152
+ 24  The Cardiomyopathies, Myocarditis, and Pericardial Disease    
+Lorraine Thibodeau 160
+ 25 Venous Thromboembolism   Christopher Kabrhel 167
+ 26 Systemic and Pulmonary Hypertension   Michael Cassara 175
+ 27 Aortic Aneurysms and Aortic Dissection   David E. Manthey 181
+ 28 Arterial Occlusion   Carolyn K. Synovitz 187
+Section 5 Pulmonary Emergencies  191
+ 29 Respiratory Distress   Baruch S. Fertel 191
+ 30  Bronchitis, Pneumonia, and Novel Respiratory Infections    
+Jeffrey M. Goodloe 199
+ 31 Tuberculosis   Amy J. Behrman 204
+ 32 Spontaneous and Iatrogenic Pneumothorax   Mike Cadogan 208
+ 33 Hemoptysis   Nilesh Patel 211
+ 34 Asthma and Chronic Obstructive Pulmonary Disease   Stacey L. Poznanski 213
+00_Cydulka_FM.indd   5 03/05/17   2:16 pm
+
+Section 6 Gastrointestinal Emergencies  217
+ 35 Acute Abdominal Pain   Bryan E. Baskin 217
+ 36 Nausea and Vomiting   Jonathan A. Maisel 222
+ 37 Disorders Presenting Primarily with Diarrhea   Jonathan A. Maisel 225
+ 38 Acute and Chronic Constipation   Thomas E. Carter 233
+ 39 Gastrointestinal Bleeding   Mitchell C. Sokolosky 237
+ 40 Esophageal Emergencies   Mitchell C. Sokolosky 239
+ 41 Peptic Ulcer Disease and Gastritis   Teresa Bowen-Spinelli 244
+ 42 Pancreatitis and Cholecystitis   Rita K. Cydulka 247
+ 43 Acute Appendicitis   Charles E. Stewart 252
+ 44 Diverticulitis   James O’Neill 256
+ 45 Intestinal Obstruction and Volvulus   Olumayowa U. Kolade 259
+ 46 Hernia in Adults and Children   Louise Finnel 262
+ 47 Anorectal Disorders   Chad E. Branecki 265
+ 48 Jaundice, Hepatic Disorders, and Hepatic Failure   Cem Oktay 273
+ 49 Complications of General Surgical Procedures   Daniel J. Egan 282
+Section 7 Renal and Genitourinary Disorders  287
+ 50 Acute Kidney Injury   Sum Ambur 287
+ 51 Rhabdomyolysis   Annet Alenyo Ngabirano 292
+ 52 Emergencies in Renal Failure and Dialysis Patients   Jonathan A. Maisel 296
+ 53 Urinary Tract Infections and Hematuria   David R. Lane 299
+ 54 Acute Urinary Retention   Casey Glass 303
+ 55 Male Genital Problems   Gavin R. Budhram 306
+ 56 Urologic Stone Disease   Geetika Gupta 312
+ 57 Complications of Urologic Procedures and Devices   Steven Go 316
+Section 8 Gynecology and Obstetrics  319
+ 58  Vaginal Bleeding and Pelvic Pain in the Nonpregnant Patient    
+Joelle Borhart 319
+ 59  Ectopic Pregnancy and Emergencies in The First 20 Weeks of  
+Pregnancy   Robert Jones 323
+ 60 Comorbid Diseases in Pregnancy   Abigail D. Hankin 328
+ 61  Emergencies After 20 Weeks of Pregnancy and The Postpartum 
+Period   Kathleen Kerrigan 335
+ 62 Emergency Delivery   Stacie Zelman 340
+ 63 Vulvovaginitis   Robert R. Cooney 344
+ 64 Pelvic Inflammatory Disease   Abigail D. Hankin 347
+ 65 Complications of Gynecologic Procedures   Robert R. Cooney 350
+Section 9 Pediatrics  353
+ 66 Fever and Serious Bacterial Illness in Children   Todd P . Chang 353
+ 67 Common Neonatal Problems   Lance Brown 361
+ 68 Common Infections of the Ears, Nose, Neck, and Throat   Yu-Tsun Cheng 366
+ 69  Upper Respiratory Emergencies—Stridor and Drooling    
+Christopher S. Cavagnaro 372
+ 70 Wheezing in Infants and Children   Richard J. Scarfone 379
+ 71 Pneumonia in Infants and Children   Ameer P . Mody 385
+ 72 Pediatric Heart Disease   Garth D. Meckler 388
+ 73 Vomiting and Diarrhea in Infants and Children   Stephen B. Freedman 395
+ 74 Pediatric Abdominal Emergencies   Janet Semple-Hess 400
+ 75 Pediatric Urinary Tract Infections   Marie Waterhouse 407
+ 76 Seizures and Status Epilepticus in Children   Ara Festekjian 409
+ 77 Altered Mental Status and Headache in Children   Carlo Reyes 412
+ 78 Syncope and Sudden Death in Children and Adolescents   Derya Caglar 417
+vi Contents
+00_Cydulka_FM.indd   6 03/05/17   2:16 pm
+
+ 79  Hypoglycemia and Metabolic Emergencies in Infants and Children    
+Teresa J. Riech 420
+ 80 Diabetes in Children   Adam Vella 425
+ 81 Fluid and Electrolyte Therapy in Infants and Children   Ron L. Kaplan 428
+ 82 Musculoskeletal Disorders in Children   Mark X. Cicero 432
+ 83 Rashes in Children   Lance Brown 443
+ 84 Sickle Cell Anemia in Children   Ilene Claudius 455
+ 85 Hematologic-Oncologic Emergencies in Children   Ilene Claudius 461
+ 86 Renal Emergencies in Infants and Children   Saranya Srinivasan 468
+Section 10 Infectious and Immunologic Diseases  473
+ 87 Sexually Transmitted Infections   Jennifer L. Hannum 473
+ 88 Toxic Shock Syndromes   Sorabh Khandelwal 480
+ 89 Sepsis   John E. Gough 484
+ 90 Soft Tissue Infections   Jon Femling 491
+ 91 Serious Viral Infections   Matthew J. Scholer 497
+ 92 HIV Infection and AIDS   Sarah Battistich 505
+ 93 Infective Endocarditis   Kristin M. Berona 513
+ 94 Tetanus and Rabies   Michael T. Fitch 517
+ 95 Malaria   Jennifer L. Hannum 523
+ 96 Foodborne and Waterborne Diseases   Benjamin Weston 527
+ 97 Zoonotic Infections   David Gordon 531
+ 98 World Travelers   Bret A. Nicks 540
+ 99 The Transplant Patient   Sarah E. Unterman 546
+Section 11 Toxicology and Pharmacology  555
+ 100 General Management of the Poisoned Patient   L. Keith French 555
+ 101 Anticholinergic Toxicity   O. John Ma 564
+ 102 Psychopharmacologic Agents Shan Yin  566
+ 103 Sedatives and Hypnotics   Shan Yin 574
+ 104 Alcohols   Michael Levine 580
+ 105 Drugs of Abuse   D. Adam Algren 584
+ 106 Analgesics   Joshua N. Nogar 591
+ 107 Xanthines and Nicotine   Robert J. Hoffman 598
+ 108 Cardiac Medications   Michael Levine 602
+ 109 Anticonvulsants   Robert J. Hoffman 613
+ 110 Iron   O. John Ma 617
+ 111 Hydrocarbons and Volatile Substances   Allyson A. Kreshak 621
+ 112 Caustics   Jennifer Cullen 624
+ 113 Pesticides   Charles W. O’Connell 626
+ 114 Metals and Metalloids   D. Adam Algren 631
+ 115 Industrial Toxins   Landen Rentmeester 637
+ 116 Vitamins and Herbals   Janna H. Villano 643
+ 117 Dyshemoglobinemias   Chulathida Chomchai 646
+Section 12 Environmental Injuries  649
+ 118 Cold Injuries   Gerald (Wook) Beltran 649
+ 119 Heat Emergencies   Eric Kraska 655
+ 120 Bites and Stings   Michael Levine 658
+ 121 Trauma and Envenomation from Marine Fauna   Christian A. Tomaszewski 666
+ 122 High-Altitude Disorders   Shaun D. Carstairs 670
+ 123 Dysbarism and Complications of Diving   Christian A. Tomaszewski 673
+ 124 Near Drowning   Richard A. Walker 675
+ 125 Thermal and Chemical Burns   Sandra L. Werner 678
+ 126 Electrical and Lightning Injuries   Norberto Navarrete 686
+Contents vii 
+00_Cydulka_FM.indd   7 03/05/17   2:16 pm
+
+ 127 Carbon Monoxide   Jon B. Cole 692
+ 128 Mushroom and Plant Poisoning   Chulathida Chomchai 695
+Section 13 Endocrine Emergencies  701
+ 129 Diabetic Emergencies   Michael P . Kefer 701
+ 130 Alcoholic Ketoacidosis   Michael P . Kefer 709
+ 131 Thyroid Disease Emergencies   Aziz Darawsha 711
+ 132 Adrenal Insufficiency   Michael P . Kefer 715
+Section 14 Hematologic and Oncologic Emergencies  719
+ 133 Evaluation of Anemia and the Bleeding Patient   Rita K. Cydulka 719
+ 134 Acquired Bleeding Disorders   Alisheba Hurwitz 726
+ 135 Hemophilias and von Willebrand Disease   Colin G. Kaide 729
+ 136 Sickle Cell Disease and Other Hereditary Hemolytic Anemias   Colleen Fant 734
+ 137 Transfusion Therapy   Özlem Köksal 739
+ 138 Anticoagulants, Antiplatelet Agents, and Fibrinolytics   Jessica L. Smith 745
+ 139 Emergency Complications of Malignancy   Ross J. Fleischman 751
+Section 15 Neurology  759
+ 140 Headache   Steven Go 759
+ 141  Stroke Syndromes and Spontaneous Subarachnoid Hemorrhage    
+Steven Go 765
+ 142 Altered Mental Status and Coma   C. Crawford Mechem 775
+ 143 Ataxia and Gait Disturbances   Ross J. Fleischman 781
+ 144 Acute Vertigo   Steven Go 784
+ 145 Seizures and Status Epilepticus in Adults   C. Crawford Mechem 792
+ 146 Acute Peripheral Neurologic Lesions   Nicholas E. Kman 796
+ 147 Chronic Neurologic Disorders   Michael T. Fitch 800
+ 148 Central Nervous System and Spinal Infections   Michael T. Fitch 806
+Section 16 Eye, Ear, Nose, Throat, and Oral Emergencies  813
+ 149 Eye Emergencies   Steven Go 813
+ 150 Face and Jaw Emergencies   Jeffrey G. Norvell 826
+ 151 Ear, Nose, and Sinus Emergencies   Michael E. Vrablik 831
+ 152 Oral and Dental Emergencies   Steven Go 838
+ 153 Neck and Upper Airway Disorders   Rebecca Kornas 845
+Section 17 Disorders of the Skin  851
+ 154 Dermatologic Emergencies   Jason P . Stopyra 851
+ 155 Other Dermatologic Disorders   Jason P . Stopyra 856
+Section 18 Trauma  865
+ 156 Trauma in Adults   Rita K. Cydulka 865
+ 157 Trauma in Children   Matthew Hansen 869
+ 158 Trauma in the Elderly   O. John Ma 873
+ 159 Trauma in Pregnancy   John Ashurst 877
+ 160 Head Trauma   O. John Ma 880
+ 161 Spine Trauma   Jeffrey Dan 886
+ 162 Facial Injuries   Gerald (Wook) Beltran 892
+ 163 Neck Injuries   Steven Go 897
+ 164 Cardiothoracic Injuries   Paul Nystrom 903
+ 165 Abdominal Injuries   O. John Ma 909
+ 166 Penetrating Trauma to The Flank and Buttocks   Sum Ambur 914
+ 167 Genitourinary Injuries   Thomas Dalton 916
+viii Contents
+00_Cydulka_FM.indd   8 03/05/17   2:16 pm
+
+ 168 Trauma to The Extremities   Amy M. Stubbs 920
+Section 19 Injuries to the Bones, Joints, and Soft Tissue  923
+ 169  Initial Evaluation and Management of Orthopedic Injuries    
+Gregory M. Johnston 923
+ 170 Hand and Wrist Injuries   Robert R. Cooney 929
+ 171 Forearm and Elbow Injuries   Sandra L. Najarian 934
+ 172 Shoulder and Humerus Injuries   Sandra L. Najarian 942
+ 173 Pelvis, Hip, and Femur Injuries   Jeffrey G. Norvell 949
+ 174 Knee and Leg Injuries   Sandra L. Najarian 956
+ 175 Ankle and Foot Injuries   Sarah Elisabeth Frasure 961
+ 176 Compartment Syndrome   Sandra L. Najarian 966
+Section 20 Nontraumatic Musculoskeletal Disorders  969
+ 177 Neck and Back Pain   Amy M. Stubbs 969
+ 178 Shoulder Pain   Andrew D. Perron 975
+ 179 Hip and Knee Pain   Augusta Czysz 979
+ 180 Acute Disorders of The Joints and Bursae   Andrew D. Perron 983
+ 181 Emergencies in Systemic Rheumatic Diseases   Nicholas Genes 988
+ 182 Nontraumatic Disorders of The Hand   Michael P . Kefer 995
+ 183 Soft Tissue Problems of The Foot   Gavin R. Budhram 998
+Section 21 Psychosocial Disorders  1003
+ 184 Clinical Features of Behavioral Disorders   Leslie S. Zun 1003
+ 185  Emergency Assessment and Stabilization of Behavioral Disorders    
+Leslie S. Zun 1007
+ 186 Panic and Conversion Disorders   Kimberly Nordstrom 1010
+Section 22 Abuse and Assault  1013
+ 187 Child and Elderly Abuse   Jonathan Glauser 1013
+ 188  Sexual Assault and Intimate Partner Violence and Abuse   Mary Hancock 1016
+Section 23 Special Situations  1021
+ 189 Palliative Care   Kate Aberger 1021
+Index 1025
+Contents ix 
+00_Cydulka_FM.indd   9 03/05/17   2:16 pm

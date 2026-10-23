@@ -1,0 +1,343 @@
+[
+  {
+    "id": "cardiac-arrest",
+    "topic": "Cardiac Arrest",
+    "medicalSystem": "critical-care",
+    "examPearls": [
+      "VF and pulseless VT are shockable.",
+      "CPR quality and early defibrillation are essential.",
+      "Search Hs & Ts."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "AHA/ACLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "shock-approach",
+    "topic": "Shock Approach",
+    "medicalSystem": "critical-care",
+    "examPearls": [
+      "Classify shock using history, examination and ultrasound when available.",
+      "Persistent shock requires cause-directed therapy."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "sepsis-septic-shock",
+    "topic": "Sepsis / Septic Shock",
+    "medicalSystem": "infectious-disease",
+    "examPearls": [
+      "Early recognition improves outcome.",
+      "Lactate helps assess severity but must be interpreted clinically.",
+      "Source control is important."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-coronary-syndrome",
+    "topic": "Acute Coronary Syndrome",
+    "medicalSystem": "cardiovascular",
+    "examPearls": [
+      "ECG is an early critical test.",
+      "Consider alternative lethal causes of chest pain."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "AHA/ACLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "cardiac-tamponade",
+    "topic": "Cardiac Tamponade",
+    "medicalSystem": "cardiovascular",
+    "examPearls": [
+      "Beck triad: hypotension, JVD, muffled heart sounds.",
+      "Echocardiography is key diagnostic tool."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-asthma",
+    "topic": "Acute Asthma Exacerbation",
+    "medicalSystem": "respiratory",
+    "examPearls": [
+      "Silent chest may indicate severe airflow limitation.",
+      "Severity assessment guides treatment and escalation."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "copd-exacerbation",
+    "topic": "COPD Exacerbation",
+    "medicalSystem": "respiratory",
+    "examPearls": [
+      "Evaluate for hypercapnic respiratory failure.",
+      "NIV can reduce intubation need in selected patients.",
+      "Assess for respiratory failure."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pneumothorax",
+    "topic": "Pneumothorax / Tension Pneumothorax",
+    "medicalSystem": "respiratory",
+    "examPearls": [
+      "Tension pneumothorax is a clinical diagnosis.",
+      "Do not delay emergency treatment for imaging in unstable patients."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pulmonary-embolism",
+    "topic": "Pulmonary Embolism",
+    "medicalSystem": "respiratory",
+    "examPearls": [
+      "Shock in PE indicates high risk.",
+      "Consider alternative diagnoses."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "primary-trauma-survey",
+    "topic": "Primary Trauma Survey (ABCDE)",
+    "medicalSystem": "trauma",
+    "examPearls": [
+      "ABCDE approach comes before detailed diagnosis.",
+      "Life-threatening problems are treated when found."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "traumatic-brain-injury",
+    "topic": "Traumatic Brain Injury",
+    "medicalSystem": "trauma",
+    "examPearls": [
+      "Declining GCS is a major warning sign.",
+      "Always consider cervical spine injury."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine",
+      "ATLS"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-stroke",
+    "topic": "Acute Stroke",
+    "medicalSystem": "neurology",
+    "examPearls": [
+      "Time of onset is essential.",
+      "Glucose abnormality can mimic stroke."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "status-epilepticus",
+    "topic": "Status Epilepticus",
+    "medicalSystem": "neurology",
+    "examPearls": [
+      "Treat ongoing seizure activity immediately.",
+      "Search reversible causes."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "acute-abdominal-pain",
+    "topic": "Acute Abdominal Pain Approach",
+    "medicalSystem": "gastrointestinal",
+    "examPearls": [
+      "Unstable patients require resuscitation before definitive diagnosis.",
+      "Serial examination is important."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "gi-bleeding",
+    "topic": "GI Bleeding",
+    "medicalSystem": "gastrointestinal",
+    "examPearls": [
+      "Hemodynamic instability changes priorities.",
+      "Resuscitation precedes definitive procedure."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "dka-hhs",
+    "topic": "DKA / HHS",
+    "medicalSystem": "endocrinology",
+    "examPearls": [
+      "Potassium management is critical before insulin.",
+      "Treat precipitating cause.",
+      "DKA is associated with ketosis and acidosis.",
+      "HHS usually has marked hyperglycemia and dehydration."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "hyperkalemia",
+    "topic": "Hyperkalemia",
+    "medicalSystem": "endocrinology",
+    "examPearls": [
+      "ECG changes determine urgency.",
+      "Always consider renal failure and medications."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "hypoglycemia",
+    "topic": "Hypoglycemia",
+    "medicalSystem": "endocrinology",
+    "examPearls": [
+      "Treat immediately when suspected.",
+      "Neurologic symptoms may mimic stroke."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "opioid-overdose",
+    "topic": "Opioid Overdose",
+    "medicalSystem": "toxicology",
+    "examPearls": [
+      "Respiratory depression is the key danger.",
+      "Airway support remains essential."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "anaphylaxis",
+    "topic": "Anaphylaxis",
+    "medicalSystem": "critical-care",
+    "examPearls": [
+      "Epinephrine is first-line treatment.",
+      "Do not delay epinephrine in severe reactions."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "ectopic-pregnancy",
+    "topic": "Ectopic Pregnancy",
+    "medicalSystem": "obstetrics-gynecology",
+    "examPearls": [
+      "Always consider ectopic pregnancy in early pregnancy bleeding.",
+      "Hemodynamic instability requires urgent management."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  },
+  {
+    "id": "pediatric-fever",
+    "topic": "Pediatric Fever Approach",
+    "medicalSystem": "pediatrics",
+    "examPearls": [
+      "Age changes risk assessment.",
+      "Appearance and behavior are important."
+    ],
+    "references": [
+      "SEG Emergency Medicine Master Library (Parts 1-3)",
+      "Tintinalli's Emergency Medicine",
+      "Rosen's Emergency Medicine"
+    ],
+    "status": "under-review"
+  }
+]

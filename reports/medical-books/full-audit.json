@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-09-09T18:21:53.540Z",
+  "books": [
+    {
+      "id": "tintinalli-manual-8e",
+      "title": "Tintinalli's Emergency Medicine Manual",
+      "edition": 8,
+      "year": 2018,
+      "declaredPages": 1089,
+      "extractedPages": 1089,
+      "pageCountDelta": 0,
+      "emptyPages": 1,
+      "shortPagesUnder500Chars": 23,
+      "chaptersOrTopics": 189,
+      "expectedChapters": 189,
+      "detectedChapters": 189,
+      "validSha256": true,
+      "status": "under-review",
+      "jordanBoardApproval": "not-verified",
+      "summaryStatus": "pending",
+      "source": "D:\\New folder\\ER BOOKS\\Tintinalli’s Emergency Medicine Manual ( PDFDrive ).pdf",
+      "excludedFrontMatterPages": "1-19"
+    },
+    {
+      "id": "rosh-rotation-2019",
+      "title": "Emergency Medicine Rotation Exam - Rapid Review",
+      "edition": 1,
+      "year": 2019,
+      "declaredPages": 555,
+      "extractedPages": 555,
+      "pageCountDelta": 0,
+      "emptyPages": 0,
+      "shortPagesUnder500Chars": 313,
+      "chaptersOrTopics": 12,
+      "expectedChapters": null,
+      "detectedChapters": null,
+      "validSha256": true,
+      "status": "under-review",
+      "jordanBoardApproval": "not-verified",
+      "summaryStatus": "not-declared",
+      "source": "D:\\study\\Copy of Emergency-Medicine-FULL.pdf",
+      "excludedFrontMatterPages": "1-10"
+    },
+    {
+      "id": "rosen-barkin-5min",
+      "title": "Rosen & Barkin's 5-Minute Emergency Medicine Consult",
+      "edition": 5,
+      "year": 2015,
+      "declaredPages": 1335,
+      "extractedPages": 1335,
+      "pageCountDelta": 0,
+      "emptyPages": 0,
+      "shortPagesUnder500Chars": 8,
+      "chaptersOrTopics": 859,
+      "expectedChapters": null,
+      "detectedChapters": null,
+      "validSha256": true,
+      "status": "under-review",
+      "jordanBoardApproval": "not-verified",
+      "summaryStatus": "pending",
+      "source": "D:\\New folder\\ER BOOKS\\Rosen_&_Barkin’s_5_Minute_Emergency.pdf",
+      "excludedFrontMatterPages": null
+    }
+  ],
+  "notes": [
+    "Extracted page text is preserved source material, not a clinical summary.",
+    "All books remain under-review and Jordanian Board approval is not verified.",
+    "Rosh summary chapters use the intake chapter boundaries (PDF pages 11–555); front matter pages 1–10 is excluded from chapter content.",
+    "Tintinalli summary chapters use the intake chapter boundaries (PDF pages 20 onward); notice, contributors and preface pages 1–19 is excluded from chapter content.",
+    "Rosen & Barkin source summaries use embedded chapter XML identifiers; the legacy OCR heading index (859 headings) is retained only for traceability and is not presented as 859 medical summaries."
+  ]
+}

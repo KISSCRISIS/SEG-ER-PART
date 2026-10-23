@@ -1,0 +1,105 @@
+=== archive entries mentioning review/governance/rights/signature/approval ===
+-- /home/ubuntu/upload/SEGFinalSourceValidationandFileReview.zip --
+01_landing_reference_vs_implementation.png
+02_registration_reference_vs_implementation.png
+03_login_reference_vs_implementation.png
+04_dashboard_reference_vs_implementation.png
+SEG_Dashboard_MyHome_Approved_Reference.png
+SEG_FINAL_VISUAL_REFERENCE_PACKAGE_COMPLETE_v1.3.txt
+SEG_INTERNAL_WAVE_REFERENCE_MAPPING.md
+SEG_LOGIN_FINAL_REFERENCE_READONLY_AUDIT.md
+SEG_Landing_Reference.png
+SEG_Learn_Approved_Reference.png
+SEG_Login_Screen_Hero_Reference.png
+SEG_MedicalJournal_Reference.png
+SEG_MedicalJournal_Reference_Final.png
+SEG_MyPathway_Approved_Reference.png
+SEG_PHASE1_REFERENCE_VS_IMPLEMENTATION_CONTACT_SHEET.png
+SEG_Practice_Visual_Reference.png
+SEG_REGISTRATION_REFERENCE_AUDIT.md
+SEG_Registration_Reference.png
+crop_seg_landing_reference.py
+crop_seg_login_reference.py
+production-screen-references-contact-sheet.jpg
+reference-v1.3-contact-sheet.jpg
+seg-phase1-reference-observations.md
+strict-reference-fidelity.skill
+-- /home/ubuntu/SEG_TRANSFER_BUNDLE.zip --
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_MedicalJournal_Reference_Final.png
+project/SEG_INTERNAL_WAVE_REFERENCE_MAPPING.md
+project/SEG_LOGIN_FINAL_REFERENCE_READONLY_AUDIT.md
+project/SEG_REGISTRATION_REFERENCE_AUDIT.md
+=== current governance files ===
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_INTAKE_CHECKLIST.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_INTEGRATION_PLAN.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_LIBRARY_GOVERNANCE/GOVERNANCE_TEMPLATES.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_LIBRARY_GOVERNANCE/README.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_LIBRARY_GOVERNANCE/manifest.json
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_LIBRARY_GOVERNANCE/manifest.schema.json
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_LIBRARY_PLAN.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_LIBRARY_STRUCTURE_COMPLETION_REPORT.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_NEXT_STEPS.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_CONTENT_PREPARATION_VERIFICATION_REPORT.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_FINAL_CONTENT_PREPARATION_DECISION_REPORT.md
+SEG_PROJECT_CONTINUITY_PACKAGE/03_CONTENT_PREPARATION_STATE/SEG_FINAL_RECONCILIATION_REPORT.md
+=== signature/approval terms in current governance artifacts ===
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md:10:| Version Control | version, release date, SHA-256 checksum, supersedes/superseded-by | Any checksum change creates a new review event |
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md:11:| Rights Review | text license, image license, display scope, derivative-use limits, decision | Ambiguous rights block intake and publication |
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md:12:| Medical Review | reviewer, decision, reviewed date, next-review date, rationale | Only an explicit `approved` decision can pass the medical gate |
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md:13:| Audit Trail | actor, timestamp, event, reason, prior status, next status | Events are append-only and must be reproducible |
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md:14:| Taxonomy Mapping | taxonomy ID, taxonomy version, mapping rationale, reviewer | UI labels cannot substitute for medical taxonomy |
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md:18:`pending-intake`, `under-review`, `approved`, `rejected`, and `withdrawn`.
+SEG_CONTENT_LIBRARY/03_MEDICAL_GOVERNANCE/GOVERNANCE_TEMPLATES.md:22:A template is not a record. Do not place a source file, medical text, image, claim, citation, or reviewer decision in this directory until a separate governed intake command authorizes it.
+SEG_CONTENT_LIBRARY/manifest.schema.json:16:    "rights",
+SEG_CONTENT_LIBRARY/manifest.schema.json:19:    "audit"
+SEG_CONTENT_LIBRARY/manifest.schema.json:63:      "required": ["value", "checksum"],
+SEG_CONTENT_LIBRARY/manifest.schema.json:67:        "checksum": {
+SEG_CONTENT_LIBRARY/manifest.schema.json:91:    "rights": {
+SEG_CONTENT_LIBRARY/manifest.schema.json:114:      "required": ["reviewer", "decision"],
+SEG_CONTENT_LIBRARY/manifest.schema.json:116:        "reviewer": { "type": "string", "minLength": 1 },
+SEG_CONTENT_LIBRARY/manifest.schema.json:119:          "enum": ["draft", "under_review", "approved", "rejected", "withdrawn"]
+SEG_CONTENT_LIBRARY/manifest.schema.json:121:        "reviewed_at": { "type": "string", "format": "date-time" },
+SEG_CONTENT_LIBRARY/manifest.schema.json:125:    "audit": {
+SEG_CONTENT_INTAKE_CHECKLIST.md:14:| No source mutation during intake | Before/after checksum evidence | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:16:## Provenance and version
+SEG_CONTENT_INTAKE_CHECKLIST.md:22:| SHA-256 recorded | Checksum for each source file or immutable package | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:30:| Claim-to-reference mapping available | Mapping record or annotation supplied by the reviewer | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:33:## Rights and display scope
+SEG_CONTENT_INTAKE_CHECKLIST.md:37:| Text rights documented | License, permission, or usage basis | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:38:| Image rights documented | License, permission, or usage basis for each visual | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:46:| Medical reviewer assigned | Named accountable reviewer | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:47:| Medical decision recorded | Draft, under review, approved, rejected, or withdrawn | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:50:| Learning-track mapping reviewed | Mapping decision without changing existing tracks | Not started |
+SEG_CONTENT_INTAKE_CHECKLIST.md:52:## Audit and import gate
+SEG_CONTENT_INTAKE_CHECKLIST.md:60:| Approved-record gate passed | All required sections complete and independently approved | Blocked |
+SEG_CONTENT_INTAKE_CHECKLIST.md:65:Stop the review and mark the package **blocked** if its owner or source cannot be established, the checksum is missing or changes unexpectedly, rights are unclear, references cannot be verified, a medical reviewer is not assigned, taxonomy conflicts with the governed taxonomy, audit events are incomplete, or the requested work would require changing routes, OAuth, the database, the Visual Freeze, or approved assets.
+SEG_CONTENT_INTEGRATION_PLAN.md:10:This plan defines how SEG can move from an empty content-preparation structure to a controlled, reversible integration of approved learning material. It does not import, transform, summarize, classify, or publish medical content. It does not modify the application until a separate implementation command is authorized.
+SEG_CONTENT_INTEGRATION_PLAN.md:14:The Visual Freeze, current Vite/Express architecture, protected `/dashboard` route, internal Dashboard anchors, Manus OAuth, database schema, approved asset registry, existing content library, and Medical Journal governed empty state remain unchanged.
+SEG_CONTENT_INTEGRATION_PLAN.md:23:| 1. READ_ONLY intake | Inspect metadata, provenance, version, checksum, rights, references, taxonomy, reviewer assignment, and audit fields | Intake checklist and findings | Source package is accessible | Missing fields are documented; source remains unchanged |
+SEG_CONTENT_INTEGRATION_PLAN.md:24:| 2. Rights and provenance review | Confirm publisher/owner, license, text usage, image usage, display scope, and source version | Rights decision record | Source identity is traceable | Rights are clear or the record is blocked |
+SEG_CONTENT_INTEGRATION_PLAN.md:25:| 3. Medical review | Qualified reviewer evaluates claims and assigns a decision and review date | Medical-review decision record | References and taxonomy are available | Record is approved, rejected, or held |
+SEG_CONTENT_INTEGRATION_PLAN.md:26:| 4. Governance registration | Register the record, checksum, references, taxonomy version, rights decision, and immutable audit events | Governed record in `under-review` or `approved` status | Prior gates have evidence | Decision is reproducible and auditable |
+SEG_CONTENT_INTEGRATION_PLAN.md:27:| 5. Separate implementation authorization | Authorize a narrowly scoped adapter or import implementation | Approved implementation command | Governance decision is complete | Scope, rollback, and test criteria are explicit |
+SEG_CONTENT_INTEGRATION_PLAN.md:28:| 6. Reversible adapter | Expose only `approved` records through an adapter while retaining the empty-state fallback | Adapter code and tests | Separate implementation authorization | Tests pass and rollback path is documented |
+SEG_CONTENT_INTEGRATION_PLAN.md:29:| 7. Controlled publication | Publish the approved source and evidence through the authorized repository/deployment workflow | Commit, report, and verification evidence | User confirms target and consequence | Local and remote state match and no boundaries changed |
+SEG_CONTENT_INTEGRATION_PLAN.md:33:Every candidate record must satisfy `SEG_CONTENT_LIBRARY/manifest.schema.json`. At minimum, the record must carry a stable ID, title, content type, language, source owner and location, version, SHA-256 checksum, references linked to supported claims, text and image rights, intended display scope, taxonomy ID and version, medical reviewer and decision, and audit events.
+SEG_CONTENT_INTEGRATION_PLAN.md:35:The source payload must remain immutable during intake. Any normalized or derived output must be a separate, traceable artifact and cannot replace the source. A withdrawn record cannot return to `approved` without a new documented decision.
+SEG_CONTENT_INTEGRATION_PLAN.md:41:`pending-intake` → `under-review` → `approved` or `rejected`.
+SEG_CONTENT_INTEGRATION_PLAN.md:43:`approved` → `withdrawn` is permitted when a governance decision requires removal. `withdrawn` → `approved` is not automatic and requires a new review and decision. Records lacking provenance, rights, references, taxonomy, medical review, or audit evidence remain blocked.
+SEG_CONTENT_INTEGRATION_PLAN.md:47:No application integration occurs during intake. After separate approval, an adapter may expose only records whose governance status is `approved`. The adapter must be additive, covered by tests, isolated from authentication and database changes unless separately authorized, and reversible. The existing Medical Journal empty state remains the fallback for unavailable or withdrawn records.
+SEG_CONTENT_INTEGRATION_PLAN.md:53:Before any external publication, run the repository safety audit, review the staged-file list, confirm that no secrets or prohibited artifacts are included, and obtain explicit confirmation for the target repository and branch. After publication, compare local and remote commit IDs, verify repository visibility, and record the exact commit and evidence.
+SEG_CONTENT_INTEGRATION_PLAN.md:59:The current project is **ready for Stage 1 READ_ONLY intake review** once a source package is supplied. It is **not ready for Stage 5 implementation authorization** and must not enter public medical-content integration until Medical Review and Copyright/Rights Review are complete.
+SEG_FINAL_RECONCILIATION_REPORT.md:13:No application code, route, Dashboard architecture, authentication, OAuth behavior, database schema, approved visual asset, Visual Freeze decision, or medical-content record was modified during this reconciliation.
+SEG_FINAL_RECONCILIATION_REPORT.md:15:> This document is a preparation checkpoint. It is not a medical review, a copyright determination, a clinical validation, or authorization to activate content in the application.
+SEG_FINAL_RECONCILIATION_REPORT.md:19:The repository source-of-truth map defines the following order: approved Visual Freeze records govern visual scope; Dashboard UX records govern the protected shell and anchors; the asset registry governs approved visual assets; `LAST_MANUS_STATE.md` governs current execution state; content-preparation decisions govern medical-content activation; architecture rules govern implementation boundaries; and change-control rules govern edits and releases.
+SEG_FINAL_RECONCILIATION_REPORT.md:33:The named external design-system directory `seg-design-system/` and the named file `SEG_AI_DESIGN_HANDOFF_v1.0_FINAL_CLEAN.md` were not present in the current repository. The available implementation authority is therefore the approved Visual Freeze decision and the existing global implementation in `client/src/index.css`, together with the frozen visual reports.
+SEG_FINAL_RECONCILIATION_REPORT.md:35:The current implementation preserves the frozen dark-glass navy visual language, cyan/teal hierarchy, focus-visible treatment, reduced-motion behavior, responsive layout rules, and approved asset usage. The absence of the named design-system handoff is recorded as a traceability gap, not repaired by inventing a new design system.
+SEG_FINAL_RECONCILIATION_REPORT.md:39:The approved `SEG_CONTENT_LIBRARY` directory tree exists with 27 directories and no imported content files. The preparation layer now contains only non-medical governance artifacts: a README, an empty manifest, and a schema that defines future record requirements. No PDF, HTML page, book, image, video, question bank, article, claim, lesson, module, flashcard, assessment, or clinical reference was added.
+SEG_FINAL_RECONCILIATION_REPORT.md:41:The Content Library is separated from application presentation paths. Records cannot be considered import-ready until source provenance, version, checksum, references, rights, taxonomy, medical-review decision, and audit events are complete. The `approved` state remains a separate decision gate, and the application must consume approved records only through a reversible adapter.
+SEG_FINAL_RECONCILIATION_REPORT.md:54:| Rights review | No rights package has been evaluated for newly supplied content. | Required before activation |
+SEG_FINAL_RECONCILIATION_REPORT.md:56:| Import adapter | No adapter or application integration was implemented. | Blocked pending separate approval |
+SEG_FINAL_RECONCILIATION_REPORT.md:69:| `SEG_CONTENT_INTAKE_CHECKLIST.md` | Provides the read-only completeness, rights, medical-review, taxonomy, and audit gates. |
+SEG_FINAL_RECONCILIATION_REPORT.md:76:The next permitted operation is a read-only audit of a separately supplied source package. Each source must be identifiable to an owner or publisher, have a stable version and SHA-256 checksum, document text and image rights, declare its intended display scope, identify references supporting its claims, map to a separately governed taxonomy, assign a medical reviewer, and include immutable audit events.
+SEG_FINAL_RECONCILIATION_REPORT.md:78:Only after those checks are complete may a separate approval authorize a reversible adapter. That implementation must be additive, testable, reversible, and restricted to records whose medical and rights status is explicitly `approved`. The existing governed empty state must remain the fallback.
+SEG_FINAL_RECONCILIATION_REPORT.md:82:**PRE-INTEGRATION BUILD READY.** The project is ready for a governed, read-only intake review of the available source package. **MEDICAL CONTENT INTEGRATION AND PUBLICATION REMAIN BLOCKED** until Medical Review, Copyright/Rights Review, source verification, taxonomy assignment, and an explicit implementation authorization are completed.

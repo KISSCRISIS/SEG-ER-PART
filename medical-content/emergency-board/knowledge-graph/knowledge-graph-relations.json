@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "phase": "4-E.1",
+  "purpose": "Allowed relationship types for the SEG Emergency Board Knowledge Graph. Schema only; no relationships are instantiated in this phase.",
+  "allowedRelations": [
+    {
+      "relationType": "HAS_SOURCE",
+      "from": "TOPIC_NODE",
+      "to": "SOURCE_NODE",
+      "description": "A canonical topic may be supported by a source in future mapping phases."
+    },
+    {
+      "relationType": "HAS_CONTENT",
+      "from": "TOPIC_NODE",
+      "to": "CONTENT_NODE",
+      "description": "A canonical topic may link to a content item in future mapping phases."
+    },
+    {
+      "relationType": "HAS_QUESTIONS",
+      "from": "TOPIC_NODE",
+      "to": "QUESTION_NODE",
+      "description": "A canonical topic may link to question nodes in future mapping phases."
+    },
+    {
+      "relationType": "BELONGS_TO",
+      "from": "CONTENT_NODE",
+      "to": "SOURCE_NODE",
+      "description": "A content item belongs to a source."
+    }
+  ],
+  "rules": {
+    "topicIdIsPrimaryKey": true,
+    "sourceIdIdentifiesSources": true,
+    "noDuplicateNodes": true,
+    "noInventedRelationships": true,
+    "contentMappingPerformed": false,
+    "bookMappingPerformed": false,
+    "qbankMappingPerformed": false,
+    "questionTopicAssignmentPerformed": false
+  }
+}

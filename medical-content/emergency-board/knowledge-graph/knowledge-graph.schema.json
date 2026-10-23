@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/emergency-board/knowledge-graph.schema.json",
+  "title": "SEG Emergency Board Knowledge Graph Core Schema",
+  "description": "Phase 4-E.1 schema-only graph contract. Defines node shapes without performing content mapping.",
+  "type": "object",
+  "required": ["schemaVersion", "phase", "nodeTypes"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "const": 1
+    },
+    "phase": {
+      "type": "string",
+      "const": "4-E.1"
+    },
+    "nodeTypes": {
+      "type": "object",
+      "required": ["TOPIC_NODE", "SOURCE_NODE", "CONTENT_NODE", "QUESTION_NODE"],
+      "additionalProperties": false,
+      "properties": {
+        "TOPIC_NODE": {
+          "$ref": "#/$defs/topicNode"
+        },
+        "SOURCE_NODE": {
+          "$ref": "#/$defs/sourceNode"
+        },
+        "CONTENT_NODE": {
+          "$ref": "#/$defs/contentNode"
+        },
+        "QUESTION_NODE": {
+          "$ref": "#/$defs/questionNode"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "topicId": {
+      "type": "string",
+      "pattern": "^EM_[A-Z0-9]+_[A-Z0-9_]+$",
+      "description": "Primary key from medical-content/emergency-board/topic-registry/topic-registry.json"
+    },
+    "sourceId": {
+      "type": "string",
+      "pattern": "^SRC_[A-Z0-9_]+$",
+      "description": "Source identifier from medical-content/emergency-board/metadata/source-registry.json"
+    },
+    "topicNode": {
+      "type": "object",
+      "required": ["topicId", "topicName", "system", "priority"],
+      "additionalProperties": false,
+      "properties": {
+        "topicId": {
+          "$ref": "#/$defs/topicId"
+        },
+        "topicName": {
+          "type": "string",
+          "minLength": 1
+        },
+        "system": {
+          "type": "string",
+          "minLength": 1
+        },
+        "priority": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "sourceNode": {
+      "type": "object",
+      "required": ["sourceId", "name", "category", "availability"],
+      "additionalProperties": false,
+      "properties": {
+        "sourceId": {
+          "$ref": "#/$defs/sourceId"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "availability": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "contentNode": {
+      "type": "object",
+      "required": ["contentId", "contentType", "sourceId", "topicId", "status"],
+      "additionalProperties": false,
+      "properties": {
+        "contentId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "contentType": {
+          "type": "string",
+          "enum": ["book-unit", "summary", "algorithm", "exam-pearl", "table", "high-yield-review"]
+        },
+        "sourceId": {
+          "$ref": "#/$defs/sourceId"
+        },
+        "topicId": {
+          "$ref": "#/$defs/topicId"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["draft", "needs-review", "under-review", "approved", "retired"]
+        }
+      }
+    },
+    "questionNode": {
+      "type": "object",
+      "required": ["questionId", "sourceId", "topicId", "difficulty", "status"],
+      "additionalProperties": false,
+      "properties": {
+        "questionId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sourceId": {
+          "$ref": "#/$defs/sourceId"
+        },
+        "topicId": {
+          "$ref": "#/$defs/topicId"
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": ["unclassified", "Easy", "Medium", "Hard"]
+        },
+        "status": {
+          "type": "string",
+          "enum": ["draft", "needs-review", "under-review", "approved", "retired"]
+        }
+      }
+    }
+  }
+}

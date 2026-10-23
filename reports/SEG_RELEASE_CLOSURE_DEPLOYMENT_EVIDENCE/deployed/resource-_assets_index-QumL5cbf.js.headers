@@ -1,0 +1,11 @@
+HTTP/2 200 
+date: Sat, 22 Aug 2026 20:52:15 GMT
+content-type: text/javascript; charset=utf-8
+content-length: 575851
+cache-control: max-age=7776000
+x-manus-proxy-mode: transparent-assets/1
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: a2f4c298b90ffcf6-SIN
+

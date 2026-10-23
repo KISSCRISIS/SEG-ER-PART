@@ -1,0 +1,55 @@
+data_rows=115
+columns=Source ID|File name|Type|Module|Topic|Pathway location|Review status|Duplicate status
+field_presence=Source ID:present;File name:present;Type:present;Module:present;Topic:present;Pathway location:present;Review status:present;Duplicate status:present
+[Type]
+tsx	56
+md	45
+txt	5
+ts	5
+pdf	4
+[Module]
+OBGYN	22
+Internal Medicine	16
+Pediatrics	16
+Surgery	16
+Source / Other	14
+Emergency Basics	11
+Drug Essentials	6
+Start Here	5
+Assessment & Logbook	3
+Toxicology	3
+OSCE	2
+ECG	1
+[Pathway location]
+01 — CORE ROTATIONS/OBGYN	22
+01 — CORE ROTATIONS/Internal Medicine	16
+01 — CORE ROTATIONS/Pediatrics	16
+01 — CORE ROTATIONS/Surgery	16
+Content Source Layer	14
+02 — CLINICAL FOUNDATION/Emergency Basics	11
+02 — CLINICAL FOUNDATION/Drug Essentials	6
+04 — ASSESSMENT & LOGBOOK	5
+00 — START HERE	5
+02 — CLINICAL FOUNDATION/Toxicology	3
+02 — CLINICAL FOUNDATION/ECG	1
+[Review status]
+Needs review / verify	115
+[Duplicate status]
+Check required	115
+[duplicate_group_candidates_by_module_topic_type]
+('Drug Essentials', 'README', 'txt')	count=2	ids=SRC-0025,SRC-0029
+('Drug Essentials', 'drug_essentials_intern_level_v2', 'md')	count=2	ids=SRC-0023,SRC-0027
+('Drug Essentials', 'implementation_notes', 'md')	count=2	ids=SRC-0024,SRC-0028
+('Emergency Basics', 'README', 'txt')	count=2	ids=SRC-0035,SRC-0039
+('Emergency Basics', 'emergency_cases_intern_level', 'md')	count=2	ids=SRC-0033,SRC-0037
+('Emergency Basics', 'implementation_notes', 'md')	count=2	ids=SRC-0034,SRC-0038
+('Emergency Basics', 'page', 'tsx')	count=3	ids=SRC-0098,SRC-0104,SRC-0106
+('Internal Medicine', 'page', 'tsx')	count=10	ids=SRC-0050,SRC-0053,SRC-0115,SRC-0117,SRC-0119,SRC-0121,SRC-0123,SRC-0125,SRC-0126,SRC-0128
+('OBGYN', 'page', 'tsx')	count=16	ids=SRC-0055,SRC-0058,SRC-0131,SRC-0133,SRC-0135,SRC-0137,SRC-0139,SRC-0141,SRC-0143,SRC-0145,SRC-0146,SRC-0148,SRC-0150,SRC-0152,SRC-0154,SRC-0156
+('Pediatrics', 'page', 'tsx')	count=9	ids=SRC-0062,SRC-0065,SRC-0160,SRC-0162,SRC-0164,SRC-0166,SRC-0167,SRC-0169,SRC-0171
+('Source / Other', 'README', 'md')	count=3	ids=SRC-0015,SRC-0020,SRC-0092
+('Source / Other', '_manifest', 'md')	count=2	ids=SRC-0072,SRC-0083
+('Source / Other', 'page', 'tsx')	count=5	ids=SRC-0059,SRC-0100,SRC-0102,SRC-0109,SRC-0157
+('Start Here', 'page', 'tsx')	count=2	ids=SRC-0108,SRC-0189
+('Surgery', 'page', 'tsx')	count=10	ids=SRC-0085,SRC-0088,SRC-0174,SRC-0176,SRC-0177,SRC-0179,SRC-0181,SRC-0183,SRC-0185,SRC-0187
+[duplicate_group_candidates_by_filename]

@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-09-09T00:31:19.326Z",
+  "banks": [
+    {
+      "file": "frcem-question-bank.jsonl",
+      "source": "frcem",
+      "count": 1529,
+      "missingRequiredFields": 7
+    },
+    {
+      "file": "hippo-question-bank.jsonl",
+      "source": "hippo",
+      "count": 1927,
+      "missingRequiredFields": 1921
+    },
+    {
+      "file": "oxford-sce-question-bank.jsonl",
+      "source": "oxford-sce",
+      "count": 356,
+      "missingRequiredFields": 0
+    },
+    {
+      "file": "rosen-10e-question-bank.jsonl",
+      "source": "rosen-10e",
+      "count": 1044,
+      "missingRequiredFields": 0
+    },
+    {
+      "file": "tintinalli-9e-question-bank.jsonl",
+      "source": "tintinalli-9e",
+      "count": 756,
+      "missingRequiredFields": 0
+    }
+  ],
+  "total": 5612,
+  "duplicateQuestionRecords": 38,
+  "canonicalFields": [
+    "Question",
+    "Options",
+    "CorrectAnswer",
+    "EnglishExplanation",
+    "ArabicExplanation",
+    "Source",
+    "Page",
+    "Chapter",
+    "Category",
+    "Difficulty",
+    "ClinicalScenario"
+  ]
+}

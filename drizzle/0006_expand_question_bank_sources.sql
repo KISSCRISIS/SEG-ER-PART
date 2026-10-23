@@ -1,0 +1,2 @@
+ALTER TABLE `residentQuestionAttempts`
+  MODIFY COLUMN `family` enum('FRCEM','HIPPO','OXFORD_SCE','ROSEN_10E','TINTINALLI_9E') NOT NULL;

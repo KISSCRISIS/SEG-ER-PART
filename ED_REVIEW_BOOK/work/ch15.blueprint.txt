@@ -1,0 +1,408 @@
+[PEER-PHYS PEER-renal-q-1] A 75-year-old man with a history of hypertension and benign prostatic hyperplasia presents with nausea and generalized malaise. He has had a decreased urinary stream over the past 1 to 2 weeks and mild lower abdominal pain. Vital signs: BP 140/90, P 85, R 16, T 37.2°C. K 4.7, BUN 70, Cr 5.2. What is the most appropriate initial management?
+    ANSWER: Foley catheter insertion   (key B)
+[PEER-PHYS PEER-renal-q-2] Which finding warrants emergent renal replacement therapy in a patient with acute kidney injury?
+    ANSWER: Hyperkalemia >6.5 mmol/L   (key B)
+[PEER-PHYS PEER-renal-q-3] Which diagnostic study is warranted in a patient with newly diagnosed asymptomatic acute kidney injury?
+    ANSWER: Renal ultrasound   (key D)
+[PEER-PHYS PEER-renal-q-4] A 65-year-old man presents with low blood pressure after a hemodialysis session. No chest pain, fever, melena, or hematemesis. BP 85/52, P 92. Appears well. What is the most likely cause?
+    ANSWER: Excessive ultrafiltration   (key A)
+[PEER-PHYS PEER-renal-q-5] A 36-year-old man on peritoneal dialysis presents with fever and abdominal pain. Effluent was 'cloudy'. What is the most common cause of this condition?
+    ANSWER: Staphylococcus epidermidis   (key D)
+[PEER-PHYS PEER-renal-q-6] A 7-year-old girl presents with periorbital swelling and dark brown-appearing urine. Sore throat 2 weeks ago. BP 135/85. What is the most likely diagnosis?
+    ANSWER: Glomerulonephritis   (key B)
+[PEER-PHYS PEER-renal-q-7] An 18-year-old woman presents with bilateral lower extremity swelling and periorbital puffiness. Albumin 2.1 g/dL, Cr 1.9, urinalysis 2+ protein. For which condition is this patient at risk?
+    ANSWER: Thromboembolic event   (key C)
+[PEER-PHYS PEER-renal-q-8] A 22-year-old woman at 9 weeks pregnant presents with lower abdominal pain and dysuria. UA positive for LE, nitrites, bacteria, 25 WBCs/hpf. What is the appropriate treatment?
+    ANSWER: Cephalexin 500 mg PO four times daily for 10 days   (key B)
+[PEER-PHYS PEER-renal-q-9] A 21-year-old woman with 3rd UTI episode in 6 weeks, vaginal discharge, no fever. Wet mount and KOH normal. What is the appropriate treatment?
+    ANSWER: Single dose ceftriaxone and doxycycline for 7 days   (key B)
+[PEER-PHYS PEER-renal-q-10] A 6-day-old girl presents with fever (T 39.5°C), P 200, R 50. UA via straight cath: nitrites, 51-100 WBC, 4+ bacteria. What is the most appropriate antibiotic treatment?
+    ANSWER: Ampicillin and gentamicin IV   (key A)
+[PEER-PHYS PEER-renal-q-11] A 43-year-old woman presents with dysuria, fever, mild right flank pain, and nausea. What is the most appropriate initial step in management?
+    ANSWER: Obtain a urinalysis   (key B)
+[PEER-PHYS PEER-renal-q-12] According to the CMS Sepsis Bundle, which is unnecessary for the CMS 3-hr bundle for a patient with suspected urosepsis?
+    ANSWER: Urine culture   (key D)
+[PEER-PHYS PEER-renal-q-13] What is the most common cause of septic shock in pregnancy?
+    ANSWER: Pyelonephritis   (key D)
+[PEER-PHYS PEER-renal-q-14] A pregnant patient with malodorous urine, negative nitrites, positive LE, positive bacteria, positive pregnancy. What is the next appropriate step?
+    ANSWER: Obtain a urine culture and prescribe antibiotics   (key C)
+[PEER-PHYS PEER-renal-q-15] What is an appropriate treatment for the painless lesion shown (syphilitic chancre)?
+    ANSWER: Penicillin G benzathine IM   (key C)
+[PEER-PHYS PEER-renal-q-16] A patient presents for evaluation of a known inguinal hernia. Which clinical finding would warrant emergent surgical consultation?
+    ANSWER: Overlying erythema   (key B)
+[PEER-PHYS PEER-renal-q-17] A 25-year-old man presents with his fourth episode of balanoposthitis in 6 months. After initiating treatment, which test is indicated?
+    ANSWER: Fingerstick blood glucose   (key B)
+[PEER-PHYS PEER-renal-q-18] A 47-year-old uncircumcised man presents with tender swollen glans and foreskin, excoriated with purulent foul-smelling discharge. What is the most likely diagnosis?
+    ANSWER: Balanoposthitis   (key A)
+[PEER-PHYS PEER-renal-q-19] What condition does the picture (inflammation of glans and foreskin) depict?
+    ANSWER: Balanoposthitis   (key A)
+[PEER-PHYS PEER-renal-q-20] A 19-year-old man with fever, facial swelling 1 week ago, right testicular swelling and pain for 2 days. What is the most likely cause?
+    ANSWER: Paramyxovirus/mumps   (key D)
+[PEER-PHYS PEER-renal-q-21] A 74-year-old man not sexually active with testicular pain and posterior testes tender/swollen. No discharge, normal cremasteric reflex. What is the appropriate treatment?
+    ANSWER: Levofloxacin   (key D)
+[PEER-PHYS PEER-renal-q-22] What is the strongest risk factor for developing perineal (Fournier) gangrene?
+    ANSWER: Diabetes mellitus   (key B)
+[PEER-PHYS PEER-renal-q-23] A 59-year-old man with cirrhosis and diabetes presents with fever and perineal pain. Exquisite tenderness, redness, tense edema, warmth. Which additional finding indicates Fournier gangrene?
+    ANSWER: Gas in the scrotal wall   (key C)
+[PEER-PHYS PEER-renal-q-24] A 65-year-old man with low back pain, chills, dysuria, malaise. Tender boggy prostate on exam. What is the appropriate treatment regimen?
+    ANSWER: Ciprofloxacin PO for 30 days   (key C)
+[PEER-PHYS PEER-renal-q-25] A patient with penile discharge and left testicular pain for 12 hours. Unprotected sex with men. Tender left testicle improved with elevation, normal cremasteric reflex. What medications should be administered?
+    ANSWER: Ceftriaxone 500 mg IM and levofloxacin 500 mg PO twice daily for 10 days   (key C)
+[PEER-PHYS PEER-renal-q-26] A sexually active 24-year-old man presents with dysuria and penile discharge. What is the best pharmacotherapy?
+    ANSWER: Single dose of ceftriaxone and 7 days of doxycycline   (key D)
+[PEER-PHYS PEER-renal-q-27] What is the condition pictured (retracted foreskin that cannot be pulled back over the glans)?
+    ANSWER: Paraphimosis   (key C)
+[PEER-PHYS PEER-renal-q-28] What is the most likely complication of untreated priapism?
+    ANSWER: Impotence   (key A)
+[PEER-PHYS PEER-renal-q-29] Which medication is known to cause priapism?
+    ANSWER: Trazodone   (key D)
+[PEER-PHYS PEER-renal-q-30] A 43-year-old man with an erection of 6 hours' duration. Itchy rash 1 day, took diphenhydramine. On medication for depression. What is the likely etiology of his priapism?
+    ANSWER: Antidepressant   (key A)
+[PEER-PHYS PEER-renal-q-31] A 10-year-old boy with acute-onset abdominal and groin pain for 6 hours. Tender swollen left testis. No urethral discharge. What is the best next step?
+    ANSWER: Perform lateral rotation of the testis   (key B)
+[PEER-PHYS PEER-renal-q-32] In an otherwise healthy young adult, what is the most likely diagnosis for a 1-cm painless, firm, nodular testicular mass that does not transilluminate?
+    ANSWER: Germ-cell tumor   (key B)
+[PEER-PHYS PEER-renal-q-33] A 17-year-old with firm painless left testis mass. Urine hCG positive. What is the most likely etiology?
+    ANSWER: Germ cell tumor   (key A)
+[PEER-PHYS PEER-renal-q-34] A 4-year-old girl with fever, N/V, diarrhea 3 days. BP 190/104, K 5.4, BUN 65, Cr 4.1, Hgb 6, Hct 18.6, stool hemoccult positive. What is the most likely cause?
+    ANSWER: Escherichia coli 0157:H7   (key A)
+[PEER-PHYS PEER-renal-q-35] Which laboratory finding distinguishes acquired hemolytic uremic syndrome from DIC?
+    ANSWER: Normal coagulation studies   (key C)
+[PEER-PHYS PEER-renal-q-36] What is the best approach to managing a pediatric patient with Escherichia coli-induced hemolytic uremic syndrome?
+    ANSWER: Fluid management   (key B)
+[PEER-PHYS PEER-renal-q-37] Which medication is associated with an elevated risk of ureteral calculi?
+    ANSWER: Indinavir   (key C)
+[PEER-PHYS PEER-renal-q-38] What medication is preferred to help with the expulsion of a ureteral stone larger than 5 mm?
+    ANSWER: Tamsulosin   (key D)
+[PEER-PHYS PEER-renal-q-39] A pregnant patient with colicky right flank pain, urine 100 RBCs/hpf, 500 WBCs/hpf with nitrates, hydronephrosis on US. What is the appropriate management?
+    ANSWER: Admit with urology consultation   (key A)
+[PEER-PHYS PEER-renal-q-40] What is the most common misdiagnosis in a patient presenting with an expanding or rupturing abdominal aortic aneurysm?
+    ANSWER: Nephrolithiasis   (key B)
+[PEER-PHYS PEER-renal-q-41] Which diagnostic test is the least sensitive and specific for diagnosing nephrolithiasis?
+    ANSWER: Abdominal x-ray   (key A)
+[PEER-PHYS PEER-renal-q-42] A 70-year-old man with left flank pain, BP 100/50, P 120, T 38.3°C. CT: 5-mm mid-ureteral stone. UA: nitrites, 4+ bacteria, WBC 50-100/hpf. What is the most appropriate management?
+    ANSWER: Ceftriaxone IV and emergent urology consultation   (key A)
+[PEER-PHYS PEER-renal-q-43] Which characteristic is associated with an increased prevalence of kidney stones?
+    ANSWER: Caucasian race   (key A)
+[PEER-PHYS PEER-renal-q-44] What is the most common solute found in kidney stones?
+    ANSWER: Calcium   (key A)
+[PEER-PHYS PEER-renal-q-45] A 34-year-old man with family history of kidney problems and painless hematuria. US shows multiple cysts. Which serious complication is he at risk for?
+    ANSWER: Ruptured cerebral aneurysm   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-001] A 4-year-old boy is brought to the ED with shortness of breath. He had a recent sore throat that resolved, but has had dark urine and puffy eyes for the past few days. Lung auscultation reveals diffuse rales. Transthoracic echocardiogram shows a mild pericardial effusion. Vital signs are a T of 100.2°F (37.9°C), BP of 90/60 mm Hg, HR of 100 bpm, RR of 18/min, and SpO2 of 90% on room air.
+    ANSWER: Hemodialysis   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-002] Which one of the following overdoses is most commonly managed with dialysis?
+    ANSWER: Ethylene glycol   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-003] A 30-year-old man presents to the ED with left groin swelling and discomfort. He reports a history of unprotected sexual contact with multiple male partners. About 1 week ago, he noticed a small, painless, purplish ulcer on his penis that resolved on its own within a few days. Over the past 3 days, he has developed increasing pain and swelling in his left groin.
+    ANSWER: Lymphogranuloma venereum   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-004] A 36-year-old man presents to the ED with a painful erection for 14 hours. Workup in the emergency department reveals ischemic priapism. What is the first-line treatment for this patient?
+    ANSWER: Cavernosal aspiration of blood and injection of phenylephrine   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-005] A 19-year-old man presents to the emergency department with acute dysuria 3 days after a weekend of heavy drinking. He had sexual intercourse with three different women during this weekend of partying. Examination reveals yellow discharge from the urethral meatus. Which of the following is the most likely diagnosis?
+    ANSWER: Urethritis   (key E)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-006] Which of the following is the greatest risk factor for the development of contrast-associated acute kidney injury?
+    ANSWER: Kidney insufficiency   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-007] A 56-year-old man with a history of diabetes presents with penile and prepuce redness, swelling, and discharge as pictured above. The symptoms have been ongoing for several days. He reports worsening redness and pain and notes a mild odor that has not been present previously. What is the most appropriate treatment for this patient?
+    ANSWER: Topical clotrimazole cream   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-008] A 3-year-old girl is brought to the ED with a painless abdominal mass and hematuria. On physical exam, a unilateral right-sided abdominal mass is palpated inferior to the liver. Which of the following is the most appropriate initial diagnostic modality for the most likely condition?
+    ANSWER: Ultrasound of the kidney   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-009] A 16-year-old boy presents to the emergency department with painful urination and urethral discharge. He is sexually active. On exam, he has a urethral discharge when gentle pressure is applied proximally to the penile meatus. His testicular exam is normal. Which of the following is the most likely cause of his illness?
+    ANSWER: Neisseria gonorrhoeae   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-010] A 43-year-old man presents to the ED with urinary retention along with penile and abdominal pain. He reports that although he feels an urge to urinate, he has been unable to do so for the past 12 hours. He has no significant medical history and takes no medications. Vital signs are normal.
+    ANSWER: Hold firm pressure followed by manual reduction   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-011] A 37-year-old man with no significant medical history presents to the ED with sudden onset back pain radiating to his left groin. He reports dysuria and hematuria that began this morning. Vital signs are T 98.5ºF (36.9ºC), HR 103 bpm, RR 12/min, BP 125/85 mm Hg, SpO2 99% on room air. He appears uncomfortable and cannot sit still. A bedside ultrasound is obtained and is shown above.
+    ANSWER: Obstructive uropathy   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-012] A 22-year-old woman with no medical history presents with constant left-sided flank pain, worsened by hematuria today. She reports no fever, dysuria, or abdominal pain. Exam shows left costovertebral angle tenderness. CT scan reveals multiple small kidney and liver cysts but no kidney stones. Urinalysis shows 6–10 leukocytes, many red cells, few bacteria, and few squamous cells.
+    ANSWER: Excessive angiogenesis   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-013] A 61-year-old woman presents to the ED with shortness of breath, worsening for several days. She reports no chest pain. Her medical history includes type 2 diabetes mellitus and end-stage kidney disease, for which she undergoes hemodialysis 3 times weekly. She makes no urine at baseline and has missed her past two dialysis sessions due to transportation issues.
+    ANSWER: Initiate an IV nitroglycerin infusion and consult nephrology   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-014] A 19-year-old man presents with multiple painful ulcers on his penis. He also reports painful urination. Genital examination reveals multiple purulent-based, sharply defined, circular ulcers on the shaft of the penis and tender, enlarged, inguinal lymph nodes. Which of the following is the most appropriate treatment regimen?
+    ANSWER: A single dose of oral azithromycin   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-015] An 8-month-old boy has a painless swelling on the right side of his scrotum since birth that gets worse with crying. Transillumination of this side of the scrotum reveals increased fluid and the child does not cry on palpation of the testicle, which lies in its normal position. Which of the following is the most likely diagnosis, based on these findings?
+    ANSWER: Hydrocele   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-016] A 40-year-old woman returns to the emergency department with continued fever and flank pain after discharge 5 days ago with a diagnosis of pyelonephritis. She indicates she has been taking her antibiotics (levofloxacin) as directed. Vital signs show HR 104 bpm, BP 114/70 mm Hg, T 101.7℉ (38.7ºC), and RR 16/min.
+    ANSWER: Consult interventional radiology for percutaneous drainage of the abscess   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-017] A 73-year-old man with benign prostatic hyperplasia presents with a failure to void for 3 days and lower abdominal pain. Physical examination reveals lower abdominal distension and moderate tenderness to palpation. His blood urea nitrogen to creatinine is 20:1.6. What management is indicated?
+    ANSWER: Foley catheter placement   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-018] An 18-year-old sexually active man presents with testicular pain for 3 days. The pain is constant and accompanied by fever. Examination reveals a mildly tender right testicle with a normal lie and no urethral discharge. Urinalysis shows 2+ leukocyte esterase, negative nitrites, and 10–25 WBC/hpf. What treatment is indicated?
+    ANSWER: Ceftriaxone 500 mg intramuscular once and doxycycline 100 mg twice a day for 10 days   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-019] An 8-year-old girl presents to the ED with dark urine and swollen extremities. She is otherwise healthy outside of a recent sore throat. Which of the following laboratory tests will assist you in confirming the diagnosis?
+    ANSWER: Antistreptolysin O titer   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-020] A 20-year-old woman presents to the ED with eye swelling. She has a history of drug-induced lupus, depression, and chronic sinusitis. She reports no painful eye movements, fever, trauma, vision changes, or nasal congestion. Her vital signs are a T of 97.9°F (36.6°C), BP of 179/93 mm Hg, HR of 90 bpm, RR of 12/min, and SpO2 of 100% on room air. She has bilateral periorbital edema and hand edema.
+    ANSWER: Nephrotic syndrome   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-021] A 6-year-old girl is brought to the ED with malaise and lower extremity edema that has progressed over the last 2 days. Her urine has been very dark, but there has been no dysuria or fever. She was treated 1 week ago with amoxicillin for a fever and sore throat. On examination, she is afebrile with a BP of 125/75 mm Hg, HR of 105 bpm, RR of 20/min, and SpO2 of 99% on room air.
+    ANSWER: Fluid and salt restriction   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-022] Which of the following is the most common presentation of testicular cancer?
+    ANSWER: Palpable nontender testicular nodule   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-023] A 10-year-old boy presents to the emergency department with lower extremity swelling and dark urine for 1 day. According to his parent, he recently had streptococcal pharyngitis, but he completed his antibiotic treatment and seemed to be doing fine until this morning. He awoke early this morning with pain and tightness in his legs, and he noticed his urine was a different color.
+    ANSWER: Red cells and casts   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-024] A 29-year-old man presents with gradually worsening right testicular pain over the last 4 days. He is sexually active. On examination, his cremasteric reflex is normal. The testicle has a normal lie. There is tenderness focally over the epididymis. Which of the following tests should be performed next?
+    ANSWER: Gonorrhea and chlamydia testing   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-025] A 54-year-old man with a history of renal cell carcinoma status post right nephrectomy presents with acute left flank pain radiating to the groin. A CT scan of the abdomen and pelvis without contrast demonstrates a 5 mm stone in the proximal left ureter with moderate to severe hydronephrosis. His pain is well controlled and his urinalysis does not show evidence of infection.
+    ANSWER: Admission with urology consultation   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-026] A 5-year-old boy presents to the ED with a 3-day history of progressive swelling, particularly around his eyes, and abdominal distension. His parents report he has been otherwise well, with no recent fevers or illnesses. On examination, he is afebrile, with a blood pressure of 95/60 mm Hg, heart rate of 88 bpm, and respiratory rate of 20/min.
+    ANSWER: Minimal change disease   (key E)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-027] Which of the following examination findings is most suggestive of testicular torsion?
+    ANSWER: Absent cremasteric reflex   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-028] A 14-year-old boy presents to the ED with atraumatic scrotal swelling. He is well-appearing and afebrile. He is circumcised with no genital erythema or lesions. Which of the following will aid in confirming a hydrocele?
+    ANSWER: Illuminate the scrotum   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-029] An 18-month-old girl presents to the emergency department with a fever of 39°C. Her parents report decreased appetite but no vomiting or diarrhea. They report her urine smells foul. She appears ill but nontoxic, and the remainder of her examination is normal. Her urinalysis shows 2+ nitrites, 2+ leukocyte esterase, moderate bacteria, and white blood cells. A urine culture is pending.
+    ANSWER: Discharge home with oral cefpodoxime and close outpatient follow-up   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-030] A 12-year-old boy presents with penile pain. On exam, you note the image above. What management is indicated?
+    ANSWER: Manual reduction   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-031] A 6-year-old boy presents with swelling around the eyes that started 1 month ago. His vital signs are an HR of 80 bpm, BP of 140/90 mm Hg, RR of 18/min, and T of 98.8°F (37.1°C). On physical exam, he has bilateral periorbital edema, mild abdominal tenderness, and scrotal edema. You also notice bilateral pitting edema in the lower extremities.
+    ANSWER: Deep venous thrombosis   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-032] An 18-year-old man presents with painful swelling in his right groin. He reports the onset of painful lesions on his penis 7 days ago, followed by progressive enlargement of a tender groin mass. He is sexually active with multiple partners and does not consistently use condoms.
+    ANSWER: Haemophilus ducreyi   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-033] A 5-year-old boy presents to the ED with fatigue after having diarrhea and abdominal pain 5 days ago. On physical exam, he is noted to have pale conjunctiva. Lab tests reveal hemoglobin 7 g/dL, creatinine 1.6 mg/dL, and platelets 50,000/µL. Urinalysis shows proteinuria and hematuria. Which of the following is the most likely diagnosis?
+    ANSWER: Hemolytic uremic syndrome   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-034] A 20-year-old man presents to the ED with a fever, body aches, and painful penile lesions for the past week. He reports having unprotected intercourse several weeks ago and has had no similar lesions in the past. A physical exam reveals painful genital ulcers as shown in the picture above. Which of the following is the most appropriate treatment?
+    ANSWER: Acyclovir 400 mg three times daily for 10 days   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-035] A 69-year-old man presents to the emergency department with acute urinary retention for 14 hours. He reports a steadily decreasing stream and intermittent urinary hesitancy for several months, but thus far, he has refused to see a clinician for his symptoms. Presently, he has not had any urine output since yesterday.
+    ANSWER: Alpha-1 adrenergic antagonist   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-036] A 55-year-old man presents with perineal pain. He has a long-standing history of hypertension and uncontrolled diabetes. He states 2 days ago, he noticed a “zit” and redness on his inguinal area and scrotum. He was seen by a different clinician yesterday, who started him on an antibiotic for cellulitis. Today the patient states the pain is worse, and he is now having fevers and chills.
+    ANSWER: Emergency surgical consultation and broad-spectrum antibiotics   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-037] A 60-year-old man presents to the clinic with fever, chills, and low back and perineal pain for 1 day. His pain worsens with urination, and he has urinary frequency and incomplete voiding. Vital signs are a T of 100.2°F (37.8°C), BP of 120/78 mm Hg, HR of 110 bpm, and RR of 18 breaths/min. On examination, the abdomen is soft, with normoactive bowel sounds.
+    ANSWER: Oral ciprofloxacin twice a day for 4 weeks   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-038] A 60-year-old man presents to the emergency department with scrotal pain and swelling on the left side. He describes the pain as gradual in onset and progressively worsening over the past 2 days. He reports no recent trauma to the area, and he indicates he has not been sexually active for over 2 years.
+    ANSWER: Levofloxacin   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-039] A 21-year-old man presents to a rural emergency department with no available consulting specialties with severe testicular pain. His symptoms started suddenly 1 hour ago while jogging. He tried to control his pain with acetaminophen, ibuprofen, and oxycodone that he had left over from a previous surgical procedure, but he continues to have severe pain.
+    ANSWER: Perform manual detorsion   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-040] A 54-year-old man presents with abdominal pain, vomiting, and fever. Physical examination reveals an ill-appearing man with a mass in the right groin as seen above. Which of the following is the most immediate next step required?
+    ANSWER: Surgical consultation   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-041] Which of the following is a major extrarenal manifestation of polycystic kidney disease?
+    ANSWER: Cerebral aneurysm   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-042] What is the most common cause of pain related to testicular malignancies?
+    ANSWER: Intratumoral hemorrhage   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-043] An 18-year-old presents to the emergency department with severe pain in his penis. He indicates he has had some mild irritation to the glans and foreskin areas recently. After intercourse tonight he was unable to reduce the foreskin and now has severe pain in the tip of his penis. On examination, the penis is flaccid and the foreskin is retracted proximally.
+    ANSWER: Paraphimosis   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-044] A 42-year-old man presents with right flank discomfort and hypertension. His renal ultrasound is shown above. What is the most likely pattern of inheritance related to this diagnosis?
+    ANSWER: Autosomal dominant   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-045] A 55-year-old man presents to the emergency department with 3 days of left-sided scrotal pain and redness. He reports no trauma or fever. He reports mild dysuria and is sexually active with one short-term partner without protection. He reports no medical problems, but does have a bit of difficulty starting his stream of urine lately.
+    ANSWER: Intramuscular ceftriaxone plus oral levofloxacin   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-046] A 67-year-old man presents to the ED with testicular pain that started a few days ago. The patient has a medical history of diabetes, and he reports no recent sexual activity. His temperature is 99.7°F (37.6°C) and HR is 100 bpm. Physical exam reveals pain upon palpation of the posterior aspect of the left testicle. Pain is relieved with elevation of the scrotum.
+    ANSWER: Escherichia coli   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-047] A 42-year-old man presents to the ED with penile pain for 1 week. A physical exam reveals an uncircumcised penis, and with retraction of the foreskin, the glans appears erythematous and edematous (as shown above). There are no signs of cellulitis, foul-smelling drainage, or inguinal lymphadenopathy, and he reports no unprotected sexual intercourse or concern for sexually transmitted infections.
+    ANSWER: Twice-daily cleansing with saline solution and topical antifungal cream   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-048] A 46-year-old man with a history of chronic kidney disease is brought to the ED from the hemodialysis unit in the hospital due to the development of a headache, nausea, and general malaise while undergoing hemodialysis. He felt well prior to the initiation of hemodialysis. Currently, he reports no fevers, chills, coughing, or chest pain.
+    ANSWER: Disequilibrium syndrome   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-049] What is the most common cause of drug-induced ischemic (low-flow) priapism in adults?
+    ANSWER: Intracorporeal penile injections   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-050] Which of the following represents a reason for emergent dialysis in a patient with end-stage kidney disease and on dialysis?
+    ANSWER: Pulmonary edema responsive to nitroglycerin   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-051] An 83-year-old man presents to the emergency department for lower abdominal discomfort. His symptoms have been progressively worsening for the past few hours and are associated with urinary urgency. He has not had any urine output today. He reports no recent dysuria, hematuria, flank pain, or fevers.
+    ANSWER: Enlarged prostate   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-052] A 20-year-old man presents to the ED for a penile lesion. He is sexually active. Examination is significant for a painless, well-demarcated, flat ulcerative lesion on the dorsal surface of the penis and painless inguinal lymphadenopathy. Which of the following is the most appropriate treatment for this patient’s condition?
+    ANSWER: Intramuscular penicillin G once   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-053] A 16-year-old boy presents to the emergency department after being woken from sleep from severe right lower quadrant abdominal pain and vomiting. He reports no trauma, fevers, or recent ill symptoms. He is sexually active but reports no pain with urination or penile discharge. He reports his pain is severe and does not improve with changing position.
+    ANSWER: Testicular torsion   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-054] A 24-year-old G3P2 woman at 10 weeks gestation presents to the ED for evaluation of nausea, vomiting, and suprapubic abdominal pain. Her vital signs include an HR of 128 bpm, a BP of 98/70 mm Hg, an RR of 16/min, an SpO2 of 98% on room air, and a T of 38.9°C. She has dry mucous membranes and tenderness to palpation over the right costovertebral angle. An intravenous crystalloid bolus is started.
+    ANSWER: Piperacillin-tazobactam   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-055] A 29-year-old woman presents to the ED with severe, sudden-onset flank pain. She reports no fevers or chills but reports nausea and two episodes of emesis today. She has no significant medical history other than a single-term pregnancy with a normal vaginal delivery.
+    ANSWER: Ureterorenoscopy   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-056] A 7-year-old boy presents to the emergency department with 2 days of dark urine, headache, and fatigue. On exam, he has periorbital and peripheral edema. His vital signs are significant for a blood pressure of 130/83 mm Hg. His parents report a honey-crusted rash around the child’s face that resolved spontaneously 1 month ago. A urinalysis shows proteinuria and hematuria.
+    ANSWER: Type III hypersensitivity   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-057] What organism is the most frequent cause of hemolytic uremic syndrome in children?
+    ANSWER: Shiga toxin-producing Escherichia coli   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-058] A 45-year-old premenopausal woman presents to the ED with diffuse weakness and shortness of breath. She has a medical history of type 2 diabetes mellitus and chronic kidney disease. She is currently taking glipizide and over-the-counter medications to manage a recent flare of her osteoarthritis. Her ECG is seen above. A fingerstick blood glucose is 284 mg/dL.
+    ANSWER: Calcium gluconate   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-059] A 25-year-old man presents to the ED with acute onset of left flank pain that began 2 hours ago. He reports hematuria, difficulty urinating, and radiation of pain into his left lower quadrant. Vital signs include a BP of 124/76 mm Hg, HR of 102 bpm, RR of 16/min, and T of 37.1℃. On examination, he has left costovertebral angle tenderness and left lower quadrant tenderness.
+    ANSWER: Discharge with outpatient urology follow-up, pain control therapy, tamsulosin, and ciprofloxacin   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-060] Which of the following best describes the genital findings in primary syphilis?
+    ANSWER: Single 1–2 cm painless ulcer with a raised border   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-061] A 40-year-old man presents to the emergency department with 2 days of severe scrotal pain and redness. He reports no trauma. He says the pain was initially colicky but now has become more constant and severe. He reports a subjective fever and mild dysuria, and he is sexually active. Vital signs show HR 116 bpm, BP 114/68 mm Hg, RR 16/min, and T 37.9℃.
+    ANSWER: Begin antibiotic treatment with intravenous piperacillin-tazobactam and vancomycin and consult urology for surgical debridement   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-062] A 61-year-old woman presents to the ED with abdominal pain. She has a history of end-stage kidney disease, for which she undergoes peritoneal dialysis at home nightly. Vital signs are within normal limits. A peritoneal fluid sample appears cloudy, and analysis shows a WBC count of 160/µL with 75% neutrophils.
+    ANSWER: Intraperitoneal vancomycin and cefepime   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-063] A 37-year-old man presents with a painful penile erection for 5 hours. He has no medical history. Which of the following is the appropriate management?
+    ANSWER: Intracavernosal phenylephrine   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-064] A 58-year-old woman presents to the ED by ambulance for lethargy. EMS personnel report that she was nearing the end of a scheduled dialysis session when she gradually became less responsive. She had missed her previous three dialysis sessions. Her medical history includes end-stage kidney disease due to type 2 diabetes mellitus. Vital signs are within normal limits.
+    ANSWER: Administer 5 mL of 23% sodium chloride   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-065] An 18-year-old patient presents with dysuria, hematuria, fever, and flank pain. Physical examination reveals a well-appearing woman with moderate costovertebral angle tenderness. Urinalysis is positive for leukocyte esterase, nitrites, and 25–50 WBC/hpf. What treatment is indicated?
+    ANSWER: Oral ciprofloxacin   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-066] A 67-year-old woman with no significant medical history presents with nausea, vomiting, and diarrhea for 3 days. Vital signs are a T of 98°F (36.7°C), BP of 95/70 mm Hg, HR of 110 bpm, RR of 16/min, and SpO2 of 98% on room air. Her mucous membranes are dry, but the remainder of her exam is within normal limits.
+    ANSWER: Urine sodium of 10 mEq/L   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-067] A 69-year-old man presents to the ED with acute onset lower abdominal pain and decreased urine output. He reports no fever, emesis, constipation, or bloody stool. His surgical history includes bilateral vasectomies and a right inguinal hernia repair, both in 1998. He takes hydrochlorothiazide, simvastatin, glyburide, and topical minoxidil. His vital signs are within normal limits for his age.
+    ANSWER: Obstructive   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-068] Which of the following is the most sensitive imaging modality in a child with classic symptoms of nephrolithiasis who presents to a tertiary pediatric care center in an urban setting?
+    ANSWER: Computed tomography   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-069] A 12-year-old boy presents with testicular pain and nausea. Which of the following physical exam findings is most consistent with testicular torsion?
+    ANSWER: Transverse lie of the testicle   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-070] A 56-year-old woman with a history of hypertension presents to the emergency department with back pain. She reports having intermittent back pain for months, usually relieved with ibuprofen. Today, she is concerned because the pain is more severe and she has hematuria. On examination, she does not appear in acute distress.
+    ANSWER: Magnetic resonance angiography of the head   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-071] A 68-year-old man with chronic kidney disease is sent to the ED following hemodialysis due to bleeding from the dialysis puncture site of his arteriovenous fistula. An emergency clinician applies local pressure for several minutes, and the bleeding stops. The patient then notices that the thrill over the puncture site is gone. Which of the following is the best next step in management?
+    ANSWER: Vascular surgery consultation   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-072] An 4-year-old boy presents to the emergency department via EMS with exertional shortness of breath. He has no significant medical problems and is fully vaccinated. His parent states that over the last 4 days, he has not been able to perform his typical daily activities without becoming short of breath.
+    ANSWER: Volume expansion with aggressive fluid resuscitation   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-073] A parent brings her 1-year-old uncircumcised boy to the emergency department after realizing while bathing the child that his foreskin was not retractile. He has no fever and is still having copious wet diapers. Examination reveals a normal, intact foreskin overriding the glans, and urine can be seen coming out of the meatus. Which of the following is the most appropriate next step?
+    ANSWER: Reassurance and discharge   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-074] A 3-year-old boy presents with his parents for lethargy, fever, cough, and facial swelling. His parents state his symptoms started 3 days ago with a fever and cough which have continued to worsen. He has also been more tired than usual. Today, his parents noticed that he appears more pale than usual with some increased swelling around his eyes.
+    ANSWER: Streptococcus pneumoniae   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-075] A 45-year-old man is found to have a thrombus of his inferior vena cava. Which of the following may be discovered on further evaluation?
+    ANSWER: Right scrotal “bag of worms” mass   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-076] A 33-year-old woman with a history of frequent urinary tract infections presents to the ED with right flank pain and dysuria that started acutely today. The pain is associated with a low-grade fever, nausea, and vomiting. Urinalysis is positive for leukocyte esterase and nitrites. Microscopic examination reveals 26 WBC/hpf and 2+ bacteria.
+    ANSWER: Magnesium, ammonium, and phosphate   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-077] What is the most common presenting sign or symptom of pediatric nephroblastoma?
+    ANSWER: Painless abdominal mass   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-078] A 50-year-old man presents to the emergency department with testicular pain. He states his symptoms started yesterday and have progressively worsened. He reports no new sexual activity. On physical exam, his right testicle and epididymis are edematous and tender to palpation. Which of the following is the most appropriate therapy?
+    ANSWER: Levofloxacin   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-079] A 34-year-old man with a history of obesity and diabetes presents to the ED with a swollen penis and inability to retract the foreskin. He reports no pain and is still able to urinate normally. Examination shows uncircumcised male genitalia with a swollen foreskin that will not retract past the tip of the penis.
+    ANSWER: Discharge with outpatient referral to urology   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-080] A 30-year-old sex worker presents to the ED with groin pain that started 1 week ago. On physical exam, he is noted to have large tender inguinal lymphadenopathy with purulent drainage. Which of the following is the most likely diagnosis?
+    ANSWER: Lymphogranuloma venereum   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-081] A 65-year-old man presents with dysuria and urinary urgency. He has a history of hypertension, chronic kidney disease, and hyperlipidemia. He states over the past 6 months, he has had difficulty with urination and wakes up frequently to go to the bathroom. He relates there has been some associated back and perineal pain, and he has not had any penile discharge.
+    ANSWER: Ciprofloxacin twice daily for 28 days   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-082] A 6-year-old girl is brought to the emergency department by her parent for abdominal pain, vomiting, and diarrhea for 5 days. This morning, the patient’s parents noticed blood in her diarrhea. She spent the last week on vacation with her aunt and cousins and multiple family members have similar symptoms.
+    ANSWER: Antibiotics   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-083] Which of the following is the most frequent complication to occur during hemodialysis?
+    ANSWER: Hypotension   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-084] A 25-year-old man who is sexually active with other men presents to the ED with a painful right-sided inguinal lymph node. On examination, there is a tender, fluctuant lymph node both above and below the inguinal ligament, creating a groove between the enlarged nodes. He reports no fever, rectal pain, or discharge.
+    ANSWER: Painless ulcer lasting 2 days   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-085] A 24-year-old man presents to the emergency department with an erection that has lasted for the past 6 hours and has not been improving. His vital signs are within normal limits, and physical exam is notable for an erect penis that the patient states is painful. Which of the following is the best initial treatment for this patient?
+    ANSWER: Aspiration of the corpora cavernosa   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-086] A 17-year-old boy presents to the ED after noticing an enlarged mass on the left side of his scrotum. He has no pain and reports being asymptomatic, with no dysuria, frequency, urgency, penile discharge, or weight loss. He has not undergone any trauma to the area and is not sexually active. On exam, a firm, hard, nontender mass is palpated on the left side of the scrotum abutting a testis.
+    ANSWER: Testicular tumor   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-087] A 56-year-old man without any reported medical history and without a primary care clinician for over 20 years presents to the emergency department with 4 days of worsening pain and tenderness over the head of his penis and foreskin, as well as a thick, white discharge in the region of his pain. The patient has no fevers, dysuria, hematuria, urethral discharge, or difficulty urinating.
+    ANSWER: Fingerstick glucose   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-088] A patient is being treated for an acute overdose. For which of the following toxins would hemodialysis be ineffective?
+    ANSWER: Diltiazem   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-089] A 56-year-old woman with a history of diabetes and hypertension presents to the emergency department with fever and left-sided flank pain that has progressively worsened over 5 days. Vital signs show heart rate 122 bpm, blood pressure 94/61 mm Hg, and temperature 39°C. On exam, she has left costovertebral angle and left upper quadrant abdominal tenderness.
+    ANSWER: Begin empiric antibiotic therapy and intravenous fluid administration and consult interventional radiology for percutaneous drainage of the abscess   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-090] A 55-year-old man presents to the ED reporting 2 days of fevers, chills, dysuria, urinary frequency, and dribbling. His temperature is 102.2°F (39°C), blood pressure is 100/65 mm Hg, heart rate is 120 bpm, respiratory rate is 18/min, and oxygen saturation is 100% on room air. On physical exam, he exhibits mild suprapubic tenderness, no peritoneal signs, and a firm, exquisitely tender prostate.
+    ANSWER: Admit the patient on levofloxacin 750 mg intravenously daily   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-091] A 20-year-old man presents to the emergency department with dysuria. He is sexually active and does not use barrier contraception. On physical exam, there is mucopurulent discharge at the urethral meatus. Which of the following is the most appropriate therapy?
+    ANSWER: Ceftriaxone and doxycycline   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-092] A 58-year-old man with a history of end-stage kidney disease presents to the ED via EMS with shortness of breath, fatigue, and malaise for several days that has worsened over the past 2 hours. He reports no other symptoms such as a fever, cough, or chest pain. He has a T of 37.3°C (99.14 °F), BP of 172/90 mm Hg, HR of 114 bpm, RR of 26/min, and SpO2 of 94% on a 10 L/min nonrebreather mask.
+    ANSWER: Dialysis   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-093] A 33-year-old woman presents to the emergency department with hemoptysis. She has had these symptoms before. However, her symptoms are now worse, thus prompting her presentation. A review of systems is notable for fever, chills, and arthralgias.
+    ANSWER: Goodpasture syndrome   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-094] A 21-year-old man presents to the emergency department for a penile lesion that has been present for 1 week. He is sexually active with multiple partners and is inconsistent with condom use. Examination reveals a painless 2 cm ulcerative lesion on his dorsal penis and painless inguinal lymphadenopathy. Which of the following is the appropriate treatment for this patient?
+    ANSWER: Single dose of intramuscular penicillin   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-095] A 21-year-old man presents to the emergency department for a penile lesion. He is sexually active and reports unprotected intercourse with multiple women over the last few months. He reports no fever, testicular pain, penile discharge, or extremity rash. On physical examination, he has a painless ulcerative lesion on the shaft of his penis with no inguinal adenopathy.
+    ANSWER: Benzathine penicillin G   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-096] An 18-year-old woman presents to the ED with dark-colored urine and malaise for the past 3 days. She has been ill with an upper respiratory infection. Her vital signs are a BP of 155/85 mm Hg, HR of 80 bpm, RR of 16/min, and T of 36.7°C. On exam, you note 1+ pretibial edema. Urinalysis reveals proteinuria, hematuria, and red blood cell casts. Which of the following is the most likely diagnosis?
+    ANSWER: Acute glomerulonephritis   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-097] A 3-year-old boy presents to the ED with irritation to his penis. He has been potty training, and today his parent noticed some redness of the skin at the tip of the penis and an inability to retract the foreskin. The child is happy, playful, and well-appearing. Vital signs are within normal limits.
+    ANSWER: Give parents reassurance and provide good hygiene instructions   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-098] A 25-year-old man presents with right-sided testicular pain, swelling, and dysuria. He reports that he has had unprotected sexual intercourse with multiple female partners. On physical exam, he has tenderness and swelling of the posterior testicle, which has a normal lie within the scrotum, and a positive cremasteric reflex.
+    ANSWER: Chlamydia trachomatis and Neisseria gonorrhoeae   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-099] A patient presents with small-volume bleeding from an arteriovenous fistula used for dialysis. Which of the following is the most appropriate first step in managing the bleeding?
+    ANSWER: Hold direct pressure with a finger for 5–10 minutes   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-100] Which of the following clinical presentations would be most concerning for underlying bladder cancer?
+    ANSWER: A 72-year-old man with painless, gross hematuria and a history of prior pelvic irradiation for prostate cancer   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-101] A 59-year-old man presents with 2 days of dysuria, frequency, lower abdominal pain, and chills. He has been eating and drinking normally and is able to urinate, though he has general malaise. He reports no penile discharge, testicular pain, sexual activity, a history of sexually transmitted infections, prior urinary symptoms, or weight loss. The patient’s abdomen is soft and nontender.
+    ANSWER: Escherichia coli   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-102] A 52-year-old man presents with flank pain and hematuria. Which of the following ultrasound findings would be most indicative of renal cell carcinoma?
+    ANSWER: Single 4 cm thick-walled mass with calcified septations in the right renal cortex   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-103] Which of the following is a cause of high flow priapism?
+    ANSWER: Arteriovenous fistula   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-104] What is the most common cause of acute interstitial nephritis?
+    ANSWER: Hypersensitivity drug reaction   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-105] A 4-year-old boy presents to the emergency department for evaluation of edema. His parent notes that his face started looking puffy 5 days ago, and now his legs also seem swollen. He has had mild shortness of breath when he runs but has otherwise been feeling well.
+    ANSWER: Hyperlipidemia   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-106] What test is used to differentiate low-flow priapism from high-flow priapism?
+    ANSWER: Cavernosal blood gas   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-107] A 3-year-old boy presents with a painful swelling in his groin area. The mass has been there previously and often goes away on its own, but this time it is more painful than usual. The patient’s vital signs are within normal limits, and physical exam is notable for a nontender, soft mass in the inguinal region without overlying erythema.
+    ANSWER: Manual reduction   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-108] A 75-year-old man presents with lower abdominal pain and difficulty with urination. He has a history of hypertension, hyperlipidemia, and diabetes. He states his symptoms have been progressively worsening over the course of months, but after using over-the-counter medication for his upper respiratory infection, he has noticed a significant increase in difficulty with urination and now lower abdomi …
+    ANSWER: Benign prostatic hyperplasia   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-109] A 4-year-old girl presents to the ED with her parent for abdominal pain and diarrhea for 1 week and bloody stool for the last 3 days. The parent reports that she has only urinated once in the past 24 hours. Vital signs are within normal limits. Physical examination shows dry oral mucosa with a delayed capillary refill time. Her neurologic exam is appropriate for her age.
+    ANSWER: IV normal saline bolus   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-110] A patient presents with a painless lump in his left testicle. Which of the following in this patient’s medical history represents the highest risk for testicular cancer?
+    ANSWER: Undescended testicle   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-111] Which of the following is a common finding in patients with polycystic kidney disease?
+    ANSWER: Hypertension   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-112] A 4-year-old boy presents to the ED with a painless abdominal mass. On physical exam, you palpate a unilateral left-sided abdominal mass inferior to the spleen. The initial urinalysis is negative for significant urine catecholamines. What is the most common cause of this presentation in children?
+    ANSWER: Wilms tumor   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-113] An 18-year-old man presents with testicular pain for 3 hours. He reports no trauma. The pain is constant, sharp, and severe and is accompanied by nausea and vomiting. His vital signs are a BP of 118/76 mm Hg, HR of 110 bpm, SpO2 of 99%, and T of 98.7°F. On examination, there is no swelling but the left testicle is extremely tender to palpation. The cremasteric reflex is absent.
+    ANSWER: Immediate urology consultation followed by scrotal ultrasound   (key E)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-114] Which organism is the primary cause of epididymitis in patients < 35 years of age?
+    ANSWER: Chlamydia trachomatis   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-115] A 3-year-old girl was seen 2 days prior by your colleague for dysuria and urinary retention. Urinary catheterization was performed, and a urinalysis and culture were sent. The procedure led to relief of symptoms. The urinalysis was entirely normal, and the patient was discharged without antibiotics. You now see the urine culture is growing > 100,000 CFUs/mL of Enterococcus faecalis.
+    ANSWER: Amoxicillin   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-116] A 45-year-old woman presents to the emergency department for severe left flank pain and vomiting. A noncontrast CT demonstrates an 8 mm obstructing urinary calculus with hydronephrosis. The findings on her urinalysis are notable for 23 RBCs/hpf. Laboratory results are notable for a WBC count of 12,400/µL, potassium of 3.5 mEq/L, chloride of 90 mEq/L, and creatinine of 2.6 mg/dL.
+    ANSWER: Consult urology and admit to the hospital   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-117] A 7-year-old girl presents to the emergency department with generalized weakness and fatigue. The patient is generally healthy and recently recovered from a self-limited bout of abdominal pain, vomiting, and diarrhea 1 week ago. She has a heart rate of 115 bpm, and her physical exam is unremarkable other than mild pallor.
+    ANSWER: Hemolytic uremic syndrome   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-118] A 65-year-old man is admitted to the hospital for intravenous antibiotics for fungal pneumonia. He is being treated with amphotericin B. On day 3 of hospitalization, his creatinine is 1.8 mg/dL. Previously it was 0.9 mg/dL. Which urine microscopy finding is most consistent with the likely etiology of this patient’s creatinine rise?
+    ANSWER: Muddy granular casts   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-119] A 50-year-old man presents to the emergency department for fever and nausea. He has a history of focal segmental glomerulonephritis and received a kidney transplant 10 years ago. His vital signs are a BP of 135/85 mm Hg, HR of 90 bpm, RR of 16/min, T of 38°C, and SpO2 of 96% on room air. A urinalysis demonstrates 30 WBCs/hpf and is positive for leukocyte esterase and nitrites.
+    ANSWER: Administer piperacillin-tazobactam and admit   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-120] A 28-year-old man presents with dysuria. He reports no associated penile discharge or any other symptoms. He also reports having had two new sexual partners in the last 3 weeks. Vital signs and physical examination are unremarkable, with a negative genitourinary exam. Urinalysis shows 2 WBC/hpf with 1+ bacteria. Which of the following antibiotic regimens represents the most appropriate treatment?
+    ANSWER: Ceftriaxone 500 mg IM and doxycycline 100 mg PO twice daily for 7 days   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-121] A 62-year-old man presents to the emergency department with right-sided flank pain radiating into the right abdomen for 1 day that seems characteristic of a ureteral stone. He has a history of kidney stones and hypertension. After completing the workup, you diagnose the patient with a 6 mm distal ureteral stone with mild hydronephrosis on the right side.
+    ANSWER: Tamsulosin   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-122] A 34-year-old woman with no significant medical history presents with 3 days of right abdominal and back pain with vomiting. She reports no vaginal discharge or dysuria. Her last menstrual period was 3 weeks ago. Her surgical history includes a tubal ligation.
+    ANSWER: Urinalysis   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-123] A 63-year-old woman presents to the emergency department with 3 days of nausea, vomiting up to 10 episodes daily, and right upper quadrant abdominal pain. Vital signs include a BP of 82/42 mm Hg, HR of 125 bpm, RR of 22/min, and SpO2 of 96% on room air. She has dry mucous membranes, weak peripheral pulses, and right upper quadrant abdominal tenderness.
+    ANSWER: Gastrointestinal fluid losses   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-124] A 55-year-old man is sent to the ED from his family clinician's office for evaluation of a mass. He is an inventory manager at a local warehouse and is in charge of loading and unloading daily deliveries of boxes. He describes intermittent left lower abdominal pain and fullness that improves with lying down. On examination, you observe a left indirect inguinal hernia.
+    ANSWER: Inferior epigastric vessels   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-125] A 3-year-old girl presents to the ED with bloody diarrhea and a rash. On physical exam, you note scattered petechiae. Stool culture is positive for Shiga toxin. Serum creatinine is elevated. Which of the following is occasionally needed as temporary supportive therapy in these patients?
+    ANSWER: Hemodialysis   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-126] A 65-year-old man with a history of hypertension presents with gradual right testicular pain over the past 3 days. He is monogamous with his spouse of 30 years. His vital signs are within normal limits. On exam, he has tenderness and firmness at the posterolateral aspect of the right testicle. His pain is somewhat relieved with elevation of the right testicle.
+    ANSWER: Levofloxacin   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-127] A 12-year-old boy presents with foamy, pink-tinged urine. On exam he has periorbital edema and leg swelling. His vital signs are HR 80 bpm, BP 140/90 mm Hg, RR 18/min, and T 98.8℉ (37.1ºC). He had a sore throat and fever 2 weeks ago but did not seek medical attention, and the symptoms resolved. Which of the following is most specific for the presumed diagnosis?
+    ANSWER: Decreased serum C3   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-128] A 14-year-old boy presents to the ED with his parent due to penile pain for the past 6 hours. He reports no preceding trauma or other inciting factors. His medical history includes sickle cell disease, for which he takes hydroxyurea daily. Vital signs are within normal limits. Physical examination shows a rigid, erect penis with tenderness to palpation.
+    ANSWER: Needle aspiration and saline irrigation of the corpus cavernosum   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-129] Which of the following findings on urinalysis is most consistent with a diagnosis of acute interstitial nephritis?
+    ANSWER: Eosinophiluria   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-130] A 9-year-old boy presents with weakness and bloody diarrhea. His parent reports he has had diarrhea for several days with a fever. His laboratory testing is notable for a hemoglobin of 8.3 g/dL and a creatinine of 2.4 mg/dL. Which of the following will be helpful to confirm the diagnosis?
+    ANSWER: Peripheral smear   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-131] A 21-year-old woman presents with urinary frequency and dysuria for 2 days. Vital signs are within normal limits. Examination reveals mild suprapubic tenderness with no costovertebral angle tenderness. What is the most appropriate next step for this patient?
+    ANSWER: Nitrofurantoin   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-132] A 40-year-old woman with a history of hypothyroidism, hypertension, and nephrolithiasis presents with left-sided flank pain for the past day that feels similar to when she has had kidney stones. She reports that the pain comes in waves and radiates toward the groin. Throughout the past day, she reports vomiting but has not had fevers, chills, vaginal bleeding, or diarrhea.
+    ANSWER: Discharge with pain relief and a strainer   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-133] A 3-year-old boy presents to the ED with decreased activity. He was diagnosed with gastroenteritis a little over a week ago with fevers, vomiting, diarrhea, and abdominal pain. His earlier symptoms are improving but have not resolved. His heart rate is 170 bpm, his blood pressure is 122/74 mm Hg, and he appears pale.
+    ANSWER: Hemolytic uremic syndrome   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-134] A healthy 19-year-old pregnant woman at 12 weeks gestation presents to the emergency department with acute onset of pain on urination associated with urinary frequency. She reports no fever, flank pain, or vaginal discharge. Vital signs are within normal limits. Dipstick urinalysis is positive for nitrites and leukocyte esterase, and the sample is sent for urine culture.
+    ANSWER: Amoxicillin-clavulanate PO x 5–7 days   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-135] A 2-year-old boy develops progressive pallor and fatigue. He was discharged from the hospital a week earlier following treatment of pneumonia and parapneumonic effusion with intravenous antibiotics and chest tube drainage. Cultures of the pleural fluid at that time revealed the growth of Streptococcus pneumoniae.
+    ANSWER: Hemolytic uremic syndrome   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-136] An 18-year-old man presents with penile discharge after unprotected intercourse. A urine gonorrhea and chlamydia test is ordered. He has no known drug allergies. Which of the following is an appropriate treatment regimen?
+    ANSWER: Ceftriaxone 500 mg IM once and doxycycline 100 mg PO twice a day for 7 days   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-137] A 52-year-old man presents to the ED for 3 days of dizziness and lightheadedness upon standing. His medical history includes hyperlipidemia, peripheral arterial disease, and end-stage kidney disease, for which he undergoes intermittent hemodialysis three times weekly. He takes aspirin 81 mg and rosuvastatin 40 mg daily. He has missed his last two dialysis sessions due to transportation issues.
+    ANSWER: Dialysis-associated autonomic dysfunction   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-138] A 21-year-old woman presents to the ED with flank pain. A urinalysis shows hematuria, and a kidney ultrasound reveals multiple bilateral cysts, consistent with polycystic kidney disease. Which of the following treatment options is most likely to slow the progression of her underlying condition?
+    ANSWER: Benazepril   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-139] A 45-year-old man presents to the ED with low back pain and pelvic pain with dysuria and subjective fever and chills. He initially had mild urinary symptoms yesterday, but today feels much worse with fever and chills. Vital signs show HR 122 bpm, BP 136/80 mm Hg, RR 16/min, and T 38.6℃. On examination, he has mild suprapubic tenderness without rebound or guarding.
+    ANSWER: Escherichia coli   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-140] Which of the following causes of intrinsic kidney failure is the most common?
+    ANSWER: Tubular   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-141] A 17-year-old boy presents with a penile erection that has lasted for 4 hours. He sustained a straddle injury the day before while riding his bicycle but did not seek medical attention at that time. On physical exam, his penis is erect without any obvious deformity or external trauma. What is the best next step in care?
+    ANSWER: Obtain a cavernosal blood gas   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-142] Which of the following is the most common cause of death in individuals with a history of autosomal dominant polycystic kidney disease?
+    ANSWER: Cardiac causes   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-143] An 11-year-old boy presents with right testicular pain that started yesterday. He reports mild nausea, but no vomiting or dysuria. On examination, a tender, firm nodule is palpated in the upper pole of the right testicle and the cremasteric reflex is present. Which of the following is the most likely diagnosis?
+    ANSWER: Appendageal torsion   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-144] A 16-year-old boy presents to the ED with blood in his urine. He noticed pink-tinged urine in the last few days but no blood clots or difficulty urinating. He feels more fatigued and has a history of microscopic hematuria and hearing difficulty. On exam, he has mild periorbital edema and vital signs show HR 80 bpm, BP 140/90 mm Hg, RR 18/min, T 98.8°F (37.1°C).
+    ANSWER: Alport syndrome   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-145] A 10-year-old boy is brought to the emergency department by his parent for abdominal pain, vomiting, and diarrhea for 5 days. The patient’s parent became concerned when she noticed blood in the patient’s stool this morning. Physical examination reveals dry mucous membranes and sluggish capillary refill, a nonblanching macular rash on the child’s lower extremities, and hepatosplenomegaly.
+    ANSWER: Azotemia   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-146] A patient presents with scrotal swelling suspicious for hydrocele. Which of the following is the most appropriate intervention at this time?
+    ANSWER: Ultrasonography   (key E)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-147] A 32-year-old woman presents to the emergency department for vaginal discharge. Laboratory testing and urinalysis were ordered from triage. Upon evaluation, the patient reports no dysuria, hematuria, urinary frequency, suprapubic pain, flank pain, or fevers. Her blood tests demonstrate normal kidney function and no leukocytosis.
+    ANSWER: Prescribe cephalexin and discharge   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-148] A 65-year-old man on peritoneal dialysis presents because his dialysis effluent is cloudy. You send it for culture and Gram staining, which returns a preliminary result of gram-positive cocci in clusters. Vital signs are BP 125/70 mm Hg, HR 80 bpm, RR 14/min, and T 98.5°F (37°C). Other than abdominal ascites, the physical exam is unremarkable.
+    ANSWER: Outpatient management with intraperitoneal antibiotics   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-149] A 19-year-old man with diabetes presents with penile pain and dysuria. Physical examination of the penis reveals the image above. The patient states he has had similar episodes in the past. What management is indicated for this patient?
+    ANSWER: Topical clotrimazole   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-150] A 4-year-old boy presents with vague abdominal pain, diarrhea, and vomiting. He was away at his grandparents’ last week and returned today feeling ill. He appears uncomfortable. His vital signs are within normal limits for his age. His laboratory values include blood urea nitrogen 42 mg/dL, creatinine 3.6 mg/dL, potassium 6.1 mmol/L, hemoglobin 8 g/dL, and platelet count 80 cells/mm3.
+    ANSWER: Hemolytic uremic syndrome   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-151] What history or exam finding is most sensitive in excluding the diagnosis of testicular torsion?
+    ANSWER: Presence of the cremasteric reflex   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-152] A 62-year-old man presents to the emergency department with a fever and lower back pain. His symptoms started yesterday and have been gradually worsening. His temperature is 102°F (38.9ºC), and his physical exam is notable for severe pain when examining the prostate. Which of the following is the most appropriate treatment for this patient?
+    ANSWER: Ciprofloxacin   (key B)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-153] Which of the following is the most common presenting sign of a nephroblastoma?
+    ANSWER: Abdominal mass   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-154] A healthy 30-year-old woman presents to the emergency department for frequency and burning on urination. She reports no vaginal discharge, fever, nausea, or back pain, and on exam, she has normal vital signs and does not have vaginal discharge, cervical motion tenderness, or costovertebral angle tenderness.
+    ANSWER: Oral trimethoprim-sulfamethoxazole for 5 days   (key D)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-155] A 43-year-old man presents with generalized abdominal pain, fevers, and cloudy peritoneal fluid for the last 2 days. He has a history of hypertension, diabetes, and kidney failure and is on peritoneal dialysis. His temperature is 101.3°F (38.5°C), blood pressure is 120/80 mm Hg, heart rate is 110 bpm, respiratory rate is 18/min, and oxygen saturation is 96% on room air.
+    ANSWER: Peritoneal fluid WBC count of 150 cells/µL with 60% neutrophils   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-156] A 4-year-old boy presents to the ED with extreme scrotal pain and discoloration. He is difficult to console. He has an absent cremasteric reflex on the right with an erythematous right hemiscrotum. The right testis appears to be in a horizontal lie. Which of the following is the most appropriate next step to take?
+    ANSWER: Administer parenteral analgesia   (key A)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-157] A 32-year-old woman presents with 3 days of dysuria and lower abdominal discomfort. She is sexually active with one male partner and uses condoms inconsistently. She reports no vaginal bleeding or discharge. Her medical history is unremarkable. Vital signs show a BP of 118/65 mm Hg, HR of 67 bpm, T of 98.3°F, RR of 16 breaths/min, and SpO2 of 99%.
+    ANSWER: Escherichia coli   (key E)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-158] An 11-year-old boy presents to the ED with a gradual onset of right-sided testicular pain. He reports no penile discharge or pain with urination. He is fully vaccinated and has had no recent travel or animal exposure. On exam, his vital signs are within normal limits for age, he is prepubertal, and he has a normal-appearing penis and testis with bilateral cremasteric reflexes.
+    ANSWER: Supportive care   (key C)
+[ROSH rosh-em-initial-2026-renal-and-urogenital-disorders-q-159] A 12-year-old boy presents to the ED with swelling and pain in his penis. He reports that, over the past 6 hours, he has been unable to reduce his foreskin over the glans, and the area has become progressively more swollen. He does not report dysuria, discharge, testicular pain, or any other symptoms prior to his foreskin being retracted earlier today.
+    ANSWER: Paraphimosis   (key C)

@@ -1,0 +1,115 @@
+SEG Legacy Knowledge Integration Audit — deterministic structural analysis
+Mode: READ_ONLY; output contains metadata observations only; no medical payload reproduction.
+
+## officialUnifiedTopics.json
+- bytes: 43523
+- sha256: 9b056ce983aa1e53e5e70d4122c0fdbf6919525d5e1c1cb3098462c508b982b9
+- root_type: array
+- root_object_count: 40
+- first_object_keys: algorithms, antidotes, arabicMentorExplanation, examTraps, highYieldFacts, numericalFacts, sourceReferences, specialty, topicId, topicName
+- field_presence_counts: topicId=40, topicName=40, specialty=40, highYieldFacts=40, examTraps=40, numericalFacts=40, antidotes=40, arabicMentorExplanation=40, sourceReferences=40, algorithms=39
+- id_like_fields: topicId=40
+- duplicate_id_like_values: NONE_OBSERVED
+- empty_field_counts: algorithms=34, antidotes=29, numericalFacts=14
+- framework_mentions: Tintinalli=14, Rosen's/Rosen=37, HIPPO=28, FRCEM=11
+- id_pattern_mentions: UNI_*=40
+
+## referenceLibrary.json
+- bytes: 299309
+- sha256: 6c0832b83ac56319fdfe486b2824baf9c3ca49e27554e4769422029aebc16f38
+- root_type: array
+- root_object_count: 194
+- first_object_keys: _batchFile, algorithms, arabicMentorExplanation, boardSafeLogic, chapterNumber, chapterTitle, id, keyPoints, needsVerification, relatedFocusedQuestionFamilies, relatedKeywords, relatedTraps, source, tables, topic, visuals
+- field_presence_counts: id=194, source=194, chapterNumber=194, chapterTitle=194, topic=194, keyPoints=194, tables=194, visuals=194, algorithms=194, relatedTraps=194, relatedKeywords=194, relatedFocusedQuestionFamilies=194, boardSafeLogic=194, arabicMentorExplanation=194, needsVerification=194, _batchFile=102
+- id_like_fields: id=194, source=194
+- duplicate_id_like_values: source=188
+- empty_field_counts: tables=183, visuals=169, algorithms=184, boardSafeLogic=23, arabicMentorExplanation=23, keyPoints=3, relatedTraps=1, relatedKeywords=1, relatedFocusedQuestionFamilies=1
+- framework_mentions: Tintinalli=131, Rosen's/Rosen=200, HIPPO=84, FRCEM=42
+- id_pattern_mentions: tint_*=68, rosen_*=117, hippo_*=42, frcem_*=21
+
+## flashcards.json
+- bytes: 333868
+- sha256: 830bc36fcfe433566a7edb331a4dd0f5866fb807d0ba6489102976d29aae85f3
+- root_type: array
+- root_object_count: 760
+- first_object_keys: answer, cardId, question, source, sourceFile, type, yield
+- field_presence_counts: cardId=760, type=760, question=760, answer=760, source=760, yield=760, topicId=632, sourceFile=128, referenceId=123
+- id_like_fields: cardId=760, topicId=632, referenceId=123, source=760
+- duplicate_id_like_values: topicId=414, source=590
+- empty_field_counts: answer=3
+- framework_mentions: Tintinalli=408, Rosen's/Rosen=568, HIPPO=205, FRCEM=97
+- id_pattern_mentions: UNI_*=130, DERIVED_*=502, tint_*=65, rosen_*=57
+
+## examTraps.json
+- bytes: 104277
+- sha256: 0108ee68e8176914f7596e90f645546873ddc3ab708a5806972ed73eac110366
+- root_type: array
+- root_object_count: 415
+- first_object_keys: id, referenceId, source, text, topic
+- field_presence_counts: id=415, text=415, topic=415, topicId=221, referenceId=194, source=194
+- id_like_fields: id=415, topicId=221, referenceId=194, source=194
+- duplicate_id_like_values: topicId=4, referenceId=1, source=189
+- empty_field_counts: NONE_OBSERVED
+- framework_mentions: Tintinalli=89, Rosen's/Rosen=147, HIPPO=84, FRCEM=42
+- id_pattern_mentions: UNI_*=43, DERIVED_*=178, tint_*=68, rosen_*=63, hippo_*=42, frcem_*=21
+
+## algorithms.json
+- bytes: 4809
+- sha256: 5b2e6fc836aab89a9c3f2e0e7aac62565f6950eeca0e3b0305c6bf5ed2e6d0fc
+- root_type: array
+- root_object_count: 28
+- first_object_keys: id, name, referenceId, source, topic
+- field_presence_counts: id=28, name=28, topic=28, topicId=18, referenceId=10, source=10
+- id_like_fields: id=28, topicId=18, referenceId=10, source=10
+- duplicate_id_like_values: topicId=3, source=6
+- empty_field_counts: NONE_OBSERVED
+- framework_mentions: Tintinalli=3, Rosen's/Rosen=13, HIPPO=2, FRCEM=2
+- id_pattern_mentions: UNI_*=8, DERIVED_*=10, tint_*=2, rosen_*=6, hippo_*=1, frcem_*=1
+
+## arabicMentorExplanations.json
+- bytes: 180854
+- sha256: 95cf6dde36e026d117b2c47eb7513f32ecc4fd1340588dc883f3c94d5e4aa153
+- root_type: array
+- root_object_count: 367
+- first_object_keys: explanation, referenceId, source, topic
+- field_presence_counts: topic=367, explanation=367, topicId=196, referenceId=171, source=171
+- id_like_fields: topicId=196, referenceId=171, source=171
+- duplicate_id_like_values: source=167
+- empty_field_counts: NONE_OBSERVED
+- framework_mentions: Tintinalli=67, Rosen's/Rosen=145, HIPPO=84, FRCEM=42
+- id_pattern_mentions: UNI_*=40, DERIVED_*=156, tint_*=46, rosen_*=62, hippo_*=42, frcem_*=21
+
+## topicFamilyIndex.json
+- bytes: 20307
+- sha256: a0e1e6a8cdbff58b05cb31ba696edf2165ec2fbddd9237466fa75161f4cd7b9b
+- root_type: array
+- root_object_count: 99
+- first_object_keys: count, entries, family
+- field_presence_counts: family=99, entries=99, count=99
+- id_like_fields: family=99
+- duplicate_id_like_values: NONE_OBSERVED
+- empty_field_counts: NONE_OBSERVED
+- framework_mentions: Rosen's/Rosen=113, HIPPO=78, FRCEM=38
+- id_pattern_mentions: UNI_*=40, DERIVED_*=178, tint_*=100, rosen_*=113, hippo_*=78, frcem_*=38
+
+## antidotes.json
+- bytes: 2344
+- sha256: 744a1993d27c0658822478bcb755fed57016f9c217f7a3ae61740d91361bf324
+- root_type: array
+- root_object_count: 16
+- first_object_keys: id, name, topic, topicId
+- field_presence_counts: id=16, name=16, topicId=16, topic=16
+- id_like_fields: id=16, topicId=16
+- duplicate_id_like_values: topicId=5
+- empty_field_counts: NONE_OBSERVED
+- framework_mentions: NONE_OBSERVED
+- id_pattern_mentions: UNI_*=16
+
+## Aggregate reference/framework observations
+- Tintinalli=712, Rosen's/Rosen=1223, HIPPO=565, FRCEM=274
+## Aggregate identifier-family observations
+- UNI_*=317, tint_*=349, rosen_*=418, hippo_*=205, frcem_*=102, DERIVED_*=1024
+## Safety interpretation
+- These are structural counts and lexical observations only.
+- No source-to-candidate ownership, rights clearance, clinical approval, taxonomy approval, or learner-display permission is inferred.
+- Any v1.1 mapping remains a future adapter/design mapping until explicit joins, metadata, clinical review, rights review, and implementation authorization exist.

@@ -1,0 +1,802 @@
+[PEER-PHYS PEER-2026-volume-1-text-q-117] A 7-year-old boy presents with ear pain after putting a bead in his ear the day be- fore. The physical examination reveals a round bead filling the entire external au- ditory canal. There is no apparent hearing deficit. What is the best approach to re- move the foreign body?
+    ANSWER: Extract it with a glue-covered cotton applicator   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-118] What is most likely to facilitate removal of hard, impacted cerumen from the ear canal of a school-aged child?
+    ANSWER: Mineral oil   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-119] Which finding distinguishes labyrinthitis from vestibular neuritis?
+    ANSWER: Hearing loss   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-120] Which test, if positive, is most suggestive of labyrinthitis?
+    ANSWER: Head impulse   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-121] Which finding is present in labyrinthitis but not cerebellar stroke?
+    ANSWER: Unidirectional horizontal nystagmus   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-122] Which finding is suggestive of labyrinthitis on a HINTS (Head Impulse, Nystag- mus, Test of Skew) examination?
+    ANSWER: Corrective saccades   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-123] What is the most serious complication of acute otitis media?
+    ANSWER: Suppurative labyrinthitis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-124] Which cause of peripheral vertigo is associated with tinnitus, hearing loss, and re- current episodes of vertigo that last for hours at a time?
+    ANSWER: Ménière disease   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-125] A febrile 3-year-old girl presents with a 2-day history of swelling behind her left ear, as shown below. She recently completed a course of amoxicillin for otitis me- dia. What is the best next step in treatment? Credit: Abdel-Aziz and El-Hoshy/CC BY 2.0.
+    ANSWER: Admit for IV antibiotic therapy and ENT consultation   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-126] Administering which medication is indicated in the regimen for a patient with acute mastoiditis and a history of recurrent episodes of otitis media?
+    ANSWER: Parenteral vancomycin   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-127] A 20-year-old woman who swims several times a week presents with right ear pain. A physical examination reveals erythema of the external auditory canal with purulent discharge and perforation of the tympanic membrane. Which treatment is most appropriate?
+    ANSWER: Ciprofloxacin otic and dexamethasone otic   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-128] A diabetic 45-year-old woman presents with a 2-day history of severe right ear pain, fever, and drainage from the ear. On examination, she is febrile at 38.9°C (102°F), the external ear is swollen, has visible granulation tissue, and has a honey-crust drainage from the external auditory canal; tugging of the tragus elicits pain.
+    ANSWER: Cranial nerve VII paralysis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-129] A 75-year-old diabetic man presents with fever and severe ear pain that has been progressive over several weeks. A physical examination reveals granulation tissue on the floor of the external auditory canal. What pathogen is most likely causing this infection?
+    ANSWER: Pseudomonas aeruginosa   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-130] A 2-year-old boy is brought in with a 1-day history of low-grade fever. He has been "pulling" on his right ear lately but has not had any other symptoms, such as vom- iting, cough, neck stiffness, mastoid tenderness to palpation, or ear drainage. The otoscopic examination findings are shown below. What is the most appropriate outpatient treatment? Credit: Daniel A. Handel, MD, MBA, MPH, FACEP.
+    ANSWER: Wait-and-see prescription for antibiotics   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-131] A 3-year-old boy is brought in because he has persistent left ear pain. He has had nasal congestion and clear rhinorrhea for the past 3 days, and today, he had a tem- perature of 37.8°C (100°F) at daycare. His medical history is negative for previous ear infections and allergies to antibiotics, and he has not taken antibiotics in the past 6 months. The tympanic membrane appears normal.
+    ANSWER: Pain control and re-evaluation by a primary care physician in 2 to 3 days   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-132] A 20-year-old man presents with hearing loss and pain in his right ear after an air- plane flight. The otoscopic examination reveals a perforated right tympanic mem- brane. What are the appropriate discharge instructions?
+    ANSWER: Discharge with ENT follow-up in 2 to 3 weeks   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-133] A 16-year-old girl presents with swelling, marked erythema, and pus drainage of the upper helix of her right ear following a piercing; the earlobe is spared. Intravenous antibiotics are started to treat a Staphylococcus aureus infection. Which organism should also be targeted with pharmacotherapy?
+    ANSWER: Pseudomonas aeruginosa   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-134] What is the most common bacterial cause of suppurative perichondritis?
+    ANSWER: Pseudomonas aeruginosa   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-135] Which antibiotic would provide appropriate coverage for a patient with suspected suppurative perichondritis of the ear?
+    ANSWER: Ciprofloxacin   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-136] What is the most common cause of perichondritis?
+    ANSWER: Ear piercing   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-137] A patient presents with suppurative perichondritis 1 week after getting an ear piercing. The patient is afebrile with a nontoxic appearance and normal vital signs. Which action is most appropriate?
+    ANSWER: Removal of foreign body   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-138] What is the most recognized complication of severe perichondritis?
+    ANSWER: Cartilage necrosis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-139] A 6-year-old boy presents with severe eye pain and blurred vision after acciden- tally getting plaster in his eyes. What is the best initial step in management?
+    ANSWER: Irrigate with normal saline   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-140] A 25-year-old man presents with bilateral eye redness and a watery discharge over the past few days, as shown. He denies trauma, vision problems, and fever. He says that the redness started in one eye then spread to the other. He also says he had a dry cough 1 week earlier that has resolved. Fluorescein examination of both eyes is negative for any uptake.
+    ANSWER: Cool compresses to the eyes and diligent handwashing   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-141] A 22-year-old woman presents with right eye pain that started 2 days ago. When asked, she says she occasionally leaves her contacts in when she sleeps but denies feeling any foreign bodies. After the contact lens is removed and a numbing drop is put in her eye, a fluorescein examination is performed and shown below.
+    ANSWER: Tobramycin 0.3% ophthalmic solution   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-142] A 14-year-old boy with no medical history presents with right eye pain that started while mowing the lawn. On examination, his visual acuity is 20/25 in the right eye with injected conjunctiva. Wood lamp examination shows no visible foreign body to the anterior cornea, and fluorescein staining shows a small corneal abrasion with a negative Seidel test.
+    ANSWER: Eyelid eversion   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-143] A 33-year-old woman presents with a lump on her eyelid, as shown. She denies vi- sion changes, pain with extraocular movement, or drainage. What is the appropri- ate treatment? Credit: Copyright 2016 American Academy of Ophthalmology.
+    ANSWER: Apply warm compresses   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-144] When treating a patient with acute angle-closure glaucoma, what is the next best step in management if administration of three doses of timolol drops does not de- crease the intraocular pressure?
+    ANSWER: Administer one dose of acetazolamide 500 mg IV or PO   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-145] A 23-year-old man with a history of sickle cell disease presents with blurred vision after a ball hit his eye. A physical examination reveals blood in the anterior cham- ber and an intraocular pressure of 30 mm Hg. Which medication is contraindicated?
+    ANSWER: Carbonic anhydrase inhibitor   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-146] Which pupillary finding is characteristic of an acute angle-closure glaucoma attack when exposed to light?
+    ANSWER: Mid-sized pupil that is minimally reactive   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-147] A 50-year-old woman developed sudden-onset right eye pain and blurry vision as- sociated with vomiting 1 hour prior to arrival. What is the most probable diagnosis?
+    ANSWER: Acute angle-closure glaucoma   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-148] A 50-year-old woman developed right eye pain, blurry vision, and nausea 6 hours ago. She has diffuse redness of the conjunctiva with prominence around the cornea. The pupil is mid-sized and nonreactive to light. There is no exudate or photophobia. What is the most probable diagnosis?
+    ANSWER: Acute angle-closure glaucoma   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-149] A patient presents with the sudden onset of a painful red eye. What would be diag- nostic for an acute angle-closure glaucoma attack?
+    ANSWER: Elevated intraocular pressure   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-150] What is the appropriate treatment for acute angle-closure glaucoma?
+    ANSWER: Timolol, acetazolamide, apraclonidine, and pilocarpine   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-151] What is the most common complication of untreated traumatic hyphema?
+    ANSWER: Rebleeding   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-152] A 32-year-old woman with a history of sickle cell disease presents with eye pain. A focused physical examination reveals the findings shown below. Which medication is most likely to harm the patient? Credit: ARZTSAMUI/Shutterstock.com.
+    ANSWER: Acetazolamide   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-153] In the setting of a hyphema, which condition is most likely to require additional medication to aid in clotting to decrease the risk of developing increased intraocu- lar pressure?
+    ANSWER: Hemophilia A   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-154] A 54-year-old man presents with eye pain. A focused physical examination is per- formed, and the following finding is noted. What is the best next step in management? Credit: Yoko Okunuki, Junichi Sakai, Takeshi Kezuka, and Hiroshi Goto (CC BY 4.0; via Wikimedia Commons)
+    ANSWER: Raise the head of the bed to 45 degrees   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-155] What is the most common sequelae of untreated hyphema that may be seen in the emergency department?
+    ANSWER: Increased intraocular pressure   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-156] A 67-year-old woman presents with left eye pain and blurry vision over the past day. She denies trauma to the eye and exposure to foreign bodies. Examination re- veals injected conjunctiva in the left eye and photophobia. Visual acuity is 20/30 in her right eye and 20/100 in her left with normal intraocular pressures bilater- ally.
+    ANSWER: Prescribe cycloplegic eye drops, and arrange ophthalmology follow-up within 24 hours   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-157] A 50-year-old man with a history of ulcerative colitis presents with an atraumatic red and painful right eye associated with blurred vision, watery discharge, and photophobia that began 2 days earlier. His visual acuity is slightly decreased in the right eye but normal in the left eye. Pain with a consensual light reflex is present.
+    ANSWER: Iritis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-158] Which topical medication should be avoided in patients with iritis?
+    ANSWER: Pilocarpine   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-159] Which finding is required to diagnose iritis?
+    ANSWER: Cells and flare on slit-lamp examination   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-160] An otherwise healthy 22-year-old man presents with redness, pain, blurred vision, and photophobia of the left eye with minimal tearing that has worsened over the past 2 weeks. He also endorses a 1-month history of low back pain and hip pain that is worse at night and improves with exercise.
+    ANSWER: Anterior uveitis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-161] What is the mainstay of treatment for noninfectious iritis?
+    ANSWER: Topical steroids   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-162] A 32-year-old woman presents with the following finding. She reports eye pain, photophobia, and blurred vision but denies tearing, discharge, and headache. On examination, she has a constricted pupil that is poorly reactive to light. Intraocular pressure in both eyes is 12 mm Hg. What is the most likely diagnosis? Credit: ARZTSAMUI/Shutterstock.com.
+    ANSWER: Anterior uveitis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-163] A 32-year-old woman presents with a 24-hr history of blurred left eye vision that is associated with flashes of light. She also reports a lightening of red colors when viewed with the left eye compared to the right. Her extraocular movements are in- tact, but they worsen her retro-orbital headache. Visual acuity in the left eye is de- creased compared to the right.
+    ANSWER: Optic neuritis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-164] What approach is contraindicated for a first-time presentation of demyelinating optic neuritis?
+    ANSWER: Oral prednisone   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-165] A patient who presents with decreased vision and pain with right eye movement is diagnosed with optic neuritis. Brain MRI shows contrast enhancement in the or- bital portion of the optic nerve as well as four cerebral white-matter lesions. What disease is this patient most at risk for developing within the next 10 years?
+    ANSWER: Multiple sclerosis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-166] Which study is the most reasonable choice to confirm a diagnosis of optic neuritis?
+    ANSWER: MRI of the orbit   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-167] A patient diagnosed with optic neuritis has questions about the likelihood that their vision will return to normal. What is the best counsel to offer?
+    ANSWER: Expect excellent recovery with some deficits   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-168] A 57-year-old man presents with difficulty seeing out of his right eye over the past 3 hours. He denies ocular trauma, eye pain, and headaches. He states that he saw some floaters at first but now has some blind spots when he looks in certain direc- tions. On direct ophthalmoscopic examination without dilation of the eye, the eye appears normal. Visual acuity is 20/20 OU with pinpoint correction.
+    ANSWER: Retinal detachment   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-169] A 55-year-old woman presents with painless loss of vision in her right eye that oc- curred suddenly. A physical examination reveals a pale edematous retina with a visible red macula. What is the most likely cause of this condition?
+    ANSWER: Central retinal artery occlusion   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-170] What is the most likely fundoscopic examination finding for a patient with central retinal artery occlusion?
+    ANSWER: Retinal pallor with cherry red macula   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-171] From which artery does an embolus originate that leads to central retinal artery occlusion?
+    ANSWER: Internal carotid artery   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-172] In a stand-alone emergency department, a patient presents with monocular, pain- less vision loss, and central retinal artery occlusion is suspected. What is the ap- propriate disposition for this patient?
+    ANSWER: Transfer to a stroke center with both neurology and ophthalmology   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-173] A patient presents with painless vision loss. A fundoscopic examination shows monocular blurred disc margins with dilated and tortuous veins and diffuse retinal hemorrhages. What is the most likely diagnosis?
+    ANSWER: Central retinal vein occlusion   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-174] An elderly patient presents with suspected central retinal artery occlusion and jaw claudication and is found to also have an elevated ESR. What therapy should be started?
+    ANSWER: Methylprednisolone   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-175] Which diagnostic test distinguishes postseptal (orbital) cellulitis from preseptal (periorbital) cellulitis?
+    ANSWER: Contrast-enhanced CT scan of the orbits   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-176] What physical examination finding most strongly indicates that an eye infection is the result of orbital cellulitis?
+    ANSWER: Ophthalmoplegia   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-177] A child presents with painful swelling and redness to the left eyelid with associated ophthalmoplegia. What is the most likely diagnosis?
+    ANSWER: Orbital cellulitis   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-178] Which diagnostic test would best distinguish preseptal cellulitis from orbital cellulitis?
+    ANSWER: CT scan with contrast   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-179] Which medication regimen is the correct treatment for mild preseptal cellulitis without evidence of skin trauma?
+    ANSWER: Oral amoxicillin-clavulanic acid   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-180] Which finding can develop as a complication of orbital cellulitis?
+    ANSWER: Cavernous sinus thrombosis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-181] For which nasal foreign body is a topical vasoconstricting agent such as oxymeta- zoline contraindicated in toddlers?
+    ANSWER: Small button battery   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-182] A 2-year-old boy presents with a 2-week history of purulent discharge from the right nostril that has not responded to a 7-day course of amoxicillin. Which course of action is most appropriate?
+    ANSWER: Examine inside the nose   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-183] A 38-year-old woman with a history of asthma and eczema presents with nasal congestion of 1 week's duration. Over the past few days, she has had persistent sneezing, rhinorrhea, and nasal stuffiness. Examination reveals inflamed nasal turbinates and slight erythema in the oropharynx. There is no tenderness to palpa- tion of her sinuses and no fever. What is the most likely diagnosis?
+    ANSWER: Allergic rhinitis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-184] A 30-year-old woman presents with headache, fever, and decreased vision in her right eye over the past 24 hours. Examination reveals exophthalmos of the right eye, no pupillary reflex, and a clear anterior chamber. When asked, she denies weakness and numbness. What is the most likely diagnosis?
+    ANSWER: Cavernous sinus thrombosis   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-185] A patient presents with 5 days of acute nasal congestion, purulent nasal discharge, and facial pain that worsens with leaning forward. What is the best initial treatment?
+    ANSWER: Nasal saline irrigation for 7 days   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-186] What clinical finding distinguishes an aphthous ulcer from herpes labialis?
+    ANSWER: Aphthous ulcers generally occur on the nonkeratinized mucosa inside the mouth   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-187] A 4-year-old boy presents with a mass on the right side of his neck located just an- terior to the border of the sternocleidomastoid muscle. The mother says she first noticed it 3 days earlier. The patient has not complained of any pain and has had no difficulties breathing or swallowing. There is no erythema appreciated over the area. Ultrasonography demonstrates a cystic structure.
+    ANSWER: Branchial cleft cyst   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-188] A 22-year-old man presents with significant pain at the site of the extraction 3 days after having his left upper wisdom tooth extracted. He has no problems breathing or swallowing. An examination reveals no significant swelling, and his temperature is normal. What is the best next step in treatment?
+    ANSWER: Irrigate the site with saline and refer the patient for dental follow-up   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-189] A 5-year-old girl presents after a fall. An examination reveals tenderness but no movement of the upper left central incisor. Minimal blood is noted around the su- perior aspect of the tooth, but no other oral lacerations are noted and the tooth is otherwise intact. What is part of the appropriate management for this injury?
+    ANSWER: Soft diet and follow-up with a pediatric dentist in 48 to 72 hours   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-190] A 50-year-old man presents with fever and odynophagia. A physical examination reveals throat swelling, tongue elevation and swelling, and trismus. What is the most likely diagnosis?
+    ANSWER: Ludwig angina   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-191] What is the best antibiotic choice for an immunocompetent patient with Ludwig angina who has developed anaphylaxis from penicillin use in the past?
+    ANSWER: Levofloxacin and metronidazole   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-192] A 32-year-old man presents with fever, sore throat, and neck pain. His vital signs are BP 107/60, P 130, R 25, and T 38°C (100.4°F); SpO is 94% on room air. On examination, tense edema and erythema overlying the patient's neck and edema to the floor of the mouth are noted. The patient is spitting secretions into a basin. What is the most important next step?
+    ANSWER: Perform intubation   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-193] A 38-year-old man presents with neck pain and difficulty swallowing. He is in res- piratory distress, stridulous, and sitting upright on the edge of the stretcher. He has a muffled voice, trismus, and brawny edema to the neck. What is the safest way to secure this patient's airway?
+    ANSWER: Awake fiberoptic intubation   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-194] A 54-year-old man presents with fever, sore throat, and neck pain. His vital signs include BP 120/80, P 110, R 27, and T 39°C (102.2°F). A physical examination is performed (see image). What is the most common etiology of this condition? Credit: Laura Duggan, MD.
+    ANSWER: Odontogenic infection   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-195] A 54-year-old man presents with neck pain and swelling that has been worsening over the past day. His vital signs include BP 122/60, P 90, and T 39°C (102.2°F); SpO is 94% on room air. He is able to speak clearly in full sentences and handle his own secretions, but he is sitting upright in the stretcher. His anterior neck is erythematous, tender to palpation, and indurated.
+    ANSWER: Ludwig angina   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-196] A 22-year-old woman presents with recurrent, painful, ulcerative lesions in her mouth and on her vulva. She was seen by her ophthalmologist last month for uveitis. What is the most likely diagnosis?
+    ANSWER: Behçet syndrome   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-197] A 45-year-old man presents with right submandibular swelling over the past week. He denies trauma and says the pain is worse when he eats. There are no signs of overlying erythema, and he has no other symptoms. The physical examination re- veals a firm submandibular gland with no drainage; attempts to milk the gland do not remove the mass. What is the appropriate disposition?
+    ANSWER: Instruct him to use analgesics and sialogogues   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-198] A 52-year-old woman presents with unilateral facial swelling that has been present for the past week without fever or systemic symptoms. She says she has had a "bad tooth" for about a month but has been unable to see a dentist. She is immunocom- petent, and she has no trismus. What is the next step in treatment?
+    ANSWER: Give oral antibiotics   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-199] A 25-year-old man presents with mouth pain and bleeding gums. He smokes ciga- rettes but does not have any other significant medical history. He is currently homeless and has not had access to good medical or dental care for a long time. In addition to encouraging a proper diet and dental referral, what is an effective treatment? Credit: Courtesy of Robert B. Blankenship, MD, FACEP.
+    ANSWER: Chlorhexidine oral rinses   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-200] A 50-year-old man presents with a 2-day history of dyspnea, fever, and odynopha- gia. He has difficulty providing a history; his wife says he gets more short of breath when he lies back. On examination, he is sitting upright and has mild stridor. His vital signs include BP 140/95 and P 127; SpO is 97% on room air.
+    ANSWER: Diabetes   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-201] A patient presents with an abrupt onset of fever, sore throat, agitation, stridor, and drooling. A portable lateral neck x-ray is suspicious for epiglottitis. What is the next best step in management?
+    ANSWER: Endotracheal intubation   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-202] An adult patient presents with a slowly progressive sore throat and a fever over the course of 1 week. He has no evidence of stridor or severe respiratory distress. Direct visualization of the epiglottis is concerning for infectious epiglottitis with airway narrowing of less than 50%. What is the next best step in management?
+    ANSWER: Admit to the ICU   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-203] Which pharmacologic option is the most appropriate antimicrobial coverage for acute infectious epiglottitis in an immunocompromised patient?
+    ANSWER: Cefepime and vancomycin   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-204] Which procedure is contraindicated when managing a critical airway in a patient with epiglottitis?
+    ANSWER: Supraglottic airway device   (key C)
+[PEER-PHYS PEER-2026-volume-1-text-q-205] In adults with epiglottitis, which condition is associated with a higher incidence of requiring airway intervention?
+    ANSWER: Diabetes   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-206] A 6-year-old boy is brought in with a 3-day history of URI symptoms, including congestion, a fever that had been low grade, and a nonproductive cough. The mother says his temperature was 40.5°C (104.9°F) today. On examination, the boy is lethargic but arousable, and stridor is noted. What is the most likely diagnosis?
+    ANSWER: Bacterial tracheitis   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-207] A 73-year-old man is transferred from a skilled nursing facility because he sud- denly began having difficulty breathing. He underwent tracheostomy and gastric tube placement after a stroke 8 months ago. His vital signs are BP 165/90, P 110, R 30, and T 37.4°C (99.3°F); SpO is 85% on room air. Pulmonary auscultation re- veals decreased breath sounds and bilateral wheezing.
+    ANSWER: Suctioning of the tracheostomy tube   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-208] A 63-year-old woman presents with bleeding from a tracheostomy site. She under- went the procedure 10 days ago as part of her treatment for esophageal cancer. She is acutely short of breath, appears in extremis, and has significant hemoptysis. What is the most likely source of the bleeding?
+    ANSWER: Tracheoinnominate artery fistula   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-209] A 57-year-old man is transferred from a skilled nursing facility because his tra- cheostomy tube cuff is not inflating. The tracheostomy was done 5 days ago for re- peated pneumonia and is still in place. The patient has no active bleeding and is not in distress. What is the most likely complication of replacing the tube?
+    ANSWER: Creating a false passage   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-210] What is the most common early complication after tracheostomy?
+    ANSWER: Hemorrhage   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-211] Replacing a dislodged tracheostomy tube within the first week after cannulation carries the greatest risk of what complication?
+    ANSWER: False lumen   (key A)
+[PEER-PHYS PEER-2026-volume-1-text-q-212] A patient with a history of tracheostomy 3 weeks ago presents with acute-onset massive hemorrhage from the tracheostomy site. Which artery is most commonly involved?
+    ANSWER: Innominate artery   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-213] A patient presents with massive hemorrhage from a tracheostomy, which is con- cerning for tracheoinnominate fistula. What is the best initial step in management?
+    ANSWER: Hyperinflation of cuffed tracheostomy tube   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-214] A 65-year-old woman with a history of tracheostomy 1 year ago presents with in- creased mucus production, dyspnea, and shortness of breath. She presents in res- piratory distress, and a suction catheter cannot pass through her uncuffed, single cannula tracheostomy tube. What is the next best step in management?
+    ANSWER: Remove tracheostomy tube   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-215] A 26-month-old boy presents because he has a high fever and neck pain when he moves his head. There is no history of cough or respiratory concerns, and he is awake and alert with mild emotional distress. His vital signs include BP 82/64, P 132, R 36, and T 39°C (102.2°F). An examination reveals tenderness of the right- sided anterior cervical lymph nodes and decreased range of motion of his neck.
+    ANSWER: Retropharyngeal abscess   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-216] An ill-appearing 3-year-old girl presents with a high fever and meningismus. Head CT and lumbar puncture are normal. She begins drooling and states that she can- not find a comfortable position for her neck. Which course of action is most likely to yield the correct diagnosis?
+    ANSWER: CT scan of the neck   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-217] A 10-year-old boy presents with bleeding from the mouth 5 days post-tonsillec- tomy. On examination, there is a small amount of oozing blood from a distinct area on the right post-tonsillectomy site. After a period of observation, the bleed- ing persists. What is the best next step in management?
+    ANSWER: Topical cauterization with silver nitrate   (key D)
+[PEER-PHYS PEER-2026-volume-1-text-q-218] A 32-year-old man presents with a sore throat, muffled voice, and fever. He was diagnosed 1 week ago with streptococcal pharyngitis, but he did not fill the antibi- otics he was prescribed. Examination of the posterior oropharynx shows erythe- matous and enlarged tonsils with exudates and a right-sided fullness with uvular deviation to the left. What is the most likely diagnosis?
+    ANSWER: Peritonsillar abscess   (key B)
+[PEER-PHYS PEER-2026-volume-1-text-q-219] A 7-week-old boy is brought in for evaluation of a neck mass. His mother says it has gotten bigger over the past month, but she did not take him to the doctor be- cause she does not have insurance. She is worried because he has not gained much weight over the past month and feels like he has a fever.
+    ANSWER: Fluctuance of the mass when palpated   (key A)
+[PEER-CS peer2026-1-batch-162-q-162] A 16-year-old girl with no significant past medical history presents with a 2-day history of redness, pain, and swelling of her right auricle. She had a high chon- dral ear piercing 1 day prior to symptom onset. Her vital signs are BP 105/97, P 92, R 18, and T 37.8°C (100°F); SpO is 100% on room air. She is well appearing.
+    ANSWER: Pseudomonas aeruginosa   (key C)
+[PEER-CS peer2026-1-batch-163-q-163] A 16-year-old girl with no significant past medical history presents to the emer- gency department with a 4-day history of redness, pain, and swelling of her right auricle that started 1 day after a high chondral ear piercing.
+    ANSWER: Admit for parenteral antibiotics and ENT consultation   (key A)
+[PEER-CS peer2026-1-batch-164-q-164] A 25-year-old man is brought in after a motor vehicle collision. The vehicle rolled over multiple times and was severely damaged. He had a prolonged extrication time. On arrival, his GCS score is 14 (E4V4M6). His vital signs include BP - Case Series 2026-1 — Answered Page 315 of 974 165/97, P 55, and R 18; SpO is 96% on room air.
+    ANSWER: Basilar   (key A)
+[PEER-CS peer2026-1-batch-165-q-165] A 25-year-old man is brought in after a motor vehicle collision. The vehicle rolled over multiple times and was severely damaged. He had a prolonged extrication time. On arrival, his GCS score is 14 (E4V4M6). His vital signs include BP 165/97, P 55, and R 18; SpO is 96% on room air. On the secondary survey, the patient complains of a right-sided headache and decreased hearing from his right ear.
+    ANSWER: Beta-2 transferrin assay   (key A)
+[PEER-CS peer2026-1-batch-166-q-166] A 72-year-old woman with a past medical history of diabetes complains of drainage and pain from her right ear for the past 3 weeks. She was prescribed topical fluoroquinolone drops 2 weeks ago with interval worsening of symptoms. The patient states she has attempted to clean her ear with a cotton-tipped swab but that she continues to wipe copious pus away from her ear canal.
+    ANSWER: Cranial nerve VII palsy   (key A)
+[PEER-CS peer2026-1-batch-167-q-167] A 72-year-old woman with a past medical history of diabetes complains of drainage and pain from her right ear for the past 3 weeks. She was prescribed topical fluoroquinolone drops 2 weeks ago with interval worsening of symptoms. The patient states she has attempted to clean her ear with a cotton-tipped swab but that she continues to wipe copious pus away from her ear canal.
+    ANSWER: Administer insulin, intravenous fluids, and neomycin-polymyxin B-hydrocorti-   (key A)
+[PEER-CS peer2026-1-batch-168-q-168] A previously healthy 4-year-old boy presents with fever, ear pain, and facial swelling. His vital signs are BP 92/64, P 136, R 28, and T 38.3°C (100.9°F); SpO 98% on room air. He has been on amoxicillin for acute otitis media for 6 days. Tonight, he began looking very tired, drinking less than usual, and had a fever.
+    ANSWER: Mastoiditis   (key B)
+[PEER-CS peer2026-1-batch-169-q-169] A previously healthy 4-year-old boy presents with confusion and vomiting. His vital signs are BP 90/62, P 154, R 34, and T 39.8°C (103.6°F); SpO is 97% on room air. He was seen 3 days ago for fever, ear pain, and facial swelling behind his ear. He had been on amoxicillin for 6 days prior to the index visit, but he was transitioned to oral clindamycin for “facial cellulitis” and discharged home.
+    ANSWER: Emergent MRI/MRV   (key A)
+[PEER-CS peer2026-1-batch-170-q-170] A previously healthy 7-year-old boy presents with fever, fatigue, and ear pain. His vital signs are BP 100/72, P 125, R 22, and T 39.9°C (103.8°F); SpO is 98% on room air. He has had about a week of ear pain as well as waxing and waning tac- tile fevers at home. He has a history of recurrent otitis media. On examination, he is nontoxic appearing, awake, and interactive.
+    ANSWER: Piperacillin-tazobactam IV   (key C)
+[PEER-CS peer2026-1-batch-171-q-171] A 73-year-old woman with a history of hypertension, osteoporosis, hyperlipi- demia, and osteoarthritis presents after three episodes of room spinning dizzi- ness over the past week. She had similar episodes a year ago, which occurred for a couple months then went away, but these are more severe.
+    ANSWER: “You have an idiopathic disease that causes increased volume of the fluid in your   (key A)
+[PEER-CS peer2026-1-batch-172-q-172] A 73-year-old woman with a history of well-controlled diabetes, hypertension, osteoporosis, hyperlipidemia, and osteoarthritis presents after three episodes of room spinning dizziness over the past week. She had similar episodes a year ago, which occurred for a couple months then went away, but these are more severe.
+    ANSWER: Vestibular rehabilitation - Case Series 2026-1 — Answered Page 333 of 974   (key D)
+[PEER-CS peer2026-1-batch-173-q-173] A 24-year-old man presents with a 3-day history of persistent left eye pain, de- creased vision, and photophobia after being struck in the eye with a baseball. His visual acuity is 20/20 in the right and 20/100 in the left eye. His intraocular pressures are normal, and fluorescein examination findings are normal. His slit lamp examination shows cell and flare. His left eye is shown in the image.
+    ANSWER: Cyclopentolate   (key A)
+[PEER-CS peer2026-1-batch-174-q-174] A 24-year-old man presents with persistent left eye pain, decreased vision, and photophobia after being struck in the eye with a baseball. His visual acuity is 20/20 in the right and 20/100 in the left eye. His intraocular pressures are nor- mal, and fluorescein examination findings are normal. His slit lamp examination shows cell and flare.
+    ANSWER: Ophthalmoplegia   (key B)
+[PEER-CS peer2026-1-batch-175-q-175] A 42-year-old patient complains of 2 days of right eye redness, pain, and watery discharge. The patient usually wears soft contact lenses but has resorted to wear- ing glasses because of the discomfort. In addition to pain in the eye, they describe a gritty foreign-body sensation and are unable to keep the eye open without assistance.
+    ANSWER: Infectious keratitis   (key D)
+[PEER-CS peer2026-1-batch-176-q-176] A 42-year-old patient complains of 2 days of right eye redness, pain, and watery discharge. The patient usually wears soft contact lenses but has resorted to wear- ing glasses because of the discomfort. In addition to pain in the eye, they describe a gritty foreign-body sensation and are unable to keep the eye open without assistance. Which medication may potentially worsen this condition?
+    ANSWER: Prednisolone drops   (key D)
+[PEER-CS peer2026-1-batch-177-q-177] A 12-year-old girl, fully immunized, is brought in by her father with a chief com- plaint of left-sided periorbital swelling. She appears well. Her vital signs include BP 104/58, P 94, R 16, and T 37.6°C (99.7°F). What clinical features, if present, would warrant admission for parenteral an- timicrobial therapy?
+    ANSWER: Proptosis   (key D)
+[PEER-CS peer2026-1-batch-178-q-178] A 12-year-old girl, fully immunized, is brought in by her father with a chief com- plaint of left-sided periorbital swelling. She has had 10 days of URI symptoms and has developed thick nasal discharge over the past 3 days. Her vital signs in- clude BP 104/58, P 115, R 20, and T 38.5°C (100.8°F).
+    ANSWER: Mixed aerobic and anaerobic bacteria   (key A)
+[PEER-CS peer2026-1-batch-179-q-179] A 39-year-old man presents with worsening left-sided periorbital pain, swelling, conjunctival injection, and lacrimation followed by a rash that appeared 5 days after his symptoms began. His vital signs include BP 120/82, P 94, R 16, and T 37.6°C (99.7°F). His visual acuity is 20/20 bilaterally.
+    ANSWER: Perform a fluorescein examination   (key D)
+[PEER-CS peer2026-1-batch-180-q-180] A 35-year-old woman complains of 1 week of left eye pain. Her pain has gradually worsened and is now accompanied by gritty discomfort with blinking, blurred vi- sion, and pain with eye movement. On examination, the patient has proptosis, ophthalmoplegia, and swelling of the lid of the left eye. Based on the examination findings, which diagnosis can be excluded from the differential?
+    ANSWER: Periorbital cellulitis   (key B)
+[PEER-CS peer2026-1-batch-181-q-181] A 35-year-old woman complains of 1 week of left eye pain. Her pain has gradually worsened and is now accompanied by gritty discomfort with blinking, blurred vi- sion, and pain with eye movement. On examination, the patient has significant tenderness over the maxillary sinus, proptosis, ophthalmoplegia, and swelling of the lid in the left eye.
+    ANSWER: Decreased sensation of the face   (key A)
+[PEER-CS peer2026-1-batch-182-q-182] A 35-year-old woman complains of 1 week of left eye pain. Her pain has gradually worsened and is now accompanied by blurred vision and pain with eye move- ment. On examination, she has proptosis, ophthalmoplegia, and swelling of the lid of the left eye. Which physical finding would raise specific concern for mucormycosis in this patient?
+    ANSWER: Palatal eschar   (key D)
+[PEER-CS peer2026-1-batch-183-q-183] A 67-year-old woman presents with progressive, painless blurry vision in her right eye for the past 5 hours. She describes seeing floaters and flashes of light in her peripheral vision. She reports that she had cataract surgery in the affected eye 1 week ago. Her visual acuity is 20/40 in both eyes. On visual field testing, her central visual acuity is unaffected.
+    ANSWER: Retinal detachment   (key D)
+[PEER-CS peer2026-1-batch-184-q-184] A 67-year-old woman presents with abrupt, painless vision loss in her right eye for the past 5 hours. She had a preceding episode 1 week prior, which consisted of transient, painless monocular vision loss in the same eye and resolved sponta- neously without residual deficits after 5 minutes. On examination of her pupils, she has an afferent pupillary defect of the right eye.
+    ANSWER: Giant cell arteritis   (key B)
+[PEER-CS peer2026-1-batch-185-q-185] A 67-year-old woman presents with painful vision loss in her right eye for the past 5 hours, which is associated with seeing halos around lights. She has associ- ated headache and nausea, and she has vomited twice. Examination of the af- fected eye reveals a right mid-fixed pupil and a hazy cornea with conjunctival in- jection.
+    ANSWER: Sickle cell disease   (key C)
+[PEER-CS peer2026-1-batch-186-q-186] A 22-year-old man presents with left eye pain and blurry vision after being struck in the face with a basketball. He has 20/30 vision in the affected eye and 20/20 in the right eye. He has normal extraocular eye movements, and his pupil is round and reactive to light with no afferent defect. He has no proptosis and mini- mal conjunctival injection.
+    ANSWER: Observation admission for bedrest, acetazolamide IV, and emergent ophthalmo-   (key A)
+[PEER-CS peer2026-1-batch-187-q-187] A 35-year-old woman presents with eye pain and blurry vision after being el- bowed in the eye by her toddler. Her right eye is shown below. She has 20/30 vi- sion in the affected eye, 20/20 in the left eye. She has normal extraocular eye movements, and her pupil is round and reactive to light with no afferent defect. She has no proptosis and minimal conjunctival injection.
+    ANSWER: Discharge with ophthalmologist follow-up in 2 to 7 days   (key D)
+[PEER-CS peer2026-1-batch-188-q-188] A 32-year-old woman presents after a low-speed motor vehicle collision. She was the restrained driver of a sports utility vehicle. The airbags did not deploy, there was no glass broken in the vehicle, and no compartment intrusion. There was no loss of consciousness. The patient was ambulatory at the scene.
+    ANSWER: CT of the orbit without contrast   (key B)
+[PEER-CS peer2026-1-batch-189-q-189] A 32-year-old woman presents after a low-speed motor vehicle collision. She was the restrained driver of a sports utility vehicle. The airbags did not deploy, there was no glass broken in the vehicle, and no compartment intrusion. There was no loss of consciousness. The patient was ambulatory at the scene. On arrival, the patient complains of double vision and right-sided facial pain.
+    ANSWER: Entrapment of the inferior rectus muscle   (key B)
+[PEER-CS peer2026-1-batch-190-q-190] A 29-year-old man presents after a high-speed motor vehicle collision where he hit his left orbital region on the steering wheel. He complains of eye pain and vi- sion loss in his left eye. He denies pain elsewhere or other injuries. He does not wear contacts or glasses. His vital signs are stable. There is swelling and tenderness of the left orbital re- gion.
+    ANSWER: Perform immediate lateral canthotomy - Case Series 2026-1 — Answered Page 374 of 974   (key C)
+[PEER-CS peer2026-1-batch-191-q-191] A 29-year-old man presents after a high-speed motor vehicle collision with or- bital compartment syndrome, likely secondary to a retrobulbar hematoma. A lat- eral canthotomy is performed. As the procedure is begun, the patient becomes unresponsive. He is in a narrow-complex bradycardia on telemetry. Notable vital signs include BP 78/42 and P 28. His glucose is 110.
+    ANSWER: Oculocardiac reflex   (key C)
+[PEER-CS peer2026-1-batch-192-q-192] A 29-year-old man presents after a high-speed motor vehicle collision with or- bital compartment syndrome, likely secondary to a retrobulbar hematoma. A lat- eral canthotomy is performed. Repeat intraocular pressure is 18 mm Hg. He can now see out of his left eye. What structure was transected to successfully relieve pressure on the eye?
+    ANSWER: Lateral canthal ligament   (key A)
+[PEER-CS peer2026-1-batch-193-q-193] A 50-year-old man presents after waking up 2 hours prior with a left-sided facial droop. He has a history of hypertension, hyperlipidemia, and atrial fibrillation. On arrival, his vital signs are BP 170/90, P 85, R 18, and T 37.6°C (99.7°F); SpO is 97% on room air. His neurologic examination reveals an inability to furrow his left brow in addition to what is shown in the following image.
+    ANSWER: Viral infection   (key D)
+[PEER-CS peer2026-1-batch-194-q-194] A 50-year-old man presents to an emergency department in Arizona after waking up 2 hours prior with a left-sided facial droop. He has a history of hypertension, hyperlipidemia, and atrial fibrillation. On arrival, his vital signs are BP 170/90, P 85, R 18, and T 37.6°C (99.7°F); SpO is 97% on room air.
+    ANSWER: Prednisone   (key D)
+[PEER-CS peer2026-1-batch-195-q-195] A 60-year-old woman complains of fever and bilateral periorbital pain. Her ex- amination shows bilateral periorbital edema with proptosis and restricted ex- traocular movements. An urgent CT scan is performed (shown). Which cranial nerve finding is most commonly associated with her diagnosis?
+    ANSWER: Medial gaze deviation   (key C)
+[PEER-CS peer2026-1-batch-196-q-196] A 60-year-old woman complains of fever and bilateral periorbital pain. Her ex- amination shows bilateral periorbital edema with proptosis and restricted ex- traocular movements. An urgent CT scan is performed (shown). The patient is admitted to the hospital.
+    ANSWER: Antibiotics   (key A)
+[PEER-CS peer2026-1-batch-197-q-197] An 8-year-old autistic girl presents with coughing and spitting. Her vital signs are normal, and she is in no acute distress. Her parents found an opened pack of button batteries on the floor near the child. X-ray shows a disc-shaped ra- diopaque object in the esophagus. What is the proper management for this patient?
+    ANSWER: Emergent endoscopy   (key A)
+[PEER-CS peer2026-1-batch-198-q-198] A 30-year-old man presents with a red and painful right eye and foreign-body sensation after working in an industrial setting. He did not wear eye protection while trimming some construction materials. Which ocular foreign body would require the most urgent removal?
+    ANSWER: Wood splinter   (key D)
+[PEER-CS peer2026-1-batch-199-q-199] A 24-year-old man presents with right ear pain that started approximately 30 minutes prior to arrival while cleaning wax out of his right ear using a clean Q- tip. Hearing is unchanged. He denies nausea, vomiting, and dizziness. He is not a swimmer. His vital signs are BP 120/80, P 80, R 16, and T 36.8°C (98.2°F); SpO is 100% on room air.
+    ANSWER: Discharge with referrals to audiology and otolaryngology   (key B)
+[PEER-CS peer2026-1-batch-200-q-200] A 24-year-old man presents with 1 day of right ear pain. He feels like something is moving inside his ear. His vital signs are BP 120/80, P 80, R 16, and T 36.8°C (98.2°F); SpO is 100% on room air. There are no focal deficits on neurologic ex- amination, no mastoid tenderness or bogginess, and no meningismus. He is calm and cooperative.
+    ANSWER: Lidocaine solution   (key D)
+[PEER-CS peer2026-1-batch-201-q-201] A 16-year-old autistic boy presents with ear pain after inserting a pencil into his right ear. He is vomiting, won't stop crying, has gait ataxia, and has nystagmus. His vital signs are BP 142/94, P 120, R 24, and T 36.8°C (98.2°F); SpO is 100% on room air. He is given diazepam IV for his symptoms. On otoscopy, the left tympanic membrane is normal.
+    ANSWER: Obtain CT of the temporal bone without contrast   (key C)
+[PEER-CS peer2026-1-batch-202-q-202] A 6-year-old boy presents with several weeks of scalp itchiness, circular patches of hair loss, broken hair shafts, and palpable cervical lymphadenopathy. The child is otherwise well appearing, has normal vital signs, and has no other health conditions. What condition may develop in association with this patient's diagnosis?
+    ANSWER: Kerion   (key B)
+[PEER-CS peer2026-1-batch-203-q-203] A 6-year-old boy presents with several weeks of scalp itchiness, circular patches of hair loss, broken hair shafts, and palpable cervical lymphadenopathy. The child is otherwise well appearing, has normal vital signs, and has no other health conditions. Based on the history and appearance, tinea capitis is suspected. Which medica- tion is most likely to harm this patient?
+    ANSWER: Oral ketoconazole   (key B)
+[PEER-CS peer2026-1-batch-204-q-204] A 37-year-old woman with no medical history presents by ambulance after a sud- den-onset, severe headache of 90 minutes' duration. En route, paramedics noted generalized seizure-like activity lasting approximately 60 seconds. Her only med- ication is an oral contraceptive. On arrival, her vital signs are BP 150/90, P 96, R 18, and T 37.0°C (98.6°F); SpO is 98% on room air.
+    ANSWER: CT venography - Case Series 2026-1 — Answered Page 408 of 974   (key B)
+[PEER-CS peer2026-1-batch-205-q-205] A 37-year-old woman with no medical history presents with progressive general- ized headache and blurry vision for 2 months. Her headache is associated with nausea and tinnitus. Her only medications are an oral contraceptive and an over- the-counter anti-inflammatory for pain. On arrival, her vital signs are BP 150/90, P 96, R 18, and T 37.0°C (98.6°F); SpO is 98% on room air.
+    ANSWER: Lumbar puncture   (key A)
+[PEER-CS peer2026-1-batch-206-q-206] A 37-year-old woman presents with a severe, disabling headache of 2 days' dura- tion. Her headache is pounding, associated with nausea, worsened by bright lights and loud sounds, and relieved by lying in a dark, quiet room. Her headaches are often preceded by bright spots in her visual fields. She reports three to four episodes of such headaches every month for the past year.
+    ANSWER: Propranolol 2 - Case Series 2026-1 — Answered Page 414 of 974   (key C)
+[PEER-CS peer2026-1-batch-207-q-207] A 35-year-old man presents with severe right-sided headache. His vital signs in- clude BP 166/92, P 98, R 18, and T 37.1°C (98.8°F). His headache woke him up from sleep and is atraumatic in nature. He has had similar headaches in the past, but has had 2 years without headaches. In the past 6 months, the headaches have been occurring multiple times a week.
+    ANSWER: Unilateral miosis   (key D)
+[PEER-CS peer2026-1-batch-208-q-208] A 35-year-old man presents with severe right-sided headache. His vital signs in- clude BP 166/92, P 98, R 18, and T 37.1°C (98.8°F). His headache woke him up from sleep and is atraumatic in nature. He has had similar headaches in the past, but has had 2 years without headaches. In the past 6 months, the headaches have been occurring multiple times a week.
+    ANSWER: Sumatriptan SQ   (key D)
+[PEER-CS peer2026-1-batch-209-q-209] A 35-year-old man presents with severe right-sided headache. His vital signs in- clude BP 166/92, P 98, R 18, and T 37.1°C (98.8°F). His headache woke him up from sleep and is atraumatic in nature. He has had similar headaches in the past, but has had 2 years without headaches. In the past 6 months, the headaches have been occurring multiple times a week.
+    ANSWER: Suicidal ideation   (key D)
+[PEER-CS peer2026-1-batch-210-q-210] A 26-year-old woman was at a comedy club when, while laughing at a joke, she felt a sudden pop. Subsequently, she noted severe pain anterior to the ear bilater- ally and was unable to close her mouth. In addition to abnormal speech, she re- ports some drooling. She denies prior similar episodes. She is anxious appearing, but her vital signs are within normal limits.
+    ANSWER: Anterior temporomandibular joint dislocation   (key A)
+[PEER-CS peer2026-1-batch-211-q-211] A 26-year-old woman was at a comedy club when, while laughing at a joke, she felt a sudden pop. Subsequently, she noted severe pain anterior to the ear bilater- ally and was unable to close her mouth. In addition to abnormal speech, she re- ports some drooling. She denies prior similar episodes. She is anxious appearing, but her vital signs are within normal limits.
+    ANSWER: Syringe technique   (key B)
+[PEER-CS peer2026-1-batch-212-q-212] A 26-year-old medical student presents with mouth pain. He denies allergies, and his past medical history is noncontributory. He reports decreased sleep sec- ondary to studying for a neuroanatomy exam. He reports decreased oral intake secondary to pain and recalls similar episodes in the past. His vital signs are within normal limits. Notable findings on examination of the oropharynx are shown.
+    ANSWER: Spontaneous resolution in 2 weeks   (key C)
+[PEER-CS peer2026-1-batch-213-q-213] A 26-year-old medical student presents with mouth pain. He denies allergies, and his past medical history is noncontributory. He reports decreased sleep sec- ondary to studying for a neuroanatomy examination. He reports decreased oral intake secondary to pain and recalls similar episodes in the past. His vital signs are within normal limits.
+    ANSWER: Dexamethasone elixir   (key C)
+[PEER-CS peer2026-1-batch-214-q-214] A 62-year-old man with a history of stroke, diabetes, hypertension, and os- teoarthritis presents with lip swelling of 2 hours' duration. Additionally, he has nonpitting facial swelling. He denies any rash or pruritus. He denies any history of trauma and has no known allergies. Which medication is the most likely cause of his symptoms?
+    ANSWER: Enalapril   (key B)
+[PEER-CS peer2026-1-batch-215-q-215] A previously healthy 13-year-old boy presents with a 6-hour history of slowly progressive lip swelling. He denies any medical problems or taking any medica- tions. Further history reveals that his father has had similar reactions in the past. What is the most likely cause of this patient's symptoms?
+    ANSWER: Excess bradykinin accumulation   (key A)
+[PEER-CS peer2026-1-batch-216-q-216] A 45-year-old man presents with 3 days of severe right upper molar pain. He states that he cracked this same tooth 6 months ago while biting down on a hard candy. He planned to see a dentist then, but the pain improved. The pain has now returned. He reports some swelling around the tooth and slight swelling to the right side of his face.
+    ANSWER: Facial space infection - Case Series 2026-1 — Answered Page 435 of 974   (key B)
+[PEER-CS peer2026-1-batch-217-q-217] A 45-year-old man presents with 3 days of severe right upper molar pain. He states that he cracked this same tooth 6 months ago while biting down on a hard candy. He planned to see a dentist then, but the pain improved. The pain has now returned. He reports some swelling around the tooth and slight swelling to the right side of his face.
+    ANSWER: Fever and malaise   (key B)
+[PEER-CS peer2026-1-batch-218-q-218] A 45-year-old man presents with 3 days of severe right upper molar pain. He states that he cracked this same tooth 6 months ago while biting down on a hard candy. He planned to see a dentist then, but the pain improved. The pain has now returned. He reports some swelling around the tooth and slight swelling to the right side of his face.
+    ANSWER: Trismus   (key D)
+[PEER-CS peer2026-1-batch-219-q-219] A 45-year-old man with hypertension, diabetes, and emphysema presents with 3 hours of progressive tongue swelling. He has a history of anaphylaxis to peanuts. On arrival, his vital signs are BP 110/90, P 110, R 24, and T 37.0°C (98.6°F); - Case Series 2026-1 — Answered Page 441 of 974 SpO is 96% on room air. On examination, he appears uncomfortable and repeat- edly attempts to spit.
+    ANSWER: Intravenous ketamine   (key D)
+[PEER-CS peer2026-1-batch-220-q-220] An 8-year-old boy with no known past medical history presents with 10 minutes of progressive facial swelling that began while he was eating lunch with his fam- ily. On arrival, his vital signs are BP 80/40, P 115, R 30, and T 37.0°C (98.6°F); SpO is 95% on room air. On examination, he appears anxious and has a swollen tongue and rapid breathing. What treatment is most appropriate?
+    ANSWER: Intramuscular epinephrine   (key A)
+[PEER-CS peer2026-1-batch-221-q-221] An 8-year-old boy with no known past medical history presents with 10 minutes of progressive facial swelling while enjoying lunch with his family. On arrival, his vital signs are BP 80/40, P 115, R 30, and T 37.0°C (98.6°F); SpO is 95% on room air. On examination, he initially appears anxious, has a swollen tongue and lips, and is breathing rapidly with wheezing.
+    ANSWER: Intravenous epinephrine infusion   (key B)
+[PEER-CS peer2026-1-batch-222-q-222] A 74-year-old woman with a past medical history of hypertension, 40 pack-years of tobacco use, and long-standing daily alcohol use presents with 6 months of in- creasing discomfort of her tongue. She uses dentures daily. Her vital signs are BP 147/92, P 87, R 16, and T 37.6°C (99.68°F); SpO is 97% on room air. She is well appearing.
+    ANSWER: Urgent specialist referral   (key D)
+[PEER-CS peer2026-1-batch-223-q-223] A 74-year-old woman with a past medical history of hypertension, 40 pack-years of tobacco use, and long-standing daily alcohol use presents with 6 months of in- creasing discomfort of her tongue. She uses dentures daily. Her vital signs are BP 147/92, P 87, R 16, and T 37.6°C (99.68°F); SpO is 97% on room air. She is well appearing but endorses decreased intake secondary to discomfort.
+    ANSWER: Tobacco and alcohol use   (key D)
+[PEER-CS peer2026-1-batch-224-q-224] A 72-year-old man with a history of diabetes and benign prostatic hyperplasia presents with 6 days of progressively worsening neck pain. He denies recent falls or trauma to the neck. He recalls having a Foley catheter placed for difficulty uri- nating several weeks ago, which he says was complicated by a urine infection for which he completed a course of antibiotics.
+    ANSWER: MRI of the spine with and without contrast   (key B)
+[PEER-CS peer2026-1-batch-225-q-225] A 72-year-old man with a history of diabetes and benign prostatic hyperplasia presents with 6 days of progressively worsening neck pain. He denies recent falls or trauma to the neck. He recalls having a Foley catheter placed for difficulty uri- nating several weeks ago, which he says was complicated by a urine infection for which he completed a course of antibiotics.
+    ANSWER: Elevated ESR   (key A)
+[PEER-CS peer2026-1-batch-226-q-226] A 72-year-old man with a history of diabetes and benign prostatic hyperplasia presents with 6 days of progressively worsening neck pain. He denies recent falls or trauma to the neck. He recalls having a Foley catheter placed for difficulty uri- nating several weeks ago, which he says was complicated by a urine infection for which he completed a course of antibiotics.
+    ANSWER: Vancomycin and cefepime   (key C)
+[PEER-CS peer2026-1-batch-227-q-227] A 37-year-old man presents with 12 hours of gradual, involuntary twisting mo- tions of his neck after turning his head while watching television. His symptoms are worsened by trying to straighten his neck and mildly improved by placing his hand on the spasm. He states he recently increased one of his medications.
+    ANSWER: Bipolar disorder   (key A)
+[PEER-CS peer2026-1-batch-228-q-228] A 37-year-old man presents with 12 hours of gradual involuntary twisting mo- tions of his neck after turning his head while watching television. His symptoms are worsened by trying to straighten his neck and mildly improved by placing his hand on the spasm. He states he recently increased one of his medications. What is the most appropriate initial treatment for the patient's condition?
+    ANSWER: Diphenhydramine   (key D)
+[PEER-CS peer2026-1-batch-229-q-229] A 47-year-old woman with a history of diabetes and hypertension complains of 2 days of neck pain and swelling. She noticed progressive symptoms shortly after getting over a cold. Her vital signs are BP 145/92, P 90, R 20, and T 37.9°C (100.2°F); SpO is 100% on room air. She has no respiratory distress and ap- pears nontoxic. Select laboratory results are shown.
+    ANSWER: Coxsackievirus A infection   (key B)
+[PEER-CS peer2026-1-batch-230-q-230] A 47-year-old woman with a history of diabetes and hypertension complains of 2 days of neck pain and swelling. She noticed progressive symptoms shortly after getting over a cold. Her vital signs are BP 145/92, P 90, R 20, and T 37.9°C (100.2°F); SpO is 100% on room air. She has no respiratory distress and ap- pears nontoxic. Select laboratory results are shown.
+    ANSWER: Atenolol   (key B)
+[PEER-CS peer2026-1-batch-231-q-231] A 16-year-old boy is brought by his father due to concern for a stiff neck. He was a restrained passenger in a motor vehicle that was rear-ended by another vehicle approximately 12 hours prior. The patient reports that the pain is worse with neck movement. He has not tried anything for pain. He has no vision changes, speech changes, weakness, or paresthesia in his arms or legs.
+    ANSWER: Treat with NSAIDs   (key D)
+[PEER-CS peer2026-1-batch-232-q-232] A 24-year-old woman with a new diagnosis of schizophrenia presents by ambu- lance for neck stiffness. She was discharged from an inpatient psychiatric hospi- talization for decompensated schizophrenia 2 days ago. She reports 3 days of progressive neck stiffness and pain radiating to her head. She has no associated fever, vision changes, dysphagia, or speech changes.
+    ANSWER: Medication adverse effect   (key C)
+[PEER-CS peer2026-1-batch-233-q-233] A 52-year-old man with a history of untreated lung cancer presents with 1 week of shortness of breath. He endorses gradually worsening neck and bilateral upper extremity swelling. He denies fever, cough, hemoptysis, leg swelling, or history of venous thromboembolism. His vital signs are BP 142/86, P 106, R 24, and T 36.8°C (98.2°F); SpO is 96% on room air.
+    ANSWER: Femoral vein   (key A)
+[PEER-CS peer2026-1-batch-234-q-234] A 52-year-old man with a history of untreated lung cancer presents with short- ness of breath. His gradually progressive symptoms began approximately 1 week ago. He endorses gradually worsening neck and bilateral upper extremity swelling. Pertinent physical examination findings include edema of the neck and bilateral upper extremities and faint stridor at rest.
+    ANSWER: Perform awake intubation   (key C)
+[PEER-CS peer2026-1-batch-235-q-235] A 56-year-old man with a history of diabetes and hypertension presents stating his voice sounds funny. He reports having a tooth extraction 2 days prior. He has no allergies to medications. His vital signs are BP 156/92, P 106, R 12, and T 38.8°C (101.8°F); SpO is 99% on room air. He denies any recent history of drooling.
+    ANSWER: Admit to the ICU   (key A)
+[PEER-CS peer2026-1-batch-236-q-236] A 56-year-old man with a history of diabetes and hypertension presents stating his voice sounds funny. He reports having a tooth extraction 2 days prior. He has no allergies to medications. His vital signs are BP 156/92, P 106, R 12, and T 38.8°C (101.8°F); SpO is 99% on room air. He denies any recent history of drooling.
+    ANSWER: Meropenem and vancomycin   (key D)
+[PEER-CS peer2026-1-batch-237-q-237] A 59-year-old man presents with dysphagia. He has a past medical history of gas- troesophageal reflux and diabetes mellitus. He describes rapidly progressive dif- ficulty swallowing solids over 3 months with associated night sweats and a 17-lb - Case Series 2026-1 — Answered Page 482 of 974 unintentional weight loss. He has a 45-year history of cigarette smoking. He is generally well appearing.
+    ANSWER: Esophageal cancer   (key B)
+[PEER-CS peer2026-1-batch-238-q-238] A 68-year-old woman presents with dysphagia. She has a history of hyperten- sion, diabetes, and osteoporosis. Her medications include amlodipine, lisinopril, metformin, and alendronate. She endorses dysphagia and odynophagia to both solids and liquids for 1 month. She denies weight loss or fever. She has no prior history of heartburn and denies alcohol or tobacco use.
+    ANSWER: Alendronate   (key A)
+[PEER-CS peer2026-1-batch-239-q-239] A 24-year-old fully vaccinated woman with no contributory past medical history presents complaining of a sore throat. The pain started as some mild discomfort and odynophagia about 2 days ago and has gotten progressively worse, especially on her right side. Her oral intake is decreased because of pain, but she is still able to take fluids and thickened solids without difficulty.
+    ANSWER: Peritonsillar abscess   (key B)
+[PEER-CS peer2026-1-batch-240-q-240] A 24-year-old fully vaccinated woman with no contributory past medical history presents complaining of a sore throat. The pain started as some mild discomfort and odynophagia about 2 days ago and has gotten progressively worse, especially on her right side. Her oral intake is decreased because of pain, but she is still able to take fluids and thickened solids without difficulty.
+    ANSWER: Location 1   (key A)
+[PEER-CS peer2026-1-batch-241-q-241] A 24-year-old fully vaccinated woman with no contributory past medical history presents complaining of a sore throat. The pain started as some mild discomfort and odynophagia about 2 days ago and has gotten progressively worse, especially on her right side. Her oral intake is decreased because of pain, but she is still able to take fluids and thickened solids without difficulty.
+    ANSWER: Amoxicillin-clavulanate   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-114] Which of the following causes a painless change in vision?
+    ANSWER: Central retinal artery occlusion   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-115] What is the most common cause of vertigo?
+    ANSWER: Benign paroxysmal positional vertigo   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-116] A 36-year-old woman who recently had an upper respiratory viral infection presents to the ED with vertigo that began yesterday. She reports no hearing loss, tinnitus, fever, head trauma, or ear pain. She takes no anti-inflammatory medication and has no allergies. Her vital signs are normal. She has nystagmus during extraocular movement testing, and her tympanic membranes appear normal.
+    ANSWER: Corrective saccade during head impulse test   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-117] A 44-year-old woman presents with dizziness. She states that the room spins to the right every time she turns her head quickly. These episodes last 3–5 seconds and resolve on their own. Which of the following additional findings is most likely to be present in this patient?
+    ANSWER: Resolution of symptoms with the Epley maneuver   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-118] Which of the following is the primary cause of the septal necrosis that results from a button battery lodged in the nose?
+    ANSWER: Electrical current   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-119] An 81-year-old man presents to the ED reporting 2 days of redness, tenderness, and swelling along his left jaw. He has a medical history significant for hypertension and diabetes, which are controlled with metoprolol and metformin. His family also notes that they occasionally give him diphenhydramine to help him sleep.
+    ANSWER: Suppurative parotitis   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-120] A 15-year-old boy presents with acute-onset, atraumatic unilateral eyelid swelling. Examination reveals supratemporal orbital edema and tenderness. Which of the following is the most likely diagnosis?
+    ANSWER: Dacryoadenitis   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-121] A 62-year-old woman presents to the ED with episodes of dizziness beginning 3 days ago. She describes the events as spinning sensations made worse with position changes, and she reports multiple episodes lasting < 1 day. The dizziness is associated with hearing loss, tinnitus, nausea, and vomiting. On physical examination, horizontal nystagmus and decreased hearing on the left are present.
+    ANSWER: Ménière disease   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-122] A 19-year-old man presents to the ED with fever, headache, and vision changes. On physical exam, you note unilateral lateral gaze palsy and periorbital edema. Vital signs are BP 100/60 mm Hg, HR 120 bpm, RR 20/min, and T 102.9°F (39.4°C). Which of the following is the most common preceding illness that progresses into this patient's most likely disease process?
+    ANSWER: Acute sinusitis   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-123] Which of the following antibiotics is most appropriate for a patient presenting with a dental abscess with soft tissue involvement and no systemic signs of infection?
+    ANSWER: Amoxicillin-clavulanate   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-124] A 14-year-old boy presents to the emergency department with a bug in his ear, acute in onset, approximately 20 minutes ago. The bug is easily visualized in the left external ear canal. It is removed with alligator forceps. On repeat inspection, an insect wing is left in the ear canal. Irrigation successfully removes the wing.
+    ANSWER: No further treatment needed   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-125] Which ocular physical exam finding is suggestive of endophthalmitis?
+    ANSWER: Hypopyon   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-126] A 16-year-old boy presents to the ED with a foreign body sensation and buzzing in his right ear that began early this morning and woke him up. Physical exam reveals a moving insect in the external auditory canal. Which of the following is the most appropriate next step in the care of this condition?
+    ANSWER: Instillation of lidocaine solution in the ear canal before foreign body removal   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-127] Which one of the following signs has the greatest likelihood ratio for acute otitis media?
+    ANSWER: Impaired mobility of the tympanic membrane   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-128] A 7-year-old boy is brought in by his parents for severe left ear pain and hearing loss. The parents report that approximately a week ago, he had symptoms of an upper respiratory infection that appeared to be improving until yesterday, when he began experiencing sharp and constant pain in the left ear. There is no history of trauma or ear injuries.
+    ANSWER: Streptococcus pneumoniae   (key E)
+[ROSH rosh-em-initial-2026-heent-disorders-q-129] A 32-year-old woman presents with right eye pain and a foreign body sensation. A fluorescein enhancement is shown above. Which of the following is the most appropriate management?
+    ANSWER: Lid eversion, topical antibiotics, oral NSAIDs, and follow-up   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-130] Which of the following is most suggestive of optic neuritis versus other causes of vision loss?
+    ANSWER: Loss of red color vision   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-131] In evaluating a patient with nystagmus, you suspect the main cause is peripheral vestibular dysfunction. You decide to perform caloric testing. Which physical exam findings are expected in a patient with normal vestibular function?
+    ANSWER: Cold water in the right ear produces nystagmus to the left   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-132] A 65-year-old woman with no significant medical history presents with acute onset of headache, eye pain, and blurred vision. The pain woke her shortly after she had gone to sleep. Vital signs are a T of 98°F (36.7°C), BP of 150/90 mm Hg, HR of 110 bpm, RR of 16/min, and SpO2 of 98% on room air. The patient appears uncomfortable, and she is holding her right eye while vomiting.
+    ANSWER: Mid-dilated, poorly reactive pupil   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-133] An 8-year-old girl is brought into the ED by her parents for a sore throat. She was seen by her pediatrician last week for a cold. She appears ill and her oral temperature is 103.6°F (39.8°C). She has a hoarse voice, frequent cough, stridor, and tracheal tenderness to palpation. There is no wheezing on auscultation. Which of the following is the most likely diagnosis?
+    ANSWER: Tracheitis   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-134] A 41-year-old woman presents to the ED with sudden-onset right eye pain. She was diagnosed with Bell palsy 1 week ago and treated with oral prednisone and valacyclovir. She states that her eye pain is worse with light, and her vision is slightly blurred in the right eye. The patient reports no contact lens use or any eye medications.
+    ANSWER: Moxifloxacin   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-135] A 38-year-old woman presents with 4 days of progressively worsening left ear pain. She has a history of diabetes and recurrent otitis media over her lifetime. She states that it initially felt like an ear infection, with fullness and discomfort, but now the pain is spreading outside the ear and radiating, causing a headache.
+    ANSWER: Subdural empyema   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-136] A 52-year-old man presents for evaluation of mouth pain. The patient reports worsening pain along his upper teeth for several days. Today, he developed a subjective fever and sought evaluation. Physical examination demonstrates a gray pseudomembrane covering edematous interdental papillae. When scraped and removed, the underlying tissue bleeds. What is the patient’s diagnosis?
+    ANSWER: Acute necrotizing ulcerative gingivitis   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-137] A 50-year-old woman presents with a sudden onset of dizziness, nausea, and vomiting for 1 day. She recently recovered from a bout of rhinosinusitis. Vital signs are within normal limits. Physical exam reveals horizontal nystagmus and serous fluid behind the right tympanic membrane. When the examiner strikes a tuning fork and places it on the patient’s forehead, sound localizes to the left ear.
+    ANSWER: Labyrinthitis   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-138] Which of the following systemic immune disorders is most commonly associated with anterior uveitis?
+    ANSWER: Ankylosing spondylitis   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-139] A 17-year-old girl presents to the ED with a sore throat and cough for 2 days. Her review of systems is positive for fever, headache, and dysphagia. Vital signs include a T of 38.5°C (101.3°F), BP of 110/80 mm Hg, and HR of 115 bpm. Physical exam reveals bilateral tonsillar enlargement with exudates, a midline uvula, and bilateral tender anterior cervical lymphadenopathy.
+    ANSWER: Perform a rapid antigen testing for group A beta-hemolytic Streptococcus and treat with antibiotics if positive   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-140] A teenager presents with eye pain and redness but no pruritus. He reports this condition began acutely yesterday when he woke up. He describes some crustiness that made it difficult for him to open his eyes. He plays football and frequently has helmet contact, but he reports no loss of consciousness or specific orbital trauma.
+    ANSWER: Bacteria   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-141] Which of the following features is most consistent with optic neuritis?
+    ANSWER: Pain with extraocular muscle testing   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-142] A 34-year-old woman presents to the ED with severe right eye pain. The pain began after she entered a dark movie theatre. On physical exam, you note a mid-dilated pupil (4 mm) and corneal edema. Which of the following is the correct combination of medications in the treatment for this process?
+    ANSWER: Acetazolamide IV, topical apraclonidine, topical timolol   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-143] An anxious and agitated 3-year-old boy presents with hearing loss and otalgia. Examination reveals a live cockroach deeply lodged in the external auditory canal. You prepare for forceps removal, but the child cannot remain still and calm enough to safely proceed. Which of the following is the most appropriate next step in management?
+    ANSWER: Mineral oil instillation   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-144] A woman develops an acute attack of vertigo, nausea, and vomiting. You suspect viral labyrinthitis. Which of the following medications is the best choice for treating the vertigo?
+    ANSWER: Prednisolone   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-145] A 10-month-old boy is brought to the emergency department for fever and appearing unwell. His parents state he has been pulling at his ears and has been more irritable. His T is 103°F (39.4°C), BP is 92/60 mm Hg, HR is 155 bpm, RR is 25/min, and SpO2 is 100% on room air. Physical exam reveals an irritable child.
+    ANSWER: Prescribe amoxicillin   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-146] A 4-day-old boy presents with eye redness and fussiness. He was born at home. The birthing parent was treated during pregnancy for Neisseria gonorrhoeae and Chlamydia trachomatis cervicitis. Examination reveals marked eyelid edema, copious purulent discharge, and conjunctival chemosis. Which of the following is most likely to be present if the disease is disseminated in this newborn?
+    ANSWER: Polyarthritis   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-147] A 66-year-old man with a medical history of hypertension, coronary artery disease, and atrial fibrillation presents to the emergency department for sudden vision loss in his left eye 30 minutes ago. He does not have flashes or floaters. He reports no pain or trauma.
+    ANSWER: Central retinal artery occlusion   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-148] A 20-year-old woman presents with an acute onset of dizziness. The patient describes the sensation that the room is spinning when she turns her head, and it is accompanied by nausea and vomiting. The symptoms resolve within 1 minute upon immobilization of her head. Examination reveals left-sided nystagmus elicited by movement and no other neurologic findings. What management is indicated?
+    ANSWER: Epley maneuver   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-149] A person who has used tobacco and alcohol long term presents with 3 months of a white patch on the floor of their mouth. Which of the following is the most likely diagnosis?
+    ANSWER: Leukoplakia   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-150] A 6-year-old boy presents to the ED with his parents for evaluation of right ear pain. He reports putting a bead in his right ear a few days ago. On exam, there is an irregularly shaped bead in his right ear canal. After several attempts, it is removed with alligator forceps. A repeat examination shows some swelling and small abrasions along the canal, with some blood.
+    ANSWER: Ciprofloxacin ear drops prescription and follow-up in the next 2–3 days   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-151] A 5-year-old girl presents to the emergency department with a fever and the rash shown above. Which of the following is the most common complication of this patient’s infection?
+    ANSWER: Dehydration   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-152] A 36-year-old woman presents to the emergency department with decreased hearing and a sensation of fullness in her right ear. She reports using cotton-tipped applicators over the past week to remove earwax. Vital signs include a temperature of 98.4°F, a heart rate of 82/min, a respiratory rate of 16/min, a blood pressure of 118/72 mm Hg, and an oxygen saturation of 99% on room air.
+    ANSWER: Have the patient keep the ear dry and arrange otolaryngology follow-up   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-153] A 4-year-old boy is brought in by his parents due to inconsolable crying. He has a history of recurrent otitis media. They report that he was tugging at his left ear intermittently 9 days ago, but he has become fussy over the past 2 days. His heart rate is 132 bpm, respiratory rate is 18/min, blood pressure is 110/70 mm Hg, temperature is 101°F (38.3°C), and oxygen saturation is 99% on room air.
+    ANSWER: Admit on vancomycin and cefepime IV   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-154] A 57-year-old man with hypertension presents with the report of a floater in the right eye for the past 6 hours. He states that he has had increasing difficulty reading, as the cloudy area blocks his visual field. Additionally, he reports decreased vision in his right eye. Which of the following represents the appropriate management?
+    ANSWER: Emergent ophthalmology consultation   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-155] A 31-year-old woman with type 2 diabetes mellitus presents with worsening left ear pain and fever for 1 week. Vital signs include a blood pressure of 142/88 mm Hg, heart rate of 102 bpm, respiratory rate of 18/min, oxygen saturation of 99% on room air, and temperature of 101.2°F.
+    ANSWER: Start intravenous ciprofloxacin and admit   (key E)
+[ROSH rosh-em-initial-2026-heent-disorders-q-156] An 18-year-old man presents with mouth pain for 2 days. He reports associated fever, malaise, and a foul metallic taste in his mouth. On examination, you note poor dentition and fetid breath. He has pseudomembrane formation with gingival ulcerations and cervical adenopathy. Which of the following is the most likely diagnosis?
+    ANSWER: Acute necrotizing ulcerative gingivitis   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-157] A 20-year-old man presents to the emergency department for eyelid swelling for 10 days. The swelling is unilateral and localized to an erythematous nodule on the right upper eyelid. Examination of the eyelid reveals a red, nontender, rubbery-feeling nodule. There are no other lesions or nodules, and the patient’s vision is intact. Which of the following is the most likely diagnosis?
+    ANSWER: Chalazion   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-158] A 23-year-old woman presents to the ED due to ear pain. She first developed itching of the left ear 2 days ago that has since become painful. She has recently been training for a triathlon, which has involved running, cycling, and swimming frequently over the last 6 weeks. She has no significant medical history. Vital signs are within normal limits.
+    ANSWER: Simple otitis externa   (key E)
+[ROSH rosh-em-initial-2026-heent-disorders-q-159] A 40-year-old woman presents to the ED with pain and redness of the medial aspect of her eye for 2 days. The patient reports increased tearing but no visual changes. She has no allergies or significant medical history. Vital signs are within normal limits, and she is afebrile. The physical appearance of her eye is shown above. Which of the following is the best treatment?
+    ANSWER: Oral trimethoprim-sulfamethoxazole   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-160] A 24-year-old woman presents to the ED in the middle of the night with severe bilateral eye pain. She works at a tanning salon and has spent approximately 3 hours weekly in a tanning booth for the last 2 weeks. She reports no eye trauma or purulent discharge. On fluorescein staining, she has superficial punctate lesions. What is the most likely cause of her pain?
+    ANSWER: Radiation keratitis   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-161] A 34-year-old man presents to the ED with pain and swelling surrounding a left lower molar. On examination, the patient is missing his lower left third molar and has dental decay of the second molar with surrounding swelling, tenderness, and erythema. There is gingival induration without frank fluctuance. He also has mild swelling to his left lower cheek.
+    ANSWER: Amoxicillin-clavulanate   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-162] Which of the following is the most appropriate treatment regimen for a 67-year-old man with acute otitis media with no evidence of middle ear effusion or systemic infection on exam?
+    ANSWER: Oral amoxicillin-clavulanate for 7 days   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-163] A 40-year-old woman with a medical history of factor V Leiden presents with blurred vision. She has had progressive loss of vision from the left eye over the last 3 days without associated pain. Vital signs are unremarkable. On physical exam, visual acuity in the left eye is 20/70, compared to 20/20 in the right eye. The pupillary exam is normal.
+    ANSWER: Retinal hemorrhages   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-164] A 22-year-old woman presents with eye pain and redness that started yesterday. Physical exam is notable for the finding above. Which of the following is the best management plan?
+    ANSWER: Ophthalmology consult, acyclovir, and trifluridine   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-165] A young woman with a BMI of 29 kg/m2 presents to the ED with bilateral eye pain and blurry vision. Her vision has gradually become worse over the last few days. She reports no head trauma, seizures, diplopia, or hemianopsia. On exam, her extraocular movements are intact, and her pupils are equal, round, and reactive to light. A noncontrast head CT shows no acute intracranial abnormalities.
+    ANSWER: Abnormal: perform lumbar puncture   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-166] A 5-year-old boy presents to the ED with nose pain. His mom reports that he was playing with a toy when the pain started, and he has had a whistling sound from his nose since then. On examination, you note a button battery lodged in the nasal cavity that is partially occluding the nare. What is the appropriate next step in management?
+    ANSWER: Attempt retrieval with forceps   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-167] A 4-year-old boy presents to the emergency department with a muffled voice and fever. On physical exam, he is stridulous at rest. Vital signs are a BP of 90/60 mm Hg, HR of 135 bpm, RR of 36/min, and T of 103.1°F (39.5°C). Which of the following is the most likely position of comfort for this patient?
+    ANSWER: Tripod   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-168] A 29-year-old woman presents to the ED for a left eye problem. Her visual acuity, extraocular movements, and intraocular pressures are normal. There are no findings of orbital cellulitis or ocular trauma on examination. Which of the following is most consistent with the diagnosis of chalazion?
+    ANSWER: Nontender nodule on upper lid margin   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-169] A 40-year-old healthy man presents to the emergency department with eyelid swelling for 2 days. Examination is significant for a small pustule on the right lower medial eyelid margin near the eyelash follicle, without eye discharge or injection. The patient’s extraocular movement, pupillary reaction, and visual acuity are all within normal limits.
+    ANSWER: Hordeolum   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-170] A 62-year-old man with a history of diabetes presents with vision loss in the upper fields of his right eye. This started spontaneously 1 hour prior to arrival, and the patient currently has no pain. A bedside ultrasound is seen above. Which of the following is the most likely diagnosis?
+    ANSWER: Retinal detachment   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-171] What is the most frequently isolated organism in acute suppurative parotitis?
+    ANSWER: Staphylococcus aureus   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-172] A 46-year-old man with a history of diabetes and HIV infection presents to the emergency department with 2 days of nasal congestion, right ear pain, and yellow drainage from the ear. He takes metformin and antiretroviral therapy. He has not had recent fevers, headaches, or vision changes. His vital signs are within normal limits.
+    ANSWER: Oral ciprofloxacin and topical ofloxacin   (key E)
+[ROSH rosh-em-initial-2026-heent-disorders-q-173] A 20-year-old man with human immunodeficiency virus presents with severe oral pain and gingival bleeding. Oral examination is shown above. There is no facial edema, erythema, or fever. What is the best next step in management?
+    ANSWER: Discharge home with chlorhexidine, penicillin, and dental referral   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-174] A 54-year-old man is brought to the emergency department by ambulance for difficulty breathing. He cannot provide additional history. Stridor is audible from across the room. Physical examination shows intercostal retractions, significant swelling beneath the jaw, and palpable fluctuance. On oral examination, only the soft palate is visible.
+    ANSWER: Fiberoptic nasal intubation   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-175] A 17-year-old patient presents with redness and discharge from his right eye. Visual acuity is within normal limits. Which of the following treatments should most likely be avoided in this patient?
+    ANSWER: Topical corticosteroids   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-176] A 28-year-old man presents with lesions on his gums and palate. On examination, there are two nodules on his palate as well as a few violaceous nodules on the gingiva, as shown above. What is the likely diagnosis?
+    ANSWER: Kaposi sarcoma   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-177] A 36-year-old man presents to the ED with epistaxis. After local pressure and administration of oxymetazoline spray, there are no signs of bleeding on anterior rhinoscopy. However, when you look in the posterior oropharynx, significant bloody drainage is noted. What is the most likely site of bleeding in this patient?
+    ANSWER: Sphenopalatine artery   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-178] A 43-year-old man presents to the ED for eye pain. He is a construction worker and thinks dust blew into his eye at work earlier today, leaving him with constant eye pain. His vision is grossly normal. Fluorescein exam shows one area of punctate uptake without streaming. There is no evidence of full-thickness corneal injury otherwise. A picture of his eye is shown above.
+    ANSWER: Ophthalmologist follow-up within 24 hours   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-179] A 62-year-old man presents to the ED with ear drainage for 2 weeks. His medical history is significant for diabetes, for which he uses a basal-bolus insulin regimen. He has tachycardia, but other vital signs are within normal limits. Physical examination reveals copious purulent otorrhea from the right ear, with erythema and swelling of the external auditory canal.
+    ANSWER: IV ciprofloxacin and otolaryngology consultation   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-180] A 4-day-old term infant boy born at home presents to the emergency department with bilateral copious thick eye discharge. He has not had a fever, is feeding well, has normal urine and stool output, and is waking to feed. Your exam is remarkable for profuse exudative thick discharge from both eyes along with swelling of the eyelids.
+    ANSWER: Neisseria gonorrhoeae   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-181] A 22-year-old man presents with tooth pain. The patient states it started shortly after surfacing from a dive. He describes it as a deep, constant pain. The patient has no other medical problems. Physical exam reveals several dental caries, but no other oral lesions are present. Which of the following is the most appropriate management of this patient’s condition?
+    ANSWER: Ibuprofen   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-182] A 45-year-old woman presents to the ED with right-sided jaw pain that has been persistent for a few months. The pain is particularly worse with chewing. She has been taking naproxen, acetaminophen, and muscle relaxants without relief, and this is her third visit to the ED for the symptoms. She is underinsured and has had challenges accessing outpatient care. Vital signs are within normal limits.
+    ANSWER: Amitriptyline   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-183] A 26-year-old man with a history of diabetes mellitus on metformin presents to the emergency department with 3 days of right ear pain, yellow exudative discharge from the right ear, and muffled hearing. He has not had any recent fevers, headaches, cough, congestion, or vision changes.
+    ANSWER: Otitis externa   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-184] A 72-year-old man presents with eye pain and blurred vision. His exam is shown above. What is the most likely diagnosis?
+    ANSWER: Hypopyon   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-185] An 8-year-old boy develops progressive eye redness and swelling, as shown above. Which of the following is the most important initial feature differentiating orbital cellulitis from preseptal cellulitis?
+    ANSWER: Pain with eye movement   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-186] A 30-year-old man with no previous eye history presents to the emergency department with pain and photophobia in his right eye after working on a wood carving project. He thinks wood got into his eye when he was carving. On examination, the patient is having difficulty opening his right eye due to pain and he has excessive tearing. He reports blurry vision.
+    ANSWER: Polymyxin plus trimethoprim drops   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-187] A 35-year-old woman presents with nasal congestion and facial pain. Her symptoms started 12 days ago and have not improved. Her vital signs are a T of 101°F (38.3°C), BP of 120/80 mm Hg, HR of 90 bpm, RR of 16/min, and SpO2 of 98%. On physical exam, she has tenderness to percussion of the bilateral maxillary sinuses and purulent green nasal discharge.
+    ANSWER: Duration of symptoms   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-188] A 12-year-old girl presents with sudden-onset right-sided facial swelling associated with a foul taste in her mouth. Physical exam reveals an underweight teenage girl. She has difficulty opening her mouth. The oropharynx is clear without swelling or exudates. There is swelling and tenderness to the right preauricular space, extending beyond the angle of the mandible.
+    ANSWER: Ampicillin-sulbactam   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-189] A young adult presents to the ED with acute tooth pain. He has a history of multiple dental caries, but this pain has gradually worsened over the past 2 days. On exam, tooth 31 is exquisitely tender to percussion and has a large eroded area of enamel. Swelling is seen in the surrounding gingiva but not in the buccal or submandibular soft tissues. The patient is afebrile with no other concerns.
+    ANSWER: Periapical abscess   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-190] A 39-year-old woman presents to the ED with pain and swelling around the eye as shown above. Vital signs include a T of 98.9°F (37.2°C), BP of 116/76 mm Hg, HR of 82 bpm, RR of 17/min, and SpO2 of 99% on room air. Extraocular movements and vision are intact. Which of the following is the most appropriate next step in care?
+    ANSWER: Begin oral antibiotics   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-191] A 76-year-old woman presents to the ED with the sudden onset of a nosebleed 1 hour prior to arrival. Her medical history includes atrial fibrillation and hypertension, and she is anticoagulated on warfarin. Her temperature is 98.6°F (37°C), blood pressure is 170/100 mm Hg, heart rate is 110 bpm, respiratory rate is 20/min, and oxygen saturation is 95% on room air.
+    ANSWER: Placement of a balloon or Foley catheter   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-192] What is the most common infectious etiology of conjunctivitis in adults?
+    ANSWER: Adenovirus   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-193] A 68-year-old man presents to the emergency department with dizziness. The patient has a medical history significant for hyperlipidemia and hypertension. He states the symptoms started yesterday. They have been intermittent, lasting anywhere between 20 and 40 minutes at a time before resolving on their own.
+    ANSWER: Sensorineural hearing loss   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-194] During your evening shift, you receive a telehealth call from staff at a local referral hospital regarding a 3-year-old child who presented with a 12-hour history of progressive noisy, labored breathing. You are told that the child appears ill, has a fever, and prefers to sit upright in a tripod position. Other symptoms include pain with swallowing and drooling.
+    ANSWER: Hold on attempts at vascular access and contact your critical care transport team   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-195] An 11-year-old boy presents to the emergency department with nasal congestion, sneezing, and watery, itchy eyes for 2 weeks. His parent reports a family history of seasonal allergies, but they have not tested the child yet. He seems to have these symptoms every year at this time. He appears nontoxic, and his vital signs are within normal limits.
+    ANSWER: Fluticasone nasal spray   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-196] A healthy 21-year-old woman presents to the emergency department for right ear pain and swelling. She had her helix pierced 1 week ago and, for the past several days, noted increasing swelling and pain in that area. Examination is significant for normal vital signs, erythema, and swelling of the upper helix and triangular fossa with loss of anatomic markings.
+    ANSWER: Oral ciprofloxacin for 1 week and otolaryngology follow-up in 24 hours   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-197] A 29-year-old man with a history of sickle cell disease presents to the emergency department with a painful eye. He reports the pain started without incident and has been worsening. He decided to seek medical care when his coworkers noticed that his eye looked different, as seen above. On exam, his intraocular pressure is 22 mm Hg in the affected eye and 17 mm Hg in the unaffected eye.
+    ANSWER: Intravenous acetazolamide   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-198] An 8-year-old boy presents to the emergency department for mild upper respiratory symptoms. However, during your exam, you find he has significant bilateral cerumen impaction. His parent reports he has had no ear concerns, ear drainage, or signs of hearing loss. Which of the following is the best method for cerumen removal in this patient?
+    ANSWER: Cerumenolytic   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-199] An 82-year-old man with a history of hypertension, coronary artery disease and stroke presents to the ED with epistaxis. Current medications include metoprolol and aspirin. On examination, after asking the patient to gently blow his nose, there is brisk bleeding coming from the left naris. There is also blood seen coming from the right naris as well as down the posterior pharynx.
+    ANSWER: Placement of a double-balloon epistaxis catheter   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-200] A 55-year-old man presents with ear pain. He has a history of diabetes mellitus, hypertension, and coronary artery disease. He states his symptoms started 3 days ago after scratching his ear on a tree branch and have progressively worsened. His exam is remarkable for a tender, swollen, and erythematous auricle. His pain worsens with deflection of the auricle.
+    ANSWER: Perichondritis   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-201] A 42-year-old plumber presents after splashing drain cleaner into his eye. He irrigated his eye with water for 30 minutes at the job site and then came directly to the emergency department. What is the next step in management?
+    ANSWER: Check ocular pH and continue irrigating the eye until the pH remains neutral   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-202] Which of the following commonly causes artifactual widening of the retropharyngeal space on lateral neck X-rays?
+    ANSWER: Neck flexion during imaging   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-203] A 21-year-old man presents for evaluation of a sore throat with a fever for 2 days. On examination, his oropharynx is erythematous with enlarged tonsils and bilateral exudates. In addition to nonsteroidal anti-inflammatory drugs, which of the following has been shown to produce the greatest reduction in pain?
+    ANSWER: Dexamethasone   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-204] A 5-month-old girl with no significant medical history and no allergies presents with fever and nasal congestion for 1 day. Examination reveals an uncomfortable but well-appearing infant with a fever to 102.7°F. Otoscopic evaluation reveals bilateral nonmobile, bulging tympanic membranes. Which of the following treatment regimens is appropriate?
+    ANSWER: Oral high-dose amoxicillin   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-205] A 42-year-old woman with a history of hypertension and diabetes presents to the emergency department with redness, swelling, and mild pain around her left eye for 2 days. She reports no vision changes or fever. She remembers rubbing and scratching around her eye a few days ago but does not recall any trauma. On exam, she has erythema with edema of the upper eyelid as well as under her left eye.
+    ANSWER: Oral clindamycin and amoxicillin-clavulanate   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-206] A 72-year-old man presents with a painful red eye and visual loss worsening over the last 24 hours. He recently had cataract surgery. Examination of the eye reveals the image above. Which of the following is the most likely diagnosis?
+    ANSWER: Endophthalmitis   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-207] A 20-year-old man presents to the emergency department with a sore throat. He reports no cough or runny nose but does report subjective fevers. His T is 101°F (38.3°C), BP is 122/80 mm Hg, HR is 91 bpm, RR is 14/min, and SpO2 is 100% on room air. Physical exam reveals significant oropharyngeal erythema but no exudates. Which of the following is the most appropriate next step in care?
+    ANSWER: Rapid streptococcal antigen test   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-208] A 78-year-old woman presents to the emergency department with sudden onset of painless vision loss in her right eye. She has a past medical history significant for hypertension, cerebral vascular accident, and atrial fibrillation. She is no longer on anticoagulation secondary to frequent falls. The patient states the symptoms started 40 minutes prior to arrival.
+    ANSWER: Cherry red macula on fundoscopic examination   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-209] Which of the following is most strongly associated with oral cancer?
+    ANSWER: Fixed white plaque on the tongue   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-210] A 17-year-old vaccinated and otherwise healthy boy presents to your ED with right-sided anterior neck stiffness and pain. He had a sore throat 1 week ago and tested negative for Streptococcus. He does not report a headache or posterior neck pain. Vital signs show a temperature of 39.8°C, heart rate of 140 bpm, respiratory rate of 26/min, and blood pressure of 124/82 mm Hg.
+    ANSWER: Septic thrombophlebitis   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-211] A 39-year-old woman with a history of hypertension presents to the emergency department after 2 days of severe nasal congestion, cough, sore throat, and malaise. She reports chills but is afebrile, and her vital signs are within normal limits. You do not suspect bacterial pharyngitis on examination. You obtain a chest radiograph that shows no acute findings.
+    ANSWER: If her symptoms have not improved after 10 days of symptomatic management   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-212] A 13-year-old girl presents with painful swelling on her eyelid as shown above. Vital signs include a T of 98.9°F, HR of 88 bpm, BP of 104/66 mm Hg, RR of 18/minute, and SpO2 of 100% on room air. Which of the following is the most appropriate treatment?
+    ANSWER: Warm compresses   (key E)
+[ROSH rosh-em-initial-2026-heent-disorders-q-213] A 76-year-old man with a history of dementia was recently hospitalized for pneumonia and discharged to a nursing home. He returns to the emergency department with pain and erythema to his left cheek, worsening over 3 days. The family reports a low-grade fever of 100.6°F (38.1°C). He has no tooth pain but reports difficulty opening his mouth completely.
+    ANSWER: Staphylococcus aureus   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-214] A 39-year-old woman with a history of depression and chronic migraine headaches presents to the emergency department with pain on the right side of her face and jaw. The pain has been progressively worsening over 5 days. It is described as dull and aching, is worse with jaw movement, and radiates to the right temple. She also reports a headache.
+    ANSWER: Temporomandibular joint disorder   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-215] A 45-year-old man presents to the ED for right eye pain and photophobia after being hit in the right eye with a glass bottle 2 days ago. On exam, visual acuity is 20/20 bilaterally, and a ciliary flush is noted in the right eye. On fluorescein staining, there are no corneal abrasions, and the Seidel test is negative.
+    ANSWER: Paralysis of ciliary muscles   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-216] A 19-year-old woman presents to the emergency department for ear pain. She had her tragus pierced a few days ago. Shortly after, she began having increased pain at her piercing site. Her physical exam reveals a tender tragus with erythema covering both the tragus and surrounding auricle. She reports pain when moving her auricle in any direction.
+    ANSWER: Oral ciprofloxacin and removal of the piercing   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-217] A 56-year-old man presents to the emergency department with acute onset right eye pain and vision loss. His medical history is significant for hypertension and COPD. He states he first noticed the pain as he was turning the lights off in his room before going to sleep tonight. On physical exam, there is conjunctival injection of the right eye.
+    ANSWER: Timolol optic drops   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-218] A 7-year-old girl presents to the ED with stridor, fever, and drooling. On physical exam, she is in obvious respiratory distress, has full range of motion of her neck, and is sitting in the tripod position. Lungs are clear to auscultation with transmitted upper airway sounds. Vital signs are a BP of 90/60 mm Hg, HR of 150 bpm, RR of 40/min, and T of 103.8°F.
+    ANSWER: Thumbprint sign   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-219] A patient presents to the ED with ocular foreign body sensation. Examination reveals a whitish, wedge-shaped mass growing from the medial side of the left eyeball, extending onto the cornea. There is no associated erythema, blisters, or vesicles. Which of the following is the most likely diagnosis?
+    ANSWER: Pterygium   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-220] A 62-year-old man presents to the ED with “a bump in my mouth.” He reports the development of a painless oral lesion 4 weeks ago that has not resolved. It has grown larger to the point that he often accidentally bites his cheek when eating. His exam is shown above. The patient has a history of intravenous drug use and unprotected intercourse with men and women over the past 6 months.
+    ANSWER: Excessive alcohol use   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-221] A parent who had no prenatal care brings her 3-day-old infant to the ED secondary to eye drainage. On exam, the child has marked swelling and redness of the eyelids, severe chemosis, and purulent discharge bilaterally. Which of the following is the most likely diagnosis?
+    ANSWER: Neisseria gonorrhea conjunctivitis   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-222] A 22-year-old man with a 10 pack-year history of smoking presents to the emergency department with pain in his right lower teeth. He notes a gradual worsening over the past month. He has no numbness, tingling, or loss of sensation. The pain is worse with percussion of the teeth. Multiple dental caries and tartar are noted.
+    ANSWER: Lidocaine viscous   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-223] A 5-year-old girl presents to the ED with a 4-day history of progressive cough. Over the past 24 hours, the cough has become harsh and raspy in quality. Low-grade fevers were noted initially. However, her temperature today rose to 104.5°F (40.3°C), and her voice was noted to be hoarse with an occasional barking cough. She has been taking fluids well without any apparent difficulty.
+    ANSWER: Obtain lab testing with blood culture and administer ceftriaxone and vancomycin   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-224] A 37-year-old woman presents to the ED with painful mouth sores and significant oral pain when eating. She began an oral chemotherapy pill 3 months ago for glioblastoma multiforme. She has pain that makes it difficult to eat, and she has lost 10 pounds in 2 weeks. On examination of the mouth, she has superficial ulcers and a white plaque that scrapes off with a wooden tongue depressor.
+    ANSWER: Clotrimazole troches   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-225] A 7-year-old boy with perinatally acquired HIV on combination antiretroviral therapy presents to the emergency department with right eye pain and photophobia that began earlier in the day. He has difficulty opening his right eye due to the pain. His fluorescein stain under slit lamp examination is shown above. Which of the following is the most appropriate treatment for this patient?
+    ANSWER: Acyclovir 20 mg/kg orally four times per day for 14 days   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-226] A 43-year-old man presents to the ED for a diffuse headache for the last 3 days and pain in the left ear. He has no medical history and takes no daily medications. Vital signs are within normal limits. Physical examination reveals an erythematous tympanic membrane on the left with point tenderness along the bony prominence posterior to the left ear.
+    ANSWER: IV vancomycin and otolaryngology consultation   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-227] A 5-year-old girl presents to the ED with a fever and difficulty swallowing. On physical exam, she is drooling and uses accessory muscles to breathe. Vital signs are BP 105/65 mm Hg, HR 140 bpm, RR 32/min, and T 103.6°F (39.8°C). Lateral neck X-ray shows an enlarged epiglottis. Which of the following is the most appropriate antimicrobial therapy for this disease process?
+    ANSWER: Ceftriaxone   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-228] A 33-year-old man presents with right eye pain, swelling, and fever for 2 days. Physical examination reveals upper and lower lid erythema and swelling. The patient has difficulty opening his eyelid and is unable to move the right eye laterally. What management should be initiated?
+    ANSWER: CT scan of the orbit and intravenous antibiotics   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-229] A 44-year-old woman with no significant medical history presents with a red eye. She reports no pain or change in vision. Physical examination reveals the finding above. What management is indicated?
+    ANSWER: Reassurance   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-230] An 18-year-old man presents to the emergency department with throat pain. He is in obvious discomfort and has difficulty speaking. Vital signs include a temperature of 38°C (100.4°F), heart rate of 110 bpm, and blood pressure of 100/70 mm Hg. During the exam, you notice that his tongue protrudes from his mouth. You also note trismus, neck fullness, and stridor.
+    ANSWER: Odontogenic infection   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-231] A 20-year-old woman presents to the emergency department for left eye pain. Yesterday she scratched her eye while putting in her contact lens. She has had constant left eye pain and tearing since. She has no foreign body sensation. On exam, her visual acuity is at baseline and equal in both eyes. Her fluorescein exam findings are shown above.
+    ANSWER: Tobramycin ophthalmic ointment   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-232] A 45-year-old woman with a history of high blood pressure presents to the emergency department with vertigo. She developed sudden-onset vertigo associated with hearing loss in her left ear starting 2 hours ago. She notes having a “cold” a couple of weeks ago and has no ear pain at present.
+    ANSWER: Rightward nystagmus when looking left or right   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-233] A 55-year-old man with a tracheostomy placed 2 weeks ago presents to the ED with bleeding from the tracheostomy. His T is 97°F (36.1°C), BP is 125/80 mm Hg, HR is 102 bpm, RR is 15/min, and SpO2 is 97% on room air. Brisk bleeding is noted from the stoma. Which of the following is the most appropriate next step in management?
+    ANSWER: Direct pressure through the stoma internally and externally   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-234] A 27-year-old healthy man presents with facial pain and low-grade fever. For the last 2 days, he has felt congested and noticed green drainage from his nose. His vital signs include a blood pressure of 128/62 mm Hg, heart rate of 74 bpm, respiratory rate of 18/min, oxygen saturation of 99% on room air, and temperature of 99.8°F.
+    ANSWER: Nonsteroidal anti-inflammatory drugs   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-235] A 19-year-old woman presents with pain in her mouth. She underwent an extraction of an impacted molar 3 days before the onset of her pain. Her pain had been improving. However, it began worsening acutely today. Which of the following is the most appropriate treatment?
+    ANSWER: Iodoform gauze packing moistened with oil of clove   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-236] A 45-year-old man with a medical history of HIV and thyroid cancer treated with surgery and radiation presents with a nonhealing oral ulcer. He has a 25 pack-year history of cigarette smoking. On physical exam, he has multiple dental caries, and there is an irregularly shaped ulcer on the lateral tongue. Which of the following is this patient’s greatest risk factor for oropharyngeal cancer?
+    ANSWER: Tobacco use   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-237] A 27-year-old woman presents with visual changes. She notes progressive worsening vision in her right eye over the last 2 days and reports pain with movement of her eye. On examination, she has an afferent pupillary defect in that eye and a swollen optic disc on funduscopy. What is the most likely diagnosis?
+    ANSWER: Optic neuritis   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-238] A 49-year-old man with diabetes is transferred from an outside hospital for facial swelling. He has had a fever and odynophagia after a recent tooth extraction. On physical examination, he has swelling and erythema in the submental space. A CT of the neck demonstrates soft tissue stranding of the submental and submylohyoid space with a developing phlegmon.
+    ANSWER: Intubation   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-239] A 52-year-old man with a history of diabetes presents to the emergency department with congestion and sinus pressure. He initially thought his symptoms were improving, but they are worse on day 6. Today, he also developed a fever of 39.1°C and noticed purulent nasal drainage. He has no other concerns. Which of the following is the most appropriate next step?
+    ANSWER: Amoxicillin-clavulanate prescription   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-240] A 17-year-old boy presents to the emergency department with dental pain. He does not have a fever, chills, neck pain, or trouble swallowing. Physical examination is notable for the finding in the image above. The gum is tender but nonfluctuant. Which of the following is the most appropriate management?
+    ANSWER: Ibuprofen   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-241] A 21-year-old woman presents to the ED with left ear pain. The ear exam is normal, but on palpation of the jaw, there is tenderness over the coronoid process. A clicking can be felt with jaw opening. What is the appropriate management for this patient's condition?
+    ANSWER: Nonsteroidal anti-inflammatory drugs   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-242] A 6-year-old boy presents to the emergency department with his parent for an earache and fever. A week ago, he began reporting ear pain, and he has had no relief with acetaminophen and ibuprofen. This morning, the patient began to describe room-spinning episodes and difficulty hearing out of his right ear.
+    ANSWER: Meningitis   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-243] Which of the following can be appropriately managed in the ED without consultation with an ophthalmologist?
+    ANSWER: Superficial corneal foreign body   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-244] A 55-year-old woman presents with 4 days of gradually progressive monocular loss of central vision with associated right eye pain, which worsens with eye movement. She also notes difficulty with color perception. A right afferent pupillary defect is noted on examination and the optic disk appears edematous. Examination of the left eye is unremarkable. What is the most likely cause of her symptoms?
+    ANSWER: Demyelination of the optic nerve   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-245] A 5-year-old girl presents to the emergency department with her parent for evaluation of mouth pain. On physical exam, you see 2–3 mm grey, irregular, ovoid ulcerations on her lower lip and gingival mucosa with a surrounding erythematous halo. These lesions are found only over her anterior oral mucosa. Which of the following is the most likely diagnosis?
+    ANSWER: Aphthous ulcers   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-246] A 39-year-old woman with no significant medical history presents to the emergency department with dizziness over the past few months. She describes intermittent episodes of feeling like the room is spinning with associated nausea and vomiting. Initially, these episodes occurred only one or two times a month. However, she is seeking care now as they are occurring almost every other day.
+    ANSWER: Increased endolymph   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-247] A 55-year-old woman with a medical history of tracheomalacia with a tracheostomy presents to the emergency department with minor bleeding surrounding the site of her tracheostomy. Her symptoms started 1 hour ago. Her temperature is 99.5°F (37.5°C), blood pressure is 107/48 mm Hg, heart rate is 90 bpm, respiratory rate is 29/min, and oxygen saturation is 92% on room air.
+    ANSWER: Tracheoarterial fistula   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-248] A 29-year-old woman presents with jaw pain and swelling. She noticed painful swelling under the left mandible and pain on the floor of her mouth 2 days ago. She reports no fevers, neck pain, odynophagia, or dysphonia. She has a history of seasonal allergies for which she takes diphenhydramine.
+    ANSWER: Gentle massage, tart candy, and analgesia   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-249] A 7-year-old girl who is unvaccinated presents to the ED in acute respiratory distress. On physical exam, she exhibits stridor and is tripoding. Vital signs are a BP of 105/65 mm Hg, HR of 130 bpm, RR of 30/min, and T of 103.4°F. What is the most likely causative organism in this disease process?
+    ANSWER: Haemophilus influenzae type B   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-250] A young man presents to the emergency department with eye pain. Fluorescein staining and Wood lamp examination show the finding above. What is the most appropriate next step in management?
+    ANSWER: Erythromycin ointment   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-251] A 5-year-old boy presents to the emergency department for left ear pain. On exam, his left ear canal is impacted with cerumen. During irrigation, he begins screaming in pain. You are now able to visualize a portion of his tympanic membrane and find it has been ruptured without surrounding erythema or purulence. What is the most appropriate next step in management?
+    ANSWER: Discharge home with close follow-up   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-252] A 20-year-old man presents with a sore throat, dysphagia, and drooling. He was seen 2 days ago for the same concern, but the pain is now worse. His vital signs include a blood pressure of 135/85 mm Hg, heart rate of 98 bpm, respiratory rate of 20/min, oxygen saturation of 97% on room air, and temperature of 99.9°F. On examination, there is no pharyngeal erythema or tonsillar exudate.
+    ANSWER: Epiglottitis   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-253] A 77-year-old man presents to the emergency department with blurry vision in his right eye and a foreign body sensation. He wears contact lenses but has forgotten to change them for nearly 1 week. He had a few days of extreme pain on his right forehead 3 weeks ago, followed by a rash that has since gone away.
+    ANSWER: Herpes zoster ophthalmicus   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-254] A 20-year-old man presents to the emergency department with a sore throat for 1 day. He also has a cough, runny nose, aches, and fatigue. His children recently had similar symptoms. His T is 97°F (36.1°C), BP is 125/72 mm Hg, HR is 90 bpm, RR is 14/min, and SpO2 is 100% on room air. Physical exam reveals the finding above. There is no tender adenopathy.
+    ANSWER: Rhinovirus infection   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-255] A 32-year-old man with no significant medical history presents with eye pain. He was struck by a football while playing catch. He notes left eye pain and blurred vision. Physical exam reveals visual acuity of 20/35 in the right eye and 20/60 in the left eye with intraocular pressures of 17 mm Hg and 25 mm Hg, respectively. Fluorescein exam reveals no abrasion or uptake.
+    ANSWER: Sickle cell trait   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-256] A 7-year-old girl presents to the emergency department with right eye swelling. She is a previously healthy, fully immunized girl with no medications and no known allergies. Her parent states the symptoms started 2 days ago with mild periorbital erythema and edema.
+    ANSWER: Lack of pain with extraocular movements   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-257] An 18-month-old healthy girl without previous episodes of ear infections presents to the emergency department with a fever for 3 days, up to T 38.8°C. On physical examination, the left tympanic membrane lacks mobility and is retracted with overlying erythema. There is auricular protrusion with erythema and tenderness to palpation over the mastoid process.
+    ANSWER: Intravenous ampicillin-sulbactam   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-258] A 65-year-old man with a history of left ventricular assist device placement is presenting for epistaxis. For the past hour, he has experienced a right-sided nosebleed that did not stop with continuous direct pressure from a nasal clamp at home. The patient has a MAP of 75 mm Hg. On exam, the patient has slow bleeding from the right nare, with clots present in the posterior oropharynx.
+    ANSWER: Posterior nasal packing   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-259] Which of the following pediatric intranasal foreign bodies needs to be removed expeditiously in the emergency department?
+    ANSWER: A button battery   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-260] A 5-year-old boy is brought to the ED by his parent due to ear pain and the parent believes that there is a button battery in the child's ear that has been there for at least 24 hours. Physical exam reveals what appears to be a button battery lodged in the right external auditory canal with surrounding edema and erythema. Which of the following is the best next step in management?
+    ANSWER: Consult with otolaryngology for removal   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-261] A 5-year-old boy with a tracheostomy tube is brought to the ED with a fever and a change in his behavior. His T is 102°F (38.9°C), BP is 85/40 mm Hg, HR is 132 bpm, RR is 30/min, and SpO2 is 92% on room air. The patient is coughing with purulent secretions coming from the tracheostomy tube. Which of the following is the most appropriate treatment?
+    ANSWER: Vancomycin and piperacillin-tazobactam   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-262] A 40-year-old man presents to the emergency department with dentalgia for 3 days. Examination is significant for normal vital signs and pain to percussion of the right upper molar with a small pustule near the base of the same tooth. His airway is grossly patent, and he is able to tolerate his oral secretions. Which of the following is the most appropriate management of this patient’s condition?
+    ANSWER: Oral amoxicillin and dental follow-up in 48 hours   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-263] A 35-year-old healthy man presents to the emergency department for eye pain and swelling. He reports a recent upper respiratory infection preceding right eye swelling, blurry vision, and pain. Examination is significant for a fever of 101°F (38.3ºC), mild proptosis of the right eye, pain on inward gaze, normal visual acuity, and intraocular pressure of 18 mm Hg.
+    ANSWER: Intravenous vancomycin and ceftriaxone and emergent ophthalmology consult   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-264] A 43-year-old man with a history of HIV on antiretroviral therapy presents to the emergency department with concerns about a muffled voice and intermittent stridor that began when he awoke today. Last week he underwent the drainage of a periapical abscess and extraction of the associated molar. Yesterday he developed a sore throat, odynophagia, and neck pain.
+    ANSWER: Computed tomography of the neck soft tissues   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-265] A 54-year-old man presents to the emergency department for sudden onset of flashes in his left eye. There is no associated pain. His ocular ultrasound is shown above. What is the most likely diagnosis?
+    ANSWER: Retinal detachment   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-266] A 15-year-old boy presents with decreased hearing and otorrhea. On examination of the ear, you see the image above. Which of the following is safe?
+    ANSWER: Ofloxacin otic suspension   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-267] A patient presents after a chemical splash to the eye. What management is immediately indicated?
+    ANSWER: High-volume irrigation   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-268] A 55-year-old woman with a history of chronic bronchitis presents with redness in her left eye. She reports no change in vision, no trauma, and no pain. Evaluation of the patient demonstrates intact extraocular muscles and equal pupils that are round and reactive to light. Visual acuity is 20/30 in each eye.
+    ANSWER: Reassure the patient and discharge her home   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-269] A previously healthy 45-year-old woman presents with dizziness for the past day, especially when she rolls over in bed. She feels a spinning sensation and intense nausea. This lasts for a short period of time and resolves with a position change. Which of the following is the most effective management for the most likely condition?
+    ANSWER: Epley maneuver   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-270] A 25-year-old metal construction worker presents to the emergency department with eye pain. At work, he experienced sudden right eye pain that worsened with blinking. Physical exam reveals the finding above. Which of the following is the most appropriate management?
+    ANSWER: Removal of the foreign body, erythromycin eye ointment, and ophthalmology follow-up   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-271] A 48-year-old woman presents to the emergency department for 1 week of vertigo. The vertigo is nonpositional and episodic, typically lasting 1–2 hours per episode. She also notes nausea and a sensation of fullness and ringing in her left ear. She has a history of nephrotic syndrome and takes furosemide daily. She reports no headaches, fevers, ear pain, or ear drainage.
+    ANSWER: Ménière disease   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-272] A 37-year-old woman presents to the emergency department for worsening chronic headaches. The results of her funduscopic exam are shown above. She has a normal noncontrast head CT. Which of the following is most likely associated with this presentation?
+    ANSWER: Lumbar puncture with opening pressure 31 cm H2O   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-273] A 19-year-old man presents to the emergency department for left throat and ear pain that began 4 days ago. He was seen by his primary care clinician 3 days ago and started on a course of oral amoxicillin. On waking this morning, his voice was muffled, and he had new difficulty and pain with swallowing.
+    ANSWER: Needle aspiration of the involved site   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-274] A 3-year-old presents to your emergency department with fever, new-onset torticollis, and difficulty swallowing. Concerned about a retropharyngeal abscess, you obtain X-rays of the neck to evaluate the soft tissues anterior to the spine. Which of the following is the appropriate method to tell the X-ray technologist to obtain the films?
+    ANSWER: On inspiration with neck extension   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-275] A 44-year-old woman presents with a sensation that the room is moving. The symptoms started 1 hour ago. She states that when she turns her head to the left, she feels the spinning sensation, and when she holds her head still, it subsides. The episodes are accompanied by nausea and vomiting. Her neurologic exam is unremarkable.
+    ANSWER: Epley maneuver   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-276] A 49-year-old woman with a history of osteoarthritis presents to the emergency department stating that she feels like the room around her is spinning. She reports a similar episode 3 weeks ago and, since then, has had an intermittent ringing sound in her ears. Her spouse adds that, over the same time frame, she also has developed some difficulty hearing from the left ear.
+    ANSWER: Ménière disease   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-277] A 4-year-old boy presents to the urgent care with his parent due to 2 days of severe right ear pain. His vital signs are within normal limits. Otoscopy reveals a bulging tympanic membrane with a middle ear effusion. Upon discussing antibiotic treatment options, the parent notes that the patient developed a diffuse rash several days after treatment with penicillin in the past.
+    ANSWER: Cefpodoxime   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-278] A neonate presents to the ED with purulent conjunctivitis with profuse exudate and swelling of the eyelids. Gram stain of the drainage reveals gram-negative diplococci. What is the most common age of presentation for this disease process?
+    ANSWER: 2–5 days   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-279] A 45-year-old man presents to the emergency department with a persistent sore throat and progressive voice changes over the past 4 weeks. He was initially evaluated for this concern 3 weeks ago and was treated with antibiotics for presumptive bacterial pharyngitis. At that time, he reported a sore throat without fever and did not have any voice changes.
+    ANSWER: Human papillomavirus   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-280] A 23-year-old woman presents to the ED with fever and headache. She was recently treated for sinusitis. However, her headache has since worsened. On physical exam, you note a unilateral lateral gaze palsy and periorbital edema. Which of the following is the most definitive diagnostic imaging study for this condition?
+    ANSWER: Magnetic resonance imaging with venography   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-281] A 60-year-old woman with a history of diabetes mellitus presents to the ED with severe left ear pain and low-grade fever. Examination of her auditory canal is shown above. Which of the following is the most appropriate treatment?
+    ANSWER: Ciprofloxacin   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-282] A 21-year-old man presents after a chemical exposure to the eye. He was emptying a bottle when the liquid splashed into his right eye. The bottle is not available. Irrigation is started with normal saline. Which of the following is the most proper endpoint of irrigation?
+    ANSWER: pH 7.0–7.4   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-283] A 67-year-old woman with a history of COPD, hypertension, and diabetes mellitus presents to the ED with vertigo that began 2 hours ago. She has a history of similar episodes in the past. She also has tinnitus, which is new today. Her home medications include metformin, losartan, spironolactone, tiotropium, and albuterol. On examination, her cranial nerves are intact.
+    ANSWER: Ménière disease   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-284] A 5-year-old boy presents to the emergency department with a sore throat. His T is 102°F (38.9°C), BP is 105/60 mm Hg, HR is 132 bpm, RR is 25/min, and SpO2 is 97% on room air. Physical exam reveals a child with a hoarse voice and trismus, with erythema of the posterior oropharynx. He is drooling currently. Which of the following is the most important next step in management?
+    ANSWER: Transfer to the operating room for intubation   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-285] A 5-day-old girl is brought to the emergency department by her parent due to copious eye discharge. The parent reports it began the day prior and has worsened since onset. She was born via an uncomplicated, full-term vaginal delivery. Vital signs show a T of 102.3°F (39.1°C), HR of 170 bpm, RR of 60/min, and SpO2 of 97% on room air.
+    ANSWER: Intravenous cefotaxime, topical erythromycin, oral erythromycin, and ophthalmology evaluation   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-286] A 59-year-old man presents to the emergency department with right eye vision loss. His vision was initially blurry but has progressed, and he is now unable to see anything other than light and some movement. Funduscopy reveals the finding above. Which of the following is the most likely diagnosis?
+    ANSWER: Retinal vein occlusion   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-287] A 35-year-old woman presents to the ED with left facial pain and swelling. The pain is worse with eating. She reports no fever, facial trauma, or dysphagia. She has tender left submandibular adenopathy but no pharyngeal or submandibular erythema. Which of the following is the best initial step in management?
+    ANSWER: Sour hard candy and digital expression   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-288] A previously healthy 8-year-old boy presents to the emergency department with worsening cough, rhinorrhea, and nasal congestion. He has had low-grade fevers and a mild sore throat. His exam is only remarkable for mild soft and mobile cervical lymphadenopathy.
+    ANSWER: 15 days of symptoms   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-289] A 26-year-old man presents to the emergency department with ear pain. He states that he was slapped in the right ear 1 hour prior to arrival. Since then, he has had some decreased hearing on the right side, as well as some bloody drainage from his ear. He reports no loss of consciousness, headache, or pain. On exam, you note the above findings. What is the most appropriate next step in management?
+    ANSWER: No intervention needed at this point   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-290] A 54-year-old man with a history of HIV and remote toxoplasmosis presents with left-sided blurring of his vision with intermittent floaters. Vision is 20/100 OS and 20/40 OD. His exam is notable for a retinal pigmented lesion with an overlying fluffy infiltrate. Which of the following is the most appropriate treatment?
+    ANSWER: Trimethoprim-sulfamethoxazole   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-291] A 24-year-old woman presents to the emergency department for a chemical exposure to her eyes. She was working in her chemistry laboratory when she tripped and splashed an unknown reagent into her eyes. She is screaming in pain, holding her eyes shut. During examination, her eyes are injected, pupils are equal, round, and reactive to light, and extraocular movements are intact.
+    ANSWER: Administration of normal saline irrigation   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-292] Which of the following is the most common etiology of external otitis?
+    ANSWER: Pseudomonas aeruginosa   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-293] A 33-year-old man presents to the ED with massive hemoptysis. He was discharged from the hospital 1 week ago following a prolonged hospitalization for a gunshot wound to the abdomen that resulted in a percutaneous gastrostomy tube and tracheostomy placement. His vital signs are T 98.4°F (36.9°C), BP 110/78 mm Hg, RR 30/minute, HR 126 bpm, and SpO2 91% with blow-by oxygen.
+    ANSWER: Innominate artery   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-294] A 14-year-old girl presents to the emergency department with ear pain. She has had the pain intermittently for the last several months, but it worsened this morning. The pain is dull, radiates to the ipsilateral temporal region, and is not associated with any hearing changes.
+    ANSWER: Biofeedback   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-295] A 16-year-old girl presents with pain behind her left ear. She thought the pain was due to an ear infection and took three of her partner’s leftover antibiotic tablets without seeing her primary care clinician. Her ear pain improved for a few days, but now she reports fever and discharge from the external auditory canal. Her vital signs are T 38.4°C, BP 120/80 mm Hg, HR 108 bpm, and RR 18/min.
+    ANSWER: Perform a CT scan and give intravenous antibiotics   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-296] A 14-year-old boy presents with right eye redness for 1 day. Examination reveals conjunctival injection, yellow discharge, and crusting. His visual acuity is normal, intraocular pressure is 12 mm Hg, and there is no fluorescein uptake. What management is indicated?
+    ANSWER: Polymyxin B plus trimethoprim drops   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-297] Which of the following findings is most consistent with iritis on examination?
+    ANSWER: Cells and flare   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-298] What is the initial treatment for the patient shown above?
+    ANSWER: Warm compresses   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-299] Which of the following is associated with central retinal vein occlusion?
+    ANSWER: Retinal hemorrhages and disk edema on funduscopy   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-300] A 3-year-old girl presents to the emergency department with a fever and sore throat. The child’s parents report that the patient was sick with cold symptoms 2 weeks ago that resolved spontaneously. Yesterday, she developed a sore throat and a fever as high as 102°F (38.8°C). Today, they have noticed that her breathing is noisy, and she is reluctant to move her neck.
+    ANSWER: Lateral X-ray of the neck   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-301] A parent brings her healthy 2-year-old girl to the ED with a concern of ear pain. On physical exam, you visualize a live insect in the left external auditory canal. What is the best way to care for this child?
+    ANSWER: Irrigation of the ear with alcohol or mineral oil to kill the insect; forceps removal; ototopical antibiotics only if there is excoriation of the external auditory canal   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-302] A 30-year-old woman presents with visual loss and pain in her right eye with a mild headache. She reports blurry vision over the last week, but today she has difficulty seeing light with her right eye. She reports no trauma. Her vision is 20/200 in the right eye and 20/40 in the left eye. You are concerned about optic neuritis.
+    ANSWER: Afferent pupillary defect   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-303] A 58-year-old man presents with 2 days of painful swelling inferior to his mandible. The pain and swelling worsen peri-prandially. He reports no fevers, chills, weight loss, or similar symptoms in the past. On exam, he has a palpable 2 cm x 2 cm x 1 cm tender subcutaneous swelling on the inferior portion of the mandible. What is the most likely etiology of the patient’s symptoms?
+    ANSWER: Obstruction of the salivary gland   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-304] A 5-year-old boy presents with his parent for concerns about fever, noisy breathing, and a barking cough. The patient was diagnosed with croup 4 days ago in the emergency department. He was treated with dexamethasone and required an overnight admission after needing several treatments with nebulized racemic epinephrine.
+    ANSWER: Bacterial tracheitis   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-305] A 38-year-old woman presents to the ED with facial swelling, worst around her eyes. She has a history of diabetes, Graves disease, and microcytic anemia. Her vital signs are T 100.1°F (37.8°C), BP 120/76 mm Hg, RR 12/min, HR 99 bpm, and SpO2 100% on room air. She was recently diagnosed with ethmoid sinusitis. What is the most likely developing condition?
+    ANSWER: Postseptal cellulitis   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-306] A 15-month-old boy presents to the ED with fever and fussiness for the past 2 days. His parents report that he has been tugging at his right ear and has had decreased oral intake. Vital signs reveal T 39.1°C (102.4°F). Otoscopic examination shows a bulging, erythematous right tympanic membrane with decreased mobility on pneumatic otoscopy. The left tympanic membrane appears normal.
+    ANSWER: Prescribe amoxicillin and recommend close follow-up   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-307] A 77-year-old man presents to the emergency department with a sudden painless loss of vision in his right eye. On exam, he has uncorrected visual acuity of 20/70 in the left eye and hand motion in the right eye. Funduscopic exam shows retinal pallor with a red spot in the middle of the retina when viewed straight on. Which of the following is the most likely diagnosis?
+    ANSWER: Central retinal artery occlusion   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-308] An 11-day-old boy presents to the ED with his parents with unilateral eye drainage, redness, and conjunctival edema. Which of the following is the most appropriate treatment?
+    ANSWER: Oral erythromycin   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-309] A 23-year-old woman presents to the emergency department with ear pain. She recently had her ear pierced. Yesterday, she felt her ear was warm, red, and tender to the touch. She subsequently removed the piercing but has had ongoing symptoms. Physical exam reveals a well-appearing young woman in no acute distress. The finding above is noted.
+    ANSWER: Ciprofloxacin and mupirocin   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-310] A 7-year-old girl with no significant medical history presents with a cough and runny nose for 24 hours. She is well appearing with a fever of 38°C (100.4°F) but otherwise unremarkable vital signs. Physical examination reveals clear lungs, nasal congestion, and a red, bulging tympanic membrane. What treatment is indicated?
+    ANSWER: Observation and close follow-up without initial antibiotics   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-311] A 52-year-old woman presents with worsening facial swelling and pain over the past 2 days, as seen in the above image. Her symptoms started as mild facial fullness accompanied by lacrimation. She reports no trauma, headache, rhinorrhea, fevers, emesis, cough, or vision changes. Which of the following is most likely to confirm the diagnosis?
+    ANSWER: Fluorescein dye   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-312] A 10-day-old boy is brought to the ED by his parent due to eye redness. His parent states it began the day prior and has worsened. He has had no cough or apparent difficulty breathing. Vital signs are within normal limits. The parent states the patient was delivered via uncomplicated vaginal birth at 38 weeks and 2 days but had sporadic prenatal care.
+    ANSWER: Oral erythromycin for 14 days   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-313] A 34-year-old man with a history of diabetes and IV drug use presents to the emergency department with a sore throat and changes in his voice worsening over the past 2 days. He is no longer able to eat and drink secondary to the pain. His T is 102°F (38.9°C), BP is 115/73 mm Hg, HR is 115 bpm, RR is 16/min, and SpO2 is 100% on room air.
+    ANSWER: Piperacillin-tazobactam and otolaryngology consult   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-314] What physical examination finding can guide the clinician in diagnosing bacterial conjunctivitis versus viral or allergic conjunctivitis?
+    ANSWER: Purulent discharge at lid margins and corners of eye   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-315] A man presents with hearing loss involving the right ear. The Weber test lateralizes to the right ear. The patient notes hearing better when the tuning fork is on the mastoid during the Rinne test. Which of the following is the likely cause of this patient’s hearing loss?
+    ANSWER: Otitis media   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-316] A 25-year-old healthy man presents to the emergency department with several days of sore throat associated with fever and voice change. Examination is significant for a temperature of 101.5°F (38.6°C), HR 110 bpm, SpO2 99% on room air, right tonsillar erythema and swelling with uvula deviation to the left, no pooling of oral secretions, and tender anterior cervical lymphadenopathy.
+    ANSWER: Needle aspiration   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-317] A 42-year-old woman reports 2 days of pain and swelling in the right submandibular area. She has dry mouth and worsening swelling and pain during mealtime. Vital signs include a T of 98.8°F, HR of 82 bpm, BP of 122/80 mm Hg, RR of 16/minute, and SpO2 of 100% on room air. Which of the following is the first-line treatment for this condition?
+    ANSWER: Sialagogues   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-318] A 67-year-old man with a history of hypertension and diabetes presents to the emergency department with right ear pain for 2 weeks. His vital signs are normal except for a temperature of 38.2°C and a blood pressure of 158/82 mm Hg. On exam, he has a right-sided facial droop that does not spare his forehead. His right ear is exquisitely painful, even with the slight pulling of his auricle.
+    ANSWER: Intravenous piperacillin-tazobactam   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-319] A 9-year-old girl presents to the emergency department with 2 days of swelling and redness of her left eye. Vital signs show a HR of 85 bpm, BP of 116/68 mm Hg, T of 102.9°F, RR of 20 breaths/min, and SpO2 of 98%. On exam you note the findings seen above. There is pain with eye movement, and you note an afferent pupillary defect. Which of the following is the most appropriate therapy?
+    ANSWER: Intravenous ceftriaxone and intravenous vancomycin   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-320] A 70-year-old woman presents to the emergency department for worsening vision changes in her right eye and a headache that began several hours prior to arrival. She reports no trauma. Her visual acuity is 20/30 on the left and 20/200 on the right. Her extraocular movements are intact, and she has no facial asymmetry. Her tonometric pressures are 18 mm Hg on the left and 65 mm Hg on the right.
+    ANSWER: Topical apraclonidine   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-321] A 20-year-old woman presents to the ED with acute onset hearing loss in her right ear. Otoscopy reveals cerumen impaction on the right. The left ear exam is normal. Weber and Rinne tests are performed. What are the expected results of the tests given this information?
+    ANSWER: Lateralizes to the right with forehead conduction   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-322] A 4-year-old unimmunized boy has had 6 hours of fever, drooling, a muffled voice, soft stridor, and tripod positioning. After his airway is secured, which of the following represents the best choice for empiric antibiotic treatment while awaiting the results of culture and sensitivity studies?
+    ANSWER: Ceftriaxone   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-323] A 65-year-old woman reports acute pain in the left eye and vomiting after walking into a movie theater. On examination, her cornea is cloudy. She has photophobia and a fixed pupil. She reports an allergy to sulfa. Which of the following is the most appropriate next action?
+    ANSWER: Measurement of intraocular pressure   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-324] A 10-year-old boy presents with fever and sore throat for 2 days. He has no cough. Vital signs are a T of 101.1°F (38.4°C), BP of 102/60 mm Hg, HR of 95 bpm, RR of 20/min, and SpO2 of 99%. On physical exam, he has bilateral tonsillar exudate and tender cervical lymphadenopathy. A rapid strep test is negative. What is the best next step in management?
+    ANSWER: Order a throat culture   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-325] Which of the following findings on examination is most concerning for a diagnosis of orbital cellulitis as opposed to preseptal cellulitis?
+    ANSWER: Ophthalmoplegia   (key C)
+[ROSH rosh-em-initial-2026-heent-disorders-q-326] A 23-year-old woman presents to the emergency department for left eye pain starting this morning. She is a beach volleyball player and spent several hours playing volleyball the day prior. She states that she gets sand in her eyes every time she plays but washes it out with no issue but the pain from yesterday's game has not abated. Vital signs are normal.
+    ANSWER: Discharge with oral nonsteroidal anti-inflammatory drugs and ophthalmology clinic follow-up   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-327] A 63-year-old woman presents to the ED with concerns about a headache and decreased vision that started 45 minutes ago when she walked into a movie theater. She notes a severe left retro-orbital headache associated with two episodes of emesis, and she has blurry vision in her left eye. Her left pupil is 5 mm and poorly reactive to light. Visual acuity is 20/50 on the right, 20/200 on the left.
+    ANSWER: Apraclonidine 1% eye drop   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-328] A 25-year-old woman presents to the ED with a sore throat and subjective fever for 2 days. Vital signs show a T of 101.7°F (38.7°C), BP of 126/80 mm Hg, HR of 104 bpm, and RR of 16/min. What historical feature of this patient’s illness would most suggest viral pharyngitis as a more likely etiology rather than bacterial pharyngitis caused by group A Streptococcus?
+    ANSWER: Conjunctivitis   (key A)
+[ROSH rosh-em-initial-2026-heent-disorders-q-329] A 30-year-old man who was recently discharged after a 3-week hospital stay for a traumatic brain injury presents with bleeding from his tracheostomy site. Vital signs are a T of 98.6°F (37°C), BP of 90/60 mm Hg, HR of 130 bpm, RR of 35/min, and SpO2 of 85% on room air. On exam, there is a significant amount of frank blood in and around the tracheostomy. What is the best next step in management?
+    ANSWER: Overinflate the tracheostomy cuff   (key B)
+[ROSH rosh-em-initial-2026-heent-disorders-q-330] A 30-year-old man with no significant medical history presents to the emergency department with dizziness. He reports that the symptoms were sudden in onset shortly after getting out of bed. You suspect vestibular neuritis. Using your hand, you cover one of the patient's eyes and quickly switch to covering the patient’s other eye while his gaze is on a fixed target.
+    ANSWER: No eye movement   (key D)
+[ROSH rosh-em-initial-2026-heent-disorders-q-331] Which of the following is the best management of corneal abrasions once the diagnosis is made?
+    ANSWER: Topical antibiotics and pain control   (key D)

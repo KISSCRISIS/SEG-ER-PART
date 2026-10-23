@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg-guide.example/schemas/seg-content-record.v1.1.clinical-skill.schema.json",
+  "title": "SEG v1.1 Clinical Skill content",
+  "description": "Type-specific content definition for clinical_skill. This is educational content, not a learner competency record, procedure authorization, or sign-off.",
+  "$ref": "#/$defs/clinicalSkill",
+  "$defs": {
+    "sourceSection": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["state"],
+      "properties": {
+        "state": {
+          "type": "string",
+          "enum": ["present", "absent", "unresolved"]
+        },
+        "origin": {
+          "type": "string",
+          "enum": ["source_verbatim", "source_derived", "seg_original"]
+        },
+        "value": {
+          "type": ["string", "array", "object"]
+        },
+        "source_locator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "review_note": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"state": {"const": "present"}},
+            "required": ["state"]
+          },
+          "then": {
+            "required": ["origin", "value"]
+          }
+        },
+        {
+          "if": {
+            "properties": {"state": {"enum": ["absent", "unresolved"]}},
+            "required": ["state"]
+          },
+          "then": {
+            "not": {"required": ["value"]}
+          }
+        },
+        {
+          "if": {
+            "properties": {"origin": {"enum": ["source_verbatim", "source_derived"]}},
+            "required": ["origin"]
+          },
+          "then": {
+            "required": ["source_locator"]
+          }
+        }
+      ]
+    },
+    "clinicalSkill": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "skill_name",
+        "category",
+        "indication",
+        "contraindication",
+        "steps",
+        "equipment",
+        "assessment_method",
+        "competency_level"
+      ],
+      "properties": {
+        "skill_name": {"type": "string", "minLength": 1},
+        "category": {"type": "string", "minLength": 1},
+        "indication": {"$ref": "#/$defs/sourceSection"},
+        "contraindication": {"$ref": "#/$defs/sourceSection"},
+        "steps": {"$ref": "#/$defs/sourceSection"},
+        "equipment": {"$ref": "#/$defs/sourceSection"},
+        "assessment_method": {"$ref": "#/$defs/sourceSection"},
+        "competency_level": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

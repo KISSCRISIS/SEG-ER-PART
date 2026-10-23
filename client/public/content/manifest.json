@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-09-30T04:21:41.100Z",
+  "files": [
+    {
+      "path": "qbank/edic-sba-2026-question-bank.jsonl",
+      "bytes": 5465683,
+      "sha256": "1ebe14209c730ec9"
+    },
+    {
+      "path": "qbank/frcem-question-bank.jsonl",
+      "bytes": 10845823,
+      "sha256": "758d56044d02ef28"
+    },
+    {
+      "path": "qbank/hippo-question-bank.jsonl",
+      "bytes": 5059521,
+      "sha256": "44bd3d82cf8be74a"
+    },
+    {
+      "path": "qbank/oxford-sce-question-bank.jsonl",
+      "bytes": 1328760,
+      "sha256": "38e416139442f4c4"
+    },
+    {
+      "path": "qbank/peer-physicians-case-series-2026-question-bank.jsonl",
+      "bytes": 1219906,
+      "sha256": "7663247bc1eaac1d"
+    },
+    {
+      "path": "qbank/peer-physicians-2026-unified-question-bank.jsonl",
+      "bytes": 4816692,
+      "sha256": "40046dc201dbd591"
+    },
+    {
+      "path": "qbank/rosen-10e-question-bank.jsonl",
+      "bytes": 1843751,
+      "sha256": "d5741f8582d5f435"
+    },
+    {
+      "path": "qbank/rosh-initial-certification-2026-merged-four-files-question-bank.jsonl",
+      "bytes": 20163435,
+      "sha256": "1eacc127ff4630dd"
+    },
+    {
+      "path": "qbank/tintinalli-9e-question-bank.jsonl",
+      "bytes": 1624289,
+      "sha256": "b4db1296e1fa9b6b"
+    },
+    {
+      "path": "qbank/frcem-study-book.json",
+      "bytes": 523598,
+      "sha256": "80904a34e241f481"
+    },
+    {
+      "path": "qbank/hippo-study-book.json",
+      "bytes": 305890,
+      "sha256": "4fe4a9828d40a2d1"
+    },
+    {
+      "path": "reference/fullReferenceLibrary.json",
+      "bytes": 182143,
+      "sha256": "6595cad2e2d1deb8"
+    },
+    {
+      "path": "reference/flashcards.json",
+      "bytes": 333868,
+      "sha256": "830bc36fcfe43356"
+    },
+    {
+      "path": "reference/examTraps.json",
+      "bytes": 104277,
+      "sha256": "0108ee68e8176914"
+    },
+    {
+      "path": "reference/masterTopicFamilyIndex.json",
+      "bytes": 7704,
+      "sha256": "ce39f8a73155deca"
+    },
+    {
+      "path": "reference/chapterStudyMap.json",
+      "bytes": 55871,
+      "sha256": "a32149f711d1f6ad"
+    },
+    {
+      "path": "reference/arabicMentorExplanations.json",
+      "bytes": 180854,
+      "sha256": "95cf6dde36e026d1"
+    },
+    {
+      "path": "osce/OSCE_Emergency_Medicine_Imaging_Section_UTF8.txt",
+      "bytes": 22656,
+      "sha256": "c5e53a1b3df0b5aa"
+    }
+  ]
+}

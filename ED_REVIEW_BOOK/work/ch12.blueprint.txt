@@ -1,0 +1,342 @@
+[PEER-PHYS PEER-core-q-352] A medical director witnesses a conflict between a consultant and an emergency department faculty member. Which type of communication is best for conflict resolution?
+    ANSWER: Face-to-face conversation   (key B)
+[PEER-PHYS PEER-core-q-353] What has been shown to facilitate communication and decrease medical errors during patient handoffs in the emergency department?
+    ANSWER: Using a formal patient handoff tool   (key D)
+[PEER-PHYS PEER-core-q-354] Which activity led by a child life specialist may help ease a 4-year-old child's fear of having an intravenous line placed?
+    ANSWER: Medical play   (key B)
+[PEER-PHYS PEER-core-q-355] In the event of a child's death, which important service may be led by a child life specialist?
+    ANSWER: Supporting siblings   (key D)
+[PEER-PHYS PEER-core-q-356] Which statement describes the impact of implementing a complaint management and patient satisfaction program?
+    ANSWER: There is a clear relationship between patient satisfaction and medical liability lawsuits   (key D)
+[PEER-PHYS PEER-core-q-357] Which conflict management technique can be used to de-escalate an angry patient?
+    ANSWER: Acknowledge the patient's grievance or frustration   (key A)
+[PEER-PHYS PEER-core-q-358] What is a 'microaggression'?
+    ANSWER: Subtle negative message conveyed against certain people groups   (key B)
+[PEER-PHYS PEER-core-q-359] Which technique is used by team leaders in crisis resource management training?
+    ANSWER: Assign specific roles to team members   (key A)
+[PEER-PHYS PEER-core-q-360] A 60-year-old man dies in cardiac arrest despite best efforts. What is considered best practice for delivering the news to family?
+    ANSWER: Asking the family a few questions to gauge what they understand about the situation   (key A)
+[PEER-PHYS PEER-core-q-361] A neonate brought in with CPR in progress after home birth. Pronounced dead. Mother asks 'Is this my fault?' What is the most appropriate response?
+    ANSWER: 'I know this is shocking; of course this isn't what you wanted to happen.'   (key B)
+[PEER-PHYS PEER-core-q-362] Which word should generally be avoided when discussing a patient's death with their family members?
+    ANSWER: Intubated   (key B)
+[PEER-PHYS PEER-core-q-363] When delivering bad news to the parents of a child who has died, what is the best first step after introductions?
+    ANSWER: Ask, 'What have you been told so far?'   (key A)
+[PEER-PHYS PEER-core-q-364] What best summarizes a physician's most effective use of a medical interpreter for translation services?
+    ANSWER: Explaining goals of the encounter to an interpreter before the interview   (key A)
+[PEER-PHYS PEER-core-q-365] A 12-year-old from Guatemala. Mother doesn't speak English. Child interprets for the mother. What is the best next step?
+    ANSWER: Obtain an interpreter for the remainder of the encounter   (key D)
+[PEER-PHYS PEER-core-q-366] A Spanish-speaking parent presents with a cyanotic baby. Colleague has some Spanish but not certified. What is the most appropriate next step?
+    ANSWER: Ask your colleague to obtain a basic history while arranging for a formal interpreter   (key A)
+[PEER-PHYS PEER-core-q-367] A resident with medical Spanish training (not certified) offers to interpret for a stable Spanish-speaking patient. Formal interpreters busy. Patient has waited 3.5 hours. What is the most appropriate action?
+    ANSWER: Insist that the resident wait for a formal interpreter   (key D)
+[PEER-PHYS PEER-core-q-368] What differentiates interpretation from translation?
+    ANSWER: Interpretation is spoken   (key A)
+[PEER-PHYS PEER-core-q-369] Where is the ideal location for an interpreter of a spoken language to sit during a clinical encounter?
+    ANSWER: Behind the patient   (key A)
+[PEER-PHYS PEER-core-q-370] A 25-year-old Spanish-speaking patient with abdominal pain brings their 8-year-old son. Physician speaks limited Spanish. What is the most appropriate way to obtain an accurate history?
+    ANSWER: Use a hospital-based interpreter service   (key C)
+[PEER-PHYS PEER-core-q-371] What has been shown to manage patient expectations and improve patient satisfaction in the emergency department?
+    ANSWER: Continual updates about triage and wait times   (key A)
+[PEER-PHYS PEER-core-q-372] A 22-year-old woman presents for examination after a sexual assault. Apprehensive, does not wish to speak to police. What should you tell her?
+    ANSWER: She may have evidence collected without reporting to police in most states   (key A)
+[PEER-PHYS PEER-core-q-373] An infant brought in by EMS with CPR in progress. Parents arrive. What is the most appropriate response?
+    ANSWER: Have a supportive staff member update the parents and invite them into the resuscitation room   (key C)
+[PEER-PHYS PEER-core-q-374] Where do most microaggressions tend to originate from?
+    ANSWER: Implicit bias   (key B)
+[PEER-PHYS PEER-core-q-375] An adult patient discloses that she was abused as a child. What is the most appropriate response?
+    ANSWER: Listen nonjudgmentally   (key D)
+[PEER-PHYS PEER-core-q-376] What piece of information is most important to review when signing out a patient to an oncoming team?
+    ANSWER: Anticipated disposition   (key A)
+[PEER-PHYS PEER-core-q-377] What is the primary goal when signing out to an oncoming team?
+    ANSWER: Ensure patient safety and quality care   (key A)
+[PEER-PHYS PEER-core-q-378] A 25-year-old with seizure presenting 30 minutes before shift change. What is the most appropriate sign out?
+    ANSWER: Concise ED I-PASS report   (key A)
+[PEER-PHYS PEER-core-q-379] A 70-year-old in septic shock from multifocal pneumonia, intubated, boarding in ED. Which is the best sign out report?
+    ANSWER: ED I-PASS report with key details   (key B)
+[PEER-PHYS PEER-core-q-381] Which term describes the proportion of a test's positive results that are truly positive?
+    ANSWER: Positive predictive value   (key B)
+[PEER-PHYS PEER-core-q-382] For a hospital to create a culture of safety and become a high-reliability organization, which action is most helpful in reducing errors?
+    ANSWER: Developing a system to report and track errors and near misses   (key A)
+[PEER-PHYS PEER-core-q-383] A physician recently named in malpractice lawsuit behaves erratically, shows up late, yells at staff, drinking in car. What is the most likely cause?
+    ANSWER: Second victim syndrome   (key D)
+[PEER-PHYS PEER-core-q-384] Near the end of a 12-hr night shift, a physician forgets to prepare skin with antiseptic before lumbar puncture. What should they do?
+    ANSWER: Disclose the specific error to the patient and provide information about monitoring for infection   (key B)
+[PEER-PHYS PEER-core-q-385] An intern performing chest tube placement; the senior instructs lidocaine, but intern remembers bupivacaine allergy. What should the intern do?
+    ANSWER: Pause and ask to check the patient's allergies   (key B)
+[PEER-PHYS PEER-core-q-386] A patient and family ask about hospice referral but inquire whether the patient can remain on full code status. What is the best approach?
+    ANSWER: Ask the patient about their understanding of their illness and end-of-life care goals   (key C)
+[PEER-PHYS PEER-core-q-387] What is the safest way to store medications in the home?
+    ANSWER: Out of sight and reach   (key B)
+[PEER-PHYS PEER-core-q-388] When treating acute pain, what should be considered?
+    ANSWER: Anticipated benefits and known risks of opioid therapy   (key A)
+[PEER-PHYS PEER-core-q-389] A patient on naproxen, lidocaine, and baclofen for chronic pain requests additional therapies. Which is most likely to be harmful?
+    ANSWER: Morphine   (key D)
+[PEER-PHYS PEER-core-q-390] A patient with an ICD being admitted to hospice. Patient confirms they want the device deactivated. What is the next step?
+    ANSWER: Place a magnet over the device and leave it there   (key C)
+[PEER-PHYS PEER-core-q-391] A senior EM resident precepting a new intern. After 30 minutes, the intern is still reviewing the chart. What should the senior have done prior to assigning the patient?
+    ANSWER: Set expectations for being in the emergency department   (key C)
+[PEER-PHYS PEER-core-q-392] Which perception of feedback is most common between educators and learners in the emergency department?
+    ANSWER: Learners feel they receive too little feedback; teachers feel they give a lot of feedback   (key B)
+[PEER-PHYS PEER-core-q-393] What is least helpful when giving constructive feedback to a medical student at the end of a busy shift?
+    ANSWER: Identify general actions or behaviors that the learner can aim for on their next shift   (key C)
+[PEER-PHYS PEER-core-q-394] When working on a quality improvement initiative for large-scale change, what is an effective first step?
+    ANSWER: Create a sense of urgency and need for the desired change   (key A)
+[PEER-PHYS PEER-core-q-395] When caring for a transgender patient, what is the most appropriate way for a physician to start the interview after introducing themselves?
+    ANSWER: State their own pronouns and ask the patient which pronouns they use   (key D)
+[PEER-PHYS PEER-core-q-396] Which policy was established by the US government to provide grants to support mental health and resiliency in healthcare workers?
+    ANSWER: Dr. Lorna Breen Health Care Provider Protection Act   (key A)
+[PEER-PHYS PEER-core-q-397] Rodney develops an initiative to educate clinicians about buprenorphine and take-home naloxone for opiate overdose patients. What form of allyship?
+    ANSWER: Advocacy   (key A)
+[PEER-PHYS PEER-core-q-398] What helps to reduce the impact of implicit bias in medical care?
+    ANSWER: Use standardized medical protocols when applicable   (key D)
+[PEER-PHYS PEER-core-q-399] What is an example of a physician exhibiting an implicit bias?
+    ANSWER: Attributing a woman's epigastric pain to anxiety despite elevated troponin   (key A)
+[PEER-PHYS PEER-core-q-400] A 65-year-old woman with chest pain and elevated troponin discharged with anxiety; later found to have old MI. Which factor contributed to her misdiagnosis?
+    ANSWER: Gender   (key C)
+[PEER-PHYS PEER-core-q-401] How can physicians make their care less biased?
+    ANSWER: Get to know patients as individuals   (key B)
+[PEER-PHYS PEER-core-q-402] A Hispanic man seen at multiple EDs for epigastric pain and vomiting, feels treated differently. Extensive testing negative. No improvement with PPI. What is the most likely reason?
+    ANSWER: This patient is less likely to follow the treatment plan   (key B)
+[PEER-PHYS PEER-core-q-403] Linda (ED nurse, 20 years) realizes her implicit bias and actively confronts it via seminars and engagement. What behavior is Linda demonstrating?
+    ANSWER: Allyship   (key A)
+[PEER-PHYS PEER-core-q-404] What is the benefit of a physician mortgage loan?
+    ANSWER: It allows a physician to purchase a home with zero down payment   (key B)
+[PEER-PHYS PEER-core-q-405] What is the recommended amount of money physicians should save annually?
+    ANSWER: 15% to 25% of gross annual income   (key B)
+[PEER-PHYS PEER-core-q-406] An emergency physician working with and indirectly supervising a PA. Which supervision method is ideal?
+    ANSWER: Evaluate every patient seen by the PA with abnormal vital signs   (key C)
+[PEER-PHYS PEER-core-q-407] A PA evaluates a 25-year-old with chest pain and cough. Discussed with supervising physician who didn't see the patient. CXR normal. Discharged with 'viral URI'. Returns next day with aortic dissection and dies. What is the malpractice risk?
+    ANSWER: The physician is fully liable for this case as the supervising physician   (key C)
+[PEER-PHYS PEER-core-q-408] A new medical director trying to improve working culture. Nurse-physician conflicts, multiple resignations. Physician yelling at nurse. What is the first step?
+    ANSWER: Investigate the incident   (key C)
+[PEER-PHYS PEER-core-q-409] Which consideration should be a top priority for savings and financial wellness?
+    ANSWER: Funding employer-provided retirement plans to maximize employer's match   (key B)
+[PEER-PHYS PEER-core-q-410] What is a benefit of a Health Savings Account?
+    ANSWER: Ability to withdraw money for medical expenses without taxation   (key A)
+[PEER-PHYS PEER-core-q-411] According to the financial hedonic treadmill model, which phenomenon is likely to occur?
+    ANSWER: A person's expectations and desires will rise as their income increases   (key D)
+[PEER-PHYS PEER-core-q-412] Which type of life insurance covers a predetermined period of time before it expires?
+    ANSWER: Term life insurance   (key A)
+[PEER-PHYS PEER-core-q-413] Which optional disability insurance rider allows the insured to collect disability even after partial but not total disability?
+    ANSWER: Residual disability rider   (key D)
+[PEER-PHYS PEER-core-q-414] Which statement describes a group disability policy?
+    ANSWER: Provides fully taxable disability payments   (key C)
+[PEER-PHYS PEER-core-q-415] When choosing disability insurance, which option will give the most protection in the case of disability?
+    ANSWER: Own occupation   (key C)
+[PEER-PHYS PEER-core-q-416] As of 2025, what is a requirement for the Public Service Loan Forgiveness (PSLF) program?
+    ANSWER: 120 qualifying payments   (key A)
+[PEER-PHYS PEER-core-q-417] An otherwise healthy 47-year-old emergency physician complains of difficulty sleeping, irritability, poor short-term memory, excessive fatigue when working night shifts. What is the most likely diagnosis?
+    ANSWER: Shift work sleep disorder   (key D)
+[PEER-PHYS PEER-core-q-418] Which factor may lead to delays in care and reduce efficiency in the emergency department?
+    ANSWER: Performing sequential rather than simultaneous tests   (key C)
+[PEER-PHYS PEER-core-q-419] What outcome may result from poor work-life balance?
+    ANSWER: Depersonalization and emotional exhaustion   (key A)
+[PEER-PHYS PEER-core-q-420] What is a symptom of burnout related to depersonalization?
+    ANSWER: Negative attitude towards patients   (key C)
+[PEER-PHYS PEER-core-q-421] Which definition best describes gender identity?
+    ANSWER: The gender(s) with which someone identifies   (key D)
+[PEER-PHYS PEER-core-q-422] An individual assigned male at birth currently identifies as female. What is the appropriate terminology?
+    ANSWER: Transgender woman   (key D)
+[PEER-PHYS PEER-core-q-423] According to the DSM-5, individuals who experience distress based on incongruence between birth sex and gender identity are experiencing what condition?
+    ANSWER: Gender dysphoria   (key A)
+[PEER-PHYS PEER-core-q-424] A patient refers to themself as 'transmasculine.' What does this most likely mean?
+    ANSWER: The patient was assigned female at birth and identifies as a man   (key A)
+[PEER-PHYS PEER-core-q-425] A 45-year-old transgender woman with SOB, fever, hypoxia, petechial hemorrhage. CXR shows pulmonary edema. Reports 'pumping party' for hip/buttock silicone injections. What is the most likely cause?
+    ANSWER: Silicone embolism syndrome   (key D)
+[PEER-PHYS PEER-core-q-426] Which complication is most commonly seen in transgender men who perform chest binding?
+    ANSWER: Back pain   (key A)
+[PEER-PHYS PEER-core-q-427] A 6-year-old boy with GSW to abdomen, inflicted accidentally by brother who found a gun. In homes with firearms, how can these injuries best be prevented?
+    ANSWER: Keep firearms unloaded in a safe that only adults can access   (key A)
+[PEER-PHYS PEER-core-q-428] Which is a principle of trauma-informed care?
+    ANSWER: Collaboration and mutuality   (key B)
+[PEER-PHYS PEER-core-q-429] What is the window of tolerance, as it pertains to trauma-informed care?
+    ANSWER: The optimal zone of arousal in which a patient is able to process emotions and events going on around them   (key D)
+[PEER-PHYS PEER-core-q-430] How might an emergency physician best provide trauma-informed care to a transgender woman presenting with a headache?
+    ANSWER: Ask the patient for their preferred name and pronouns   (key B)
+[PEER-PHYS PEER-core-q-431] Which is an example of a restrictive covenant that may be included in an employment contract?
+    ANSWER: Physician cannot work within a 5-mile radius of the hospital   (key C)
+[PEER-PHYS PEER-core-q-432] When should a resident applying for an academic faculty position have their application materials ready?
+    ANSWER: By the summer before their final year of residency   (key D)
+[PEER-PHYS PEER-core-q-433] What is a primary benefit of working locum tenens?
+    ANSWER: Higher salaries   (key B)
+[PEER-PHYS PEER-core-q-434] Which element should a job candidate omit from a cover letter?
+    ANSWER: A description of why they decided to pursue a career in medicine   (key B)
+[PEER-PHYS PEER-core-q-435] What is the best next step after receiving an employment contract?
+    ANSWER: Meet with a contract lawyer to review the contract   (key B)
+[PEER-PHYS PEER-core-q-436] Which type of malpractice insurance will cover the physician no matter when a lawsuit is filed?
+    ANSWER: Occurrence malpractice insurance   (key C)
+[PEER-PHYS PEER-core-q-437] What type of insurance will protect a physician from alleged medical malpractice?
+    ANSWER: Malpractice insurance   (key C)
+[PEER-PHYS PEER-core-q-438] What is a successful conclusion to the end of the first interview day?
+    ANSWER: Thank parties involved for their time and hospitality   (key D)
+[PEER-PHYS PEER-core-q-439] When is it advisable for an emergency physician to consult a contract lawyer during the job search process?
+    ANSWER: At the beginning of their job search   (key B)
+[PEER-PHYS PEER-core-q-440] What important element should be negotiated in a physician's employment contract?
+    ANSWER: Malpractice insurance   (key C)
+[PEER-PHYS PEER-core-q-441] What is a crucial part of the history when assessing a patient with dementia who presents with a caregiver?
+    ANSWER: Assess caregiver stress and strain   (key D)
+[PEER-PHYS PEER-core-q-442] What is the best example of a clinical decision support intervention found in the electronic health record?
+    ANSWER: Reminder to give aspirin to a patient with a positive troponin   (key D)
+[PEER-PHYS PEER-core-q-443] A 55-year-old with cellulitis on upper left arm (2 days ago, given cephalexin). Chart shows normal right leg exam despite prior BKA. What is the most likely cause of the documentation error?
+    ANSWER: Macro   (key D)
+[PEER-PHYS PEER-core-q-444] A sole emergency physician at MVC scene performs triage. Which patient has the highest treatment priority?
+    ANSWER: 40-year-old woman with R 20, strong radial pulse, and inability to follow simple commands   (key B)
+[PEER-PHYS PEER-core-q-445] What is a known benefit of emergency department observation units?
+    ANSWER: Higher patient satisfaction scores   (key C)
+[PEER-PHYS PEER-core-q-446] What is a requirement for billing critical care services in the care of an emergency department patient?
+    ANSWER: Critical illness or injury with a high probability of deterioration   (key B)
+[PEER-PHYS PEER-core-q-447] A 15-year-old with anaphylaxis to peanuts (wheezing, vomiting, lip swelling, hives). Improves then requires additional epinephrine 1 hour later. What E/M code level of care should be billed?
+    ANSWER: Critical care   (key A)
+[PEER-PHYS PEER-core-q-448] Which intervention can be included in critical care billing time for a case of high-energy trauma with scapula fracture, posterior shoulder dislocation, multiple rib fractures, and GCS 5?
+    ANSWER: Ventilator management   (key D)
+[PEER-PHYS PEER-core-q-449] In the medical oversight of an EMS system, what is an example of online medical direction?
+    ANSWER: Communication of medication orders by radio from an emergency physician to a paramedic   (key A)
+[PEER-PHYS PEER-core-q-450] Under what circumstance may a hospital waive standard staff credentialing procedures?
+    ANSWER: Hospital Emergency Operations Plan has been activated   (key B)
+[PEER-PHYS PEER-core-q-451] Which staff members are mostly likely to be victims of workplace violence in the emergency department?
+    ANSWER: Nurses   (key B)
+[PEER-PHYS PEER-core-q-452] A 55-year-old man waiting for cough threatens to get a gun and shoot staff. What is the most appropriate response?
+    ANSWER: Call law enforcement to file a police report regarding the threat   (key A)
+[PEER-PHYS PEER-core-q-453] During a busy shift, someone walks into the emergency department and starts shooting a rifle. What is the most appropriate response?
+    ANSWER: Run, hide, and fight   (key D)
+[PEER-PHYS PEER-core-q-454] An 89-year-old man with terminal cancer, DNR with comfort care only, presents with severe dyspnea, chest pain, fever, and productive cough. CXR shows lobar pneumonia. What is the appropriate action?
+    ANSWER: Administer an opioid and a benzodiazepine   (key A)
+[PEER-PHYS PEER-core-q-455] An 89-year-old man with severe dementia, poor oral intake. Family considering feeding tube. Which specialist would be most helpful?
+    ANSWER: Palliative medicine   (key C)
+[PEER-PHYS PEER-core-q-456] An 88-year-old with end-stage COPD intubated by paramedics. POLST indicates no CPR/intubation, comfort-focused. Son agrees. What is the best next step?
+    ANSWER: Extubate in the emergency department and provide comfort care   (key C)
+[PEER-PHYS PEER-core-q-457] A 67-year-old with end-stage pancreatic cancer. Goals: die at home, avoid admission. Worried about pain worsening. Wants something stronger. What is the best approach?
+    ANSWER: Referral for hospice care   (key C)
+[PEER-PHYS PEER-core-q-458] Which finding suggests that a cancer patient's functional status may be too poor to continue with chemotherapy?
+    ANSWER: In bed more than 50% of waking hours   (key B)
+[PEER-PHYS PEER-core-q-459] Which criterion is required for a patient to qualify for hospice?
+    ANSWER: Potential life expectancy is ≤6 months   (key C)
+[PEER-PHYS PEER-core-q-460] According to HIPAA, which circumstance requires written patient authorization for disclosure of protected health information?
+    ANSWER: Disclosure of psychotherapy notes for use in insurance billing   (key C)
+[PEER-PHYS PEER-core-q-461] A 12-year-old brought by neighbor with severe lawnmower injuries. Tourniquets placed, bleeding difficult. Specialty hospital accepts transfer, but parents don't answer. Regarding consent?
+    ANSWER: The patient should be transferred prior to obtaining consent   (key D)
+[PEER-PHYS PEER-core-q-462] A 47-year-old with suicide attempt (wrist cutting), grandiose delusions, flight of ideas, history of bipolar disorder not on meds. Calm, no significant injury, wants discharge. What is the best next step?
+    ANSWER: Arrange for an emergency psychiatric hold per local state laws   (key C)
+[PEER-PHYS PEER-core-q-463] A 58-year-old with head injury. Yelling expletives, slurring, alcohol smell, large scalp hematoma. Refuses care, demands release. What is the best way to proceed?
+    ANSWER: Involuntarily sedate her to facilitate workup   (key D)
+[PEER-PHYS PEER-core-q-464] Approximately what percentage of emergency department patients leave against medical advice?
+    ANSWER: 2%   (key A)
+[PEER-PHYS PEER-core-q-465] How does the 30-day return rate for adult patients discharged against medical advice compare to those discharged per standard processes?
+    ANSWER: Increased   (key C)
+[PEER-PHYS PEER-core-q-466] What is an emergency physician's best defense against liability when managing patients who leave against medical advice?
+    ANSWER: Document completely and thoroughly   (key A)
+[PEER-PHYS PEER-core-q-467] Hospital gets transfer request for unstable patient with AAA. Normally accepts, but vascular surgeon just started 8-hr case. Can hospital decline and remain EMTALA compliant?
+    ANSWER: Yes, because it lacks the capacity to care for the patient   (key D)
+[PEER-PHYS PEER-core-q-468] What is one responsibility of the critical care transportation team's medical director during hospital-to-hospital transfer?
+    ANSWER: Ensuring proper training of transportation teams to care for patients   (key C)
+[PEER-PHYS PEER-core-q-469] What types of responders are critical care transportation teams most commonly composed of?
+    ANSWER: Paramedic and nurse   (key C)
+[PEER-PHYS PEER-core-q-470] What level of training for EMS personnel allows them to perform rapid sequence intubation per national scope of practice, if allowed by medical director?
+    ANSWER: Paramedic   (key D)
+[PEER-PHYS PEER-core-q-471] A 65-year-old with chest pain, hemodynamically stable, no STEMI, requires transfer to cath lab. What is the most appropriate level of care?
+    ANSWER: Advanced life support   (key A)
+[PEER-PHYS PEER-core-q-472] A 65-year-old with inferior STEMI. Nearest PCI center 1 hour away. After aspirin and heparin, what is the most appropriate next step?
+    ANSWER: Transfer to PCI center   (key D)
+[PEER-PHYS PEER-core-q-473] A stable patient at rural hospital with ischemic colitis. Pages to on-call general surgeon unanswered for 20 minutes. What is the most appropriate next step?
+    ANSWER: Escalate attempts to reach the surgeon by contacting a supervisor   (key C)
+[PEER-PHYS PEER-core-q-474] Under EMTALA guidelines, what is an appropriate reason for a stroke center to refuse the transfer of a patient with acute stroke?
+    ANSWER: The hospital is at at full capacity and diverting ambulances   (key B)
+[PEER-PHYS PEER-core-q-475] A 25-year-old at 37 weeks in active labor at critical-access hospital without obstetric/neonatal services. Nearest hospital 45 min away. What is the most appropriate action?
+    ANSWER: Deliver the infant and placenta, then arrange for transfer   (key A)
+[PEER-PHYS PEER-core-q-476] A patient at critical-access hospital with STEMI. PCI center 40 minutes away. While awaiting transfer, respiratory status declines - on NRB at 90-92%. Which type of EMS responder should transport?
+    ANSWER: Paramedic   (key D)
+[PEER-PHYS PEER-core-q-477] Which quality measurement by CMS is part of the Hospital Outpatient Quality Reporting Program?
+    ANSWER: Rate of patients who left without being seen   (key B)
+[PEER-PHYS PEER-core-q-478] In most states, Good Samaritan laws protect physicians from liability under which circumstance?
+    ANSWER: Physicians who are providing care outside of their clinical setting   (key D)
+[PEER-PHYS PEER-core-q-479] A patient suffers complication from retained guidewire during central line placement. Under which doctrine may the plaintiff not be required to provide direct factual evidence proving negligence?
+    ANSWER: Res ipsa loquitur   (key C)
+[PEER-PHYS PEER-core-q-480] A physician named in malpractice lawsuit. Which development would be consistent with second victim syndrome?
+    ANSWER: The physician develops feelings of guilt and sleeping difficulties   (key C)
+[PEER-PHYS PEER-core-q-481] A patient diagnosed with diverticulitis discharged. Labs show WBC 1,000 with severe lymphopenia - not communicated. 6 months later diagnosed with HIV/AIDS. Correct statement regarding liability?
+    ANSWER: There is a medical liability risk; the physician breached their duty to treat the patient   (key A)
+[PEER-PHYS PEER-core-q-482] In the context of professional liability insurance, what is the definition of tail coverage?
+    ANSWER: A policy that covers incidents that occurred during the insured period but were not brought as claims until after the insurance terminated   (key C)
+[PEER-PHYS PEER-core-q-483] Which diagnoses are most frequently associated with malpractice claims in emergency medicine?
+    ANSWER: Missed fractures   (key D)
+[PEER-PHYS PEER-core-q-484] A 70-year-old woman with gout given morphine 8 mg becomes delirious, falls, and sustains femoral neck fracture. Which intervention could have prevented this?
+    ANSWER: Consideration of nonopioid analgesics to treat the patient's pain   (key B)
+[PEER-PHYS PEER-core-q-485] Amoxicillin ordered mistakenly for penicillin-allergic patient who has anaphylaxis requiring prolonged stay. How should error be disclosed?
+    ANSWER: Report the error to the patient and to the hospital reporting system   (key D)
+[PEER-PHYS PEER-core-q-486] A patient with thrombocytopenia transfused with a platelet unit meant for another patient. No adverse reaction. What is the best next step?
+    ANSWER: Inform the patient of the error in person and describe what follow-up care will be provided   (key C)
+[PEER-PHYS PEER-core-q-487] Which is a primary goal of lobbying and public policy statements by emergency medicine professional associations?
+    ANSWER: Improve care and resources for patients   (key A)
+[PEER-PHYS PEER-core-q-488] What is an advantage of regionalization of care?
+    ANSWER: Ensures that acutely injured or ill patients receive the most appropriate care   (key C)
+[PEER-PHYS PEER-core-q-489] What discharge practice is contraindicated for older patients?
+    ANSWER: Compress all discharge instructions to fit on one sheet of paper   (key A)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-467] Which of the following situations requires written authorization from the patient for disclosure of protected health information?
+    ANSWER: A request for psychotherapy notes in a patient undergoing credentialing evaluation to work in a health care facility   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-468] Under which of the following contexts would it be appropriate to share a patient’s protected health information per the Health Insurance Portability and Accountability Act?
+    ANSWER: Quality improvement evaluations   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-469] A 2-year-old boy presents to the emergency department after falling from a third story window. The EMS team placed an intraosseous line and started normal saline during transport. They placed the patient in a cervical collar, and his end-tidal carbon dioxide is monitored.
+    ANSWER: Advanced emergency medical technician   (key A)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-470] Which of the following patients is more appropriate for an ED observation unit versus admission?
+    ANSWER: 65-year-old man with syncope, normal ECG, and negative troponin   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-471] A 4-month-old girl presents to the emergency department after a fall when she rolled off of a couch during a diaper change. She has had no loss of consciousness or vomiting, and no injuries are discovered on a head-to-toe examination. During the visit, it becomes clear the family are first-time parents with low health literacy.
+    ANSWER: Safe sleep habits   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-472] In an emergency medical services system, which of the following has the highest level of training and advanced practice?
+    ANSWER: Paramedic   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-473] A 40-year-old woman presents to the emergency department with a headache. She was jogging when she suddenly developed a severe headache that she rated 10/10 on the pain scale. She reports associated dizziness, but that symptom has improved from headache onset. Vital signs show HR of 94 bpm, BP of 147/92 mm Hg, and T of 37.3°C. She does not have any focal neurologic findings on examination.
+    ANSWER: Emergency severity index level 2   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-474] A 27-year-old woman presents with pleuritic chest pain and mild shortness of breath. A D-dimer is performed and is negative. What value best estimates the likelihood that this patient does not have a pulmonary embolism, given the negative test result?
+    ANSWER: Negative predictive value   (key A)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-475] A study has been reported on a new rapid COVID test. In this study, 1,000 individuals were tested using the new rapid test, and they also had serum antibodies drawn to be used as the comparative gold standard. Of the total patients, 600 had both a positive rapid test and antibody titer, while 100 patients had both a negative rapid test and antibody titer.
+    ANSWER: C 75%   (key C)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-476] During patient encounters in the emergency department, a seated posture for the clinician, as opposed to standing, is shown to have what effect on a patient’s perception of care?
+    ANSWER: Time spent with the clinician is perceived as longer   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-477] A newly graduated emergency physician is comparing contracts for multiple job offers. Some jobs will have her working as an employee while others would compensate her as an independent contractor. Which of the following should she be aware of as an independent contractor?
+    ANSWER: Independent contractors are more likely to be audited by the IRS   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-478] You have been asked by a colleague to edit her manuscript for publication. She enrolled 100 patients equally into two arms of a trial treating acute sinusitis with a new antibiotic regimen versus standard treatment. Her outcome measure was treatment failure within 3 days. In the experimental group, 35 of 50 patients achieved symptom resolution in 3 days.
+    ANSWER: 4   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-479] A nurse practitioner working under your medical license repeatedly introduces himself as “doctor” to patients who you see together in your emergency department. You are frustrated because multiple patients have expressed confusion about the arrangement. What is the most appropriate approach to managing this situation?
+    ANSWER: Express your concerns and ask him to clarify his motivations   (key C)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-480] Which of the following is the most common cause of medical malpractice?
+    ANSWER: Misdiagnosis   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-481] A 12-year-old boy presents to the emergency department after a fall while doing tricks at a skateboard park. A thorough history and examination reveal only an abrasion with a 3 cm laceration over the left knee. Appropriate care is provided, and the patient is ready for discharge. Which of the following injury prevention topics is most likely to benefit this patient?
+    ANSWER: Helmet use   (key A)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-482] The mean blood glucose concentration for a cohort of 1,000 newborns is 95 mg/dL. The standard deviation for these measurements is 15 mg/dL. Based on the standard deviation of the test, you expect the glucose measurements to fall between which of the following values 95% of the time?
+    ANSWER: 65 and 125 mg/dL   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-483] According to the Beers criteria, which of the following medications carries a higher risk of severe prolonged hypoglycemia in older adults?
+    ANSWER: Glyburide   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-484] Which of the following terms best describes the use of male pronouns by a 14-year-old adolescent who was assigned female sex at birth?
+    ANSWER: Gender identity   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-485] In a rural emergency department, there is only one surgeon who works on call. The surgeon is becoming overwhelmed with the volume of consults that occur and, as a result, is considering quitting and moving to an academic hospital. This would result in significant issues in caring for patients in this region.
+    ANSWER: Collaboration   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-486] Your emergency department has decided to add a new geriatric emergency wing that will house 15 new beds. You have volunteered to join the task force that will design this new addition. You have been reading information on how this area should differ from the typical emergency department.
+    ANSWER: The Identification of Seniors at Risk Tool should be used to assess each patient’s functional status   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-487] A 23-year-old man presents to the ED with back pain. He has been seen for back pain every day this week. Each time, the patient has demanded hydromorphone and was discharged and escorted out by security. The patient is currently without housing and has a history of heroin and cocaine use. Today, the patient is presenting with the same symptoms as previous visits.
+    ANSWER: Perform an MRI of the spine and obtain laboratory studies   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-488] A patient presents with only nausea and an ECG with a unique finding. After an appropriate workup, the patient undergoes cardiac catheterization, revealing multiple vessel occlusions requiring stents. Which of the following is the most appropriate with regard to sharing this case on social media for the purpose of learning and improving skills for managing this condition?
+    ANSWER: Give a general description of the case and post the ECG without any identifiers   (key C)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-489] You are conducting a research study comparing the heart rates of two groups of senior residents while taking a mock emergency medicine in-service examination. Group A will take a 2-week preparatory course prior to the exam, and group B will not take the course. You hypothesize that participation in the preparatory course will lead to a lower mean heart rate at the moment residents start the exam.
+    ANSWER: Student t -test   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-490] With respect to malpractice insurance, what is the appropriate description of a policy with $1,000,000/$3,000,000 limits of liability?
+    ANSWER: Payment of up to $1,000,000 for each occurrence and a total of $3,000,000 in payments per year for claims   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-491] A clinician is taking care of a patient with sickle cell disease who presents with fever, hypotension, and new pulmonary infiltrates on his chest X-ray. The patient has frequent visits to the ED requesting pain medication and usually disappears after he receives opioid analgesia.
+    ANSWER: Willful misconduct   (key D)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-492] Which of the following is the appropriate order of the methods to deliver the death notification when notifying a family member of a death?
+    ANSWER: Gather the family, introduce staff present, educate about the events, verify understanding, pause to allow for information processing   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-493] In a population of 78 children being evaluated for influenza, 30 have influenza and 48 do not. A rapid viral test is positive in 24 children with influenza and in 8 children without influenza. What is this test’s positive predictive value in this population?
+    ANSWER: A 75%   (key A)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-494] A sexually active 15-year-old girl presents with her friend to the ED with a concern about dysuria and vaginal discharge. On physical exam, she is found to have marked cervical motion tenderness but no significant adnexal or upper abdominal tenderness. Her urinalysis has 5–10 WBCs/hpf, and her urine pregnancy test is negative.
+    ANSWER: The patient can be treated immediately even without parental consent or knowledge   (key C)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-495] A 42-year-old man is worked up for acute coronary syndrome and his ultimate disposition is to the observation unit. Which of the following has been shown to occur with observation unit use?
+    ANSWER: Decreased health care costs   (key A)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-496] Which of the following is an example of primary prevention?
+    ANSWER: Varicella vaccine   (key E)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-497] A 7-year-old boy with autism presents to the emergency department with an arm injury. His parent reports he is recently potty trained and fell while alone in the bathroom. He is guarding his left arm and is not allowing a clinician exam. On visual examination, there is no swelling or deformity, and he is able to move and use the arm to prevent a thorough clinician exam.
+    ANSWER: Involve the parent in the examination   (key C)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-498] During a tactical law enforcement operation utilizing a team with embedded tactical paramedics, a team member sustains a gunshot wound to the neck, resulting in partial airway obstruction. Team medics are with the patient, but they are still under fire. Blood loss is controlled with a hemostatic dressing, and the airway is maintained with a nasopharyngeal airway.
+    ANSWER: Extraction from the hot zone   (key A)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-499] You are working in the emergency department when you note a colleague has ordered a cardiac workup on your patient with an ankle sprain. You cancel the orders and go to talk to him. He apologies stating, “I must have mixed our patients up. They have similar last names.” You note the smell of alcohol on his breath. Which of the following is the best next course of action?
+    ANSWER: Offer to take his patients and send him home   (key B)
+[ROSH rosh-em-initial-2026-other-components-and-core-competencies-q-500] A 6-year-old boy is about to undergo IV insertion. Which of the following is the most effective statement to offer the parents to help their child cope with the procedure?
+    ANSWER: “When I count to three, blow the feeling away from your body”   (key D)

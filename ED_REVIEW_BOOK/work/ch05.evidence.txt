@@ -1,0 +1,799 @@
+### [PEER-PHYS | PEER-2026-volume-1-text-q-68]
+Q: A 3-year-old girl presents with acute foot pain that started while she was walking barefoot in the backyard. Her vital signs are BP 90/palp, P 176, R 36, and T 38.1°C (100.6°F); SpO is 97% on room air. On examination, she appears restless and ataxic; excessive oral secretions, jerking muscular movements, and rapid wander- ing eye movements are noted. No abnormality is seen on her foot.
+A: Bark scorpion
+EXPLANATION: The presentation of a child in severe pain associated with excessive oral secre- tions, muscular jerking, and wandering eye movements is classic for se- vere envenomation by a bark scorpion (Centruroides). The venom is pri- marily neurologically excitatory, leading to activation of the sympathetic and parasympathetic nervous systems. The most common presentation is localized pain or paresthesia. Systemic toxicity is rare but is most common in young children. Skeletal muscular dysfunction with jerking muscle movements, cranial nerve dysfunction, hypersalivation, and ataxia and opsoclonus (rapid multi- vectorial involuntary conjugate eye movements) are seen in severe cases.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-394]
+Q: A 37-year-old man presents to the emergency department with ear pain and hearing loss, which developed while scuba diving. Physical examination shows the findings above. What is the most appropriate next step in care?
+A: Discharge with analgesics, decongestants, and antibiotics
+EXPLANATION: This patient is presenting with middle ear barotrauma (barotitis), likely caused by an inability to equalize pressure across the middle ear while scuba diving. Divers can experience this during ascent or descent, but it is more common during descent as there is an increase in external pressure that exerts inward pressure against the tympanic membrane. Patients usually develop ear pain or hearing loss, and they can report vertigo if the tympanic membrane ruptures. The diagnosis can be confirmed on physical exam. Most tympanic membrane perforations heal spontaneously within 4 weeks. Generally, perforations that involve < 25% of the membrane will have the highest chance of healing.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-69]
+Q: A child sustained an insect bite to his eyelid. What additional condition is likely to develop?
+A: Preseptal cellulitis
+EXPLANATION: Preseptal cellulitis is an infection of structures anterior to the orbital septum of the eye. It can develop after insect bites or direct trauma to the face or eyelid. Preseptal cellulitis occurs most commonly in children, who present with pain, redness, and swelling of the eyelid. It is important to distinguish preseptal cellulitis from the more severe orbital cellulitis. Common features of orbital cellulitis that are absent in pre- septal cellulitis include painful limitation of extraocular movements, ophthalmople- gia, and proptosis.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-395]
+Q: A 21-year-old man presents after being bitten on the right wrist by a neighbor’s dog. The dog is fully vaccinated and is available for monitoring. The dog has reportedly not exhibited any unusual behavior before this attack. The patient’s wrist has two puncture wounds but no laceration or large soft tissue defect. His distal neurovascular examination is intact.
+A: X-ray, tetanus prophylaxis, clindamycin and ciprofloxacin
+EXPLANATION: Mammalian bite wounds are notoriously dirty wounds and carry a high risk of complications. All bite wounds require thorough inspection, detailed neurovascular examination, copious irrigation, and evaluation for underlying fracture (depending on injury location) and retained foreign object (e.g., tooth). X-rays should be performed when the bite is over a joint, is a puncture wound, a grossly contaminated wound, or in bites with concern for underlying fracture or foreign body. X-rays typically detect > 90% of radiopaque foreign bodies that are larger than 1 mm but are not good at detecting vegetative matter such as wood, thorns, or other plant material.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-70]
+Q: A 32-year-old man presents after a witnessed bite by a brown recluse spider. He is asymptomatic, with normal vital signs and a small area of erythema at the bite site. Which is most appropriate?
+A: Discharge with return precautions
+EXPLANATION: A witnessed bite by brown recluse spider in an endemic area is unusual, but the ma- jority of bites from the brown recluse spider resolve without conse- quence. There is currently no known way to predict which patients will develop the rare delayed-onset necrotic wound that might ultimately require skin grafting, and there is no treatment proven to prevent the development of necrosis. Thus, general wound care and return precautions in case necrosis occurs are appropriate. If necrosis occurs, allowing time for wound edges to demarcate before considering skin grafting is also appropriate. In Explanations There is currently no commercial antivenom available to treat brown recluse envenomation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-396]
+Q: A 9-year-old boy with no significant medical history presents to an urban ED with his parents for 2 days of nausea, vomiting, painless dark urine, fever, and malaise. Prior to the onset of these symptoms, the patient had a painful rash on his right upper arm (similar to that seen above) that his parents first noticed after he returned from a visit to his grandparent’s house in a rural area.
+A: Acetaminophen 15 mg/kg and a fluid bolus of 20 mL/kg IV
+EXPLANATION: This patient most likely received a bite from a brown recluse spider and now presents with acute hemolytic anemia. Supportive care with acetaminophen 15 mg/kg and a fluid bolus of 20 mL/kg IV would be the best next step in the management of his condition. The brown recluse spider (Loxosceles reclusa) is a member of the genus Loxosceles, one of two venomous spider genera, the other being the genus Latrodectus (the black widow spider). In the US, brown recluse spiders are primarily found in the South, West, and Midwest. Additionally, there are several species of Loxosceles found in South America, including L. laeta, L. intermedia, and L. gaucho, all of which are venomous, with L.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-71]
+Q: A patient presents for a bite wound from a house pet. Which scenario would be ap- propriate for skin closure with sutures?
+A: Linear 3-cm laceration to the forehead from a dog
+EXPLANATION: A linear 3-cm laceration to the forehead from a dog would likely be appropriate for skin closure with sutures. Mammal bites are at high risk for subsequent in- fection due to the high level of pathogens that are present in the mouths of mam- mals. Some of the most common pathogens seen include Pasteuralla multocida (cats and dogs), Bartonella henselae (cats), Staphylococcus and Streptococcus spp. (dogs and humans), and rabies virus (cats, dogs, bats, raccoons, and others). Certain fea- tures increase the risk of a mammal bite becoming infected.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-397]
+Q: Which of the following high-altitude illnesses is the leading cause of death in altitude sickness?
+A: High altitude pulmonary edema
+EXPLANATION: High altitude pulmonary edema (HAPE) is a noncardiogenic pulmonary edema caused by high microvascular pressure in the pulmonary arterial bed in patients exposed to high altitudes. It is the most common cause of death in high altitude illness. Risk factors include rapid ascent, heavy exertion, a history of pulmonary hypertension from any cause, male sex, and use of a respiratory depressant. Symptoms of HAPE typically start with a dry cough, localized rales, and decreased exercise tolerance and progress to dyspnea, tachycardia, weakness, cyanosis, and generalized rales. With worsening hypoxemia, altered mental status may develop.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-72]
+Q: What is the appropriate treatment for stingray envenomation?
+A: Hot water immersion
+EXPLANATION: Stingray envenomation should initially be treated with hot water immer- sion. Stingray venom is heat labile, and its effects can be reversed or lessened by immersion in hot (not scalding) water. Further analgesic efforts, including local anesthetic injection, may be required if hot water immersion is insufficient. Other marine envenomations that may benefit from hot water immersion include those from many jellyfish and various fish (eg, catfish, lionfish, stonefish, and weever- fish). Antibiotic prophylaxis remains controversial. Careful attention should be made to manage the hot water carefully, as burning of the skin can occur if not closely monitored.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-398]
+Q: A nuclear plant worker presents to the emergency department for abdominal pain and vomiting. There is concern he was exposed to high doses of radiation after handling radioactive material without proper protection. He was potentially exposed for 12 hours before being discovered in his work zone and was externally decontaminated before being transferred to the hospital.
+A: Lymphocytes 0.5 x 10⁹/L
+EXPLANATION: This patient has acute radiation syndrome with gastrointestinal injury. This occurs primarily with radiation exposures > 6 grays (Gy). Damage to organ systems is exposure dependent with hematopoietic system injuries occurring at just 1.5 Gy and cardiovascular system and CNS injuries occurring at > 20–30 Gy. Given this patient’s symptoms, it is likely he has both bone marrow and gastrointestinal system injuries. Lymphocytes are preferentially damaged in acute radiation injuries, making the absolute lymphocyte count the most useful marker for the severity of radiation injury. This patient’s prognosis can be correlated to the absolute lymphocyte count in the first 48 hours after radiation.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-73]
+Q: A 40-year-old man presents with a snake bite that was sustained on a hike in the southern United States. The examination reveals fang marks, progressive localized edema, and severe pain; no weakness or neurologic deficit is present. Laboratory testing reveals an elevated PT, hypofibrinogenemia, and thrombocytopenia. Which snake most likely bit him?
+A: Rattlesnake
+EXPLANATION: This patient has a classic presentation and manifestations of a rattlesnake envenoma- tion, both localized (fang marks, localized progressive swelling and pain) and hema- tologic (hypofibrinogenemia, thrombocytopenia). Rattlesnake venom is a com- plex mixture of toxins that can cause local tissue injury, hematologic ab- normalities, and neuromuscular effects. A significant number of bites (ap- proximately one quarter) are considered “dry” in that no local or systemic signs of en- venomation occur. Manifestations of envenomation can be quite variable and depend on multiple factors, including the location of the bite, the amount of venom released, and the species of rattlesnake.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-399]
+Q: A 50-year-old man develops shortness of breath and dyspnea 2 days into a mountain climbing trip. Attempted descent is not possible due to impending bad weather, and he is brought to base camp for medical evaluation. On physical exam, he has bilateral crackles and a respiratory rate of 30/min. The most appropriate next step is the administration of which of the following?
+A: Supplemental oxygen
+EXPLANATION: The most effective treatment for high altitude pulmonary edema (HAPE), is descent or supplemental oxygen and rest if descent is not possible. HAPE is the most lethal of all high altitude-related illnesses but is easily reversible if symptoms are recognized early. Symptoms include cough, exertional dyspnea, or decreased exercise tolerance. The pathophysiology is related to increased pulmonary artery pressure which increases hydrostatic capillary pressure. The increase in microcirculatory pressure drives fluid from circulation into the lung parenchyma. The goal of treatment is to decrease pulmonary vascular resistance through the administration of oxygen and descent.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-74]
+Q: A 20-year-old man presents 1 hour after being bitten on the hand by his pet rat- tlesnake. He feels nauseated, describes a metallic taste, and has pain at and around the bite site. His vital signs are normal. A CBC reveals a platelet count of 45,000/mm. What is appropriate initial management?
+A: Administer antivenom
+EXPLANATION: Antivenom is indicated in patients suffering from moderate to severe toxicity fol- lowing Crotalid envenomation. Patients should be evaluated for local tissue ef- fects, signs of systemic toxicity, and coagulopathy and bleeding. The pa- tient is suffering local effects (arm swelling and pain), systemic symptoms (metallic taste and nausea) and coagulopathy (thrombocytopenia); thus, he should be adminis- tered antivenom with the goal of halting the progression of swelling and reversing the thrombocytopenia. The patient should also receive four to six vials of Crotalidae poly- valent immune Fab or ten vials of Crotalidae immune equine F(ab)2.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-400]
+Q: A 23-year-old man presents to the emergency department with a painful rash. The patient works outside laying plumbing and is often exposed to cold and wet conditions. Last night, he was working for 10 hours in the rain in 42°F (6ºC) weather. Physical exam is notable for the finding above. Which of the following is the most likely diagnosis?
+A: Chilblains
+EXPLANATION: Chilblains is a condition characterized by inflammatory lesions that occur secondary to repetitive exposure to cold above the freezing point, usually from a damp source. Patients will present with edematous, red or purple, and painful or pruritic dermatologic lesions. The most commonly affected locations are the extremities, including fingers and toes. The lesions are particularly at risk for secondary infection, given the blistering and ulceration that occurs.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-75]
+Q: Which characteristic distinguishes hybrid honeybees from North American honeybees?
+A: More aggressive
+EXPLANATION: Hybrid or African-derived honeybees, known previously as “killer” bees or Africanized honeybees, are hybrids of African honeybees that escaped from labo- ratories in Brazil and are currently present in most of the southern regions of the United States. The primary distinction between Africanized bees and the more com- mon North American variety is that the Africanized bees are much more aggres- sive. With a perceived threat, often to the hive, many more bees respond than would those of the North American variety. As a result, a person can sustain a massive num- ber of stings that can lead to rhabdomyolysis and acute kidney injury.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-401]
+Q: A healthy 3-year-old girl presents to an emergency department in the southwestern US with altered mental status. Her parents report she was playing in the garage when she suddenly began shaking uncontrollably. Her HR is 200 bpm, BP is 98/70 mm Hg, and SpO2 is 95% on a nonrebreather at 10 L.
+A: Centruroides immune antigen-binding fragment
+EXPLANATION: This patient is presenting with symptoms of a scorpion or Centruroides sculpturatus envenomation. This species is found in the southwestern US and is responsible for most symptomatic envenomations. The venom is known to be neurotoxic and cytotoxic, leading to symptoms such as pain at the bite site, restlessness, hyperactivity, roving eye movements, convulsions, drooling, wheezing, hyperthermia, cyanosis, gastrointestinal hemorrhage, and respiratory distress or failure. As in this case, the patient may not present after a known or suspected sting, which can make diagnosis challenging.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-76]
+Q: An otherwise healthy 30-year-old man is brought in because he lost consciousness and developed hemiplegia after surfacing from a dive. He was using compressed gas and made a rapid ascent. What is the definitive treatment approach for the un- derlying condition?
+A: Arrange for hyperbaric oxygen treatment
+EXPLANATION: This patient has a classic presentation of cerebral air embolism, the onset of cerebral symptoms immediately or soon after surfacing after a rapid or uncontrolled ascent. The primary treatment for cerebral air embolism is recompression with hyperbaric oxygen. Administration of 100% oxygen and intravenous fluid is appropriate while arranging the definitive treatment. Cerebral air embolism occurs when air bubbles either transfer from the low pressure venous side via intracardiac (such as via the presence of a patent foramen ovale) or pulmonary ar- teriovenous shunts to the arterial side or develop spontaneously on the arterial side and embolize to the brain.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-402]
+Q: A 52-year-old man presents to the ED with ear pain and vertigo. He was diving off the Outer Banks in the US when he began to have fullness and pain in his ear, followed by tinnitus and transient vertigo during descent. On physical examination, his ear exam is shown above. Which of the following is the most appropriate treatment for this patient’s condition?
+A: Suggest rest, topical nasal vasoconstrictors, and outpatient otolaryngology follow-up
+EXPLANATION: This patient is exhibiting signs and symptoms of middle ear barotrauma, the most common disorder affecting divers. The eustachian tube normally allows pressure in the middle ear to equilibrate. If this equalization cannot occur during descent (e.g., due to anatomic changes, edema from recent upper respiratory infection), increasing pressure in the middle ear can result in the accumulation of fluid or blood in the middle ear or inward rupture of the tympanic membrane. Signs and symptoms include ear fullness and pain, hearing loss, tinnitus, vertigo, ruptured tympanic membrane, or hemotympanum.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-77]
+Q: A patient with progressive confusion after a cardiac angioplasty is suspected to have an arterial air embolism. What is a reasonable first step in treatment?
+A: Place the patient in the supine position
+EXPLANATION: With arterial interventions, there is a risk of introducing air and creating an arterial air embolism. Arterial air embolisms can occur, for instance, when arterial or an- gioplasty catheters are inserted, are in place, or are removed from an artery. A systemic arterial air embolism can be catastrophic. The extent of treatment varies based on the severity of illness and complications. As an immediate treatment, laying the patient in the supine position and giving 100% oxygen can be beneficial. These two measures can decrease air bubble size by displacing nitrogen and assisting with embolus resorption. In Explanations Treatment can become more extensive if the patient is not stabilized.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-403]
+Q: A 55-year-old man presents to a Texas ED after being bitten by a snake 1 hour ago. He was attempting to remove the snake (pictured above) from his backyard when it lunged at him and bit his right hand. He immediately called EMS and was brought to the ED. On presentation, his vital signs are a T of 98.5°F (36.9°C), HR of 95 bpm, BP of 145/70 mm Hg, RR of 18/min, and SpO2 of 97%.
+A: Conduct frequent reassessments of pulmonary function
+EXPLANATION: This patient was most likely bitten by a Texas coral snake (Micrurus tener), and without exam findings concerning for neuromuscular weakness, the best next step in management is to conduct frequent reassessments of pulmonary function. The Texas coral snake is a venomous snake of the Elapidae family. In North America, there are two families of venomous snakes, Elapidae and Viperidae, with snakebites from Viperidae occurring far more frequently. However, bites from snakes in both families carry a risk of significant morbidity and mortality.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-78]
+Q: A scuba diver presents with dizziness, dysarthria, and unilateral arm weakness af- ter surfacing from a deep sea dive. What study will best identify the underlying anatomical condition that predisposes the patient to this complication?
+A: Bubble study
+EXPLANATION: The patient has symptoms of an acute stroke. In the setting of deep water diving, these symptoms should increase suspicion of an air embolism traversing through a patent foramen ovale (PFO). Transthoracic echocardiography (TTE) to TEE with bubble contrast is the gold standard for detecting a clinically signifi- cant PFO. Bedside TTE is the first-choice test for demonstrating intracardiac air, but mild cases can easily be missed. In Explanations In a patient with stroke-like symptoms, a chest x-ray should certainly be part of the workup but cannot definitively detect a PFO. Instead, a chest x-ray detects complica- tions such as pulmonary edema from arterial embolism–related ischemia.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-404]
+Q: Which of the following mammalian bite wounds is the best candidate for primary closure during an initial visit to the ED?
+A: Dog bite to the scalp
+EXPLANATION: Primary closure of mammalian bite wounds is reserved for those wounds that present within 12 hours of the bite (24 hours on the face), occur on the face or scalp, are simple lacerations amenable to single-layer closure without devitalized tissue or underlying injury, and take place in a healthy host. Among mammalian bites, cat, human, and monkey bites are at higher risk of infection than dog bites. Bites on distal extremities are also at high risk of infection and should generally not be closed primarily on an initial visit. Therefore, a dog bite on the scalp can be closed primarily. Bites to the hand (A) should not be closed primarily due to the increased risk of infection.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-79]
+Q: A few minutes into hemodialysis, a previously well-appearing patient suddenly complains of chest pain and shortness of breath and becomes altered. On exami- nation, a churning sound is heard on cardiac auscultation. What is the most imme- diate concern?
+A: Air embolism
+EXPLANATION: The patient has symptoms of an air embolism. Patients with air embolisms may expe- rience acute shortness of breath, chest pain or tightness, loss of conscious- ness, and in severe cases, cardiac arrest. On physical examination, cyanosis may be seen, and on cardiac auscultation, a churning sound can be heard from air bubbles in the blood. If an air embolism is suspected in a patient getting hemodialy- sis, the first steps are to clamp the venous blood line and place the patient supine. Next, to reabsorb the air, the patient should be given 100% oxygen.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-405]
+Q: A 30-year-old man presents to the ED with a headache and dizziness that started shortly after arriving at a Rocky Mountain ski resort. Physical exam and vital signs are normal. The most appropriate next step is administration of which of the following?
+A: Acetazolamide
+EXPLANATION: Acetazolamide is a carbonic anhydrase inhibitor that leads to the excretion of bicarbonate, which improves ventilatory compensation in patients with acute mountain sickness. Acute mountain sickness is defined by headache plus at least one of the following: anorexia, nausea, vomiting, general weakness, fatigue, dizziness, or lightheadedness in a patient who has recently ascended 8,000 feet (~ 2,440 m). Symptoms are believed to develop through a complex process thought to be triggered by an inadequate physiologic response to high altitude. Hypoxemia at high altitudes leads to fluid retention and cerebral hypoxia leading to mild symptomatic cerebral edema.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-80]
+Q: An otherwise healthy 35-year-old patient suffers a myocardial infarction after a deep sea diving trip. What is the most likely underlying etiology of this complication?
+A: Arterial gas embolism
+EXPLANATION: Ascent while deep water diving must be done carefully to prevent the uncommon complication of arterial gas embolism. In this patient's case, myocardial infarc- tion is likely from an embolus lodged in a coronary artery. Pulmonary baro- trauma can occur while deep sea diving. Rapidly ascending without exhaling can lead to expansion of gas in the lungs and alveolar rupture. Tearing of pul- monary veins can also occur, which can cause air to return to the left heart and em- bolize through the arterial system.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-406]
+Q: A man attempts to climb Mount Rainier and begins to experience nausea, vomiting, headache, and dizziness. At what elevation do the first symptoms of acute mountain sickness typically occur?
+A: 8,000 ft (~ 2,440 m)
+EXPLANATION: A diagnosis of acute mountain sickness requires a person to have recently ascended to an elevation ≥ 8,000 ft (~ 2,440 m). Symptoms include headache and at least one of the following symptoms: gastrointestinal upset, general weakness or fatigue, or dizziness or lightheadedness. Symptoms usually develop within a few hours after arrival at high altitude and reach maximum severity at 24–48 hours, resolving by the third or fourth day. Patients with continued symptoms should not continue to ascend until symptoms are improved. Treatment depends on severity and involves oxygen, antiemetics, analgesics, acetazolamide, and steroids.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-81]
+Q: A patient presents with intense muscle aches, chest pain, and shortness of breath after returning by plane from a diving trip in Hawaii. What is a reasonable first step to treat this condition?
+A: Provide 100% oxygen supplementation
+EXPLANATION: When an arterial air embolism from deep water diving is suspected, the patient should immediately be positioned in supine and given 100% oxygen. These two measures can decrease air bubble size by displacing nitrogen and help- ing to resorb the embolus. This patient likely developed decompression sick- ness from flying after deep water diving. Decompression sickness and its associated musculoskeletal pain occur when nitrogen comes out of solution and forms bub- bles in the venous circulation. If these bubbles reach the arterial circulation through a patent foramen ovale, the patient can suffer a stroke or myocardial infarction.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-407]
+Q: A 4-year-old girl falls into a lake and is unable to swim. Which of the following factors is most predictive of mortality?
+A: Degree of central nervous system hypoxia
+EXPLANATION: The ultimate outcome from a submersion incident is driven by the extent of central nervous system hypoxia. The duration of submersion is often unknown. Therefore, the duration of resuscitative efforts is likely predictive of the extent of CNS hypoxia or anoxia. Patients who require CPR at the scene have a poorer prognosis than those not requiring bystander resuscitation. More than 30 minutes of CPR indicates significant ischemic insult to vital organs. Prolonged hypoxia or anoxia also leads to cerebral edema, and measures to lower intracranial pressure (e.g. mannitol, hypertonic saline, mechanical hyperventilation) have not proven to be beneficial in these cases.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-82]
+Q: Which condition mandates consultation for emergent hyperbaric oxygen therapy in the setting of decompression sickness?
+A: Vertigo
+EXPLANATION: The presence of any potentially life- or function-threatening signs or symp- toms in the setting of decompression sickness (DCS) is an indication for hyperbaric oxygen (HBO) therapy. This includes any focal inner ear or other neurologic manifestations, such as vertigo, ataxia, seizures, motor weakness, sensory changes, and bowel or bladder changes. These are known as “type II” DCS symptoms. Other type II symptoms include cardiopulmonary (chest pain, dyspnea, or “the chokes”), vascular, and abdominal symptoms; these should also be treated with HBO therapy. Less severe symptoms, such as musculoskeletal pain, rash, and local swelling, are known as “type I” DCS symptoms.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-408]
+Q: A 28-year-old woman presents to the ED with left hand swelling and erythema after being bitten by a friend’s cat 2 days ago. Vital signs are within normal limits. The thenar eminence of her left hand is mildly erythematous and tender without fluctuance, and there is a puncture wound located centrally. An X-ray is negative for fracture or foreign bodies.
+A: Amoxicillin-clavulanate and wound care instructions
+EXPLANATION: Most ED visits for mammalian bites involve domestic cats or dogs. These wounds should be inspected carefully for foreign bodies, local tissue injury, concomitant fractures, and neurovascular compromise. Complications include severe tissue trauma, local infection, and systemic infection. Most bites can be allowed to close by secondary intention. Primary closure of animal bite wounds is appropriate if the bite involves the face or scalp, the laceration is amenable to single-layer closure, the wound is not grossly contaminated, there is no devitalized tissue, there is no underlying fracture or other soft tissue (e.g., muscle, tendon, nerve) injury, and the patient is immunocompetent.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-83]
+Q: A 40-year-old man presents after sustaining a brief shock to his right index finger while fixing an electrical outlet in his kitchen. He denies loss of consciousness and other symptoms. The physical examination and ECG are normal. What is the most appropriate disposition plan?
+A: Discharge home with precautions to return if he has increased pain
+EXPLANATION: This patient had a low-voltage exposure with no loss of consciousness. Since he has normal physical examination and ECG findings, the appropriate disposi- tion is to provide reassurance and discharge him home with return pre- cautions. The voltage a patient is exposed to and the corresponding current that is transmitted are the major determinants of what complications might ensue. A home electrical outlet, which this patient was exposed to, is low voltage (United States 120 volts; Australia and Europe 240 volts).
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-409]
+Q: Which of the following patients should be discharged from the emergency department with prophylactic antibiotic therapy following a bite injury?
+A: A 55-year-old man with a history of diabetes who had a bite to his lower leg from an unknown dog in the dog park. The bite is 3 cm in length and requires closure.
+EXPLANATION: Mammalian bites are common worldwide and they can result in significant morbidity. Dog bites are most common and are frequently inflicted by animals known to the patient. Organisms that lead to infection in such instances are either found in the oral flora of the biting mammal or human skin flora. Proper care of a bite wound requires control of hemorrhage, inspection for injury to deeper structures, meticulous wound care, decisions regarding closure and rabies prophylaxis, and provision of prophylactic antibiotics for high risk wounds. Prophylactic antibiotics can reduce the rate of infection in high risk wounds but are not recommended routinely for all bite wounds.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-84]
+Q: A 4-year-old boy presents after sticking a fork into a home electrical outlet with his right hand and getting shocked. There was no loss of consciousness. His right el- bow was on the ground at the time. Although he cried initially, he has remained asymptomatic. Physical examination reveals two extremely small first-degree burns on his right hand and elbow. A 12-lead ECG is normal.
+A: Discharge home
+EXPLANATION: This patient can be safely discharged home. He has suffered an electrical shock from a low-voltage source ( 1,000 volts), even with an initially benign examination. Since the shock was from a low-voltage source and it did not transmit across the heart, there is no risk for cardiac injury; thus, the patient can be safely discharged. The required length of monitoring if the patient was at risk for cardiac in- jury is not well described, but overnight monitoring is a reasonable approach.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-410]
+Q: A 26-year-old man presents to the emergency department with severe finger pain after accidentally touching a lionfish in his saltwater tank while cleaning the glass. He is afebrile, and the remainder of his vital signs include a heart rate of 101 bpm, blood pressure of 128/91 mm Hg, respiratory rate of 19/min, and a room air oxygen saturation of 100%.
+A: Hot-water immersion
+EXPLANATION: Human contact with venomous marine creatures, both in nature and captivity, is common. Serious harm can result from biological toxins or mechanical trauma inflicted by the stinging apparatus. Common venomous aquatic organisms include the phylum Cnidaria (anemones and jellyfish), Mollusca (octopods and snails), Echinodermata (sea urchins and sea stars), Hydrophiidae (sea snakes), and various spined fish. The lionfish (Pterois spp) is a spiny fish of the family Scorpaenidae and is often kept in home saltwater tanks. Lionfish possess dorsal, anal, and pelvic spines that are linked to venom glands, so the pressure applied topically to the spine is proportional to the amount of venom released.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-85]
+Q: What is the most common life-threatening arrhythmia immediately following a lightning injury?
+A: Asystole
+EXPLANATION: Immediately following a lightning strike, rapid depolarization of the myocardium results in asystole, which is often transient. After a brief period, the automatic ac- tivity of the heart restarts. However, the lightning strike also results in the loss of cen- tral airway reflexes and drive (so called “medullary stunning”), causing respiratory arrest. Respiratory function does not restart as quickly as the heart. This prolonged respiratory arrest can lead to ventricular fibrillation and death. Consequently, pulseless lightning strike victims should be resuscitated aggressively. Their car- diac condition may be transient and recoverable with respiratory support.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-411]
+Q: Which of the following would be most typical of a patient with decompression sickness secondary to SCUBA diving?
+A: Bilateral ascending paralysis beginning 2 hours after ascent
+EXPLANATION: Decompression sickness, or “the bends,” usually occurs up to 6 hours after ascent from diving and results from the expansion of inert gases that dissolve in tissues during descent. During descent, nitrogen in inspired air becomes pressurized according to Dalton law (the partial pressure of each component of a gas will increase proportionally with increasing ambient pressure) and dissolves in tissues. During ascent, this dissolved gas expands according to Boyle law (pressure and volume of a gas are inversely related at a constant temperature) and exits tissues in the form of bubbles.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-86]
+Q: Which finding is more likely to be seen in an electrical injury from a lightning strike rather than from household electricity?
+A: Cutaneous injuries
+EXPLANATION: Electricity will always flow preferentially through the lowest-resistance material or pathway, and the most common pathway for electricity to be conducted in lightning strike injuries is superficially across skin that is typically wet. This causes “flashover” injuries — the most common of which are cutaneous injuries, such as the feathering pattern of Lichtenberg figures (which are not true thermal burns), flash burns, punctate burns, and blistering.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-412]
+Q: A 22-year-old man experiences a sharp, intense pain in his foot while wading through shallow water off the coast of Hawaii. He presents to the ED in significant pain. Vital signs are a BP of 140/82 mm Hg, HR of 110 bpm, RR of 18 bpm, SpO2 of 97%, and T of 37.4°C (99.3°F). On physical exam, the patient has a linear series of puncture wounds along his right plantar arch.
+A: Immersion in warm water
+EXPLANATION: The patient stepped on a scorpion fish. The clinical features, including severe pain after a puncture wound sustained in shallow tropical waters with linear plantar wounds, are highly consistent with a scorpion fish envenomation. Immersion in hot water is the best initial treatment strategy for pain control. Scorpion fish (including stonefish and lionfish) are venomous marine fish found in tropical waters. Their dorsal spines can inject venom containing heat-labile proteins that cause immediate, excruciating pain, swelling, erythema, and sometimes systemic effects such as nausea, syncope, or even cardiovascular compromise in severe envenomations.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-87]
+Q: According to appropriate triage, which patient should be treated first at a scene where multiple people have sustained lightning strike injuries?
+A: Pulseless 60-year-old with no spontaneous respirations
+EXPLANATION: The order of triage in a multiple-victim lightning strike scenario is re- versed from that of a typical mass-casualty situation. In typical mass-casu- alty situations, patients who are apneic and do not respond to simple airway reposi- tioning maneuvers are generally tagged black (ie, deceased or nonsalvageable). However, following lightning injury, pulseless and apneic patients often respond favorably to CPR, so they should be treated first; even prolonged resus- citations are more likely to be successful after a lightning strike when compared to other mechanisms of injury.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-413]
+Q: A 27-year-old fisherman fell overboard while at sea into 4°C water. The captain reported that treacherous conditions prevented his immediate rescue. He demonstrated signs of life until 25 minutes of cold exposure. He then stopped moving and submerged just below the surface.
+A: Muscle fatigue
+EXPLANATION: Cold water immersion syndrome is a continuum of discrete stages of the body’s response to water below 21–25°C. The pathology of each stage is mediated by different mechanisms. Stage 2, also known as short-term immersion, occurs from approximately 3–30 minutes post-exposure. Superficial neuromuscular cooling is characteristic of this interval with resultant muscle fatigue. The arms seem to be particularly susceptible to this phenomenon, given their high surface area-to-mass ratio and the relatively superficial location of muscles and nerves. Muscular performance is directly related to muscle temperature, with impaired functionality seen below 25°C.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-88]
+Q: A patient presents after being struck by lightning. During the event, the patient was wearing a gold necklace, and their skin now shows a pattern of erythema and blistering in the exact shape of the jewelry, directly underneath where it was posi- tioned at the time of injury. What is this an example of?
+A: Contact burn
+EXPLANATION: Contact burns in lightning strike injuries are caused when electricity heats a metal that is in contact with the patient's skin. These contact burns are true thermal burns and should be treated as such. The severity depends on the size of the surface area of the object in contact with the skin. In Explanations Flash burns are caused by an arc of electricity from a lightning strike, rather than from direct contact with metal. Flash burns appear as mild ery- thema of the skin or as a corneal injury that is apparent on fluorescein staining. Lichtenberg figures are the classic feathering or ferning pattern of ery- thema on the skin associated with lightning strike injuries.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-414]
+Q: Bystanders witnessed a 20-year-old man being struck by lightning in a field. Initially, he was without a pulse or obvious external injuries. CPR was started immediately, and the patient regained consciousness following a single shock from an automated external defibrillator. An ECG shows ST elevation in the anterior and lateral leads and a QTc of 600 ms.
+A: Intravenous antidysrhythmics
+EXPLANATION: Lightning injuries are unique from other forms of high-voltage injury. Lightning injury tends to cause superficial injury along with cardiac dysrhythmias. These dysrhythmias may be nonperfusing but typically do not recur following defibrillation. If they do recur or in patients with ongoing cardiac dysrhythmia, short-term treatment with antidysrhythmics is required. Many of the other sequelae of lighting injuries, such as ST segment changes, repolarization abnormalities, superficial burns, paralysis, paresthesias, and focal perfusion deficits, are often transient responses that only require supportive care in the emergency setting.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-89]
+Q: A patient presents by EMS after being struck by lightning. The patient is hypother- mic, hypotensive, tachycardic, and unresponsive, with barely palpable pulses and agonal respirations. The physical examination is notable for bleeding from both ears, thermal burns covering a large body surface area, and an obvious deformity of the right wrist. An intravenous fluid bolus is started.
+A: Intubate with C spine stabilization
+EXPLANATION: Lightning strikes can cause secondary and tertiary injuries that are simi- lar to other blast injury scenarios. This particular patient should be assessed and treated as a trauma patient, meaning that the secondary survey should not be performed until after assessing and addressing any issues with the patient's airway, breathing, and circulation. As with any patient presenting with obvious trauma and altered mental status, intubation should not be performed without cervical spine immobilization. In Explanations Warming and ongoing resuscitation are necessary and will likely be started in tandem with intubation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-415]
+Q: A 40-year-old man presents to the ED after being airlifted from a mountain base camp at a height of 6,000 m (19,600 ft) for shortness of breath. Vital signs on arrival are a T of 36.5°C (97.7°F), HR of 110 bpm, BP of 130/90 mm Hg, RR of 24/min, and SpO2 of 88% on room air. X-ray is as shown above. Which of the following best describes the cause of this patient’s symptoms?
+A: Pulmonary microvascular hypertension
+EXPLANATION: High-altitude pulmonary edema (HAPE) is a noncardiogenic pulmonary edema caused by high microvascular pressure in the pulmonary arterial bed in patients exposed to high altitudes. The relative hypoxia in high altitudes results in diffuse pulmonary vasoconstriction, forcing fluid from the pulmonary vasculature into the relatively lower-pressure alveoli. It is the most lethal illness of high altitude. Risk factors include rapid ascent, heavy exertion, a history of pulmonary hypertension from any cause, male sex, and use of a respiratory depressant. However, HAPE can occur in any individual, regardless of risk factors.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-90]
+Q: A 42-year-old man presents after being struck by lightning. He has a noncircum- ferential, partial-thickness thermal burn on the left upper arm. The laboratory re- sults and ECG are unremarkable. The patient is ambulatory and reports that he feels well without muscle pain. What is the appropriate disposition for this patient?
+A: Discharge with outpatient follow-up
+EXPLANATION: This patient does not have indications for hospitalization following a lightning strike injury. Given his overall well appearance, normal laboratory results, and lack of ECG changes, this patient can be discharged home with wound-care instructions and close outpatient follow-up. Admission indications in this case would include per- sistent muscle pain, neurologic deficits, dysrhythmias or significant ECG abnormalities, and signs of arterial spasm (eg, nonpalpable pulses, poorly-perfused extremities, or elevated troponin).
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-416]
+Q: A 32-year-old man presents to the ED with difficulty hearing. He was diving when, after a long descent to 200 feet, he felt significant pain and pressure in his ears. On physical exam, you note the finding shown above. Which of the following is the mechanism of this patient’s injury?
+A: Eustachian tube dysfunction, failing to equalize pressures
+EXPLANATION: This patient is exhibiting signs (hemotympanum) and symptoms of dysbarism, specifically barotrauma of descent. During descent, the volume of gas in air-containing body cavities decreases, affecting structures like the middle ear. Without active measures such as clearing the ears with a Valsalva maneuver or similar techniques, the tympanic membrane can bend inward, causing fullness or pain. The Valsalva maneuver works by forcing air through the eustachian tube to equalize pressure between the middle ear and the external ear canal. Divers who feel ear pain ascend to reduce the pressure differential and attempt equalizing again.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-91]
+Q: Which statement describes how acetazolamide can prevent and treat acute moun- tain sickness?
+A: Causes a metabolic acidosis
+EXPLANATION: Acute mountain sickness (AMS) is a syndrome of high-altitude ascent characterized by headache in combination with one or more symptoms of GI disturbance (anorexia, vomiting), dizziness, fatigue, or sleep distur- bance. The etiology of AMS is principally hypoxia. Acetazolamide is a carbonic anhydrase inhibitor that is effective in preventing and treating AMS be- cause it causes bicarbonate diuresis, resulting in a non–anion gap meta- bolic acidosis. To maintain serum pH, the body increases ventilation to decrease pCO, which increases serum pO as a result. In Explanations Acetazolamide is not an osmotic diuretic. It is a carbonic anhydrase inhibitor that causes bicarbonate diuresis.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-417]
+Q: Which of the following is consistent with heat exhaustion?
+A: Hyperventilation tetany
+EXPLANATION: Early signs of heat exhaustion include hyperventilation that continues despite moving to a cooler location, leading to respiratory alkalosis and eventual carpopedal spasms and paresthesias—a constellation of symptoms known as hyperventilation tetany. Heat exhaustion, or heat prostration, is due to volume depletion in the setting of a hot environment and can present as one of two types: water depletion and salt depletion. Water depletion is essentially severe dehydration within a hot environment. Salt depletion is due to salt losses from sweat being inadequately replaced by fluids with too little or no salt.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-92]
+Q: What physical sign or symptom would distinguish high-altitude cerebral edema from acute mountain sickness?
+A: Ataxia
+EXPLANATION: Ataxia or altered level of consciousness in a patient with acute mountain sickness signifies the presence of high-altitude cerebral edema. Acute mountain sickness and high-altitude cerebral edema are believed to be caused by the same underlying pathophysiology and exist on a continuum of the same disease process. Symptoms of acute mountain sickness include headache, dizziness, and fa- tigue. Treatment of acute mountain sickness depends on its severity. Treatment for mild symptoms is based on limiting further ascent and physical rest until symptoms resolve. For more severe symptoms, medications such as acetazolamide can be given.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-418]
+Q: Which of the following most accurately describes the clinical effects of crotalid (pit viper) venom?
+A: Local tissue damage, coagulopathy, and platelet dysfunction
+EXPLANATION: More than 800 species of venomous snakes have been identified worldwide. Most North American venomous snakes can be classified as either crotalids or elapids. Venomous snakes are found throughout most of the United States. However, they are much more common in the southern and western areas of the country. Mortality is rare, with < 10 deaths reported annually. The majority of bites occur between April and September. Children represent 10–15% of reported cases, and approximately 75% of bite victims are men. Most victims are bitten on an extremity.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-93]
+Q: What can distinguish high-altitude cerebral edema from acute mountain sickness?
+A: Confusion
+EXPLANATION: High-altitude cerebral edema (HACE) is considered a severe or end-stage form of acute mountain sickness (AMS). Changes in mental status (eg, confusion, stupor, or coma) generally distinguish the transition of AMS to HACE. Functional neurologic abnormalities, such as ataxia, are also seen in HACE, are actually more specific to the development of HACE, and are among the earliest manifestations. Moreover, it is important to note that men- tal status changes are not specific to just HACE; patients with high-altitude pul- monary edema (HAPE) can also develop mental status changes due to pro- found hypoxia.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-419]
+Q: A 16-year-old boy is brought to the ED with fever and confusion. He was participating in a daylong summer high school football practice when he started to develop a headache. He continued to practice with the team but was noted to be walking off balance, confused, and not answering questions appropriately an hour later.
+A: Apply cool mist over patient’s exposed body
+EXPLANATION: This patient presents with exertional heat stroke (EHS), a life-threatening emergency characterized by a core temperature > 40°C (104°F) and central nervous system dysfunction, such as confusion, ataxia, or seizures, following intense physical activity in a hot environment. Heat stroke is a life-threatening emergency that requires immediate intervention to prevent high mortality. Prehospital care involves removing the patient from the hot environment, initiating resuscitation measures, and starting cooling techniques such as spraying with water and applying airflow, wet towels, or ice. Intravenous fluids, normal saline, are administered to manage hypotension.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-94]
+Q: What is the most significant risk factor for developing acute mountain sickness?
+A: Altitude climbed
+EXPLANATION: Acute mountain sickness (AMS) is a physiologic reaction to being at high altitudes (>2,000 m [~6,600 ft]) that results in headaches, vomiting, dizziness, fatigue, and sleep disturbance; high-altitude cerebral edema (HACE) is character- ized by additional neurologic and mental status changes and is thought to be an end-stage form of AMS. Although the underlying causative mechanism is unclear, climbing to a high altitude and ascending at a rapid rate are among the most significant risk factors for the development of AMS and HACE.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-420]
+Q: A 30-year-old military recruit presents to the emergency department during the summer with concerns of a heat-related illness. Which of the following exam findings best differentiates heat stroke from heat exhaustion?
+A: Altered mental status
+EXPLANATION: Heat stroke is an acute life-threatening illness that has high morbidity and mortality, especially during the summer months. Patients are at risk for heat stroke if they are not properly acclimated to their environment. There are two types of heat illness: classic and exertional. These occur when the body’s thermoregulatory mechanisms are overwhelmed, causing damage to organ tissues. The most defining feature that differentiates heat stroke from heat exhaustion is altered mental status. The central nervous system is particularly vulnerable to extreme temperatures and can cause virtually any neurologic abnormality including ataxia, confusion, seizures, hallucinations, and coma.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-95]
+Q: Development of which condition is most specifically associated with high-altitude cerebral edema?
+A: Ataxia
+EXPLANATION: High-altitude cerebral edema (HACE) is a life-threatening high-altitude illness that can develop precipitously in patients suffering from acute mountain sickness (AMS). Although mental status change (eg, confusion, stupor, and coma) is considered an important differentiator between AMS and HACE, ataxia is considered a more specific finding and is the earliest manifestation of HACE. The development of any new neurologic changes, especially ataxia or gait disturbance, should be con- sidered an early red flag for HACE, even in the absence of significant mental status changes; remember, these changes may present subtly.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-421]
+Q: A 55-year-old man presents with signs of sepsis after a dog bite. He is admitted to the intensive care unit but later dies of multiorgan failure. Which organism was likely responsible?
+A: Capnocytophaga canimorsus
+EXPLANATION: Dog bites account for the largest number of bite injuries treated in the emergency department. In the United States, about 20 attacks per year end fatally, and usually, the patients are young children. Serious systemic infection after a dog bite is uncommon but may develop 1–14 days after the bite independently of local bite wound infection. Capnocytophaga canimorsus, a gram-negative rod, is responsible for fulminant bacteremic illness after a dog bite, leading to fatal multiorgan failure, especially in splenectomized patients and those with alcohol-related liver disease or other immunosuppressive disorders.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-96]
+Q: What is the most important treatment for high-altitude cerebral edema?
+A: Descent
+EXPLANATION: High-altitude cerebral edema (HACE) is considered a severe or end-stage form of acute mountain sickness (AMS) and is strongly associated with extreme altitude and rapid ascent. As a result, the single most important treatment for any patient with suspected HACE is immediate descent of at least 1,000 m (~3,300 ft), preferably to a facility capable of managing HACE. This is especially true for patients with early HACE symptoms since they may still be mobile enough to self-extract without requiring rescue. HACE patients who are unable to descend immediately can be temporized with a portable hyperbaric chamber that simulates descent by increasing barometric pressure within the cloth chamber.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-422]
+Q: A 34-year-old woman is backpacking in Utah and begins to experience a headache. Which of the following clinical features is an early sign that is most suggestive of high-altitude cerebral edema?
+A: Ataxia
+EXPLANATION: The partial pressure of oxygen decreases as barometric pressure decreases at altitude. At ≥ 8,000 feet above sea level, the environment becomes hypoxic and high-altitude syndromes can occur. These include acute mountain sickness (AMS), high-altitude pulmonary edema, high-altitude cerebral edema (HACE), retinopathy, and certain neurologic syndromes. HACE is the most severe form of AMS. At altitude, cerebral vasodilation occurs and leads to increased blood flow and blood volume. This is due to a leaky blood-brain barrier either from lack of autonomic autoregulation or increased vascular permeability, or a combination of the two.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-97]
+Q: What is the role of acetazolamide in the management of high-altitude illness?
+A: Shortening of acclimatization time
+EXPLANATION: Acetazolamide artificially stimulates respiratory rate and improves oxy- genation by inducing a mild metabolic acidosis through bicarbonaturia. This artificially increased respiratory rate mirrors physiologic adaptation to altitude, thereby speeding natural acclimatization. Acetazolamide is a carbonic anhydrase in- hibitor that is used as a prophylactic medication to prevent acute mountain sickness (AMS), generally for those ascending more than 2,500 m (~8,200 ft) rapidly.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-423]
+Q: A 26-year-old surfer is rescued by a lifeguard after being submerged under waves for 4 minutes. Basic life support is initiated on the beach with rescue breaths, and the patient recovers without coughing up any seawater. In the emergency department, his vital signs are HR 105 bpm, BP 110/85 mm Hg, RR 24/min, and SpO2 94%. His chest X-ray is unremarkable.
+A: Nonfatal drowning
+EXPLANATION: Drowning is the process of respiratory impairment secondary to submersion in water. Importantly, drowning is a process, not an outcome, as patients can both succumb to drowning as well as survive with varying degrees of morbidity. Therefore, the current classification system for drowning includes drowning death and nonfatal drowning, which can be subdivided into drowning with and without morbidity. The hallmark of drowning includes hypoxemia, acidosis, and pulmonary injury with the possible development of multisystem organ failure. Initially, submersion leads to breath-holding and apnea, which in turn leads to hypercapnia and respiratory acidosis.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-98]
+Q: What is the primary pathophysiology of high-altitude pulmonary edema?
+A: Arterial vasoconstriction
+EXPLANATION: High-altitude pulmonary edema (HAPE) is a form of noncardiogenic pul- monary edema caused by hypoxia-induced pulmonary artery vasoconstriction. This vasoconstriction leads to an elevated hydrostatic pressure and capillary leakage. HAPE is generally preceded by acute mountain sickness, which presents with nausea, headache, dizziness, and fatigue. With continued ascent, HAPE can develop over roughly a 2- to 4-day period. Major early symptoms include de- creased exercise performance and dry cough. As HAPE worsens, dyspnea with exer- tion progresses to dyspnea at rest. Low-grade fever is common, and tachycardia and tachypnea correlate with the degree of illness.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-424]
+Q: Which of the following is the first finding in nonfreezing cold water immersion injuries?
+A: Loss of sensation
+EXPLANATION: Prolonged exposure to damp, cold, nonfreezing temperatures can result in a variety of immersion syndromes, which classically affect the lower extremities. Examples of these conditions include immersion foot (trench foot) and chilblains (pernio). Most of these conditions occur in military settings. Civilian populations with increased risk include hikers, individuals without housing, those with alcohol use disorder, and older adults. Cold immersion injuries occur due to impaired circulation regulation with resultant direct damage to microcirculation. The first symptom of cold immersion injuries is loss of sensation, typically complete anesthesia.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-99]
+Q: High-altitude pulmonary edema (HAPE) is primarily the result of which acute physiologic process?
+A: Pulmonary arterial vasoconstriction
+EXPLANATION: High-altitude pulmonary edema (HAPE) is a form of noncardiogenic pul- monary edema that is largely caused by altitude-associated hypoxic pul- monary artery vasoconstriction at elevations greater than 2,500 m (~8,200 ft). For unclear reasons, this vasoconstriction is patchy but results in sig- nificant breakdown of normal alveolar barriers, leading to leakage of protein-rich fluid into the alveolar space; this process can also lead to alveolar hemorrhage. Treatment for HAPE must be initiated as soon as possible, so recognizing the symp- toms early is of utmost importance. Early HAPE symptoms are typically a dry cough and dyspnea on exertion.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-425]
+Q: Which of the following is a risk factor for developing decompression sickness?
+A: Air travel shortly after SCUBA diving
+EXPLANATION: Decompression sickness occurs as a result of the liberation of gas from the tissues in the form of small gas bubbles. These small bubbles can precipitate an inflammatory cascade and cause mechanical obstruction and ischemia. Risk factors for the development of decompression sickness include increasing depth and length of dives, rapidity of ascent, obesity, air travel shortly after diving, and right-to-left shunts. The onset of symptoms is typically within hours of surfacing. Type I decompression sickness involves the musculoskeletal, skin, and lymphatic systems. Symptoms include arthralgias and myalgias (“the bends”), pruritus (“skin bends”), mottling, and edema.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-100]
+Q: What is a major risk factor for the development of high-altitude pulmonary edema (HAPE)?
+A: Rapid increase in altitude
+EXPLANATION: High-altitude pulmonary edema (HAPE) is a form of noncardiogenic pul- monary edema that is, in large part, caused by altitude-associated hy- poxic pulmonary artery vasoconstriction above 2,500 m (~8,200 ft). Rapid ascent without proper acclimatization, especially when paired with significant exertion, is a major risk factor for developing HAPE; HAPE is generally a subacute process that takes days to develop, but it may develop more quickly with a rapid and intense insult.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-426]
+Q: A 36-year-old man presents to the ED after noticing a pinprick sensation while he was putting on his shoe 1 hour ago. He experienced immediate pain that progressed up the leg, along with abdominal pain and vomiting. On exam, his HR is 120 bpm, and his BP is 190/110 mm Hg. His skin is diaphoretic, and his abdomen is rigid.
+A: Black widow spider bite
+EXPLANATION: Black widow spider envenomation (Latrodectus species) causes a characteristic syndrome known as latrodectism, which results from the neurotoxin alpha-latrotoxin. This toxin triggers massive presynaptic release of neurotransmitters, including acetylcholine, norepinephrine, and other catecholamines. The resulting autonomic and neuromuscular activation produces the classic clinical picture of severe muscle pain, abdominal rigidity, and autonomic instability. Black widow bites typically occur when the spider is trapped against skin, commonly when putting on clothing or shoes in which the spider is hiding.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-103]
+Q: An otherwise healthy young adult presents with severe exertional dyspnea, dry cough, and resting hypoxia that worsens with exertion. An upright chest x-ray is obtained and shown below. Which activity was the patient most likely doing prior to arrival? Credit: Copyright 2021. Dr. Franco Ruales. Image courtesy of Dr. Franco Ruales and Radiopaedia.org, rID: 16070. Used under license.
+A: High-altitude climbing
+EXPLANATION: This patient is presenting with classic symptoms of high-altitude pulmonary edema (HAPE) — a form of noncardiogenic pulmonary edema that is, in large part, due to high altitude–associated hypoxic pulmonary artery vasoconstriction above 2,500 m (~8,200 ft). This chest x-ray demonstrates patchy pulmonary edema that is more prominent centrally and more severe on the right side compared with the left. This central, asymmetric pattern is classic for HAPE, but most HAPE patients will have nonspecific x-ray findings. Mild cases may have a normal appearance on x-ray, and severe cases may show a “whiteout” pattern.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-427]
+Q: A 31-year-old man reports a snake bite to his hand. He has mild pain. There is minimal erythema over the dorsum of his left hand and no visible bite marks. The remainder of his exam is normal. He was able to capture a photo of the snake before it bit him, as shown above. What is the most appropriate management?
+A: Admit for observation
+EXPLANATION: The snake in the image is a coral snake, a member of the Elapidae family. Unlike the snakes in the Crotalidae family, the elapid snakes do not cause hemotoxicity. Patients may not have a visible bite mark, and pain and skin findings at the site may be minimal. Elapid envenomation causes descending flaccid paralysis, similar to botulism. Symptoms may include ptosis, ophthalmoplegia, dysphagia, drooling, or respiratory failure. Any individual with a suspected elapid snake bite should be observed for at least 24 hours since envenomation can cause delayed neurotoxicity and respiratory failure. Neurotoxicity can develop several hours after envenomation.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-104]
+Q: What is the best first step in the out-of-hospital management of an apneic drown- ing victim?
+A: Rescue breaths
+EXPLANATION: Both the American Heart Association and the European Resuscitation Council advo- cate ventilation as the most important initial management in the resusci- tation of a drowning victim. This is in contrast to recommendations for most adult victims of cardiac arrest, which emphasize chest compressions over ventilation. Ventilation should be initiated as soon as it is safe for the rescuer to do so. All victims of drowning who require assisted ventilation should be transported to the emergency department.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-428]
+Q: Which of the following illnesses or genetic conditions is an independent risk factor for developing high-altitude pulmonary edema in a pediatric patient?
+A: Down syndrome
+EXPLANATION: High-altitude sickness is a range of symptoms that occur due to hypobaric hypoxia. In high-altitude pulmonary edema, the lower partial pressure of oxygen results in peripheral tissue hypoxia, leading to uneven pulmonary vasoconstriction to optimize ventilation/perfusion matching. This is thought to increase pulmonary arterial pressure, and the uneven distribution of perfusion can lead to overperfusion in some areas, increased pressure, and transcapillary leakage, resulting in pulmonary edema in severe cases, usually after several days of exposure. Significant high-altitude sickness is uncommon below 2,500 meters above sea level, but some children can develop symptoms at lower altitudes.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-105]
+Q: Which statement regarding drowning is correct?
+A: Victims who required resuscitation should be taken to an emergency department
+EXPLANATION: Persons who required resuscitative efforts on scene as a result of drowning are at risk for delayed symptomatology, which can include respiratory distress as a re- sult of aspiration and neurologic insult as a result of anoxia. For that reason, trans- porting these victims to an emergency department for evaluation is warranted. In Explanations Injuries to the cervical spine occur in less than 0.5% of persons who are drowning. Cervical immobilization in the water is only indicated if head or neck injury is strongly suspected, which can occur in accidents involving diving, waterskiing, surfing, or watercraft.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-429]
+Q: A 34-year-old man presents to the emergency department by EMS with slurred speech, drowsiness, and malaise. According to EMS, they were called to a local campsite for a possible snakebite injury. The patient was apparently bitten by an unknown animal but had told his family that he thought he had been bitten by a snake.
+A: Eastern coral snake
+EXPLANATION: Approximately 45,000 snake bites occur annually in the United States. About 8,000 of the bites are inflicted by venomous snakes and fewer than 10 result in death. Due to the large number of bites that could potentially cause serious morbidity or mortality, it is important for the emergency clinician to recognize when a potentially lethal bite has occurred. Most snake bites occur in the southern United States and injuries mainly occur on the extremities. Men are bitten nine times more often than women. The four venomous families of snakes include Colubridae, Elapidae, Viperidae, and Atractaspididae. Signs and symptoms of a venomous snake bite can vary widely.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-106]
+Q: What is a risk factor associated with unexplained fatal drowning events?
+A: Underlying prolonged QT syndrome
+EXPLANATION: Cardiac arrhythmias such as prolonged QT syndrome should be considered as po- tential triggers for fatal drowning and are being considered as a more common cause of unexplained drowning than initially thought. Immersion in cold water can increase the QT interval, causing a potential dysrhythmia in patients with an un- derlying prolonged QT. Patients with a prolonged QT syndrome present clinically with syncope and seizure, both of which can also be fatal if they occur while in water.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-430]
+Q: A 30-year-old man presents to the emergency department with a headache, anorexia, nausea, and generalized weakness for 2 days. He has been staying at a nearby ski resort and arrived there shortly before his symptoms started. He reports no alcohol or drug use, fevers, or rash. Physical examination and vital signs are within normal limits. Which of the following is the most likely diagnosis?
+A: Acute mountain sickness
+EXPLANATION: The diagnosis is acute mountain sickness (AMS), the most common high altitude illness. The risk of AMS depends on the elevation reached as well as the rate of ascent. Symptom onset occurs within a few hours and lasts 3–4 days. These could include bifrontal headaches, anorexia, nausea, and generalized weakness or fatigue. AMS is a clinical diagnosis based on the presence of symptoms in a patient who lives at a low altitude but has recently ascended to a high altitude (usually > 2,440 meters). Mild cases can be treated conservatively with symptomatic care and avoidance of ascent.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-107]
+Q: What pathophysiologic process resulting from respiratory impairment is primarily responsible for the effects seen after nonfatal drowning events, such as cerebral edema and arrhythmias?
+A: Hypoxemia
+EXPLANATION: Drowning occurs when an individual experiences respiratory impairment from sub- mersion or immersion in a liquid. This respiratory compromise leads to hy- poxemia, which affects all organs. The results of tissue hypoxemia following nonfatal drowning include cerebral edema, arrhythmias, and renal fail- ure. Cerebral edema and increased intracranial pressure from nonfatal drowning warrant serial neurologic examinations and can be managed by elevating the head of the bed and avoiding volume overload. In Explanations Neuronal tissue damage can lead to cerebral edema and subsequent in- creased intracranial pressure, not decreased.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-431]
+Q: A 42-year-old woman presents with local erythema and pain that has progressively worsened in the last 2 days after sustaining a cat bite to her arm. There is minimal drainage from the wound and no evidence of abscess formation. She is afebrile with normal vital signs. What is the best choice of antibiotic in this case?
+A: Amoxicillin-clavulanate
+EXPLANATION: Cat bites have a greater propensity for infection than dog bites due to most bites resulting in deep puncture wounds from long, sharp teeth. The majority of cat bites involve the upper extremities and hands. The predominant organisms involved include the cat's oral flora and the person's normal skin flora, resulting in a polymicrobial infection in most cases. Pasteurella species are involved in most cat bite infections, with other aerobic organisms, such as streptococci, staphylococci, and Moraxella, found in a significant number of infections. Cat bites develop signs of infection quicker, on average, than bites from dogs.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-108]
+Q: What is the most important first step in managing an unresponsive nonfatal drowning victim?
+A: Ventilation
+EXPLANATION: When managing a victim of nonfatal drowning, the most important first step in management is achieving adequate ventilation. Early initiation of CPR is crucial for patients who have sustained cardiac arrest; two rescue breaths should be delivered as soon as scene safety has been established. However, hyperven- tilation can be detrimental, so it is important that the rate of rescue breaths not ex- ceed 20 breaths/minute. In Explanations Cervical spine injuries are quite rare after nonfatal drowning events. C-spine im- mobilization can delay appropriate initiation of high-quality CPR and ob- struct the effective management of ventilation, so it should not be routinely pursued.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-432]
+Q: Which of the following is the most likely diagnosis given the characteristic lesion seen above?
+A: Lightning injury
+EXPLANATION: Lichtenberg figures are pathognomonic for lightning injury. A Lichtenberg figure is a self-limited rash that develops due to the showering of electrons on the skin, leading to extravasation of red blood cells and the classic ferning rash. While lightning injuries can cause true skin burns, a Lichtenberg figure is not a true burn and typically resolves spontaneously within 24 hours. In comparison to alternating current-related electrical injuries, which are typically up to 200,000 volts and last seconds to minutes, lightning-related electrical injuries are caused by a direct current with a higher voltage (10 million–2 billion volts) over a shorter period of time (10 μs–3 ms).
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-109]
+Q: What medications are most helpful in the management of nonfatal drowning victims?
+A: Inhaled beta agonists
+EXPLANATION: After a submersion injury, patients may develop pulmonary edema and ARDS, with clinical symptoms that include bronchospasm and dyspnea. When managing the respiratory complications encountered in nonfatal drowning, beta ag- onists are indicated to treat bronchospasm. The clinical presentation in nonfatal drowning may be very similar to asthma, and treatment measures aimed at bron- chodilation can be very effective. This should be preceded by the provision of supplemental oxygen, with a goal of maintaining oxygen saturations between 92% to 96%.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-433]
+Q: A 34-year-old man presents with alcohol intoxication and pain in his left hand. He has no significant medical history. The patient states he fell asleep on the sidewalk in the snow. Vital signs include T of 95.8°F, BP of 108/70 mm Hg, HR of 101 bpm, and RR of 19/min. Examination reveals the above findings. The patient has decreased sensation and decreased range of motion.
+A: Place hand in warm (37–39°C, 98.6–102.2°F) circulating water
+EXPLANATION: The patient presents with severe frostbite to the left hand from exposure and will require gentle, active rewarming of the extremity. During cold exposure, vasoconstriction occurs in an effort to conserve heat. As the temperature drops below 10°C, cutaneous sensation is compromised. With microvascular vasoconstriction, plasma begins to leak into the interstitial space. Ice crystals begin to form once the temperature approaches 0°C. Once crystals begin forming, intracellular osmolarity rises and cells begin to collapse and die. Blood flow begins to sludge, followed by stasis and cessation of flow at the capillary level.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-110]
+Q: What has been shown to be the most effective measure to prevent childhood drowning?
+A: Fencing around the pool, using a self-closing latch gate
+EXPLANATION: Multiple complementary strategies should be employed to promote pediatric pool safety. The most robustly studied and notably effective measure is four-sided pool fencing that consists of a gate with a self-closing latch. The American Academy of Pediatrics recommends that this fencing should be at least 4 feet high and should completely isolate the pool from the house and the yard. Adults should closely super- vise children at all times when they are around water, including household areas (eg, pools, hot tubs, and bathtubs) and any items containing water (eg, mop buckets). Other protection actions include wearing life vests and having a lifeguard present.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-434]
+Q: When triaging lightning strike victims in the field, who should receive the highest priority?
+A: Unresponsive victims with fixed and dilated pupils
+EXPLANATION: Lightning injuries are caused by large unidirectional currents that are neither alternating nor direct currents. While the mortality rate is around 30%, up to 70% of survivors have significant morbidity, including depression and post-traumatic stress disorder. Symptoms of lightning injuries range from electrical flashover of the skin leaving a discolored arborization pattern (referred to as ferning or Lichtenberg sign) to sudden cardiac death due to fatal dysrhythmias. Unlike other electrical burns from high voltage, deep tissue injury, including burns and necrosis, is uncommon. Therefore, conditions such as rhabdomyolysis and kidney failure are less likely to be seen.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-111]
+Q: An adult presents with altered mental status. At mile 20 of a marathon, the patient was noted to be disoriented and confused. On examination, their core temperature is 41°C (105.8°F). What is the first-line method of rapid cooling?
+A: Cold water immersion
+EXPLANATION: This patient is presenting with exertional heatstroke, a condition characterized by a core temperature in excess of 40°C (104°F) with signs of CNS dysfunction, which can present widely from behavioral changes to coma and seizures. Cold water immersion is the preferred management of exertional heatstroke because it is the most effective means of decreasing core temperature quickly in this setting. One sys- tematic review of 63 studies showed that cold water immersion with water tempera- tures below 17°C (62.6°F) was more effective at reducing core body temperature than other tested cooling measures.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-435]
+Q: A 9-year-old girl presents to the emergency department for evaluation of an inability to walk. The patient’s parent states that the patient was in her normal state of health yesterday, but this morning, she could not get out of bed. The patient reports weakness in her legs and tingling in her hands. She has never had similar symptoms in the past. The patient has not had any recent illnesses.
+A: Performing a thorough skin examination
+EXPLANATION: The patient is exhibiting acute, ascending paralysis caused by a tick that would be identified on a thorough skin examination, including the scalp. Tick paralysis is caused by a neurotoxin released from the salivary glands of female ticks of certain species. It occurs more commonly in children, and symptoms usually present 4–7 days after tick attachment. Patients will present with ascending weakness that starts in the lower extremities and moves upward within a period of hours to days. Cranial nerve involvement is common. Respiratory depression can occur and may be fatal. There may be a prodrome of paresthesias, myalgias, irritability, and fatigue.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-112]
+Q: A skier becomes trapped in an avalanche. When the ski patrol finds the patient, his hands are cold without any sensation, and his fingertips are dusky and purple. It will be 2 hours until a medevac helicopter can arrive to transport the patient to the emergency department. What is the best method for the EMS team to treat this patient's frostbite?
+A: Remove any wet hand coverings and replace with bulky dry padded coverings
+EXPLANATION: Frostbite involves complicated pathophysiology, and the degree of tissue damage depends on how cold the temperature is, how quickly the tissue freezes, and how long the tissue is exposed to the cold. Thawing of the tis- sue often brings about more damage, especially if not conducted prop- erly. In the out-of-hospital setting, it is important to protect the involved tissue from further cold damage by removing wet clothing, replacing with dry coverings, and pad- ding or splinting the area to protect from further cold exposure. The affected body parts should not be rewarmed until there is no risk of refreezing, as this will cause significantly worse damage.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-436]
+Q: A 24-year-old man presents after a coral snake bite. Which is the most likely early clinical finding?
+A: Diplopia
+EXPLANATION: Each year in the United States, there are an estimated 2,000–7,000 venomous snake bites, resulting in about five deaths. The vast majority of these bites are inflicted by pit vipers (Crotalinae subfamily of the Viperidae family), with the remainder involving either coral snakes (Elapidae family) or bites by imported exotic species. The coral snakes are found primarily in the southeastern United States, along with Texas and Arizona. They can be identified by their brightly colored rings of black, yellow, and red. Due to shorter fangs with enclosed venom channels, they have a higher incidence of dry bites compared with pit vipers.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-113]
+Q: In a patient with primary hypothermia and no detectable pulse, which additional finding supports the decision to terminate resuscitation efforts?
+A: Persistent asystole despite raising core temperature above 32°C (89.6°F)
+EXPLANATION: The adage “you're not dead until you're warm and dead” applies to the resuscitation of patients suffering from primary hypothermia (hypothermia directly from a cold environment). It is generally agreed in this situation that if a patient is warmed to a temperature above 32°C (89.6°F) and has persistent asystole, that fur- ther resuscitative efforts are futile and can be stopped. However, this does not apply to patients suffering cardiac arrest for a different reason who present with secondary hypothermia. Patients with potentially survivable se- vere hypothermia can appear dead. They can have fixed and dilated pupils, and it can be very difficult to detect a pulse even if one is present.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-437]
+Q: Which blood cells are preferentially damaged in acute radiation injuries?
+A: Lymphocytes
+EXPLANATION: Lymphocytes are preferentially damaged in acute radiation injuries, making the absolute lymphocyte count the most useful marker for severity of radiation injury. Overall, the hematopoietic system demonstrates injury at the lowest doses of radiation, at just 1.5 Gray (Gy). Damage to the hematopoietic system occurs across phases. The prodromal phase starts within the first few hours or days of the exposure and indicates the initial destruction of circulating cell lines, with lymphocytes steeply down-trending. Neutrophils and platelets may be noted to rise at first in their role as acute phase reactants.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-114]
+Q: A 22-year-old man presents via ambulance with a depressed level of conscious- ness. His roommate found him lying in the yard that morning. He has preserved airway reflexes, is unresponsive, has no signs of traumatic injury, and has a BP of 100/60. Blood glucose is normal, and serum ethanol level is 240 mg/dL. A strip from the cardiac monitor is shown.
+A: Rewarming techniques
+EXPLANATION: Rewarming should begin after confirmation with core temperature measure- ment. The cardiac tracing shows Osborn (J) waves and bradycardia. Osborn waves are positive deflections at the junction of the QRS complex and ST seg- ment, the height of which has been shown to inversely correlate with temperature. Osborn waves and bradycardia are both characteristic, although not pathognomonic, findings in hypothermia. This patient was found outside, in- creasing potential for environment-induced hypothermia, and is intoxicated from ethanol: a sedative, vasodilator, and one of the most common findings in hypother- mic patients.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-438]
+Q: A 28-year-old man presents to the ED with numbness and weakness in his right arm. He was breath-hold diving with a friend who was using compressed air. The friend reports that the patient took a breath from his regulator at about 30 feet depth. Upon surfacing, the patient briefly lost consciousness, then regained consciousness and noticed the symptoms.
+A: Air embolism
+EXPLANATION: In breath-hold diving (also known as freediving), the athlete dives with only the air contained in their lungs and respiratory tract. In contrast, compressed-gas divers (e.g., using self-contained underwater breathing apparatus, or SCUBA) take breaths from a regulator, which provides air or other mixtures of gas from a pressurized tank. Boyle Law states that the volume of a given quantity of gas at constant temperature varies inversely with pressure. For example, a water column of 33 feet has 2 atmospheres absolute (ATA) of pressure. At 2 ATA, the gas volume is 50% of its surface volume.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-115]
+Q: A 56-year-old man is brought in by the police after he was found under a bridge on a winter night. His core temperature is 30°C (86°F). Which physical examination finding is most likely?
+A: Bradycardia
+EXPLANATION: Bradycardia is expected in hypothermic patients with temperatures be- low 32°C. Atrial fibrillation, atrioventricular blocks, and the presence of Osborn (J) waves are also commonly seen. Tachycardia is expected with mild hy- pothermia (32-35°C [89.6-95°F]). In Explanations Fixed and dilated pupils occur with significant hypothermia (30°C [86°F] and below). This should not be mistaken for brain death. Shivering initially occurs with hypothermia. However, as the core temperature decreases below 32°C (89.6°F), shivering ceases and muscular rigidity may occur. Bradypnea and apnea are expected with significant hypothermia, from which this patient is suffering.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-439]
+Q: A 24-year-old man presents to the ED for acute onset of odynophagia and chest pain after surfacing from scuba diving. On physical examination, the patient appears uncomfortable and has crepitus throughout his anterior neck and chest. Oxygen saturation is 95% on room air. Point-of-care ultrasound reveals lung sliding in all fields.
+A: Supplemental oxygen and observation
+EXPLANATION: The patient is presenting with pneumomediastinum, indicated by crepitus in the neck and chest (subcutaneous emphysema) after surfacing from a dive, which is a classic sign of barotrauma. His oxygen saturation is stable, and point-of-care ultrasound shows lung sliding in all fields, ruling out pneumothorax. The most appropriate management for this patient is supplemental oxygen and observation. Barotrauma of ascent refers to a group of disorders caused by gas expansion during rapid ascent, commonly seen in scuba diving but also occurring during air travel or mountain climbing. Pulmonary barotrauma is a potentially severe manifestation.
+
+### [PEER-PHYS | PEER-2026-volume-1-text-q-116]
+Q: What abnormal test result is the earliest indicator of biological damage from whole-body penetrating irradiation?
+A: Lymphopenia
+EXPLANATION: Lymphocytes are particularly susceptible to destruction from ionizing ra- diation and are the first hematopoietic cells to decrease after whole-body penetrating irradiation. A rapid decline in lymphocytes is one of the best early in- dicators of the extent of radiation injury and is considered the earliest laboratory in- dicator of biological damage from radiation, often occurring within 8 hours. The total lymphocyte count measured at 48 hours after an acute exposure can be used to determine the approximate absorbed dose and clinical prognosis. In Explanations RBCs, due to their lack of nuclear material, are fairly resistant to radiation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-440]
+Q: A group of hikers is struck by lightning. You arrive at the scene quickly and determine it is safe to proceed, but find one hiker is lying motionless on the ground and is pulseless. The other hikers appear to be recovering with only minor trauma. Which of the following is the most appropriate action at this time?
+A: Initiate chest compressions
+EXPLANATION: It is important to immediately initiate chest compressions on patients in cardiopulmonary arrest from lightning injuries. People struck by lightning may appear dead (with cardiac or respiratory arrest), but they should be resuscitated immediately because prolonged CPR is sometimes successful in these cases. The initial rhythm in cardiac arrest from a lightning injury is asystole, which is a result of depolarization of the myocardium. Lightning injury may also cause respiratory arrest from depolarization and stunning of the medullary respiratory center. Importantly, in lightning injuries, external evidence of trauma may be absent in the presence of cardiac or pulmonary arrest.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-441]
+Q: A 36-year-old woman climbing Mount Kilimanjaro on vacation develops a headache and nausea. The patient is noted to be stumbling and confused 2 hours later. Descent is not possible due to weather conditions. Which of the following would be most important in the immediate management of her condition?
+A: Hyperbaric chamber
+EXPLANATION: High-altitude cerebral edema (HACE) is a severe form of acute mountain sickness (AMS) due to vasogenic brain edema from hypoxemia and endothelial permeability. Patients with prior altitude sickness are at increased risk of developing the condition. It affects different ages and sexes at similar frequencies. Most commonly, HACE occurs at altitudes > 10,000 feet, and the risk is increased with absolute elevation and rate of ascent. Symptoms of HACE start as nausea, fatigue, and headache (hallmarks of AMS) but progress to encephalopathy, ataxia, confusion, coma, and eventually death. Ataxia is a particularly sensitive sign of early HACE because the cerebellum is very sensitive to hypoxia.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-442]
+Q: A 46-year-old man presents to the emergency department with leg and abdominal cramping that started 1 hour ago. The patient was working in his yard trimming trees when he developed cramping in his right leg. He does not recall falling or twisting his leg in any fashion. The cramping now affects both of his legs and he has developed abdominal pain, too. He vomited one time.
+A: Black widow spider bite
+EXPLANATION: The class Arachnida contains the largest number of venomous species known, but most are not harmful to humans. Humans fear spiders and scorpions, but of this class of species ticks probably cause the greatest morbidity. One of the more venomous spiders known is the black widow spider or Latrodectus species. They are found throughout the United States, except Alaska. Symptoms of a black widow spider bite include a pinprick sensation followed by local redness and swelling, but sometimes the bite is not felt or seen. Over the next hour, patients develop dull cramping in the area of the bite that eventually spreads to the entire body.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-443]
+Q: A 16-year-old boy is brought to the emergency department after a soccer game where he played under the hot sun for several hours. His coach is concerned that he may have heat exhaustion. Which of the following clinical features is most suggestive of this diagnosis?
+A: Nausea and vomiting
+EXPLANATION: Heat exhaustion (or heat stress) is a heat-related illness that typically presents with headache, dizziness, nausea, vomiting, muscle cramps, and signs of dehydration but has no symptoms of heat stroke, which is a much more serious illness. Heat exhaustion may be caused by depletion of water, sodium, or both. Water depletion is more common in older patients, who may not replace water effectively, while sodium depletion is more common in individuals who replace fluid losses with water or hypotonic fluids without enough electrolyte repletion.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-444]
+Q: A 13-year-old boy is bitten on the left forearm by the above-pictured snake. The patient has an HR of 132 bpm, BP of 90/40 mm Hg, and SpO2 of 97% on room air. On presentation, the patient has severe pain and the presence of a bulla at the bite site. His arm is edematous. What management is indicated?
+A: Administer antivenin
+EXPLANATION: This patient has severe envenomation from a rattlesnake and should be given antivenin as soon as possible. Pit vipers (rattlesnakes, copperheads, and water moccasins) are the most prevalent venomous snakes in the United States. They account for 98% of all venomous snake bites in the United States. Pit viper venom disrupts the coagulation cascade and increases capillary permeability. Their bites cause immediate burning pain at the site, and the severity of the pain is associated with the amount of venom introduced. The tissue in the area becomes edematous and spreads proximally. Petechiae, ecchymosis, and hemorrhagic bullae may appear and can progress to skin necrosis.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-445]
+Q: A 6-year-old boy presents to the emergency department after an ankle injury. The family reports he was jumping on a trampoline when he hurt his ankle, and they noticed swelling. They thought it was most likely sprained and applied ice directly to the ankle for several hours in an attempt to reduce the swelling. He has developed clear blisters over the ankle from the direct application of ice.
+A: Perform warm water immersion
+EXPLANATION: Frostbite is the localized freezing of tissue. It is most commonly associated with hypothermia and exposure to a cold environment. Typical patients are those who work in the cold, those without housing, soldiers, or those stranded outside in the cold, but it can occur from a number of other sources. Frostbite can develop within seconds of contact with freon, liquid nitrogen, or fingertip contact with an extremely cold metal surface. Frostbite of the foot has been reported by a patient using a carbon dioxide extinguisher to reduce edema after an ankle sprain. Frostbite of the esophagus, face, or upper airway can result from inhalation of cold nitrous oxide or other frigid gasses.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-446]
+Q: A 20-year-old man presents to the emergency department after being stung by a scorpion while gathering wood for a campfire. His friend captured an image of the scorpion, which appears to be a bark scorpion. Which of the following findings is most likely to be observed on physical examination in a significant envenomation?
+A: Motor restlessness and hypersalivation
+EXPLANATION: Scorpions are found in the warmer United States climates. The bark scorpion, Centruroides sculpturatus, is found in Texas, Arizona, California, and New Mexico. It possesses venom that can cause systemic toxicity, while most other scorpion species in the United States only cause localized pain at the sting site. Toxic side effects are due to the opening of neuronal sodium channels that leads to prolonged depolarization of somatic and autonomic nerve fibers. Clinical manifestations include uncontrollable extremity jerking that resembles seizures, oculomotor dysfunction, pharyngeal dysfunction, respiratory compromise, tongue fasciculations, motor restlessness, and hypersalivation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-447]
+Q: A 45-year-old man presents to the emergency department with hand and foot pain after swimming in the ocean. The patient describes that he was attempting to swim to a lighthouse when the current pushed him up against the rocks. When he encountered the rocks, he braced himself with his hands and feet but was washed up to sea urchins and had multiple puncture wounds to his hands and feet.
+A: Hot water immersion
+EXPLANATION: The number of venomous or poisonous seawater injuries has increased due to a greater number of people participating in marine watersports. Most marine animals are not aggressive, and many are immobile. They injure humans through food-procuring or defensive devices. Sea urchins mainly cause injury and envenomation through toxin-coated spines. The spines break off and introduce debris into a wound and can be a nidus for infection. Injury by the spines causes severe burning pain that can last a few hours. Other local effects include bleeding, erythema, and edema. Systemic effects are uncommon but may include nausea, vomiting, and paresthesias.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-448]
+Q: A 19-year-old man is brought to the ED via ambulance after he was found sleeping outside in a snowstorm. The ambient temperature is 25°F (-3.9°C). His vital signs are a T of 36.0°C, BP of 125/70 mm Hg, RR of 14/min, and HR of 75 bpm. He reports stinging and burning pain in all 10 fingers. On exam, you note edema, erythema, and multiple blisters beginning to form over the fingers and hands.
+A: Wet rewarming at 98.6°F (37°C)
+EXPLANATION: This patient has evidence of moderately severe (second-degree) frostbite. Rapid rewarming is the cornerstone of frostbite therapy and should be initiated as soon as possible. The injured extremity should be placed in gently circulating water (ideally a whirlpool) at a temperature of 98.6–102.2°F (37–39°C) for approximately 15–30 minutes until the distal extremity is pliable and erythematous. Using higher temperatures is not recommended because it does not warm the area faster and is associated with more pain. Appropriate pain management should be administered.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-449]
+Q: A 65-year-old man presents to an emergency department in Miami by emergency medical services after the sudden onset of right hemiparesis, right facial droop, and aphasia. His spouse said that she had just taken the patient on his first SCUBA dive when he suddenly developed these symptoms as they were ascending to the surface. He had to be pulled from the water by the divemaster.
+A: Hyperbaric oxygen
+EXPLANATION: This patient presents with signs and symptoms consistent with a left middle cerebral artery occlusion that developed during ascent from SCUBA diving. Any focal neurologic deficit that results during ascent or immediately thereafter should be considered a cerebral arterial air embolism until proven otherwise. Rapid uncontrolled ascent against a closed glottis causes the volume of gas in the lungs to expand according to Boyle law (pressure and volume of a gas are inversely related at a constant temperature). As this gas expands, it can lead to pulmonary barotrauma, including pneumothorax, pneumomediastinum, and alveolar rupture.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-450]
+Q: Which of the following animal envenomations is associated with heightened sensitivity to touch in the affected area, along with local numbness and weakness?
+A: Scorpion
+EXPLANATION: Centruroides exilicauda, which is found in the Southwest, is the only species of scorpion native to North America that is particularly dangerous. Most scorpion stings produce local reactions with edema and erythema. A characteristic finding of scorpion stings is heightened sensitivity to touch in the area of the sting, along with local numbness and weakness. The diagnosis is often made by tapping on the site of the sting subsequently causing an increase in pain at the site. Systemic symptoms may develop (most often in children) that include anxiety, restlessness, muscle spasms, nausea, vomiting, excessive salivation, diaphoresis, hyperthermia, myoclonus, hemiplegia, and syncope.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-451]
+Q: A 29-year-old man presents to the hospital after syncope following a day of scuba diving. His friends report he was the first to surface, much earlier than the other divers. He had a transient loss of consciousness and is now awake. He has dysarthria and right upper and lower extremity weakness. His right nasolabial fold is flattened at rest, and his right lower face is weak with activation.
+A: Arterial gas embolism
+EXPLANATION: Gas dissolves during increased environmental pressure associated with descent while scuba diving, with reexpansion occurring upon ascent secondary to reduced baric pressures. Too rapid of an ascent may lead to a spectrum of decompression-related injuries, the most severe being air emboli formation. Pulmonary barotrauma secondary to diving at marked depths also places patients at a higher risk of air embolism. Related deleterious effects arise from vessel occlusion and related tissue ischemia and infarction.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-452]
+Q: A 31-year-old woman is hiking in the Rocky Mountains and ascends to 14,000 feet. She had spent the prior 3 days acclimating at 9,000 feet. Shortly after reaching the summit, she develops dizziness and lightheadedness and appears mildly confused. Her hiking partner notices she is swaying and holding on to tree branches while walking. What combination of treatments is indicated?
+A: Immediate descent, dexamethasone, and supplemental oxygen
+EXPLANATION: At high altitudes, there is reduced atmospheric partial pressure of oxygen, which causes reduced binding to hemoglobin and a decrease in end-organ tissue oxygenation. To accommodate for this, cerebral vasodilation with increased arterial blood velocity and volume occurs, increasing overall cerebral blood flow. Increased pressure in cerebral capillary beds causes transcapillary leakage, vasogenic cerebral edema, and increased intracranial pressure (ICP). High-altitude cerebral edema (HACE) is highly lethal. While it can occur at elevations > 10,000 feet (3,000 m), it typically develops at > 13,000 feet (4,000 m).
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-453]
+Q: A 24-year-old woman suddenly becomes vertiginous and spatially disoriented with a pain in her head while descending to 45 feet (13.7 meters) below sea level on a SCUBA dive. Which of the following is the most likely diagnosis?
+A: Barotitis
+EXPLANATION: Barotitis, “ear squeeze,” or ear barotrauma, is the most common disorder encountered during SCUBA diving. As divers descend, the increasing pressure causes the volume of gas in the middle ear to decrease according to Boyle law (pressure and volume of a gas are inversely related at a constant temperature). This decrease in middle ear volume bends the tympanic membrane inward, leading to ear pain and fullness. Divers will pinch their noses and Valsalva to equalize pressure through the eustachian tubes.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-454]
+Q: A 36-year-old man presents after a snake bite. In describing the snake, what features would lead you to determine that he was bitten by a copperhead snake?
+A: Long, folding fangs
+EXPLANATION: Copperhead snakes are a member of the Viperidae family. Other members of the Crotalinae (pit viper) subfamily include rattlesnakes and water moccasins (cottonmouths). These are among the most common venomous snakes in the United States and are responsible for the greatest number of reported snake bites. When determining the potential consequences of a snake bite, it is important to be able to differentiate between a venomous and nonvenomous snake. Members of the pit viper subfamily have many specific characteristics in common.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-455]
+Q: A 53-year-old woman embarks on a nighttime scuba diving trip in Egypt, working as an underwater filmmaker. The following day, she flies to the United States and presents to the ED with dyspnea, chest pain, and a dry cough. Vital signs are within normal limits. Physical examination and ECG are unremarkable. Which of the following is the best treatment for this patient’s most likely condition?
+A: Hyperbaric recompression
+EXPLANATION: The most likely diagnosis for this patient is decompression sickness (DCS), specifically pulmonary DCS (also known as the chokes), which can occur after diving, especially if flying shortly after. DCS is a form of dysbarism resulting from nitrogen gas dissolving under pressure and reforming as bubbles in tissues during ascent. Symptoms usually occur within 6 hours, but delayed onset, especially after air travel within 24 hours, is possible. DCS can affect multiple systems. Pulmonary involvement (the chokes) presents with dyspnea, chest pain, and cough. Musculoskeletal symptoms (the bends) cause joint and muscle pain.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-456]
+Q: A 45-year-old man presents to the ED after an insect bite sustained when he was moving potted plants 4 hours prior to arrival. Temperature is 37°C (98.6°F), heart rate is 105 bpm, respirations are 20/min, blood pressure is 165/90 mm Hg, and SaO₂ is 97%. He is restless and reports myalgias and severe abdominal pain.
+A: Administer lorazepam IV and tetanus prophylaxis
+EXPLANATION: This patient’s symptoms are consistent with black widow spider envenomation, causing intermittent muscle pain and spasm that extends up the bitten extremity and involves the abdomen. Treatment includes parenteral opioids, benzodiazepines to help with spasms, antiemetics, and tetanus prophylaxis. Rigidity of the chest or back may be involved in addition to diaphoresis, headache, and nausea and vomiting. The abdominal rigidity is usually intermittent but may be mistaken for a surgical abdomen.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-457]
+Q: A 17-year-old girl presents to the emergency department with pain, swelling, and mild itching to an area on her foot. Earlier in the day, she felt a sting on her foot while playing frisbee barefoot in the park and quickly noticed some redness in the area. Over the next few hours, the top of her foot became more erythematous and swollen, and a small pustule developed in the center of the injury.
+A: Apply ice, provide oral pain relief, and discuss continued wound care instructions
+EXPLANATION: This patient is most likely presenting with a bite from a fire ant. Like other stinging injuries, such as those by Hymenoptera, the sting of a fire ant can lead to symptoms that range from either a local reaction to severe systemic anaphylaxis. Fire ants have a tendency to swarm, so immobilized patients are particularly at risk for severe injury. Each sting usually results in a papule that becomes a sterile pustule in 6–24 hours. Localized necrosis, scarring, and infection can occur over days. Rarely, systemic reactions, such as urticaria and angioedema, develop.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-458]
+Q: A 26-year-old woman is brought to the emergency department by her diving partner. Per the partner, the patient developed cough, shortness of breath, ataxia, and vertigo 1 hour after a long, deep dive. The patient has moderate respiratory distress and reports chest pain and severe dizziness. Which of the following is the most likely diagnosis?
+A: Decompression sickness
+EXPLANATION: Decompression sickness occurs due to the liberation of gas bubbles associated with decreased ambient pressure. This can occur in divers breathing compressed air and high altitude pilots or astronauts. The gas bubbles likely obstruct blood flow, leading to direct tissue ischemia. They also activate a variety of inflammatory processes, leading to thrombosis and capillary leaking. Symptoms of decompression sickness typically occur minutes to hours after surfacing. Decompression sickness can include pain syndromes involving the joints (“the bends”) as well as more serious manifestations including pulmonary (“the chokes”), cardiovascular, and neurologic symptoms (“the staggers”).
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-459]
+Q: A 32-year-old man is flown in from a mountain base camp for progressive altered mental status and ataxia. On examination, he is stuporous and hard to awaken. Which of the following is most likely to benefit this patient?
+A: Dexamethasone
+EXPLANATION: Acute mountain sickness (AMS), high-altitude cerebral edema (HACE), and high-altitude pulmonary edema (HAPE) are forms of high-altitude illness. A diagnosis of AMS is made in patients who have recently ascended to an elevation > 8,000 feet and present with a headache in addition to nausea, vomiting, general weakness or fatigue, dizziness, or lightheadedness. Symptoms may develop within hours of arrival at high altitude, peak at 24–48 hours, and then gradually resolve. Patients should not ascend until symptoms resolve. AMS can quickly progress to HACE if untreated. The risk is increased with absolute elevation (most commonly > 13,000 ft) and rate of ascent.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-460]
+Q: A 40-year-old woman presents to the ED with bloody otorrhea. She reports ear fullness and pain since a recent vacation when she went deep-sea diving. On exam, you cannot visualize her tympanic membrane due to dried blood. Which of the following is the most likely cause of her condition?
+A: Middle ear barotrauma
+EXPLANATION: Middle ear barotrauma, also known as barotitis or ear squeeze, is often the result of descent barotrauma. It is the most common type of aural barotrauma and the most common concern of divers. As the diver descends, the water exerts increasing pressure against the intact tympanic membrane. If the pressure is not equalized in the middle ear, the tympanic membrane may rupture. The ruptured tympanic membrane exposes the middle ear to cold water, inducing transient nystagmus and vertigo secondary to caloric stimulation. Treatment is conservative with analgesics and decongestants. If the tympanic membrane ruptures while diving, prophylactic antibiotics should be prescribed.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-461]
+Q: A 51-year-old woman with no chronic medical conditions presents with marked dyspnea and right-sided chest pain. She had been scuba diving and ascended approximately 4 hours ago. She states her symptoms began partway through her ascent. She reports no headache, dizziness, weakness, or sensory changes.
+A: Pneumothorax
+EXPLANATION: Barotrauma can occur in divers when there is an inability to equalize pressure during ascent or descent. Boyle law states that, at a constant temperature, there is an inverse relationship between the pressure and volume of a gas. At greater depths, pressure is higher and volumes decrease. There is a greater fractional change in gas volume at shallow depths (i.e., gas volume expansion) due to a greater change in pressure. Pneumomediastinum and pneumothorax occur most often in ascent and are associated with breath-holding. The larger volume of trapped air expands when a diver does not exhale, leading to a pneumothorax.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-462]
+Q: A 35-year-old woman presents after her cat bit her on the thigh. On physical exam, there is a puncture wound on the anterior thigh without surrounding erythema or drainage. What is the best next step in management, in addition to thorough wound irrigation?
+A: Update tetanus vaccination, obtain an X-ray of the thigh, and prescribe amoxicillin-clavulanate
+EXPLANATION: Cat bites have a high risk of becoming infected. The bites tend to be deep puncture wounds that are difficult to irrigate sufficiently. Reported infection rates vary throughout the literature but may be as high as 50%. Thus, antibiotic prophylaxis is indicated for all cat bites. Other factors that increase the risk of infection include bites involving the hands and feet, bites near a joint, immunosuppression, underlying venous or lymphatic compromise, and delays in presentation. Bite wounds are usually polymicrobial, and the most common pathogens include Staphylococcus species, Streptococcus species, Pasteurella multocida, and anaerobes.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-463]
+Q: A 32-year-old woman who does not have housing presents to the emergency department with burning pain and local swelling in her foot. The weather has been 35–40°F and rainy, and she was unable to find room at the local shelter yesterday. Examination of her foot yields the findings shown above. Which of the following is the most likely diagnosis in this patient?
+A: Chilblains
+EXPLANATION: Chilblains, also known as pernio, are inflammatory skin lesions precipitated by protracted and intermittent exposure to damp, nonfreezing ambient temperatures. Chilblains are most often seen in women and children, and the toes, hands, ears, and lower legs are most commonly affected. Those with a history of Raynaud phenomenon and lupus erythematosus, as well as those with inadequate access to heating and warm clothing, are at increased risk. Chilblains are rare in the United States but common in countries with a cold, damp climate. The skin findings associated with chilblains vary widely and include localized edema, erythema, cyanosis, nodules, and, rarely, ulcerations and bullae.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-464]
+Q: Which of the following is most consistent with envenomation by Loxosceles sp.?
+A: Necrotic eschar
+EXPLANATION: Loxosceles is a genus of brown spiders that are present worldwide. The species Loxosceles reclusa (the brown recluse spider) occupies the greatest geographic distribution in the United States and accounts for the majority of significant envenomations. Like other members of the genus, brown recluse spiders are nocturnal and can be found both indoors and outdoors in dark, dry areas. Classically, a pigmented area in the shape of a violin can be seen on the cephalothorax. However, this is not always present. Brown recluse spider bites are painless, and reactions to envenomation by Loxosceles are typically localized.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-465]
+Q: When are clinical manifestations of type I decompression sickness expected in relation to diving?
+A: Within 6 hours of surfacing
+EXPLANATION: Decompression sickness is a spectrum of illnesses that result from the liberation of gas from the tissues in the form of small bubbles. These bubbles can precipitate an inflammatory cascade, mechanical obstruction, and ischemia. Increasing depth and length of dives, obesity, male sex, presence of a patent foramen ovale, and air travel soon after diving are all risk factors for the development of decompression sickness. Clinical manifestations are notable within 6 hours of surfacing. Decompression sickness is divided into two types based on the organ system involved. Type I symptoms involve the musculoskeletal system (arthralgias, myalgias), lymphatics, and skin (mottling and edema).
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-466]
+Q: A 41-year-old woman presents with severe bilateral elbow and shoulder pain that began 1 hour ago. She recently went scuba diving for the first time and ascended 3 hours ago. She reports no headaches, dizziness, chest pain, or trouble breathing. On exam, there are scattered excoriations overlying her bilateral upper extremities, and trace bilateral lower extremity edema is noted.
+A: Type I decompression sickness
+EXPLANATION: Diving injuries that arise from dysbarism can be classified as disorders of descent, disorders of depth, and disorders of ascent. The Boyle law describes the inverse relationship between pressure and the volume of gas at a constant temperature. As pressure is reduced with ascent, gas volumes increase, dissolved gas comes out of solution, and gas bubbles can accumulate in body tissue, leading to decompression sickness. Type I decompression sickness involves the musculoskeletal system, skin, and lymphatic vessels. Symptoms include arthralgias, skin irritation, pruritus, and lymphatic obstruction leading to extremity edema.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-467]
+Q: A 7-year-old boy presents to the ED after stepping into a mound of ants while playing barefoot in his backyard in southern Texas. Within minutes, he developed intense burning pain in his foot, followed by multiple small, red bumps. Over the next several hours, the lesions evolved into small, sterile pustules.
+A: Supportive care with local wound care and antihistamines
+EXPLANATION: Fire ant envenomation is a common cause of insect-related injuries in the southern US, particularly in regions where Solenopsis invicta (the imported fire ant) is endemic. These ants live in large colonies and aggressively defend their mounds. When disturbed, multiple ants attach to the skin and sting simultaneously, injecting venom through a stinger located on the abdomen. Fire ant stings are common in children and outdoor workers who encounter ant mounds in grassy or sandy environments. The venom of fire ants contains alkaloid toxins (primarily solenopsin) that cause immediate burning pain, followed by localized inflammation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-468]
+Q: A 65-year-old woman is hiking in New Mexico with sandals and feels a stinging sensation on her right foot. She is now experiencing muscle jerking. Her blood pressure is 165/78 mm Hg. Physical exam shows nystagmus and increased oral secretions. Which of the following is the most likely cause of her presentation?
+A: Scorpion
+EXPLANATION: Scorpion stings commonly cause increased oral secretions, clonus, restlessness, nausea, vomiting, and roving eye movements or nystagmus. Patients generally present with hyperthermia, hypertension, dysrhythmias, or respiratory distress by activation of the sympathetic and parasympathetic systems. The most dangerous scorpion is known as the bark scorpion (Centruroides sculpturatus), as it is generally found near trees. Patients may have increased skin sensitivity at the site of envenomation. The diagnosis is often by history and clinical symptoms. A serum western blot can be used to differentiate which species was involved. Antivenin should be given in all cases of severe envenomation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-469]
+Q: An 8-month-old girl presents to an Arizona emergency department with her parent after he found her crying uncontrollably and discovered a nearby scorpion. After assessing her airway, breathing, and circulation, which of the following is the most important feature to look for in your physical exam to guide treatment?
+A: Opsoclonus
+EXPLANATION: Scorpion envenomation occurs via a sting from a scorpion's tail and not from biting. The vast majority of scorpions do not produce venom capable of producing clinically significant toxicity. However, there are 30 species that can produce neurotoxicity in humans, especially small children. The Centruroides exilicauda scorpion, commonly known as the bark scorpion, is very common in the southwestern United States and is the most common scorpion species causing human envenomation in the United States. Scorpion stings can cause local pain and paresthesias even when a puncture wound cannot be seen.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-470]
+Q: A clinician is responding to a lightning strike on a wet field where four individuals have been affected. Which of the following patient presentations requires the most immediate attention?
+A: 59-year-old man with absent vital signs
+EXPLANATION: The 59-year-old man with absent vital signs requires the most immediate attention. Early resuscitation may reverse respiratory arrest and restore spontaneous circulation, whereas delays can result in irreversible hypoxic injury. In most mass-casualty incidents, patients without signs of life are triaged as deceased. However, lightning strikes are a notable exception. A lightning strike delivers a brief but massive electrical discharge that can cause immediate cardiac and respiratory arrest. Although the heart may spontaneously regain organized electrical activity, prolonged respiratory paralysis can persist, leading to secondary cardiac arrest if ventilation is not rapidly restored.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-471]
+Q: A 26-year-old woman fell through the ice while ice skating on a frozen lake. She is rescued by a friend after being immersed in the water up to her mid-chest for 25 minutes and is brought to the emergency department, where you find her to be awake but somnolent. She has very poor fine motor control and is not shivering.
+A: Forced air warming of the thorax and blankets
+EXPLANATION: Cold water immersion is defined as immersion into water 30 minutes after immersion. The final phase of cold water immersion is peri-rescue collapse, which can be secondary to sudden vasodilation with loss of hydrostatic pressure on removal from water or “after drop,” in which the core temperature continues to decrease after rescue, causing cardiac arrest. The degree of hypothermia can be classified by a patient’s level of consciousness, movement, shivering, and alertness. Patients with mild hypothermia (33–35℃) are awake, alert, and shivering, but have impaired motor function. Treatment includes passive warming techniques such as the use of blankets for insulation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-472]
+Q: A 28-year-old woman working at a local aquarium presents to the ED with a laceration to her right hand. She was transferring sea urchins to a large tank and injured herself while handling one of the specimens. Which of the following is the most appropriate therapy for this patient?
+A: Antibiotics and tetanus prophylaxis
+EXPLANATION: Sea urchin injuries can result in embedded spines and marine bacterial infections, often involving Vibrio species. Treatment includes antibiotics to cover marine pathogens and tetanus prophylaxis to prevent tetanus in case of contamination. Vibrio vulnificus is a gram-negative bacterium commonly associated with infections resulting from exposure to warm seawater or the consumption of raw oysters and other seafood. These infections can present as cellulitis, necrotizing fasciitis, or sepsis, particularly in individuals with liver disease or immunocompromised states.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-473]
+Q: A 32-year-old man develops a throbbing, bitemporal headache 1 week after beginning his ascent to K2 mountain. His vital signs are within normal limits for the specific altitude. On physical examination, he has abnormal finger-to-nose and heel-to-shin tests. His lungs are clear to auscultation. Which of the following is the best next step in management?
+A: Descent
+EXPLANATION: High altitude cerebral edema (HACE) is an acutely life-threatening condition thought to be due to hypoxia that results in intracranial vasodilation and cerebral edema. If the condition is not rapidly identified and treated, patients may develop cerebral herniation due to increased intracranial pressure. HACE is uncommon below altitudes of 10,000 feet and most commonly occurs at > 13,000 feet. The risk is increased with absolute elevation as well as rate of ascent.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-474]
+Q: A 41-year-old woman presents to the emergency tent with generalized weakness, dizziness, and nausea after running an 18-mile race. The local temperature is 90℉ (32.2ºC) with a relative humidity of 80%. As you continue your evaluation, what physical exam finding would make you concerned that this patient is developing a more severe illness requiring emergent care?
+A: Mental status changes
+EXPLANATION: Heat emergencies represent a continuum of disorders that range in severity from heat cramps to heat exhaustion to life-threatening heat stroke. In most circumstances, heat emergencies can be avoided through common sense, public education, and prevention. People most at risk for heat injuries include athletes, military personnel, and laborers who work outdoors in the heat. Classic heat injury, as is the case with this patient, usually occurs during periods of high environmental heat stress. Physical exertion is not required if environmental temperatures and humidity create a situation in which heat gain overwhelms native heat losses.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-475]
+Q: A 34-year-old man presents to the emergency department by police after being bitten on the buttocks by a police dog. On exam, you note four puncture wounds to his right buttock. After irrigating his wounds thoroughly and providing a tetanus vaccine, you prescribe a course of amoxicillin-clavulanate as prophylaxis.
+A: Pasteurella, Fusobacterium, and Staphylococcus
+EXPLANATION: Mammalian bites, including dog, cat, and human bites, are commonly encountered in the emergency department. The approach to a mammalian bite is similar to lacerations and puncture wounds sustained from other sources, with some important differences related to the increased risk of infection. Deep puncture wounds overlying vital organs should be managed as penetrating trauma, and any pulse deficit resulting from a mammalian bite should be evaluated and managed expediently. Irrigation of wounds with copious saline at high pressure is one of the most important steps in reducing the incidence of wound infection.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-476]
+Q: A man presents after being bitten by the spider shown above. Which of the following manifestations are consistent with a bite from this spider?
+A: Bite wound that becomes necrotic
+EXPLANATION: This patient was bitten by a brown recluse spider, Loxosceles reclusa. Found primarily in the south-central United States, these spiders are approximately an inch long, brown in color, and have a characteristic darker violin-shaped area on the cephalothorax. They are not aggressive and are often found in woodpiles or attics. The venom of a brown recluse spider contains hemolytic enzymes and vasoconstrictors. A patient will note burning pain at the site and a white area of surrounding vasoconstriction 3–4 hours after a bite. A small bleb may form in the center of this area, surrounded peripherally by erythema.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-477]
+Q: A healthy 20-year-old man presents to the emergency department after being bitten on the right hand by his dog. Examination reveals two small puncture wounds to the thenar eminence with no active bleeding. Examination is otherwise normal. The dog is immunized and kept indoors.
+A: Oral amoxicillin-clavulanate for 3 days
+EXPLANATION: Puncture wounds and mammalian bites all require close attention and appropriate management, as these wounds are at high risk for infection. Puncture wounds allow for deeper inoculation of bacteria, and small superficial wounds can close spontaneously, allowing a cavity for bacterial overgrowth. Many treatment decisions are required to care for these injuries correctly. Appropriate management of this puncture wound to the hand in a healthy adult includes irrigation, assessment for tetanus and rabies vaccination, and oral amoxicillin-clavulanate for 3 days.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-478]
+Q: A middle-aged man presents to the emergency department for foot pain. EMS notes that the patient was sleeping outside without appropriate clothes for the temperature. Upon examination, the patient has only subjective paresthesias of the foot and the foot is noticeably cold to touch. Which of the following treatments is contraindicated in this patient’s condition?
+A: Massaging the limb
+EXPLANATION: Massaging the limb was initially thought to induce increased blood flow and feeling to the limb in cases of frostbite. However, friction massage has not been shown to improve outcomes and instead is associated with increased tissue losses. Frostbite occurs when tissue temperature drops below −4°C and is the result of microvascular thrombosis and ice crystal formation leading to structural cellular damage. Most commonly, patients are experiencing homelessness, have psychiatric illnesses or a substance use disorder, have a history of frostbite or cold injuries, or have diabetes or cardiovascular disease.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-479]
+Q: Which clinical syndrome would you expect in a patient with the following ECG?
+A: Hypothermia
+EXPLANATION: The ECG demonstrates the presence of J waves or Osborn waves that are seen in hypothermia. One of the first cardiac effects of hypothermia is bradycardia secondary to decreased firing of the cardiac pacemaker cells in cold temperatures. Osborn waves may appear at any temperature < 32°C. The waves are an upward deflection at the terminal portion of the QRS complex. They may represent abnormal ion flux in cold temperatures along with delayed depolarization and early repolarization of the left ventricular wall. As temperatures continue to drop, the ECG will demonstrate prolonged intervals: PR, followed by QRS, and then QTc.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-480]
+Q: Which type of tissue offers the greatest resistance to electrical flow?
+A: Bone
+EXPLANATION: The severity of an electrical injury depends on the electrical resistance, the duration of contact, the current’s pathway, and the details of the current (e.g., frequency, intensity, and type). Classic electrical injuries occur when the body becomes part of the electrical circuit. Which part of the body becomes a part of the circuit depends on tissue resistance. Thick, dry skin provides a high electrical resistance, making electricity less likely to penetrate deeper structures, which is why most electrical injuries are superficial. Wet, moist skin gives little resistance. This is why people are directed to get out of the water when swimming and lightning is nearby.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-481]
+Q: A 45-year-old woman presents to the ED via EMS after a seizure. The patient is a dive specialist and was working on an underwater recovery mission immediately prior to symptom onset. Her partner states the dive lasted 30 minutes at a depth of 35 feet. Immediately upon surfacing, the patient had a witnessed generalized tonic-clonic seizure. In the ED, her vital signs are within normal limits.
+A: Arrange for recompression therapy with hyperbaric oxygen
+EXPLANATION: The most severe form of pulmonary barotrauma is arterial gas embolism. Among sport divers, it is the second-leading cause of mortality after drowning. Typically, it results when air bubbles are forced across the alveolar-capillary membrane, escape into the pulmonary venous circulation, and proceed through the left atrium and ventricle into the arterial circulation. The coronary and cerebral arteries are associated with the most serious consequences. This patient is most likely has a cerebral arterial gas embolism, which can cause a variety of symptoms and signs similar in appearance to an acute stroke, including loss of consciousness, seizure, disorientation, and hemiplegia.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-482]
+Q: Which of the following is commonly seen in patients struck by lightning?
+A: Paralysis of the lower extremities which are blue and mottled
+EXPLANATION: Lightning injuries are rare but result in significant morbidity and mortality. Most incidents occur in the spring and summer months and young men are more likely to be affected than women. Lightning injuries result from extremely high intensity bursts of direct current that are very brief in duration. Most injuries are due to indirect strikes, either from being in contact with an object that was struck, side flash from a nearby object, or ground current. Secondary injuries from associated blunt trauma may also be seen. Immediately following a lightning injury, there may be a temporary cardiac arrest secondary to asystole, followed by spontaneous return of cardiac activity.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-483]
+Q: Which of the following symptoms is most consistent with acute mountain sickness?
+A: Nausea
+EXPLANATION: Acute mountain sickness is a clinical syndrome of headache combined with gastrointestinal upset, dizziness, fatigue, or generalized weakness that occurs in the setting of rapid ascent to an altitude > 2,440 m (8,000 ft). The biggest risk factor for acute mountain sickness is rapid ascent. Cardiovascular training status does not appear to influence the risk of acute mountain sickness. Acute mountain sickness occurs secondary to hypobaric hypoxia, which leads to cerebral vasodilation and mild vasogenic edema. Typical symptoms develop between 1 and 6 hours from arrival but can be delayed for 1–2 days.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-484]
+Q: A 10-year-old girl presents after a submersion incident at a nearby lake. She slipped on the dock, hit her head, and fell in the water. She was extracted quickly and on reaching the dock, she coughed and then vomited clear fluid once. Since then, her only symptom has been an intermittent cough. Vital signs are normal. Physical examination reveals wheezing, and a chest X-ray is normal.
+A: Observe for 4–6 hours
+EXPLANATION: This patient presents with a submersion incident and drowning and likely has experienced aspiration of water leading to pneumonitis. Drowning is a common cause of accidental death in the US. Submersion injuries can occur in homes (swimming pools, bathtubs, etc.) and in natural bodies of water. In adults, drowning and submersion are frequently associated with ethanol consumption. Typically, only small amounts of water are aspirated during drowning (up to 4 mL/kg) due to closure of the glottis and laryngospasm. Patients who have severe symptoms should be admitted for observation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-485]
+Q: A 28-year-old woman presents to the ED with left-sided hemiplegia. The symptoms started a few minutes after she resurfaced following an hour-long deep dive. Which of the following best describes the cause of this patient’s symptoms?
+A: Embolization of air precipitated by a rapid decrease in ambient pressure
+EXPLANATION: This patient is presenting with symptoms of arterial gas embolism (AGE) following ascent from a dive. AGE occurs when air bubbles enter the arterial circulation after pulmonary barotrauma during ascent. This happens when expanding air ruptures alveoli, allowing gas to pass into the pulmonary veins and embolize systemically. During scuba diving, AGE is most commonly caused by a rapid ascent without exhaling or breath-holding, which leads to overexpansion of the lungs and alveolar rupture. The rapid decrease in ambient pressure during ascent from a high-pressure underwater environment to atmospheric pressure precipitates air bubbles, which can embolize to the brain, heart, or other organs.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-486]
+Q: A 32-year-old man presents after sustaining a snakebite to his left hand approximately 3 hours ago. He was setting up camp while backpacking when he moved a log and encountered the snake. His companions took a photo of the snake, and you are able to confirm that it is an eastern copperhead (Agkistrodon contortrix). On arrival to the ED, the patient only reports pain at the bite site.
+A: Serum fibrinogen level
+EXPLANATION: The patient was bitten by an eastern copperhead (Agkistrodon contortrix), part of the Viperidae family, and should have a laboratory workup for evidence of hematologic toxicity, including a serum fibrinogen level. There are two common families of venomous snakes in the United States, Viperidae and Elapidae. In the US, the Viperidae family includes rattlesnakes, copperheads, and water moccasins (cottonmouths). This family of snakes can be identified by unique anatomical features, including a triangle-shaped head, elliptical pupils, a nasal pit, fangs, and a single row of subcaudal plates (as opposed to a double row) on their tails.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-487]
+Q: An 85-year-old woman is brought in by EMS with stroke-like symptoms. She lives alone and was last seen by her family 2 days ago. On arrival, she is obtunded with obvious right-sided neurologic deficits. Her vital signs are T 30.1°C, HR 46 bpm, BP 78/53 mm Hg, and pulse oximetry 94% on room air. Her blood sugar is 98 mg/dL. After securing her airway, what is the most appropriate step in management?
+A: Active rewarming procedures
+EXPLANATION: This patient has had a stroke and has the inability to properly thermoregulate. She needs active rewarming procedures to correct her hypothermia. Active rewarming can be divided into two types: active external warming and active core warming. Examples of active external warming include blankets heated with air or water, placing hot water bottles around the patient, and radiant heat sources. Active core warming procedures include airway rewarming using heated humidified oxygen.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-488]
+Q: Which of the following qualifies a patient for the diagnosis of heat stroke?
+A: Confusion
+EXPLANATION: Heat-related illness describes a spectrum of diseases derived from impaired thermoregulation, redistributed blood volume, or unreplaced insensible water or salt losses. The hypothalamus regulates body temperature through a balance of heat production from cellular metabolism, heat accumulation from the environment, and heat dissipation through various mechanisms. In classic heat stroke, individuals without the behavioral or physiological drive to compensate for heat exposure (e.g., older adults) are at risk of heat stroke. In exertional heat stroke, otherwise healthy individuals may generate excessive metabolic heat during exertion, often with concomitant environmental heat exposure.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-489]
+Q: A 25-year-old man is climbing Denali with several of his friends. After stopping at their base camp, he reports feeling short of breath, even at rest. While sitting and talking to the base camp clinician, he develops a cough productive of pink, frothy sputum. Vital signs are remarkable for a RR of 34/min, HR of 120 bpm, and SpO2 of 82% on room air.
+A: Descent
+EXPLANATION: High-altitude pulmonary edema (HAPE) is a noncardiogenic pulmonary edema caused by high microvascular pressure resulting in increased pulmonary vascular resistance and pulmonary artery hypertension. Early in the course of HAPE, patients often develop a dry cough, decreased exercise performance, dyspnea on exertion, and increased recovery time from exercise. As the course worsens, tachycardia, tachypnea, dyspnea at rest, weakness, productive cough, and more generalized rales develop. Rales may be absent at rest in some patients but can be elicited immediately with any exertion.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-490]
+Q: An 80-year-old woman presents with confusion and a temperature of 40.6ºC. The air conditioner in her apartment broke 2 days ago. Which lab abnormality would be most commonly present in the setting of classic heat stroke in this patient?
+A: Aspartate aminotransferase 2,100 U/L and alanine aminotransferase 1,900 U/L
+EXPLANATION: Liver injury, as denoted by aspartate aminotransferase of 2,100 U/L and alanine aminotransferase of 1,900 U/L, is so common in heat stroke that its absence should push one to reconsider the diagnosis. The hallmarks of heat stroke include severe hyperthermia (> 40.5oC) and neurologic dysfunction. Neurologic dysfunction occurs due to a progressive increase in heat stores because of the body’s decreasing ability to perfuse the distal extremities. As the heat stores increase, intracranial pressure increases with a subsequent decrease in cerebral blood flow. There are two types of heat stroke, each with its own patient population and clinical presentation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-491]
+Q: An 18-year-old woman presents to the ED after a nuclear reactor breach, during which she was exposed to a large amount of radiation. Which of the following is the best indicator of her prognosis?
+A: Lymphocyte count at 48 hours
+EXPLANATION: Radiation injuries are defined as exposure to energy emitted from higher energy state to lower energy state in the form of atomic particles or waves. Ionizing radiation is energy created from particles released from unstable atoms as they decay to a more stable state. This is able to break chemical bonds and form ion pairs. It causes cellular injury by cleaving DNA strands and producing free radicals. Ionizing radiation may be in the form of electromagnetic radiation or particulate radiation. Particulate radiation is generally the type one thinks about in significant radiation exposure injuries. Particulate radiation has mass and kinetic energy.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-492]
+Q: A 27-year-old woman presents to the emergency department for the evaluation of a left foot wound. She was snorkeling by a coral reef in Mexico 2 days ago when she felt a sudden pain in the bottom of her foot after standing on the seafloor. Several small punctate red areas were noted with minimal bleeding but extreme pain.
+A: Wound irrigation
+EXPLANATION: Retained foreign bodies are common in the setting of puncture wounds sustained in marine settings. This is particularly common in the setting of sea urchin injuries. Characteristics of sea urchin injuries include multiple puncture wounds and severe pain for 24 hours following injury. Signs that suggest retained urchin spines include discoloration of the wound that persists for > 24 hours and gradually increasing edema, cellulitis, or purulence from the wound. If the wound appearance continues to worsen after the first 24 hours, imaging for retained foreign bodies, followed by wound incision, irrigation, and exploration for foreign bodies is recommended.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-493]
+Q: A 22-year-old man is brought to a small, resource-limited rural emergency department after being found passed out in the snow. His T is 80.0°F (26.7°C), BP is 95/50 mm Hg, HR is 42 bpm, RR is 9/min, and SpO2 is 95% on room air. His ECG is notable for sinus rhythm, but on the monitor, the patient appears to have short runs of a ventricular dysrhythmia.
+A: Forced air blanket, warm IV fluids, and bladder lavage with warm fluids
+EXPLANATION: Hypothermia is more common in extreme environments and in populations such as people experiencing homelessness and patients with alcohol and polysubstance use disorder. Mild hypothermia (32–35°C) usually presents with shivering in an otherwise well-appearing patient. Management can involve only external rewarming. Moderate hypothermia (28–32°C) will present with a loss of shivering and progressive confusion and lethargy, as well as cardiac manifestations such as bradycardia. Finally, severe hypothermia (< 28°C) may present with obtundation and life-threatening dysrhythmias. Moderate and severe hypothermia require both active and passive rewarming.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-494]
+Q: Which of the following is a risk factor for developing high-altitude decompression sickness?
+A: Rapid ascent by commercial airplane to altitudes &gt; 30,000 feet (9,100 m)
+EXPLANATION: High-altitude decompression sickness (DCS) is a rare but serious condition that can occur when ambient pressure decreases rapidly, such as during high-altitude exposure without pressurization. Though most commonly associated with diving, DCS also occurs in high-altitude aviation, especially in unpressurized or insufficiently pressurized environments > 18,000–25,000 ft (5,400–7,600 m). At altitudes > 30,000 ft (9,100 m), even pressurized aircraft cabins may not fully protect against pressure changes, particularly if ascent or descent is rapid.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-495]
+Q: A 4-year-old girl presents to the emergency department after being bitten by an animal. Her wound is relatively minor but has resulted in skin penetration. Which of the following animals, if the cause of her injury, is the most likely to result in her wound becoming infected?
+A: Cat
+EXPLANATION: Animal bites are a common presenting problem in the emergency department. They usually occur in children, and the vast majority are caused by dogs. The dog often does not live with, but is familiar to, the child. Children usually unintentionally provoke the animal by creating a perceived threat to the animal’s food, territory, or safety. Factors that increase the risk of infection include a bite that is a puncture wound, occurs on the hands or feet, occurs on an extremity with poor blood supply, has an associated crush injury, presents to care 12 hours after injury, or occurs in an immunosuppressed patient.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-496]
+Q: For a patient 48 hours after an acute environmental radiation exposure, which of the following is the best indicator of the radiation dose received?
+A: Decrease in the absolute lymphocyte count
+EXPLANATION: Radiation injuries affect all systems of the body, and the clinical presentation and outcome depend on the dose of radiation as well as the duration of exposure. Radiation injury results from the transmission of energy into tissue leading to cellular structural damage. The principle unit of radiation dose absorbed is the gray (Gy). Organ systems have different sensitivities to radiation, with the rapidity of cell turnover being a major determinant. The hematopoietic and gastrointestinal systems are the most sensitive due to their high cellular division.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-497]
+Q: A 35-year-old man presents to the ED after being buried in an avalanche for 6 hours. He has been intubated and sedated by medics after he was found minimally responsive. His initial reported temperature was 80°F (26.7°C). He is receiving warm IV fluids and has a heating blanket applied.
+A: Warmed saline bladder irrigation
+EXPLANATION: This patient presents with persistent hypothermia, which has marginally improved from the time he was rescued. Severely hypothermic patients may exhibit cardiac irritability, and this patient’s ECG is concerning for atrial fibrillation. Atrial fibrillation as a result of hypothermia does not develop into a rapid ventricular response. In this patient, active external and internal warming with the addition of warmed saline bladder irrigation is the best next step, as he has persistent hypothermia despite conservative measures. Warming will improve cardiac irritability and resolve atrial fibrillation.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-498]
+Q: Which of the following is the most common concern of SCUBA divers?
+A: Middle ear barotrauma
+EXPLANATION: Middle ear barotrauma is also known as “ear squeeze” or barotitis. Up to 30% of new divers and 10% of experienced divers develop this. As the diver descends, water exerts external pressure on the tympanic membrane. Divers attempt to equilibrate this by forcing air into the Eustachian tube. If unsuccessful, the medial third of the Eustachian tube collapses, preventing further pressure equalization. Divers feel significant ear pain, which can be associated with tinnitus and vertigo. As divers descend further, the tympanic membrane may rupture, leading to caloric stimulation and transient vertigo with nystagmus. Barosinusitis (A) is the second most common concern of divers.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-499]
+Q: A 30-year-old man presents to your Hawaiian emergency department with significant right leg pain after being stung by a box jellyfish just prior to arrival. Which of the following is the most appropriate initial therapy?
+A: Acetic acid
+EXPLANATION: Jellyfish stings are one of the most common marine envenomations. Stings are usually delivered after a mechanical stimulus or osmotic gradient trigger nematocysts to discharge. Nematocysts are harpoon-like structures concentrated on the tentacles that will inject venom subcutaneously when activated. Envenomation will cause intense pain at the site of the sting. Most of the time, symptoms are limited to local effects but rarely can cause significant systemic symptoms, which can lead to respiratory paralysis. Treatment for box jellyfish stings is to immerse the sting in acetic acid (vinegar). Acetic acid is thought to inactivate nematocysts and prevent further discharge.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-500]
+Q: Which of the following is the most likely diagnosis?
+A: Frostbite
+EXPLANATION: Cold injuries consist of both freezing and nonfreezing syndromes, which may occur independently or in combination with systemic hypothermia. Frostbite, the most common freezing injury, is seen when ambient temperatures fall below −12°C (10.4°F) and wind speeds exceed 10 mph. Those at highest risk for frostbite include military personnel, winter sports enthusiasts, outdoor workers, older adults, those without housing, those with drug or alcohol use disorder, and those with psychiatric disorders. During the process of frostbite, ice crystals form in the extracellular compartment, producing intracellular dehydration.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-108]
+Q: During a climb at high-altitude, a 19-year-old man develops shortness of breath and tachypnea. Lung examination reveals crackles and a cough productive of watery sputum. What is the most effective treatment for this patient?
+A: Descent
+EXPLANATION: This patient has high-altitude pulmonary edema (HAPE) and the most effective treatment is descent to a lower altitude. HAPE is a common and potentially fatal manifestation of high-altitude illness. Patients will initially report dyspnea on exertion, fatigue with minimal effort, and possibly dry cough. As the disease progresses, dyspnea will occur at rest and coughing may produce clear, watery sputum. Tachypnea and hypoxia are late findings. The most effective and simplest treatment is immediate descent, though it may not be strictly necessary in mild cases. In severe cases, delaying descent may lead to serious morbidity or mortality.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-109]
+Q: A 34-year-old man presents to the emergency department with bilateral lower extremity paralysis. Symptoms started 30 minutes ago, approximately 2 hours after getting to shore after a SCUBA diving trip. Which of the following is the most likely diagnosis?
+A: Decompression syndrome
+EXPLANATION: Decompression syndrome (the bends) usually occurs up to 6 hours after ascent from diving and results from the expansion of inert gases that dissolve in tissues during descent. During descent, nitrogen in inspired air becomes pressurized according to Dalton law (the partial pressure of each component of a gas will increase proportionally with increasing ambient pressure) and dissolves in tissues. During ascent, this dissolved gas expands according to Boyle law (pressure and volume of a gas are inversely related at a constant temperature) and exits tissues in the form of bubbles.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-110]
+Q: A 5-year-old boy presents to the emergency department from a public lake. He slipped under the water while swimming and was rescued by lifeguards. He is intermittently coughing and is inconsolable. His HR is 150 bpm, BP is 90/60 mm Hg, RR is 35/min, and SpO2 is 92% on room air.
+A: Supplemental oxygen
+EXPLANATION: Fatal drowning results from apnea induced by loss of consciousness in the setting of hypoxemia. Before this occurs, patients typically panic, resulting in loss of normal breathing patterns, extreme physical exertion, aspiration of water, and bronchospasm. Patients who are rescued prior to the onset of apnea may still have injuries that can result in significant morbidity and mortality. Respiratory sequelae are the most common consequence of submersion injuries. Following nonfatal drowning, an increased rate and work of breathing, along with adventitious lung sounds, are almost universal and may or may not precede severe pulmonary edema.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-111]
+Q: A 32-year-old man with a history of asthma presents to the ED with chest pain. He says symptoms started shortly after he went scuba diving with friends. Radiograph is as shown above. Which of the following is the most likely cause of this patient’s condition?
+A: Ascent barotrauma
+EXPLANATION: The patient is presenting with pneumomediastinum as shown in the radiograph, likely caused by ascent barotrauma during scuba diving. Barotrauma is a common diving-related injury that occurs when an air-filled body space, such as the lungs, fails to equalize pressure with the surrounding environment during changes in ambient pressure. As a diver ascends, the decreasing ambient pressure leads to expansion of gas within the lungs. If the diver holds their breath or experiences air trapping (common in asthma or COPD), the expanding gas can cause alveolar overexpansion and rupture. This allows gas to track along the bronchovascular sheath into the mediastinum, resulting in pneumomediastinum.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-112]
+Q: What is the general mechanism of cold injury in chilblains?
+A: Exposure to damp nonfreezing temperature
+EXPLANATION: Chilblains, also known as pernio, results from repeated exposure to damp nonfreezing temperature. Women with Raynaud phenomenon are at especially increased risk. Damp climates, low body mass, inadequate clothing, and home heating are other risk factors. Symptoms are often delayed for 12–14 hours and include red pruritic lesions with burning paresthesias, commonly involving the dorsum of the hands and feet, the face, and the lower legs. Treatment includes rewarming, which may result in the formation of tender blue nodules. Some studies support the use of oral nifedipine for both prophylactic and therapeutic treatment of this kind of cold injury. Topical steroids can also be considered.
+
+### [ROSH | rosh-em-initial-2026-environmental-disorders-q-113]
+Q: A 17-year-old boy with no significant medical history develops a dry cough and progressive cyanosis even at rest while climbing Mount Denali, the highest peak in North America. He is a cross-country runner at his home in Chicago, and his only medication is prophylactic acetazolamide. He is found to have a temperature of 38°C. What is the most likely underlying cause of his symptoms?
+A: Pulmonary capillary leakage
+EXPLANATION: This patient likely has high altitude pulmonary edema, which is the most common cause of death related to high altitude and rarely occurs below 10,000 feet (3,000 meters). Hypoxemia leads to pulmonary vessel vasoconstriction and increased hydrostatic pressure resulting in pulmonary capillary leakage. At high altitude, the function of alveolar sodium channels is also decreased, which inhibits fluid clearance from the lungs. Patients initially present with symptoms similar to those of altitude sickness, such as tachypnea, tachycardia, and decreased exercise performance. However, patients also develop a dry cough and continue to experience symptoms even when resting.

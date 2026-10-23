@@ -1,0 +1,186 @@
+{
+  "guideId": "seg-unified-review-guide",
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "sample-sepsis",
+      "title": "Sepsis and Septic Shock",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Recognize infection with organ dysfunction or shock physiology using an early structured assessment.",
+        "Obtain appropriate cultures and investigations without delaying time-critical treatment or source control.",
+        "Use repeated perfusion, mental-status, respiratory, and urine-output assessment to guide resuscitation.",
+        "Escalate early when hypotension, rising lactate, respiratory failure, or deterioration persists."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "The trajectory and perfusion matter more than a single screening score."
+      ],
+      "examTraps": [
+        "Do not wait for a complete workup before treating a deteriorating patient."
+      ],
+      "arabicExplanation": "الإنتان حالة ديناميكية. ابحث عن خلل الأعضاء والتروية، ابدأ التقييم والعلاج مبكرًا، وأعد الفحص بعد كل تدخل مع معالجة مصدر العدوى.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-stroke",
+      "title": "Acute Stroke Assessment",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Establish the last-known-well time, glucose, airway and vital stability, anticoagulant exposure, and baseline function.",
+        "Use focused neurologic examination and urgent brain and vascular imaging according to the current local stroke pathway.",
+        "Consider reperfusion eligibility and hemorrhage management in parallel with supportive care and specialist activation.",
+        "Reassess for mimics such as hypoglycemia, seizure, migraine, toxicologic states, and systemic illness."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Time documentation changes treatment eligibility."
+      ],
+      "examTraps": [
+        "Do not label a deficit as a stroke without checking glucose and common mimics."
+      ],
+      "arabicExplanation": "الوقت عنصر علاجي. وثّق آخر وقت كان فيه المريض طبيعيًا، افحص السكر، فعّل مسار السكتة، واستبعد النزف والمقلدات بالتوازي.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-major-trauma",
+      "title": "Initial Evaluation of Major Trauma",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Use a team-based primary survey with immediate treatment of threats to airway, breathing, circulation, disability, and exposure.",
+        "Control catastrophic hemorrhage early and repeat the primary survey after every major intervention or change.",
+        "Use mechanism, physiology, examination, and focused imaging to select operative, interventional, or nonoperative pathways.",
+        "Coordinate transfer, blood products, specialist activation, analgesia, warming, and documentation as one resuscitation plan."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "A normal initial blood pressure does not exclude major hemorrhage."
+      ],
+      "examTraps": [
+        "Do not let a distracting injury delay the primary survey."
+      ],
+      "arabicExplanation": "في الرضوض الكبيرة ابدأ بالمسح الأولي وعالج النزف ومشكلات مجرى الهواء والتنفس فورًا. أعد المسح بعد كل تدخل ولا تسمح لإصابة ظاهرة أن تشتت الانتباه.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-toxicology",
+      "title": "Approach to the Poisoned Patient",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Stabilize the patient first and obtain a time-based exposure history, including formulation, amount, co-ingestants, and intent.",
+        "Use toxidrome recognition, glucose, temperature, ECG, acid-base status, and targeted levels to identify immediately dangerous patterns.",
+        "Contact a poison center or toxicology service early for agent-specific treatment and observation guidance.",
+        "Avoid routine decontamination or antidotes without a plausible indication and a benefit-risk assessment."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "The ECG is a core toxicology test in an undifferentiated ingestion."
+      ],
+      "examTraps": [
+        "Do not rely on a negative screening panel to exclude poisoning."
+      ],
+      "arabicExplanation": "ثبّت المريض أولًا ثم اجمع قصة التعرض بدقة. تخطيط القلب والسكر والحرارة والحماض تساعد في كشف السموم الخطرة، واستشر مركز السموم مبكرًا.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-abdominal-pain",
+      "title": "Acute Abdominal Pain",
+      "source": "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Start with hemodynamic stability, pain severity, pregnancy possibility, surgical history, medications, and red-flag features.",
+        "Keep time-critical diagnoses in the differential while using focused examination, laboratory tests, and imaging to answer specific questions.",
+        "Provide analgesia and antiemetic therapy while continuing diagnostic reassessment; symptom treatment does not remove the need to search for dangerous causes.",
+        "Choose disposition based on physiology, diagnostic certainty, response, social safety, and reliable follow-up."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Pain severity alone does not predict disease severity."
+      ],
+      "examTraps": [
+        "Do not dismiss serious disease because the initial examination is benign."
+      ],
+      "arabicExplanation": "ألم البطن يحتاج تقييم الاستقرار والحمل والعمليات السابقة وعلامات الخطر. أعطِ المسكنات مع استمرار البحث عن الأسباب الخطيرة وإعادة الفحص.",
+      "references": [
+        "Rosen & Barkin's 5-Minute Emergency Medicine Consult 5e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

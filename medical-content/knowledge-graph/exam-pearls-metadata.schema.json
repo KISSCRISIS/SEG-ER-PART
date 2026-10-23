@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/exam-pearls-metadata.schema.json",
+  "title": "SEG Exam Pearls Metadata",
+  "description": "Links one exam pearl to its canonical topicId.",
+  "type": "object",
+  "required": ["pearlId", "topicId", "category", "importance"],
+  "properties": {
+    "pearlId": { "type": "string", "pattern": "^PEARL_[A-Z0-9_]+$", "examples": ["PEARL_ACS_001"] },
+    "topicId": {
+      "type": "string",
+      "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$",
+      "description": "Must exist in medical-content/knowledge-graph/topic-registry.json",
+      "examples": ["EM_CARDIO_ACS"]
+    },
+    "category": { "enum": ["Management", "Diagnosis", "Resuscitation", "Pharmacology", "Disposition"] },
+    "importance": { "enum": ["Very High", "High", "Medium", "Low"] }
+  },
+  "additionalProperties": true
+}

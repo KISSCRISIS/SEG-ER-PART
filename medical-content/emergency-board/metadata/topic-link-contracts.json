@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "blueprintId": "JEM_BOARD_MASTER_V1",
+  "registryPath": "../topic-registry/topic-registry.json",
+  "joinKey": "topicId",
+  "purpose": "Metadata contracts for connecting Jordan EM Board canonical topicIds to SEG learning systems without importing or displaying the registry as user content.",
+  "connections": [
+    {
+      "target": "MCQ Metadata",
+      "joinKey": "topicId",
+      "relationship": "question.topicId -> emergency-board.topic-registry.topics[].topicId",
+      "status": "contract-ready-no-records-imported"
+    },
+    {
+      "target": "Algorithm Metadata",
+      "joinKey": "topicId",
+      "relationship": "algorithm.topicId -> emergency-board.topic-registry.topics[].topicId",
+      "status": "contract-ready-no-records-imported"
+    },
+    {
+      "target": "Exam Pearl Metadata",
+      "joinKey": "topicId",
+      "relationship": "examPearl.topicId -> emergency-board.topic-registry.topics[].topicId",
+      "status": "contract-ready-no-records-imported"
+    },
+    {
+      "target": "Table Metadata",
+      "joinKey": "topicId",
+      "relationship": "table.topicId -> emergency-board.topic-registry.topics[].topicId",
+      "status": "contract-ready-no-records-imported"
+    },
+    {
+      "target": "Study Plan Tasks",
+      "joinKey": "topicId",
+      "relationship": "studyPlanTask.topicId -> emergency-board.topic-registry.topics[].topicId",
+      "status": "contract-ready-no-records-imported"
+    },
+    {
+      "target": "Knowledge Graph",
+      "joinKey": "topicId",
+      "relationship": "knowledgeGraphNode.topicId -> emergency-board.topic-registry.topics[].topicId",
+      "status": "contract-ready-no-records-imported"
+    }
+  ],
+  "rules": {
+    "topicIdIsPrimaryKey": true,
+    "doNotCreateDuplicateTopics": true,
+    "doNotRenameExistingTopicIds": true,
+    "newTopicRequires": [
+      "unique topicId",
+      "evidence basis",
+      "review status"
+    ],
+    "unknownMappings": "needs-review",
+    "falseMappings": "not-allowed"
+  }
+}

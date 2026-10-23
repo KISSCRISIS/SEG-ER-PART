@@ -1,0 +1,120 @@
+# SEG Source Closure Tracker
+
+**Mode:** Evidence Management Only — Controlled Read-Only
+
+**Final status:** `SOURCE_GOVERNANCE_GAP_MATRIX_COMPLETE`
+
+## 1. Tracker rules
+
+This tracker records the current evidence state for the nine SEG source families. `OPEN` means the evidence required for closure is not present or not verified. `PARTIALLY_EVIDENCED` means some supporting evidence exists, but the governance gate remains open. `NOT_AVAILABLE` means the current evidence package contains no sufficient source-specific artifact or evidence. No row is a production record, mapping, normalized unit, database object, or approval decision.
+
+| Status | Meaning |
+|---|---|
+| `OPEN` | The required evidence is not closed and must be obtained or independently verified. |
+| `PARTIALLY_EVIDENCED` | Some file, checksum, structural, or recovery evidence exists, but it does not satisfy source-governance closure. |
+| `NOT_AVAILABLE` | No sufficient source-specific evidence is present in the reviewed packages. |
+| `CLOSED` | Not used in this tracker for governance gates; no source gap is closed by this task. |
+
+## 2. Closure tracker
+
+| Source | Gap ID | Status | Evidence Required | Evidence Present | Next Action | Dependency |
+|---|---|---|---|---|---|---|
+| OSCE Atlas Package | OSCE-A Identity (P0) | `PARTIALLY_EVIDENCED` | Canonical title, owner/publisher, author/editor, edition/version, date, and original locator | Recovered OSCE text, named ZIP, and 14-image family are identified; no complete authoritative identity envelope | Obtain owner/source citation and link it to the recovered container and text | Source owner / original package evidence |
+| OSCE Atlas Package | OSCE-B Provenance (P0) | `PARTIALLY_EVIDENCED` | Original → extraction → recovery → registry chain with event context and hashes | Recovery package, manifest, container SHA, text SHA, and per-PNG SHA inventory are verified | Obtain extraction and recovery event evidence and source-version linkage | Original source identity |
+| OSCE Atlas Package | OSCE-C Rights (P0) | `OPEN` | Rights holder, license/permission, display and derivative scope for text and PNGs | No source-specific rights/display permission package is verified | Request written rights evidence covering archive and visual members | Canonical identity and asset ownership |
+| OSCE Atlas Package | OSCE-D Medical Review (P0) | `OPEN` | Emergency-medicine/imaging reviewer, review scope, conflicts, decision, approval evidence | Visual readability notes exist; no clinical approval or conflict record | Assign reviewer and create a review decision package; do not approve automatically | Source identity, rights, station context |
+| OSCE Atlas Package | OSCE-E Professional Track (P1) | `OPEN` | Explicit Internship/Resident/Shared Core/Advanced decision with rationale | Provisional relevance to Internship/Resident is noted; no final decision | Obtain curriculum-owner and clinical-review track decision | Identity and medical review |
+| OSCE Atlas Package | OSCE-F Locators/Audit (P1) | `PARTIALLY_EVIDENCED` | Station/image/source-version locators and append-only intake, recovery, rights, review, and track events | Archive/member paths, hashes, and recovery observations exist; complete governance history does not | Capture exact station/image locators and missing audit events | Identity, provenance, rights, review |
+| OSCE Atlas Package | OSCE-G Accessibility (P2) | `OPEN` | Image-level alt text, accessibility, readability, contrast, and display suitability review | Two image readability observations and dimensions are recorded; no complete accessibility review | Conduct visual/accessibility QA after P0/P1 closure | Rights and medical review |
+| Drug HTML Artifact | DRUG-A Identity (P0) | `PARTIALLY_EVIDENCED` | Canonical title, publisher/owner, author/editor, edition/version, date, original locator | File `deepseek_html_20260615_a3266b.html`, SHA `5367711d...`, and structural review are recorded; authoritative source identity is absent | Obtain authoritative source envelope and tie it to the exact artifact SHA | Source owner / original locator |
+| Drug HTML Artifact | DRUG-B Provenance (P0) | `PARTIALLY_EVIDENCED` | Original source, extraction method/process, timestamp, input/output SHA, transformation boundary | Artifact fingerprint and HTML inspection exist; original source/extraction event is not fully documented | Obtain extraction-event evidence and source-version link | Canonical identity |
+| Drug HTML Artifact | DRUG-C Rights (P0) | `OPEN` | Rights/license evidence, permitted SEG use, restrictions, evidence locator | No confirmed permission or license is recorded | Obtain rights evidence for HTML and proposed derivative/display scope | Canonical identity |
+| Drug HTML Artifact | DRUG-D Medical Review (P0) | `OPEN` | Emergency-medicine/clinical-pharmacology reviewer, dose/interaction scope, conflicts, approval evidence | Structural review counted 47 entities and 19 sections; no medical approval | Assign reviewer and record clinical issue/decision evidence | Source identity and rights |
+| Drug HTML Artifact | DRUG-E Professional Track (P1) | `OPEN` | Explicit Shared Core/Internship/Resident/Advanced classification | Possible cross-track relevance is only provisional | Decide track from reviewed scope; preserve section-level uncertainty | Medical review and curriculum owner |
+| Drug HTML Artifact | DRUG-F Locators/Audit (P1) | `PARTIALLY_EVIDENCED` | Source-versioned section/entity locators and governance events | Structural sections/entities and SHA are recorded; complete source locators and governance events are absent | Capture authoritative section locators and event chain | Identity and provenance |
+| Drug HTML Artifact | DRUG-G Quality (P2) | `OPEN` | Completeness, readability, accessibility, and display-quality review | Counts are documented as observations only; no completeness validation | Run content/display QA after governance closure | Rights, medical review, source version |
+| Pretest Package | PRE-A Identity (P0) | `PARTIALLY_EVIDENCED` | Canonical Pretest title, owner/publisher, authors, edition/version, date, original locator | Recovered representations and prior registry identity are known; authoritative source identity is not closed | Obtain original `pretestnew` source identity and locator | Source restoration |
+| Pretest Package | PRE-B Provenance/Restoration (P0) | `PARTIALLY_EVIDENCED` | Original source, extraction event, restoration event, input/output hashes, affected-section declaration | `UPD811-007` SHA `b4ba8487...` matches the recovered representation; OCR/extraction corruption and original source remain unresolved | Restore/verify authoritative source and document the restoration chain without rewriting evidence silently | Original source availability |
+| Pretest Package | PRE-C Rights (P0) | `OPEN` | Rights holder, license/permission, display/derivative scope for each representation | No source-specific rights evidence is verified | Obtain rights evidence tied to each representation | Identity and representation relationship |
+| Pretest Package | PRE-D Medical Review (P0) | `OPEN` | Emergency-medicine/question-bank review of restored content, conflicts, and approval | Corruption concern is recorded; no independent clinical approval | Assign reviewer after restoration evidence is available | Restoration, identity, rights |
+| Pretest Package | PRE-E Professional Track (P1) | `OPEN` | Reviewed Internship/Resident/Shared Core/Advanced classification | No final track decision; source level cannot be inferred from name | Obtain curriculum and clinical-owner decision | Identity and medical review |
+| Pretest Package | PRE-F Locators/Audit (P1) | `PARTIALLY_EVIDENCED` | Separate representation lineage, precise source locators, restoration/review/rights/track events | Separate recovered artifacts and SHAs are present; complete locators and append-only events are absent | Preserve separate lineage and collect missing event evidence | Restoration and canonical identity |
+| Pretest Package | PRE-G Post-restoration QA (P2) | `OPEN` | OCR readability and completeness comparison against authoritative source | No authoritative comparison is available | Perform controlled QA only after restoration and review | Restored authoritative source |
+| 1400 Questions Package | Q1400-A Identity (P0) | `PARTIALLY_EVIDENCED` | Canonical title, owner/publisher, authors, edition/version, date, original locator for guide and Q&A representations | Two explicitly separate recovered representations and README evidence exist; canonical identity is open | Obtain source/owner evidence separately for both representations | Original source evidence |
+| 1400 Questions Package | Q1400-B Provenance (P0) | `PARTIALLY_EVIDENCED` | Original source, extraction events, recovery package/member paths, registry relationships | Separate ZIPs, README statements, and SHAs are verified; original/extraction chain is incomplete | Document source-to-recovery lineage for each representation | Canonical identity |
+| 1400 Questions Package | Q1400-C Rights (P0) | `OPEN` | Rights/license for study guide, questions, answers, explanations, display and derivative use | No confirmed rights package | Obtain representation-specific rights evidence | Identity and component scope |
+| 1400 Questions Package | Q1400-D Medical Review (P0) | `OPEN` | Emergency-medicine/question-bank reviewer, question/explanation scope, conflicts, approval | No clinical approval or completeness decision | Assign independent reviewer for each representation | Identity, rights, locators |
+| 1400 Questions Package | Q1400-E Professional Track (P1) | `OPEN` | Explicit Internship/Resident/Shared Core/Advanced classification | Track remains provisional; separation of representations does not decide level | Obtain curriculum-owner and clinical-review decision | Medical review and source scope |
+| 1400 Questions Package | Q1400-F Locators/Completeness/Audit (P1) | `PARTIALLY_EVIDENCED` | Precise question/source locators, completeness evidence, and append-only events | Structural markers, sizes, line counts, README separation, and SHAs exist; they do not validate governed completeness | Obtain edition-specific locators/completeness evidence and missing events | Canonical identity and medical review |
+| 1400 Questions Package | Q1400-G Representation QA (P2) | `OPEN` | Controlled comparison, readability, accessibility, and answer/explanation consistency | No governed comparison is closed | Perform QA after identity, rights, and medical gates | Rights and clinical review |
+| HIPPO High Yield | HIPHY-A Identity (P0) | `PARTIALLY_EVIDENCED` | Canonical title, publisher/owner, author/editor, edition/version, date, original locator | HIPPO HY family and SHA `fe9b1df0...` are registered; bibliographic identity is open | Obtain source-owned bibliographic evidence | Source owner / original locator |
+| HIPPO High Yield | HIPHY-B Provenance (P0) | `PARTIALLY_EVIDENCED` | Artifact-specific original/extraction/recovery/registry chain | Family-level registry evidence exists; full artifact event chain is absent | Attach exact path/SHA and extraction/recovery evidence | Canonical identity |
+| HIPPO High Yield | HIPHY-C Rights (P0) | `OPEN` | Permission/license and allowed display/derivative scope | Rights remain pending external evidence | Obtain rights-holder evidence | Identity |
+| HIPPO High Yield | HIPHY-D Medical Review (P0) | `OPEN` | Emergency-medicine reviewer, domain scope, conflicts, approval evidence | No closed clinical-review record | Assign reviewer and record decision package | Identity, rights, version |
+| HIPPO High Yield | HIPHY-E Professional Track (P1) | `OPEN` | Resident/Board Prep versus Advanced Reference decision and Internship separation | Provisional Resident/Advanced routing only | Record explicit reviewed track decision | Medical review and curriculum owner |
+| HIPPO High Yield | HIPHY-F Locators/Completeness/Audit (P1) | `OPEN` | Chapter/version locators, completeness evidence, and governance event chain | No source-versioned closure package | Obtain locators and append-only evidence events | Identity and version |
+| HIPPO High Yield | HIPHY-G Representation QA (P2) | `OPEN` | Comparison/readability/accessibility review of available representations | Representations are preserved but no governed quality decision exists | Run QA after P0/P1 closure | Rights and medical review |
+| HIPPO QBank | HIPQB-A Identity (P0) | `PARTIALLY_EVIDENCED` | QBank-specific title, owner/publisher, authors/editors, edition/version, date, original locator | HIPPO QBank is distinct and SHA `b9c1636f...` is registered; canonical identity is open | Obtain QBank-specific source evidence; do not infer from HIPPO HY | Source owner / original locator |
+| HIPPO QBank | HIPQB-B Provenance (P0) | `PARTIALLY_EVIDENCED` | Per-artifact original/extraction/recovery/registry chain | Separate family label and registry entry exist; complete event lineage is absent | Document exact artifact path/SHA and events | Canonical identity |
+| HIPPO QBank | HIPQB-C Rights (P0) | `OPEN` | Permission for questions, answers, explanations, display and derivative educational use | Rights are not confirmed | Obtain rights evidence with scope/restrictions | Identity |
+| HIPPO QBank | HIPQB-D Medical Review (P0) | `OPEN` | QBank reviewer for completeness, answer fidelity, explanation accuracy, current clinical correctness, conflicts, approval | No complete medical decision or conflict log | Assign reviewer and record review scope/decision | Identity, version, rights |
+| HIPPO QBank | HIPQB-E Professional Track (P1) | `OPEN` | Reviewed Resident/Board Prep or Advanced Reference classification | Provisional advanced/resident routing only | Record explicit track decision; keep separate from Internship | Medical review and curriculum owner |
+| HIPPO QBank | HIPQB-F Completeness/Locators/Audit (P1) | `OPEN` | Edition-specific completeness, precise question locators, and append-only events | Missing according to current governance closure | Obtain completeness/locator package and event evidence | Identity and medical review |
+| HIPPO QBank | HIPQB-G QBank QA (P2) | `OPEN` | Answer/explanation consistency, readability, and accessibility review | No governed QA closure | Perform after P0/P1 gates | Medical review and rights |
+| FRCEM Representations | FRCEM-A Identity (P0) | `PARTIALLY_EVIDENCED` | Canonical edition/volume, owner, author/editor, date, original locator per representation | Multiple representations and IDs (`UPD811-001/003/004/009/011`) and hashes are preserved; canonical edition is open | Obtain authoritative edition and representation identity evidence | Source owner / original locator |
+| FRCEM Representations | FRCEM-B Provenance (P0) | `PARTIALLY_EVIDENCED` | Original → extraction → recovery → registry chain per representation | Duplicate/representation lineage is recorded; full source/extraction chain is incomplete | Link each representation to source, event, recovery artifact, and exact SHA | Canonical identity |
+| FRCEM Representations | FRCEM-C Rights (P0) | `OPEN` | Rights/license evidence for every representation and proposed SEG use | No rights gate is closed | Obtain representation-specific rights evidence | Identity and representation scope |
+| FRCEM Representations | FRCEM-D Medical Review (P0) | `OPEN` | Emergency-medicine/examination reviewer, domain coverage, conflicts, approval evidence | No clinical/examination approval record | Assign reviewer and record decision per representation/family | Identity, version, rights |
+| FRCEM Representations | FRCEM-E Professional Track (P1) | `OPEN` | Resident/Board Prep and Advanced Reference routing, separated from Internship | Provisional advanced/resident candidate only | Record reviewed track decision | Medical review and curriculum owner |
+| FRCEM Representations | FRCEM-F Duplicate/Locator/Audit (P1) | `PARTIALLY_EVIDENCED` | Comparison method, canonical/representation decision, precise locators, and event chain | Duplicate relationships and separate hashes are recorded; decision evidence is not closed | Preserve all files and obtain reviewer decision/evidence | Identity and source comparison |
+| FRCEM Representations | FRCEM-G Representation QA (P2) | `OPEN` | Controlled cross-representation comparison and publication-quality review | No governed quality decision | Run only after identity, rights, and review closure | Rights and medical review |
+| Oxford Reference | OXF-A Identity (P0) | `PARTIALLY_EVIDENCED` | Official title, ISBN/equivalent, publisher/imprint, edition, date, author/editor, original locator | `UPD811-008` and SHA `353219418d...` are registered; official Oxford identity is not closed and local metadata is insufficient | Obtain official bibliographic record and match exact artifact | Publisher/source owner |
+| Oxford Reference | OXF-B Provenance (P0) | `PARTIALLY_EVIDENCED` | Original/extraction/recovery/registry chain with artifact SHA | Representation-level registry evidence exists; full chain is absent | Record source, extraction, recovery, and registry relationships | Official identity |
+| Oxford Reference | OXF-C Rights (P0) | `OPEN` | Oxford/publisher permission/license and display/derivative scope | Rights remain pending/unknown | Obtain rights evidence and restrictions | Official identity |
+| Oxford Reference | OXF-D Medical Review (P0) | `OPEN` | Emergency-medicine/source-verification review, conflicts, approval evidence | No final medical review | Assign reviewer and record decision | Official edition and rights |
+| Oxford Reference | OXF-E Professional Track (P1) | `OPEN` | Evidence-based Shared Core/Internship/Resident/Advanced classification | Exact title/scope and pathway are unresolved | Decide track after identity and clinical review | Identity and medical review |
+| Oxford Reference | OXF-F Locators/Audit (P1) | `OPEN` | Official edition/page/chapter locators and append-only governance events | No closed source-versioned locator/audit package | Obtain locators and missing events | Official identity and provenance |
+| Oxford Reference | OXF-G Representation QA (P2) | `OPEN` | Readability, accessibility, and display review | No governed publication-quality decision | Perform after governance closure | Rights and medical review |
+| Clinical Images | CIMG-A Inventory/Identity (P0) | `NOT_AVAILABLE` | Source collection/title, owner, creator, edition/version/date, original locator, and image inventory | No source-specific artifact inventory or canonical identity is present | Recover/obtain the collection inventory and authoritative origin evidence | Source owner / original assets |
+| Clinical Images | CIMG-B Provenance (P0) | `NOT_AVAILABLE` | Per-image or collection-level original → extraction → recovery → registry chain and hashes | No source-specific recovery chain or per-file hash package | Obtain original assets, extraction/recovery evidence, and per-file hashes | Artifact inventory |
+| Clinical Images | CIMG-C Rights/Privacy (P0) | `NOT_AVAILABLE` | Rights holder, consent where applicable, license/display/derivative scope, restrictions, privacy/de-identification evidence | No Clinical Images rights or privacy evidence | Obtain rights/consent/privacy package before any use | Identity and assets |
+| Clinical Images | CIMG-D Medical Review (P0) | `NOT_AVAILABLE` | Imaging/emergency-medicine reviewer, diagnostic/educational scope, conflicts, approval evidence | No image-level or collection-level clinical review package | Assign reviewer after source and rights evidence are available | Identity, rights, provenance |
+| Clinical Images | CIMG-E Professional Track (P1) | `NOT_AVAILABLE` | Explicit Internship/Resident/Shared Core/Advanced classification | No evidence-supported routing | Decide track only after identity, rights, and medical review | Medical review and curriculum owner |
+| Clinical Images | CIMG-F Locators/Audit (P1) | `NOT_AVAILABLE` | Image-level source locators and intake/hash/rights/privacy/medical/visual/track events | No source-specific audit trail | Create evidence-only closure package once assets are recovered | Inventory, provenance, rights |
+| Clinical Images | CIMG-G Accessibility (P2) | `NOT_AVAILABLE` | Image-level alt text, accessibility, readability, and display suitability | No image inventory means no image-level review can be performed | Perform after image recovery and P0/P1 closure | Assets, rights, medical review |
+
+## 3. Current closure summary
+
+| Source family | Current closure state | Highest open blocker | Next allowed action |
+|---|---|---|---|
+| OSCE Atlas Package | `PARTIALLY_RECOVERED / BLOCKED_PENDING_GOVERNANCE_CLOSURE` | Identity, rights, medical review, track, and complete lineage | Targeted external-evidence acquisition and reviewer assignment |
+| Drug HTML Artifact | `REVIEW_REQUIRED / BLOCKED` | Source envelope, rights, and medical review | Obtain authoritative source and governance evidence |
+| Pretest Package | `RECOVERED_REPRESENTATION_CONFIRMED / BLOCKED_PENDING_SOURCE_RESTORATION_AND_GOVERNANCE_CLOSURE` | Authoritative restoration and clinical review | Recover/verify original source; preserve separate representations |
+| 1400 Questions Package | `RECOVERED_ARTIFACTS_PRESENT / BLOCKED_PENDING_SOURCE_METADATA_AND_GOVERNANCE_REVIEW` | Identity, rights, locators, and medical review | Close each representation independently |
+| HIPPO High Yield | `REGISTERED_INTAKE / BLOCKED` | Identity, rights, and clinical review | Obtain source-specific evidence |
+| HIPPO QBank | `REGISTERED_INTAKE / BLOCKED` | QBank identity, completeness, rights, and clinical review | Obtain QBank-specific evidence |
+| FRCEM Representations | `MULTIPLE_REPRESENTATIONS_REGISTERED / BLOCKED` | Canonical edition, rights, and clinical review | Resolve representation evidence without merge/delete |
+| Oxford Reference | `REGISTERED_REPRESENTATION / BLOCKED` | Official identity and rights | Verify Oxford bibliographic and rights evidence |
+| Clinical Images | `BLOCKED_PENDING_ARTIFACT_INVENTORY` | No inventory, identity, rights, provenance, or review | Recover source-specific image package |
+
+## 4. Stop conditions and non-actions
+
+This tracker does not authorize normalization, Zod or Prisma mapping, SQL, migration, database writes, import, seed, Atlas record creation, N:M link creation, activation, publication, learner exposure, source deletion, source renaming, source merging, or content rewriting. Recovered OSCE files are not substitutes for the separate Clinical Images family. Separate 1400q and Pretest representations remain separate until an authorized evidence comparison establishes their relationship.
+
+The next allowed phase is **targeted evidence acquisition and governed reviewer assignment**. A later readiness decision must be made source by source and must not be inferred from package integrity, file hashes, structural counts, or visual readability notes alone.
+
+## 5. Final status
+
+**`SOURCE_GOVERNANCE_GAP_MATRIX_COMPLETE`**
+
+The closure tracker is complete as an evidence-management artifact. No governance gate is represented as closed by this task.
+
+## References
+
+[1]: file:///home/ubuntu/seg-internship-output/SEG_SOURCE_REGISTRY_GOVERNANCE_CLOSURE_REPORT.md "SEG Source Registry Governance Closure Report"
+[2]: file:///home/ubuntu/seg-internship-output/SEG_SOURCE_EVIDENCE_RECOVERY_VALIDATION_REPORT.md "SEG Source Evidence Recovery Validation Report"
+[3]: file:///home/ubuntu/seg-internship-output/SEG_PHASE_7_8_11_UPDATED_SOURCE_REGISTRY.md "SEG Phase 7.8.11 Updated Source Registry"
+[4]: file:///home/ubuntu/seg-internship-output/SEG_DRUG_HTML_SOURCE_REVIEW.md "SEG Drug HTML Source Review"
+[5]: file:///home/ubuntu/skills/seg-metadata-source-mapper/SKILL.md "SEG Metadata Source Mapper Governance Rules"
+[6]: file:///home/ubuntu/skills/seg-content-qa/SKILL.md "SEG Content QA Governance Rules"
+[7]: file:///home/ubuntu/skills/seg-project-continuity/SKILL.md "SEG Project Continuity Governance Rules"

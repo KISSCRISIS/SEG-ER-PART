@@ -1,0 +1,13 @@
+{
+  "auditVersion": "1.1.0",
+  "packageRoot": "D:\\final alaa seg\\المرفوع نهائي\\webdev-static-assets\\SEG_FINAL_PACKAGE",
+  "blocked": true,
+  "reason": "Configured final-package root does not exist; provide SEG_FINAL_PACKAGE_ROOT or restore the external package.",
+  "summary": {
+    "requiredDirectoriesPresent": false,
+    "localAssetFailures": 0,
+    "remoteAssetFailures": 0,
+    "declaredPathFailures": 0,
+    "contentDataBlocked": true
+  }
+}

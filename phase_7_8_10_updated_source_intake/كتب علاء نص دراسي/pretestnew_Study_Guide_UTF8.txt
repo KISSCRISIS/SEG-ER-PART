@@ -1,0 +1,1349 @@
+================================================================================
+PRETESTNEW.PDF — TEXT-ONLY STUDY GUIDE
+FILE: pretestnew_Study_Guide_UTF8.txt
+================================================================================
+
+================================================================================
+CHAPTER: Chest Pain and Cardiac Dysrhythmias
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The p tient ost likely h s pul on ry e bolis (PE) origin ting fro thro bus in her left c lf.
+- The di gnosis of PE is usu lly de with CT ngiogr or less co only ventil tion-perfusion sc n perfor ed in nucle r edicine.
+- The ost co on ECG bnor lities in the setting of PE re sinus tachycardia and nonspecific ST-T–wave abnor- malities.
+- The use of fibrinolytic therapy (ie, t-PA) in PE is reserved ostly for p tients with massive PE and hemodynamic collapse.
+- M ssive PE is defined s n e bolus with sustained hypotension or hypo- tension requiring inotropic support.
+- Other c uses of hypotension ust be excluded.
+- Atrial fibrillation (AF) is rhyth disturb nce of the tri th t results in irregul r nd ch otic ventricul r conduction.
+- This irreg- ul r electric l ctivity c n le d to reduced c rdi c output fro loss of coor- din ted tri l contr ctions nd r pid ventricul r r te, both of which y li it di stolic filling nd stroke volu e of the ventricles.
+- Atri l fibrill tion y be chronic or p roxys l (sudden onset l sting inutes to d ys).
+- P tients with end-st ge ren l dise se, who require di lysis, re prone to electrolyte disturb nces.
+- This p tient’s clinic l picture Chest Pain and Cardiac Dysrhythmias Answers 21 is consistent with hyperkalemia.
+- The ECG c n provide v lu ble clues to the presence of hyperk le i .
+- The p tient h s primary spontaneous pneumotho- rax (PTX), which occurs in individu ls without clinic lly pp rent lung dise se.
+- In contr st, second ry spont neous pneu othor x occurs in indi- vidu ls with underlying lung dise se, especi lly chronic obstructive pul o- n ry dise se (COPD).
+- For otherwise he lthy, young p tients with s ll pri ry spont neous PTX (<20% of the he ithor x), observ tion lone is ppropri te.
+- Esophageal perforation (Boerh ve syndro e) is potenti lly life-thre tening condition th t c n result fro ny V ls lv -like neuver, including childbirth, vo iting or retching, coughing, nd he vy 22 Emergency Medicine lifting.
+- The ost co on c use of esoph ge l perfor tion is i trogenic, such s co plic tion fro upper endoscopy.
+- The cl ssic physic l ex - in tion finding is mediastinal or cervical emphysema.
+- The p tient’s clinic l picture of chronic hypertension, cute-onset te ring chest p in, di stolic ur ur of ortic insufficiency, nd chest x-r y with widened edi stinu is consistent with n aortic dissection.
+- The preferred study of choice is TEE, which is highly sensi- tive.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- It c n be quickly perfor ed t the bedside nd does not require r di - tion or contr st.
+- The incidence of endocarditis in the intravenous drug user (IVDU) is esti ted to be 40 ti es th t of the gener l popul tion.
+- Unlike the gener l popul tion, endoc rditis in IVDUs is typic lly right- sided with the jority of c ses involving the tricuspid valve.
+- P tients with IVDU-rel ted endoc rditis usu lly h ve no evidence of prior v lve d ge.
+- The st nd rd 12-le d ECG identifies p tients h ving n cute STEMI upon present tion in the ED.
+- It is i port nt to identify the 24 Emergency Medicine n to ic loc tion of n cute MI to esti te the ount of end ngered yoc rdiu .
+- The right coron ry rtery (RCA) supplies the AV node nd inferior w ll of the left ventricle in 90% of p tients.
+- WPW syndrome is c used by n accessory elec- trical pathway (ie, bundle of Kent) between the tri nd ventricles.
+- The pri ry signific nce of WPW syndro e is th t it predisposes the individu l to the develop ent of reentry t chyc rdi s.
+- The cl ssic ECG findings include short PR interval (<120 milliseconds), widened QRS interval (>100 milliseconds), nd delta wave (slurred upstroke t the beginning of the QRS).
+- The p tient ost likely h s partial or complete obstruction in his lower esophagus second ry to the ste k he consu ed.
+- This ost co only occurs ne r the gastroesophageal junction.
+- Ad in- istr tion of glucagon y c use enough relaxation of the esophageal smooth muscle in the lower esoph ge l sphincter to llow p ss ge of the bolus.
+- Thro bolytic ther py c n be d inistered to p tients h ving n cute STEMI th t is within 12 hours fro sy pto onset.
+- Con- tr indic tions to fibrinolytic ther py re those th t incre se the risk of he - orrh ge.
+- The ost c t strophic co plic tion is intr cr ni l he orrh ge.
+- This p tient is hypotensive, exhibiting signs nd sy pto s of cute he rt f ilure (dyspne , f tigue, respir tory cr ckles, nd chest p in) nd is in tri l fibrill tion (irregul r, n rrow co plex).
+- Any p tient with unstable vital signs with t chydysrhyth i should receive dose of sed tion nd undergo synchronized cardioversion st rt- ing t 100 J.
+- Dilti ze (a), CCB, is used s r te-control gent for p tients in tri l fibrill tion.
+- This p tient h s decompensated CHF with pulmo- nary edema.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: E.
+- Correct clinical focus: B.
+- Correct clinical focus: A.
+- Correct clinical focus: D.
+- Correct clinical focus: C.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Shortness of Breath
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The patient has angi edema, a rare, but significant si e effect f angi tensin-c nverting enzyme inhibit rs (ACE-I).
+- This type f angi e ema is usually limite t the lips, t ngue, and face an is frequently asymmetric.
+- In m re severe cases, the pharyngeal r laryngeal structures can bec me inv lve , inclu ing the uvula an t ngue.
+- One f the curi us things ab ut ACE-I–in uce angi e ema is that it can ccur at any p int in the c urse f a pers n tak- ing this medicati n.
+- This is unlike a true type I hypersensitivity reacti n which ccurs imme iately after exp sure t the allergen.
+- The typical treatments f r allergic reacti ns use in emergency practice are n t effective against angi e ema.
+- The patient has a c nfirmed ven us thr mb sis an has sympt ms c nsistent with a pulm nary thr mb emb lism.
+- Data n w sh w that alm st every eep ven us thr mb sis (DVT) emb lizes t s me extent.
+- The presence f a PE in this patient can be presumed by a 51 52 Emergency Medicine c nfirmed DVT with pulm nary sympt ms.
+- A sp ntane us pneum th rax typically presents with ipsilateral pleuritic chest pain an yspnea while at rest.
+- Physical fin ings ten t c rrelate with the egree f sympt ms.
+- Mil tachycar ia, decreased breath s unds t auscultati n, r hyperres nance t percussi n are the m st c mm n fin ings.
+- The use f be si e p int- f-care ultras un in the ED has expan e t inclu e th racic imaging.
+- It is helpful in evaluating the lung parenchyma f r excess flui an c ns li ati n an als in the i enti- ficati n f a pneum th rax.
+- F r the evaluati n f pneum th rax, the high frequency pr be is place n the chest wall.
+- In the hist ry there are etails that lea y u t suspect PE— besity, recent travel, pr gressive yspnea espite inhaler treatment, an bl -streake sputum.
+- Objectively, her ECG sh ws right-heart strain (large R waves an inverte T waves in the prec r ial lea s V1–V3), which is because f the heart beating against the high resistance f the pulm nary vasculature causing back fl w, resulting in right ventricular enlargement.
+- There are several classic ECG fin ings in PE as sh wn in the figure.
+- This patient is suffering fr m an acute asthma exacerbati n.
+- This is a reversible br nch spasm initiate by a variety f envir nmental fact rs that pr uce a narr wing an inflammati n f the br nchial airways.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- The first-line treatment in r er t pen the airways inclu es a aer s lize β2-ag nist, which acts t ecrease br nch spasm f the sm th muscle.
+- Pleural effusi ns are m st easily etecte n a lateral decubitus film with the affected side d wn.
+- In this scenari this w ul be the patient’s left si e, n t the right (b).
+- Accumulati ns f 5 t 50 mL f flui can be etecte with this view.
+- The singed nares seen in this patient sh ul give y u a clue t the p ssibility f severe thermal burns.
+- Alth ugh there is minimal external inv lvement, amage fr m the heat may exten eep int the pul- m nary system thr ugh inspirati n.
+- This results in a severe inflammat ry reacti n causing pneum nitis.
+- This patient arrives in respirat ry istress.
+- In the set- ting f structural fires, there is always c ncern that the patient has eeper injuries n t visualize externally.
+- In this case, the patient has singed nasal hairs suggesting burns insi e.
+- Pulm nary edema can be ivi e int car i genic an n ncar i genic.
+- Car i genic varieties are c mm nly seen in the ED an are usually a result f high hy r static pressures.
+- It is seen in patients with MI r ischemia, car i my pathies, valvular heart isease, an hyper- tensive emergencies.
+- L pneumophila is an intracellular rganism that lives in aquatic envir nments.
+- The rganism may live in r inary tap water an has pr bably been un er iagn se in a number f c mmunity utbreaks.
+- It is typically seen in the el erly an immun c mpr mise .
+- Legionella pneum nia is ifferent than ther causes f pneum nia because it has characteristic lab rat ry fin ings.
+- These inclu e hyp natremia an elevated liver functi n tests.
+- Clinically patients will als frequently have gastr intestinal relate sympt ms like v miting an iarrhea when they have an active infecti n.
+- PCP is a c mm n pp rtunistic infecti n in the HIV/AIDS p pulati n.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: D.
+- Correct clinical focus: C.
+- Correct clinical focus: A.
+- Correct clinical focus: E.
+- Correct clinical focus: B.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Abdominal and Pelvic Pain
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- This patient has mesenteric ischemia secondary to a thromboembolism from atrial fibrillation.
+- The classic presentation of acute mesenteric ischemia is sudden onset of poorly localized abdomi- nal pain in an individual with underlying cardiac disease.
+- Arterial emboli are the most common cause of acute mesenteric ischemia, responsible for approximately 50% of cases.
+- The patient’s presentation is consistent with alco- holic ketoacidosis (AKA).
+- This is an acute metabolic acidosis that occurs in chronic alcohol abusers with a recent alcohol binge, little or no recent food intake, and persistent vomiting.
+- AKA is characterized by elevated serum ketone levels and an elevated anion gap (↑ AG = Na – [HCO3 + Cl] > 12).
+- The patient has developed alcohol withdrawal.
+- Symptoms of alcohol withdrawal usually begin within 24 hours of cessa- tion of alcohol and subside after 2 to 3 days.
+- Symptoms of alcohol with- drawal run a spectrum of severity ranging from mild symptoms (ie, anxiety and sleep disturbance) to more severe (ie, agitation, diaphoresis, tremor, nausea and vomiting, hallucinations, seizures, and autonomic instability).
+- The patient’s history and physical examination is con- sistent with acute cholecystitis.
+- Because of the poor predictive value of the Abdominal and Pelvic Pain Answers 85 history, physical, and laboratory findings in cholecystitis, the most impor- tant initial imaging test is right upper quadrant ultrasound.
+- Ultrasound findings suggestive of acute cholecystitis include gallstones, gallbladder wall thickening and distention, and pericholecystic fluid.
+- The patient’s history of colicky flank pain that radiates to the groin and hematuria is consistent with a ureteral stone.
+- Adequate analgesia is critical in treating a patient with a ureteral stone.
+- Intravenous ketorolac (a NSAID), is frequently administered as a first-line analgesic, but morphine or other opioids may be necessary for continued pain.
+- The patient’s presentation is very concerning for a ruptured AAA.
+- The classic triad of a ruptured AAA is flank, abdomen, or back pain, hypotension, and a pulsatile abdominal mass.
+- Sometimes patients have only one or two of the components and occasionally may have none.
+- The patient presentation is suggestive of a SBO.
+- Symptoms of SBO include colicky abdominal pain, vomiting, abdomi- nal distention, hyperactive bowel sounds, and decreased flatus.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- The most common cause of SBO is postoperative adhesions, responsible for more than 50% of all SBO.
+- The patient’s clinical presentation is consistent with alcoholic hepatitis, which is a potentially severe form of alcohol-induced liver disease.
+- The presentation can range from nausea and vomiting to fulminant hepatitis and liver failure.
+- Laboratory tests may reveal moder- ate elevations of AST and ALT.
+- This patient with known liver disease has sponta- neous bacterial peritonitis (SBP).
+- Diagnostic criteria for SBP include an ascitic fluid neutrophil count greater than 250 cells/mm3.
+- Pathogens Abdominal and Pelvic Pain Answers 87 associated with SBP include gram-negative rods like E coli and Klebsiella, as well as Streptococcus sp, and Streptococcus pneumoniae.
+- This presentation of sudden onset severe testicular pain, a swollen tender testicle, and absent cremasteric reflex is very con- cerning for testicular torsion.
+- Testicular torsion is a urologic emergency that occurs when the spermatic cord suspending the testicle twists, result- ing in ischemia to the testicle.
+- Urology should be consulted immediately and a stat doppler ultrasound ordered while awaiting urology evaluation.
+- Prompt diagnosis and treatment of testicular torsion is paramount in saving the testicle.
+- If the torsion is reduced within 6 hours, either with manual detorsion or via surgical intervention, there is a 90% chance of salvaging the testicle.
+- After 12 hours the rate of salvage drops to 50%, and after 24 hours, it drops to 10%.
+- Appendicitis is the most common cause of the acute surgical abdomen.
+- It can occur at any age but is most frequently seen in adolescents and young adults.
+- The classic presentation is the onset of dull periumbilical pain, which eventually migrates to the RLQ.
+- The patient’s clinical picture is concerning for ovarian torsion.
+- Ovarian torsion occurs when the ovary twists on its stalk, lead- ing to obstruction of venous drainage, edema, and eventual ischemia.
+- Most cases of ovarian torsion occur in the presence of an enlarged ovary, due to cyst, tumor, or abscess.
+- The patient has pneumoperitoneum.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: D.
+- Correct clinical focus: E.
+- Correct clinical focus: A.
+- Correct clinical focus: B.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Trauma, Shock, and Resuscitation
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The patient sustained a cerebral concussion.
+- This is caused by a head injury leading to a brief loss of neurologic function.
+- These individuals are often amnestic to the event and frequently ask the same questions over and over again (perseveration).
+- Blunt cardiac injury usually results from high-speed vehicular collisions in which the chest wall strikes the steering wheel.
+- Although all forms are associated with potentially fatal complications, they should be viewed clinically as a continuous spectrum of myocardial dam- age: concussion (no permanent cell damage), contusion (permanent cell damage), infarction (cell death), tamponade (bleeding into the pericar- dium), and rupture (exsanguination).
+- The mechanism of injury in a car- diac contusion involves a high-speed deceleration, which causes the heart 124 Trauma, Shock, and Resuscitation Answers 125 to move forward, forcibly striking the sternum.
+- Hypovolemia secondary to hemorrhage is the most common cause of shock in the trauma patient.
+- The earliest signs of hemorrhagic shock are tachycardia and cutaneous vasoconstriction.
+- The amount of blood loss present can be estimated based on the individual’s initial clinical presentation.
+- Spearing (hitting another player with the crown of the helmet) generates an axial loading force that is transmitted through the occipital condyles to the superior articular surfaces of the lateral masses of the first cervical vertebra (C1).
+- This fracture is commonly referred to as a Jefferson fracture described as a C1 burst fracture.
+- It is considered an unstable fracture and 40% have associated C fractures.
+- The vignette describes a traumatic arrest after penetrating chest trauma.
+- ED thoracotomy is the indicated therapeutic approach to the penetrating trauma patient who has a witnessed loss of vital signs en route to the ED or in the ED.
+- The most likely cause in this vignette is cardiac tamponade, which occurs in approximately % of anterior penetrating chest traumas.
+- The patient has an avulsed tooth, which is a den- tal emergency.
+- Avulsed permanent teeth require prompt intervention.
+- The best environment for an avulsed tooth is its own socket.
+- The GCS score, as shown later, may be used as a tool for classifying head injury and is an objective method for following a patient’s neurologic status.
+- The GCS assesses a person’s eye, verbal, and motor responsiveness.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- Although the GCS was originally developed to assess head trauma at 6 hours post-injury, it is commonly used in the acute presentation.
+- Simple rib fractures are the most common form of significant chest injury.
+- Ribs usually break at the point of impact or at the posterior angle, which is structurally the weakest point.
+- The fourth through ninth ribs are most commonly involved.
+- A PTX can be divided into three classifications— simple, communicating, and tension.
+- A simple PTX occurs when there is no communication with the atmosphere or shift of the mediastinum and results from the accumulation of air within the pleural cavity.
+- Communi- cating PTX is associated with a defect in the chest wall and is sometimes referred to as a “sucking chest wound.” A tension PTX occurs when air enters the pleural cavity on inspiration, but cannot exit, leading to com- pression of the vena cava and subsequently decreased cardiac output and hypotension.
+- Brown-Séquard syndrome or hemisection of the spinal cord typically results from penetrating trauma, such as a gunshot or knife wound.
+- Patients with this lesion have ipsilateral motor paralysis and contralateral loss of pain and temperature below the level of the injury.
+- This syndrome has the best prognosis for recovery of all of the incomplete spinal cord lesions.
+- Head injury severity is assessed by the mechanism of injury and the initial neurologic examination.
+- Although the GCS is cur- rently used in multiple settings, it was initially developed for the clinical evaluation of hemodynamically stable, adequately oxygenated trauma patients with isolated head trauma.
+- A score of 14 to 15 is associated with minor head injury, 9 to 13 with moderate head injury, and 8 or less with severe head injury.
+- Owing to its lack of bony protection, the neck is especially vulnerable to severe, life-threatening injuries.
+- Neck trauma is caused by three major mechanisms—penetrating trauma, blunt trauma, and strangulation.
+- All of these mechanisms can affect the airway, diges- tive tract, vascular, and neurologic systems.
+- The Hangman fracture, or traumatic spondyloly- sis of C2, occurs when the head is thrown into extreme hyperextension because of abrupt deceleration, resulting in bilateral fractures of the C pedicles.
+- This is considered an unstable cervical spine fracture.
+- The name “hangman fracture” was derived from judicial hangings where the knot 134 Emergency Medicine of the noose was placed under the chin, which caused extreme hyperex- tension of the head on the neck, resulting in a fracture at C .
+- The base of the skull base comprises the floors of the anterior, middle, and posterior cranial fossae.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: A.
+- Correct clinical focus: B.
+- Correct clinical focus: D.
+- Correct clinical focus: C.
+- Correct clinical focus: E.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Fever
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- Epidural abscesses are m st c mm nly f und in immunocompromised patients (ie, diabetics), IV drug users, and the elderly.
+- Signs and sympt ms f epidural abscess usually de el p er 1 t 2 weeks and include fe er, l calized pain, and pr gressi e weakness.
+- An ele ated WBC c unt is als c mm nly seen.
+- The treatment f r sepsis has e l ed c nsider- ably er the past 10+ years with emphasis n the early rec gniti n and aggressi e therapy.
+- This appr ach is kn wn as early goal-directed therapy (EGDT).
+- EGDT emphasizes early rec gniti n f patients with p tential sepsis in the ED, early br ad-spectrum antibi tics, and a rapid crystal- l id fluid b lus, f ll wed by g al-directed therapy f r th se patients wh 173 174 Emergency Medicine remain hyp tensi e r se erely ill after this initial therapy.
+- Vas press r therapy (a) sh uld be started after the patient recei es a t tal f 2 t 3 L f IV n rmal saline fluid b luses and remains hyp tensi e with a mean arterial pressure (MAP) f less than 65 mm Hg in rder t impr e BP and end- rgan/tissue perfusi n.
+- Norepinephrine is the vasopressor of choice in septic shock.
+- Packed RBCs (b) can be transfused if there is e idence f p r xygen deli ery t the tissues and if the hem gl bin is less than 7; h we er, that is n t the case in this patient and s bl d is n t indicated at this time.
+- Fournier syndrome (als kn wn as Fournier gan- grene) is a polymicrobial necrotizing fasciitis f the perineal subcuta- neous tissue that riginates fr m the skin, urethra, r rectum.
+- It is m re c mm n in male patients and usually begins as a simple abscess r benign infecti n that quickly spreads, especially in an immun c mpr mised patient (ie, diabetic).
+- If n t pr mptly diagn sed, it can lead t end-artery thr mb sis in the subcutane us tissue and widespread necr sis.
+- This patient is exhibiting the c mm n signs and sympt ms f septic arthritis, an infecti n f a j int space, m st c mm nly the knee, f ll wed by the hip, sh ulder, and wrist.
+- Preexisting arthritis (ie, ste arthritis r rheumat id arthritis), immun c mpr mised states (ie, alc h lism, diabetes, r cancer), and risky sexual beha i r are risk fac- t rs f r the de el pment f septic arthritis.
+- Patients present with a warm, tender, erythemat us, sw llen j int and pain with passi e range f m ti n.
+- In septic arthritis, the syn ial fluid is typically cl udy, has a high WBC (> 50,000 WBC/mm), a predominance of PMNs, and a low glucose when c mpared t serum.
+- In this questi n, the fluid that is turbid in appearance has a WBC > 50,000 per mm with 90% PMNs and a l w gluc se le el.
+- The f ll wing table dem nstrates what the syn ial fluid fr m arthr - centesis sh uld l k like f r ari us j int pr blems.
+- This patient has thrombotic thrombocytopenic purpura (TTP), caused by increased platelet destructi n.
+- In TTP, platelet- fibrin thr mbi dep sit in essel and cause injury t RBCs and platelets, resulting in micr angi pathy hem lytic anemia and thr mb cyt penia.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- Patients tend t be females wh are 10 t 45 years f age.
+- This patient suffers fr m toxic shock syndrome (TSS), a t xin-mediated systemic inflammat ry resp nse that results in se ere, rapidly pr gressi e, life-threatening high fe ers, diffuse macular erythr derma, pr f und hyp tensi n, desquamati n, and multisystem dysfuncti n (including miting r diarrhea, se ere myalgias, muc us membrane hyperemia, renal r hepatic dysfuncti n, decreased platelets, and dis rientati n).
+- TSS was initially rec gnized as a disease f y ung, healthy, menstruating w men, in which tamp n use increased the risk 33 times.
+- With increased awareness and changes in tamp n c mp siti n, cases f TSS ha e declined er the past 20 years.
+- The treatment f ch ice f r t xic sh ck syn- dr me is clindamycin gi en that it is effecti e against rapidly pr liferating Staphylococcus and Streptococcus species.
+- Other antibi tics may be added gi en that there are s me anaer bic species that can c ntribute t t xic sh ck syndr me.
+- Clindamycin w rks against the rapidly pr liferating Staphylococ- cus and Streptococcus ariants that m st ften cause t xic sh ck syndr me.
+- Osteomyelitis is an infecti n r inflammati n f a b ne with an incidence f ll wing plantar puncture w unds f 0.1% t 2%.
+- Pain, swelling, fe er, redness, and drainage may all ccur, but pain is the presenting c mplaint in m st cases.
+- Risk fact rs include trauma, sur- gery, s ft tissue infecti ns, and being immun c mpr mised (ie, HIV, dia- betes, IVDA, sickle-cell disease, and/ r alc h lism).
+- HCAP is defined as the de el pment f pneum nia in patients with recent c ntact with the health care system (within 90 days), including h spitalizati n, utpatient dialysis, r residing in a nursing h me r rehabilitati n center.
+- In c mparis n t CAP, HCAP tends t be caused by rganisms with higher le els f resistance.
+- Alth ugh specific treatments depend n l cal resistance patterns, h spital admissi n and initiati n f br ad-spectrum IV antibi tics that includes c erage f r MRSA are gener- ally rec mmended.
+- Ludwig angina (LA) is a p tentially life-threatening cellulitis f the c nnecti e tissue f the fl r f the m uth and neck that begins in the submandibular space and is commonly caused by an infected or recently extracted tooth.
+- Typically, it is a polymicrobial infec- ti n in l ing aer bic and anaer bic bacteria f the m uth.
+- The m st c m- m n physical findings are bilateral submandibular swelling and t ngue pr trusi n r ele ati n.
+- Sepsis represents the systemic inflammat ry resp nse, mediated by an inflammat ry cascade triggered by an infecti n that erwhelms the b dy’s regulat ry systems.
+- Initially, this leads t tachy- cardia, tachypnea, and fe er, and may pr gress t sh ck, multi rgan failure, and death if n t treated.
+- Sepsis is a c mm n cause f death in the United States with a m rtality rate estimated between 20% and 50%.
+- The patient has a modified Centor sc re f 4 (his- t ry f fe er, tender aden pathy, n c ugh, exudates, age 15-45 years) (see f ll wing figure).
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: A.
+- Correct clinical focus: B.
+- Correct clinical focus: D.
+- Correct clinical focus: E.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Poisoning and Overdose
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The patient rank an insecticide.
+- The tw m st mm n lasses f inse ti i es are organophosphate compounds (ie, malathi n) an arbamates (ie, sevin).
+- Organ ph sphates inhibit acetyl- cholinesterase, the enzyme resp nsible f r the break wn f a etyl h line.
+- GHB is a natural neur transmitter that in u es sleep.
+- GHB has been s l as a mus le buil er (sleep in reases release f gr wth h rm ne), iet ai , an a sleep ai .
+- Patients with GHB ver se gener- ally have a e rease level f ns i usness.
+- The m st useful iagn sti test in suspe te CO poisoning is a COHb level.
+- N rmal levels are less than 5% in n nsm k- ers as CO is a natural by-pr u t f the metab lism f p rphyrins.
+- COHb levels may be slightly m re elevate in sm kers an th se wh live in large ities.
+- Acetaminophen is ne f the m st mm nly use analgesi -antipyreti me i ati ns an auses m re h spitalizati ns after ver se than by any ther pharma euti al agent.
+- It als is the single most common drug that leads to death in overdose.
+- In the ase f a single a ute Poisoning and Overdose Answers 207 ingesti n, risk f hepat t xi ity is best establishe by pl tting the a etamin- phen n entrati n n the a etamin phen n m gram.
+- The term toxidrome refers t a constellation of physical findings that an pr vi e imp rtant lues in a t xi ingesti n.
+- This is parti ularly useful in patients wh ann t pr vi e an a equate hist ry.
+- The anticholinergic syndrome typi ally presents with elirium, mumbling spee h, ta hy ar ia, elevate temperature, flushe fa e, ry mu us mem- branes an skin, ilate pupils, an hyp a tive b wel s un s.
+- The patient presents t the ED with entral nerv us an respirat ry epressi n an mi ti pupils.
+- Al ng with his hist ry f her in abuse an fresh nee le marks, this is m st likely a heroin overdose.
+- Opi i t xi ity is ass iate with the t xi r me f CNS depression, respi- ratory depression, and miosis.
+- An ver se f any f these agents an lea t sei- zures.
+- H wever, INH is n t ri us f r ausing seizures that are refractory to standard therapy.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- Marke a i sis an respirat ry mpr mise may als be present.
+- Glyburide is a mm nly pres ribe sulfonylurea.
+- Sulf nylureas are ral agents that stimulate the β ells f the pan reas t secrete insulin.
+- Many f the sulf nylureas have relatively long durations of action.
+- The patient m st likely ingeste aspirin.
+- Patients with an a ute sali ylate ver se may present with nausea, vomiting, tin- nitus, fever, diaphoresis, and confusion.
+- Sali ylates are apable f pr - u ing several types f a i -base isturban es.
+- The sympathomimetic syndrome usually is seen after a ute abuse f aine, amphetamines, r e ngestants.
+- Patients are usually hypertensive, tachycardic, an have mydriatic pupils.
+- In massive ver ses, ar i vas ular llapse an result in sh k an wi e- mplex ysrhythmias.
+- Benzodiazepines, su h as iazepam sh ul be use as the first-line agent f r nearly all aine t xi ities.
+- Many effe ts f aine are th ught t be me iate thr ugh CNS stimulati n via at- e h lamine release r inhibiti n f ate h lamine reuptake.
+- The effe ts that a ute aine int xi ati n has n the heart in lu e r nary vas - nstri ti n with in reasing my ar ial xygen eman .
+- Opioid withdrawal initially presents with rug raving, yawning, rhin rrhea, an piloerection, an pr gresses t nausea, v miting, iarrhea, hypera tive b wels, iaph resis, myalgias, arthralgias, anxiety, fear, an mil ta hy ar ia.
+- Methadone withdrawal starts appr xi- mately 4 h urs after the last se an persists f r 3 t 7 ays.
+- Her in with- rawal begins ab ut 6 h urs after the last se an usually fully manifests at 4 h urs.
+- PCP intoxication is hara terize by a wi e spe - trum f fin ings.
+- Behavi r may be bizarre, agitate , nfuse , r vi lent.
+- The hallmark f PCP t xi ity is the recurring delusion of superhuman strength and invulnerability resulting fr m b th the anestheti an is- s iative pr perties f the rug.
+- This patient has an anion gap metabolic acidosis and an osmolar gap.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: A.
+- Correct clinical focus: D.
+- Correct clinical focus: E.
+- Correct clinical focus: B.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Altered Mental Status
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The patient never received a point-of-care glucose at triage.
+- Hypoglycemia can mimic a CVA or seizure.
+- Therefore, it is critical that all patients who present with altered mental status get a point-of-care glucose.
+- Myxedema coma is a life-threatening complica- tion of hypothyroidism.
+- Mortality in myxedema coma approaches 20% to 50% even with appropriate management.
+- The patient exhibits classic signs and symptoms of the disease—lethargy or coma, hypothermia, bradycar- dia, periorbital and nonpitting edema, and a delayed relaxation phase of deep tendon reflexes (areflexia in more severe cases).
+- The first question an emergency physician asks for each patient is whether a life-threatening process is causing the patient’s complaint.
+- Emergency medicine is primarily a complaint-oriented, rather than a disease-oriented specialty.
+- Its emphasis rests on anticipating and recognizing a life-threatening process rather than seeking the diagnosis.
+- This patient presents with an anion gap metabolic acidosis, glucosuria, and ketonuria, which is consistent with diabetic keto- acidosis (DKA).
+- DKA is an acute, life-threatening disorder occurring in patients with insulin insufficiency.
+- It results in hyperglycemia, ketosis, and Altered Mental Status Answers 237 osmotic diuresis, and clinically presents with gastrointestinal (GI) dis- tress, polyuria, fatigue, dehydration, mental confusion, lethargy, or coma.
+- The patient has hepatic encephalopathy, which is a clinical state of disordered cerebral function occurring secondary to acute or chronic liver disease.
+- Laboratory tests may be normal in patients, but the serum ammonia level is usually elevated.
+- Lactulose and neomycin represent the main therapeutic agents.
+- Generally, the first-line pharmacologic treatment in an actively seizing patient is a parental benzodiazepine, such as diaz- epam (Valium), lorazepam (Ativan), or midazolam (Versed).
+- Benzodiaze- pines are effective in terminating seizure activity in 75% to 90% of patients.
+- Diazepam can be administered intravenously, intramuscularly, or down an endotracheal tube.
+- This patient has postpartum eclampsia, which needs to be managed with IV magnesium sulfate and admission to the obstetrical service.
+- Preeclampsia is defined as new-onset hypertension (>140/90 mm Hg) and proteinuria (1 g/L in random specimen or >3 g/L over 24 hours).
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- Some clinicians also use generalized edema as a requirement.
+- The patient has a triad of hypertension, bradycar- dia, and respiratory depression, which is called Cushing reflex.
+- This is observed in one-third of patients with a potentially lethal increase in ICP.
+- Increased ICP may result from traumatic brain injury or, as in this patient’s case, from hemorrhagic stroke and subsequent brain edema.
+- This patient presents with alcohol withdrawal.
+- Signs and symptoms of this condition occur along a continuum ranging from simple shakes to delirium tremens (DTs) following a reduction or cessation of alcohol.
+- Early symptoms usually appear 6 to 8 hours after ces- sation of drinking and involve tremulousness, anxiety, mild hypertension, and tachycardia.
+- The patient has hypertensive encephalopathy, which is defined by a rapid rise in BP that is accompanied by neurologic changes.
+- Patients typically present with a systolic BP greater than 220 mm Hg and diastolic BP greater than 110 mm Hg.
+- Neurologic findings include severe headache, vomiting, drowsiness, confusion, seizure, blindness, focal neurologic deficits, or coma.
+- The CSF analysis in bacterial meningitis typi- cally shows an elevated WBC count with predominant PMNs.
+- Protein is elevated and glucose is low.
+- A Gram stain may show bacteria.
+- Hyponatremia is defined as a measured serum sodium less than 135 mEq/L.
+- However, the development of symptoms secondary to hyponatremia is related more to the rate of change in the serum sodium than to the absolute value.
+- Levels less than 120 mEq/L tend to cause symptoms regardless of the rate to reach this value.
+- NMS is a rare but potentially fatal reaction commonly associated with the use of antipsychotic drugs.
+- The classic triad for its clini- cal presentation includes altered mental status, hyperthermia, and muscle rigidity.
+- The cornerstone of treatment is supportive care with rapid cooling, fluid and electrolyte repletion, and monitoring.
+- Hyperpyrexia is the symptom of NMS that is most associated with severe morbidity and mortality.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: D.
+- Correct clinical focus: E.
+- Correct clinical focus: B.
+- Correct clinical focus: A.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Gastrointestinal Bleeding
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- This patient is suffering from an acutely throm- bosed external hemorrhoid.
+- Hemorrhoids are dilated venules of the hemorrhoidal plexuses.
+- They are associated with constipation, straining, increased abdominal pressure, pregnancy, increased portal pressure, and a low-fiber diet.
+- IBD refers to chronic inflammatory disease of the GI tract.
+- There are two major types—CD and UC.
+- CD can involve any part of the GI tract, from mouth to anus, and is characterized by segmental involvement.
+- The primary treatment for a Crohn’s flare (an acute exacerbation of the patient’s baseline IBD) is sulfasalazine and steroids.
+- Sulfasalazine acts as an anti-inflammatory at the surface of the intestine and has a lower side-effect profile than many other agents used in treating inflammatory bowel disease.
+- Steroid, such as prednisone, also act as general anti-inflammatories.
+- This patient had an untreated gastric ulcer that just perforated.
+- The history of epigastric pain related to eating points to a gas- tric ulcer, whereas pain 2 to 3 hours after eating is more likely caused by a duodenal ulcer.
+- The sudden onset of generalized abdominal pain associated with a rigid abdomen is concerning for a perforated viscus (ie, perforated gastric ulcer).
+- A Mallory-Weiss tear usually follows a force- ful bout of retching and vomiting and involves a 1- to 4-cm tear of the mucosa or submucosa of the GI tract; 75% of cases occur in the stomach with the remainder near the GE junction.
+- Bleeding is usually mild and self- limited.
+- However, 3% of deaths attributed to upper GI bleeding result from Mallory-Weiss tears.
+- Esophageal varices develop in patients with chronic liver disease in response to portal hypertension.
+- Approximately 60% of patients with portal hypertension will develop varices.
+- Of those who develop varices, 25% to 30% will experience hemorrhage.
+- The management of critical patients in emergency medicine should start with the ABCs.
+- In a patient with severe hematemesis, the patient is often in jeopardy of losing his or her airway and/or aspirating blood.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- Frank recurrent hematemesis in a critically ill patient is an indi- cation for endotracheal intubation to protect the airway.
+- Octreotide is a somatostatin analogue that is used in esophageal varices to reduce portal venous pressure, which is thought to reduce bleeding.
+- Glucagon (b) is a peptide secreted from α cells in the pancreas that acts as an antagonist to insulin.
+- It is released when blood glucose is low.
+- To calculate number needed to treat, you must first devise the absolute risk reduction (ARR).
+- In order to do this, you must subtract the experimental event rate (EER) from the control event rate (CER).
+- The CER is 50% (0.5) and the EER 30% (0.3) in this question.
+- The combination of lower GI bleed with weight loss and decreased appetite points toward carcinoma, most likely adenocar- cinoma of the colon.
+- The lack of esophageal, abdominal, or rectal pain makes the other choices unlikely, as does the lack of associated symptoms (nausea, vomiting, or fever).
+- Anemia or rectal bleeding in an elderly person should be assumed to be malignancy until proven otherwise.
+- Patients with coronary artery disease, valvular heart disease, and arrhythmias, particularly atrial fibrillation, are at high risk for mesenteric ischemia.
+- In addition, age greater than 50 years, conges- tive heart failure, recent myocardial infarction, critically ill patients with sepsis or hypotension, use of diuretics or vasoconstrictive medications, and hypercoagulable states place patients at higher risk.
+- The most common cause of acute mesenteric ischemia is arterial embolus, which accounts for 50% of cases.
+- Angiography remains the “gold standard” in the diagnosis of mesenteric ischemia.
+- Unlike any other diagnostic tools, it is capable of both diagnosing and treating the problem.
+- It is capable of iden- tifying all four types of acute mesenteric ischemia—(1) arterial embolus, (2) arterial thrombosis, (3) venous thrombosis, and, under most circum- stances, (4) nonocclusive mesenteric ischemia.
+- An angiodysplasia, also known as an arteriove- nous malformation, is a group of small ectatic blood vessels in the submu- cosa of the GI tract.
+- More than half of angiodysplasias are located on the right side of the colon.
+- Angiodysplasias are responsible for 3% to 20% of acute lower GI bleeds (a).
+- The patient most likely has an esophageal perfo- ration, a serious, life-threatening complication of endoscopy that must be identified and treated quickly.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: D.
+- Correct clinical focus: A.
+- Correct clinical focus: B.
+- Correct clinical focus: E.
+- Correct clinical focus: C.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Musculoskeletal Injuries
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The scaphoid is the most common carpal bone injured in a FOOSH injury.
+- On examination, patients will exhibit tender- ness at the anatomic snuffbox (the space between the extensor pollicis longus and the extensor pollicis brevis) and pain referred to the anatomic snuffbox with longitudinal compression (axial loading) of the thumb.
+- A triquetral (a) dorsal chip injury is the second most common carpal bone fracture and occurs with a FOOSH or direct blow to the dorsum of the hand.
+- Up to 15% of scaphoid fractures are not detected on initial x-rays.
+- As the necrotic bone at the fracture site is resorbed, the frac- ture line often becomes apparent on radiographs 10 to 14 days after injury.
+- In patients with snuffbox tenderness and negative initial radiographs, a thumb spica splint should be applied until films can be repeated 10 to 14 days post-injury.
+- Pseudogout is the most common cause of acute monoarticular arthritis in the elderly.
+- It affects women and men equally, primarily after their sixth decade of life.
+- It is caused by the deposition of calcium pyrophosphate crystals.
+- The cruciate ligaments are the two internal bands extending from the tibia to the femur, one anteriorly and the other poste- riorly.
+- They control anteroposterior and rotary stability of the knee and prevent hyperextension.
+- The ACL is the most frequently injured liga- ment in the knee.
+- The patient has an Achilles tendon rupture.
+- The individual gives a history of a sudden excruciating pain and having heard or felt a pop or snap.
+- This entity is most common in sedentary, middle- aged men, or in athletes.
+- This patient has an anterior shoulder disloca- tion.
+- The glenohumeral joint is the most commonly dislocated joint in the body, mainly because of the lack of bony stability and its wide range of motion.
+- Anterior dislocations account for 95% to 97% of cases and are most commonly seen in younger, athletic male patients and geriatric female patients.
+- The radiograph confirms an anterior dislocation of the left shoulder.
+- Patients typically present in severe pain with the dis- located arm held in slight abduction and external rotation by the opposite extremity.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- The patient leans away from the injured side and cannot adduct or internally rotate the shoulder without severe pain.
+- This patient most likely sustained a closed-fist injury, which has high infection rates and evidence of poor wound healing.
+- Wounds sustained by punches to the jaw and human bites, also known as “fight bites,” are classically over the metacarpal joints.
+- Penetration deep into the joint space and infection are common given the positioning of the hand during the injury, human oral flora, and delay in seeking treatment.
+- The patient has a mallet finger or a rupture of the extensor tendon that inserts into the base of the distal phalanx.
+- This type of injury occurs often from a sudden forceful flexion of an extended finger when an object, such as a football, strikes the tip of the finger.
+- This is the common mechanism of injury among athletes.
+- A boxer fracture is a fracture of the neck of the fifth metacarpal.
+- It is one of the most common fractures of the hand and usually occurs from a direct impact to the hand (ie, a punch with a closed fist).
+- Colles’ fracture (a) is the most common wrist fracture seen in adults.
+- The patient’s clinical presentation is consistent with a posterior shoulder dislocation.
+- Posterior dislocations are rare and account for only 2% of all glenohumeral dislocations.
+- Posterior disloca- tions are traditionally associated with seizures, lightening injuries, and electrocution injuries.
+- Dexamethasone and other systemic steroids are used in the treatment of gout in patients who cannot tolerate NSAIDs.
+- NSAIDs are contraindicated in patients with comorbidities such as peptic ulcer disease, GI bleeding, renal insufficiency, hepatic dysfunction or are on warfarin.
+- Indomethacin (a), naproxen (c), and ketorolac (e) are all NSAIDs and would be contraindicated in this patient with renal insufficiency.
+- The best way to preserve an amputated part is to rinse it with normal saline to remove gross contamination, wrap it in sterile gauze moistened with saline or lactated ringers, and place it in a sterile, watertight container.
+- Then store this container in ice water.
+- Povidone-iodine (a and d) is a strong antiseptic solution that is used commonly in the hospital setting, particularly in the operating room to Musculoskeletal Injuries Answers 295 create a sterile field.
+- The patient sustained a high-pressure injection injury of his finger.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: D.
+- Correct clinical focus: B.
+- Correct clinical focus: A.
+- Correct clinical focus: E.
+- Correct clinical focus: C.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Headache, Weakness, and Dizziness
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- This patient presents with symptoms consistent with meningitis.
+- Antibiotics are administered empirically as diagnostic workup proceeds.
+- The best choice in this patient is ceftriaxone, which has good CNS penetration.
+- This patient’s Gram stain is concerning for Neisseria meningitidis.
+- Household close contacts (ie, roommate) or those exposed directly to the patient’s oral secretions (ie, intubation and/or kissing) should receive post exposure chemoprophylaxis (PEP) with antibiotics effective against N meningitidis (rifampin, ciprofloxacin, or ceftriaxone).
+- Contacts exposed to other causes of meningitis (a) such as Streptococcus pneumonia or Haemophilus influenza do not benefit from PEP.
+- The patient most likely has IIH, formerly pseu- dotumor cerebri, a neurologic disease seen primarily in young obese 322 Headache, Weakness, and Dizziness Answers 323 women of childbearing age.
+- Clinically, patients complain of a generalized headache of gradual onset and moderate severity.
+- It may worsen with eye movements or with the Valsalva maneuver.
+- This patient’s clinical picture is consistent with temporal arteritis (TA).
+- Patients are usually middle-aged women (age > 50) who present with malaise, fevers, and headache.
+- A complete physi- cal examination would have revealed temporal artery tenderness to palpa- tion.
+- Tension headaches often occur daily, and classi- cally cause bilateral occipital pain that is described as a band tightening around the head.
+- In general, people experience a constant, dull pain that is not throbbing and without the ancillary features associated with migraines (visual phenomena, aura, neurologic complaints, nausea, and/or vomit- ing).
+- There is often secondary contraction of the neck and scalp muscu- lature.
+- The patient is experiencing a migraine variant known as a basilar migraine.
+- Its onset is similar to other migraines in that it can begin with scotomata or aura.
+- The visual symptoms are often bilateral and fol- lowed by a brief period of cortical blindness.
+- The patient has a post-LP headache.
+- The headache is thought to be caused by the removal of CSF during LP with a continued leakage of CSF.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- It is exquisitely sensitive to position and many patients will experience complete relief of pain after being placed in the Trendelenburg position.
+- IIH, formerly pseudotumor cerebri, requires urgent treatment when there is a history of visual phenomena, particularly tran- sient vision loss.
+- Agents used to lower ICP in this setting include carbonic anhydrase inhibitors (ie, acetazolamide) and loop diuretics (ie, furosemide).
+- Transient visual loss, pain, or blurring occurs frequently and can be perma- nent in up to 10% of patients.
+- The patient presents with a clinical history that is consistent with a SAH.
+- Brain CT without contrast is the procedure of choice for diagnosing SAH and should be done in any individual with a Headache, Weakness, and Dizziness Answers 327 new onset of a severe or persistent headache.
+- It has a sensitivity of 95% for detecting SAH.
+- Dystonic reactions may occur with the use of dopamine-blocking agents.
+- Medications classically associated with dys- tonic reactions are typical antipsychotics (ie, haloperidol) but can also occur with the antiemetics used to treat migraines (ie, metoclopramide).
+- Common dystonic reactions include oculogyric crises (eyes deviating in different directions), torticollis, tongue protrusion, facial grimacing, and difficulty speaking.
+- Dystonic reactions are generally not life threatening and respond almost immediately to administration of diphenhydramine 328 Emergency Medicine (Benadryl) given intravenously or intramuscularly.
+- Other frequently used medication options include benzodiazepines (ie, diazepam or lorazepam), other anticholinergic medications (benztropine).
+- While dantrolene (a) can function as a muscle relaxant, its side effect profile limits its use to more life threatening conditions (ie, neuroleptic malignant syndrome, malignant hyperthermia).
+- Brain abscesses are uncommon and their incidence has decreased over the past several years as a result of better antibiotic treatment of the remote infections that cause them.
+- Today, the majority of brain abscesses in developed countries are the result of contiguous spread from otitis media, mastoiditis, paranasal sinusitis, or meningitis.
+- They can also occur after trauma, classically after a basilar skull fracture.
+- Headaches caused by a mass lesion are classically described as worse in the morning, associated with nausea and vomiting, and worse with position.
+- Rarely do patients present with focal neurologic symptoms.
+- When they do, imaging is a necessary adjunct before leaving the ED.
+- The CT scan depicts a subarachnoid arachnoid hemorrhage.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: A.
+- Correct clinical focus: D.
+- Correct clinical focus: E.
+- Correct clinical focus: C.
+- Correct clinical focus: B.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Pediatrics
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- This is a case where nonaccidental trauma (NAT) should be considered.
+- This is a classic example of a “bucket handle” fracture.
+- Metaphyseal corner fractures, known as bucket handle fractures, are considered pathognomonic for abuse and are caused by rapid shear- ing forces or twisting motion.
+- This is a case of impetigo.
+- It is a superficial skin infection most commonly caused by S pyogenes (group A b-hemolytic Streptococcus).
+- When large pustules are observed (>1 cm), the term used 363 364 Emergency Medicine to describe this condition is bullous impetigo.
+- This is a case of erythema infectiosum or Fifth disease, which is caused by parvovirus B19.
+- It is characterized by an erup- tion that presents initially as an erythematous malar blush (slapped cheek appearance) followed by an erythematous maculopapular eruption on the extensor surfaces of extremities that evolves into a reticulated, lacy, mottled appearance.
+- Fever and other symptoms may be present but are uncommon.
+- This is a classic story and presentation for intussus- ception in which a part of intestine telescopes inside of another resulting in ischemia that can lead to infarction of bowel.
+- This is a true GI emergency.
+- The most common type of intussusception is ileo-colic and most com- monly idiopathic in etiology.
+- Acute chest syndrome is characterized by pneumonia with pulmonary infarction, hypoxia, and diffuse pulmonary edema.
+- This is one of the most serious and life-threatening complications of sickle-cell disease.
+- One must be very cautious with IV fluid hydration because overaggressive fluid administration can lead to pulmonary edema in patients who have pneumonia or previously suffered from acute chest syndrome.
+- This is a patient with Kawasaki disease (KD).
+- This entity is defined by fever lasting for a minimum of 5 days and four of the following five criteria: • Cervical lymphadenopathy of greater than 1.5 cm • Dry, cracked lips or other oral mucous membrane involvement (straw- berry tongue) • Truncal, nonvesicular rash • Nonpurulent conjunctivitis • Swollen or edematous hands and feet Kawasaki disease is a systemic inflammatory vasculitis of unknown etiology.
+- The characteristic constellation of symptoms, which this patient meets, requires immediate action to prevent complications of the disease.
+- The most important next step is administra- tion of prostaglandin bolus followed by a drip.
+- This patient is in severe cardiac failure due to impending closure of his ductus arteriosus.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- The patient is presenting in a classic time frame, which usually ranges from 7 to 10 days.
+- This patient has pyloric stenosis and will exhibit a hypochloremic, hypokalemic metabolic alkalosis.
+- Hypoglycemia is com- mon in newborns of this age who experience poor intake of calories and who have very poor glycemic reserves.
+- The low chloride and high bicarbonate are the result of hydrochloric acid loss from stomach with repeated episodes of 368 Emergency Medicine vomiting leading to an alkalemia.
+- This patient had a simple febrile seizure.
+- Approxi- mately 2% to 5% of children will experience a febrile seizure during their lifetimes.
+- Febrile seizures occur between the ages of 3 months and 5 years, are associated with fever, and are categorized as either simple or com- plex.
+- This is a case of a patient with a SCFE.
+- SCFE is a condition of the femur where the femoral head slips or shears off from the neck of the femur through the physis.
+- It is more common in boys than in girls, typically in early or mid-adolescence and is more common in African American children than in Caucasian children.
+- This is a case of a viral URI with associated acute otitis media (AOM).
+- Treatment for otitis media evolved significantly over the last several years.
+- Otitis has traditionally been treated in the United States with oral antibiotics, but there is new data showing that most of these infections resolve spontaneously, even those caused by bacterial organisms.
+- This is a case of milk protein colitis, a common cause of rectal bleeding in this age group.
+- Some neonates have sensitivity to cow’s milk protein (which is fundamentally different from human milk proteins) that leads to an allergic antibody response causing a true colitis and bloody stools.
+- Approximately a third of these patients will have a similar reaction to soy milk proteins.
+- This is a case of neonatal sepsis, an invasive bacte- rial infection occurring during the first 90 days of life.
+- The most common Pediatrics Answers 371 cause of newborn sepsis is group B a -hemolytic Streptococcus (GBS).
+- Approximately a third of women are carriers of this organism in their vagina and exposure is through the birth canal.
+- This is a classic case of infant botulism character- ized by generalized weakness, pupillary unresponsiveness, and hypoven- tilation.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: D.
+- Correct clinical focus: C.
+- Correct clinical focus: B.
+- Correct clinical focus: A.
+- Correct clinical focus: E.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Vaginal Bleeding
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- A urine or serum b-hCG should be one of the first ancillary tests ordered in any female of reproductive age, especially in those presenting with vaginal bleeding or abdominal pain regardless of their sexual, contraceptive, and menstrual history.
+- A follow-up serum quantitative b-hCG is warranted if the urine test is positive.
+- A positive urine or serum b-hCG in the setting of vaginal bleeding or abdominal pain warrants additional evaluation to determine the status of the pregnancy and to exclude ectopic pregnancy.
+- This patient has two risk factors for ectopic preg- nancy including tubal ligation and previous sexually transmitted infec- tion (STI).
+- Tubal ligation increases the likelihood of having an ectopic pregnancy by providing an outlet for improper implantation of an embryo into the abdominal cavity or somewhere outside of the uterus.
+- Chlamydia and other STIs also increase the likelihood of ectopic pregnancy due to tubal scarring.
+- Uterine rupture is a rare and often catastrophic complication of pregnancy that manifests as abdominal pain, loss of uter- ine contractions, vaginal bleeding, fetal distress and signs of shock.
+- The most important risk factor is previous cesarean section.
+- Other risk factors include congenital uterine anomalies, multiparity, previous uterine instru- mentation, and abdominal trauma (such as the case in this scenario).
+- The patient is hemodynamically unstable and likely developing hemorrhagic shock, therefore large-bore IV access should be established and she requires immediate fluid resuscitation with crystalloid and likely will ultimately require colloid infusion.
+- Fetal survival is dependent on maternal survival.
+- Therefore, the initial care should always be directed at the mother.
+- Placenta previa, a condition where the placenta partially or completely overlies the internal cervical os, is the most prob- able etiology for this patient’s second-trimester painless, vaginal bleed- ing.
+- This bleeding is rarely severe and the physical examination is usually unremarkable except for a gravid uterus.
+- It is important to note, however, that bimanual and speculum pelvic examinations should not be done until after placenta previa can be ruled out on ultrasound.
+- Postpartum bleeding is classified as early (within 24-48 hours) or late (up to 1-2 weeks postpartum).
+- Causes of early post- partum bleeding include uterine atony (the most common cause), genital tract trauma, retained products of conception, and uterine inversion.
+- Late bleeding episodes may be caused by endometritis or retained products of conception.
+- Causes of early postpar- tum bleeding include uterine atony, genital tract trauma, retained products of conception, and uterine inversion.
+- Molar pregnancy (hydatidiform mole) is associ- ated with severe nausea and vomiting (hyperemesis gravidarum), uterine size larger than expected for dates, hypertension, and intermittent vaginal bleeding or passage of grape-like contents.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- Risk factors include a previous history of molar pregnancy, and very young or advanced maternal ages.
+- Typi- cal laboratory findings include anemia and a b-hCG higher than expected.
+- She has an inevitable abortion, which occurs in the first-trimester and manifests as vaginal bleeding with an open internal cervical os but no passage of fetal products.
+- Determining whether the internal os is open can be difficult and is often confused with the normally distended external os.
+- In inevitable abortions, dilation and curettage with full evacuation of the pregnancy is warranted.
+- In a threatened abortion, the patient has vaginal bleeding with a closed internal os in the first 20 weeks of gestation.
+- The risk of miscarriage is approximately 35% to 50% depending on the patient population and severity of symptoms.
+- A complete abortion (b) is the passage of all fetal products and products of conception with a now closed os.
+- This patient exhibits signs of hyperandrogenism and anovulation as evidenced by her history of irregular, heavy menstrual periods, and being treated with oral contraceptives.
+- Her physical examina- tion is consistent with hirsutism, which is a result of increased serum tes- tosterone.
+- Many of these patients are also obese.
+- Endometriosis is defined by the presence of endo- metrial glands and tissue outside the lining of the uterus.
+- This tissue may be present on the ovaries, fallopian tubes, bladder, rectum, appendix, or other GI tissue.
+- There are many different hypotheses as to how this ectopic tissue forms, the most commonly accepted being “retrograde menstruation.” Pain most commonly occurs before or at the beginning of menses.
+- The patient is likely experiencing normal menstru- ation.
+- It is important to remember that sometimes patients come to the ED with benign or normal conditions in which education and reassurance are the treatments of choice.
+- In this case, it is true that her menstrual flow is early, however a one- time occurrence does not make the diagnoses of dysfunctional uterine bleeding (d) or endometriosis.
+- Progesterone levels may be helpful in diagnosing ecto- pic pregnancy.
+- A level of less than 5 ng/mL is highly suggestive of an ectopic pregnancy, given that the uterus may not be able to carry the pregnancy.
+- Higher levels indicate that embryo implantation inside the uterus is more likely.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: D.
+- Correct clinical focus: A.
+- Correct clinical focus: B.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Ultrasound in the Emergency Department
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The left upper quadrant (LUQ) view of this FAST examination shows an anechoic fluid collection in the perisplenic space representing free fluid in the peritoneal cavity.
+- In the setting of trauma, free peritoneal fluid is presumed to be blood.
+- In the supine position the hepatorenal (Morrison) space is the most dependent portion of the peritoneal cavity making it the most sensitive region to find free fluid.
+- The diagnosis of ovarian torsion can be difficult to rule out despite all imaging modalities available to the clinician.
+- The gold standard to ruling out ovarian torsion is laparoscopy and should be reserved for patients with high clinical suspicion for torsion in the setting of negative imaging studies.
+- However, patients with no ovarian or adnexal masses measuring 3 to 4 cm in diameter and normal-sized ovaries are extremely unlikely to have ovarian torsion.
+- The ultrasound (see figure) reveals a gestational sac containing the yolk sac, characterized by a ring-like echogenic structure located at the periphery of the gestational sac.
+- A gestational sac surrounding a yolk sac confirms gestational product.
+- IUP can be confirmed if the endometrial stripe can be visualized with both the gestational and yolk sacs.
+- This patient has an anechoic fluid collection between the heart and pericardium consistent with hemopericardium.
+- The patient’s clinical presentation of hypotension, elevated jugular venous pressure, and hemopericardium is consistent with pericardial tamponade, which is a life-threatening condition.
+- Pericardiocentesis should be attempted, in 432 Emergency Medicine addition to fluid resuscitation, as a temporizing measure so the patient can be transferred to the operating room for definitive repair of his injuries.
+- This patient’s RUQ ultrasound (Figure) reveals a thickened gallbladder wall, pericholecystic fluid, cholelithiasis, and a sonographic Murphy sign.
+- Considering the history, physical examination findings, and bedside ultrasound images, cholecystitis is the most likely diagnosis.
+- A dilated common bile duct is a finding that may be seen in Ultrasound in the Emergency Department Answers 433 Cho le lithias is S hadowing association with choledocholithiasis or cholangitis, but the presence or absence of a dilated common bile duct has no association with cholecystitis.
+- The globe is a fluid-filled structure that is easily evaluated by ultrasound.
+- The normal anterior and posterior chamber is typically anechoic as seen in the figure.
+- The image provided in the case reveals a posterior chamber with echogenic matter occupying most of the volume of the vitreous chamber consistent with a vitreous hemorrhage.
+- In the case of an unstable patient many clinicians may go directly to the distal aorta to evaluate for abdominal aortic aneurysm because it is the most common location for aneurysmal development.
+- The distal aorta can usually be identified with the probe placed just superior to the umbilicus.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- In the stable patient, however, a systematic approach is used to evaluate the abdominal aorta for pathology.
+- Of the listed diagnoses only nephrolithiasis (or the resulting hydronephrosis) can be reliably diagnosed using ultrasonography.
+- A recent article in New England Journal of Medicine demonstrated that point- of-care ultrasound was equivalent to radiology performed comprehensive renal ultrasound and CT of the abdomen/pelvis in patients with suspected nephrolithiasis in terms of patient-oriented outcomes.
+- The alternative answer choices are all much better evaluated with CT or MRI than with ultrasound.
+- It is important to clean all external ultrasound transducers between each use.
+- Warm soapy water is a safe and effective means to do this, as the rubber matching layer of the ultrasound transducer will prevent any water or soap from reach the piezoelectric crystals housed inside the transducer.
+- Only internal transducers (ie, endocavitary or endovaginal probes) require full sterilization in between each use (a).
+- This patient has a negative FAST examination.
+- This patient’s examination and radiograph are consistent with an open book pelvis fracture.
+- Pelvic fractures have a high association with retroperitoneal hemorrhage.
+- This patient’s presentation, physical examination, and laboratory studies are classic for nephrolithiasis.
+- The ultrasound findings of dilated anechoic renal calyces and a prominent anechoic renal pelvis are suggestive of moderate-to-severe hydronephrosis.
+- The gold standard for evaluation for nephrolithiasis is spiral CT scan of the abdomen and pelvis without IV contrast; however, this requires exposure to ionizing radiation.
+- This patient’s FAST examination shows an anechoic fluid collection above the right hemi-diaphragm as seen in the following figure.
+- In addition, there is loss of normal mirror artifact and continuation of the spinous shadow beyond the diaphragm.
+- Mirror artifact around the diaphragm is a normal finding and, when absent, raises suspicion for underlying pathology.
+- This patient’s history and physical examination is nonspecific; however, the laboratory values suggest biliary tract obstruction with pancreatitis.
+- The ultrasound image demonstrates a 440 Emergency Medicine dilated common bile duct (CBD) which in this example is identified by using color flow Doppler to determine which structure within the portal triad (common bile duct, portal vein and hepatic artery) does not demonstrate any color flow signals.
+- On ultrasound, the CBD is normally much smaller than the portal vein.
+- The acquired image shows an endometrial stripe with a tiny psuedogestational sac suggesting lack of an IUP.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: D.
+- Correct clinical focus: A.
+- Correct clinical focus: E.
+- Correct clinical focus: C.
+- Correct clinical focus: B.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Environmental Exposures
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- Frostbite usu lly occurs when te per tures f ll below 0°C (32°F).
+- There re three ph ses to the freezing injury c sc de.
+- Phase 1 (pre-freeze, without ctu l ice for tion) includes initi l skin cool- ing, incre sed blood viscosity, v soconstriction, nd icrov scul r le k ge th t c uses loc lized ede for tion.
+- The di gnosis of heat exhaustion is initi lly de upon clinic l present tion.
+- P tients y h ve gener l l ise, f tigue, fron- t l he d che, i p ired judg ent, di phoresis, nd n use .
+- Clinic lly, they 463 464 Emergency Medicine y show signs of dehydr tion including dry ucus e br nes, t chy- c rdi , nd orthost tic hypotension.
+- The p tient sust ined low-voltage (<1000 V) elec- trical injury fro the w ll socket.
+- All p tients sust ining such n injury w rr nt n ECG nd cardiac monitoring in the ED.
+- In the United St tes, household wiring h s 120 V of alternating current with frequency (nu - ber of switches fro positive to neg tive) of 60 Hz.
+- This p tient sust ined n injury fro venom- ous marine animal.
+- Approxi tely 50,000 such incidents occur ye rly.
+- M rine ni ls y be divided into two cl sses—stingers nd nemato- cysts.
+- Che ic l burns re co on occup tion l h z rd nd c n be c used by v riety of solvents cont ining cidic or lk line sub- st nces.
+- Initi lly, it is i port nt to re ove ny cont in ted clothing nd begin to irrig te the effected skin for t le st 15 to 30 inutes with copious ounts of w ter.
+- The next step is ssess ent of the ffected re , size, nd depth of the burn s so e p tients will need tr nsfer to burn cen- ter.
+- This p tient w s exposed to lime, which is present in cement.
+- When w ter inter cts with dry cement, hydrolysis occurs for - ing n lk line subst nce with pH of 10 to 12.
+- Alkali burns cause lique- faction necrosis, resulting in quick dissolution of the involved tissues.
+- Cat bites involve s ll puncture wounds often extending down through skin into tendons nd bones owing to the n ture of the ni ls’ sh rp teeth.
+- The reported incidence of infection fro these bites y be s high s 30% to 50%, with ny p tients presenting only fter n infection h s incurred.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- It is i port nt to note th t cat bites have a higher infection rate compared to dog bites.
+- An vid mountain-climber who scends r pidly nd presents with new he d che, n use , nd vo iting, should pro pt you to di gnose acute mountain sickness (AMS).
+- E rly on, sy pto s y i ic n cute vir l syndro e with n use , vo iting, he d che, nd norexi .
+- However, these sy pto s progress to include peripheral edema, oliguria, retinal hemorrhages, and finally high-altitude pul- monary or cerebral edema.
+- This p tient is suffering fro decompression sick- ness, ore co only known s “the bends.” This ter refers to spec- tru of st tes whereupon bubbles of nitrogen g s collect in the blood nd tissues.
+- To help illustr te, picture bottle of sod being opened, llowing the bubbles to r pidly co e out of the solution to the top.
+- Clinic lly, the degree of collection is result of the depth nd length of the dive.
+- This p tient s new diver scended to the surf ce too quickly c using n air embolism.
+- Nitrogen g s bubbles for nd sub- sequently tr vel to the rteri l syste through the pul on ry veins into the c rdi c ch bers.
+- Arterial gas embolism y lso occur if the p tient h s p tent for en ov le.
+- History-t king should include prior bee stings, as each successive sting increases the possibility of anaphylaxis given sen- sitization.
+- The ABCs ust be initi lly ddressed.
+- Stings ost co only present with loc lized burning, erythe , nd ede t the sting site l st- ing for bout 24 hours.
+- The necrotic lesion in connection with tr vel to the south-central United States is cl ssic for brown recluse spider bite.
+- The brown recluse spider c n be distinguished by its violin-shaped cepha- lothorax.
+- The initi l bite is usu lly p inless nd within few hours for s cule or vesicle, which c n progress to erythe nd blistering.
+- Dex eth sone is reco ended bec use the p tient h s n llergy to sulfon ide edic tions.
+- This p tient is experi- encing AMS with no signs of high- ltitude pul on ry ede or high- ltitude cerebr l ede .
+- The first-line tre t ent is descent nd oxygen supplementation, which is lre dy cco plished in this p tient.
+- This p tient sust ined direct lightning injury s evidenced by the typic l fern-like pattern exhibited.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: B.
+- Correct clinical focus: E.
+- Correct clinical focus: D.
+- Correct clinical focus: C.
+- Correct clinical focus: A.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Eye Pain and Visual Change
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- At ini u the p tient h s herpes zoster (shin- gles) nd y potenti lly h ve herpes zoster ophthalmicus, n infection c used by the VZV.
+- The shingles in this c se involves the ophthalmic division (V1) of the trigeminal nerve.
+- Shingles is di gnosed clinic lly by visu lizing p tch of grouped vesicles on n erythe tous b se loc ted in der to l distribution.
+- Hutchinson sign describes vesicles on the tip of p tient’s nose in the setting of herpes zoster nd is strongly ssoci ted with involve ent of the eye.
+- When there is ocul r involve ent, the infection is c lled herpes zoster ophthalmicus.
+- Ocular complications occur in 20% to 70% of the c ses involving the ophth l ic division of the trige in l nerve.
+- This p tient h s pterygium, tri ngul r growth of tissue fro the bulb r conjunctiv th t c n encro ch on the periphery of the corne .
+- It is ore co on on the n s l side of the corne nd y ffect one or both eyes.
+- Pterygiu is ssoci ted with exposure to wind, dust, and sunlight.
+- Ophth l ic edic tions re color-coded.
+- While this question y see esoteric, it c n be clinic lly useful to know the colors of eye edic tions.
+- In this c se, knowing th t yellow c ps re β-blockers suggests th t this p tient y be currently tre ted for gl uco .
+- This p tient h s cl ssic viral conjunctivitis sso- ci ted with vir l upper respir tory infection.
+- P tients with vir l con- junctivitis typic lly h ve conjunctival infection nd watery discharge.
+- Preauricular lymphadenopathy is lso ssoci ted with vir l etiology.
+- This p tient h s corneal abrasion fro prolonged cont ct lens use.
+- The br sion is best visu lized fter fluorescein st ining nd cob lt blue illu in tion of the corne .
+- Contact lens wearers with br - sions re t high risk for pseudomonal infection nd should be tre ted with n antipseudomonal agent, such s tobr ycin.
+- This p tient h s HSV keratitis.
+- The h ll rk of this dise se is the br nching or dendritic ulcer.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- P tients y lso present without corne l involve ent but will h ve typic l herpetic skin lesions in 490 Emergency Medicine the eyelids nd conjunctiv .
+- This p tient h s subconjunctival hemorrhage c used by conjunctiv l vessel rupture fro coughing.
+- This co on ED co pl int c n result spont neously or fro V ls lv -induced pressure spikes (such s coughing, vo iting, or be ring down), tr u , nd hyper- tension.
+- P tients c n be reassured th t subconjunctiv l he orrh ges spon- taneously resolve in 1 to 2 weeks.
+- Chemical injuries to the eye ust be immediately irrigated with ini u of 1 to 2 L of nor l s line s soon s they rrive in the ED.
+- Topic l nesthesi nd the use of Morg n lens ( speci l device to provide l rge volu e irrig tion to the eye) c n help f cilit te this procedure.
+- Eye Pain and Visual Change Answers 491 Irreversible eye d ge c n occur if irrig tion is held for physic l ex in tion nd visu l cuity testing (b).
+- This p tient h s UV keratitis, lso known s snow blindness, which is r di tion burn on the corne fro exposure to n UV-ray-containing light source.
+- In this c se, it w s c used by exposure to the sun itself.
+- Individu ls who re in snowy environ ent re ore prone to UV ker titis, bec use of the ddition l r di tion fro the sun th t is reflected off the snow.
+- This p tient h s orbital cellulitis, n infection deep to the orbit l septu .
+- The p tient h d recent upper respir tory infec- tion nd prob ble sinusitis, which likely resulted in orbit l extension of the infection.
+- Staphylococcus aureus nd Haemophilus influenzae re co on etiologies, nd ucor ycosis ust be considered in di betics nd i u- noco pro ised p tients.
+- The p tient h s acute angle-closure glaucoma, in which the queous hu or production in the posterior ch ber of the eye is un ble to dr in through the nterior ch ber nd the result nt obstruction c uses increased IOP.
+- P tients with cutely elev ted IOP h ve mid-dilated, nonreactive pupil with corneal clouding nd decreased vision.
+- The di gnosis is confir ed by checking the IOP with Tono-Pen or tono eter.
+- This p tient h s n orbital blowout fracture of the inferior w ll c using entrapment of the inferior rectus muscle nd restricted eye movement resulting in diplopia.
+- A CT sc n with thin cuts through the orbits c n confir the di gnosis.
+- P tients with this injury re gener lly st rted on or l ntibiotics bec use of the risk of infection ssoci- ted with sinus w ll fr ctures nd they y follow up with the institution’s ppropri te surgic l service in 3 to 10 d ys.
+- This p tient h s n APD, lso known s Marcus Gunn pupil.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: B.
+- Correct clinical focus: E.
+- Correct clinical focus: D.
+- Correct clinical focus: A.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Prehospital, Disaster, and Administration
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- In mass-casualty incidents one of the most vital components of triage is to assign the appropriate acuity level of injury in an easy to implement, standardized, and efficient manner.
+- The most widely used triage system is the START system that focuses on assessing three parameters.
+- These are as follows: (i) Respirations (ii) Perfusion (iii) Mental status Patients are assessed based on these three parameters and then assigned a colored triage tag corresponding to one of the following triage categories: Red (Immediate): immediate care and transfer necessary Yellow (Delayed): delayed transfer and care until all “reds” are cleared Green (Minor): “walking wounded” and lowest priority to transfer Black (Deceased): dead at the scene from nonsurvivable injuries Patients who are wounded but are able to walk on scene are given a green tag (a) signifying a low priority and are attended to or transferred last.
+- After the events of September 11th, the United States government and Department of Homeland Security made a concerted effort to better organize and coordinate disaster response, especially when multiple agencies and jurisdictions are responding to an incident.
+- The result was the creation of the NIMS, which emphasizes common terminology, focuses on multijurisdictional cooperation, and encourages unity of command.
+- Responders report to one and only one supervisor to minimize confusion.
+- The National Highway Traffic and Safety Admin- istration Act of 1966 set recommendations for first responder and EMT training courses.
+- Because prehospital personnel are covered by state and in some cases local funds, the State Board of Emergency Medical Services is authorized to modify recommended course lengths leading to discrepan- cies from state to state.
+- There are four major levels of EMS training and credentialing.
+- There are three modes of transportation available to most EMS systems: ground transportation, rotary-wing air (helicopter) transportation, or fixed-wing air (small plane) transportation.
+- Ground transportation is used for the vast majority of acutely ill or injured patients.
+- Air transport is only indicated when air transport time would be signifi- cantly less than ground transport time.
+- The most important rule of disaster management for chemical agents is the contaminated patient should never be allowed to enter the ED before being decontaminated.
+- Each state has a standard operating procedure for mass casualty decontamination.
+- The following are critical steps in the management of chemical mass casualty exposures: • Recognition of a toxic chemical exposure • Rapid identification of the agents involved • Information retrieval on the toxicity and secondary contamination potential of the agent • Proper protection of self, hospital personnel, already-hospitalized patients, and the facility itself from secondary contamination or loss of serviceability to other patients • Decontamination and triage of victims • Stabilization and medical treatment of victims • Protection of the community-at-large from secondary contamination Prehospital, Disaster, and Administration Answers 509 This question pertains to the decontamination step of a toxic chemical exposure, which is clearly of imminent risk to the surrounding community because some of the crew have already died.
+- The patients’ symptoms are consistent with a cho- linergic toxidrome, which can be caused by chemicals (ie, carbamates and organophosphates), chemical weapons that act as nerve agents (ie, tabun, sarin, and VX gas), and several types of mushrooms.
+- The toxidrome can be remembered with the mnemonic DUMBBELLSS, which stands for diarrhea, urination, miosis, bradycardia, bronchospasm, emesis, lacrima- tion, lethargy, salivation, and seizure.
+- Hyperstimulation of cholinergic receptors causes a generalized outpouring of GI and respiratory secre- tions, which is usually the most prominent initial clinical finding.
+- Mark-1 auto-injector kits were developed by the US military for use by servicemen in situations of potential chemical warfare, specifically against nerve agents such as sarin, tabun, and VX gas.
+- The kits are also effective against poisoning by organophosphates and other simi- lar chemicals that cause inactivation of acetylcholinesterase by irreversibly Prehospital, Disaster, and Administration Answers 511 binding the enzyme and inhibiting it from breaking down acetylcholine.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- This results in massive amounts of acetylcholine building up in nerve ter- minals causing hyperstimulation of cholinergic receptors.
+- 911 was adopted as the universal emergency access number in 1973, and since then has been the mainstay of public access 512 Emergency Medicine to emergency services such as police, fire, and EMS.
+- Dispatch centers are staffed by trained and qualified 911 operators who are regulated by the EMS subdivision of the National Highway Traffic Safety Administration (NHTSA), which falls under the oversight of the Department of Transpor- tation (DOT).
+- 911 operators are trained to use a chief complaint centered, question based algorithm to determine the priority and severity of the call, in order to dispatch the appropriate level of EMS unit.
+- In 2010, a meta-analysis of 79 studies spanning 1950-2008 involving 142,740 patients with presumed out-of-hospital car- diac arrest found parameters that predicted increased survival to hospital discharge.
+- EMS should be queried about the presence or absence of these factors to help the physician gauge the utility of continuing resuscitative efforts.
+- Survival was found to be more likely among those cardiac arrests that were witnessed by a bystander (13.5%-6.4%), witnessed by EMS (18.2%-4.9%), who received bystander CPR (16.1%-3.9%), were found in ventricular fibrillation/ventricular tachycardia (23.0%-14.8%), or achieved return of spontaneous circulation (33.6%-15.5%).
+- Several studies have demonstrated that early defi- brillation is the single most important predictor of survival in out of hospital cardiac arrest, and thus early bystander AED use should be empha- sized and encouraged in the general public.
+- The International Liaison Com- mittee on Resuscitation, which includes representatives from the American Heart Association, the European Resuscitation Council, Australian Resus- citation Council, Heart and Stroke Foundation of Canada, and the Resus- citation Councils of Southern Africa, strongly encourages active efforts in both the out-of-hospital and in-hospital setting to decrease time to defibril- lation.
+- The most important method of improving the quality and efficacy of resuscitative efforts revolves around public education and awareness in regards to early identification of cardiac arrest, early initiation of CPR, and prompt AED application and use.
+- The HIPAA (1996) was created to protect patients’ privacy rights by establishing rules for disclosures of confidential health information.
+- The act was intended to standardize health information transfers, require identification numbers for providers, health plans, and employers, and to protect confidential protected health information (PHI).
+- The inclusion of PHI protection resulted from fears that electronic transfers and ID numbers could be misused.
+- The EMTALA mandates that unstable patients cannot be discharged or transferred except for medical necessity.
+- The purpose of EMTALA was to discourage low-income and high-risk patients from being transferred from one ED to another for financial advantage.
+- Under EMTALA any patient presenting to an ED has the right to an MSE to determine if an emergency medical condition (EMC) exists without regard to the patient’s ability or willingness to pay for services rendered.
+- The EMS-DNR order was created to allow individu- als to provide an advance directive to emergency medical technicians regard- ing their desire for or against resuscitative treatment.
+- This vignette evokes a dilemma where the ethical wishes of rescuers to act for the good of their patient (ie, beneficence) contradicts the individual’s autonomous wishes expressed in the EMS-DNR order.
+- In the case of a suicide, especially within the context of the patient’s depression at the news of his recent diagnosis of pancreatic cancer, treatment is necessary.
+- Critically ill patients are often transported initially to a local hospital for assessment and subsequent stabilization.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: D.
+- Correct clinical focus: E.
+- Correct clinical focus: B.
+- Correct clinical focus: A.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Wound Care
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- On plain films, 80% to 90% of foreign bodies can be seen.
+- Glass larger than 2 mm is visible on plain film.
+- Foreign body sensation (a) has a sensitivity of 43% and specificity of 83%.
+- To achieve low bacterial counts through irrigation, a pressure of 5 to 8 psi is recommended.
+- This pressure can be generated with an irrigation syringe or a 35-mL syringe and a 19-gauge needle.
+- Water (both sterile or tap) is as equally efficacious as sterile normal saline.
+- Tetanus toxoid is contraindicated in patients who have had a severe allergic reaction, including respiratory distress or cardio- vascular collapse.
+- Tetanus immunoglobulin can be used in these patients.
+- Local reaction at injection site resulting in redness, pain, and swelling is not considered a contraindication.
+- Performing a digital block with lidocaine at the base of the finger will block the digital nerves allowing for appropri- ate anesthesia.
+- To perform a digital block, place the patient’s hand on a sterile field with the palmar surface flat on a table.
+- Cleanse the appro- priate MCP joint and surrounding area and then insert the needle into the dorsal aspect of the web space on either side at a 60 degree angle of insertion toward the palm.
+- The median nerve supplies sensation to the volar aspect of the second digit, as well as the radial half of the third and fourth digits, and the ulnar half of the first digit.
+- The ulnar nerve (a) provides sensation to volar aspect of the fifth digit and the ulnar half of the fourth digit.
+- The radial nerve (c) supplies the volar radial half of the first digit.
+- This is a laceration of the face crossing the vermilion border (demarcation of the lip mucosa and facial skin).
+- The goal of repair in this case is approximation of the vermilion border with less than 2 mm of displacement because significant displacement is cosmetically unap- pealing.
+- An infraorbital nerve block is required because local anesthesia would distort tissue anatomy, thereby limiting appropriate approximation.
+- Puncture wounds, owing to their depth, can- not be cleaned adequately.
+- Often, closure is not necessary in small punc- ture wounds that, following initial management in the ED, demonstrate adequate healing.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- However, for large puncture wounds delayed primary closure can improve the cosmetic outcome and decreases the risk of abscess formation and wound infection.
+- Worldwide, dog bites are far and away the most common vector of rabies transmission to humans.
+- Rabies is an infection caused by a number of lyssaviruses (d) and when contracted by humans, is uniformly fatal.
+- The incubation period between acquisition of the virus and the manifestation of clinical symp- toms is anywhere between 2 and 12 weeks.
+- Foreign bodies with potential to cause an infection and inflammatory response require immediate removal (ie, thorns, splin- ters, spines, teeth, and soil-covered objects).
+- These materials may cause intense and excessive inflammatory responses.
+- If the ED physician cannot remove the foreign body, the appropriate specialist should be consulted.
+- Direct sun exposure during healing can lead to per- manent hyperpigmentation.
+- Therefore, patients should be advised to avoid direct sun exposure and use sunblock for up to 12 months after the injury.
+- Patients should be instructed to wash the wound with gentle soap and water (b) as early as 8 hours after sutures are placed.
+- The rate of contracting HIV after percutaneous exposure to infected blood is 0.3%, and the rate of contracting HIV from mucus membrane exposure to infected blood is 0.09%.
+- Wound Care Answers 531 Blood is by far the most efficient transmission medium for HBV (a).
+- HCV is not transmitted efficiently through blood, with an average rate of seroconversion in persons exposed to infected blood of 1.8% (compared to a 20%-30% seroconversion rate in exposure to hepatitis B–infected blood) (c).
+- Tissue adhesives close wounds by forming an adhesive layer that brings the edges of the laceration together.
+- They can- not be used on mucosal membranes and areas with thick hair.
+- For optimal results, it should be applied in three to four layers in a dry, bloodless field.
+- This patient has a less than 10-mm dermal slice that is generally managed with bleeding control, nonadherent dressings, and a finger splint to prevent reinjury and decrease pain.
+- Dressing changes have to be performed every 24 to 48 hours.
+- Fingertip amputation greater than 10 mm, exposure of the bone, or involvement of the nail may require a hand surgeon consultation.
+- The most appropriate initial step is to apply 2.5% calcium gluconate gel to the wound.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: B.
+- Correct clinical focus: D.
+- Correct clinical focus: A.
+- Correct clinical focus: E.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Endocrine Emergencies
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- The mainstay of treatment for diabetic ketoacidosis (DKA) is aggressive IV fluid resuscitation and IV insulin therapy.
+- The patient should receive 2 L of NS within 2 hours of presentation followed by 4 to 6 L over the next 8 to 12 hours depending on the patient’s fluid status.
+- In DKA, the average adult has a water deficit of 5 to 10 L.
+- Thyroid storm is a medical emergency that will lead to death if not treated in time.
+- The manifestations of thyroid storm include temperature greater than 100°F, tachycardia out of propor- tion to fever, widened pulse pressure, CNS dysfunction (ie, confusion, agitation), cardiovascular dysfunction (ie, high-output congestive heart failure, atrial fibrillation), and gastrointestinal (GI) dysfunction (ie, diar- rhea, abdominal pain).
+- Thyroid storm is a clinical diagnosis because no confirmatory tests are immediately available.
+- PTU is the only medication able to inhibit thyroid hormone production, as well as block peripheral conversion of T4 to T3, the active and much more potent form of the hormone.
+- Because of this property, PTU is the treatment of choice in thyroid storm.
+- Hydrocortisone (a) is a very potent inhibitor of peripheral conversion of T4 to T3, much more so than PTU, but it does not inhibit thyroid hor- mone synthesis.
+- Myxedema coma is a syndrome that represents extreme hypothyroidism.
+- It is a life-threatening condition that has a Endocrine Emergencies Answers 543 mortality of up to 50%.
+- Signs and symptoms of hypothyroidism are usu- ally present including dry skin, delayed deep tendon reflexes (prolongation of the relaxation phase), coarse hair, and generalized nonpitting edema.
+- Hyperosmolar hyperglycemic state (HHS) is a syn- drome representing marked hyperglycemia (serum glucose > 600 mg/dL), hyperosmolarity (plasma osmolarity > 350 mOsm/L), considerable dehy- dration (9 L deficit in a 70-kg patient), and decreased mental functioning that may progress to coma.
+- HHS may be the initial presentation of previ- ously unrecognized diabetes in an adult with type 2 DM.
+- Elderly diabet- ics are at greater risk for this illness.
+- Hypokalemia can cause muscle weakness and char- acteristic ECG changes (flattened T waves and U waves).
+- Hypokalemia is not associated with seizures or altered mental status.
+- A glucose level can be rapidly obtained from a fingerstick point-of-care glucose check.
+- Adrenal cortical insufficiency is an uncommon, potentially life-threatening condition that, if recognized early, is readily treatable.
+- The most common cause of adrenal insufficiency is hypothalamic- pituitary-adrenal axis suppression from long-term exogenous glucocorti- coid administration.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- This patient abruptly stopped her high-dose steroids prescribed for her chronic knee pain.
+- If adrenal insufficiency is suspected, initial work- up includes ACTH and morning cortisol levels.
+- The combination of the two levels helps differentiate primary from secondary adrenal insufficiency.
+- Significantly increased plasma value of ACTH in response to low cortisol levels is diagnostic of primary adrenal insufficiency.
+- High-dose IV hydrocortisone is the treatment of choice in adrenal insufficiency and should be initiated early.
+- Additionally, IV hydration with dextrose must be provided to treat associated hypoten- sion and hypoglycemia as soon as possible.
+- Insulin drip (a) is used in treatment of DKA.
+- The patient presented with hypoglycemic seizure.
+- The initial management step in any patient presenting with altered mental status is a point-of-care glucose.
+- Severe hypoglycemia is defined as blood glucose less than 40 to 50 mg/dL and impaired cognitive function.
+- Hypoglycemic episodes secondary to sulfonylurea medications (ie, glipizide) require special attention and warrant at least 24-hour observation.
+- Sulfonylurea hyperglycemic agents cause prolonged, severe hypoglycemia with recurrent episodes.
+- Newly diagnosed patients treated with these agents are at increased risk for hypoglycemic episodes.
+- If factious hypoglycemia due to exogenous insulin administration is suspected, simultaneous values of glucose, insulin, and C-peptide levels must be obtained.
+- In cases of exogenous insulin adminis- tration, blood insulin levels are high, while plasma C-peptide levels are normal or low.
+- In contrast, natural insulin production will result in equiva- lent production of c-peptide and insulin.
+- Most states designate certain professional groups as mandated reporters while a few states require all persons to report child abuse.
+- The following are some of the professional groups required to report all child abuse cases: physicians, nurses, other health care workers, social workers, child-care providers, medical examiners, and law enforcement officers.
+- A report must be made when the reporter, in his or her official capacity, suspects or has reason to believe that a child has been abused or neglected.
+- Sheehan syndrome is a rare acute dysfunction of hypothalamic-pituitary axis, which may be seen after obstetric hemorrhage and maternal hypotension during delivery.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: D.
+- Correct clinical focus: E.
+- Correct clinical focus: B.
+- Correct clinical focus: A.
+- Correct clinical focus: C.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Psychosocial Disorders
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- A person with panic attacks will often present to multiple EDs an be ischarge after a workup is normal.
+- A panic attack is a iscrete perio of intense fear or iscomfort in which four or more of the following symptoms evelop acutely an peak within 10 minutes: acceler- ate HR, palpitations, poun ing heart, iaphoresis, trembling or shaking, sensation of shortness of breath or a choking feeling, chest pain, nausea, izziness, light-hea e ness, paresthesias, fear of ying, chills, or hot flushes.
+- Paroxysmal atrial tachycar ia (a) is a con uction efect of the heart characterize by ran om episo es of tachycar ia.
+- Conversion disorder is iagnose base on five criteria.
+- These are as follows: • A symptom is expresse as a change or loss of physical function.
+- • There was a recent psychological stressor or conflict.
+- This patient presents with a first manic episode.
+- It is necessary to admit these patients in or er to prevent behavior that is impulsive an angerous.
+- A full manic syn rome is one of the most strik- ing an istinctive con itions in clinical practice.
+- Tranylcypromine is a monoamine oxidase inhibi- tor (MAOI) that is use in the treatment of epression.
+- Patients who take this me ication shoul avoi eating or rinking foo s that contain tyra- mine (similar structure to amphetamine) such as age cheese, wine, certain fish, meats, an sauerkraut.
+- The combination of a MAOI an tyramine can lea to a sympathomimetic reaction calle a tyramine reaction.
+- Violent behavior requires immediate restraint.
+- Hospital security an the police are best traine to sub ue violent patients 558 Emergency Medicine with the least chance of staff or patient injury.
+- Patients who are threaten- ing or who emonstrate violent behavior shoul be isrobe , gowne , an searche for weapons.
+- Rapi tranquilization is a metho of pharmacologic management of acute agitation or psychosis using high-potency neuroleptics an benzo iazepines.
+- The most common regimen use is the combination of haloperidol an lorazepam, which can be a ministere via parenteral, intramuscular, or oral routes.
+- There is a synergistic effect between the two me ications.
+- A major depressive episode is characterize by two or more of the following symptoms over a 2-week perio : loss of interest in usual activities, epresse or irritable moo , changes in weight or appetite, insomnia or hypersomnia, psychomotor agitation or Psychosocial Disorders Answers 559 retar ation, loss of energy, ifficulty concentrating, recurrent thoughts of eath, an suici al i eation.
+- This patient has three of these symp- toms, inclu ing excessive sleeping patterns, ifficulty concentrating, an a ecrease appetite.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- The anger is that the patient’s feelings may be so intensely painful that suici e may be seen as the only way to cope.
+- Steroid-induced psychosis is escribe as a constel- lation of psychiatric symptoms within the first 5 ays of treatment with a corticosteroi .
+- Stu ies in icate that the amount nee e to pro uce this effect is greater than 40 mg of pre nisone (or an equivalent) prescribe aily.
+- Symptoms inclu e emotional lability, anxiety, istractibility, pres- sure speech, sensory floo ing, insomnia, epression, agitation, au itory an visual hallucinations, intermittent memory impairment, mutism, is- turbances of bo y image, an elusions an hypomania.
+- This is a typical manic episode whose car inal features are an elevate moo , gran iosity, flight of i eas, istractibility, an psycho- motor agitation.
+- Other me ical con itions, such as hyperthyroi ism, anti e- pressant, or stimulant abuse, may cause similar symptoms an must be rule out with laboratory testing.
+- Certain frontal lobe release syn romes that impair executive functioning must also be investigate as a cause of this patient’s symptoms.
+- Munchausen syndrome by proxy is a psychiat- ric illness in which illness is concocte by a caregiver upon a chil who presents for me ical ai multiple times an a true me ical iagnosis is not ma e.
+- The perpetrator fails to acknowle ge the true etiology an the symptoms cease once the chil is separate from the perpetrator.
+- Simulate illnesses that o not irectly harm the chil are commonly seen.
+- The “SAD PERSONS” scale was evelope to assess the risk of suici e attempt.
+- Accor ing to the scale, two points are given for factors that are consi ere high risk.
+- These inclu e epression or hope- lessness, rational thinking loss, organize or serious attempt, an state future intent.
+- The physical examination in this patient reveals han abrasions, in icative of self-purging.
+- Her general appearance suggests either ina equate foo intake or excessive calorie burning.
+- Bulimics gener- ally consume an a equate amount of foo , albeit low calorie an then purge their intake with the goal of weight loss.
+- TCAs are responsible for more rug-relate eaths than any other prescription me ication.
+- This ECG shows QRS interval prolongation, a common fin ing with this me ication.
+- The mechanism of toxicity is multifol an inclu es blocking the reuptake of opamine, serotonin, an norepinephrine.
+- In ivi uals with histrionic personality isor er ten to be excessively emotional, emonstrate attention-seeking behavior, an esire to be the center of attention.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: D.
+- Correct clinical focus: B.
+- Correct clinical focus: C.
+- Correct clinical focus: E.
+- Correct clinical focus: A.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+
+================================================================================
+CHAPTER: Emerging Infectious Diseases
+================================================================================
+
+1. CLINICAL OVERVIEW & PATHOPHYSIOLOGY / نظرة عامة والفيزيولوجيا المرضية
+English core concepts:
+- This patient is presenting with signs and symptoms concerning for infection with Ebola Virus Disease (EVD).
+- She should be evaluated for abnormal CBC, LFTs, and coagulation profile.
+- Early in the disease course, laboratory testings will show leukopenia, lymphocytopenia, mild thrombocytopenia (50,000-100,000 platelets), and transaminitis (AST > ALT and in the 1000 IU/L range).
+- EVD spreads through direct contact (mucous mem- branes, breaks in skin, and needles) with blood or body fluids of patients infected with EVD disease.
+- Given the high pathogenicity (fatality rate) and virulence of the disease (ease of spread) high-level contact precautions are recommended alongside airborne precautions when there is a chance of generating aerosols.
+- The CDC recommends full body coverage (including eye protection) by PPE and the use of either N95 masks or personal air puri- fying respirators (PAPRs) for protection from aerosols.
+- The patient is presenting with an influenza-like viral illness, and the most common finding on CXR is bilateral interstitial infiltrates.
+- The additional characteristics of off-peak flu season, travel to Asia, possible exposure to poultry in an open-air market, symptoms and indication of geographic spread suggest the possibility of pandemic influ- enza (Pan flu).
+- Birds, poultry, and livestock are known reservoirs for the virus and are theorized to be the site of recombination to virulent strains.
+- ARDS is the most common complication in patients with influenza and especially in highly pathogenic influenza char- acteristic of Pan flu.
+- ARDS is a life-threatening condition characterized by widespread inflammation in the lungs secondary to cytokine release, affect- ing the alveoli leading to impaired gas exchange.
+- ARDS has a high mor- tality between 20% and 50%.
+- The most common mechanism that pandemic influenza spreads is via respiratory droplets.
+- Epidemiologic and labo- ratory data also suggests the ability of influenza to spread through aero- sols in close proximity; therefore, guidelines recommend particulate respirators (N-95) be used during direct patient care until the precise mechanism of spread can be elucidated.
+- Since the spread is limited to a 570 Emergency Medicine few feet, private rooms are recommended, but negative pressure rooms are not required, deviating from the common notion of “airborne” isolation.
+- The MERS-CoV causes a respiratory viral syn- drome with predominant symptoms of cough, fever, and shortness of breath, infecting patients who live in the Middle East or have traveled to this region.
+- The biggest risk factor for contracting MERS-CoV is travel to the Arabian Peninsula.
+- MERS-CoV is endemic to countries in the Arabian Peninsula including Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, the United Arab Emirates, and Yemen.
+- ARDS is a severe and common complication of MERS-CoV.
+- This patient is toxic-appearing with abnormal vital signs including high fever, tachycardia, hypotension, tachypnea, and hypoxia.
+
+الشرح العربي الدراسي:
+
+2. DIAGNOSTIC APPROACH & WORKUP / التشخيص والتقييم السريري
+The diagnostic approach should be driven by the emergency presentation, physiologic instability, red flags, and the discriminating tests emphasized in the source explanations.
+ينبغي أن يبدأ التقييم بتحديد عدم الاستقرار الحيوي، ثم البحث عن العلامات الحمراء واختيار الفحوصات التي تميّز التشخيصات الخطرة عن الحالات الأقل خطورة.
+
+3. EMERGENCY MANAGEMENT & PROTOCOLS / العلاج والتدبير الطارئ
+Management principles extracted from the answer explanations:
+- Given his presentation, this patient warrants admission to the intensive care unit for close monitoring.
+- MERS-CoV infection is thought to be transmitted via respiratory droplets and close contact with infected animals.
+- EV-D68 is spread through an infected person’s respiratory secretions.
+- The virus can be spread when an infected patient coughs, sneezes, or touches a surface that others later touch.
+- Therefore, patients with EV-D68 placed in both droplet and contact isolation.
+
+مبادئ التدبير المستخلصة:
+
+4. HIGH-YIELD BOARD PITFALLS / أخطاء شائعة وملاحظات الامتحان
+- Correct clinical focus: C.
+- Correct clinical focus: E.
+- Correct clinical focus: B.
+- Correct clinical focus: D.
+- Correct clinical focus: A.
+
+ملاحظات الامتحان:
+- ركّز على التمييز بين الحالات المتشابهة، وعلى الإجراء الأول عند وجود تهديد فوري للحياة، وعلى الحالات التي لا يجوز استبعادها بفحص طبيعي واحد.
+

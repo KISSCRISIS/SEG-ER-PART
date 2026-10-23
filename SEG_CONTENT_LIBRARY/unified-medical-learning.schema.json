@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/unified-medical-learning.schema.json",
+  "title": "SEG Unified Medical Learning Library",
+  "description": "Canonical, additive read model for Learn resources. Existing source records remain compatible through adapters.",
+  "type": "object",
+  "required": ["schemaVersion", "books"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "books": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/book" }
+    }
+  },
+  "$defs": {
+    "book": {
+      "type": "object",
+      "required": ["id", "title", "chapters"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "edition": { "type": ["string", "number"] },
+        "source": { "type": "string" },
+        "chapters": { "type": "array", "items": { "$ref": "#/$defs/chapter" } },
+        "legacy": { "type": "object" }
+      },
+      "additionalProperties": true
+    },
+    "chapter": {
+      "type": "object",
+      "required": ["id", "title", "topics"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "source": { "type": "string" },
+        "order": { "type": "integer", "minimum": 0 },
+        "topics": { "type": "array", "items": { "$ref": "#/$defs/topic" } },
+        "legacy": { "type": "object" }
+      },
+      "additionalProperties": true
+    },
+    "topic": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "fullOriginalSummary",
+        "arabicExplanations",
+        "highYieldPoints",
+        "diagnosis",
+        "management",
+        "algorithms",
+        "examPearls"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "fullOriginalSummary": { "$ref": "#/$defs/textList" },
+        "arabicExplanations": { "$ref": "#/$defs/textList" },
+        "highYieldPoints": { "$ref": "#/$defs/textList" },
+        "diagnosis": { "$ref": "#/$defs/textList" },
+        "management": { "$ref": "#/$defs/textList" },
+        "algorithms": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "type": "string" },
+              {
+                "type": "object",
+                "required": ["title", "steps"],
+                "properties": {
+                  "id": { "type": "string" },
+                  "title": { "type": "string", "minLength": 1 },
+                  "steps": { "$ref": "#/$defs/textList" }
+                },
+                "additionalProperties": true
+              }
+            ]
+          }
+        },
+        "examPearls": { "$ref": "#/$defs/textList" },
+        "references": { "type": "array" },
+        "provenance": {},
+        "legacy": { "type": "object" }
+      },
+      "additionalProperties": true
+    },
+    "textList": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}

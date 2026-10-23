@@ -1,0 +1,248 @@
+# Project TODO
+
+- [x] Extract and prepare the approved SEG production visual assets outside the project, then publish them through managed static asset URLs.
+- [x] Apply the SEG global dark glass medical-tech design foundation with Inter typography, #00D4FF and #0EA5E9 accents, accessible focus states, responsive breakpoints, reduced-motion support, and animation durations below 300ms.
+- [x] Implement the Landing route (`/`) with SEG branding, the exact CTA labels “Start Journey,” “Login,” and “Register,” feature cards, medical visual panel, responsive layout, and working navigation.
+- [x] Implement the Registration route (`/register`) with professional-track selection, medical-tech identity and supporting visual panels, client-side validation, submission feedback, and Login navigation.
+- [x] Implement the Login route (`/login`) with SEG brand presentation, accessible form elements, social login section, Register navigation, forgot-password feedback, and Manus OAuth entry point.
+- [x] Implement the protected Dashboard route (`/dashboard`) labelled “My Home,” retaining the existing authentication boundary and providing sidebar navigation, profile, progress, learning modules, quick actions, and medical content cards.
+- [x] Add reusable SEG glass-card, section-heading, badge, and navigation components without replacing existing authentication, database, or security infrastructure.
+- [x] Add Vitest coverage for protected-route behavior and key navigation or validation helpers without changing database schema.
+- [x] Run local type-check, test suite, production build, route interaction validation, and desktop/mobile visual checks for all four routes.
+- [x] Produce `SEG_PHASE1_VISUAL_IMPLEMENTATION_REPORT.md` with implemented changes, screen-by-screen validation, test results, and remaining gaps.
+- [x] Re-audit the current Landing, Registration, Login, and My Home implementations against the approved production reference images and record visual-only deltas.
+- [x] Replace any non-approved visual treatments with the corresponding approved production assets without changing application behavior, routes, authentication, database, or security boundaries.
+- [x] Correct global SEG spacing, typography, color, glass, border, shadow, icon, and illustration treatments to align with the approved production visual direction.
+- [x] Correct the Landing hero, Registration split panel, Login composition, and My Home dashboard card structure to match their approved production references.
+- [x] Run local build, route, and desktop visual validation; create reference-versus-implementation comparison screenshots for the four corrected screens.
+- [x] Verify the availability of clean approved standalone production media for the Landing, Login, Registration, and My Home visual stages; replace remaining generic visual placeholders only where the source supports it.
+- [x] Reinspect the corrected global styling and shared visual components to document concrete alignment with approved typography, spacing, glass, border, shadow, and accent rules.
+- [x] Capture and retain authenticated My Home validation evidence from the managed preview session, separate from the unauthenticated secure-access boundary.
+- [x] Regenerate and label the final four-screen comparison evidence, explicitly identifying the authenticated My Home capture and any source-asset limitations.
+- [x] Record final approved-asset eligibility decisions and corresponding source-limited fallback treatments in the delivered comparison evidence.
+- [x] Verify the final Landing, Registration, Login, and My Home visual-stage code to document removed placeholders or source-limited fallback treatments.
+- [x] Verify shared SEG visual components and complete the concrete global visual-system evidence record.
+- [x] Create the Image-to-Image Translation skill package with reference-preserving style-transfer guidance.
+- [x] Create the Inpainting & Color Transfer skill package with scoped edit and palette-transfer guidance.
+- [x] Create the Background Removal & Transparency skill package with clean-alpha and edge-validation guidance.
+- [x] Create the Outpainting & Upscaling skill package with composition-preserving extension and scale-up guidance.
+- [x] Validate all four image-workflow skill packages and deliver them as installable skill attachments.
+- [x] Deliver the four validated image-workflow skill packages as installable attachments for the user’s skill library.
+- [x] Create the Next.js + Tailwind CSS Mastery skill package for preserving application architecture while implementing production-quality responsive UI.
+- [x] Create the Framer Motion (React), SVG Animation, and Tailwind glassmorphism skill packages for constrained, accessible motion and premium visual surface work.
+- [x] Create the Pixel Perfect Implementation, Visual Richness, Layout Composition, and Micro-interactions Fidelity skill package for reference-driven visual correction.
+- [x] Create the NeRF / 3D Gaussian Splatting and Python + Open3D / Trimesh skill packages for 3D reconstruction and mesh-processing workflows.
+- [x] Validate and deliver all requested new skills as installable skill attachments.
+- [x] Audit the current Landing, Registration, Login, and My Home routes against the approved SEG production reference images before any visual correction.
+- [x] Apply only production-reference-supported visual corrections to Landing, Registration, Login, and My Home while preserving current architecture, routes, authentication, database, security, and functionality.
+- [x] Run local route, type, test, and production-build validation and generate approved-reference-versus-final-implementation visual evidence for the corrected SEG routes.
+- [x] Refine Landing density, two-column hero balance, action hierarchy, and four-card value strip against the approved production reference without changing behavior.
+- [x] Resolve the Registration treatment against the direct production reference: retain the dark form-and-medical-visual composition rather than the earlier inferred lavender-canvas interpretation.
+- [x] Refine Login command-center density, central authentication-card proportions, flanking heart/brain stage, ECG line, status controls, and lower capability band against the approved production reference.
+- [x] Refine authenticated My Home sidebar width, compact header, bento-card density, core-stage hierarchy, quick-action row, and lower learning/performance cards against the approved production reference.
+- [x] Verify and add any missing user-requested SEG frontend skill packages: all five were already present as valid packages, so no duplicate creation was required.
+- [x] Validate and deliver the five requested SEG frontend skill packages as installable attachments.
+- [x] Audit the existing `/register` route against the user-approved SEG Registration reference and document source-led visual deltas.
+- [x] Rebuild `/register` to match the approved split-panel Registration reference while preserving existing authentication, database, routing, validation, and security behavior.
+- [x] Validate the corrected Registration route with interaction checks, tests, type checking, production build, and desktop/mobile visual captures.
+- [x] Replace the Registration page’s remaining code-drawn SEG lockups with the isolated official brain-heart mark derived from the approved SEG app-icon source, stored through managed static assets.
+- [x] Execute and record explicit Registration interaction validation for required-field feedback, password visibility, track selection, submit feedback, and Login navigation.
+- [x] Define and create the `strict-reference-fidelity` skill with zero-deviation asset and layout enforcement for approved visual references.
+- [x] Define and create the `supabase-auth-guard` skill for secure Supabase authentication, sessions, protected routes, and role-based medical-application access.
+- [x] Define and create the `nextjs-app-router-routing` skill for strict Next.js App Router file-system routing, layouts, and component boundaries.
+- [x] Define and create the `prisma-database-security` skill for validated Prisma/PostgreSQL access, safe relations, migrations, and raw-query protections.
+- [x] Validate and deliver the four requested skill packages as installable attachments without changing the existing SEG application architecture.
+- [x] Deliver the validated `strict-reference-fidelity`, `supabase-auth-guard`, `nextjs-app-router-routing`, and `prisma-database-security` packages as installable SKILL.md attachments.
+- [x] Select and apply the relevant approved SEG skills for the latest Registration reference rebuild, documenting the selected set and visual-contract boundaries.
+- [x] Rebuild `/register` to match the latest approved two-column dark medical-tech reference, including language controls, multi-step registration fields, professional-role selection, social sign-in controls, and responsive behavior without changing current security or backend boundaries.
+- [x] Validate the latest Registration implementation through desktop and mobile visual captures, executed form interactions, tests, type checking, and production build before publishing.
+- [x] Perform a read-only SEG source-authority validation covering hierarchy, design rules, production visual assets, architecture protections, and Registration correction readiness.
+- [x] Compare the current Registration route to its approved reference and deliver a gap report without modifying implementation files, assets, authentication, database, or security boundaries.
+- [x] Record the approved Login reference as the final future implementation baseline without modifying the Login route or its assets.
+- [x] Perform read-only visual audits for Landing and Login against approved references, and complete a source-led My Home hierarchy audit without bypassing its protected authentication boundary.
+- [x] Deliver the remaining-screen audit findings and pause for explicit implementation approval.
+- [ ] Complete an authorized authenticated visual review of `/dashboard` against the approved My Home reference before any My Home visual implementation work.
+- [x] Receive explicit approval before implementing any identified Landing or My Home visual correction.
+- [ ] Receive explicit approval before implementing any identified My Home visual correction.
+- [x] Complete the newly authorized read-only My Home visual review after existing authentication is available, then report gaps without modifying the dashboard.
+- [ ] Verify the completed external authentication state with direct browser evidence before capturing or assessing protected My Home content.
+- [x] Return the browser to the SEG Login route and verify the available email or Google authentication choices without changing application authentication settings.
+- [x] Repair the Registration country selector interaction and add Jordan as an available selectable value.
+- [x] Set the requested Registration graduation-year value to 2015 using the existing form state and validation boundaries.
+- [x] Validate the Registration country selector and graduation-year correction with focused interaction coverage, visual checks, type checking, and production build.
+- [x] Record the visual-freeze decision: retain the existing authentication architecture unchanged and defer real email/password authentication work.
+- [ ] Post-visual-freeze integration: audit the current SEG authentication, database schema, protected-route, and email-delivery boundaries for secure real email/password sign-in.
+- [ ] Post-visual-freeze integration: define and obtain verified email-delivery configuration for account confirmation and password recovery without exposing credentials.
+- [ ] Post-visual-freeze integration: implement secure email/password registration, verification, sign-in, recovery, session handling, and protected-route integration while preserving OAuth compatibility.
+- [ ] Post-visual-freeze integration: add security-focused authentication tests and validate Login plus protected-route behavior without real user credentials.
+- [ ] Post-visual-freeze integration: capture responsive Login and protected-route evidence, then publish the secure email-authentication implementation with configuration guidance.
+- [x] Obtain existing authenticated access solely for Dashboard visual validation without changing authentication, login flow, or security settings.
+- [x] Capture authenticated My Home visual evidence and compare it only against the approved Dashboard reference.
+- [x] Deliver a read-only Dashboard validation report covering current status, matching elements, visual gaps, missing approved assets, layout differences, and acceptance criteria.
+- [x] Create and validate `targeted-file-inspection`, `incremental-execution`, and `code-reuse-first` skills for evidence-driven speed and precision.
+- [x] Create and validate `pattern-caching`, `lessons-learned-indexing`, and `context-anchoring` skills for documented project learning and context continuity.
+- [x] Record the newly supplied full-logo, heart-and-brain Login image as the superseding final Login visual reference without changing code or assets.
+- [x] Perform a read-only current-versus-reference Login audit for the corrected final reference, identifying layout, asset, typography, glass, and trust-section gaps only.
+- [x] Deliver the corrected Login visual-gap report and wait for explicit visual-only implementation approval.
+- [x] Receive explicit approval before implementing the identified Login visual-only corrections.
+- [x] Correct project tracking to state that the latest approved Login reference has been audited but is not implemented in the deployed `/login` route.
+- [x] Await explicit approval before starting the pending Login visual-only implementation against the latest reference.
+- [x] Receive explicit approval for the Login visual-only implementation against the final approved Login reference.
+- [x] Apply the approved final Login reference to `/login` through visual-only implementation, preserving OAuth, routes, database, and security boundaries.
+- [x] Use only verified official or approved reference-derived SEG logo, heart, brain-heart, and ECG visual assets for the Login composition.
+- [x] Validate the rebuilt Login route with interaction checks, desktop/mobile visual captures, tests, type checking, and production build before publishing.
+- [x] Audit the newly approved Landing replacement reference and prepare only verified reference-derived visual stages required for `/`.
+- [x] Replace `/` with the newly approved Landing composition, including its navigation, hero intelligence scene, metric rail, capability cards, and trust rail while preserving existing public routes and authentication boundaries.
+- [x] Validate the replaced Landing route with interaction coverage, desktop/mobile visual captures, tests, type checking, and production build before publishing.
+- [ ] Obtain direct authenticated browser evidence for `/dashboard` before claiming a completed protected-session My Home visual-gap audit against the approved reference.
+- [x] Perform a strict read-only visual-gap audit of the approved Learn Home reference against the current Learn route or document the route-level availability gap without changing application code.
+- [x] Perform a strict read-only visual-gap audit of the approved My Pathway reference against the current My Pathway route or document the route-level availability gap without changing application code.
+- [x] Re-deliver the consolidated read-only authenticated-screen audit after verified My Home evidence is available, or retain an explicit source-level limitation for that screen.
+- [x] Verify the currently registered authenticated routes and document their access boundaries without changing authentication.
+- [x] Trace the existing component locations and navigation targets for My Home, Learn, and My Pathway without creating routes.
+- [x] Deliver a discovery-only route and screen-availability report, then wait for approval.
+- [x] Complete the newly approved read-only authenticated My Home visual validation against the approved Dashboard reference, preserving the existing Dashboard-only architecture and all authentication boundaries. The latest direct production recheck is limited to the secure-workspace loading state.
+- [x] Complete the My Home visual-only correction against the approved Dashboard reference by confirming the exact approved core asset mapping and any remaining source-limited treatments, without creating routes or changing authentication, database, security, or application architecture.
+- [x] Complete protected-screen visual validation of the corrected My Home Dashboard with authenticated visual evidence, then retain the already passing focused tests, type checking, and production build results before publication.
+- [x] Obtain a stable authenticated `/dashboard` capture of the corrected My Home screen and compare it directly with the approved Dashboard reference.
+- [x] Verify the approved Dashboard core asset mapping and replace any inferred My Home visual treatment only if an exact production asset is available.
+- [x] Record the My Home decision: code correction accepted; Dashboard Brain/Heart Core asset replacement pending; final visual freeze pending; do not publish the correction.
+- [x] Identify the remaining approved SEG screen references that are not Drug Reference and audit their current application availability without implementation.
+- [x] Deliver a read-only remaining-screen availability and visual-authority audit, then wait for approval.
+- [x] Validate the supplied Dashboard Brain/Heart Core candidate against the approved My Home reference for production suitability only; do not implement, replace, or publish it without separate approval.
+- [x] Deliver an evidence-backed Accepted, Rejected, or Needs modification decision for the Dashboard Brain/Heart Core candidate and wait for approval.
+- [x] Validate the newly supplied clean Dashboard Brain/Heart Core candidate against the My Home reference without implementing, replacing, or publishing it.
+- [x] Deliver an asset acceptance recommendation for the clean Dashboard Brain/Heart Core candidate and wait for explicit replacement approval.
+- [x] Upload and register the approved clean Dashboard Brain/Heart Core asset as a managed static resource for the existing My Home Dashboard only.
+- [x] Replace only the existing My Home central Intelligence Core visual with the approved clean asset, preserving Dashboard layout, routes, authentication, database, architecture, and all other screens.
+- [x] Validate the asset replacement with focused tests, type checking, production build, protected-route screenshot evidence, remaining-gap analysis, and freeze-readiness status.
+- [ ] Investigate and correct the large blank upper viewport region observed during authenticated My Home navigation only after separate visual-correction approval.
+- [x] Reconcile the Dashboard core replacement report with the latest live protected-route evidence before any final visual-freeze decision.
+- [x] Retry read-only authenticated My Home visual validation when a stable Dashboard session becomes available, limited to the central core, header, composition, glass system, medical-tech identity, and asset placement/scale.
+- [x] Deliver screenshot evidence, remaining visual gaps, and freeze-readiness status for the stable My Home session, then wait for approval.
+- [x] Investigate the authorized OAuth-to-Dashboard session handoff failure with evidence only, preserving existing authentication, database, security, and protected-route boundaries unless a minimal secure correction is verified.
+- [ ] Verify in production that a fresh OAuth sign-in now establishes the protected Dashboard session, then resume the pending My Home visual validation.
+- [ ] Use a permitted independent test account to verify the production OAuth-to-Dashboard session handoff and capture authenticated My Home evidence without accessing the user's personal account.
+- [x] Investigate and correct the post-authentication redirect that returns SEG users to `/register` instead of the protected My Home Dashboard.
+- [x] Resume the previously blocked authenticated My Home visual validation now that a successful sign-in can be tested, then reconcile remaining dashboard evidence and freeze readiness.
+- [ ] Obtain an archiveable full-page authenticated `/dashboard` capture that includes the central Brain/Heart core and lower My Home sections, then compare it directly against the approved Dashboard reference.
+- [ ] Re-run the My Home visual validation with direct agent-accessible authenticated browser evidence, or retain user-supplied mobile screenshots as indirect evidence only.
+- [x] Update the Dashboard validation report after full authenticated evidence is available, including remaining visual gaps, missing approved assets if any, and freeze-readiness.
+- [x] Inspect availability and intended scope for `flash-landing-pipeline`, `action-commands`, `asset-and-component-mapper`, `legacy-vs-active-guardrail`, and `ui-ux-design-system`.
+- [x] Define and validate any missing requested skill packages using the approved skill-authoring workflow, without changing the SEG application.
+- [x] Document the registered skill set and resume the approved Landing-only visual implementation plan.
+- [x] Create and validate `ui-rendering-repair` for diagnosing and correcting distorted icons, glyphs, fonts, overflow, and text rendering without masking root causes.
+- [x] Rebuild the Landing route from the newly approved reference as real SEG UI components, retaining existing routes, authentication, and architecture.
+- [x] Replace the pictured non-final Drug Reference card with the approved Smart References & Tools card; do not add a Drug Reference Landing navigation target.
+- [x] Validate the updated Landing route at the reference and narrow viewports, verify interactions, and run tests, type checking, and the production build.
+- [x] Update Smart References & Tools as a non-navigational identity card containing only Evidence-Based Resources, Medical References, Clinical Tools, and Learning Support; exclude drug-database, prescribing, and drug-content claims.
+- [x] Analyze the newly supplied authenticated desktop My Home captures against the approved Dashboard reference, update the validation decision, and retain all implementation changes pending explicit approval.
+- [x] Complete a post-implementation authorized authenticated visual review of `/dashboard` against the approved My Home reference and document remaining gaps using the supplied mobile and desktop evidence.
+- [x] Complete a final source-authorized Landing fidelity pass against the approved reference, correcting only confirmed visual deltas while preserving routes, navigation behavior, and the Smart References & Tools substitution.
+- [x] Correct the approved My Home visual gaps only: improve central Brain/Heart Core blending and scale, align sidebar identity fallback with the Dashboard greeting, and restore reference-parity navigation affordances without changing protected-route behavior.
+- [x] Validate the scoped My Home correction with focused tests, build checks, and authenticated visual evidence; update freeze readiness to NOT ACCEPTED pending the residual core tonal boundary, Dark Mode parity, and clean reference-proportion capture.
+- [x] Remove the residual rectangular tonal artifact behind the approved My Home Professional Growth Core without replacing the asset or changing Dashboard behavior.
+- [x] Restore only the reference-backed Dark Mode control in the existing My Home rail, using SEG design-system styling and without routing or architecture changes.
+- [x] Validate the limited My Home finalization with 15 passing tests, type checking, production build, exact-reference-dimension desktop visual comparison, and accepted freeze-readiness evidence.
+- [x] Conduct a read-only post-freeze plan review of secure email/password authentication, retaining the current Manus OAuth implementation and all production settings.
+- [x] Document a staged, security-first email authentication integration plan, required configuration categories, compatibility safeguards, and validation criteria without implementation.
+- [x] Re-verify the approved My Home Professional Growth Core artifact treatment and reference-backed Dark Mode control without changing authentication, routes, database, architecture, or approved assets.
+- [x] Capture final My Home screenshot evidence and report the visual-freeze recommendation for the limited approved scope; distinguish the prior reference-size authenticated visual evidence from the current isolated unauthenticated preview state.
+- [x] Perform a read-only visual-gap audit of the approved Learn Home reference against the existing internal Dashboard Learn section without modifying routes, authentication, database, architecture, assets, or UI.
+- [x] Document Learn Home visual gaps, asset availability, layout, typography, spacing, component differences, and acceptance criteria; wait for explicit implementation approval.
+- [x] Prepare a documentation-only implementation plan for approved Learn Home visual work inside the existing Dashboard architecture; do not create `/learn` or change code, routing, authentication, database, assets, or production settings.
+- [x] Document the current Learn component location, source-authorized asset prerequisites, visual implementation phases, affected files, risks, and approval gate for a future internal Dashboard implementation.
+- [x] Perform a read-only visual-gap audit of the approved My Pathway reference against the existing internal Dashboard My Pathway section without modifying code, routes, authentication, database, architecture, assets, or production settings.
+- [x] Document current state, matching elements, visual gaps, missing approved assets, required corrections, and acceptance criteria for My Pathway; wait for explicit implementation approval.
+- [x] Prepare a documentation-only implementation plan for approved My Pathway visual work inside the existing Dashboard architecture; do not create routes or change code, authentication, database, assets, or production settings.
+- [x] Document the current My Pathway component location, source-authorized asset prerequisites, visual implementation phases, affected files, risks, and approval gate for a future internal Dashboard implementation.
+- [x] Perform a read-only visual-gap audit of the approved Practice reference against the existing internal Dashboard Practice section without modifying code, routes, authentication, database, architecture, assets, or production settings.
+- [x] Document Practice current state, matching elements, visual gaps, missing approved assets, required corrections, implementation risks, and acceptance criteria; wait for explicit implementation approval.
+- [x] Prepare a documentation-only implementation plan for approved Practice visual work inside the existing Dashboard architecture; do not create routes or change code, authentication, database, assets, or production settings.
+- [x] Document the current Practice component location, source-authorized asset prerequisites, visual implementation phases, affected files, technical risks, validation criteria, and asset-approval gate for a future internal Dashboard implementation.
+- [x] Create a reusable `seg-ui-glass-system` skill that directs SEG audits and approved implementations to the authoritative Dark Glass Medical-Tech tokens, component geometry, and Practice-grid interpretation without inventing visual values.
+- [x] Create a reusable `structured-gap-report-output` skill that enforces concise evidence-first SEG visual-gap reports in Markdown by default, with an explicit JSON option when requested.
+- [x] Validate both new skill packages with the skill-authoring validator and remove generated boilerplate not used by the skills.
+- [x] Deliver the validated skills as installable attachments without changing SEG application code, assets, routes, authentication, database, or security settings.
+- [x] Perform a read-only visual-gap audit of the standalone approved Medical Journal reference against the existing internal Dashboard `#journal` section without changing code, assets, routes, authentication, database, architecture, or production settings.
+- [x] Document Medical Journal current state, matching elements, visual gaps, missing approved assets, layout/typography/spacing/component differences, implementation risks, and gated next step; wait for explicit authorization before any implementation.
+- [x] Review the supplied Medical Journal Production Asset Reference visually only for SEG alignment, accepted elements, missing separated assets, and production readiness; do not modify application code, routes, authentication, database, assets, or architecture.
+- [x] Document the `MEDICAL_JOURNAL_ASSET_REVIEW` finding with required corrections and preserve the requirement for approved separated assets plus `EXECUTE_APPROVED` before implementation.
+- [x] Review the supplied `MEDICAL_JOURNAL_ASSET_REVIEW_V2` board in READ_ONLY mode for SEG alignment, accepted assets, missing individual source files, and production readiness without modifying code, routes, authentication, database, assets, or architecture.
+- [x] Document the V2 asset-package finding and retain the gate requiring verifiable separated source files plus `EXECUTE_APPROVED` before any Medical Journal implementation.
+- [x] Perform a read-only inventory of available SEG visual asset packages and managed registry entries, classifying existing production assets, reusable assets, missing assets, and authority/ownership without changing code, assets, routes, authentication, database, or architecture.
+- [x] Document the SEG asset inventory with an explicit source-priority and production-eligibility classification; retain the no-implementation gate.
+- [x] Perform a read-only completion audit of `SEG_INTERNAL_SECTIONS_ASSET_PACKAGE_v1.0` for Learn, My Pathway, Practice, and Medical Journal against Production v1.0 and the SEG design system without changing code, assets, routes, authentication, database, or architecture.
+- [x] Document exact remaining asset files, UI component, responsive, and execution prerequisites for all four internal sections, then return a READY or BLOCKED decision without implementation.
+- [x] Produce a read-only source-to-destination asset mapping assessment for `01_LEARN_ASSETS`, `02_PATHWAY_ASSETS`, `03_PRACTICE_ASSETS`, and `04_MEDICAL_JOURNAL_ASSETS`, classifying each entry as AVAILABLE, REFERENCE_ONLY, or MISSING.
+- [ ] Await explicit execution authorization before copying assets into the internal package or updating its manifests, because the requested mode is READ_ONLY.
+- [x] Perform a read-only extraction audit of actual PNG, SVG, WEBP, JPG, transparent, icon, logo, medical-visual, and background-layer files in Production v1.0 and supplementary Reference v1.3; classify them as AVAILABLE FOR REUSE, REFERENCE ONLY, or MISSING without copying or modifying files.
+- [x] Document the production asset extraction findings, source hierarchy, ownership limits, and no-copy conclusion in `SEG_PRODUCTION_ASSET_EXTRACTION_REPORT`.
+- [x] Perform a final read-only readiness audit for Learn, My Pathway, Practice, and Medical Journal against Production v1.0 references and SEG design-system requirements without changing code, assets, routes, authentication, database, or architecture.
+- [x] Document exact remaining screen-level gaps covering current implementation, production assets, component readiness, responsive requirements, design-system compliance, and architecture compatibility; return a READY or BLOCKED decision without implementation.
+- [x] Extract only the four explicitly approved shared SEG production PNG assets into a non-deployed organized package with `01_BRAND`, `02_MEDICAL_CORE`, `03_METADATA`, and `04_APPROVAL`; do not copy references, boards, generated assets, or section-specific materials.
+- [x] Create `shared-assets-manifest.json` and `SEG_SHARED_ASSET_ORGANIZATION_REPORT.md` with original source, version, approval status, intended usage, actual destination path, and SHA-256 verification; verify the package without modifying code, routes, authentication, database, or security.
+- [x] Perform a final read-only readiness audit for Learn, My Pathway, Practice, and Medical Journal against Production v1.0 references and SEG design-system requirements without changing code, assets, routes, authentication, database, or architecture.
+- [x] Document exact remaining screen-level gaps covering current implementation, production assets, component readiness, responsive requirements, design-system compliance, and architecture compatibility; return a READY or BLOCKED decision without implementation.
+- [x] Perform a READ_ONLY discovery across all available SEG project asset packages for non-reference SVG, PNG, WEBP, icon, and section-specific Learn, My Pathway, Practice, and Medical Journal assets; exclude screenshots, reference boards, and full-page mockups; document the evidence in `SEG_REMAINING_ASSET_DISCOVERY_REPORT.md`.
+- [x] Execute the approved Phase 3 internal Dashboard visual-foundation wave for My Pathway, Learn, Practice, and Medical Journal using existing anchors, shared components, approved SEG design tokens, and only source-authorized existing assets; preserve routes, authentication, database, and security; document residual asset-gated gaps.
+- [x] Review `SEG_INTERNAL_WAVE_REFERENCE_MAPPING.md` in READ_ONLY mode and create `SEG_INTERNAL_WAVE_1_COMPLETION_REPORT.md` validating implemented items, remaining asset gaps, missing acceptance criteria, and required next actions without code or asset changes.
+- [x] Wave 2: Integrate only the four approved shared SEG assets into the existing internal Dashboard sections and document unavailable section-specific assets without changing routes, authentication, database, navigation, or medical content.
+- [x] Wave 3: Complete the Learn visual workspace within the existing `#learn` Dashboard anchor using existing assets/components only; validate rendering, navigation, responsiveness, and build stability; document unavailable assets.
+- [x] Wave 4: Complete the My Pathway visual workspace within the existing `#pathway` Dashboard anchor using existing assets/components only; validate hierarchy, consistency, responsiveness, and build stability; document unavailable assets.
+- [x] Wave 5: Complete the Practice visual workspace within the existing `#practice` Dashboard anchor using approved existing content/assets only; retain Drug Reference exclusion; validate UI, navigation, responsiveness, and build stability.
+- [x] Wave 6: Complete the Medical Journal visual workspace within the existing `#journal` Dashboard anchor using approved existing assets only; do not invent articles or claims; document source/version/review/audit requirements for unavailable content.
+- [x] Wave 7: Perform a READ_ONLY full integration validation across the four internal sections, including tests, type checking, production build, accessibility, responsiveness, navigation, and design-system conformance.
+- [x] Wave 8: Perform the final internal-sections visual-freeze acceptance audit against Production v1.0 and SEG design system, with a documented ACCEPTED or REMAINING GAPS decision.
+- [x] Gate 1: Perform a READ_ONLY asset-gap closure audit for Learn, My Pathway, Practice, and Medical Journal; classify every remaining visual gap as AVAILABLE, MISSING, or BLOCKED and create an exact asset acquisition list in `SEG_FINAL_ASSET_GAP_CLOSURE_REPORT.md`.
+- [x] Gate 2: Perform a READ_ONLY Medical Journal content-governance audit covering source, version, review status, audit trail, article metadata, medical claims, categories, and references; create `SEG_MEDICAL_JOURNAL_CONTENT_READINESS_REPORT.md` without creating content or assumptions.
+- [x] Gate 3: Perform an authenticated live visual audit of Dashboard and the four internal sections if a stable session is available; otherwise document the specific evidence blocker in `SEG_FINAL_VISUAL_FREEZE_VALIDATION_REPORT.md` and return the appropriate decision.
+- [x] Perform a READ_ONLY final asset intake audit for SEG_MANUS_EXECUTION_RECORDS, SEG_INTERNAL_SECTIONS_ASSET_PACKAGE_v1.0, SEG_MEDICAL_JOURNAL_ASSET_PACKAGE_v1.0, and SEG_SHARED_APPROVED_ASSETS_v1.0; verify structure, manifests, ownership, source mapping, missing assets, and freeze readiness in `SEG_FINAL_ASSET_INTAKE_AUDIT_REPORT.md`.
+- [x] Perform a READ_ONLY local package reconciliation audit for SEG_INTERNAL_SECTIONS_ASSET_PACKAGE_v1.0, SEG_MEDICAL_JOURNAL_ASSET_PACKAGE_v1.0, SEG_SHARED_APPROVED_ASSETS_v1.0, and SEG_MANUS_EXECUTION_RECORDS; compare local-source structure, manifests, asset counts, SHA-256, and source mapping against the project workspace in `SEG_LOCAL_PACKAGE_RECONCILIATION_REPORT.md`.
+- [x] Inspect the supplied `manus.zip` in READ_ONLY mode and update the local package reconciliation evidence if it contains any of the four requested SEG package roots, manifests, assets, or execution records.
+- [x] Perform a READ_ONLY package content-readiness audit for the supplied Internal Sections, Medical Journal, and Execution Records packages; verify their complete observable trees, manifests, asset counts, missing files, approval records, and production readiness in `SEG_PACKAGE_CONTENT_READINESS_REPORT.md`.
+- [x] Perform a READ_ONLY final visual-freeze gap closure review for Dashboard, Learn, My Pathway, Practice, and Medical Journal after Waves 1–8; identify satisfied requirements, asset-blocked requirements, gaps resolvable with approved assets, externally required assets, and a freeze-remediation decision in `SEG_FINAL_VISUAL_GAP_CLOSURE_REPORT.md`.
+- [x] Register the approved `SEG_ATLAS_VISUAL_ASSETS_HERO_v1.0.png` asset with source, version, approval, SHA-256, and package location without modifying the asset.
+- [x] Replace approved UI and documentation labels that currently say Reference with Atlas & Visual Assets while preserving the `/dashboard`-only internal-anchor architecture.
+- [x] Add and validate `SEG_ATLAS_VISUAL_ASSETS_UPDATE_REPORT.md`, including changed files, asset registration, architecture validation, and remaining medical-content integration gaps.
+- [x] Apply the approved limited Atlas card visual correction: separate the approved hero treatment from the text and IA category layer at desktop and mobile widths while preserving `#reference`, routes, authentication, data, and medical-content boundaries.
+- [x] Perform a READ_ONLY visual alignment audit of the supplied My Home and My Pathway section examples against the existing single-page `/dashboard` anchor implementation; confirm sidebar scroll behavior, section hierarchy, approved visual treatment, and exact gaps before any new implementation.
+- [x] Align the internal Dashboard section hierarchy and glass presentation to the approved supplied examples while keeping `/dashboard` as the sole protected route and preserving existing anchor navigation.
+- [x] Remove remaining user-facing legacy Reference naming where Atlas is intended, while preserving the `#reference` anchor and historical audit records.
+- [x] Add `SEG_ATLAS_VISUAL_ALIGNMENT_AND_LABEL_UPDATE_REPORT.md` and validate the approved internal-section alignment, naming cleanup, anchor preservation, tests, and production build.
+- [x] Verify equivalent preview and published SEG routes, then publish the latest validated project state if needed so `manus.space` serves the current release.
+- [x] Implement an accessible, persisted Dark Mode toggle across Landing, Registration, Login, and the existing Dashboard shell using approved SEG light and dark design tokens without changing routes, authentication, database, or assets.
+- [x] Add concise reduced-motion-safe loading and section-transition feedback for Dashboard entry and existing internal-anchor navigation without creating routes or changing authentication flow.
+- [x] Produce `SEG_CURRENT_STATUS_QUICK_AUDIT.md` as a read-only checkpoint covering completed SEG screens, the latest Atlas update, remaining gaps, blockers, and one recommended next action.
+- [x] Produce `SEG_FINAL_VISUAL_FREEZE_READINESS_REPORT.md` as a read-only audit of all approved SEG screens and internal sections, covering visual completion, design-system compliance, asset readiness, responsive evidence, blockers, and a formal freeze-readiness decision.
+- [x] Complete the approved visual workspace presentation for My Pathway, Learn, Practice, Atlas & Visual Assets, and Medical Journal exclusively within existing `/dashboard` anchors, preserving authentication, database, routes, assets, and medical-content boundaries.
+- [x] Add focused internal-section completion tests and `SEG_INTERNAL_SECTIONS_COMPLETION_WAVE_REPORT.md`, then validate tests, TypeScript, production build, and desktop/mobile Dashboard views.
+- [x] Produce `SEG_FREEZE_VALIDATION_PASS_REPORT.md` as a read-only desktop/mobile evidence pass for Dashboard navigation, internal anchors, rendering, remaining visual gaps, and no-go blockers only.
+- [x] Produce `SEG_FINAL_VISUAL_FREEZE_ACCEPTANCE_DECISION.md` as the read-only final decision based only on completed implementation and validation evidence, listing only true visual-freeze blockers if any.
+- [x] Produce a final read-only UI consistency audit covering current cross-screen visual consistency, navigation continuity, responsive behavior, approved SEG design-system use, and true implementation-level discrepancies only.
+- [x] Produce `SEG_DASHBOARD_UX_FINAL_REPORT.md` as a read-only final review of `/dashboard` section order, anchors, sidebar, scrolling, header behavior, responsive stacking, and loading/empty states.
+- [x] Produce `SEG_VISUAL_ASSET_REGISTRY_FINAL_REPORT.md` as a read-only verification of approved SEG visual asset locations, registry/manifest evidence, Atlas identity, usage scope, and freeze-aligned asset status.
+- [x] Phase 1 release pipeline: inventory repository artifacts, locate or create the required SEG_FINAL_PACKAGE structure, and classify temporary logs, traces, and safe cleanup candidates.
+- [x] Phase 1 release pipeline: remove only verified disposable temporary artifacts and obsolete trace logs, preserving current deployment and approved source assets.
+- [x] Phase 1 release pipeline: validate final-package asset/data/content paths, generate assets_manifest.json, and document Phase 1 results and blockers.
+- [x] Create `SEG_RELEASE_ORCHESTRATOR.md` as the repository reference for SEG release phases, mandatory validation gates, asset governance, and the Phase 2/Phase 3 authorization boundaries.
+- [x] Phase 2 release pipeline: perform a READ_ONLY UX and WCAG 2.1 AA accessibility audit of the current SEG interface, including semantics, keyboard behavior, theme contrast, responsive layout, and reduced-motion handling.
+- [x] Phase 2 release pipeline: run automated accessibility evidence checks and write `SEG_PHASE2_UX_ACCESSIBILITY_AUDIT_REPORT.md` with findings, limitations, validation evidence, and an approval gate for any corrections.
+- [x] Verify the physical root-level `SEG_RELEASE_ORCHESTRATOR.md` file and publish the requested READ_ONLY Phase 2 report as `SEG_UX_ACCESSIBILITY_AUDIT.md`, including technical constraints, release recommendations, and supporting-skill assessment.
+- [x] Implement only A11Y-01 through A11Y-06: restore browser zoom, correct light Landing CTA contrast, and repair the approved landmark/ARIA semantics in Landing, Login, Registration, and the unauthenticated Dashboard state.
+- [x] Re-run accessibility, contrast, responsive, unit, TypeScript, and production-build validation; update `SEG_UX_ACCESSIBILITY_AUDIT.md` with remediation evidence and passed statuses before the Phase 3 authorization gate.
+
+- [x] Transfer checkpoint: consolidate current SEG source, release decisions, commands, guardrails, deployment instructions, and Next.js migration plan into a single current-reference context package; verify whether the new deployment address runs the Express delivery rather than the prior static build. The consolidated bundle is `SEG_TRANSFER_BUNDLE.zip`; the deployment URL still serves a static/older runtime and requires Node/Express or Docker redeployment.
+
+## Deferred production email setup
+
+- [ ] Before production launch, purchase and own a project domain (recommended: a `.com` registered through Cloudflare Registrar), add a dedicated sending subdomain such as `auth.<domain>` to Resend, configure and verify SPF/DKIM/DMARC DNS records, replace `onboarding@resend.dev` in `EMAIL_FROM`, and validate OTP delivery to external user addresses. Until this is completed, Resend test mode can send only to the email address that owns the Resend account.
+
+## Engineering hardening — 2026-09-04
+
+- [x] Build the medical data model with immutable content versions, claim-level provenance, and attributable clinical review decisions.
+- [x] Add `pnpm test`, ESLint, TypeScript, repository hygiene, production build, and high/critical dependency auditing to CI.
+- [x] Define one canonical runtime source and prevent generated, secret, dump, and archive artifacts from being tracked.
+- [x] Replace the placeholder README and document deployment, monitoring, and tested backup procedures.
+- [x] Run real Playwright UI tests at 320/390/768/1440 and axe accessibility checks.
+- [x] Run Lighthouse against the production build, retain reports, and record the remaining LCP optimization target.

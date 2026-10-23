@@ -1,0 +1,49 @@
+=== /home/ubuntu/upload/SEGFinalSourceValidationandFileReview.zip ===
+size=79359269 bytes modified=2026-08-15 20:11:10.373180486 +0000
+f3e6c033ced28a40b5006f0d479efca64fc5087cb07b2969540a68e779547714  /home/ubuntu/upload/SEGFinalSourceValidationandFileReview.zip
+zip_integrity=PASS
+entry_count: 272
+governance/content-related filenames:
+audit-final-package.test.ts
+audit-final-package.mjs
+source-authority.md
+audit-workflow.md
+MEDICAL_JOURNAL_ASSET_REVIEW_V2.md
+MEDICAL_JOURNAL_ASSET_REVIEW.md
+image-to-image-translation.skill
+
+=== /home/ubuntu/SEG_TRANSFER_BUNDLE.zip ===
+size=93457442 bytes modified=2026-08-15 20:44:55.017929775 +0000
+be05dab898cfff4d029ce5734bc279cf5666644ad8aebedf2342e8372eaab321  /home/ubuntu/SEG_TRANSFER_BUNDLE.zip
+zip_integrity=PASS
+entry_count: 313
+governance/content-related filenames:
+project/scripts/audit-final-package.mjs
+project/scripts/audit-final-package.test.ts
+project/server/_core/imageGeneration.ts
+project/MEDICAL_JOURNAL_ASSET_REVIEW.md
+project/MEDICAL_JOURNAL_ASSET_REVIEW_V2.md
+source-archives/
+source-archives/seg-phase1.zip
+source-archives/SEGFinalSourceValidationandFileReview.zip
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_Primary_Logo_Approved.png
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_Hero_Logo_Heart_Brain_ECG_Approved.png
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_Brain_Heart_Intelligence_Core.png
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_Human_Anatomy_Hologram.png
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_Emergency_Response_Visual.png
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_Medical_AI_Assistant.png
+external-assets/webdev-static-assets/SEG_FINAL_PACKAGE/assets/images/SEG_MedicalJournal_Reference_Final.png
+
+=== /home/ubuntu/upload/seg-phase1.zip ===
+size=528097 bytes modified=2026-08-15 19:56:16.992850308 +0000
+471221f8eb5ec529c31e54db32abd3579817a21dc24fab74021a8cdc694ea1cb  /home/ubuntu/upload/seg-phase1.zip
+zip_integrity=PASS
+entry_count: 224
+governance/content-related filenames:
+scripts/audit-final-package.mjs
+scripts/audit-final-package.test.ts
+server/_core/imageGeneration.ts
+MEDICAL_JOURNAL_ASSET_REVIEW.md
+MEDICAL_JOURNAL_ASSET_REVIEW_V2.md
+

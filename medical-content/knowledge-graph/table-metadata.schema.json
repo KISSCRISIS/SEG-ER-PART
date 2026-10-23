@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/table-metadata.schema.json",
+  "title": "SEG Table Metadata",
+  "description": "Links one comparison/reference table to its canonical topicId.",
+  "type": "object",
+  "required": ["tableId", "topicId", "type"],
+  "properties": {
+    "tableId": { "type": "string", "pattern": "^TABLE_[A-Z0-9_]+$", "examples": ["TABLE_ACS_001"] },
+    "topicId": {
+      "type": "string",
+      "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$",
+      "description": "Must exist in medical-content/knowledge-graph/topic-registry.json",
+      "examples": ["EM_CARDIO_ACS"]
+    },
+    "type": { "enum": ["Comparison Table", "Criteria Table", "Dosing Table", "Algorithm Table", "Reference Table"] }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,58 @@
+export const STUDY_BOOKS = [
+  {
+    id: "tintinalli-emergency-medicine",
+    title: "Tintinalli's Emergency Medicine: Examination and Board Review",
+    subtitle: "Comprehensive emergency medicine reference · 8th edition",
+    pages: 1111,
+    file: "/study-books/tintinallis-emergency-medicine.pdf",
+    accent: "from-emerald-400/20 to-cyan-500/10",
+    format: "Full clinical reference",
+  },
+  {
+    id: "rosen-5min",
+    title: "Rosen & Barkin's 5-Minute Emergency Medicine Consult",
+    subtitle: "High-yield topic review · personal reference",
+    pages: 1335,
+    file: "/study-books/rosen-5min.pdf",
+    accent: "from-rose-400/20 to-cyan-500/10",
+    format: "Original SEG summary planned · source review required",
+  },
+  {
+    id: "rosh-rotation-2019",
+    title: "Rosh Emergency Medicine Rotation Exam",
+    subtitle: "Rapid Review · 1st edition (2019) · 12 chapters",
+    pages: 555,
+    file: "/study-books/rosh-rotation-2019.pdf",
+    accent: "from-red-500/20 to-cyan-500/10",
+    format: "Supplementary review · Jordan board approval unverified",
+  },
+  {
+    id: "frcem-high-yield",
+    title: "FRCEM High-Yield Study Book",
+    subtitle: "32 chapters · 1,529 source questions",
+    pages: 258,
+    file: "/study-books/frcem-high-yield-colored.pdf",
+    accent: "from-cyan-400/25 to-blue-500/10",
+    format: "High-yield colored review",
+  },
+  {
+    id: "hippo-high-yield",
+    title: "HIPPO High-Yield Study Book",
+    subtitle: "18 chapters · 1,927 source questions",
+    pages: 144,
+    file: "/study-books/hippo-high-yield-colored.pdf",
+    accent: "from-orange-400/20 to-cyan-500/10",
+    format: "High-yield colored review",
+  },
+  {
+    id: "oxford-essentials",
+    title: "Emergency Oxford Essentials",
+    subtitle: "Comprehensive clinical reference",
+    pages: 265,
+    file: "/study-books/emergency-oxford-essentials.pdf",
+    accent: "from-blue-500/25 to-indigo-500/10",
+    format: "Full clinical reference",
+  },
+] as const;
+
+export type StudyBookId = (typeof STUDY_BOOKS)[number]["id"];

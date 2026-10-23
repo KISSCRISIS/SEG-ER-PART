@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T01:11:32.286Z",
+  "track": "resident-emergency-medicine",
+  "activationStatus": "not-published",
+  "governanceStatus": "under-review",
+  "notice": "Faithful local extraction only. No clinical correction, approval, or rights clearance is implied.",
+  "counts": {
+    "questions": {
+      "FRCEM": 1529,
+      "HIPPO": 1927,
+      "total": 3456
+    },
+    "studyChapters": {
+      "FRCEM": 32,
+      "HIPPO": 18,
+      "total": 50
+    }
+  },
+  "sources": {
+    "frcemQuestions": {
+      "path": "phase_7_8_10_updated_source_intake\\اسئله +الشرح بالعربي\\frcem All_Chapters_Questions_and_Explanations_Full.txt",
+      "sha256": "08d73b475a7ff1eda0cbbe905c5109628598b5210e8710ac0e8fae19dddad995",
+      "bytes": 5249304
+    },
+    "hippoQuestions": {
+      "path": "phase_7_8_10_updated_source_intake\\اسئله +الشرح بالعربي\\HIPPO_Questions_Answers_Brief_Arabic_Explanations_By_Chapter.txt",
+      "sha256": "b9c1636f84f802d9f68794a3fa6f3d6ca34617fc08eda0a9ffb863262001771b",
+      "bytes": 2137094
+    },
+    "frcemStudy": {
+      "path": "phase_7_8_10_updated_source_intake\\كتب علاء نص دراسي\\FRCEM_High_Yield_Study_Book.txt",
+      "sha256": "f5fb6b3f88b94a1b5a1a360acfe4616a5b3a5940a4b0854a35ba646f5f95a4a1",
+      "bytes": 519822
+    },
+    "hippoStudy": {
+      "path": "phase_7_8_10_updated_source_intake\\كتب علاء نص دراسي\\HIPPO_High_Yield_Study_Book.txt",
+      "sha256": "fe9b1df0eae11416195c919095aa946c80212ed48e3ef59f9c0a50e2db5eef5c",
+      "bytes": 304644
+    }
+  },
+  "quality": {
+    "missingQuestionText": 0,
+    "missingOptions": 0,
+    "missingCorrectAnswer": 0,
+    "missingArabicExplanation": 0,
+    "duplicateRecordIds": 0
+  }
+}

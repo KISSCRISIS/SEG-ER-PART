@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "phase": "4-E.0",
+  "purpose": "Prepare future source-to-topic knowledge graph contracts without performing topic mapping.",
+  "status": "contract-only",
+  "relationship": {
+    "from": "Source",
+    "through": "Chapter / Unit / Question / Content Item",
+    "joinKey": "topicId",
+    "to": "Knowledge Graph"
+  },
+  "requiredFutureLinks": [
+    "Books",
+    "Summaries",
+    "Algorithms",
+    "Exam Pearls",
+    "Tables",
+    "MCQ"
+  ],
+  "contracts": [
+    {
+      "sourceCategory": "book",
+      "sourceItemKeys": ["sourceId", "chapterId", "unitId", "pageId"],
+      "futureTopicLink": "topicId",
+      "phase4E0Status": "prepared-no-topic-mapping"
+    },
+    {
+      "sourceCategory": "summary",
+      "sourceItemKeys": ["sourceId", "summaryId", "unitId"],
+      "futureTopicLink": "topicId",
+      "phase4E0Status": "prepared-no-topic-mapping"
+    },
+    {
+      "sourceCategory": "algorithm",
+      "sourceItemKeys": ["sourceId", "algorithmId"],
+      "futureTopicLink": "topicId",
+      "phase4E0Status": "prepared-no-topic-mapping"
+    },
+    {
+      "sourceCategory": "exam-pearl",
+      "sourceItemKeys": ["sourceId", "pearlId"],
+      "futureTopicLink": "topicId",
+      "phase4E0Status": "prepared-no-topic-mapping"
+    },
+    {
+      "sourceCategory": "table",
+      "sourceItemKeys": ["sourceId", "tableId"],
+      "futureTopicLink": "topicId",
+      "phase4E0Status": "prepared-no-topic-mapping"
+    },
+    {
+      "sourceCategory": "mcq",
+      "sourceItemKeys": ["sourceId", "questionId"],
+      "futureTopicLink": "topicId",
+      "phase4E0Status": "prepared-no-topic-mapping"
+    }
+  ],
+  "rules": {
+    "topicIdIsPrimaryKnowledgeKey": true,
+    "sourceRegistryIsDiscoveryOnly": true,
+    "doNotMapTopicsInPhase4E0": true,
+    "doNotModifyQbankInPhase4E0": true,
+    "doNotModifyDashboardInPhase4E0": true,
+    "doNotModifyStudyPlanEngineInPhase4E0": true
+  }
+}

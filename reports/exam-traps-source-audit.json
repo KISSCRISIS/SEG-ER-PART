@@ -1,0 +1,3015 @@
+{
+  "status": "metadata audit; clinical verification not performed",
+  "records": [
+    {
+      "id": "TRP_0195",
+      "topicId": "UNI_001",
+      "source": [
+        "Rosen Ch 2, FRCEM Batch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_001_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0196",
+      "topicId": "UNI_002",
+      "source": [
+        "Rosen Ch 2, HIPPO Batch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_002_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0197",
+      "topicId": "UNI_003",
+      "source": [
+        "Rosen Ch 3, FRCEM Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_003_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0198",
+      "topicId": "UNI_004",
+      "source": [
+        "Rosen Ch 4, HIPPO Batch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_004_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0199",
+      "topicId": "UNI_004",
+      "source": [
+        "Rosen Ch 4, HIPPO Batch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_004_2"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0200",
+      "topicId": "UNI_005",
+      "source": [
+        "Rosen Ch 10, HIPPO Batch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_005_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0201",
+      "topicId": "UNI_006",
+      "source": [
+        "Rosen Ch 14, Tintinalli Ch 9"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_006_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0202",
+      "topicId": "UNI_006",
+      "source": [
+        "Rosen Ch 14, Tintinalli Ch 9"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_006_2"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0203",
+      "topicId": "UNI_007",
+      "source": [
+        "Rosen Ch 22, Tintinalli Ch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_007_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0204",
+      "topicId": "UNI_008",
+      "source": [
+        "Rosen Ch 25, HIPPO Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_008_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0205",
+      "topicId": "UNI_009",
+      "source": [
+        "Rosen Ch 71, HIPPO Batch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_009_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0206",
+      "topicId": "UNI_010",
+      "source": [
+        "Rosen Ch 105, HIPPO Batch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_010_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0207",
+      "topicId": "UNI_011",
+      "source": [
+        "Rosen Ch 138, HIPPO Batch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_011_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0208",
+      "topicId": "UNI_012",
+      "source": [
+        "Rosen Ch 155, FRCEM Batch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_012_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0209",
+      "topicId": "UNI_013",
+      "source": [
+        "HIPPO Batch 3, Rosen Ch 15"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_013_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0210",
+      "topicId": "UNI_014",
+      "source": [
+        "Rosen Ch 142, HIPPO Batch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_014_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0211",
+      "topicId": "UNI_015",
+      "source": [
+        "HIPPO Batch 3, Rosen Ch 113"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_015_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0212",
+      "topicId": "UNI_016",
+      "source": [
+        "HIPPO Batch 5, Rosen Ch 165"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_016_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0213",
+      "topicId": "UNI_017",
+      "source": [
+        "HIPPO Batch 5, FRCEM Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_017_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0214",
+      "topicId": "UNI_018",
+      "source": [
+        "FRCEM Batch 6, Rosen Ch 169"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_018_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0215",
+      "topicId": "UNI_019",
+      "source": [
+        "FRCEM Batch 5, Rosen Ch 135"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_019_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0216",
+      "topicId": "UNI_020",
+      "source": [
+        "HIPPO Batch 6, Rosen Ch 83"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_020_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0217",
+      "topicId": "UNI_021",
+      "source": [
+        "Rosen Ch 9, HIPPO Batch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_021_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0218",
+      "topicId": "UNI_022",
+      "source": [
+        "Tintinalli Ch 98, HIPPO Batch 1, Rosen Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_022_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0219",
+      "topicId": "UNI_022",
+      "source": [
+        "Tintinalli Ch 98, HIPPO Batch 1, Rosen Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_022_2"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0220",
+      "topicId": "UNI_023",
+      "source": [
+        "Tintinalli Ch 76, HIPPO Batch 1, Rosen Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_023_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0221",
+      "topicId": "UNI_024",
+      "source": [
+        "Rosen Ch 41, HIPPO Batch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_024_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0222",
+      "topicId": "UNI_025",
+      "source": [
+        "Tintinalli Ch 159, HIPPO Batch 1, Rosen Ch 122"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_025_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0223",
+      "topicId": "UNI_026",
+      "source": [
+        "Rosen Ch 14, Tintinalli Ch 165, HIPPO Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_026_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0224",
+      "topicId": "UNI_027",
+      "source": [
+        "Rosen Ch 14, Tintinalli Ch 171, HIPPO Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_027_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0225",
+      "topicId": "UNI_028",
+      "source": [
+        "Rosen Ch 14, Tintinalli Ch 205, HIPPO Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_028_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0226",
+      "topicId": "UNI_029",
+      "source": [
+        "Rosen Ch 17, Tintinalli Ch 167, HIPPO Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_029_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0227",
+      "topicId": "UNI_030",
+      "source": [
+        "Rosen Ch 28, HIPPO Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_030_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0228",
+      "topicId": "UNI_031",
+      "source": [
+        "HIPPO Batch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_031_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0229",
+      "topicId": "UNI_032",
+      "source": [
+        "Rosen Ch 105, HIPPO Batch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_032_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0230",
+      "topicId": "UNI_033",
+      "source": [
+        "HIPPO Batch 4, Tintinalli Ch 106"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_033_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0231",
+      "topicId": "UNI_034",
+      "source": [
+        "Rosen Ch 66, HIPPO Batch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_034_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0232",
+      "topicId": "UNI_035",
+      "source": [
+        "Tintinalli Ch 19, Rosen Ch 17, HIPPO Batch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_035_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0233",
+      "topicId": "UNI_036",
+      "source": [
+        "Rosen Ch 2, FRCEM Batch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_036_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0234",
+      "topicId": "UNI_037",
+      "source": [
+        "Rosen Ch 156, FRCEM Batch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_037_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0235",
+      "topicId": "UNI_038",
+      "source": [
+        "Rosen Ch 70, Tintinalli Ch 5, FRCEM Batch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_038_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0236",
+      "topicId": "UNI_039",
+      "source": [
+        "Rosen Ch 32, Tintinalli Ch 176, FRCEM Batch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_039_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0237",
+      "topicId": "UNI_040",
+      "source": [
+        "Rosen Ch 49, Tintinalli Ch 21, FRCEM Batch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_UNI_040_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": []
+    },
+    {
+      "id": "TRP_0238",
+      "topicId": "DERIVED_041",
+      "source": [
+        "Tintinalli Ch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_041_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0001"
+      ]
+    },
+    {
+      "id": "TRP_0239",
+      "topicId": "DERIVED_042",
+      "source": [
+        "Tintinalli Ch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_042_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0002"
+      ]
+    },
+    {
+      "id": "TRP_0240",
+      "topicId": "DERIVED_043",
+      "source": [
+        "Tintinalli Ch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_043_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0003"
+      ]
+    },
+    {
+      "id": "TRP_0241",
+      "topicId": "DERIVED_044",
+      "source": [
+        "Tintinalli Ch 6"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_044_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0004"
+      ]
+    },
+    {
+      "id": "TRP_0242",
+      "topicId": "DERIVED_045",
+      "source": [
+        "Tintinalli Ch 10"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_045_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0005"
+      ]
+    },
+    {
+      "id": "TRP_0243",
+      "topicId": "DERIVED_046",
+      "source": [
+        "Tintinalli Ch 10"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_046_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0006"
+      ]
+    },
+    {
+      "id": "TRP_0244",
+      "topicId": "DERIVED_047",
+      "source": [
+        "Tintinalli Ch 11"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_047_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0007"
+      ]
+    },
+    {
+      "id": "TRP_0245",
+      "topicId": "DERIVED_048",
+      "source": [
+        "Tintinalli Ch 11"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_048_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0008"
+      ]
+    },
+    {
+      "id": "TRP_0246",
+      "topicId": "DERIVED_049",
+      "source": [
+        "Tintinalli Ch 11"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_049_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0009"
+      ]
+    },
+    {
+      "id": "TRP_0247",
+      "topicId": "DERIVED_050",
+      "source": [
+        "Tintinalli Ch 12"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_050_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0010"
+      ]
+    },
+    {
+      "id": "TRP_0248",
+      "topicId": "DERIVED_051",
+      "source": [
+        "Tintinalli Ch 12"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_051_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0011"
+      ]
+    },
+    {
+      "id": "TRP_0249",
+      "topicId": "DERIVED_052",
+      "source": [
+        "Tintinalli Ch 13"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_052_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0012"
+      ]
+    },
+    {
+      "id": "TRP_0250",
+      "topicId": "DERIVED_053",
+      "source": [
+        "Tintinalli Ch 14"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_053_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0014"
+      ]
+    },
+    {
+      "id": "TRP_0251",
+      "topicId": "DERIVED_054",
+      "source": [
+        "Tintinalli Ch 14"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_054_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0015"
+      ]
+    },
+    {
+      "id": "TRP_0252",
+      "topicId": "DERIVED_055",
+      "source": [
+        "Tintinalli Ch 15"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_055_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0016"
+      ]
+    },
+    {
+      "id": "TRP_0253",
+      "topicId": "DERIVED_056",
+      "source": [
+        "Tintinalli Ch 15"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_056_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0017"
+      ]
+    },
+    {
+      "id": "TRP_0254",
+      "topicId": "DERIVED_057",
+      "source": [
+        "Tintinalli Ch 16"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_057_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0018"
+      ]
+    },
+    {
+      "id": "TRP_0255",
+      "topicId": "DERIVED_058",
+      "source": [
+        "Tintinalli Ch 17"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_058_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0019"
+      ]
+    },
+    {
+      "id": "TRP_0256",
+      "topicId": "DERIVED_059",
+      "source": [
+        "Tintinalli Ch 17"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_059_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0020"
+      ]
+    },
+    {
+      "id": "TRP_0257",
+      "topicId": "DERIVED_060",
+      "source": [
+        "Tintinalli Ch 18"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_060_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0021"
+      ]
+    },
+    {
+      "id": "TRP_0258",
+      "topicId": "DERIVED_061",
+      "source": [
+        "Tintinalli Ch 19"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_061_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0022"
+      ]
+    },
+    {
+      "id": "TRP_0259",
+      "topicId": "DERIVED_062",
+      "source": [
+        "Tintinalli Ch 19"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_062_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0023"
+      ]
+    },
+    {
+      "id": "TRP_0260",
+      "topicId": "DERIVED_063",
+      "source": [
+        "Tintinalli Ch 20"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_063_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0024"
+      ]
+    },
+    {
+      "id": "TRP_0261",
+      "topicId": "DERIVED_064",
+      "source": [
+        "Tintinalli Ch 20"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_064_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0025"
+      ]
+    },
+    {
+      "id": "TRP_0262",
+      "topicId": "DERIVED_065",
+      "source": [
+        "Tintinalli Ch 21"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_065_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0026"
+      ]
+    },
+    {
+      "id": "TRP_0263",
+      "topicId": "DERIVED_066",
+      "source": [
+        "Tintinalli Ch 21"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_066_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0027"
+      ]
+    },
+    {
+      "id": "TRP_0264",
+      "topicId": "DERIVED_067",
+      "source": [
+        "Tintinalli Ch 21"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_067_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0028"
+      ]
+    },
+    {
+      "id": "TRP_0265",
+      "topicId": "DERIVED_068",
+      "source": [
+        "Tintinalli Ch 22"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_068_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0029"
+      ]
+    },
+    {
+      "id": "TRP_0266",
+      "topicId": "DERIVED_069",
+      "source": [
+        "Tintinalli Ch 22"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_069_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0030"
+      ]
+    },
+    {
+      "id": "TRP_0267",
+      "topicId": "DERIVED_070",
+      "source": [
+        "Tintinalli Ch 22"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_070_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0031"
+      ]
+    },
+    {
+      "id": "TRP_0268",
+      "topicId": "DERIVED_071",
+      "source": [
+        "Tintinalli Ch 23"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_071_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0032"
+      ]
+    },
+    {
+      "id": "TRP_0269",
+      "topicId": "DERIVED_072",
+      "source": [
+        "Tintinalli Ch 23"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_072_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0033"
+      ]
+    },
+    {
+      "id": "TRP_0270",
+      "topicId": "DERIVED_073",
+      "source": [
+        "Tintinalli Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_073_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0034"
+      ]
+    },
+    {
+      "id": "TRP_0271",
+      "topicId": "DERIVED_074",
+      "source": [
+        "Tintinalli Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_074_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0035"
+      ]
+    },
+    {
+      "id": "TRP_0272",
+      "topicId": "DERIVED_075",
+      "source": [
+        "Tintinalli Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_075_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0036"
+      ]
+    },
+    {
+      "id": "TRP_0273",
+      "topicId": "DERIVED_076",
+      "source": [
+        "Tintinalli Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_076_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0037"
+      ]
+    },
+    {
+      "id": "TRP_0274",
+      "topicId": "DERIVED_077",
+      "source": [
+        "Tintinalli Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_077_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0038"
+      ]
+    },
+    {
+      "id": "TRP_0275",
+      "topicId": "DERIVED_078",
+      "source": [
+        "Tintinalli Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_078_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0039"
+      ]
+    },
+    {
+      "id": "TRP_0276",
+      "topicId": "DERIVED_079",
+      "source": [
+        "Tintinalli Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_079_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0040"
+      ]
+    },
+    {
+      "id": "TRP_0277",
+      "topicId": "DERIVED_080",
+      "source": [
+        "Tintinalli Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_080_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0041"
+      ]
+    },
+    {
+      "id": "TRP_0278",
+      "topicId": "DERIVED_081",
+      "source": [
+        "Tintinalli Ch E1"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_081_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0042"
+      ]
+    },
+    {
+      "id": "TRP_0279",
+      "topicId": "DERIVED_082",
+      "source": [
+        "Tintinalli Ch E4"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_082_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0043"
+      ]
+    },
+    {
+      "id": "TRP_0280",
+      "topicId": "DERIVED_083",
+      "source": [
+        "Tintinalli Ch E11"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_083_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0044"
+      ]
+    },
+    {
+      "id": "TRP_0281",
+      "topicId": "DERIVED_084",
+      "source": [
+        "Tintinalli Ch E12"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_084_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0045"
+      ]
+    },
+    {
+      "id": "TRP_0282",
+      "topicId": "DERIVED_085",
+      "source": [
+        "Tintinalli Ch E14"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_085_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0046"
+      ]
+    },
+    {
+      "id": "TRP_0283",
+      "topicId": "DERIVED_086",
+      "source": [
+        "Rosen Ch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_086_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0047"
+      ]
+    },
+    {
+      "id": "TRP_0284",
+      "topicId": "DERIVED_087",
+      "source": [
+        "Rosen Ch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_087_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0048"
+      ]
+    },
+    {
+      "id": "TRP_0285",
+      "topicId": "DERIVED_088",
+      "source": [
+        "Rosen Ch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_088_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0049"
+      ]
+    },
+    {
+      "id": "TRP_0286",
+      "topicId": "DERIVED_089",
+      "source": [
+        "Rosen Ch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_089_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0050"
+      ]
+    },
+    {
+      "id": "TRP_0287",
+      "topicId": "DERIVED_090",
+      "source": [
+        "Rosen Ch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_090_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0051"
+      ]
+    },
+    {
+      "id": "TRP_0288",
+      "topicId": "DERIVED_090",
+      "source": [
+        "Rosen Ch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_090_2"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0052"
+      ]
+    },
+    {
+      "id": "TRP_0289",
+      "topicId": "DERIVED_091",
+      "source": [
+        "Rosen Ch 6"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_091_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0053"
+      ]
+    },
+    {
+      "id": "TRP_0290",
+      "topicId": "DERIVED_092",
+      "source": [
+        "Rosen Ch 7"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_092_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0054"
+      ]
+    },
+    {
+      "id": "TRP_0291",
+      "topicId": "DERIVED_093",
+      "source": [
+        "Rosen Ch 9"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_093_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0055"
+      ]
+    },
+    {
+      "id": "TRP_0292",
+      "topicId": "DERIVED_094",
+      "source": [
+        "Rosen Ch 10"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_094_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0056"
+      ]
+    },
+    {
+      "id": "TRP_0293",
+      "topicId": "DERIVED_095",
+      "source": [
+        "Rosen Ch 14"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_095_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0057"
+      ]
+    },
+    {
+      "id": "TRP_0294",
+      "topicId": "DERIVED_096",
+      "source": [
+        "Rosen Ch 22"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_096_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0058"
+      ]
+    },
+    {
+      "id": "TRP_0295",
+      "topicId": "DERIVED_097",
+      "source": [
+        "Rosen Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_097_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0059"
+      ]
+    },
+    {
+      "id": "TRP_0296",
+      "topicId": "DERIVED_098",
+      "source": [
+        "Rosen Ch 28"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_098_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0060"
+      ]
+    },
+    {
+      "id": "TRP_0297",
+      "topicId": "DERIVED_099",
+      "source": [
+        "Rosen Ch 30"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_099_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0061"
+      ]
+    },
+    {
+      "id": "TRP_0298",
+      "topicId": "DERIVED_100",
+      "source": [
+        "Rosen Ch 32"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_100_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0062"
+      ]
+    },
+    {
+      "id": "TRP_0299",
+      "topicId": "DERIVED_101",
+      "source": [
+        "Rosen Ch 32"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_101_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0063"
+      ]
+    },
+    {
+      "id": "TRP_0300",
+      "topicId": "DERIVED_102",
+      "source": [
+        "Rosen Ch 34"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_102_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0064"
+      ]
+    },
+    {
+      "id": "TRP_0301",
+      "topicId": "DERIVED_103",
+      "source": [
+        "Rosen Ch 36"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_103_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0065"
+      ]
+    },
+    {
+      "id": "TRP_0302",
+      "topicId": "DERIVED_104",
+      "source": [
+        "Rosen Ch 37"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_104_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0066"
+      ]
+    },
+    {
+      "id": "TRP_0303",
+      "topicId": "DERIVED_105",
+      "source": [
+        "Rosen Ch 38"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_105_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0067"
+      ]
+    },
+    {
+      "id": "TRP_0304",
+      "topicId": "DERIVED_106",
+      "source": [
+        "Rosen Ch 46"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_106_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0068"
+      ]
+    },
+    {
+      "id": "TRP_0305",
+      "topicId": "DERIVED_107",
+      "source": [
+        "Rosen Ch 51"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_107_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0069"
+      ]
+    },
+    {
+      "id": "TRP_0306",
+      "topicId": "DERIVED_108",
+      "source": [
+        "Rosen Ch 56"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_108_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0070"
+      ]
+    },
+    {
+      "id": "TRP_0307",
+      "topicId": "DERIVED_109",
+      "source": [
+        "Rosen Ch 59"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_109_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0071",
+        "TRP_0108"
+      ]
+    },
+    {
+      "id": "TRP_0308",
+      "topicId": "DERIVED_110",
+      "source": [
+        "Rosen Ch 64"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_110_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0072",
+        "TRP_0109"
+      ]
+    },
+    {
+      "id": "TRP_0309",
+      "topicId": "DERIVED_111",
+      "source": [
+        "Rosen Ch 71"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_111_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0073"
+      ]
+    },
+    {
+      "id": "TRP_0310",
+      "topicId": "DERIVED_112",
+      "source": [
+        "Rosen Ch 75"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_112_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0074"
+      ]
+    },
+    {
+      "id": "TRP_0311",
+      "topicId": "DERIVED_113",
+      "source": [
+        "Rosen Ch 77"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_113_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0075"
+      ]
+    },
+    {
+      "id": "TRP_0312",
+      "topicId": "DERIVED_114",
+      "source": [
+        "Rosen Ch 78"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_114_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0076"
+      ]
+    },
+    {
+      "id": "TRP_0313",
+      "topicId": "DERIVED_115",
+      "source": [
+        "Rosen Ch 86"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_115_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0077"
+      ]
+    },
+    {
+      "id": "TRP_0314",
+      "topicId": "DERIVED_116",
+      "source": [
+        "Rosen Ch 91"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_116_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0078"
+      ]
+    },
+    {
+      "id": "TRP_0315",
+      "topicId": "DERIVED_117",
+      "source": [
+        "Rosen Ch 93"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_117_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0079"
+      ]
+    },
+    {
+      "id": "TRP_0316",
+      "topicId": "DERIVED_118",
+      "source": [
+        "Rosen Ch 94"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_118_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0080"
+      ]
+    },
+    {
+      "id": "TRP_0317",
+      "topicId": "DERIVED_119",
+      "source": [
+        "Rosen Ch 102"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_119_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0081"
+      ]
+    },
+    {
+      "id": "TRP_0318",
+      "topicId": "DERIVED_120",
+      "source": [
+        "Rosen Ch 107"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_120_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0083"
+      ]
+    },
+    {
+      "id": "TRP_0319",
+      "topicId": "DERIVED_121",
+      "source": [
+        "Rosen Ch 108"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_121_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0084"
+      ]
+    },
+    {
+      "id": "TRP_0320",
+      "topicId": "DERIVED_122",
+      "source": [
+        "Rosen Ch 112"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_122_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0085"
+      ]
+    },
+    {
+      "id": "TRP_0321",
+      "topicId": "DERIVED_123",
+      "source": [
+        "Rosen Ch 113"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_123_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0086"
+      ]
+    },
+    {
+      "id": "TRP_0322",
+      "topicId": "DERIVED_124",
+      "source": [
+        "Rosen Ch 117"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_124_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0087"
+      ]
+    },
+    {
+      "id": "TRP_0323",
+      "topicId": "DERIVED_125",
+      "source": [
+        "Rosen Ch 118"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_125_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0088"
+      ]
+    },
+    {
+      "id": "TRP_0324",
+      "topicId": "DERIVED_126",
+      "source": [
+        "Rosen Ch 121"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_126_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0089"
+      ]
+    },
+    {
+      "id": "TRP_0325",
+      "topicId": "DERIVED_127",
+      "source": [
+        "Rosen Ch 122"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_127_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0090"
+      ]
+    },
+    {
+      "id": "TRP_0326",
+      "topicId": "DERIVED_128",
+      "source": [
+        "Rosen Ch 128"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_128_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0091"
+      ]
+    },
+    {
+      "id": "TRP_0327",
+      "topicId": "DERIVED_129",
+      "source": [
+        "Rosen Ch 136"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_129_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0092"
+      ]
+    },
+    {
+      "id": "TRP_0328",
+      "topicId": "DERIVED_130",
+      "source": [
+        "Rosen Ch 138"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_130_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0093"
+      ]
+    },
+    {
+      "id": "TRP_0329",
+      "topicId": "DERIVED_131",
+      "source": [
+        "Rosen Ch 142"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_131_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0094"
+      ]
+    },
+    {
+      "id": "TRP_0330",
+      "topicId": "DERIVED_132",
+      "source": [
+        "Rosen Ch 155"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_132_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0095"
+      ]
+    },
+    {
+      "id": "TRP_0331",
+      "topicId": "DERIVED_133",
+      "source": [
+        "Rosen Ch 156"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_133_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0096"
+      ]
+    },
+    {
+      "id": "TRP_0332",
+      "topicId": "DERIVED_134",
+      "source": [
+        "Rosen Ch 173"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_134_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0097"
+      ]
+    },
+    {
+      "id": "TRP_0333",
+      "topicId": "DERIVED_135",
+      "source": [
+        "Rosen Ch 177"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_135_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0098"
+      ]
+    },
+    {
+      "id": "TRP_0334",
+      "topicId": "DERIVED_136",
+      "source": [
+        "Rosen Ch E15"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_136_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0099"
+      ]
+    },
+    {
+      "id": "TRP_0335",
+      "topicId": "DERIVED_137",
+      "source": [
+        "Rosen Ch 38"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_137_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0101"
+      ]
+    },
+    {
+      "id": "TRP_0336",
+      "topicId": "DERIVED_138",
+      "source": [
+        "Rosen Ch 95"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_138_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0102"
+      ]
+    },
+    {
+      "id": "TRP_0337",
+      "topicId": "DERIVED_139",
+      "source": [
+        "Rosen Ch 155"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_139_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0103"
+      ]
+    },
+    {
+      "id": "TRP_0338",
+      "topicId": "DERIVED_140",
+      "source": [
+        "Rosen Ch 177"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_140_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0104"
+      ]
+    },
+    {
+      "id": "TRP_0339",
+      "topicId": "DERIVED_141",
+      "source": [
+        "Rosen Ch 37"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_141_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0105"
+      ]
+    },
+    {
+      "id": "TRP_0340",
+      "topicId": "DERIVED_142",
+      "source": [
+        "HIPPO (Board Review) Ch 7"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_142_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0111"
+      ]
+    },
+    {
+      "id": "TRP_0341",
+      "topicId": "DERIVED_143",
+      "source": [
+        "HIPPO (Board Review) Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_143_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0112"
+      ]
+    },
+    {
+      "id": "TRP_0342",
+      "topicId": "DERIVED_144",
+      "source": [
+        "HIPPO (Board Review) Ch 19"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_144_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0113"
+      ]
+    },
+    {
+      "id": "TRP_0343",
+      "topicId": "DERIVED_145",
+      "source": [
+        "HIPPO (Board Review) Ch 51"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_145_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0114"
+      ]
+    },
+    {
+      "id": "TRP_0344",
+      "topicId": "DERIVED_146",
+      "source": [
+        "HIPPO (Board Review) Ch 122"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_146_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0115"
+      ]
+    },
+    {
+      "id": "TRP_0345",
+      "topicId": "DERIVED_147",
+      "source": [
+        "HIPPO (Board Review) Ch 14"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_147_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0117"
+      ]
+    },
+    {
+      "id": "TRP_0346",
+      "topicId": "DERIVED_148",
+      "source": [
+        "HIPPO (Board Review) Ch 14"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_148_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0118"
+      ]
+    },
+    {
+      "id": "TRP_0347",
+      "topicId": "DERIVED_149",
+      "source": [
+        "HIPPO (Board Review) Ch 17"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_149_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0119"
+      ]
+    },
+    {
+      "id": "TRP_0348",
+      "topicId": "DERIVED_150",
+      "source": [
+        "HIPPO (Board Review) Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_150_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0120"
+      ]
+    },
+    {
+      "id": "TRP_0349",
+      "topicId": "DERIVED_151",
+      "source": [
+        "HIPPO (Board Review) Ch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_151_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0122"
+      ]
+    },
+    {
+      "id": "TRP_0350",
+      "topicId": "DERIVED_152",
+      "source": [
+        "HIPPO (Board Review) Ch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_152_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0124"
+      ]
+    },
+    {
+      "id": "TRP_0351",
+      "topicId": "DERIVED_153",
+      "source": [
+        "HIPPO (Board Review) Ch 10"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_153_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0125"
+      ]
+    },
+    {
+      "id": "TRP_0352",
+      "topicId": "DERIVED_154",
+      "source": [
+        "HIPPO (Board Review) Ch 8"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_154_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0126"
+      ]
+    },
+    {
+      "id": "TRP_0353",
+      "topicId": "DERIVED_155",
+      "source": [
+        "HIPPO (Board Review) Ch 16"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_155_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0127"
+      ]
+    },
+    {
+      "id": "TRP_0354",
+      "topicId": "DERIVED_156",
+      "source": [
+        "HIPPO (Board Review) Ch 66"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_156_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0129"
+      ]
+    },
+    {
+      "id": "TRP_0355",
+      "topicId": "DERIVED_157",
+      "source": [
+        "HIPPO (Board Review) Ch 142"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_157_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0130"
+      ]
+    },
+    {
+      "id": "TRP_0356",
+      "topicId": "DERIVED_158",
+      "source": [
+        "HIPPO (Board Review) Ch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_158_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0131"
+      ]
+    },
+    {
+      "id": "TRP_0357",
+      "topicId": "DERIVED_159",
+      "source": [
+        "HIPPO (Board Review) Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_159_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0132"
+      ]
+    },
+    {
+      "id": "TRP_0358",
+      "topicId": "DERIVED_160",
+      "source": [
+        "HIPPO (Board Review) Ch 17"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_160_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0133"
+      ]
+    },
+    {
+      "id": "TRP_0359",
+      "topicId": "DERIVED_161",
+      "source": [
+        "HIPPO (Board Review) Ch 11"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_161_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0134"
+      ]
+    },
+    {
+      "id": "TRP_0360",
+      "topicId": "DERIVED_162",
+      "source": [
+        "HIPPO (Board Review) Ch 113"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_162_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0135"
+      ]
+    },
+    {
+      "id": "TRP_0361",
+      "topicId": "DERIVED_163",
+      "source": [
+        "HIPPO (Board Review) Ch 105"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_163_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0136"
+      ]
+    },
+    {
+      "id": "TRP_0362",
+      "topicId": "DERIVED_164",
+      "source": [
+        "HIPPO (Board Review) Ch 10"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_164_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0137"
+      ]
+    },
+    {
+      "id": "TRP_0363",
+      "topicId": "DERIVED_165",
+      "source": [
+        "HIPPO (Board Review) Ch 13"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_165_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0138"
+      ]
+    },
+    {
+      "id": "TRP_0364",
+      "topicId": "DERIVED_166",
+      "source": [
+        "HIPPO (Board Review) Ch 10"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_166_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0139"
+      ]
+    },
+    {
+      "id": "TRP_0365",
+      "topicId": "DERIVED_167",
+      "source": [
+        "HIPPO (Board Review) Ch 83"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_167_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0140"
+      ]
+    },
+    {
+      "id": "TRP_0366",
+      "topicId": "DERIVED_168",
+      "source": [
+        "HIPPO (Board Review) Ch 89"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_168_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0141"
+      ]
+    },
+    {
+      "id": "TRP_0367",
+      "topicId": "DERIVED_169",
+      "source": [
+        "HIPPO (Board Review) Ch 37"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_169_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0142"
+      ]
+    },
+    {
+      "id": "TRP_0368",
+      "topicId": "DERIVED_170",
+      "source": [
+        "HIPPO (Board Review) Ch 58"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_170_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0143"
+      ]
+    },
+    {
+      "id": "TRP_0369",
+      "topicId": "DERIVED_171",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_171_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0144"
+      ]
+    },
+    {
+      "id": "TRP_0370",
+      "topicId": "DERIVED_172",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 156"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_172_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0145"
+      ]
+    },
+    {
+      "id": "TRP_0371",
+      "topicId": "DERIVED_173",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 155"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_173_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0146"
+      ]
+    },
+    {
+      "id": "TRP_0372",
+      "topicId": "DERIVED_174",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 64"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_174_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0147"
+      ]
+    },
+    {
+      "id": "TRP_0373",
+      "topicId": "DERIVED_175",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 57"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_175_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0149"
+      ]
+    },
+    {
+      "id": "TRP_0374",
+      "topicId": "DERIVED_176",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 32"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_176_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0150"
+      ]
+    },
+    {
+      "id": "TRP_0375",
+      "topicId": "DERIVED_177",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 49"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_177_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0151"
+      ]
+    },
+    {
+      "id": "TRP_0376",
+      "topicId": "DERIVED_178",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 266"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_178_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0152"
+      ]
+    },
+    {
+      "id": "TRP_0377",
+      "topicId": "DERIVED_179",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 117"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_179_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0153"
+      ]
+    },
+    {
+      "id": "TRP_0378",
+      "topicId": "DERIVED_180",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 122"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_180_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0154"
+      ]
+    },
+    {
+      "id": "TRP_0379",
+      "topicId": "DERIVED_181",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 165"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_181_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0155"
+      ]
+    },
+    {
+      "id": "TRP_0380",
+      "topicId": "DERIVED_182",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 152"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_182_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0157"
+      ]
+    },
+    {
+      "id": "TRP_0381",
+      "topicId": "DERIVED_183",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 216"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_183_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0158"
+      ]
+    },
+    {
+      "id": "TRP_0382",
+      "topicId": "DERIVED_184",
+      "source": [
+        "HIPPO (Board Review) Ch 18"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_184_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0159"
+      ]
+    },
+    {
+      "id": "TRP_0383",
+      "topicId": "DERIVED_185",
+      "source": [
+        "HIPPO (Board Review) Ch 18"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_185_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0160"
+      ]
+    },
+    {
+      "id": "TRP_0384",
+      "topicId": "DERIVED_186",
+      "source": [
+        "HIPPO (Board Review) Ch 22"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_186_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0161"
+      ]
+    },
+    {
+      "id": "TRP_0385",
+      "topicId": "DERIVED_187",
+      "source": [
+        "HIPPO (Board Review) Ch 22"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_187_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0162"
+      ]
+    },
+    {
+      "id": "TRP_0386",
+      "topicId": "DERIVED_188",
+      "source": [
+        "HIPPO (Board Review) Ch 23"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_188_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0163"
+      ]
+    },
+    {
+      "id": "TRP_0387",
+      "topicId": "DERIVED_189",
+      "source": [
+        "HIPPO (Board Review) Ch 24"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_189_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0164"
+      ]
+    },
+    {
+      "id": "TRP_0388",
+      "topicId": "DERIVED_190",
+      "source": [
+        "HIPPO (Board Review) Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_190_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0165"
+      ]
+    },
+    {
+      "id": "TRP_0389",
+      "topicId": "DERIVED_191",
+      "source": [
+        "HIPPO (Board Review) Ch 25"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_191_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0166"
+      ]
+    },
+    {
+      "id": "TRP_0390",
+      "topicId": "DERIVED_192",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 33"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_192_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0167"
+      ]
+    },
+    {
+      "id": "TRP_0391",
+      "topicId": "DERIVED_193",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 21"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_193_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0169"
+      ]
+    },
+    {
+      "id": "TRP_0392",
+      "topicId": "DERIVED_194",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 92"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_194_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0170"
+      ]
+    },
+    {
+      "id": "TRP_0393",
+      "topicId": "DERIVED_195",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 119"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_195_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0171"
+      ]
+    },
+    {
+      "id": "TRP_0394",
+      "topicId": "DERIVED_196",
+      "source": [
+        "Rosen / Tintinalli (FRCEM Alignment) Ch 104"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_196_1"
+      ],
+      "arabicTopicMatch": true,
+      "duplicateOf": [
+        "TRP_0172"
+      ]
+    },
+    {
+      "id": "TRP_0395",
+      "topicId": "DERIVED_197",
+      "source": [
+        "Tintinalli Ch 1"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_197_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0173"
+      ]
+    },
+    {
+      "id": "TRP_0396",
+      "topicId": "DERIVED_198",
+      "source": [
+        "Tintinalli Ch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_198_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0175"
+      ]
+    },
+    {
+      "id": "TRP_0397",
+      "topicId": "DERIVED_199",
+      "source": [
+        "Tintinalli Ch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_199_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0176"
+      ]
+    },
+    {
+      "id": "TRP_0398",
+      "topicId": "DERIVED_200",
+      "source": [
+        "Tintinalli Ch 2"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_200_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0177"
+      ]
+    },
+    {
+      "id": "TRP_0399",
+      "topicId": "DERIVED_201",
+      "source": [
+        "Tintinalli Ch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_201_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0178"
+      ]
+    },
+    {
+      "id": "TRP_0400",
+      "topicId": "DERIVED_202",
+      "source": [
+        "Tintinalli Ch 3"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_202_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0179"
+      ]
+    },
+    {
+      "id": "TRP_0401",
+      "topicId": "DERIVED_203",
+      "source": [
+        "Tintinalli Ch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_203_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0180"
+      ]
+    },
+    {
+      "id": "TRP_0402",
+      "topicId": "DERIVED_204",
+      "source": [
+        "Tintinalli Ch 4"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_204_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0181"
+      ]
+    },
+    {
+      "id": "TRP_0403",
+      "topicId": "DERIVED_205",
+      "source": [
+        "Tintinalli Ch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_205_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0182"
+      ]
+    },
+    {
+      "id": "TRP_0404",
+      "topicId": "DERIVED_206",
+      "source": [
+        "Tintinalli Ch 5"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_206_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0183"
+      ]
+    },
+    {
+      "id": "TRP_0405",
+      "topicId": "DERIVED_207",
+      "source": [
+        "Tintinalli Ch 6"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_207_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0184"
+      ]
+    },
+    {
+      "id": "TRP_0406",
+      "topicId": "DERIVED_208",
+      "source": [
+        "Tintinalli Ch 7"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_208_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0185"
+      ]
+    },
+    {
+      "id": "TRP_0407",
+      "topicId": "DERIVED_209",
+      "source": [
+        "Tintinalli Ch 7"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_209_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0186"
+      ]
+    },
+    {
+      "id": "TRP_0408",
+      "topicId": "DERIVED_210",
+      "source": [
+        "Tintinalli Ch 8"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_210_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0187"
+      ]
+    },
+    {
+      "id": "TRP_0409",
+      "topicId": "DERIVED_211",
+      "source": [
+        "Tintinalli Ch 8"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_211_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0188"
+      ]
+    },
+    {
+      "id": "TRP_0410",
+      "topicId": "DERIVED_212",
+      "source": [
+        "Tintinalli Ch 9"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_212_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0189"
+      ]
+    },
+    {
+      "id": "TRP_0411",
+      "topicId": "DERIVED_213",
+      "source": [
+        "Tintinalli Ch 9"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_213_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0190"
+      ]
+    },
+    {
+      "id": "TRP_0412",
+      "topicId": "DERIVED_214",
+      "source": [
+        "Tintinalli Ch 10"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_214_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0191"
+      ]
+    },
+    {
+      "id": "TRP_0413",
+      "topicId": "DERIVED_215",
+      "source": [
+        "Tintinalli? Ch E7"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_215_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0192"
+      ]
+    },
+    {
+      "id": "TRP_0414",
+      "topicId": "DERIVED_216",
+      "source": [
+        "Tintinalli? Ch E8"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_216_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0193"
+      ]
+    },
+    {
+      "id": "TRP_0415",
+      "topicId": "DERIVED_217",
+      "source": [
+        "Tintinalli? Ch E15"
+      ],
+      "evidenceIds": [
+        "TRAP_DERIVED_217_1"
+      ],
+      "arabicTopicMatch": false,
+      "duplicateOf": [
+        "TRP_0194"
+      ]
+    }
+  ]
+}

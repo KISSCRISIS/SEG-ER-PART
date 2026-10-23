@@ -1,0 +1,33 @@
+[1mdiff --git a/client/src/App.tsx b/client/src/App.tsx[m
+[1mindex b659eea..5368601 100644[m
+[1m--- a/client/src/App.tsx[m
+[1m+++ b/client/src/App.tsx[m
+[36m@@ -2,6 +2,7 @@[m [mimport { Toaster } from "@/components/ui/sonner";[m
+ import { TooltipProvider } from "@/components/ui/tooltip";[m
+ import DashboardPage from "@/pages/DashboardPage";[m
+ import Home from "@/pages/Home";[m
+[32m+[m[32mimport LaboratoryPage from "@/pages/LaboratoryPage";[m
+ import LoginPage from "@/pages/LoginPage";[m
+ import NotFound from "@/pages/NotFound";[m
+ import RegisterPage from "@/pages/RegisterPage";[m
+[36m@@ -16,6 +17,7 @@[m [mfunction Router() {[m
+       <Route path="/register" component={RegisterPage} />[m
+       <Route path="/login" component={LoginPage} />[m
+       <Route path="/dashboard" component={DashboardPage} />[m
+[32m+[m[32m      <Route path="/laboratory" component={LaboratoryPage} />[m
+       <Route path="/404" component={NotFound} />[m
+       <Route component={NotFound} />[m
+     </Switch>[m
+[1mdiff --git a/client/src/pages/Home.tsx b/client/src/pages/Home.tsx[m
+[1mindex cc138e8..9107962 100644[m
+[1m--- a/client/src/pages/Home.tsx[m
+[1m+++ b/client/src/pages/Home.tsx[m
+[36m@@ -139,7 +139,7 @@[m [mexport default function Home() {[m
+         <section id="capabilities" className="seg-landing-v4-capabilities" aria-labelledby="capabilities-title">[m
+           <h2 id="capabilities-title">Everything you need to learn, practice and excel</h2>[m
+           <div>[m
+[31m-            {capabilities.map(({ title, body, details, icon: Icon, kind }) => <article className={`is-${kind}`} key={title}><Icon aria-hidden="true" /><ChevronRight aria-hidden="true" /><h3>{title}</h3><p>{body}</p>{details && <ul aria-label="Smart References and Tools content">{details.map((detail) => <li key={detail}>{detail}</li>)}</ul>}</article>)}[m
+[32m+[m[32m            {capabilities.map(({ title, body, details, icon: Icon, kind }) => <article className={`is-${kind}`} key={title}><Icon aria-hidden="true" /><ChevronRight aria-hidden="true" /><h3>{title}</h3><p>{body}</p>{details && <ul aria-label="Smart References and Tools content">{details.map((detail) => <li key={detail}>{detail}</li>)}</ul>}{kind === "references" ? <Link href="/laboratory" className="seg-button-secondary mt-4 inline-flex w-full text-xs" aria-label="Open Laboratory Guide foundation"><span>Laboratory Guide</span><ArrowRight aria-hidden="true" /></Link> : null}</article>)}[m
+           </div>[m
+         </section>[m
+ [m

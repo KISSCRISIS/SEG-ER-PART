@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "provenance": "Hand-curated canonical topic table for Phase 4-D. Each entry anchors one global-layer enhancement as a canonical topicId. Priorities are editorial triage marked under-review; blueprint basis lists only verified linked sources (Tintinalli/Rosen/Rosh chapters resolved by the layer builder). Board-body coverage (FRCEM/Saudi/Arab Board) is NOT claimed and awaits qualified review in Phase 4-E.",
+  "topics": [
+    { "enhancementId": "cardiac-arrest", "topicId": "EM_CRIT_ARREST", "topicName": "Cardiac Arrest", "system": "critical-care", "priority": "Very High" },
+    { "enhancementId": "shock-approach", "topicId": "EM_CRIT_SHOCK", "topicName": "Shock Approach", "system": "critical-care", "priority": "Very High" },
+    { "enhancementId": "anaphylaxis", "topicId": "EM_CRIT_ANAPHYLAXIS", "topicName": "Anaphylaxis", "system": "critical-care", "priority": "Very High" },
+    { "enhancementId": "acute-coronary-syndrome", "topicId": "EM_CARDIO_ACS", "topicName": "Acute Coronary Syndrome", "system": "cardiovascular", "priority": "Very High" },
+    { "enhancementId": "cardiac-tamponade", "topicId": "EM_CARDIO_TAMPONADE", "topicName": "Cardiac Tamponade", "system": "cardiovascular", "priority": "High" },
+    { "enhancementId": "acute-asthma", "topicId": "EM_RESP_ASTHMA", "topicName": "Acute Asthma Exacerbation", "system": "respiratory", "priority": "High" },
+    { "enhancementId": "copd-exacerbation", "topicId": "EM_RESP_COPD", "topicName": "COPD Exacerbation", "system": "respiratory", "priority": "Medium" },
+    { "enhancementId": "pneumothorax", "topicId": "EM_RESP_PNEUMOTHORAX", "topicName": "Pneumothorax / Tension Pneumothorax", "system": "respiratory", "priority": "High" },
+    { "enhancementId": "pulmonary-embolism", "topicId": "EM_RESP_PE", "topicName": "Pulmonary Embolism", "system": "respiratory", "priority": "High" },
+    { "enhancementId": "primary-trauma-survey", "topicId": "EM_TRAUMA_PRIMARY_SURVEY", "topicName": "Primary Trauma Survey (ABCDE)", "system": "trauma", "priority": "Very High" },
+    { "enhancementId": "traumatic-brain-injury", "topicId": "EM_TRAUMA_TBI", "topicName": "Traumatic Brain Injury", "system": "trauma", "priority": "Very High" },
+    { "enhancementId": "acute-stroke", "topicId": "EM_NEURO_STROKE", "topicName": "Acute Stroke", "system": "neurology", "priority": "Very High" },
+    { "enhancementId": "status-epilepticus", "topicId": "EM_NEURO_STATUS", "topicName": "Status Epilepticus", "system": "neurology", "priority": "High" },
+    { "enhancementId": "acute-abdominal-pain", "topicId": "EM_GI_ABD_PAIN", "topicName": "Acute Abdominal Pain Approach", "system": "gastrointestinal", "priority": "High" },
+    { "enhancementId": "gi-bleeding", "topicId": "EM_GI_BLEED", "topicName": "GI Bleeding", "system": "gastrointestinal", "priority": "High" },
+    { "enhancementId": "sepsis-septic-shock", "topicId": "EM_ID_SEPSIS", "topicName": "Sepsis / Septic Shock", "system": "infectious-disease", "priority": "Very High" },
+    { "enhancementId": "dka-hhs", "topicId": "EM_ENDO_DKA_HHS", "topicName": "DKA / HHS", "system": "endocrinology", "priority": "High" },
+    { "enhancementId": "hyperkalemia", "topicId": "EM_ENDO_HYPERK", "topicName": "Hyperkalemia", "system": "endocrinology", "priority": "High" },
+    { "enhancementId": "hypoglycemia", "topicId": "EM_ENDO_HYPO", "topicName": "Hypoglycemia", "system": "endocrinology", "priority": "High" },
+    { "enhancementId": "opioid-overdose", "topicId": "EM_TOX_OPIOID", "topicName": "Opioid Overdose", "system": "toxicology", "priority": "High" },
+    { "enhancementId": "ectopic-pregnancy", "topicId": "EM_OBGYN_ECTOPIC", "topicName": "Ectopic Pregnancy", "system": "obstetrics-gynecology", "priority": "High" },
+    { "enhancementId": "pediatric-fever", "topicId": "EM_PEDS_FEVER", "topicName": "Pediatric Fever Approach", "system": "pediatrics", "priority": "Medium" },
+    { "enhancementId": "heme-anemia-coag", "topicId": "EM_HEME_ANEMIA_COAG", "topicName": "Hematologic Anemia & Coagulation", "system": "hematologic", "priority": "High" },
+    { "enhancementId": "derm-rash", "topicId": "EM_DERM_RASH", "topicName": "Dermatologic Rash & Cutaneous Emergencies", "system": "dermatology", "priority": "Medium" },
+    { "enhancementId": "env-heat-cold", "topicId": "EM_ENV_HEAT_COLD", "topicName": "Environmental Heat & Cold Injuries", "system": "environmental", "priority": "Medium" }
+  ]
+}

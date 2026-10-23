@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seg.local/schemas/knowledge-graph.schema.json",
+  "title": "SEG Knowledge Graph",
+  "description": "Phase 4-E.1 foundation schema. Defines the four node types and the graph envelope. No instance data lives here.",
+  "type": "object",
+  "required": ["schemaVersion", "topics", "sources", "contents", "questions", "relations"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "topics": { "type": "array", "items": { "$ref": "#/$defs/TOPIC_NODE" } },
+    "sources": { "type": "array", "items": { "$ref": "#/$defs/SOURCE_NODE" } },
+    "contents": { "type": "array", "items": { "$ref": "#/$defs/CONTENT_NODE" } },
+    "questions": { "type": "array", "items": { "$ref": "#/$defs/QUESTION_NODE" } },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "from", "to"],
+        "properties": {
+          "type": { "type": "string", "minLength": 1 },
+          "from": { "type": "string", "minLength": 1 },
+          "to": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "$defs": {
+    "TOPIC_NODE": {
+      "type": "object",
+      "required": ["topicId", "topicName", "system", "priority"],
+      "properties": {
+        "topicId": { "type": "string", "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$" },
+        "topicName": { "type": "string", "minLength": 1 },
+        "system": { "type": "string", "minLength": 1 },
+        "priority": { "enum": ["Very High", "High", "Medium", "Low"] }
+      },
+      "additionalProperties": true
+    },
+    "SOURCE_NODE": {
+      "type": "object",
+      "required": ["sourceId", "name", "category", "availability", "mappingDepth", "sourceMaturity"],
+      "properties": {
+        "sourceId": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "category": { "enum": ["summary", "study-book", "synthesis", "enhancement-layer", "qbank", "reference-pdf"] },
+        "availability": { "enum": ["indexed", "reference-only", "pending"] },
+        "mappingDepth": {
+          "enum": ["full", "partial"],
+          "description": "full allows chapter/unit mapping; partial maps available layers only and never creates missing chapters or summaries"
+        },
+        "sourceMaturity": {
+          "enum": ["FULL", "PARTIAL"],
+          "description": "Final approved maturity: Tintinalli/Rosen/Rosh families are FULL (Rosh strictly for in-project content); FRCEM/Hippo/Oxford/SEG Original are PARTIAL"
+        }
+      },
+      "additionalProperties": true
+    },
+    "CONTENT_NODE": {
+      "type": "object",
+      "required": ["contentId", "contentType", "sourceId", "topicId", "status"],
+      "properties": {
+        "contentId": { "type": "string", "minLength": 1 },
+        "contentType": { "enum": ["Algorithm", "Exam Pearl", "Table", "Summary"] },
+        "sourceId": { "type": "string", "minLength": 1 },
+        "topicId": { "type": "string", "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$" },
+        "status": { "enum": ["under-review", "approved"] }
+      },
+      "additionalProperties": true
+    },
+    "QUESTION_NODE": {
+      "type": "object",
+      "required": ["questionId", "sourceId", "topicId", "difficulty"],
+      "properties": {
+        "questionId": { "type": "string", "minLength": 1 },
+        "sourceId": { "type": "string", "minLength": 1 },
+        "topicId": { "type": "string", "pattern": "^EM_[A-Z]+_[A-Z0-9_]+$" },
+        "difficulty": { "enum": ["Easy", "Medium", "Hard"] }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

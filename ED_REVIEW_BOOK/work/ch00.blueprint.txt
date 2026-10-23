@@ -1,0 +1,88 @@
+[PEER-CS PEER-key-advances-q-161] A 60-year-old man with stage II CKD and hypertension, presents with fever and productive cough for 3 days. Vital signs normal except T 38.2°C. Labs: BUN 18, Na 136, WBC 12,000. CXR shows infiltrate. What is the most appropriate disposition?
+    ANSWER: Discharge home   (key A)
+[PEER-CS PEER-key-advances-q-162] A 55-year-old man with CAD risk factors has sudden chest pain, collapses, receives dispatcher CPR. Fire department performs CPR, epinephrine, defibrillation with ROSC. Intubated. What should be done after achieving ROSC?
+    ANSWER: Obtain an ECG   (key D)
+[PEER-CS PEER-key-advances-q-163] A 31-year-old man with ulcerative colitis presents with left wrist pain after a fall. X-rays show no fracture. Placed in thumb spica splint. What is the most appropriate outpatient pain regimen?
+    ANSWER: Acetaminophen   (key A)
+[PEER-CS PEER-key-advances-q-164] A woman at 41 weeks' gestation delivers a baby. Almost 2 minutes after delivery, the newborn's heart rate is 85 bpm. What is the next step?
+    ANSWER: Administer positive-pressure ventilation   (key A)
+[PEER-CS PEER-key-advances-q-165] A 13-day-old infant presents with a fever. Which factor portends the most increased risk of neonatal sepsis in this patient?
+    ANSWER: Febrile maternal chorioamnionitis   (key B)
+[PEER-CS PEER-key-advances-q-166] A 27-year-old woman at 24 weeks' gestation with new elevated BP 150/95, no proteinuria, normal labs. What is the most appropriate treatment of her hypertension?
+    ANSWER: Labetalol   (key A)
+[PEER-CS PEER-key-advances-q-167] A 40-year-old man with pleuritic chest pain 2 weeks after COVID-19. CT shows subsegmental PE without right heart strain. What is the best treatment strategy?
+    ANSWER: Discharge home on apixaban PO   (key C)
+[PEER-CS PEER-key-advances-q-168] According to ACLS updates 2018 and 2019, which medication should be considered after 1 mg IV epinephrine every 5 minutes for a patient in cardiac arrest?
+    ANSWER: Vasopressin   (key D)
+[PEER-CS PEER-key-advances-q-169] According to ACEP's 2020 Clinical Policy on opioids, what is the best initial treatment for a patient who presents in acute opioid withdrawal?
+    ANSWER: Buprenorphine   (key A)
+[PEER-CS PEER-key-advances-q-170] According to the 2019 AHA focused update on PALS, what is the recommended airway management for pediatric patients in out-of-hospital cardiac arrest?
+    ANSWER: Bag-mask ventilation   (key A)
+[PEER-CS PEER-key-advances-q-171] According to the ACEP Clinical Policy on acute headaches and the Ottawa SAH Rule, what indicates the need to obtain neuroimaging for SAH in a patient with acute headache?
+    ANSWER: Loss of consciousness   (key C)
+[PEER-CS PEER-key-advances-q-172] A 67-year-old man with history of MRSA, hypertension, hyperlipidemia, productive cough for 3 days. Which laboratory test should be obtained to tailor empiric therapy?
+    ANSWER: MRSA nasal PCR   (key C)
+[PEER-CS PEER-key-advances-q-173] A 55-year-old man with cardiac arrest on dispatcher CPR. What medication should be administered next?
+    ANSWER: Standard-dose epinephrine   (key C)
+[PEER-CS PEER-key-advances-q-174] A 36-year-old woman with headache and nausea, started at rest 12 hours ago, gradual worsening over first hour. No syncope, LOC, or neck pain/stiffness. Normal neuro exam. Ibuprofen and acetaminophen do not relieve. What is the best next step?
+    ANSWER: No study is indicated   (key C)
+[PEER-CS PEER-key-advances-q-175] A 36-year-old woman with headache that started at rest, gradual worsening, no red flags. Ibuprofen and acetaminophen do not relieve. What is the best treatment for this patient's pain?
+    ANSWER: Prochlorperazine   (key D)
+[PEER-CS PEER-key-advances-q-176] A 26-year-old woman with body aches, nausea, vomiting, diarrhea, piloerection, 3 days after stopping oxycodone. What medication should be administered?
+    ANSWER: Buprenorphine   (key A)
+[PEER-CS PEER-key-advances-q-177] A 7-year-old girl with UTI on antibiotics, worsening, PEA cardiac arrest at rural hospital. EMT can bag-mask ventilate. What intervention should be prioritized?
+    ANSWER: Crystalloid fluid bolus   (key A)
+[PEER-CS PEER-key-advances-q-178] A 7-year-old girl post-ROSC remains comatose after septic shock cardiac arrest. Broad-spectrum antibiotics given. What should be prioritized for post-ROSC care?
+    ANSWER: Targeted temperature management   (key D)
+[PEER-CS PEER-key-advances-q-179] An academic ED that primarily cares for adults with pediatric hospital nearby. How should this ED best prepare to care for pediatric patients?
+    ANSWER: Maintain a pediatric crash cart   (key C)
+[PEER-CS PEER-key-advances-q-180] A 56-year-old man with hypertension and diabetes presents with shortness of breath, BP 180/110, crackles. What is most likely seen on bedside ultrasound?
+    ANSWER: Sonographic B-lines   (key D)
+[PEER-CS PEER-key-advances-q-181] A 25-year-old man with unknown medical history presents with acute agitation. Verbal deescalation unsuccessful, tries to punch a security guard. What pharmacotherapy is most appropriate?
+    ANSWER: Droperidol IM with midazolam IM   (key A)
+[PEER-CS PEER-key-advances-q-182] A 25-kg, 5-year-old boy with acute respiratory distress from bronchiolitis, hypoxic to 85%, RR 46 despite albuterol. What would be the next most appropriate treatment?
+    ANSWER: High-flow nasal cannula   (key A)
+[PEER-CS PEER-key-advances-q-183] A patient presents in diabetic ketoacidosis. Glucose 650 mg/dL, potassium 3.8 mEq/L. What is the most appropriate next step?
+    ANSWER: Insulin infusion plus maintenance normal saline with 20 mEq/L potassium   (key C)
+[PEER-CS PEER-key-advances-q-184] A patient with opioid withdrawal is given buprenorphine. What is the mechanism of action of buprenorphine?
+    ANSWER: Partial mu opioid receptor agonist   (key C)
+[PEER-CS PEER-key-advances-q-185] A patient presents with severe sepsis. Based on CMS core measures, which finding meets the definition of septic shock?
+    ANSWER: BP 70/50 after 30 mL/kg of lactated Ringer   (key A)
+[PEER-CS PEER-key-advances-q-186] A minimally responsive patient with right flank bruise. RUSH examination shows free fluid between kidney and liver. What is the best interpretation?
+    ANSWER: Right upper quadrant intraperitoneal free fluid   (key D)
+[PEER-CS PEER-key-advances-q-187] In which case of acute asthma exacerbation should a chest x-ray be obtained?
+    ANSWER: 22-year-old with persistent hypoxia and tachypnea after three albuterol nebulizer treatments   (key C)
+[PEER-CS PEER-key-advances-q-188] A 7-year-old boy undergoing procedural sedation with ketamine develops stridor concerning for laryngospasm and desaturates. What is the next best management step?
+    ANSWER: Perform positive-pressure ventilation while applying pressure to the Larson point   (key D)
+[PEER-CS PEER-key-advances-q-189] A 64-year-old man awakens with right-sided arm/leg weakness, facial droop, and aphasia. Last known well 2 am, presented at 8 am. NIHSS 15, CTA shows MCA thrombus. What is the most appropriate next step?
+    ANSWER: Consult neurointerventional radiology for a mechanical thrombectomy   (key C)
+[PEER-CS PEER-key-advances-q-190] A 77-year-old man on a blood thinner that does not require lab checks, presents obtunded with subdural hematoma and 5 mm midline shift. What is the most appropriate pharmacotherapy for reversal?
+    ANSWER: 4-factor prothrombin complex concentrate   (key A)
+[PEER-CS PEER-key-advances-q-191] A 77-year-old man on rivaroxaban after craniotomy recovery, presents 10 months later with epistaxis, Hgb 12.1 (prior 12.3). What is the most appropriate course of management?
+    ANSWER: Hold rivaroxaban temporarily   (key B)
+[PEER-CS PEER-key-advances-q-192] A 45-year-old diabetic woman with COVID-19, SpO2 85% on 4 L NC, accessory muscle use, CXR diffuse inflammatory changes. What is the most appropriate next step to improve oxygenation?
+    ANSWER: Replace the simple nasal cannula with HFNC   (key D)
+[PEER-CS PEER-key-advances-q-193] A 45-year-old woman with SOB, increased work of breathing, SpO2 88%, ABG: pH 7.40, PaO2 70, PaCO2 35 (hypoxemic, nonhypercapnic). After nasal cannula at 6 L/min, no improvement. What is the best next step?
+    ANSWER: Start HFNC   (key D)
+[PEER-CS PEER-key-advances-q-194] A 75-year-old man with chronic AF presents with tachycardia, cough, fever, BP 105/64, P 140, T 38.9°C. What is the most appropriate management of this patient's heart rate?
+    ANSWER: Initiate sepsis care with IV lactated Ringer solution and antibiotics   (key B)
+[PEER-CS PEER-key-advances-q-195] A 5-year-old with status epilepticus. Two doses of lorazepam ineffective. What medication should be administered next?
+    ANSWER: Levetiracetam IV   (key B)
+[PEER-CS PEER-key-advances-q-196] Procedural sedation on a 65-year-old. Repeated sternal rubbing required to elicit any response, transient hypopnea and airway obstruction managed with BVM and jaw thrust. HR and BP normal. What level of sedation does this represent?
+    ANSWER: Deep sedation   (key A)
+[PEER-CS PEER-key-advances-q-197] A 70-year-old man with untreated HTN, altered, lactate 5.1. Which additional element of history or exam would suggest benefit from fluid resuscitation and serial lactate checks?
+    ANSWER: Hypothermia and flank pain   (key C)
+[PEER-CS PEER-key-advances-q-198] A 56-year-old woman with flu-like symptoms, several family members have similar symptoms, cluster indoors in cold weather. Lactate 3.4, VBG pH 7.22. Which additional laboratory test is essential?
+    ANSWER: Carboxyhemoglobin level   (key C)
+[PEER-CS PEER-key-advances-q-199] A morbidly obese patient with COPD exacerbation and worsening mental status despite NIPPV. Decision for RSI. Which strategy should be used to facilitate intubation?
+    ANSWER: Video laryngoscopy with hyperangulated blade   (key D)
+[PEER-CS PEER-key-advances-q-200] A 62-year-old woman with chest pain, HEART score 2. ECG, CBC, chemistry, chest x-ray, troponin, D-dimer all normal. What is the most appropriate management?
+    ANSWER: Discharge home with primary care physician follow-up   (key C)
+[PEER-CS PEER-key-advances-q-201] A 20-year-old woman with tick bite noted after a hike in New York 48 hours ago. What further management is needed after removal?
+    ANSWER: Administer a single 200-mg dose of doxycycline to prevent Lyme disease   (key A)
+[PEER-CS PEER-key-advances-q-202] A 28-year-old man with epilepsy presents with status epilepticus. After 8 mg lorazepam IV, seizure continues. What is the appropriate next treatment?
+    ANSWER: Valproate 2000 mg IV   (key D)
+[PEER-CS PEER-key-advances-q-203] A 50-year-old woman after camping in Portland, Maine. Fever, chills, lymphadenopathy, fatigue, myalgias, headache, rash (targetoid). What is the best next step in risk stratification of this patient?
+    ANSWER: ECG   (key C)
+[PEER-CS PEER-key-advances-q-204] A 61-year-old woman with HTN, T2DM, depression presents with 2 hours of substernal chest pressure. ECG unremarkable, troponin elevated. Concern for NSTEMI. Which intervention is no longer recommended in the initial treatment because it has shown no efficacy and is potentially harmful?
+    ANSWER: Start supplemental oxygen via nasal cannula   (key D)

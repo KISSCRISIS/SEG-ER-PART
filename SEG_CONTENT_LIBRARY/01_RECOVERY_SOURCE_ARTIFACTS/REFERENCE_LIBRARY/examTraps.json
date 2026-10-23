@@ -1,0 +1,2686 @@
+[
+  {
+    "id": "TRP_0001",
+    "text": "Liability does NOT transfer to the receiving physician immediately upon acceptance of the patient transfer call.",
+    "referenceId": "tint_c1_t1",
+    "source": "Tintinalli",
+    "topic": "EMTALA and Interfacility Transfer"
+  },
+  {
+    "id": "TRP_0002",
+    "text": "Don't assume a normal-appearing eardrum rules out serious internal lung or bowel blast injury.",
+    "referenceId": "tint_c1_t3",
+    "source": "Tintinalli",
+    "topic": "Blast Injury Pathophysiology"
+  },
+  {
+    "id": "TRP_0003",
+    "text": "Patient 'History' is NOT a component of the TIMI score, whereas it IS a component of the HEART score.",
+    "referenceId": "tint_c5_t1",
+    "source": "Tintinalli",
+    "topic": "TIMI Risk Score"
+  },
+  {
+    "id": "TRP_0004",
+    "text": "Do not confuse with simple Strep pneumonia; the presence of an abscess or bulging fissure in an alcoholic patient strongly points to Klebsiella.",
+    "referenceId": "tint_c6_t1",
+    "source": "Tintinalli",
+    "topic": "Klebsiella Pneumonia"
+  },
+  {
+    "id": "TRP_0005",
+    "text": "Uncuffed tubes are traditional, but modern guidelines (AHA/AAP) support cuffed tubes to prevent leak and improve ventilation accuracy.",
+    "referenceId": "tint_c10_t1",
+    "source": "Tintinalli",
+    "topic": "Pediatric Airway Sizing"
+  },
+  {
+    "id": "TRP_0006",
+    "text": "Frontal hematomas in children <2 years are NOT high-risk; it is the non-frontal (parietal/occipital) ones that mandate concern.",
+    "referenceId": "tint_c10_t2",
+    "source": "Tintinalli",
+    "topic": "Pediatric Head Trauma Rules (PECARN)"
+  },
+  {
+    "id": "TRP_0007",
+    "text": "Don't confuse DGI skin lesions with simple cellulitis; look for the acral distribution and the patient's sexual history.",
+    "referenceId": "tint_c11_t1",
+    "source": "Tintinalli",
+    "topic": "Disseminated Gonococcal Infection (DGI)"
+  },
+  {
+    "id": "TRP_0008",
+    "text": "Staph TSS rash is typically PAINLESS; if the rash/area is severely painful, think Strep TSS/Necrotizing Fasciitis.",
+    "referenceId": "tint_c11_t2",
+    "source": "Tintinalli",
+    "topic": "Toxic Shock Syndrome (TSS)"
+  },
+  {
+    "id": "TRP_0009",
+    "text": "Never debride a suspected tetanus wound before giving TIG; manipulation can trigger a massive release of toxin.",
+    "referenceId": "tint_c11_t3",
+    "source": "Tintinalli",
+    "topic": "Tetanus Management"
+  },
+  {
+    "id": "TRP_0010",
+    "text": "If left untreated, the most serious sequela is permanent vision loss, not stroke or migraine.",
+    "referenceId": "tint_c12_t1",
+    "source": "Tintinalli",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)"
+  },
+  {
+    "id": "TRP_0011",
+    "text": "Do NOT wait for 30 minutes to define status; current standard is 5 minutes for starting aggressive treatment.",
+    "referenceId": "tint_c12_t2",
+    "source": "Tintinalli",
+    "topic": "Status Epilepticus"
+  },
+  {
+    "id": "TRP_0012",
+    "text": "NEVER neutralize a caustic with water or weak acid/base; the exothermic reaction causes severe thermal burns.",
+    "referenceId": "tint_c13_t1",
+    "source": "Tintinalli",
+    "topic": "Caustic Ingestions (Acid vs Alkali)"
+  },
+  {
+    "id": "TRP_0013",
+    "text": "Supplemental oxygen is ineffective because the hemoglobin cannot release oxygen to the tissues.",
+    "referenceId": "tint_c13_t2",
+    "source": "Tintinalli",
+    "topic": "Methemoglobinemia"
+  },
+  {
+    "id": "TRP_0014",
+    "text": "Do NOT debride frostbite in the ED; you may remove tissue that could eventually survive.",
+    "referenceId": "tint_c14_t1",
+    "source": "Tintinalli",
+    "topic": "Frostbite Management"
+  },
+  {
+    "id": "TRP_0015",
+    "text": "Standard pulse oximetry cannot distinguish between oxyhemoglobin and carboxyhemoglobin; it will be falsely normal.",
+    "referenceId": "tint_c14_t2",
+    "source": "Tintinalli",
+    "topic": "Carbon Monoxide (CO) Poisoning"
+  },
+  {
+    "id": "TRP_0016",
+    "text": "Never start insulin if potassium is <3.3 mEq/L; replace potassium first.",
+    "referenceId": "tint_c15_t1",
+    "source": "Tintinalli",
+    "topic": "Diabetic Ketoacidosis (DKA) Management"
+  },
+  {
+    "id": "TRP_0017",
+    "text": "Do NOT wait for a cosyntropin stimulation test in a crashing patient; treat empirically with steroids if suspected.",
+    "referenceId": "tint_c15_t2",
+    "source": "Tintinalli",
+    "topic": "Adrenal Crisis"
+  },
+  {
+    "id": "TRP_0018",
+    "text": "Avoid NSAIDs and aspirin as they further impair platelet function in an already thrombocytopenic patient.",
+    "referenceId": "tint_c16_t1",
+    "source": "Tintinalli",
+    "topic": "Immune Thrombocytopenic Purpura (ITP)"
+  },
+  {
+    "id": "TRP_0019",
+    "text": "Do NOT confuse with vitreous hemorrhage; the retina is a more distinct, tethered membrane on US.",
+    "referenceId": "tint_c17_t1",
+    "source": "Tintinalli",
+    "topic": "Retinal Detachment"
+  },
+  {
+    "id": "TRP_0020",
+    "text": "The 'sentinel bleed' is often dismissed as minor suction trauma; always suspect a fistula in an ED patient with any trach bleed.",
+    "referenceId": "tint_c17_t2",
+    "source": "Tintinalli",
+    "topic": "Tracheoinnominate Artery Fistula"
+  },
+  {
+    "id": "TRP_0021",
+    "text": "Nikolsky sign (skin peeling with lateral pressure) is POSITIVE in SJS/TEN but negative in bullous pemphigoid.",
+    "referenceId": "tint_c18_t1",
+    "source": "Tintinalli",
+    "topic": "Erythema Multiforme (EM) and SJS/TEN"
+  },
+  {
+    "id": "TRP_0022",
+    "text": "A negative ultrasound does NOT rule out placental abruption; diagnosis is clinical and monitored via cardiotocography.",
+    "referenceId": "tint_c19_t1",
+    "source": "Tintinalli",
+    "topic": "Pregnancy in Trauma"
+  },
+  {
+    "id": "TRP_0023",
+    "text": "NEXUS rules for chest CANNOT be applied if the patient is over 60 years old.",
+    "referenceId": "tint_c19_t2",
+    "source": "Tintinalli",
+    "topic": "NEXUS Rules for Chest Imaging"
+  },
+  {
+    "id": "TRP_0024",
+    "text": "Do NOT apply rules to non-traumatic knee pain or chronic injuries.",
+    "referenceId": "tint_c20_t1",
+    "source": "Tintinalli",
+    "topic": "Ottawa Knee Rules"
+  },
+  {
+    "id": "TRP_0025",
+    "text": "A normal pulse does NOT rule out compartment syndrome; tissue pressure exceeds capillary perfusion pressure long before it exceeds arterial pressure.",
+    "referenceId": "tint_c20_t2",
+    "source": "Tintinalli",
+    "topic": "Compartment Syndrome"
+  },
+  {
+    "id": "TRP_0026",
+    "text": "Avoid ordering an emergent MRI in the ED for simple sciatica unless there are signs of Cauda Equina (saddle anesthesia, urinary retention).",
+    "referenceId": "tint_c21_t1",
+    "source": "Tintinalli",
+    "topic": "Sciatica and Herniated Nucleus Pulposus (HNP)"
+  },
+  {
+    "id": "TRP_0027",
+    "text": "Do not confuse with simple hip arthritis; look for systemic toxicity and pain when extending the hip (stretching the psoas).",
+    "referenceId": "tint_c21_t2",
+    "source": "Tintinalli",
+    "topic": "Psoas Abscess"
+  },
+  {
+    "id": "TRP_0028",
+    "text": "Do NOT rule out septic arthritis just because crystals are present or if the WBC count is only 20,000 in an HIV patient.",
+    "referenceId": "tint_c21_t3",
+    "source": "Tintinalli",
+    "topic": "Septic Arthritis in Immunocompromised Patients"
+  },
+  {
+    "id": "TRP_0029",
+    "text": "Do NOT assume that asking about suicide will plant the idea in a patient's head; direct questioning is essential and safe.",
+    "referenceId": "tint_c22_t1",
+    "source": "Tintinalli",
+    "topic": "Suicide Risk Assessment"
+  },
+  {
+    "id": "TRP_0030",
+    "text": "Do NOT mistake dystonia for a seizure or tetanus; look for recent medication changes or antiemetic use (e.g., Metoclopramide).",
+    "referenceId": "tint_c22_t2",
+    "source": "Tintinalli",
+    "topic": "Acute Dystonic Reactions"
+  },
+  {
+    "id": "TRP_0031",
+    "text": "Normal BMI does NOT rule out a serious eating disorder; bulimic patients are often normal weight or overweight.",
+    "referenceId": "tint_c22_t3",
+    "source": "Tintinalli",
+    "topic": "Eating Disorders (Bulimia Nervosa)"
+  },
+  {
+    "id": "TRP_0032",
+    "text": "IPV occurs across all socioeconomic and educational levels; do not exclude based on appearance or demographics.",
+    "referenceId": "tint_c23_t1",
+    "source": "Tintinalli",
+    "topic": "Intimate Partner Violence (IPV)"
+  },
+  {
+    "id": "TRP_0033",
+    "text": "Presence of pressure ulcers (bedsores) in an immobilized patient is not always evidence of abuse if standard care was followed, but requires investigation.",
+    "referenceId": "tint_c23_t2",
+    "source": "Tintinalli",
+    "topic": "Elder Abuse"
+  },
+  {
+    "id": "TRP_0034",
+    "text": "Do NOT delay negative pressure isolation while waiting for CT or sputum results in a high-risk patient with a cavitary lesion.",
+    "referenceId": "tint_c24_t1",
+    "source": "Tintinalli",
+    "topic": "Febrile IV Drug User (IVDU) and TB Isolation"
+  },
+  {
+    "id": "TRP_0035",
+    "text": "Religious beliefs of a patient with capacity must be respected, even if they refuse life-saving treatment (e.g., blood products).",
+    "referenceId": "tint_c24_t2",
+    "source": "Tintinalli",
+    "topic": "Consent and the Mature Minor Doctrine"
+  },
+  {
+    "id": "TRP_0036",
+    "text": "Do NOT start with airway (intubation) in a tactical scene while under fire; priority is securing the area and stopping massive hemorrhage.",
+    "referenceId": "tint_c24_t3",
+    "source": "Tintinalli",
+    "topic": "Tactical Combat Casualty Care (TCCC)"
+  },
+  {
+    "id": "TRP_0037",
+    "text": "Do NOT rely on effusion size alone; look at the RV in diastole. If it collapses, it's tamponade regardless of fluid volume.",
+    "referenceId": "tint_c25_t1",
+    "source": "Tintinalli",
+    "topic": "Cardiac Tamponade POCUS"
+  },
+  {
+    "id": "TRP_0038",
+    "text": "The 'Lung Point' is the most specific finding for PTX (where the lung meets the air), but it may not be visible in large PTX.",
+    "referenceId": "tint_c25_t2",
+    "source": "Tintinalli",
+    "topic": "Pneumothorax POCUS (M-Mode)"
+  },
+  {
+    "id": "TRP_0039",
+    "text": "Do NOT measure just the black patent lumen; you will underestimate the size if there is a mural thrombus.",
+    "referenceId": "tint_c25_t3",
+    "source": "Tintinalli",
+    "topic": "Abdominal Aortic Aneurysm (AAA) POCUS"
+  },
+  {
+    "id": "TRP_0040",
+    "text": "Do not confuse with Vitreous Hemorrhage; blood in the vitreous moves like 'swirling smoke' and is NOT tethered to the nerve.",
+    "referenceId": "tint_c25_t4",
+    "source": "Tintinalli",
+    "topic": "Retinal Detachment POCUS"
+  },
+  {
+    "id": "TRP_0041",
+    "text": "Do NOT rely on US to clear a patient with suspicious chest pain for home; CTA or TEE is required if dissection is suspected.",
+    "referenceId": "tint_c25_t5",
+    "source": "Tintinalli",
+    "topic": "POCUS for Aortic Dissection Limitations"
+  },
+  {
+    "id": "TRP_0042",
+    "text": "Humanitarian work (disaster relief) and development work (system building) are distinct but must be integrated for sustainable health systems.",
+    "referenceId": "tint_ce1_t1",
+    "source": "Tintinalli",
+    "topic": "Scope and Principles of GEM"
+  },
+  {
+    "id": "TRP_0043",
+    "text": "Proper technique for central line placement is NOT part of the geriatric-specific GED recommendations.",
+    "referenceId": "tint_ce4_t1",
+    "source": "Tintinalli",
+    "topic": "Geriatric Emergency Department (GED) Guidelines"
+  },
+  {
+    "id": "TRP_0044",
+    "text": "Speculating on the bullet's trajectory or caliber in the medical record can be used to discredit medical testimony in court.",
+    "referenceId": "tint_ce11_t1",
+    "source": "Tintinalli",
+    "topic": "Gunshot Wound (GSW) Documentation"
+  },
+  {
+    "id": "TRP_0045",
+    "text": "Do NOT delay transport for stable STEMI patients to perform secondary imaging or wait for lab results.",
+    "referenceId": "tint_ce12_t1",
+    "source": "Tintinalli",
+    "topic": "Interfacility Transport of STEMI"
+  },
+  {
+    "id": "TRP_0046",
+    "text": "SAVE is NOT for day-to-day triage; it is an extreme resource-allocation tool for prolonged disaster response.",
+    "referenceId": "tint_ce14_t1",
+    "source": "Tintinalli",
+    "topic": "SAVE Triage Guidelines"
+  },
+  {
+    "id": "TRP_0047",
+    "text": "Assuming lung-protective strategies are only for ICU patients with existing ARDS; initiation in the ED is critical.",
+    "referenceId": "rosen_c2_t1",
+    "source": "Rosen",
+    "topic": "Lung-Protective Ventilation in the ED"
+  },
+  {
+    "id": "TRP_0048",
+    "text": "Relying solely on SIRS criteria for defining sepsis according to the new Sepsis-3 standards.",
+    "referenceId": "rosen_c2_t2",
+    "source": "Rosen",
+    "topic": "Sepsis-3 Definitions"
+  },
+  {
+    "id": "TRP_0049",
+    "text": "Avoid fluid challenges in hypotension if rales and pulmonary edema are present on examination.",
+    "referenceId": "rosen_c3_t1",
+    "source": "Rosen",
+    "topic": "Cardiogenic Shock and Fluids"
+  },
+  {
+    "id": "TRP_0050",
+    "text": "Avoid Normal Saline for massive resuscitation due to the risk of renal injury from high chloride load.",
+    "referenceId": "rosen_c3_t2",
+    "source": "Rosen",
+    "topic": "Balanced Crystalloids vs. Normal Saline"
+  },
+  {
+    "id": "TRP_0051",
+    "text": "Avoid pre-hospital infusion of cold saline for induction of cooling as it increases the risk of pulmonary edema and rearrest.",
+    "referenceId": "rosen_c4_t1",
+    "source": "Rosen",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis"
+  },
+  {
+    "id": "TRP_0052",
+    "text": "Do not withdraw care early based on a poor neuro exam in the first 24-48 hours.",
+    "referenceId": "rosen_c4_t1",
+    "source": "Rosen",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis"
+  },
+  {
+    "id": "TRP_0053",
+    "text": "Assuming a patient isn't in pain because their heart rate and blood pressure are normal (non-verbal signs are unreliable).",
+    "referenceId": "rosen_c6_t1",
+    "source": "Rosen",
+    "topic": "Pain Transmission and Assessment"
+  },
+  {
+    "id": "TRP_0054",
+    "text": "Giving ketamine to a patient with a known open globe injury could extrude intraocular contents due to increased pressure.",
+    "referenceId": "rosen_c7_t1",
+    "source": "Rosen",
+    "topic": "Ketamine Complications and Contraindications"
+  },
+  {
+    "id": "TRP_0055",
+    "text": "Confusing botulism with Myasthenia Gravis; Myasthenia involves nicotinic receptors and lacks the autonomic findings (dry mouth/bladder issues) seen in botulism.",
+    "referenceId": "rosen_c9_t1",
+    "source": "Rosen",
+    "topic": "Botulism Pathophysiology"
+  },
+  {
+    "id": "TRP_0056",
+    "text": "Pulse oximetry often reads ~85% due to the light absorption spectrum of methemoglobin, regardless of true PaO2.",
+    "referenceId": "rosen_c10_t1",
+    "source": "Rosen",
+    "topic": "Methemoglobinemia Clinical Presentation"
+  },
+  {
+    "id": "TRP_0057",
+    "text": "Administering Phenytoin or Benzodiazepines as first-line for eclampsia instead of Magnesium.",
+    "referenceId": "rosen_c14_t1",
+    "source": "Rosen",
+    "topic": "Eclamptic Seizures Management"
+  },
+  {
+    "id": "TRP_0058",
+    "text": "Waiting for an X-ray to confirm a tension pneumothorax in an unstable/hypotensive patient.",
+    "referenceId": "rosen_c22_t1",
+    "source": "Rosen",
+    "topic": "Tension Pneumothorax and Ventilation"
+  },
+  {
+    "id": "TRP_0059",
+    "text": "Mistaking GOO for simple gastroenteritis if the 'time since last meal' history isn't obtained.",
+    "referenceId": "rosen_c25_t1",
+    "source": "Rosen",
+    "topic": "Gastric Outlet Obstruction"
+  },
+  {
+    "id": "TRP_0060",
+    "text": "Dismissing impaction in an elderly patient complaining of watery diarrhea without a rectal exam.",
+    "referenceId": "rosen_c28_t1",
+    "source": "Rosen",
+    "topic": "Fecal Impaction and Diarrhea"
+  },
+  {
+    "id": "TRP_0061",
+    "text": "Starting structural workup (US) or hormonal therapy before confirming pregnancy status with a test.",
+    "referenceId": "rosen_c30_t1",
+    "source": "Rosen",
+    "topic": "Initial Evaluation of Vaginal Bleeding"
+  },
+  {
+    "id": "TRP_0062",
+    "text": "Assuming stable blood pressure in a child means they are not in shock; tachycardia is the more reliable early sign.",
+    "referenceId": "rosen_c32_t1",
+    "source": "Rosen",
+    "topic": "Pediatric Trauma Anatomy and Physiology"
+  },
+  {
+    "id": "TRP_0063",
+    "text": "Obtaining an AMPLE history is part of the secondary survey, NOT the primary survey.",
+    "referenceId": "rosen_c32_t2",
+    "source": "Rosen",
+    "topic": "Primary Survey Priorities"
+  },
+  {
+    "id": "TRP_0064",
+    "text": "Dismissing simple nasal trauma without internal inspection; the hematoma is often hidden behind the columella.",
+    "referenceId": "rosen_c34_t1",
+    "source": "Rosen",
+    "topic": "Septal Hematoma"
+  },
+  {
+    "id": "TRP_0065",
+    "text": "Relying on the anatomical zone of injury to determine the need for surgery instead of clinical 'hard signs'.",
+    "referenceId": "rosen_c36_t1",
+    "source": "Rosen",
+    "topic": "Penetrating Neck Trauma (No-Zone Approach)"
+  },
+  {
+    "id": "TRP_0066",
+    "text": "Waiting for an X-ray to confirm tension pneumothorax in a hypotensive patient; it is a clinical diagnosis.",
+    "referenceId": "rosen_c37_t1",
+    "source": "Rosen",
+    "topic": "Tension Pneumothorax in Intubated Patients"
+  },
+  {
+    "id": "TRP_0067",
+    "text": "Sending an unstable patient with a positive FAST to IR instead of the OR for laparotomy.",
+    "referenceId": "rosen_c38_t1",
+    "source": "Rosen",
+    "topic": "Unstable Pelvic Fracture and FAST"
+  },
+  {
+    "id": "TRP_0068",
+    "text": "Blindly inserting a Foley catheter when blood at the meatus is present, which can convert a partial tear to a full transection.",
+    "referenceId": "rosen_c46_t1",
+    "source": "Rosen",
+    "topic": "Urethral Injury Evaluation"
+  },
+  {
+    "id": "TRP_0069",
+    "text": "Performing Tonometry (checking IOP) when an open globe is suspected; this can extrude eye contents.",
+    "referenceId": "rosen_c51_t1",
+    "source": "Rosen",
+    "topic": "Seidel Test and Open Globe"
+  },
+  {
+    "id": "TRP_0070",
+    "text": "Treating dry socket with oral antibiotics; it is a localized inflammatory process, not typically an infection.",
+    "referenceId": "rosen_c56_t1",
+    "source": "Rosen",
+    "topic": "Alveolar Osteitis (Dry Socket)"
+  },
+  {
+    "id": "TRP_0071",
+    "text": "Underestimating the risk in a patient who has not been hospitalized recently but has a history of prior intubation.",
+    "referenceId": "rosen_c59_t1",
+    "source": "Rosen",
+    "topic": "Risk Factors for Asthma-Related Death"
+  },
+  {
+    "id": "TRP_0072",
+    "text": "Delaying the cath lab for a ROSC-STEMI patient because they are comatose; revascularization is still the priority.",
+    "referenceId": "rosen_c64_t1",
+    "source": "Rosen",
+    "topic": "Angiography After Cardiac Arrest (ROSC)"
+  },
+  {
+    "id": "TRP_0073",
+    "text": "Using vasodilators like Nitroprusside alone, which can cause reflex tachycardia and increase shear stress on the dissection flap.",
+    "referenceId": "rosen_c71_t1",
+    "source": "Rosen",
+    "topic": "Medical Management of Aortic Dissection"
+  },
+  {
+    "id": "TRP_0074",
+    "text": "Starting with Barium in an unstable or high-suspicion patient; if it leaks into the mediastinum, it causes an intense inflammatory response.",
+    "referenceId": "rosen_c75_t1",
+    "source": "Rosen",
+    "topic": "Esophageal Perforation Imaging"
+  },
+  {
+    "id": "TRP_0075",
+    "text": "Dismissing SBO in a patient without prior surgery; remember to check for incarcerated hernias, which are the second most common cause.",
+    "referenceId": "rosen_c77_t1",
+    "source": "Rosen",
+    "topic": "Small Bowel Obstruction (SBO)"
+  },
+  {
+    "id": "TRP_0076",
+    "text": "Waiting for an elevated lactate or peritoneal signs to order a CTA; by that time, the bowel may already be necrotic.",
+    "referenceId": "rosen_c78_t1",
+    "source": "Rosen",
+    "topic": "Diagnosis of Mesenteric Ischemia"
+  },
+  {
+    "id": "TRP_0077",
+    "text": "Ruling out torsion because a sonographer reports 'normal Doppler flow' in a patient with classic symptoms.",
+    "referenceId": "rosen_c86_t1",
+    "source": "Rosen",
+    "topic": "Ovarian Torsion"
+  },
+  {
+    "id": "TRP_0078",
+    "text": "Do not mistake MS for a simple migraine even if the patient has a history of them; the focal deficits and eye pain are red flags.",
+    "referenceId": "rosen_c91_t1",
+    "source": "Rosen",
+    "topic": "Multiple Sclerosis and Optic Neuritis"
+  },
+  {
+    "id": "TRP_0079",
+    "text": "Assuming all symmetrical neuropathies are Guillain-Barré; check for the 'stocking-glove' distribution of chronic metabolic causes.",
+    "referenceId": "rosen_c93_t1",
+    "source": "Rosen",
+    "topic": "Peripheral Neuropathy Patterns"
+  },
+  {
+    "id": "TRP_0080",
+    "text": "Do not expect fasciculations; these are seen in motor neuron disease (ALS), not inflammatory myopathies like dermatomyositis.",
+    "referenceId": "rosen_c94_t1",
+    "source": "Rosen",
+    "topic": "Dermatomyositis"
+  },
+  {
+    "id": "TRP_0081",
+    "text": "Ruling out infection because you saw crystals under the microscope; joint fluid MUST be sent for culture if suspicion is high.",
+    "referenceId": "rosen_c102_t1",
+    "source": "Rosen",
+    "topic": "Septic Arthritis vs. Gout"
+  },
+  {
+    "id": "TRP_0082",
+    "text": "Wasting time with 'Anaphylaxis' meds (Epinephrine, Solu-Medrol) while the airway closes; proceed directly to intubation if stridor is present.",
+    "referenceId": "rosen_c105_t1",
+    "source": "Rosen",
+    "topic": "ACE-Inhibitor Induced Angioedema"
+  },
+  {
+    "id": "TRP_0083",
+    "text": "Using Type O blood as the universal donor for FFP; Type O is for RBCs, AB is for Plasma.",
+    "referenceId": "rosen_c107_t1",
+    "source": "Rosen",
+    "topic": "Massive Transfusion Protocol (MTP) Ratios"
+  },
+  {
+    "id": "TRP_0084",
+    "text": "Giving Vitamin K alone; it takes 6-12 hours to work and will not help a patient actively bleeding into their brain.",
+    "referenceId": "rosen_c108_t1",
+    "source": "Rosen",
+    "topic": "Warfarin Reversal in Life-Threatening Bleed"
+  },
+  {
+    "id": "TRP_0085",
+    "text": "Waiting for an ANC result before starting antibiotics in a septic cancer patient; treat empirically if neutropenia is suspected.",
+    "referenceId": "rosen_c112_t1",
+    "source": "Rosen",
+    "topic": "Febrile Neutropenia Management"
+  },
+  {
+    "id": "TRP_0086",
+    "text": "Over-correcting pH with bicarbonate in DKA; this increases the risk of cerebral edema, especially in children.",
+    "referenceId": "rosen_c113_t1",
+    "source": "Rosen",
+    "topic": "Priority in Metabolic Acidosis"
+  },
+  {
+    "id": "TRP_0087",
+    "text": "Administering Iodine BEFORE blocking thyroid hormone synthesis with PTU/Methimazole; this can worsen the storm.",
+    "referenceId": "rosen_c117_t1",
+    "source": "Rosen",
+    "topic": "Thyrotoxicosis and Thyroid Storm"
+  },
+  {
+    "id": "TRP_0088",
+    "text": "Dismissing it as a simple viral sore throat; look for the grayish coat that bleeds when scraped.",
+    "referenceId": "rosen_c118_t1",
+    "source": "Rosen",
+    "topic": "Diphtheria Presentation"
+  },
+  {
+    "id": "TRP_0089",
+    "text": "Using meat tenderizer (papain) which can digest the esophageal wall along with the food bolus.",
+    "referenceId": "rosen_c121_t1",
+    "source": "Rosen",
+    "topic": "Esophageal Food Bolus Impaction"
+  },
+  {
+    "id": "TRP_0090",
+    "text": "Discharging a child early after a scorpion sting; neurotoxicity can have a delayed onset.",
+    "referenceId": "rosen_c122_t1",
+    "source": "Rosen",
+    "topic": "Scorpion and Snake Bite Observation"
+  },
+  {
+    "id": "TRP_0091",
+    "text": "Stopping resuscitation because the patient 'looks dead' and is cold; they must be 'warm and dead' unless specific TOR criteria are met.",
+    "referenceId": "rosen_c128_t1",
+    "source": "Rosen",
+    "topic": "Termination of Resuscitation in Hypothermia"
+  },
+  {
+    "id": "TRP_0092",
+    "text": "Assuming ketosis always implies DKA or alcoholic ketoacidosis; check the anion gap and pH.",
+    "referenceId": "rosen_c136_t1",
+    "source": "Rosen",
+    "topic": "Isopropyl Alcohol Metabolism"
+  },
+  {
+    "id": "TRP_0093",
+    "text": "Attempting to use the nomogram for a patient who took APAP over 3 days for a toothache.",
+    "referenceId": "rosen_c138_t1",
+    "source": "Rosen",
+    "topic": "King's College Criteria for Liver Transplant"
+  },
+  {
+    "id": "TRP_0094",
+    "text": "Acute overdose causes HYPERkalemia, while chronic toxicity is often associated with HYPOkalemia.",
+    "referenceId": "rosen_c142_t1",
+    "source": "Rosen",
+    "topic": "Chronic Digoxin Toxicity"
+  },
+  {
+    "id": "TRP_0095",
+    "text": "Mistaking respiratory distress (lung issue) for respiratory compensation (shock issue).",
+    "referenceId": "rosen_c155_t1",
+    "source": "Rosen",
+    "topic": "Compensated Shock in Children"
+  },
+  {
+    "id": "TRP_0096",
+    "text": "Using the 'Age + 16' formula for depth; the 3x rule is simpler and standard for board exams.",
+    "referenceId": "rosen_c156_t1",
+    "source": "Rosen",
+    "topic": "Endotracheal Tube Depth Formula"
+  },
+  {
+    "id": "TRP_0097",
+    "text": "Using the traditional 1500–2000 threshold to rule out IUP, which risks giving Methotrexate to a viable early pregnancy.",
+    "referenceId": "rosen_c173_t1",
+    "source": "Rosen",
+    "topic": "$\beta$-hCG Discriminatory Zone"
+  },
+  {
+    "id": "TRP_0098",
+    "text": "Transferring to the OR for the procedure; it MUST be performed in the ED to be effective.",
+    "referenceId": "rosen_c177_t1",
+    "source": "Rosen",
+    "topic": "Resuscitative Hysterotomy"
+  },
+  {
+    "id": "TRP_0099",
+    "text": "Delaying the cardiac cath lab for a STEMI patient because they triggered a radiation meter.",
+    "referenceId": "rosen_ce15_t1",
+    "source": "Rosen",
+    "topic": "Radiation Triage Priority"
+  },
+  {
+    "id": "TRP_0100",
+    "text": "Do not confuse with vitreous hemorrhage; hemorrhage appears as scattered white echoes/swirling smoke rather than a distinct tethered line.",
+    "referenceId": "rosen_c17_t1",
+    "source": "Rosen",
+    "topic": "Retinal Detachment POCUS"
+  },
+  {
+    "id": "TRP_0101",
+    "text": "Sending a hypotensive patient with a positive FAST to IR instead of the OR; a positive FAST implies intraperitoneal hemorrhage requiring surgery.",
+    "referenceId": "rosen_c38_t2",
+    "source": "Rosen",
+    "topic": "Management Algorithm for Unstable Pelvic Fractures"
+  },
+  {
+    "id": "TRP_0102",
+    "text": "Dismissing microhematuria after stent placement as the cause of severe anemia; microhematuria is common, but significant Hgb drops require imaging for hematoma.",
+    "referenceId": "rosen_c95_t1",
+    "source": "Rosen",
+    "topic": "Complications of Ureteral Stenting"
+  },
+  {
+    "id": "TRP_0103",
+    "text": "Rochester criteria excludes lumbar puncture, meaning the number of missed meningitis cases may be unknown compared to Philadelphia.",
+    "referenceId": "rosen_c155_t2",
+    "source": "Rosen",
+    "topic": "Fever in Well-Appearing Infants Criteria"
+  },
+  {
+    "id": "TRP_0104",
+    "text": "Applying standard D-dimer cutoffs (500) to all pregnant patients without using clinical items, which leads to over-imaging.",
+    "referenceId": "rosen_c177_t2",
+    "source": "Rosen",
+    "topic": "Pregnancy-Adapted YEARS Algorithm"
+  },
+  {
+    "id": "TRP_0105",
+    "text": "Do NOT wait for a chest X-ray to diagnose tension pneumothorax in an unstable patient.",
+    "referenceId": "rosen_c37_t1_patch",
+    "source": "Rosen",
+    "topic": "Tension Pneumothorax after Intubation"
+  },
+  {
+    "id": "TRP_0106",
+    "text": "Blindly inserting a Foley catheter when blood at the meatus is present can worsen the injury.",
+    "referenceId": "rosen_c46_t1_patch",
+    "source": "Rosen",
+    "topic": "Urethral Injury Evaluation"
+  },
+  {
+    "id": "TRP_0107",
+    "text": "Performing Tonometry (checking IOP) is STRICTLY contraindicated if an open globe is suspected.",
+    "referenceId": "rosen_c51_t1_patch",
+    "source": "Rosen",
+    "topic": "Seidel Test and Open Globe"
+  },
+  {
+    "id": "TRP_0108",
+    "text": "Underestimating the risk in a patient who has not been hospitalized recently but has a history of prior intubation.",
+    "referenceId": "rosen_c59_t1_patch",
+    "source": "Rosen",
+    "topic": "Risk Factors for Asthma-Related Death"
+  },
+  {
+    "id": "TRP_0109",
+    "text": "Delaying the cath lab for a ROSC-STEMI patient because they are comatose; revascularization is still the priority.",
+    "referenceId": "rosen_c64_t1_patch",
+    "source": "Rosen",
+    "topic": "Angiography After Cardiac Arrest (ROSC)"
+  },
+  {
+    "id": "TRP_0110",
+    "text": "Mistaking retroperitoneal hemorrhage for a lumbar disc herniation; the presence of tachycardia and supratherapeutic INR are clues to hemorrhage.",
+    "referenceId": "hippo_b1_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Psoas Hematoma in Anticoagulated Patients"
+  },
+  {
+    "id": "TRP_0111",
+    "text": "Assuming a normal heart rate rules out massive internal bleeding in a pregnant patient.",
+    "referenceId": "hippo_b1_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "Relative Bradycardia in Heterotopic Pregnancy"
+  },
+  {
+    "id": "TRP_0112",
+    "text": "Continuing home blood pressure or esophageal variceal prophylaxis meds (Beta-blockers) when a cirrhotic patient develops an infection.",
+    "referenceId": "hippo_b1_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "Beta-Blocker Risk in SBP"
+  },
+  {
+    "id": "TRP_0113",
+    "text": "Attempting immediate ORIF (surgery) through skin with active fracture blisters, which increases infection risk.",
+    "referenceId": "hippo_b1_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "Fracture Blisters Management"
+  },
+  {
+    "id": "TRP_0114",
+    "text": "Using endoscopy for packet removal; the endoscope can rupture the drug packets, leading to fatal overdose.",
+    "referenceId": "hippo_b1_t5",
+    "source": "HIPPO (Board Review)",
+    "topic": "Body Stuffer vs. Body Packer"
+  },
+  {
+    "id": "TRP_0115",
+    "text": "Ruling out malaria because the patient hasn't traveled internationally; check for high-risk occupations like baggage handling.",
+    "referenceId": "hippo_b1_t6",
+    "source": "HIPPO (Board Review)",
+    "topic": "Indigenous/Airport Malaria"
+  },
+  {
+    "id": "TRP_0116",
+    "text": "Mistaking PRES for an acute ischemic stroke; the distribution of findings on imaging (parieto-occipital) is key.",
+    "referenceId": "hippo_b2_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Posterior Reversible Encephalopathy Syndrome (PRES)"
+  },
+  {
+    "id": "TRP_0117",
+    "text": "Assuming one of these three agents is significantly superior; the choice can be based on patient comorbidities or availability.",
+    "referenceId": "hippo_b2_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "ESETT Trial: Second-Line Status Epilepticus"
+  },
+  {
+    "id": "TRP_0118",
+    "text": "Wasting time with multiple doses of phenytoin or other second-line agents; pyridoxine is the specific and only fully effective antidote.",
+    "referenceId": "hippo_b2_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "Isoniazid Toxicity and Pyridoxine"
+  },
+  {
+    "id": "TRP_0119",
+    "text": "Focusing only on the eye and missing the contralateral limb weakness, which differentiates a peripheral nerve issue from a central brainstem stroke.",
+    "referenceId": "hippo_b2_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "Brainstem Stroke and CN III Palsy"
+  },
+  {
+    "id": "TRP_0120",
+    "text": "Mistaking GOO for simple gastroenteritis if the 'time since last meal' history is not obtained.",
+    "referenceId": "hippo_b2_t5",
+    "source": "HIPPO (Board Review)",
+    "topic": "Pathognomonic Finding for Gastric Outlet Obstruction"
+  },
+  {
+    "id": "TRP_0121",
+    "text": "Decreasing a patient's chronic pain medication to treat constipation, which may lead to withdrawal; use a PAMORA instead.",
+    "referenceId": "hippo_b2_t6",
+    "source": "HIPPO (Board Review)",
+    "topic": "Opioid-Induced Constipation and PAMORAs"
+  },
+  {
+    "id": "TRP_0122",
+    "text": "Mistaking the complication of rapid correction: rapid correction of HYPERnatremia causes cerebral edema, while rapid correction of HYPOnatremia causes osmotic demyelination syndrome.",
+    "referenceId": "hippo_b3_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Chronic Hypernatremia Correction Rate"
+  },
+  {
+    "id": "TRP_0123",
+    "text": "Avoiding succinylcholine in a patient who was burned only 2 hours ago; the hyperkalemia risk hasn't developed yet.",
+    "referenceId": "hippo_b3_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "Succinylcholine Use in Acute Burns"
+  },
+  {
+    "id": "TRP_0124",
+    "text": "Administering Nicardipine or Nitroprusside before Esmolol/Labetalol in a patient with a known aortic dissection.",
+    "referenceId": "hippo_b3_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "Aortic Dissection Management Sequence"
+  },
+  {
+    "id": "TRP_0125",
+    "text": "Using a DOAC for long-term management of APS-related thrombosis; Warfarin remains the preferred agent for this specific high-risk group.",
+    "referenceId": "hippo_b3_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "Antiphospholipid Syndrome (APS) and Acute PE"
+  },
+  {
+    "id": "TRP_0126",
+    "text": "Relying on the presence of a cremasteric reflex to rule out torsion in a high-suspicion clinical scenario.",
+    "referenceId": "hippo_b3_t5",
+    "source": "HIPPO (Board Review)",
+    "topic": "Factors Influencing Testicular Salvage"
+  },
+  {
+    "id": "TRP_0127",
+    "text": "Denying fibrinolysis to an elderly patient (e.g., age 80) just because of their age; age is not a contraindication.",
+    "referenceId": "hippo_b3_t6",
+    "source": "HIPPO (Board Review)",
+    "topic": "Absolute Contraindications to Fibrinolysis in AMI"
+  },
+  {
+    "id": "TRP_0128",
+    "text": "Wasting time transferring the patient to an operating room; for resuscitation to be effective, it MUST be performed immediately in the ED.",
+    "referenceId": "hippo_b4_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Resuscitative Hysterotomy (Perimortem C-Section)"
+  },
+  {
+    "id": "TRP_0129",
+    "text": "Ordering a workup for pacemaker infection (fever/tenderness) when the primary issue is a dysrhythmia; magnets are for rate control, not infection.",
+    "referenceId": "hippo_b4_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "Pacemaker-Mediated Tachycardia and Magnet Use"
+  },
+  {
+    "id": "TRP_0130",
+    "text": "Waiting for serum digoxin levels to arrive before treating a patient in unstable VT; treat based on clinical presentation and estimated ingestion.",
+    "referenceId": "hippo_b4_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "Digoxin-Specific Antibody Fragments Calculation"
+  },
+  {
+    "id": "TRP_0131",
+    "text": "Stopping the cooling process or administering chronotropes just because the heart rate drops to 40-50 bpm in a stable patient.",
+    "referenceId": "hippo_b4_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "TTM and Physiologic Side Effects"
+  },
+  {
+    "id": "TRP_0132",
+    "text": "Confusing a diaphragmatic hernia with a simple hemothorax on POCUS; look for peristalsis or the distinct wall of the stomach.",
+    "referenceId": "hippo_b4_t5",
+    "source": "HIPPO (Board Review)",
+    "topic": "Traumatic Diaphragmatic Hernia"
+  },
+  {
+    "id": "TRP_0133",
+    "text": "Ordering a CT scan first in a patient with 20/200 vision and IOP of 50; the 90-minute 'time is retina' window will close.",
+    "referenceId": "hippo_b4_t6",
+    "source": "HIPPO (Board Review)",
+    "topic": "Retrobulbar Hemorrhage and Lateral Canthotomy"
+  },
+  {
+    "id": "TRP_0134",
+    "text": "Misdiagnosing the Brugada pattern as an acute STEMI and activating the cath lab unnecessarily; look for the specific 'coved' morphology in V1-V2.",
+    "referenceId": "hippo_b5_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Brugada Syndrome Identification"
+  },
+  {
+    "id": "TRP_0135",
+    "text": "Relying solely on SIRS criteria (Heart rate, temperature, WBC) to define sepsis in modern practice; SIRS is sensitive but not specific for organ dysfunction.",
+    "referenceId": "hippo_b5_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "Sepsis-3 and qSOFA score"
+  },
+  {
+    "id": "TRP_0136",
+    "text": "Wasting time administering multiple doses of Epinephrine while the airway is closing; if the patient is on an ACEi (e.g., Lisinopril), assume bradykinin-mediated and prioritize intubation.",
+    "referenceId": "hippo_b5_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "ACE-Inhibitor Induced Angioedema Mechanism"
+  },
+  {
+    "id": "TRP_0137",
+    "text": "Assuming a patient has pneumonia or heart failure because they are blue and low-sating; if the 'blue' doesn't improve with 100% O2, think methemoglobinemia.",
+    "referenceId": "hippo_b5_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "Benzocaine and Chocolate Brown Blood"
+  },
+  {
+    "id": "TRP_0138",
+    "text": "Attributing a new metabolic acidosis in a patient on a nitroprusside drip to their underlying condition rather than iatrogenic cyanide poisoning.",
+    "referenceId": "hippo_b5_t5",
+    "source": "HIPPO (Board Review)",
+    "topic": "Cyanide Poisoning from Nitroprusside"
+  },
+  {
+    "id": "TRP_0139",
+    "text": "Rushing a pyloric stenosis patient to surgery before correcting their metabolic alkalosis; surgical repair is not an emergency, but electrolyte correction is.",
+    "referenceId": "hippo_b5_t6",
+    "source": "HIPPO (Board Review)",
+    "topic": "Pyloric Stenosis Metabolic Derangement"
+  },
+  {
+    "id": "TRP_0140",
+    "text": "Waiting for the BUN/Creatinine to hit a specific number before calling nephrology if the patient has life-threatening pulmonary edema or hyperkalemia.",
+    "referenceId": "hippo_b6_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Urgent Indications for Hemodialysis"
+  },
+  {
+    "id": "TRP_0141",
+    "text": "Ruling out SAH based on a negative xanthochromia result if the headache started only 2 hours ago.",
+    "referenceId": "hippo_b6_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "Xanthochromia Timing in SAH"
+  },
+  {
+    "id": "TRP_0142",
+    "text": "Attempting to treat rigid chest syndrome with multiple doses of naloxone; while it may help, muscle paralysis is often the only way to establish ventilation.",
+    "referenceId": "hippo_b6_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "Rigid Chest Syndrome from Fentanyl"
+  },
+  {
+    "id": "TRP_0143",
+    "text": "Ordering a chest X-ray or calling the specialist before establishing a backup line for a beeping Flolan pump.",
+    "referenceId": "hippo_b6_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "Epoprostenol (Flolan) Management"
+  },
+  {
+    "id": "TRP_0144",
+    "text": "Assuming a standard 15L NRB provides nearly 100% FiO2; room air leakage around the mask significantly dilutes the oxygen.",
+    "referenceId": "frcem_b1_t1",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "High-Flow Nasal Oxygen vs Standard NRB"
+  },
+  {
+    "id": "TRP_0145",
+    "text": "Using standard adult wall pressure (50 psi) on an infant, which will cause immediate tension pneumothorax or barotrauma.",
+    "referenceId": "frcem_b1_t2",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Pediatric Jet Ventilation Pressures"
+  },
+  {
+    "id": "TRP_0146",
+    "text": "Rochester criteria excludes LP, potentially missing meningitis compared to Philadelphia.",
+    "referenceId": "frcem_b1_t3",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Philadelphia Criteria for Febrile Infants"
+  },
+  {
+    "id": "TRP_0147",
+    "text": "Delaying the cath lab for a post-arrest STEMI because the patient is not yet 'neurologically intact'.",
+    "referenceId": "frcem_b2_t1",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "STEMI in Post-Arrest (ROSC) Comatose Patients"
+  },
+  {
+    "id": "TRP_0148",
+    "text": "Giving a fluid bolus for hypotension in this setting; the patient is in cardiogenic shock with fluid overload, and extra fluid will worsen pulmonary edema.",
+    "referenceId": "frcem_b2_t2",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Post-MI Papillary Muscle Rupture"
+  },
+  {
+    "id": "TRP_0149",
+    "text": "Attributing lactic acidosis in a patient on nitroprusside to 'sepsis' or 'shock' without considering iatrogenic cyanide poisoning.",
+    "referenceId": "frcem_b2_t3",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Cyanide Toxicity from Nitroprusside"
+  },
+  {
+    "id": "TRP_0150",
+    "text": "Administering TXA to a trauma patient who was injured 4 hours ago; this is harmful according to the CRASH-2 data.",
+    "referenceId": "frcem_b3_t1",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "TXA Timing and Dosing in Trauma"
+  },
+  {
+    "id": "TRP_0151",
+    "text": "Using only Cefazolin for a tractor-related crush injury; you must add Penicillin to prevent gas gangrene.",
+    "referenceId": "frcem_b3_t2",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Open Fracture Antibiotics (Farm/Soil)"
+  },
+  {
+    "id": "TRP_0152",
+    "text": "Discharging a patient with a gunshot wound and an ABI of 0.92; they must be observed for 12–24 hours for evolving injury.",
+    "referenceId": "frcem_b3_t3",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Ankle-Brachial Index (ABI) Triage"
+  },
+  {
+    "id": "TRP_0153",
+    "text": "Ordering a full 'sepsis workup' or head CT for a low-risk BRUE patient; these are NOT indicated and add no benefit.",
+    "referenceId": "frcem_b4_t1",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "BRUE (Brief Resolved Unexplained Event)"
+  },
+  {
+    "id": "TRP_0154",
+    "text": "Discharging a 4-day-old with purulent eye discharge with just 'ointment'; they need admission for IV meds due to risk of blindness from Gonorrhea.",
+    "referenceId": "frcem_b4_t2",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Newborn Conjunctivitis Timing"
+  },
+  {
+    "id": "TRP_0155",
+    "text": "Waiting for peeling to occur before treating; peeling is a late sign (day 10+), treatment should begin earlier if other signs are present.",
+    "referenceId": "frcem_b4_t3",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Kawasaki Disease (Incomplete/Classic)"
+  },
+  {
+    "id": "TRP_0156",
+    "text": "Allowing a patient to leave 30 minutes after they woke up with Naloxone; the drug will wear off, and they will stop breathing again.",
+    "referenceId": "frcem_b5_t1",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Naloxone vs. Long-Acting Opioids"
+  },
+  {
+    "id": "TRP_0157",
+    "text": "Stopping Atropine because the pupils are dilated (mydriasis) or the heart rate is fast; these are UNRELIABLE signs of adequate treatment. Bronchial drying is the only safe endpoint.",
+    "referenceId": "frcem_b5_t2",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Atropine Endpoint in Organophosphates"
+  },
+  {
+    "id": "TRP_0158",
+    "text": "Treating HACE with just oxygen; 'Ataxia' means the brain is swelling, and immediate descent is mandatory.",
+    "referenceId": "frcem_b5_t3",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "HACE vs AMS and HAPE"
+  },
+  {
+    "id": "TRP_0159",
+    "text": "Assuming a negative Nikolsky sign rules out all blistering diseases; it specifically helps differentiate Bullous Pemphigoid (Negative) from Pemphigus Vulgaris (Positive).",
+    "referenceId": "hippo_b7_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Nikolsky Sign in Bullous Disorders"
+  },
+  {
+    "id": "TRP_0160",
+    "text": "Misdiagnosing DRESS as a simple viral exanthem; the presence of internal organ involvement (liver) and specific drug history is critical.",
+    "referenceId": "hippo_b7_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "DRESS Syndrome Identification"
+  },
+  {
+    "id": "TRP_0161",
+    "text": "Underestimating suicide risk in an older patient who appears calm after a recent discharge; the first month post-hospitalization is the highest risk period.",
+    "referenceId": "hippo_b7_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "Suicide Risk Demographics (SAD PERSONS)"
+  },
+  {
+    "id": "TRP_0162",
+    "text": "Assuming a patient with a normal BMI cannot have an eating disorder; bulimics often maintain a normal weight unlike those with anorexia.",
+    "referenceId": "hippo_b7_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "Bulimia Nervosa Electrolyte Derangements"
+  },
+  {
+    "id": "TRP_0163",
+    "text": "Failing to document injuries because a patient presented >72 hours after assault; while the 'kit' might not be indicated, a thorough medical exam and documentation of trauma are always required.",
+    "referenceId": "hippo_b8_t1",
+    "source": "HIPPO (Board Review)",
+    "topic": "Forensic Evidence Collection Timing"
+  },
+  {
+    "id": "TRP_0164",
+    "text": "Treating a 'stomach bug' or respiratory infection in a transplant patient with azithromycin without adjusting or monitoring their tacrolimus levels.",
+    "referenceId": "hippo_b8_t2",
+    "source": "HIPPO (Board Review)",
+    "topic": "Tacrolimus and Macrolide Interaction"
+  },
+  {
+    "id": "TRP_0165",
+    "text": "Ruling out ectopic pregnancy based on an empty sac in the uterus; without a yolk sac, it's not a confirmed IUP and could be a decoy sac.",
+    "referenceId": "hippo_b8_t3",
+    "source": "HIPPO (Board Review)",
+    "topic": "Empty Gestational Sac Interpretation"
+  },
+  {
+    "id": "TRP_0166",
+    "text": "Mistaking A-lines (normal/dry) for B-lines (wet/edema). A-lines are horizontal; B-lines are vertical and 'ray-like'.",
+    "referenceId": "hippo_b8_t4",
+    "source": "HIPPO (Board Review)",
+    "topic": "A-lines in Lung Ultrasound"
+  },
+  {
+    "id": "TRP_0167",
+    "text": "Attempting to clear the c-spine in a patient with a 'distracting injury' (e.g., a femur fracture) even if their neck doesn't hurt; pain from the major injury can mask neck pain.",
+    "referenceId": "frcem_b6_t1",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Cervical Spine Clearance (NEXUS)"
+  },
+  {
+    "id": "TRP_0168",
+    "text": "Ordering only knee x-rays for a limping child with knee pain; if the knee x-ray is negative, you MUST image the hip to rule out SCFE.",
+    "referenceId": "frcem_b6_t2",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Slipped Capital Femoral Epiphysis (SCFE)"
+  },
+  {
+    "id": "TRP_0169",
+    "text": "Ordering a foot x-ray to find a 'heel spur' as the cause of pain; heel spurs are often incidental and do not correlate with the severity of plantar fasciitis.",
+    "referenceId": "frcem_b6_t3",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Plantar Fasciitis Management"
+  },
+  {
+    "id": "TRP_0170",
+    "text": "Discharging an elderly patient with BPH immediately after Foley placement; they may develop massive diuresis and subsequent circulatory collapse at home.",
+    "referenceId": "frcem_b7_t1",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Post-obstructive Diuresis Admission Criteria"
+  },
+  {
+    "id": "TRP_0171",
+    "text": "Starting a workup for 'standard' infectious diseases (like malaria) in a potential Ebola patient before establishing strict isolation protocols.",
+    "referenceId": "frcem_b7_t2",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Ebola Virus Disease (EVD) Triage"
+  },
+  {
+    "id": "TRP_0172",
+    "text": "Advising a mother to stop breastfeeding from the infected breast; continued emptying is critical to resolve the milk stasis and the infection.",
+    "referenceId": "frcem_b7_t3",
+    "source": "Rosen / Tintinalli (FRCEM Alignment)",
+    "topic": "Puerperal Mastitis Management"
+  },
+  {
+    "id": "TRP_0173",
+    "text": "Day-to-day triage differs from MCI triage.",
+    "referenceId": "tint_c1_t2",
+    "source": "Tintinalli",
+    "topic": "Mass Casualty Triage and Utstein Template"
+  },
+  {
+    "id": "TRP_0174",
+    "text": "Do not mistake Brugada for simple STEMI.",
+    "referenceId": "tint_c2_t1",
+    "source": "Tintinalli",
+    "topic": "Brugada Syndrome"
+  },
+  {
+    "id": "TRP_0175",
+    "text": "Avoid dopamine as first-line when norepinephrine is available.",
+    "referenceId": "tint_c2_t2",
+    "source": "Tintinalli",
+    "topic": "Septic Shock Resuscitation"
+  },
+  {
+    "id": "TRP_0176",
+    "text": "Sudden sustained rise in ETCO2 may indicate ROSC.",
+    "referenceId": "tint_c2_t3",
+    "source": "Tintinalli",
+    "topic": "End-Tidal Capnography (ETCO2)"
+  },
+  {
+    "id": "TRP_0177",
+    "text": "Over-resuscitation with crystalloid worsens coagulopathy.",
+    "referenceId": "tint_c2_t4",
+    "source": "Tintinalli",
+    "topic": "Trauma-Induced Coagulopathy and MTP"
+  },
+  {
+    "id": "TRP_0178",
+    "text": "Avoid vasopressin and high-dose epinephrine in LAST arrest.",
+    "referenceId": "tint_c3_t1",
+    "source": "Tintinalli",
+    "topic": "Local Anesthetic Systemic Toxicity (LAST)"
+  },
+  {
+    "id": "TRP_0179",
+    "text": "Match dosing to analgesia vs dissociation goal.",
+    "referenceId": "tint_c3_t2",
+    "source": "Tintinalli",
+    "topic": "Ketamine in Procedural Sedation"
+  },
+  {
+    "id": "TRP_0180",
+    "text": "Avoid staples where cosmetic precision matters, such as face.",
+    "referenceId": "tint_c4_t1",
+    "source": "Tintinalli",
+    "topic": "Methods of Wound Closure: Staples"
+  },
+  {
+    "id": "TRP_0181",
+    "text": "Visible orbital fat or medial canthus injury requires specialist repair.",
+    "referenceId": "tint_c4_t2",
+    "source": "Tintinalli",
+    "topic": "Eyelid Lacerations"
+  },
+  {
+    "id": "TRP_0182",
+    "text": "Avoid beta-blockers in cocaine chest pain board-style convention.",
+    "referenceId": "tint_c5_t2",
+    "source": "Tintinalli",
+    "topic": "Cocaine-Induced Myocardial Ischemia"
+  },
+  {
+    "id": "TRP_0183",
+    "text": "Pericardiocentesis is for unstable tamponade, not stable effusion.",
+    "referenceId": "tint_c5_t3",
+    "source": "Tintinalli",
+    "topic": "Cardiac Tamponade"
+  },
+  {
+    "id": "TRP_0184",
+    "text": "Observation applies to selected primary PTX, not secondary PTX.",
+    "referenceId": "tint_c6_t2",
+    "source": "Tintinalli",
+    "topic": "Spontaneous Pneumothorax"
+  },
+  {
+    "id": "TRP_0185",
+    "text": "Do not delay PPI while awaiting endoscopy in ulcer-related UGIB.",
+    "referenceId": "tint_c7_t1",
+    "source": "Tintinalli",
+    "topic": "Upper GI Bleed Management"
+  },
+  {
+    "id": "TRP_0186",
+    "text": "Do not use meat tenderizer for food impactions.",
+    "referenceId": "tint_c7_t2",
+    "source": "Tintinalli",
+    "topic": "Gastrointestinal Foreign Bodies"
+  },
+  {
+    "id": "TRP_0187",
+    "text": "Do not delay surgery for CT if clinical suspicion is high.",
+    "referenceId": "tint_c8_t1",
+    "source": "Tintinalli",
+    "topic": "Fournier's Gangrene"
+  },
+  {
+    "id": "TRP_0188",
+    "text": "Check glucose; hypotension may mask hypoglycemia in diabetic dialysis patient.",
+    "referenceId": "tint_c8_t2",
+    "source": "Tintinalli",
+    "topic": "Dialysis Complications"
+  },
+  {
+    "id": "TRP_0189",
+    "text": "IUP does not rule out ectopic in assisted reproduction.",
+    "referenceId": "tint_c9_t1",
+    "source": "Tintinalli",
+    "topic": "Ectopic Pregnancy and Infertility"
+  },
+  {
+    "id": "TRP_0190",
+    "text": "Avoid routine digital pelvic exam in suspected PROM.",
+    "referenceId": "tint_c9_t2",
+    "source": "Tintinalli",
+    "topic": "Premature Rupture of Membranes (PROM)"
+  },
+  {
+    "id": "TRP_0191",
+    "text": "Do not wait for currant jelly stools; late sign.",
+    "referenceId": "tint_c10_t3",
+    "source": "Tintinalli",
+    "topic": "Intussusception"
+  },
+  {
+    "id": "TRP_0192",
+    "text": "E-chapter source contamination suspected.",
+    "referenceId": "tint_ce7_t1",
+    "source": "Tintinalli?",
+    "topic": "EMTALA and Interfacility Transfer Liability"
+  },
+  {
+    "id": "TRP_0193",
+    "text": "Clinician must reassess triage momentum.",
+    "referenceId": "tint_ce8_t1",
+    "source": "Tintinalli?",
+    "topic": "Triage Bias and Errors"
+  },
+  {
+    "id": "TRP_0194",
+    "text": "Treat life threats before decontamination.",
+    "referenceId": "tint_ce15_t1",
+    "source": "Tintinalli?",
+    "topic": "Irradiation vs Contamination Triage"
+  },
+  {
+    "id": "TRP_0195",
+    "text": "Assuming lung-protective strategies are only for patients with established ARDS.",
+    "topicId": "UNI_001",
+    "topic": "Lung-Protective Ventilation"
+  },
+  {
+    "id": "TRP_0196",
+    "text": "Relying solely on SIRS criteria (fever/HR) to define sepsis in modern practice.",
+    "topicId": "UNI_002",
+    "topic": "Sepsis-3 and qSOFA"
+  },
+  {
+    "id": "TRP_0197",
+    "text": "Giving crystalloid fluid challenges to a hypotensive patient with pulmonary edema (wet lungs).",
+    "topicId": "UNI_003",
+    "topic": "Cardiogenic Shock Management"
+  },
+  {
+    "id": "TRP_0198",
+    "text": "Withdrawing care early; neuro-prognostication is only reliable 72 hours post-arrest.",
+    "topicId": "UNI_004",
+    "topic": "Targeted Temperature Management (TTM)"
+  },
+  {
+    "id": "TRP_0199",
+    "text": "Treating post-TTM bradycardia if the blood pressure is stable.",
+    "topicId": "UNI_004",
+    "topic": "Targeted Temperature Management (TTM)"
+  },
+  {
+    "id": "TRP_0200",
+    "text": "Assuming a respiratory cause for low O2 sat when blood appears 'chocolate brown'.",
+    "topicId": "UNI_005",
+    "topic": "Methemoglobinemia"
+  },
+  {
+    "id": "TRP_0201",
+    "text": "Using standard anti-epileptics as first-line instead of Magnesium.",
+    "topicId": "UNI_006",
+    "topic": "Eclampsia"
+  },
+  {
+    "id": "TRP_0202",
+    "text": "Ruling out eclampsia because the patient is postpartum (up to 8 weeks).",
+    "topicId": "UNI_006",
+    "topic": "Eclampsia"
+  },
+  {
+    "id": "TRP_0203",
+    "text": "Waiting for an X-ray to confirm the diagnosis in a hypotensive patient.",
+    "topicId": "UNI_007",
+    "topic": "Tension Pneumothorax"
+  },
+  {
+    "id": "TRP_0204",
+    "text": "Mistaking GOO for simple gastroenteritis by failing to ask 'when was your last meal?'.",
+    "topicId": "UNI_008",
+    "topic": "Gastric Outlet Obstruction (GOO)"
+  },
+  {
+    "id": "TRP_0205",
+    "text": "Using vasodilators like Nitroprusside alone; causes reflex tachycardia which worsens the flap tear.",
+    "topicId": "UNI_009",
+    "topic": "Aortic Dissection"
+  },
+  {
+    "id": "TRP_0206",
+    "text": "Wasting time with 'Anaphylaxis' protocols while the airway is closing.",
+    "topicId": "UNI_010",
+    "topic": "ACE-Inhibitor Induced Angioedema"
+  },
+  {
+    "id": "TRP_0207",
+    "text": "Attempting to use the nomogram for chronic ingestion over multiple days.",
+    "topicId": "UNI_011",
+    "topic": "Acetaminophen (APAP) Toxicity"
+  },
+  {
+    "id": "TRP_0208",
+    "text": "Using Rochester to rule out meningitis; it misses cases compared to Philadelphia because it lacks CSF analysis.",
+    "topicId": "UNI_012",
+    "topic": "Febrile Infant Criteria"
+  },
+  {
+    "id": "TRP_0209",
+    "text": "Ruling out torsion based on a 'normal Doppler flow' report; dual blood supply can maintain flow early on.",
+    "topicId": "UNI_013",
+    "topic": "Testicular Torsion"
+  },
+  {
+    "id": "TRP_0210",
+    "text": "Waiting for serum levels to treat unstable VT/VF or severe hyperkalemia.",
+    "topicId": "UNI_014",
+    "topic": "Digoxin Toxicity"
+  },
+  {
+    "id": "TRP_0211",
+    "text": "Confusing the complications: Fast Na+ drop = Brain Swelling; Fast Na+ rise = Brain Shriveling/ODS.",
+    "topicId": "UNI_015",
+    "topic": "Hypernatremia Correction"
+  },
+  {
+    "id": "TRP_0212",
+    "text": "Activating the cath lab for 'STEMI' when the morphology is Brugada coved-type in V1-V2.",
+    "topicId": "UNI_016",
+    "topic": "Brugada Syndrome"
+  },
+  {
+    "id": "TRP_0213",
+    "text": "Attributing lactic acidosis to 'shock' while a nitroprusside drip is running.",
+    "topicId": "UNI_017",
+    "topic": "Cyanide Toxicity (Nitroprusside)"
+  },
+  {
+    "id": "TRP_0214",
+    "text": "Missing the diagnosis by only imaging the knee in a limping child.",
+    "topicId": "UNI_018",
+    "topic": "Slipped Capital Femoral Epiphysis (SCFE)"
+  },
+  {
+    "id": "TRP_0215",
+    "text": "Discharging a patient 30-60 minutes after Naloxone administration.",
+    "topicId": "UNI_019",
+    "topic": "Naloxone vs. Long-Acting Opioids"
+  },
+  {
+    "id": "TRP_0216",
+    "text": "Waiting for high Creatinine levels when pulmonary edema is refractory to diuretics.",
+    "topicId": "UNI_020",
+    "topic": "Dialysis Indications (AEIOU)"
+  },
+  {
+    "id": "TRP_0217",
+    "text": "Mistaking retroperitoneal bleeding for a lumbar disc herniation; tachycardia and high INR are key diagnostic clues.",
+    "topicId": "UNI_021",
+    "topic": "Psoas Hematoma in Anticoagulated Patients"
+  },
+  {
+    "id": "TRP_0218",
+    "text": "Ruling out massive hemorrhage because the patient is not tachycardic.",
+    "topicId": "UNI_022",
+    "topic": "Heterotopic Pregnancy and Relative Bradycardia"
+  },
+  {
+    "id": "TRP_0219",
+    "text": "Ruling out ectopic pregnancy simply because an intrauterine pregnancy is seen on POCUS in an ART patient.",
+    "topicId": "UNI_022",
+    "topic": "Heterotopic Pregnancy and Relative Bradycardia"
+  },
+  {
+    "id": "TRP_0220",
+    "text": "Continuing home variceal prophylaxis (beta-blockers) during an acute infection in cirrhosis.",
+    "topicId": "UNI_023",
+    "topic": "Spontaneous Bacterial Peritonitis (SBP) and Beta-Blockers"
+  },
+  {
+    "id": "TRP_0221",
+    "text": "Attempting immediate surgery through active blisters, which leads to high infection rates.",
+    "topicId": "UNI_024",
+    "topic": "Fracture Blisters"
+  },
+  {
+    "id": "TRP_0222",
+    "text": "Ruling out malaria because the patient hasn't traveled internationally; check for high-risk occupations.",
+    "topicId": "UNI_025",
+    "topic": "Malaria Species and Airport Presentation"
+  },
+  {
+    "id": "TRP_0223",
+    "text": "Mistaking PRES for a standard ischemic stroke; the bilateral posterior distribution on imaging is key.",
+    "topicId": "UNI_026",
+    "topic": "Posterior Reversible Encephalopathy Syndrome (PRES)"
+  },
+  {
+    "id": "TRP_0224",
+    "text": "Assuming one secondary agent is superior; choose based on availability and contraindications.",
+    "topicId": "UNI_027",
+    "topic": "Refractory Status Epilepticus (ESETT)"
+  },
+  {
+    "id": "TRP_0225",
+    "text": "Wasting time with multiple AEDs; Pyridoxine is the only fully effective antidote.",
+    "topicId": "UNI_028",
+    "topic": "Isoniazid (INH) Toxicity"
+  },
+  {
+    "id": "TRP_0226",
+    "text": "Mistaking a central brainstem event for a peripheral CN III palsy; always check contralateral motor function.",
+    "topicId": "UNI_029",
+    "topic": "Brainstem Stroke and Crossed Deficits"
+  },
+  {
+    "id": "TRP_0227",
+    "text": "Lowering the dose of chronic pain meds to treat constipation; use a PAMORA to avoid withdrawal.",
+    "topicId": "UNI_030",
+    "topic": "Opioid-Induced Constipation and PAMORAs"
+  },
+  {
+    "id": "TRP_0228",
+    "text": "Avoiding succinylcholine in the immediate acute phase (<4 days) for fear of hyperkalemia.",
+    "topicId": "UNI_031",
+    "topic": "Succinylcholine Use in Acute Burns"
+  },
+  {
+    "id": "TRP_0229",
+    "text": "Using a DOAC for long-term maintenance in a 'triple-positive' APS patient; efficacy is lower than Warfarin.",
+    "topicId": "UNI_032",
+    "topic": "Antiphospholipid Syndrome (APS) and PE"
+  },
+  {
+    "id": "TRP_0230",
+    "text": "Transferring to the OR for the procedure; it MUST be performed in the ED to preserve maternal survival.",
+    "topicId": "UNI_033",
+    "topic": "Resuscitative Hysterotomy (Perimortem C-Section)"
+  },
+  {
+    "id": "TRP_0231",
+    "text": "Searching for systemic causes of tachycardia before attempting the magnet in a stable PMT patient.",
+    "topicId": "UNI_034",
+    "topic": "Pacemaker-Mediated Tachycardia (PMT)"
+  },
+  {
+    "id": "TRP_0232",
+    "text": "Waiting for CT scan confirmation before performing canthotomy in a patient with rapidly declining vision.",
+    "topicId": "UNI_035",
+    "topic": "Retrobulbar Hemorrhage / Lateral Canthotomy"
+  },
+  {
+    "id": "TRP_0233",
+    "text": "Assuming a standard 15L NRB delivers 100% FiO2.",
+    "topicId": "UNI_036",
+    "topic": "High-Flow Nasal Oxygen (HFNO) vs NRB"
+  },
+  {
+    "id": "TRP_0234",
+    "text": "Using standard adult wall pressure (50 psi) on an infant.",
+    "topicId": "UNI_037",
+    "topic": "Pediatric Jet Ventilation"
+  },
+  {
+    "id": "TRP_0235",
+    "text": "Administering fluid boluses for hypotension; this worsens the acute heart failure.",
+    "topicId": "UNI_038",
+    "topic": "Post-MI Papillary Muscle Rupture"
+  },
+  {
+    "id": "TRP_0236",
+    "text": "Giving TXA to a patient injured more than 3 hours ago.",
+    "topicId": "UNI_039",
+    "topic": "TXA Timing in Trauma"
+  },
+  {
+    "id": "TRP_0237",
+    "text": "Using only a cephalosporin for a crush injury in a barn or field.",
+    "topicId": "UNI_040",
+    "topic": "Open Fracture Antibiotics (Soil/Farm)"
+  },
+  {
+    "id": "TRP_0238",
+    "text": "Liability does NOT transfer to the receiving physician immediately upon acceptance of the patient transfer call.",
+    "topicId": "DERIVED_041",
+    "topic": "EMTALA and Interfacility Transfer"
+  },
+  {
+    "id": "TRP_0239",
+    "text": "Don't assume a normal-appearing eardrum rules out serious internal lung or bowel blast injury.",
+    "topicId": "DERIVED_042",
+    "topic": "Blast Injury Pathophysiology"
+  },
+  {
+    "id": "TRP_0240",
+    "text": "Patient 'History' is NOT a component of the TIMI score, whereas it IS a component of the HEART score.",
+    "topicId": "DERIVED_043",
+    "topic": "TIMI Risk Score"
+  },
+  {
+    "id": "TRP_0241",
+    "text": "Do not confuse with simple Strep pneumonia; the presence of an abscess or bulging fissure in an alcoholic patient strongly points to Klebsiella.",
+    "topicId": "DERIVED_044",
+    "topic": "Klebsiella Pneumonia"
+  },
+  {
+    "id": "TRP_0242",
+    "text": "Uncuffed tubes are traditional, but modern guidelines (AHA/AAP) support cuffed tubes to prevent leak and improve ventilation accuracy.",
+    "topicId": "DERIVED_045",
+    "topic": "Pediatric Airway Sizing"
+  },
+  {
+    "id": "TRP_0243",
+    "text": "Frontal hematomas in children <2 years are NOT high-risk; it is the non-frontal (parietal/occipital) ones that mandate concern.",
+    "topicId": "DERIVED_046",
+    "topic": "Pediatric Head Trauma Rules (PECARN)"
+  },
+  {
+    "id": "TRP_0244",
+    "text": "Don't confuse DGI skin lesions with simple cellulitis; look for the acral distribution and the patient's sexual history.",
+    "topicId": "DERIVED_047",
+    "topic": "Disseminated Gonococcal Infection (DGI)"
+  },
+  {
+    "id": "TRP_0245",
+    "text": "Staph TSS rash is typically PAINLESS; if the rash/area is severely painful, think Strep TSS/Necrotizing Fasciitis.",
+    "topicId": "DERIVED_048",
+    "topic": "Toxic Shock Syndrome (TSS)"
+  },
+  {
+    "id": "TRP_0246",
+    "text": "Never debride a suspected tetanus wound before giving TIG; manipulation can trigger a massive release of toxin.",
+    "topicId": "DERIVED_049",
+    "topic": "Tetanus Management"
+  },
+  {
+    "id": "TRP_0247",
+    "text": "If left untreated, the most serious sequela is permanent vision loss, not stroke or migraine.",
+    "topicId": "DERIVED_050",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)"
+  },
+  {
+    "id": "TRP_0248",
+    "text": "Do NOT wait for 30 minutes to define status; current standard is 5 minutes for starting aggressive treatment.",
+    "topicId": "DERIVED_051",
+    "topic": "Status Epilepticus"
+  },
+  {
+    "id": "TRP_0249",
+    "text": "NEVER neutralize a caustic with water or weak acid/base; the exothermic reaction causes severe thermal burns.",
+    "topicId": "DERIVED_052",
+    "topic": "Caustic Ingestions (Acid vs Alkali)"
+  },
+  {
+    "id": "TRP_0250",
+    "text": "Do NOT debride frostbite in the ED; you may remove tissue that could eventually survive.",
+    "topicId": "DERIVED_053",
+    "topic": "Frostbite Management"
+  },
+  {
+    "id": "TRP_0251",
+    "text": "Standard pulse oximetry cannot distinguish between oxyhemoglobin and carboxyhemoglobin; it will be falsely normal.",
+    "topicId": "DERIVED_054",
+    "topic": "Carbon Monoxide (CO) Poisoning"
+  },
+  {
+    "id": "TRP_0252",
+    "text": "Never start insulin if potassium is <3.3 mEq/L; replace potassium first.",
+    "topicId": "DERIVED_055",
+    "topic": "Diabetic Ketoacidosis (DKA) Management"
+  },
+  {
+    "id": "TRP_0253",
+    "text": "Do NOT wait for a cosyntropin stimulation test in a crashing patient; treat empirically with steroids if suspected.",
+    "topicId": "DERIVED_056",
+    "topic": "Adrenal Crisis"
+  },
+  {
+    "id": "TRP_0254",
+    "text": "Avoid NSAIDs and aspirin as they further impair platelet function in an already thrombocytopenic patient.",
+    "topicId": "DERIVED_057",
+    "topic": "Immune Thrombocytopenic Purpura (ITP)"
+  },
+  {
+    "id": "TRP_0255",
+    "text": "Do NOT confuse with vitreous hemorrhage; the retina is a more distinct, tethered membrane on US.",
+    "topicId": "DERIVED_058",
+    "topic": "Retinal Detachment"
+  },
+  {
+    "id": "TRP_0256",
+    "text": "The 'sentinel bleed' is often dismissed as minor suction trauma; always suspect a fistula in an ED patient with any trach bleed.",
+    "topicId": "DERIVED_059",
+    "topic": "Tracheoinnominate Artery Fistula"
+  },
+  {
+    "id": "TRP_0257",
+    "text": "Nikolsky sign (skin peeling with lateral pressure) is POSITIVE in SJS/TEN but negative in bullous pemphigoid.",
+    "topicId": "DERIVED_060",
+    "topic": "Erythema Multiforme (EM) and SJS/TEN"
+  },
+  {
+    "id": "TRP_0258",
+    "text": "A negative ultrasound does NOT rule out placental abruption; diagnosis is clinical and monitored via cardiotocography.",
+    "topicId": "DERIVED_061",
+    "topic": "Pregnancy in Trauma"
+  },
+  {
+    "id": "TRP_0259",
+    "text": "NEXUS rules for chest CANNOT be applied if the patient is over 60 years old.",
+    "topicId": "DERIVED_062",
+    "topic": "NEXUS Rules for Chest Imaging"
+  },
+  {
+    "id": "TRP_0260",
+    "text": "Do NOT apply rules to non-traumatic knee pain or chronic injuries.",
+    "topicId": "DERIVED_063",
+    "topic": "Ottawa Knee Rules"
+  },
+  {
+    "id": "TRP_0261",
+    "text": "A normal pulse does NOT rule out compartment syndrome; tissue pressure exceeds capillary perfusion pressure long before it exceeds arterial pressure.",
+    "topicId": "DERIVED_064",
+    "topic": "Compartment Syndrome"
+  },
+  {
+    "id": "TRP_0262",
+    "text": "Avoid ordering an emergent MRI in the ED for simple sciatica unless there are signs of Cauda Equina (saddle anesthesia, urinary retention).",
+    "topicId": "DERIVED_065",
+    "topic": "Sciatica and Herniated Nucleus Pulposus (HNP)"
+  },
+  {
+    "id": "TRP_0263",
+    "text": "Do not confuse with simple hip arthritis; look for systemic toxicity and pain when extending the hip (stretching the psoas).",
+    "topicId": "DERIVED_066",
+    "topic": "Psoas Abscess"
+  },
+  {
+    "id": "TRP_0264",
+    "text": "Do NOT rule out septic arthritis just because crystals are present or if the WBC count is only 20,000 in an HIV patient.",
+    "topicId": "DERIVED_067",
+    "topic": "Septic Arthritis in Immunocompromised Patients"
+  },
+  {
+    "id": "TRP_0265",
+    "text": "Do NOT assume that asking about suicide will plant the idea in a patient's head; direct questioning is essential and safe.",
+    "topicId": "DERIVED_068",
+    "topic": "Suicide Risk Assessment"
+  },
+  {
+    "id": "TRP_0266",
+    "text": "Do NOT mistake dystonia for a seizure or tetanus; look for recent medication changes or antiemetic use (e.g., Metoclopramide).",
+    "topicId": "DERIVED_069",
+    "topic": "Acute Dystonic Reactions"
+  },
+  {
+    "id": "TRP_0267",
+    "text": "Normal BMI does NOT rule out a serious eating disorder; bulimic patients are often normal weight or overweight.",
+    "topicId": "DERIVED_070",
+    "topic": "Eating Disorders (Bulimia Nervosa)"
+  },
+  {
+    "id": "TRP_0268",
+    "text": "IPV occurs across all socioeconomic and educational levels; do not exclude based on appearance or demographics.",
+    "topicId": "DERIVED_071",
+    "topic": "Intimate Partner Violence (IPV)"
+  },
+  {
+    "id": "TRP_0269",
+    "text": "Presence of pressure ulcers (bedsores) in an immobilized patient is not always evidence of abuse if standard care was followed, but requires investigation.",
+    "topicId": "DERIVED_072",
+    "topic": "Elder Abuse"
+  },
+  {
+    "id": "TRP_0270",
+    "text": "Do NOT delay negative pressure isolation while waiting for CT or sputum results in a high-risk patient with a cavitary lesion.",
+    "topicId": "DERIVED_073",
+    "topic": "Febrile IV Drug User (IVDU) and TB Isolation"
+  },
+  {
+    "id": "TRP_0271",
+    "text": "Religious beliefs of a patient with capacity must be respected, even if they refuse life-saving treatment (e.g., blood products).",
+    "topicId": "DERIVED_074",
+    "topic": "Consent and the Mature Minor Doctrine"
+  },
+  {
+    "id": "TRP_0272",
+    "text": "Do NOT start with airway (intubation) in a tactical scene while under fire; priority is securing the area and stopping massive hemorrhage.",
+    "topicId": "DERIVED_075",
+    "topic": "Tactical Combat Casualty Care (TCCC)"
+  },
+  {
+    "id": "TRP_0273",
+    "text": "Do NOT rely on effusion size alone; look at the RV in diastole. If it collapses, it's tamponade regardless of fluid volume.",
+    "topicId": "DERIVED_076",
+    "topic": "Cardiac Tamponade POCUS"
+  },
+  {
+    "id": "TRP_0274",
+    "text": "The 'Lung Point' is the most specific finding for PTX (where the lung meets the air), but it may not be visible in large PTX.",
+    "topicId": "DERIVED_077",
+    "topic": "Pneumothorax POCUS (M-Mode)"
+  },
+  {
+    "id": "TRP_0275",
+    "text": "Do NOT measure just the black patent lumen; you will underestimate the size if there is a mural thrombus.",
+    "topicId": "DERIVED_078",
+    "topic": "Abdominal Aortic Aneurysm (AAA) POCUS"
+  },
+  {
+    "id": "TRP_0276",
+    "text": "Do not confuse with Vitreous Hemorrhage; blood in the vitreous moves like 'swirling smoke' and is NOT tethered to the nerve.",
+    "topicId": "DERIVED_079",
+    "topic": "Retinal Detachment POCUS"
+  },
+  {
+    "id": "TRP_0277",
+    "text": "Do NOT rely on US to clear a patient with suspicious chest pain for home; CTA or TEE is required if dissection is suspected.",
+    "topicId": "DERIVED_080",
+    "topic": "POCUS for Aortic Dissection Limitations"
+  },
+  {
+    "id": "TRP_0278",
+    "text": "Humanitarian work (disaster relief) and development work (system building) are distinct but must be integrated for sustainable health systems.",
+    "topicId": "DERIVED_081",
+    "topic": "Scope and Principles of GEM"
+  },
+  {
+    "id": "TRP_0279",
+    "text": "Proper technique for central line placement is NOT part of the geriatric-specific GED recommendations.",
+    "topicId": "DERIVED_082",
+    "topic": "Geriatric Emergency Department (GED) Guidelines"
+  },
+  {
+    "id": "TRP_0280",
+    "text": "Speculating on the bullet's trajectory or caliber in the medical record can be used to discredit medical testimony in court.",
+    "topicId": "DERIVED_083",
+    "topic": "Gunshot Wound (GSW) Documentation"
+  },
+  {
+    "id": "TRP_0281",
+    "text": "Do NOT delay transport for stable STEMI patients to perform secondary imaging or wait for lab results.",
+    "topicId": "DERIVED_084",
+    "topic": "Interfacility Transport of STEMI"
+  },
+  {
+    "id": "TRP_0282",
+    "text": "SAVE is NOT for day-to-day triage; it is an extreme resource-allocation tool for prolonged disaster response.",
+    "topicId": "DERIVED_085",
+    "topic": "SAVE Triage Guidelines"
+  },
+  {
+    "id": "TRP_0283",
+    "text": "Assuming lung-protective strategies are only for ICU patients with existing ARDS; initiation in the ED is critical.",
+    "topicId": "DERIVED_086",
+    "topic": "Lung-Protective Ventilation in the ED"
+  },
+  {
+    "id": "TRP_0284",
+    "text": "Relying solely on SIRS criteria for defining sepsis according to the new Sepsis-3 standards.",
+    "topicId": "DERIVED_087",
+    "topic": "Sepsis-3 Definitions"
+  },
+  {
+    "id": "TRP_0285",
+    "text": "Avoid fluid challenges in hypotension if rales and pulmonary edema are present on examination.",
+    "topicId": "DERIVED_088",
+    "topic": "Cardiogenic Shock and Fluids"
+  },
+  {
+    "id": "TRP_0286",
+    "text": "Avoid Normal Saline for massive resuscitation due to the risk of renal injury from high chloride load.",
+    "topicId": "DERIVED_089",
+    "topic": "Balanced Crystalloids vs. Normal Saline"
+  },
+  {
+    "id": "TRP_0287",
+    "text": "Avoid pre-hospital infusion of cold saline for induction of cooling as it increases the risk of pulmonary edema and rearrest.",
+    "topicId": "DERIVED_090",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis"
+  },
+  {
+    "id": "TRP_0288",
+    "text": "Do not withdraw care early based on a poor neuro exam in the first 24-48 hours.",
+    "topicId": "DERIVED_090",
+    "topic": "Targeted Temperature Management (TTM) and Prognosis"
+  },
+  {
+    "id": "TRP_0289",
+    "text": "Assuming a patient isn't in pain because their heart rate and blood pressure are normal (non-verbal signs are unreliable).",
+    "topicId": "DERIVED_091",
+    "topic": "Pain Transmission and Assessment"
+  },
+  {
+    "id": "TRP_0290",
+    "text": "Giving ketamine to a patient with a known open globe injury could extrude intraocular contents due to increased pressure.",
+    "topicId": "DERIVED_092",
+    "topic": "Ketamine Complications and Contraindications"
+  },
+  {
+    "id": "TRP_0291",
+    "text": "Confusing botulism with Myasthenia Gravis; Myasthenia involves nicotinic receptors and lacks the autonomic findings (dry mouth/bladder issues) seen in botulism.",
+    "topicId": "DERIVED_093",
+    "topic": "Botulism Pathophysiology"
+  },
+  {
+    "id": "TRP_0292",
+    "text": "Pulse oximetry often reads ~85% due to the light absorption spectrum of methemoglobin, regardless of true PaO2.",
+    "topicId": "DERIVED_094",
+    "topic": "Methemoglobinemia Clinical Presentation"
+  },
+  {
+    "id": "TRP_0293",
+    "text": "Administering Phenytoin or Benzodiazepines as first-line for eclampsia instead of Magnesium.",
+    "topicId": "DERIVED_095",
+    "topic": "Eclamptic Seizures Management"
+  },
+  {
+    "id": "TRP_0294",
+    "text": "Waiting for an X-ray to confirm a tension pneumothorax in an unstable/hypotensive patient.",
+    "topicId": "DERIVED_096",
+    "topic": "Tension Pneumothorax and Ventilation"
+  },
+  {
+    "id": "TRP_0295",
+    "text": "Mistaking GOO for simple gastroenteritis if the 'time since last meal' history isn't obtained.",
+    "topicId": "DERIVED_097",
+    "topic": "Gastric Outlet Obstruction"
+  },
+  {
+    "id": "TRP_0296",
+    "text": "Dismissing impaction in an elderly patient complaining of watery diarrhea without a rectal exam.",
+    "topicId": "DERIVED_098",
+    "topic": "Fecal Impaction and Diarrhea"
+  },
+  {
+    "id": "TRP_0297",
+    "text": "Starting structural workup (US) or hormonal therapy before confirming pregnancy status with a test.",
+    "topicId": "DERIVED_099",
+    "topic": "Initial Evaluation of Vaginal Bleeding"
+  },
+  {
+    "id": "TRP_0298",
+    "text": "Assuming stable blood pressure in a child means they are not in shock; tachycardia is the more reliable early sign.",
+    "topicId": "DERIVED_100",
+    "topic": "Pediatric Trauma Anatomy and Physiology"
+  },
+  {
+    "id": "TRP_0299",
+    "text": "Obtaining an AMPLE history is part of the secondary survey, NOT the primary survey.",
+    "topicId": "DERIVED_101",
+    "topic": "Primary Survey Priorities"
+  },
+  {
+    "id": "TRP_0300",
+    "text": "Dismissing simple nasal trauma without internal inspection; the hematoma is often hidden behind the columella.",
+    "topicId": "DERIVED_102",
+    "topic": "Septal Hematoma"
+  },
+  {
+    "id": "TRP_0301",
+    "text": "Relying on the anatomical zone of injury to determine the need for surgery instead of clinical 'hard signs'.",
+    "topicId": "DERIVED_103",
+    "topic": "Penetrating Neck Trauma (No-Zone Approach)"
+  },
+  {
+    "id": "TRP_0302",
+    "text": "Waiting for an X-ray to confirm tension pneumothorax in a hypotensive patient; it is a clinical diagnosis.",
+    "topicId": "DERIVED_104",
+    "topic": "Tension Pneumothorax in Intubated Patients"
+  },
+  {
+    "id": "TRP_0303",
+    "text": "Sending an unstable patient with a positive FAST to IR instead of the OR for laparotomy.",
+    "topicId": "DERIVED_105",
+    "topic": "Unstable Pelvic Fracture and FAST"
+  },
+  {
+    "id": "TRP_0304",
+    "text": "Blindly inserting a Foley catheter when blood at the meatus is present, which can convert a partial tear to a full transection.",
+    "topicId": "DERIVED_106",
+    "topic": "Urethral Injury Evaluation"
+  },
+  {
+    "id": "TRP_0305",
+    "text": "Performing Tonometry (checking IOP) when an open globe is suspected; this can extrude eye contents.",
+    "topicId": "DERIVED_107",
+    "topic": "Seidel Test and Open Globe"
+  },
+  {
+    "id": "TRP_0306",
+    "text": "Treating dry socket with oral antibiotics; it is a localized inflammatory process, not typically an infection.",
+    "topicId": "DERIVED_108",
+    "topic": "Alveolar Osteitis (Dry Socket)"
+  },
+  {
+    "id": "TRP_0307",
+    "text": "Underestimating the risk in a patient who has not been hospitalized recently but has a history of prior intubation.",
+    "topicId": "DERIVED_109",
+    "topic": "Risk Factors for Asthma-Related Death"
+  },
+  {
+    "id": "TRP_0308",
+    "text": "Delaying the cath lab for a ROSC-STEMI patient because they are comatose; revascularization is still the priority.",
+    "topicId": "DERIVED_110",
+    "topic": "Angiography After Cardiac Arrest (ROSC)"
+  },
+  {
+    "id": "TRP_0309",
+    "text": "Using vasodilators like Nitroprusside alone, which can cause reflex tachycardia and increase shear stress on the dissection flap.",
+    "topicId": "DERIVED_111",
+    "topic": "Medical Management of Aortic Dissection"
+  },
+  {
+    "id": "TRP_0310",
+    "text": "Starting with Barium in an unstable or high-suspicion patient; if it leaks into the mediastinum, it causes an intense inflammatory response.",
+    "topicId": "DERIVED_112",
+    "topic": "Esophageal Perforation Imaging"
+  },
+  {
+    "id": "TRP_0311",
+    "text": "Dismissing SBO in a patient without prior surgery; remember to check for incarcerated hernias, which are the second most common cause.",
+    "topicId": "DERIVED_113",
+    "topic": "Small Bowel Obstruction (SBO)"
+  },
+  {
+    "id": "TRP_0312",
+    "text": "Waiting for an elevated lactate or peritoneal signs to order a CTA; by that time, the bowel may already be necrotic.",
+    "topicId": "DERIVED_114",
+    "topic": "Diagnosis of Mesenteric Ischemia"
+  },
+  {
+    "id": "TRP_0313",
+    "text": "Ruling out torsion because a sonographer reports 'normal Doppler flow' in a patient with classic symptoms.",
+    "topicId": "DERIVED_115",
+    "topic": "Ovarian Torsion"
+  },
+  {
+    "id": "TRP_0314",
+    "text": "Do not mistake MS for a simple migraine even if the patient has a history of them; the focal deficits and eye pain are red flags.",
+    "topicId": "DERIVED_116",
+    "topic": "Multiple Sclerosis and Optic Neuritis"
+  },
+  {
+    "id": "TRP_0315",
+    "text": "Assuming all symmetrical neuropathies are Guillain-Barré; check for the 'stocking-glove' distribution of chronic metabolic causes.",
+    "topicId": "DERIVED_117",
+    "topic": "Peripheral Neuropathy Patterns"
+  },
+  {
+    "id": "TRP_0316",
+    "text": "Do not expect fasciculations; these are seen in motor neuron disease (ALS), not inflammatory myopathies like dermatomyositis.",
+    "topicId": "DERIVED_118",
+    "topic": "Dermatomyositis"
+  },
+  {
+    "id": "TRP_0317",
+    "text": "Ruling out infection because you saw crystals under the microscope; joint fluid MUST be sent for culture if suspicion is high.",
+    "topicId": "DERIVED_119",
+    "topic": "Septic Arthritis vs. Gout"
+  },
+  {
+    "id": "TRP_0318",
+    "text": "Using Type O blood as the universal donor for FFP; Type O is for RBCs, AB is for Plasma.",
+    "topicId": "DERIVED_120",
+    "topic": "Massive Transfusion Protocol (MTP) Ratios"
+  },
+  {
+    "id": "TRP_0319",
+    "text": "Giving Vitamin K alone; it takes 6-12 hours to work and will not help a patient actively bleeding into their brain.",
+    "topicId": "DERIVED_121",
+    "topic": "Warfarin Reversal in Life-Threatening Bleed"
+  },
+  {
+    "id": "TRP_0320",
+    "text": "Waiting for an ANC result before starting antibiotics in a septic cancer patient; treat empirically if neutropenia is suspected.",
+    "topicId": "DERIVED_122",
+    "topic": "Febrile Neutropenia Management"
+  },
+  {
+    "id": "TRP_0321",
+    "text": "Over-correcting pH with bicarbonate in DKA; this increases the risk of cerebral edema, especially in children.",
+    "topicId": "DERIVED_123",
+    "topic": "Priority in Metabolic Acidosis"
+  },
+  {
+    "id": "TRP_0322",
+    "text": "Administering Iodine BEFORE blocking thyroid hormone synthesis with PTU/Methimazole; this can worsen the storm.",
+    "topicId": "DERIVED_124",
+    "topic": "Thyrotoxicosis and Thyroid Storm"
+  },
+  {
+    "id": "TRP_0323",
+    "text": "Dismissing it as a simple viral sore throat; look for the grayish coat that bleeds when scraped.",
+    "topicId": "DERIVED_125",
+    "topic": "Diphtheria Presentation"
+  },
+  {
+    "id": "TRP_0324",
+    "text": "Using meat tenderizer (papain) which can digest the esophageal wall along with the food bolus.",
+    "topicId": "DERIVED_126",
+    "topic": "Esophageal Food Bolus Impaction"
+  },
+  {
+    "id": "TRP_0325",
+    "text": "Discharging a child early after a scorpion sting; neurotoxicity can have a delayed onset.",
+    "topicId": "DERIVED_127",
+    "topic": "Scorpion and Snake Bite Observation"
+  },
+  {
+    "id": "TRP_0326",
+    "text": "Stopping resuscitation because the patient 'looks dead' and is cold; they must be 'warm and dead' unless specific TOR criteria are met.",
+    "topicId": "DERIVED_128",
+    "topic": "Termination of Resuscitation in Hypothermia"
+  },
+  {
+    "id": "TRP_0327",
+    "text": "Assuming ketosis always implies DKA or alcoholic ketoacidosis; check the anion gap and pH.",
+    "topicId": "DERIVED_129",
+    "topic": "Isopropyl Alcohol Metabolism"
+  },
+  {
+    "id": "TRP_0328",
+    "text": "Attempting to use the nomogram for a patient who took APAP over 3 days for a toothache.",
+    "topicId": "DERIVED_130",
+    "topic": "King's College Criteria for Liver Transplant"
+  },
+  {
+    "id": "TRP_0329",
+    "text": "Acute overdose causes HYPERkalemia, while chronic toxicity is often associated with HYPOkalemia.",
+    "topicId": "DERIVED_131",
+    "topic": "Chronic Digoxin Toxicity"
+  },
+  {
+    "id": "TRP_0330",
+    "text": "Mistaking respiratory distress (lung issue) for respiratory compensation (shock issue).",
+    "topicId": "DERIVED_132",
+    "topic": "Compensated Shock in Children"
+  },
+  {
+    "id": "TRP_0331",
+    "text": "Using the 'Age + 16' formula for depth; the 3x rule is simpler and standard for board exams.",
+    "topicId": "DERIVED_133",
+    "topic": "Endotracheal Tube Depth Formula"
+  },
+  {
+    "id": "TRP_0332",
+    "text": "Using the traditional 1500–2000 threshold to rule out IUP, which risks giving Methotrexate to a viable early pregnancy.",
+    "topicId": "DERIVED_134",
+    "topic": "$\beta$-hCG Discriminatory Zone"
+  },
+  {
+    "id": "TRP_0333",
+    "text": "Transferring to the OR for the procedure; it MUST be performed in the ED to be effective.",
+    "topicId": "DERIVED_135",
+    "topic": "Resuscitative Hysterotomy"
+  },
+  {
+    "id": "TRP_0334",
+    "text": "Delaying the cardiac cath lab for a STEMI patient because they triggered a radiation meter.",
+    "topicId": "DERIVED_136",
+    "topic": "Radiation Triage Priority"
+  },
+  {
+    "id": "TRP_0335",
+    "text": "Sending a hypotensive patient with a positive FAST to IR instead of the OR; a positive FAST implies intraperitoneal hemorrhage requiring surgery.",
+    "topicId": "DERIVED_137",
+    "topic": "Management Algorithm for Unstable Pelvic Fractures"
+  },
+  {
+    "id": "TRP_0336",
+    "text": "Dismissing microhematuria after stent placement as the cause of severe anemia; microhematuria is common, but significant Hgb drops require imaging for hematoma.",
+    "topicId": "DERIVED_138",
+    "topic": "Complications of Ureteral Stenting"
+  },
+  {
+    "id": "TRP_0337",
+    "text": "Rochester criteria excludes lumbar puncture, meaning the number of missed meningitis cases may be unknown compared to Philadelphia.",
+    "topicId": "DERIVED_139",
+    "topic": "Fever in Well-Appearing Infants Criteria"
+  },
+  {
+    "id": "TRP_0338",
+    "text": "Applying standard D-dimer cutoffs (500) to all pregnant patients without using clinical items, which leads to over-imaging.",
+    "topicId": "DERIVED_140",
+    "topic": "Pregnancy-Adapted YEARS Algorithm"
+  },
+  {
+    "id": "TRP_0339",
+    "text": "Do NOT wait for a chest X-ray to diagnose tension pneumothorax in an unstable patient.",
+    "topicId": "DERIVED_141",
+    "topic": "Tension Pneumothorax after Intubation"
+  },
+  {
+    "id": "TRP_0340",
+    "text": "Assuming a normal heart rate rules out massive internal bleeding in a pregnant patient.",
+    "topicId": "DERIVED_142",
+    "topic": "Relative Bradycardia in Heterotopic Pregnancy"
+  },
+  {
+    "id": "TRP_0341",
+    "text": "Continuing home blood pressure or esophageal variceal prophylaxis meds (Beta-blockers) when a cirrhotic patient develops an infection.",
+    "topicId": "DERIVED_143",
+    "topic": "Beta-Blocker Risk in SBP"
+  },
+  {
+    "id": "TRP_0342",
+    "text": "Attempting immediate ORIF (surgery) through skin with active fracture blisters, which increases infection risk.",
+    "topicId": "DERIVED_144",
+    "topic": "Fracture Blisters Management"
+  },
+  {
+    "id": "TRP_0343",
+    "text": "Using endoscopy for packet removal; the endoscope can rupture the drug packets, leading to fatal overdose.",
+    "topicId": "DERIVED_145",
+    "topic": "Body Stuffer vs. Body Packer"
+  },
+  {
+    "id": "TRP_0344",
+    "text": "Ruling out malaria because the patient hasn't traveled internationally; check for high-risk occupations like baggage handling.",
+    "topicId": "DERIVED_146",
+    "topic": "Indigenous/Airport Malaria"
+  },
+  {
+    "id": "TRP_0345",
+    "text": "Assuming one of these three agents is significantly superior; the choice can be based on patient comorbidities or availability.",
+    "topicId": "DERIVED_147",
+    "topic": "ESETT Trial: Second-Line Status Epilepticus"
+  },
+  {
+    "id": "TRP_0346",
+    "text": "Wasting time with multiple doses of phenytoin or other second-line agents; pyridoxine is the specific and only fully effective antidote.",
+    "topicId": "DERIVED_148",
+    "topic": "Isoniazid Toxicity and Pyridoxine"
+  },
+  {
+    "id": "TRP_0347",
+    "text": "Focusing only on the eye and missing the contralateral limb weakness, which differentiates a peripheral nerve issue from a central brainstem stroke.",
+    "topicId": "DERIVED_149",
+    "topic": "Brainstem Stroke and CN III Palsy"
+  },
+  {
+    "id": "TRP_0348",
+    "text": "Mistaking GOO for simple gastroenteritis if the 'time since last meal' history is not obtained.",
+    "topicId": "DERIVED_150",
+    "topic": "Pathognomonic Finding for Gastric Outlet Obstruction"
+  },
+  {
+    "id": "TRP_0349",
+    "text": "Mistaking the complication of rapid correction: rapid correction of HYPERnatremia causes cerebral edema, while rapid correction of HYPOnatremia causes osmotic demyelination syndrome.",
+    "topicId": "DERIVED_151",
+    "topic": "Chronic Hypernatremia Correction Rate"
+  },
+  {
+    "id": "TRP_0350",
+    "text": "Administering Nicardipine or Nitroprusside before Esmolol/Labetalol in a patient with a known aortic dissection.",
+    "topicId": "DERIVED_152",
+    "topic": "Aortic Dissection Management Sequence"
+  },
+  {
+    "id": "TRP_0351",
+    "text": "Using a DOAC for long-term management of APS-related thrombosis; Warfarin remains the preferred agent for this specific high-risk group.",
+    "topicId": "DERIVED_153",
+    "topic": "Antiphospholipid Syndrome (APS) and Acute PE"
+  },
+  {
+    "id": "TRP_0352",
+    "text": "Relying on the presence of a cremasteric reflex to rule out torsion in a high-suspicion clinical scenario.",
+    "topicId": "DERIVED_154",
+    "topic": "Factors Influencing Testicular Salvage"
+  },
+  {
+    "id": "TRP_0353",
+    "text": "Denying fibrinolysis to an elderly patient (e.g., age 80) just because of their age; age is not a contraindication.",
+    "topicId": "DERIVED_155",
+    "topic": "Absolute Contraindications to Fibrinolysis in AMI"
+  },
+  {
+    "id": "TRP_0354",
+    "text": "Ordering a workup for pacemaker infection (fever/tenderness) when the primary issue is a dysrhythmia; magnets are for rate control, not infection.",
+    "topicId": "DERIVED_156",
+    "topic": "Pacemaker-Mediated Tachycardia and Magnet Use"
+  },
+  {
+    "id": "TRP_0355",
+    "text": "Waiting for serum digoxin levels to arrive before treating a patient in unstable VT; treat based on clinical presentation and estimated ingestion.",
+    "topicId": "DERIVED_157",
+    "topic": "Digoxin-Specific Antibody Fragments Calculation"
+  },
+  {
+    "id": "TRP_0356",
+    "text": "Stopping the cooling process or administering chronotropes just because the heart rate drops to 40-50 bpm in a stable patient.",
+    "topicId": "DERIVED_158",
+    "topic": "TTM and Physiologic Side Effects"
+  },
+  {
+    "id": "TRP_0357",
+    "text": "Confusing a diaphragmatic hernia with a simple hemothorax on POCUS; look for peristalsis or the distinct wall of the stomach.",
+    "topicId": "DERIVED_159",
+    "topic": "Traumatic Diaphragmatic Hernia"
+  },
+  {
+    "id": "TRP_0358",
+    "text": "Ordering a CT scan first in a patient with 20/200 vision and IOP of 50; the 90-minute 'time is retina' window will close.",
+    "topicId": "DERIVED_160",
+    "topic": "Retrobulbar Hemorrhage and Lateral Canthotomy"
+  },
+  {
+    "id": "TRP_0359",
+    "text": "Misdiagnosing the Brugada pattern as an acute STEMI and activating the cath lab unnecessarily; look for the specific 'coved' morphology in V1-V2.",
+    "topicId": "DERIVED_161",
+    "topic": "Brugada Syndrome Identification"
+  },
+  {
+    "id": "TRP_0360",
+    "text": "Relying solely on SIRS criteria (Heart rate, temperature, WBC) to define sepsis in modern practice; SIRS is sensitive but not specific for organ dysfunction.",
+    "topicId": "DERIVED_162",
+    "topic": "Sepsis-3 and qSOFA score"
+  },
+  {
+    "id": "TRP_0361",
+    "text": "Wasting time administering multiple doses of Epinephrine while the airway is closing; if the patient is on an ACEi (e.g., Lisinopril), assume bradykinin-mediated and prioritize intubation.",
+    "topicId": "DERIVED_163",
+    "topic": "ACE-Inhibitor Induced Angioedema Mechanism"
+  },
+  {
+    "id": "TRP_0362",
+    "text": "Assuming a patient has pneumonia or heart failure because they are blue and low-sating; if the 'blue' doesn't improve with 100% O2, think methemoglobinemia.",
+    "topicId": "DERIVED_164",
+    "topic": "Benzocaine and Chocolate Brown Blood"
+  },
+  {
+    "id": "TRP_0363",
+    "text": "Attributing a new metabolic acidosis in a patient on a nitroprusside drip to their underlying condition rather than iatrogenic cyanide poisoning.",
+    "topicId": "DERIVED_165",
+    "topic": "Cyanide Poisoning from Nitroprusside"
+  },
+  {
+    "id": "TRP_0364",
+    "text": "Rushing a pyloric stenosis patient to surgery before correcting their metabolic alkalosis; surgical repair is not an emergency, but electrolyte correction is.",
+    "topicId": "DERIVED_166",
+    "topic": "Pyloric Stenosis Metabolic Derangement"
+  },
+  {
+    "id": "TRP_0365",
+    "text": "Waiting for the BUN/Creatinine to hit a specific number before calling nephrology if the patient has life-threatening pulmonary edema or hyperkalemia.",
+    "topicId": "DERIVED_167",
+    "topic": "Urgent Indications for Hemodialysis"
+  },
+  {
+    "id": "TRP_0366",
+    "text": "Ruling out SAH based on a negative xanthochromia result if the headache started only 2 hours ago.",
+    "topicId": "DERIVED_168",
+    "topic": "Xanthochromia Timing in SAH"
+  },
+  {
+    "id": "TRP_0367",
+    "text": "Attempting to treat rigid chest syndrome with multiple doses of naloxone; while it may help, muscle paralysis is often the only way to establish ventilation.",
+    "topicId": "DERIVED_169",
+    "topic": "Rigid Chest Syndrome from Fentanyl"
+  },
+  {
+    "id": "TRP_0368",
+    "text": "Ordering a chest X-ray or calling the specialist before establishing a backup line for a beeping Flolan pump.",
+    "topicId": "DERIVED_170",
+    "topic": "Epoprostenol (Flolan) Management"
+  },
+  {
+    "id": "TRP_0369",
+    "text": "Assuming a standard 15L NRB provides nearly 100% FiO2; room air leakage around the mask significantly dilutes the oxygen.",
+    "topicId": "DERIVED_171",
+    "topic": "High-Flow Nasal Oxygen vs Standard NRB"
+  },
+  {
+    "id": "TRP_0370",
+    "text": "Using standard adult wall pressure (50 psi) on an infant, which will cause immediate tension pneumothorax or barotrauma.",
+    "topicId": "DERIVED_172",
+    "topic": "Pediatric Jet Ventilation Pressures"
+  },
+  {
+    "id": "TRP_0371",
+    "text": "Rochester criteria excludes LP, potentially missing meningitis compared to Philadelphia.",
+    "topicId": "DERIVED_173",
+    "topic": "Philadelphia Criteria for Febrile Infants"
+  },
+  {
+    "id": "TRP_0372",
+    "text": "Delaying the cath lab for a post-arrest STEMI because the patient is not yet 'neurologically intact'.",
+    "topicId": "DERIVED_174",
+    "topic": "STEMI in Post-Arrest (ROSC) Comatose Patients"
+  },
+  {
+    "id": "TRP_0373",
+    "text": "Attributing lactic acidosis in a patient on nitroprusside to 'sepsis' or 'shock' without considering iatrogenic cyanide poisoning.",
+    "topicId": "DERIVED_175",
+    "topic": "Cyanide Toxicity from Nitroprusside"
+  },
+  {
+    "id": "TRP_0374",
+    "text": "Administering TXA to a trauma patient who was injured 4 hours ago; this is harmful according to the CRASH-2 data.",
+    "topicId": "DERIVED_176",
+    "topic": "TXA Timing and Dosing in Trauma"
+  },
+  {
+    "id": "TRP_0375",
+    "text": "Using only Cefazolin for a tractor-related crush injury; you must add Penicillin to prevent gas gangrene.",
+    "topicId": "DERIVED_177",
+    "topic": "Open Fracture Antibiotics (Farm/Soil)"
+  },
+  {
+    "id": "TRP_0376",
+    "text": "Discharging a patient with a gunshot wound and an ABI of 0.92; they must be observed for 12–24 hours for evolving injury.",
+    "topicId": "DERIVED_178",
+    "topic": "Ankle-Brachial Index (ABI) Triage"
+  },
+  {
+    "id": "TRP_0377",
+    "text": "Ordering a full 'sepsis workup' or head CT for a low-risk BRUE patient; these are NOT indicated and add no benefit.",
+    "topicId": "DERIVED_179",
+    "topic": "BRUE (Brief Resolved Unexplained Event)"
+  },
+  {
+    "id": "TRP_0378",
+    "text": "Discharging a 4-day-old with purulent eye discharge with just 'ointment'; they need admission for IV meds due to risk of blindness from Gonorrhea.",
+    "topicId": "DERIVED_180",
+    "topic": "Newborn Conjunctivitis Timing"
+  },
+  {
+    "id": "TRP_0379",
+    "text": "Waiting for peeling to occur before treating; peeling is a late sign (day 10+), treatment should begin earlier if other signs are present.",
+    "topicId": "DERIVED_181",
+    "topic": "Kawasaki Disease (Incomplete/Classic)"
+  },
+  {
+    "id": "TRP_0380",
+    "text": "Stopping Atropine because the pupils are dilated (mydriasis) or the heart rate is fast; these are UNRELIABLE signs of adequate treatment. Bronchial drying is the only safe endpoint.",
+    "topicId": "DERIVED_182",
+    "topic": "Atropine Endpoint in Organophosphates"
+  },
+  {
+    "id": "TRP_0381",
+    "text": "Treating HACE with just oxygen; 'Ataxia' means the brain is swelling, and immediate descent is mandatory.",
+    "topicId": "DERIVED_183",
+    "topic": "HACE vs AMS and HAPE"
+  },
+  {
+    "id": "TRP_0382",
+    "text": "Assuming a negative Nikolsky sign rules out all blistering diseases; it specifically helps differentiate Bullous Pemphigoid (Negative) from Pemphigus Vulgaris (Positive).",
+    "topicId": "DERIVED_184",
+    "topic": "Nikolsky Sign in Bullous Disorders"
+  },
+  {
+    "id": "TRP_0383",
+    "text": "Misdiagnosing DRESS as a simple viral exanthem; the presence of internal organ involvement (liver) and specific drug history is critical.",
+    "topicId": "DERIVED_185",
+    "topic": "DRESS Syndrome Identification"
+  },
+  {
+    "id": "TRP_0384",
+    "text": "Underestimating suicide risk in an older patient who appears calm after a recent discharge; the first month post-hospitalization is the highest risk period.",
+    "topicId": "DERIVED_186",
+    "topic": "Suicide Risk Demographics (SAD PERSONS)"
+  },
+  {
+    "id": "TRP_0385",
+    "text": "Assuming a patient with a normal BMI cannot have an eating disorder; bulimics often maintain a normal weight unlike those with anorexia.",
+    "topicId": "DERIVED_187",
+    "topic": "Bulimia Nervosa Electrolyte Derangements"
+  },
+  {
+    "id": "TRP_0386",
+    "text": "Failing to document injuries because a patient presented >72 hours after assault; while the 'kit' might not be indicated, a thorough medical exam and documentation of trauma are always required.",
+    "topicId": "DERIVED_188",
+    "topic": "Forensic Evidence Collection Timing"
+  },
+  {
+    "id": "TRP_0387",
+    "text": "Treating a 'stomach bug' or respiratory infection in a transplant patient with azithromycin without adjusting or monitoring their tacrolimus levels.",
+    "topicId": "DERIVED_189",
+    "topic": "Tacrolimus and Macrolide Interaction"
+  },
+  {
+    "id": "TRP_0388",
+    "text": "Ruling out ectopic pregnancy based on an empty sac in the uterus; without a yolk sac, it's not a confirmed IUP and could be a decoy sac.",
+    "topicId": "DERIVED_190",
+    "topic": "Empty Gestational Sac Interpretation"
+  },
+  {
+    "id": "TRP_0389",
+    "text": "Mistaking A-lines (normal/dry) for B-lines (wet/edema). A-lines are horizontal; B-lines are vertical and 'ray-like'.",
+    "topicId": "DERIVED_191",
+    "topic": "A-lines in Lung Ultrasound"
+  },
+  {
+    "id": "TRP_0390",
+    "text": "Attempting to clear the c-spine in a patient with a 'distracting injury' (e.g., a femur fracture) even if their neck doesn't hurt; pain from the major injury can mask neck pain.",
+    "topicId": "DERIVED_192",
+    "topic": "Cervical Spine Clearance (NEXUS)"
+  },
+  {
+    "id": "TRP_0391",
+    "text": "Ordering a foot x-ray to find a 'heel spur' as the cause of pain; heel spurs are often incidental and do not correlate with the severity of plantar fasciitis.",
+    "topicId": "DERIVED_193",
+    "topic": "Plantar Fasciitis Management"
+  },
+  {
+    "id": "TRP_0392",
+    "text": "Discharging an elderly patient with BPH immediately after Foley placement; they may develop massive diuresis and subsequent circulatory collapse at home.",
+    "topicId": "DERIVED_194",
+    "topic": "Post-obstructive Diuresis Admission Criteria"
+  },
+  {
+    "id": "TRP_0393",
+    "text": "Starting a workup for 'standard' infectious diseases (like malaria) in a potential Ebola patient before establishing strict isolation protocols.",
+    "topicId": "DERIVED_195",
+    "topic": "Ebola Virus Disease (EVD) Triage"
+  },
+  {
+    "id": "TRP_0394",
+    "text": "Advising a mother to stop breastfeeding from the infected breast; continued emptying is critical to resolve the milk stasis and the infection.",
+    "topicId": "DERIVED_196",
+    "topic": "Puerperal Mastitis Management"
+  },
+  {
+    "id": "TRP_0395",
+    "text": "Day-to-day triage differs from MCI triage.",
+    "topicId": "DERIVED_197",
+    "topic": "Mass Casualty Triage and Utstein Template"
+  },
+  {
+    "id": "TRP_0396",
+    "text": "Avoid dopamine as first-line when norepinephrine is available.",
+    "topicId": "DERIVED_198",
+    "topic": "Septic Shock Resuscitation"
+  },
+  {
+    "id": "TRP_0397",
+    "text": "Sudden sustained rise in ETCO2 may indicate ROSC.",
+    "topicId": "DERIVED_199",
+    "topic": "End-Tidal Capnography (ETCO2)"
+  },
+  {
+    "id": "TRP_0398",
+    "text": "Over-resuscitation with crystalloid worsens coagulopathy.",
+    "topicId": "DERIVED_200",
+    "topic": "Trauma-Induced Coagulopathy and MTP"
+  },
+  {
+    "id": "TRP_0399",
+    "text": "Avoid vasopressin and high-dose epinephrine in LAST arrest.",
+    "topicId": "DERIVED_201",
+    "topic": "Local Anesthetic Systemic Toxicity (LAST)"
+  },
+  {
+    "id": "TRP_0400",
+    "text": "Match dosing to analgesia vs dissociation goal.",
+    "topicId": "DERIVED_202",
+    "topic": "Ketamine in Procedural Sedation"
+  },
+  {
+    "id": "TRP_0401",
+    "text": "Avoid staples where cosmetic precision matters, such as face.",
+    "topicId": "DERIVED_203",
+    "topic": "Methods of Wound Closure: Staples"
+  },
+  {
+    "id": "TRP_0402",
+    "text": "Visible orbital fat or medial canthus injury requires specialist repair.",
+    "topicId": "DERIVED_204",
+    "topic": "Eyelid Lacerations"
+  },
+  {
+    "id": "TRP_0403",
+    "text": "Avoid beta-blockers in cocaine chest pain board-style convention.",
+    "topicId": "DERIVED_205",
+    "topic": "Cocaine-Induced Myocardial Ischemia"
+  },
+  {
+    "id": "TRP_0404",
+    "text": "Pericardiocentesis is for unstable tamponade, not stable effusion.",
+    "topicId": "DERIVED_206",
+    "topic": "Cardiac Tamponade"
+  },
+  {
+    "id": "TRP_0405",
+    "text": "Observation applies to selected primary PTX, not secondary PTX.",
+    "topicId": "DERIVED_207",
+    "topic": "Spontaneous Pneumothorax"
+  },
+  {
+    "id": "TRP_0406",
+    "text": "Do not delay PPI while awaiting endoscopy in ulcer-related UGIB.",
+    "topicId": "DERIVED_208",
+    "topic": "Upper GI Bleed Management"
+  },
+  {
+    "id": "TRP_0407",
+    "text": "Do not use meat tenderizer for food impactions.",
+    "topicId": "DERIVED_209",
+    "topic": "Gastrointestinal Foreign Bodies"
+  },
+  {
+    "id": "TRP_0408",
+    "text": "Do not delay surgery for CT if clinical suspicion is high.",
+    "topicId": "DERIVED_210",
+    "topic": "Fournier's Gangrene"
+  },
+  {
+    "id": "TRP_0409",
+    "text": "Check glucose; hypotension may mask hypoglycemia in diabetic dialysis patient.",
+    "topicId": "DERIVED_211",
+    "topic": "Dialysis Complications"
+  },
+  {
+    "id": "TRP_0410",
+    "text": "IUP does not rule out ectopic in assisted reproduction.",
+    "topicId": "DERIVED_212",
+    "topic": "Ectopic Pregnancy and Infertility"
+  },
+  {
+    "id": "TRP_0411",
+    "text": "Avoid routine digital pelvic exam in suspected PROM.",
+    "topicId": "DERIVED_213",
+    "topic": "Premature Rupture of Membranes (PROM)"
+  },
+  {
+    "id": "TRP_0412",
+    "text": "Do not wait for currant jelly stools; late sign.",
+    "topicId": "DERIVED_214",
+    "topic": "Intussusception"
+  },
+  {
+    "id": "TRP_0413",
+    "text": "E-chapter source contamination suspected.",
+    "topicId": "DERIVED_215",
+    "topic": "EMTALA and Interfacility Transfer Liability"
+  },
+  {
+    "id": "TRP_0414",
+    "text": "Clinician must reassess triage momentum.",
+    "topicId": "DERIVED_216",
+    "topic": "Triage Bias and Errors"
+  },
+  {
+    "id": "TRP_0415",
+    "text": "Treat life threats before decontamination.",
+    "topicId": "DERIVED_217",
+    "topic": "Irradiation vs Contamination Triage"
+  }
+]

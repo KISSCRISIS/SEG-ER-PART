@@ -1,0 +1,1064 @@
+### [PEER-PHYS | PEER-renal-q-1]
+Q: A 75-year-old man with a history of hypertension and benign prostatic hyperplasia presents with nausea and generalized malaise. He has had a decreased urinary stream over the past 1 to 2 weeks and mild lower abdominal pain. Vital signs: BP 140/90, P 85, R 16, T 37.2°C. K 4.7, BUN 70, Cr 5.2. What is the most appropriate initial management?
+A: Foley catheter insertion
+EXPLANATION: When patients present with acute renal failure, the initial action should be to determine the etiology. In this case, the cause is postrenal or obstructive renal failure likely resulting from BPH. Appropriate initial management consists of placing a Foley catheter.
+ARABIC: الفشل الكلوي الانسدادي (postrenal) بسبب تضخم البروستاتا (BPH): العلاج الأول هو إدخال قسطرة فولي (Foley catheter). لا تُعطى السوائل قبل إزالة الانسداد.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-001]
+Q: A 4-year-old boy is brought to the ED with shortness of breath. He had a recent sore throat that resolved, but has had dark urine and puffy eyes for the past few days. Lung auscultation reveals diffuse rales. Transthoracic echocardiogram shows a mild pericardial effusion. Vital signs are a T of 100.2°F (37.9°C), BP of 90/60 mm Hg, HR of 100 bpm, RR of 18/min, and SpO2 of 90% on room air.
+A: Hemodialysis
+EXPLANATION: This child presents with signs of fluid overload (dyspnea, rales, low oxygen saturation, pericardial effusion) following a recent sore throat and development of dark urine and facial edema, suggesting acute poststreptococcal glomerulonephritis (APSGN). The failure to respond to loop diuretics indicates that his kidney function is too impaired to manage the fluid overload, making hemodialysis the most appropriate treatment to rapidly remove excess fluid and correct uremia or electrolyte imbalances. APSGN is an immune-mediated kidney disorder that classically presents 1 to 3 weeks after a streptococcal infection.
+
+### [PEER-PHYS | PEER-renal-q-2]
+Q: Which finding warrants emergent renal replacement therapy in a patient with acute kidney injury?
+A: Hyperkalemia >6.5 mmol/L
+EXPLANATION: A potassium level greater than 6.5 mmol/L or any conduction abnormalities on ECG in the setting of elevated potassium is an indication for renal replacement therapy. AEIOU mnemonic: Acidemia, Electrolytes, Ingestion, Overload, Uremia.
+ARABIC: استطباب غسيل الكلى الطارئ في AKI: فرط بوتاسيوم الدم >6.5 mmol/L مع تغيرات ECG. تذكّر AEIOU: Acidemia, Electrolytes, Ingestion, Overload, Uremia.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-002]
+Q: Which one of the following overdoses is most commonly managed with dialysis?
+A: Ethylene glycol
+EXPLANATION: The indications for dialysis include severe fluid overload, refractory hypertension, severe hyperkalemia that cannot be managed medically, severe acidosis, uremia, and certain intoxications and overdoses. Toxicity from toxic alcohols, such as methanol or ethylene glycol, often requires dialysis. Any initial ingestion should first be managed by administration of fomepizole (or ethanol if this is not available) to inhibit alcohol dehydrogenase and stop the ultimate formation of formic acid (with methanol ingestion) or glycolic acid (with ethylene glycol ingestion). This temporizes the patient until they can receive dialysis to ultimately remove the toxic compounds.
+
+### [PEER-PHYS | PEER-renal-q-3]
+Q: Which diagnostic study is warranted in a patient with newly diagnosed asymptomatic acute kidney injury?
+A: Renal ultrasound
+EXPLANATION: Renal ultrasound is the preferred initial test for evaluating new-onset renal failure. It has 90% specificity and sensitivity for detecting hydronephrosis. Classic 'bear paw' sign in severe hydronephrosis.
+ARABIC: إيكو الكلى (renal ultrasound) هو الفحص الأول لاستبعاد انسداد المسالك (hydronephrosis) في AKI الجديد بدون أعراض. علامة 'bear paw' تشير إلى انسداد شديد.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-003]
+Q: A 30-year-old man presents to the ED with left groin swelling and discomfort. He reports a history of unprotected sexual contact with multiple male partners. About 1 week ago, he noticed a small, painless, purplish ulcer on his penis that resolved on its own within a few days. Over the past 3 days, he has developed increasing pain and swelling in his left groin.
+A: Lymphogranuloma venereum
+EXPLANATION: This patient presents with unilateral inguinal lymphadenopathy following resolution of a painless genital ulcer, a presentation characteristic of lymphogranuloma venereum (LGV). LGV is a sexually transmitted infection caused by the L1, L2, and L3 serovars of Chlamydia trachomatis. It is more commonly seen in tropical and subtropical regions, but outbreaks have also been reported in urban centers, particularly among men who have sexual intercourse with men (MSM). The primary stage begins with a small, painless papule or ulcer at the site of inoculation, often on the genitalia, rectum, or cervix.
+
+### [PEER-PHYS | PEER-renal-q-4]
+Q: A 65-year-old man presents with low blood pressure after a hemodialysis session. No chest pain, fever, melena, or hematemesis. BP 85/52, P 92. Appears well. What is the most likely cause?
+A: Excessive ultrafiltration
+EXPLANATION: Hypotension is a common complication of hemodialysis, occurring in about 50% of treatments. The most common cause is excessive ultrafiltration (too much fluid removed too quickly), often toward the end of the session.
+ARABIC: هبوط الضغط بعد الغسيل الكلوي يحدث في ~50% من الجلسات. السبب الأكثر شيوعًا هو الإفراط في السحب (excessive ultrafiltration)، خاصة قرب نهاية الجلسة.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-004]
+Q: A 36-year-old man presents to the ED with a painful erection for 14 hours. Workup in the emergency department reveals ischemic priapism. What is the first-line treatment for this patient?
+A: Cavernosal aspiration of blood and injection of phenylephrine
+EXPLANATION: After establishing a diagnosis of ischemic, or low-flow, priapism from supporting history, physical examination, and blood gas analysis, a time-sensitive treatment approach should be employed. First, analgesics should be administered as this condition is painful. Anesthesia through a dorsalpenilenerveblock or a circumferential penile ring block is recommended for patient comfort. A single corpus cavernosum should be accessed with a large-bore needle (19 g at least) attached to a syringe, either longitudinally through the glans penis or perpendicularly to the shaft. The first-line treatment is aspiration of blood until fresh red arterial blood is obtained and injection of phenylephrine.
+
+### [PEER-PHYS | PEER-renal-q-5]
+Q: A 36-year-old man on peritoneal dialysis presents with fever and abdominal pain. Effluent was 'cloudy'. What is the most common cause of this condition?
+A: Staphylococcus epidermidis
+EXPLANATION: The predominant bacterial etiology in peritonitis associated with peritoneal dialysis is Staphylococcus epidermidis. Empiric treatment targets both gram-positive and gram-negative organisms.
+ARABIC: التهاب البريتون في غسيل الكلى البريتوني: المسبب الأكثر شيوعًا هو Staphylococcus epidermidis. العلاج التجريبي يغطي الجراثيم موجبة وسالبة الغرام.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-005]
+Q: A 19-year-old man presents to the emergency department with acute dysuria 3 days after a weekend of heavy drinking. He had sexual intercourse with three different women during this weekend of partying. Examination reveals yellow discharge from the urethral meatus. Which of the following is the most likely diagnosis?
+A: Urethritis
+EXPLANATION: Men exposed to sexually transmitted infections commonly present emergently with urethritis. Some patients with bacterial infection of the urethra are asymptomatic. However, most patients present with urethral discharge, dysuria, painful intercourse, and painful ejaculation. Other common findings are hematuria, urethral pruritus, and hemospermia. Urethritis is characterized by urethral discharge, penile itching or tingling, dysuria, urgency, and hematuria. Exam is notable for urethral discharge, penile ulcers, and inguinal lymphadenopathy. Neisseria gonorrhoeae is the cause of gonococcal urethritis.
+
+### [PEER-PHYS | PEER-renal-q-6]
+Q: A 7-year-old girl presents with periorbital swelling and dark brown-appearing urine. Sore throat 2 weeks ago. BP 135/85. What is the most likely diagnosis?
+A: Glomerulonephritis
+EXPLANATION: Poststreptococcal glomerulonephritis (PSGN) is a complication of Group A Streptococcus infections, typically within 2 weeks of pharyngitis. Edema, dark urine, hypertension. Treatment is supportive.
+ARABIC: التهاب الكبيبات التالي للعدوى العقدية (PSGN): بعد 2 أسابيع من التهاب البلعوم. وذمة حول العين + بول داكن + ارتفاع ضغط. العلاج داعم.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-006]
+Q: Which of the following is the greatest risk factor for the development of contrast-associated acute kidney injury?
+A: Kidney insufficiency
+EXPLANATION: The greatest risk factor for the development of contrast-associated acute kidney injury (CA-AKI) is preexisting kidney insufficiency, with patients having a serum creatinine > 1.5 mg/dL at greatest risk. Exposure to radiocontrast agents is a common cause of hospital-acquired acute kidney injury. Kidney perfusion can be decreased for up to 20 hours following radiocontrast exposure. The ensuing injury can range from a mild nonoliguric rise in serum creatinine to severe kidney failure requiring hemodialysis, which is less commonly seen. A rise in serum creatinine > 25% of baseline occurs within 3 days of exposure and resolves within 10–14 days.
+
+### [PEER-PHYS | PEER-renal-q-7]
+Q: An 18-year-old woman presents with bilateral lower extremity swelling and periorbital puffiness. Albumin 2.1 g/dL, Cr 1.9, urinalysis 2+ protein. For which condition is this patient at risk?
+A: Thromboembolic event
+EXPLANATION: Nephrotic syndrome creates a hypercoagulable state with increased risk for thrombosis in renal veins, deep veins, and pulmonary vasculature. Another risk is severe infection.
+ARABIC: المتلازمة الكلائية (nephrotic syndrome) تسبب حالة فرط تخثر (hypercoagulable state) وخطر أحداث خثارية (thromboembolic events)، خاصة في الأوردة الكلوية والرئوية.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-007]
+Q: A 56-year-old man with a history of diabetes presents with penile and prepuce redness, swelling, and discharge as pictured above. The symptoms have been ongoing for several days. He reports worsening redness and pain and notes a mild odor that has not been present previously. What is the most appropriate treatment for this patient?
+A: Topical clotrimazole cream
+EXPLANATION: This patient is presenting with balanitis and balanoposthitis, an inflammation of the glans penis and prepuce. Balanitis has a wide range of causes but is most related to inadequate hygiene in uncircumcised men. When the foreskin is not routinely cleaned, the buildup of sweat, debris, exfoliated skin, and bacteria or fungus can occur, leading to inflammation. Candidal infection is the most common cause, especially in patients with diabetes. In this situation, empiric treatment with topical clotrimazole cream is warranted. Oral fluconazole (A) would be indicated for severe, refractory cases of balanitis caused by Candida species.
+
+### [PEER-PHYS | PEER-renal-q-8]
+Q: A 22-year-old woman at 9 weeks pregnant presents with lower abdominal pain and dysuria. UA positive for LE, nitrites, bacteria, 25 WBCs/hpf. What is the appropriate treatment?
+A: Cephalexin 500 mg PO four times daily for 10 days
+EXPLANATION: Appropriate antibiotic choices for pregnant patients with UTI include nitrofurantoin, cephalexin, or amoxicillin for 10-14 days. Ciprofloxacin is contraindicated in pregnancy.
+ARABIC: في الحمل مع UTI: cephalexin أو nitrofurantoin أو amoxicillin لمدة 10-14 يومًا. السيبروفلوكساسين (ciprofloxacin) ممنوع في الحمل.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-008]
+Q: A 3-year-old girl is brought to the ED with a painless abdominal mass and hematuria. On physical exam, a unilateral right-sided abdominal mass is palpated inferior to the liver. Which of the following is the most appropriate initial diagnostic modality for the most likely condition?
+A: Ultrasound of the kidney
+EXPLANATION: This child presents with signs and symptoms suggestive of a Wilms tumor (nephroblastoma), the most common kidney malignancy in children and the second most common abdominal malignancy of childhood after neuroblastoma. Wilms tumors affect children < 5 years old, with a median age at diagnosis around 3.5 years. The tumors arise from embryonic kidney tissue and are often associated with mutations in genes regulating kidney development, such as WT1 and WT2 on chromosome 11.
+
+### [PEER-PHYS | PEER-renal-q-9]
+Q: A 21-year-old woman with 3rd UTI episode in 6 weeks, vaginal discharge, no fever. Wet mount and KOH normal. What is the appropriate treatment?
+A: Single dose ceftriaxone and doxycycline for 7 days
+EXPLANATION: Coverage for gonorrhea and chlamydia should be considered for young women with recurrent UTI symptoms, specifically dysuria with vaginal discharge. Ceftriaxone 500 mg IM + doxycycline 100 mg BID x 7 days.
+ARABIC: في النزف البولي المتكرر مع إفراز مهبلي عند الشابات: غطِّ السيلان (gonorrhea) والكلاميديا. ceftriaxone IM + doxycycline فموي لمدة 7 أيام.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-009]
+Q: A 16-year-old boy presents to the emergency department with painful urination and urethral discharge. He is sexually active. On exam, he has a urethral discharge when gentle pressure is applied proximally to the penile meatus. His testicular exam is normal. Which of the following is the most likely cause of his illness?
+A: Neisseria gonorrhoeae
+EXPLANATION: Painful urination usually indicates inflammation or injury to the external genitalia or distal genitourinary tract. Penile or vaginal discharge is suggestive of urethritis in men and vulvovaginitis in women. The most common cause of urethritis in adolescent boys is a sexually transmitted infection. Neisseria gonorrhoeae or Chlamydia trachomatis are the usual culprits. Additional sexually transmitted pathogens known to cause urethritis include Trichomonas and Mycobacterium genitalium. The diagnosis is made clinically and supported by using nucleic acid amplification tests for Neisseria gonorrhoeae and Chlamydia trachomatis on first-catch urine.
+
+### [PEER-PHYS | PEER-renal-q-10]
+Q: A 6-day-old girl presents with fever (T 39.5°C), P 200, R 50. UA via straight cath: nitrites, 51-100 WBC, 4+ bacteria. What is the most appropriate antibiotic treatment?
+A: Ampicillin and gentamicin IV
+EXPLANATION: In neonates, the antibiotic regimen of choice for UTI is IV ampicillin and gentamicin. Ceftriaxone should NOT be used in neonates due to hyperbilirubinemia and nephrotoxicity.
+ARABIC: حديثو الولادة مع UTI: ampicillin + gentamicin وريديًا. لا يُستخدم ceftriaxone في حديثي الولادة (خطر فرط بيليروبين وسمية كلوية).
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-010]
+Q: A 43-year-old man presents to the ED with urinary retention along with penile and abdominal pain. He reports that although he feels an urge to urinate, he has been unable to do so for the past 12 hours. He has no significant medical history and takes no medications. Vital signs are normal.
+A: Hold firm pressure followed by manual reduction
+EXPLANATION: Phimosis and paraphimosis are related urological disorders that occur in uncircumcised male patients. While phimosis refers to an inability to retract the foreskin from the glans penis, paraphimosis occurs when the retracted foreskin cannot be replaced past the penile corona. Paraphimosis represents a urologic emergency because the associated venous congestion can lead to urinary obstruction and penile necrosis. It most commonly develops due to chronic inflammation underneath the redundant foreskin, leading to contracture of the prepuce.
+
+### [PEER-PHYS | PEER-renal-q-11]
+Q: A 43-year-old woman presents with dysuria, fever, mild right flank pain, and nausea. What is the most appropriate initial step in management?
+A: Obtain a urinalysis
+EXPLANATION: This patient has signs and symptoms suggestive of acute pyelonephritis. Urinalysis is necessary to provide objective evidence for diagnosis.
+ARABIC: التهاب الحويضة والكلية الحاد (pyelonephritis): الخطوة الأولى هي تحليل البول (urinalysis) لتأكيد التشخيص. لا حاجة للتصوير الروتيني في الحالات غير المعقدة.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-011]
+Q: A 37-year-old man with no significant medical history presents to the ED with sudden onset back pain radiating to his left groin. He reports dysuria and hematuria that began this morning. Vital signs are T 98.5ºF (36.9ºC), HR 103 bpm, RR 12/min, BP 125/85 mm Hg, SpO2 99% on room air. He appears uncomfortable and cannot sit still. A bedside ultrasound is obtained and is shown above.
+A: Obstructive uropathy
+EXPLANATION: The patient’s history is concerning for symptomatic urolithiasis and his renal ultrasound illustrates severe hydronephrosis. When kidney stones become obstructed in the ureter, they cause swelling of Gerota fascia of the kidney, causing flank pain. Pain can also be caused by renal pelvic stones that obstruct the proximal ureter or migrating ureteral stones. Patients with obstructive uropathy appear to be writhing in pain and have a hard time finding a position of rest. The location of the stone commonly corresponds with clinical symptoms. For example, proximally obstructing stones tend to cause flank pain, whereas midureteral obstructing stones tend to cause lower quadrant abdominal pain.
+
+### [PEER-PHYS | PEER-renal-q-12]
+Q: According to the CMS Sepsis Bundle, which is unnecessary for the CMS 3-hr bundle for a patient with suspected urosepsis?
+A: Urine culture
+EXPLANATION: A urine culture is important for antibiotic stewardship but is not a CMS Sepsis Bundle requirement. CMS 3-hr bundle: 30 mL/kg crystalloid, broad-spectrum antibiotics, blood cultures, serum lactate.
+ARABIC: حزمة CMS للإنتان (3 ساعات): سوائل 30 mL/kg + مضادات حيوية واسعة + زرع دم + لاكتات. زرع البول مهم لكن ليس ضمن الحزمة الإلزامية.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-012]
+Q: A 22-year-old woman with no medical history presents with constant left-sided flank pain, worsened by hematuria today. She reports no fever, dysuria, or abdominal pain. Exam shows left costovertebral angle tenderness. CT scan reveals multiple small kidney and liver cysts but no kidney stones. Urinalysis shows 6–10 leukocytes, many red cells, few bacteria, and few squamous cells.
+A: Excessive angiogenesis
+EXPLANATION: Polycystic kidney disease is a genetic disorder characterized by multiple kidney cysts that develop from nonfunctioning renal tubules. However, cyst formation is not limited to the kidneys and can also be seen in the liver, pancreas, and spleen. Polycystic kidney disease can occur at any age, as the autosomal dominant form requires a mutation in the normal allele to cause cyst formation. Symptoms include flank pain, abdominal pain, hematuria, and urinary frequency. The disease can be complicated by hypertension (typically diastolic), portal hypertension, kidney insufficiency, kidney cyst infection, heart valve infection (owing to abnormal valves), ventral hernia, and cerebral aneurysms.
+
+### [PEER-PHYS | PEER-renal-q-13]
+Q: What is the most common cause of septic shock in pregnancy?
+A: Pyelonephritis
+EXPLANATION: Although septic shock is rare in pregnancy, pyelonephritis is the most common cause. Uterine enlargement and progesterone-induced ureteral dilation increase risk.
+ARABIC: السبب الأكثر شيوعًا للصدمة الإنتانية في الحمل: التهاب الحويضة والكلية (pyelonephritis). توسع الرحم وتوسع الحالب بفعل البروجسترون يزيدان الخطر.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-013]
+Q: A 61-year-old woman presents to the ED with shortness of breath, worsening for several days. She reports no chest pain. Her medical history includes type 2 diabetes mellitus and end-stage kidney disease, for which she undergoes hemodialysis 3 times weekly. She makes no urine at baseline and has missed her past two dialysis sessions due to transportation issues.
+A: Initiate an IV nitroglycerin infusion and consult nephrology
+EXPLANATION: Patients with end-stage kidney disease (ESKD) often present with dyspnea secondary to hypervolemia and associated pulmonary edema. In many cases, fluid overload results from inadequate volume removal during dialysis or as a consequence of missed sessions. However, previous myocardial ischemia can lead to depressed left ventricular systolic function and exacerbate the pulmonary congestion caused by hypervolemia. Symptoms are similar to pulmonary edema from other causes, commonly including dyspnea and orthopnea. However, recent weight gain above a patient’s dry weight is the most reliable clinical indicator, typically an increase > 5 lb (2.2 kg).
+
+### [PEER-PHYS | PEER-renal-q-14]
+Q: A pregnant patient with malodorous urine, negative nitrites, positive LE, positive bacteria, positive pregnancy. What is the next appropriate step?
+A: Obtain a urine culture and prescribe antibiotics
+EXPLANATION: Pregnant patients with asymptomatic bacteriuria should be treated with antibiotics AND have a urine culture obtained. Untreated bacteriuria risks preterm labor, low birth weight, and pyelonephritis.
+ARABIC: في الحمل مع بيلة جرثومية بدون أعراض (asymptomatic bacteriuria): يجب إعطاء مضادات حيوية + إرسال زرع بول. عدم العلاج يزيد خطر الولادة المبكرة والتهاب الكلية.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-014]
+Q: A 19-year-old man presents with multiple painful ulcers on his penis. He also reports painful urination. Genital examination reveals multiple purulent-based, sharply defined, circular ulcers on the shaft of the penis and tender, enlarged, inguinal lymph nodes. Which of the following is the most appropriate treatment regimen?
+A: A single dose of oral azithromycin
+EXPLANATION: The patient is diagnosed with chancroid, a sexually transmitted infection caused by the gram-negative coccobacillus Haemophilus ducreyi. Chancroid is more common in resource-limited settings but may still occur sporadically in high-income countries, often associated with poor access to health care. Transmission occurs through direct contact with open lesions during sexual activity, and it facilitates the acquisition and transmission of HIV due to disruption of the epithelial barrier. After an incubation period of about 3 to 10 days, chancroid begins with a painful papule or pustule at the site of inoculation that rapidly ulcerates.
+
+### [PEER-PHYS | PEER-renal-q-15]
+Q: What is an appropriate treatment for the painless lesion shown (syphilitic chancre)?
+A: Penicillin G benzathine IM
+EXPLANATION: Primary and secondary syphilis are treated with penicillin G benzathine 2.4 million units IM. Long-acting form required to avoid treatment failure.
+ARABIC: الزهري الأولي والثانوي (syphilis): العلاج هو penicillin G benzathine 2.4 مليون وحدة عضليًا. يجب استخدام الشكل طويل المفعول.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-015]
+Q: An 8-month-old boy has a painless swelling on the right side of his scrotum since birth that gets worse with crying. Transillumination of this side of the scrotum reveals increased fluid and the child does not cry on palpation of the testicle, which lies in its normal position. Which of the following is the most likely diagnosis, based on these findings?
+A: Hydrocele
+EXPLANATION: A hydrocele is a collection of fluid that accumulates in the tunica vaginalis. Communicating hydroceles result when the upper processus vaginalis fails to be obliterated, leaving an open tract between the peritoneum and the scrotum. The tract is closed in noncommunicating hydroceles. Most hydroceles are right-sided. Hydroceles may be present at birth, but they are usually painless and worsen with crying or exertion. Hydroceles often resolve spontaneously by the age of 18 months. Examination reveals transillumination and enlargement of the scrotum.
+
+### [PEER-PHYS | PEER-renal-q-16]
+Q: A patient presents for evaluation of a known inguinal hernia. Which clinical finding would warrant emergent surgical consultation?
+A: Overlying erythema
+EXPLANATION: New erythema overlying an inguinal hernia is concerning for strangulation (compromised bowel perfusion). Strangulation is a surgical emergency - do NOT attempt manual reduction.
+ARABIC: احمرار الجلد فوق الفتق الإربي (inguinal hernia) يشير إلى خطر الاختناق (strangulation). طارئ جراحي - لا تحاول الإرجاع اليدوي.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-016]
+Q: A 40-year-old woman returns to the emergency department with continued fever and flank pain after discharge 5 days ago with a diagnosis of pyelonephritis. She indicates she has been taking her antibiotics (levofloxacin) as directed. Vital signs show HR 104 bpm, BP 114/70 mm Hg, T 101.7℉ (38.7ºC), and RR 16/min.
+A: Consult interventional radiology for percutaneous drainage of the abscess
+EXPLANATION: Most patients with pyelonephritis begin to see improvement in symptoms within days of starting appropriate antibiotic therapy. Patients who return with continued fever and pain are likely to have a complication from pyelonephritis, which can include a renal corticomedullary abscess. Antibiotic therapy alone for large kidney abscesses generally is not recommended, as mortality rates can be as high as 33%. However, antibiotic therapy can be attempted with small abscesses (< 5 cm) in hemodynamically stable patients. Patients with larger abscesses or with hemodynamic instability require a more invasive intervention such as percutaneous drainage.
+
+### [PEER-PHYS | PEER-renal-q-17]
+Q: A 25-year-old man presents with his fourth episode of balanoposthitis in 6 months. After initiating treatment, which test is indicated?
+A: Fingerstick blood glucose
+EXPLANATION: Recurrent episodes of balanoposthitis should raise the concern for occult diabetes, so this patient should be screened using a fingerstick blood glucose test.
+ARABIC: التهاب الحشفة والقلفة المتكرر (balanoposthitis) يستدعي فحص سكر الدم، لأنه قد يكون العرض الوحيد للسكري الكامن.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-017]
+Q: A 73-year-old man with benign prostatic hyperplasia presents with a failure to void for 3 days and lower abdominal pain. Physical examination reveals lower abdominal distension and moderate tenderness to palpation. His blood urea nitrogen to creatinine is 20:1.6. What management is indicated?
+A: Foley catheter placement
+EXPLANATION: The patient presents with symptoms and signs consistent with acute urinary obstruction requiring the placement of a Foley catheter to relieve the obstruction. Postrenal or obstructive kidney failure is a reversible cause of acute kidney injury (AKI) and should always be considered in patients with new azotemia. Benign prostatic hyperplasia (BPH) is a common cause of urinary obstruction. Treatment of obstructive uropathy focuses on relieving the obstruction. There is no contraindication to placing a Foley catheter in patients with BPH, and it should be done emergently to relieve the obstruction.
+
+### [PEER-PHYS | PEER-renal-q-18]
+Q: A 47-year-old uncircumcised man presents with tender swollen glans and foreskin, excoriated with purulent foul-smelling discharge. What is the most likely diagnosis?
+A: Balanoposthitis
+EXPLANATION: Balanitis = inflammation of glans; balanoposthitis = glans + foreskin involvement. Presents with erythema, edema, and mucopurulent discharge. Candida is most common.
+ARABIC: التهاب الحشفة والقلفة (balanoposthitis): احتقان وتورم وإفراز قيحي. السبب الأكثر شيوعًا Candida. العلاج: تنظيف + مضاد فطري موضعي.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-018]
+Q: An 18-year-old sexually active man presents with testicular pain for 3 days. The pain is constant and accompanied by fever. Examination reveals a mildly tender right testicle with a normal lie and no urethral discharge. Urinalysis shows 2+ leukocyte esterase, negative nitrites, and 10–25 WBC/hpf. What treatment is indicated?
+A: Ceftriaxone 500 mg intramuscular once and doxycycline 100 mg twice a day for 10 days
+EXPLANATION: This patient has signs and symptoms consistent with epididymitis, which results from infection of the vas deferens, causing edema from passive congestion and inflammation. It usually presents with a gradual onset of scrotal pain, unlike torsion, which presents with a more abrupt onset of symptoms. Approximately 10–30% of patients present with urinary symptoms, and more than half of patients report fever. Early in the course, patients present with pain and tenderness localized to the epididymis, but symptoms quickly spread to the adjacent testicle.
+
+### [PEER-PHYS | PEER-renal-q-19]
+Q: What condition does the picture (inflammation of glans and foreskin) depict?
+A: Balanoposthitis
+EXPLANATION: Inflammation of the glans and foreskin indicates balanoposthitis. More common in uncircumcised males. Candida is most common cause.
+ARABIC: التهاب الحشفة والقلفة (balanoposthitis): أكثر شيوعًا في غير المختونين. Candida هي السبب الأكثر شيوعًا.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-019]
+Q: An 8-year-old girl presents to the ED with dark urine and swollen extremities. She is otherwise healthy outside of a recent sore throat. Which of the following laboratory tests will assist you in confirming the diagnosis?
+A: Antistreptolysin O titer
+EXPLANATION: This patient is exhibiting signs and symptoms consistent with acute poststreptococcal glomerulonephritis (APSGN). Acute glomerulonephritis following acute group A streptococcal infection is characterized by the sudden appearance of hematuria, red blood cell casts in the urine, edema, and hypertension with or without oliguria. The classic presentation of edema, hematuria, and hypertension make up the constellation of findings in nephritic syndrome. Laboratory testing will reveal elevated creatinine and BUN. An antistreptolysin (ASO) titer should be performed to confirm the diagnosis. APSGN may follow either streptococcal skin infection or streptococcal pharyngitis.
+
+### [PEER-PHYS | PEER-renal-q-20]
+Q: A 19-year-old man with fever, facial swelling 1 week ago, right testicular swelling and pain for 2 days. What is the most likely cause?
+A: Paramyxovirus/mumps
+EXPLANATION: Mumps (paramyxovirus) is characterized by fever, parotitis, and delayed orchitis (usually unilateral). Most common cause of orchitis in postpubertal males.
+ARABIC: النكاف (mumps/paramyxovirus): حمى + التهاب الغدة النكفية (parotitis) + التهاب الخصية (orchitis) بعد أسبوع. غالبًا أحادي الجانب.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-020]
+Q: A 20-year-old woman presents to the ED with eye swelling. She has a history of drug-induced lupus, depression, and chronic sinusitis. She reports no painful eye movements, fever, trauma, vision changes, or nasal congestion. Her vital signs are a T of 97.9°F (36.6°C), BP of 179/93 mm Hg, HR of 90 bpm, RR of 12/min, and SpO2 of 100% on room air. She has bilateral periorbital edema and hand edema.
+A: Nephrotic syndrome
+EXPLANATION: Nephrotic syndrome is a glomerular disease characterized by heavy proteinuria, leading to hypoalbuminemia, edema, and hyperlipidemia, although the latter two findings may be inconsistently present. It may be preceded by a viral upper respiratory illness, particularly in minimal change disease. Nephrotic syndrome includes several primary forms such as minimal change disease, focal segmental glomerulosclerosis, membranous nephropathy, and conditions with mixed features such as membranoproliferative and proliferative glomerulonephritides. Secondary causes include systemic lupus erythematosus, IgA vasculitis, sickle cell disease, drug or toxin exposure, and systemic infections.
+
+### [PEER-PHYS | PEER-renal-q-21]
+Q: A 74-year-old man not sexually active with testicular pain and posterior testes tender/swollen. No discharge, normal cremasteric reflex. What is the appropriate treatment?
+A: Levofloxacin
+EXPLANATION: Epididymitis in a non-sexually-active older man - gram-negative organisms predominate. Levofloxacin (fluoroquinolone) is the best choice. For STI-related cases: ceftriaxone + doxycycline.
+ARABIC: التهاب البربخ (epididymitis) في رجل مسن غير نشط جنسيًا: levofloxacin (فلوروكينولون) لتغطية الجراثيم سالبة الغرام. في الحالات المرتبطة بـ STI: ceftriaxone + doxycycline.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-021]
+Q: A 6-year-old girl is brought to the ED with malaise and lower extremity edema that has progressed over the last 2 days. Her urine has been very dark, but there has been no dysuria or fever. She was treated 1 week ago with amoxicillin for a fever and sore throat. On examination, she is afebrile with a BP of 125/75 mm Hg, HR of 105 bpm, RR of 20/min, and SpO2 of 99% on room air.
+A: Fluid and salt restriction
+EXPLANATION: This patient has a history and presentation consistent with poststreptococcal glomerulonephritis (PSGN). Fluid and salt restriction help control edema and prevent hypertension or volume overload. PSGN occurs 7 to 14 days after a group A beta-hemolytic streptococcal infection, most often pharyngitis. It presents with nonspecific symptoms such as malaise and fatigue, along with more characteristic findings of gross hematuria, periorbital and generalized edema, and hypertension. The urine may appear tea- or cola-colored, a hallmark of glomerular bleeding. Edema often begins around the eyes and progresses to involve the extremities and abdomen due to fluid retention.
+
+### [PEER-PHYS | PEER-renal-q-22]
+Q: What is the strongest risk factor for developing perineal (Fournier) gangrene?
+A: Diabetes mellitus
+EXPLANATION: Fournier gangrene is a necrotizing soft-tissue infection of the perineum. Diabetes mellitus (especially poorly controlled) is the strongest risk factor. Treatment: broad-spectrum antibiotics + emergent surgical debridement.
+ARABIC: غرغرينا فورنييه (Fournier gangrene): التهاب ناخر للأنسجة في العجان. السكري غير المضبوط هو أقوى عامل خطر. العلاج: مضادات حيوية واسعة + تنضير جراحي عاجل.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-022]
+Q: Which of the following is the most common presentation of testicular cancer?
+A: Palpable nontender testicular nodule
+EXPLANATION: Although testicular cancer is the most common solid malignancy in young male patients ages 15–35 years, it accounts for just 1% of all cancers in men. These tumors are more common in those with undescended testicles and infertile patients. The most common presentation is that of a palpable, nontender solid nodule or mass that cannot be separated from the testicle. A mass that is palpable is more likely to be malignant than one found only via imaging. Acute onset of scrotal pain is unlikely in testicular cancers and should prompt an evaluation for other causes, such as testicular torsion or epididymitis.
+
+### [PEER-PHYS | PEER-renal-q-23]
+Q: A 59-year-old man with cirrhosis and diabetes presents with fever and perineal pain. Exquisite tenderness, redness, tense edema, warmth. Which additional finding indicates Fournier gangrene?
+A: Gas in the scrotal wall
+EXPLANATION: Gas in the scrotal wall is the hallmark of Fournier gangrene. Emergent surgical consultation required. IV fluids, blood cultures, broad-spectrum antibiotics covering gram-negative, gram-positive, and anaerobic organisms.
+ARABIC: وجود غاز في جدار الصفن (gas in scrotal wall) = علامة مميزة لغرغرينا فورنييه. يتطلب استشارة جراحية عاجلة + مضادات حيوية واسعة.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-023]
+Q: A 10-year-old boy presents to the emergency department with lower extremity swelling and dark urine for 1 day. According to his parent, he recently had streptococcal pharyngitis, but he completed his antibiotic treatment and seemed to be doing fine until this morning. He awoke early this morning with pain and tightness in his legs, and he noticed his urine was a different color.
+A: Red cells and casts
+EXPLANATION: Acute kidney injury is defined as the deterioration of kidney function resulting in the accumulation of toxic waste and loss of internal homeostasis. Causes of kidney insults can be classified as prerenal, intrinsic, or postobstructive. Prerenal failure is associated with decreased renal blood flow. Restoration of circulating blood volume is usually sufficient to restore kidney function. Postobstructive kidney failure leads to an increase in tubular pressure followed by vasoconstriction to the kidney. Relief of the urinary obstruction promptly decreases tubular pressure and resultant vasoconstriction.
+
+### [PEER-PHYS | PEER-renal-q-24]
+Q: A 65-year-old man with low back pain, chills, dysuria, malaise. Tender boggy prostate on exam. What is the appropriate treatment regimen?
+A: Ciprofloxacin PO for 30 days
+EXPLANATION: Prostatitis: first-line is fluoroquinolone (ciprofloxacin) for 4-6 weeks. E. coli is most common organism. Fluoroquinolones have best prostatic penetration.
+ARABIC: التهاب البروستاتا (prostatitis): العلاج الأول هو ciprofloxacin فمويًا لمدة 4-6 أسابيع. E. coli هو المسبب الأكثر شيوعًا.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-024]
+Q: A 29-year-old man presents with gradually worsening right testicular pain over the last 4 days. He is sexually active. On examination, his cremasteric reflex is normal. The testicle has a normal lie. There is tenderness focally over the epididymis. Which of the following tests should be performed next?
+A: Gonorrhea and chlamydia testing
+EXPLANATION: Epididymitis is the most common inflammatory condition within the scrotum. The epididymis is a tubular structure on the posterior aspect of the testicle where sperm mature. The epididymis becomes infected when retrograde transit of an infection travels from the vas deferens. In patients who are sexually active, the organisms of sexually transmitted infections are likely etiologies. For these patients, testing for gonorrhea and chlamydia is indicated. For those not sexually active, urinary pathogens are more common, and a urine culture is indicated.
+
+### [PEER-PHYS | PEER-renal-q-25]
+Q: A patient with penile discharge and left testicular pain for 12 hours. Unprotected sex with men. Tender left testicle improved with elevation, normal cremasteric reflex. What medications should be administered?
+A: Ceftriaxone 500 mg IM and levofloxacin 500 mg PO twice daily for 10 days
+EXPLANATION: Acute epididymitis in a patient with unprotected anal insertive intercourse requires coverage for Chlamydia, gonorrhea, AND enteric organisms - hence ceftriaxone + fluoroquinolone.
+ARABIC: التهاب البربخ الحاد مع جنس شرجي غير محمي: يجب تغطية الكلاميديا والسيلان والجراثيم المعوية → ceftriaxone IM + levofloxacin لمدة 10 أيام.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-025]
+Q: A 54-year-old man with a history of renal cell carcinoma status post right nephrectomy presents with acute left flank pain radiating to the groin. A CT scan of the abdomen and pelvis without contrast demonstrates a 5 mm stone in the proximal left ureter with moderate to severe hydronephrosis. His pain is well controlled and his urinalysis does not show evidence of infection.
+A: Admission with urology consultation
+EXPLANATION: Renal calculi are quite common, occurring most commonly in young adults and middle-aged men. Four types of renal calculi exist and they include calcium, uric acid, struvite, and cysteine calculi. The majority of stones are calcium caused by either overproduction of calcium, excess ingestion of calcium, or excess oxalate that binds with calcium to form stones. As stones move along the genitourinary tract, impaction often occurs. When this happens, it begins to affect the renal blood flow and glomerular filtration rate on the affected side. Renal excretion shifts to the unobstructed side.
+
+### [PEER-PHYS | PEER-renal-q-26]
+Q: A sexually active 24-year-old man presents with dysuria and penile discharge. What is the best pharmacotherapy?
+A: Single dose of ceftriaxone and 7 days of doxycycline
+EXPLANATION: Urethritis: single dose of ceftriaxone 500 mg IM + doxycycline 100 mg BID x 7 days. Covers gonorrhea and chlamydia. Azithromycin no longer first-line due to resistance.
+ARABIC: التهاب الإحليل (urethritis): ceftriaxone جرعة واحدة + doxycycline لمدة 7 أيام. الأزيثرومايسين لم يعد الخيار الأول بسبب المقاومة.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-026]
+Q: A 5-year-old boy presents to the ED with a 3-day history of progressive swelling, particularly around his eyes, and abdominal distension. His parents report he has been otherwise well, with no recent fevers or illnesses. On examination, he is afebrile, with a blood pressure of 95/60 mm Hg, heart rate of 88 bpm, and respiratory rate of 20/min.
+A: Minimal change disease
+EXPLANATION: Minimal change disease (MCD) is the most common cause of nephrotic syndrome in children, particularly in those aged 2–6 years. Nephrotic syndrome is caused by increased permeability across the glomerular filtration barrier and is diagnosed based on the finding of proteinuria (> 50 mg/kg or 3+ to 4+ on urinary dipstick) and hypoalbuminemia (serum albumin 1 year old and 2 mg protein/mg creatinine) Lab results: absence of hematuria, normal complement levels, normal kidney function, hypoalbuminemia, hyperlipidemia Tx: corticosteroids, dietary restrictions
+
+### [PEER-PHYS | PEER-renal-q-27]
+Q: What is the condition pictured (retracted foreskin that cannot be pulled back over the glans)?
+A: Paraphimosis
+EXPLANATION: Paraphimosis: foreskin retracted and cannot be pulled back over the glans. This is a urologic emergency - can cause ischemia and gangrene. Reduce with ice/compression, then manual reduction.
+ARABIC: الشبم (paraphimosis): القلفة متراجعة ولا يمكن إرجاعها فوق الحشفة. طارئ بولي - قد يؤدي لنقص تروية وتنخر. العلاج: ثلج + ضغط + إرجاع يدوي.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-027]
+Q: Which of the following examination findings is most suggestive of testicular torsion?
+A: Absent cremasteric reflex
+EXPLANATION: Testicular torsion occurs when the spermatic cord twists, compromising blood flow to the testicle. The most suggestive physical examination finding is the absence of the cremasteric reflex—when stroking the inner thigh fails to cause ipsilateral testicular elevation. This reflex is mediated by the genitofemoral nerve and is usually present in healthy male patients. In torsion, ischemic nerve dysfunction leads to its loss. While not 100% sensitive, the absent cremasteric reflex is the most specific clinical finding for testicular torsion and should heighten suspicion for the diagnosis.
+
+### [PEER-PHYS | PEER-renal-q-28]
+Q: What is the most likely complication of untreated priapism?
+A: Impotence
+EXPLANATION: Priapism is an erection lasting >4 hours. Most common sequela is impotence (up to 35%). Sickle cell disease is common cause in children; medications (antihypertensives, neuroleptics, ED meds) in adults.
+ARABIC: القساح (priapism): انتصاب يدوم >4 ساعات. المضاعفة الأكثر شيوعًا: العنانة (impotence) حتى 35%. العلاج: سحب الدم + phenylephrine داخل الكهف.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-028]
+Q: A 14-year-old boy presents to the ED with atraumatic scrotal swelling. He is well-appearing and afebrile. He is circumcised with no genital erythema or lesions. Which of the following will aid in confirming a hydrocele?
+A: Illuminate the scrotum
+EXPLANATION: A hydrocele is the most common cause of painless scrotal swelling in the pediatric population. It is the accumulation of fluid in the scrotum that often resolves while sleeping or lying supine and increases in size with Valsalva maneuvers or upright positioning. To confirm the diagnosis, the clinician can illuminate the scrotum with a penlight, otoscope, or other light source to visualize the relative lucency of the hydrocele fluid. Causes of scrotal swelling that do not illuminate like this include a thickened scrotal wall, scrotal abscesses, testicular enlargement from malignancy or orchitis, epididymitis, or testicular torsion.
+
+### [PEER-PHYS | PEER-renal-q-29]
+Q: Which medication is known to cause priapism?
+A: Trazodone
+EXPLANATION: Antidepressants (especially trazodone) are common causes of priapism. Other culprits: antipsychotics, alpha-antagonists, anticoagulants, and ED medications.
+ARABIC: مضادات الاكتئاب (خاصة trazodone) من الأسباب الشائعة للقساح. أيضًا: مضادات الذهان، حاصرات ألفا، مضادات التخثر.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-029]
+Q: An 18-month-old girl presents to the emergency department with a fever of 39°C. Her parents report decreased appetite but no vomiting or diarrhea. They report her urine smells foul. She appears ill but nontoxic, and the remainder of her examination is normal. Her urinalysis shows 2+ nitrites, 2+ leukocyte esterase, moderate bacteria, and white blood cells. A urine culture is pending.
+A: Discharge home with oral cefpodoxime and close outpatient follow-up
+EXPLANATION: This patient presents with possible pyelonephritis, or at least a febrile urinary tract infection. Pyelonephritis is a bacterial infection that involves the renal parenchyma. In pediatric patients, fever without a clear source is often the primary manifestation. Urinalysis findings, including positive nitrites, leukocyte esterase, and pyuria, support the diagnosis. While pyelonephritis in young children can be severe, not all cases require hospitalization.
+
+### [PEER-PHYS | PEER-renal-q-30]
+Q: A 43-year-old man with an erection of 6 hours' duration. Itchy rash 1 day, took diphenhydramine. On medication for depression. What is the likely etiology of his priapism?
+A: Antidepressant
+EXPLANATION: Medications are the most common cause of priapism in adults - especially antidepressants (SSRIs), antipsychotics, ED meds, and intracavernous injections.
+ARABIC: الأدوية هي السبب الأكثر شيوعًا للقساح في البالغين - خاصة مضادات الاكتئاب (SSRIs) ومضادات الذهان وأدوية ضعف الانتصاب.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-030]
+Q: A 12-year-old boy presents with penile pain. On exam, you note the image above. What management is indicated?
+A: Manual reduction
+EXPLANATION: This patient presents with paraphimosis, a urologic emergency requiring emergent reduction of the foreskin. Paraphimosis occurs when the foreskin cannot be returned to its anatomic position covering the glans penis. It can be caused by infection, trauma, or hair tourniquets. Subsequent venous congestion can lead to arterial compression, penile necrosis, and gangrene. The typical presentation is erythema and engorgement of the penis distal to the obstruction and proximal flaccidity. Treatment is directed at reducing swelling and edema of the foreskin and reducing it to the neutral position. Parenteral anesthesia or a local nerve block may be necessary for manual reduction.
+
+### [PEER-PHYS | PEER-renal-q-31]
+Q: A 10-year-old boy with acute-onset abdominal and groin pain for 6 hours. Tender swollen left testis. No urethral discharge. What is the best next step?
+A: Perform lateral rotation of the testis
+EXPLANATION: Testicular torsion is a surgical emergency. At 6 hours, attempt manual detorsion (rotate laterally, 'opening-a-book' technique) while awaiting urology. Salvage rates drop from 96% at 4-6 hours to 20% after 12 hours.
+ARABIC: انفتال الخصية (testicular torsion): طارئ جراحي. عند 6 ساعات، حاول الإرجاع اليدوي (الدوران الجانبي - تقنية 'فتح الكتاب') مع انتظار الجراحة. معدل الإنقاذ ينخفض من 96% عند 4-6 ساعات إلى 20% بعد 12 ساعة.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-031]
+Q: A 6-year-old boy presents with swelling around the eyes that started 1 month ago. His vital signs are an HR of 80 bpm, BP of 140/90 mm Hg, RR of 18/min, and T of 98.8°F (37.1°C). On physical exam, he has bilateral periorbital edema, mild abdominal tenderness, and scrotal edema. You also notice bilateral pitting edema in the lower extremities.
+A: Deep venous thrombosis
+EXPLANATION: This patient is presenting with nephrotic syndrome, which is characterized by significant proteinuria and edema. The most common cause of nephrotic syndrome in children is minimal change nephrotic syndrome, typically affecting children 2–6 years of age. Nephrotic syndrome is a glomerular disease in which patients have a pathologic increase in glomerular permeability that leads to an excessive loss of protein in the urine. The resultant hypoproteinemic state decreases the intravascular oncotic pressure. Thus, fluid shifts into the extravascular space and causes diffuse swelling. Edema is the most common presenting symptom for patients with nephrotic syndrome.
+
+### [PEER-PHYS | PEER-renal-q-32]
+Q: In an otherwise healthy young adult, what is the most likely diagnosis for a 1-cm painless, firm, nodular testicular mass that does not transilluminate?
+A: Germ-cell tumor
+EXPLANATION: Testicular germ-cell tumors are the most common malignancy affecting men 15-35 years. Painless, firm, nodular mass that does not transilluminate. Elevated beta-hCG confirms.
+ARABIC: كتلة خصوية صلبة غير مؤلمة لا تُشف (non-transilluminating): الاشتباه الأكبر هو ورم الخلايا الجرثومية (germ-cell tumor) - أكثر سرطانات الذكور 15-35 سنة.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-032]
+Q: An 18-year-old man presents with painful swelling in his right groin. He reports the onset of painful lesions on his penis 7 days ago, followed by progressive enlargement of a tender groin mass. He is sexually active with multiple partners and does not consistently use condoms.
+A: Haemophilus ducreyi
+EXPLANATION: This patient is presenting with chancroid, caused by Haemophilus ducreyi. Patients develop multiple painful genital ulcers and the characteristic inguinal bubo. The ulcerations are sharply demarcated with purulent bases. Half of the patients have lymph node involvement with a unilateral, large, painful, and fluctuant node (bubo). Diagnosis is usually made clinically in areas where chancroid is prevalent, as culture for H. ducreyi requires specialized media and is not widely available. Drainage of the bubo is not typically recommended as it responds well to antimicrobial therapy. Treatment consists of a single dose of oral azithromycin or intramuscular ceftriaxone.
+
+### [PEER-PHYS | PEER-renal-q-33]
+Q: A 17-year-old with firm painless left testis mass. Urine hCG positive. What is the most likely etiology?
+A: Germ cell tumor
+EXPLANATION: Testicular cancer (germ cell tumor) presents with painless unilateral mass. Positive hCG supports diagnosis (secreted by some germ cell tumors). Urgent urology referral.
+ARABIC: سرطان الخصية (ورم جرثومي): كتلة غير مؤلمة + hCG موجب. يتطلب تحويل عاجل لجراحة المسالك.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-033]
+Q: A 5-year-old boy presents to the ED with fatigue after having diarrhea and abdominal pain 5 days ago. On physical exam, he is noted to have pale conjunctiva. Lab tests reveal hemoglobin 7 g/dL, creatinine 1.6 mg/dL, and platelets 50,000/µL. Urinalysis shows proteinuria and hematuria. Which of the following is the most likely diagnosis?
+A: Hemolytic uremic syndrome
+EXPLANATION: Hemolytic uremic syndrome (HUS) is defined by microangiopathic hemolytic anemia, thrombocytopenia, and kidney failure. It is one of the more common causes of acute kidney injury in children. The main cause of HUS is Shiga toxin-producing Escherichia coli. Other potential causes include dysregulation or mutations in complement proteins and Streptococcus pneumoniae. The pathophysiology is driven by the development of microthrombi leading to glomerular thrombotic microangiopathy and cortical necrosis. While most cases of HUS occur in children, adults can be affected as well.
+
+### [PEER-PHYS | PEER-renal-q-34]
+Q: A 4-year-old girl with fever, N/V, diarrhea 3 days. BP 190/104, K 5.4, BUN 65, Cr 4.1, Hgb 6, Hct 18.6, stool hemoccult positive. What is the most likely cause?
+A: Escherichia coli 0157:H7
+EXPLANATION: Hemolytic uremic syndrome (HUS) - most common cause of AKI in children. Classic: GI symptoms (bloody diarrhea) then within 1 week microangiopathic hemolytic anemia, kidney failure, neurological symptoms. Avoid antibiotics and antimotility agents.
+ARABIC: متلازمة انحلال الدم اليوريمي (HUS): سبب AKI الأكثر شيوعًا عند الأطفال. E. coli 0157:H7 هو السبب الأشهر. تجنب المضادات الحيوية ومضادات الإسهال.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-034]
+Q: A 20-year-old man presents to the ED with a fever, body aches, and painful penile lesions for the past week. He reports having unprotected intercourse several weeks ago and has had no similar lesions in the past. A physical exam reveals painful genital ulcers as shown in the picture above. Which of the following is the most appropriate treatment?
+A: Acyclovir 400 mg three times daily for 10 days
+EXPLANATION: Herpes simplex virus type 1 (HSV-1) and herpes simplex virus type 2 (HSV-2) are extremely common infections worldwide. Most cases of genital herpes are caused by HSV-2, whereas HSV-1 typically causes oral manifestations. However, HSV-1 is increasingly recognized as a cause of genital herpes due to oral-genital contact. Transmission occurs through contact with mucosal surfaces from oral and genital secretions, and an asymptomatic patient can transmit this infection. Patients with genital herpes commonly present with painful genital ulcers that may be accompanied by dysuria, fever, tender inguinal lymphadenopathy, and headaches.
+
+### [PEER-PHYS | PEER-renal-q-35]
+Q: Which laboratory finding distinguishes acquired hemolytic uremic syndrome from DIC?
+A: Normal coagulation studies
+EXPLANATION: In acquired HUS, the coagulation pathway should not be affected. Normal coagulation studies distinguish HUS from DIC (which has abnormal PT/PTT/fibrinogen).
+ARABIC: في HUS المكتسب: فحوصات التخثر طبيعية (normal coagulation studies). هذا ما يميز HUS عن DIC حيث PT/PTT غير طبيعية.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-035]
+Q: A 69-year-old man presents to the emergency department with acute urinary retention for 14 hours. He reports a steadily decreasing stream and intermittent urinary hesitancy for several months, but thus far, he has refused to see a clinician for his symptoms. Presently, he has not had any urine output since yesterday.
+A: Alpha-1 adrenergic antagonist
+EXPLANATION: Acute urinary retention is a painful emergency that typically occurs in older men with benign prostatic hyperplasia. Patients present with the inability to pass urine, lower abdominal distention, and pain. It is uncommon in women. Prolonged bladder outlet obstruction can lead to acute kidney injury, so it must be treated expeditiously. Patients with benign prostatic hyperplasia often report urinary frequency, hesitancy, nocturia, and a weak urinary stream. Eventually, patients can develop bladder outlet obstruction and acute urinary retention unless treated appropriately with medications. This patient’s previous history suggests the development of benign prostatic hyperplasia.
+
+### [PEER-PHYS | PEER-renal-q-36]
+Q: What is the best approach to managing a pediatric patient with Escherichia coli-induced hemolytic uremic syndrome?
+A: Fluid management
+EXPLANATION: HUS treatment is primarily supportive including fluids. Avoid antibiotics (risk of increased HUS) and antiperistaltic agents. Transfuse if Hgb <7 g/dL. Platelets only if <10K and bleeding.
+ARABIC: علاج HUS داعم بشكل أساسي: سوائل. تجنب المضادات الحيوية ومضادات الحركة المعوية. نقل الدم إذا Hgb <7. الصفيحات فقط إذا <10K مع نزف.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-036]
+Q: A 55-year-old man presents with perineal pain. He has a long-standing history of hypertension and uncontrolled diabetes. He states 2 days ago, he noticed a “zit” and redness on his inguinal area and scrotum. He was seen by a different clinician yesterday, who started him on an antibiotic for cellulitis. Today the patient states the pain is worse, and he is now having fevers and chills.
+A: Emergency surgical consultation and broad-spectrum antibiotics
+EXPLANATION: Fournier gangrene is necrotizing fasciitis of the perineal, genital, or perianal anatomy. Often the process begins as a benign infection or simple abscess but quickly becomes virulent and results in microthrombosis of small subcutaneous vessels, leading to the development of gangrene of the overlying skin. Risk factors include diabetes and alcohol use disorder, as these result in an immunocompromised host, with male patients being most commonly affected. Early in the disease course, patients may report genital pain or perineal pain, often with associated pruritus. As the disease progresses, the pain may improve or completely resolve due to nerve damage or death.
+
+### [PEER-PHYS | PEER-renal-q-37]
+Q: Which medication is associated with an elevated risk of ureteral calculi?
+A: Indinavir
+EXPLANATION: Indinavir (HIV protease inhibitor) crystallizes in urine causing ureteral stones. ~10% of patients on indinavir develop ureteral stones. Other culprits: ceftriaxone, ciprofloxacin, TMP-SMX, triamterene.
+ARABIC: إندينافير (indinavir - مثبط بروتييز HIV) يتبلور في البول ويسبب حصى الحالب. ~10% من المرضى يطورون حصى. أيضًا: ceftriaxone, ciprofloxacin, TMP-SMX.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-037]
+Q: A 60-year-old man presents to the clinic with fever, chills, and low back and perineal pain for 1 day. His pain worsens with urination, and he has urinary frequency and incomplete voiding. Vital signs are a T of 100.2°F (37.8°C), BP of 120/78 mm Hg, HR of 110 bpm, and RR of 18 breaths/min. On examination, the abdomen is soft, with normoactive bowel sounds.
+A: Oral ciprofloxacin twice a day for 4 weeks
+EXPLANATION: This patient presents with acuteprostatitis requiring 4–6 weeks of antibiotic therapy with an agent that covers the most common bacterial pathogens. Bacterial prostatitis is primarily caused by Escherichia coli (> 50%). Other gram-negative organisms involved include Klebsiella, Enterobacter, Pseudomonas, and Proteus. The most common symptoms patients present with are irritative voiding symptoms, fever, malaise, chills, and perineal and low back pain. Rectal examination often reveals a boggy and tender prostate. Pain is increased with urination, and prostatic inflammation often leads to incomplete voiding and frequency.
+
+### [PEER-PHYS | PEER-renal-q-38]
+Q: What medication is preferred to help with the expulsion of a ureteral stone larger than 5 mm?
+A: Tamsulosin
+EXPLANATION: Medical expulsive therapy for ureteral stones >5 mm: alpha-blockers (tamsulosin) are preferred over calcium channel blockers. Tamsulosin 0.4 mg daily.
+ARABIC: العلاج الطارد للحصى (MET) للحصى >5 mm: tamsulosin (حاصر ألفا) هو الأفضل. الجرعة: 0.4 mg يوميًا.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-038]
+Q: A 60-year-old man presents to the emergency department with scrotal pain and swelling on the left side. He describes the pain as gradual in onset and progressively worsening over the past 2 days. He reports no recent trauma to the area, and he indicates he has not been sexually active for over 2 years.
+A: Levofloxacin
+EXPLANATION: Epididymitis, which refers to inflammation of the epididymis, is the leading cause of acute scrotal pain in adults. It most often results from the local spread of bacteria from the urethra and bladder. The best way to determine the most likely bacterial pathogen in an individual patient is to consider age, sexual activity, and urologic risk factors (recent urologic procedure), which also helps to guide empiric antibiotic treatment. Epididymitis in sexually active male patients is typically caused by the sexually transmitted bacteria Neisseria gonorrhoeae and Chlamydia trachomatis. Treatment is with ceftriaxone and doxycycline.
+
+### [PEER-PHYS | PEER-renal-q-39]
+Q: A pregnant patient with colicky right flank pain, urine 100 RBCs/hpf, 500 WBCs/hpf with nitrates, hydronephrosis on US. What is the appropriate management?
+A: Admit with urology consultation
+EXPLANATION: Infected obstructed nephrolithiasis in pregnancy requires admission with urology consultation. US is imaging of choice to avoid radiation. Narcotics preferred (NSAIDs contraindicated).
+ARABIC: حصى الكلى المسدّ للكلى مع عدوى (infected obstructed nephrolithiasis) في الحمل: إدخال + استشارة مسالك بولية. الإيكو هو التصوير المفضل. NSAIDs ممنوعة في الحمل.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-039]
+Q: A 21-year-old man presents to a rural emergency department with no available consulting specialties with severe testicular pain. His symptoms started suddenly 1 hour ago while jogging. He tried to control his pain with acetaminophen, ibuprofen, and oxycodone that he had left over from a previous surgical procedure, but he continues to have severe pain.
+A: Perform manual detorsion
+EXPLANATION: Testicular torsion occurs when the testicle twists around its blood supply, leading to ischemia. This can manifest as severe testicular pain, scrotal edema, and an absence of a cremasteric reflex (L1 and L2 spinal root) with a horizontal and high-riding testicle. The pathophysiology is related to inadequate fixation of the lower pole of the testis to the tunica vaginalis, thus allowing the testicle to rotate. The diagnosis can be confirmed with a testicular ultrasound. However, this diagnostic test should not delay treatment (such as manual detorsion or surgery), as the diagnosis can be made on clinical grounds.
+
+### [PEER-PHYS | PEER-renal-q-40]
+Q: What is the most common misdiagnosis in a patient presenting with an expanding or rupturing abdominal aortic aneurysm?
+A: Nephrolithiasis
+EXPLANATION: Kidney stones are the most common misdiagnosis for AAA - both present with back pain, abdominal/flank pain, nausea/vomiting. Consider AAA in men >60 with smoking history.
+ARABIC: أكثر تشخيص خاطئ لتمدد الأبهر (AAA): حصى الكلى (nephrolithiasis) - كلاهما يظهر بألم ظهر وبطن وغثيان. اشتبه بـ AAA في الرجال >60 مع تاريخ تدخين.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-040]
+Q: A 54-year-old man presents with abdominal pain, vomiting, and fever. Physical examination reveals an ill-appearing man with a mass in the right groin as seen above. Which of the following is the most immediate next step required?
+A: Surgical consultation
+EXPLANATION: This patient presents with signs and symptoms concerning for a strangulated hernia and should have an emergent surgical consultation for possible operative management. A hernia occurs when part of the viscus protrudes from its surrounding tissue walls. There are three presentations seen with hernias. The first is a reducible hernia where the hernia is soft and nontender (or minimally tender) and can easily be reduced through the neck of the defect. An incarcerated hernia is firm and painful and cannot be reduced through its defect. Lastly, a strangulated hernia occurs after incarceration and involves impairment of blood flow (arterial, venous, or both) to the viscus.
+
+### [PEER-PHYS | PEER-renal-q-41]
+Q: Which diagnostic test is the least sensitive and specific for diagnosing nephrolithiasis?
+A: Abdominal x-ray
+EXPLANATION: Abdominal x-ray has lowest sensitivity (29-58%) and specificity (69-74%) for nephrolithiasis. CT (94-97% sens, 96-99% spec) and renal US (63-85% sens, 79-100% spec) are preferred.
+ARABIC: صورة البطن البسيطة (abdominal x-ray) هي الأقل حساسية ونوعية للحصى (29-58% حساسية). CT (96-99% نوعية) والإيكو الكلوي هما الأفضل.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-041]
+Q: Which of the following is a major extrarenal manifestation of polycystic kidney disease?
+A: Cerebral aneurysm
+EXPLANATION: Polycystic kidney disease (PKD) is a common autosomal dominant genetic disorder primarily involving the kidneys but also affecting multiple organ systems. It is caused by mutations in the PKD1 or PKD2 genes, with PKD1 mutations typically leading to earlier and more severe disease. The hallmark of PKD is the bilateral development of numerous kidney cysts, which enlarge over time and progressively impair kidney function. Patients often present in adulthood with flank or abdominal pain, hypertension, gross or microscopic hematuria, urinary tract infections, or nephrolithiasis. Hypertension is frequently the earliest manifestation and may precede any noticeable decline in kidney function.
+
+### [PEER-PHYS | PEER-renal-q-42]
+Q: A 70-year-old man with left flank pain, BP 100/50, P 120, T 38.3°C. CT: 5-mm mid-ureteral stone. UA: nitrites, 4+ bacteria, WBC 50-100/hpf. What is the most appropriate management?
+A: Ceftriaxone IV and emergent urology consultation
+EXPLANATION: Infected kidney stone with sepsis signs (hypotension, tachycardia) is a surgical emergency. IV antibiotics (3rd-gen cephalosporin) + emergent urology for stone retrieval.
+ARABIC: حصى الكلى المصحوب بعدوى + علامات إنتان (hypotension, tachycardia): طارئ جراحي. مضادات حيوية وريدية + استشارة مسالك عاجلة لاستخراج الحصى.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-042]
+Q: What is the most common cause of pain related to testicular malignancies?
+A: Intratumoral hemorrhage
+EXPLANATION: Male patients presenting for evaluation of testicular pain or masses should be assessed for genital emergencies, particularly testicular torsion, testicular appendageal torsion, epididymitis, orchitis, scrotal abscess, and Fournier gangrene. Testicular malignancy is not a true genital emergency, but should be considered in any patient with a testicular mass of unknown etiology. Testicular cancer accounts for only 1% of all male cancers, but it is the most common solid cancer in men ages 15 through 35 years. The vast majority are germ cell tumors. Most patients with testicular malignancies are actually asymptomatic and pain-free.
+
+### [PEER-PHYS | PEER-renal-q-43]
+Q: Which characteristic is associated with an increased prevalence of kidney stones?
+A: Caucasian race
+EXPLANATION: Kidney stones more common in Caucasians, males, obesity, high meat diet, diabetes. Other risks: gout, hyperparathyroidism, immobilization, dehydration, excess salt intake.
+ARABIC: الحصى الكلوية أكثر شيوعًا في: القوقازيين، الذكور، السمنة، النظام الغني باللحوم، السكري. عوامل أخرى: النقرس، فرط جارات الدرق، عدم الحركة، الجفاف.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-043]
+Q: An 18-year-old presents to the emergency department with severe pain in his penis. He indicates he has had some mild irritation to the glans and foreskin areas recently. After intercourse tonight he was unable to reduce the foreskin and now has severe pain in the tip of his penis. On examination, the penis is flaccid and the foreskin is retracted proximally.
+A: Paraphimosis
+EXPLANATION: This patient has a story and exam consistent with paraphimosis. Paraphimosis is a true urologic emergency of the uncircumcised penis. It is the inability to reduce the proximal edematous foreskin distally over the glans penis into its natural position. The resulting glans edema and venous engorgement can progress to arterial compromise and gangrene. Paraphimosis can be caused by infection, masturbation, trauma, or hair or clothing tourniquets. Patients typically appear very anxious, and the history reveals that the patient retracted the foreskin and could not replace the foreskin over the glans.
+
+### [PEER-PHYS | PEER-renal-q-44]
+Q: What is the most common solute found in kidney stones?
+A: Calcium
+EXPLANATION: Calcium oxalate/phosphate stones account for ~90% of kidney stones. Uric acid ~8%, struvite ~1%, cystine ~1%. Hematuria present in 85% of cases.
+ARABIC: الكالسيوم (calcium oxalate/phosphate) يمثل ~90% من حصى الكلى. حمض البوليك ~8%، struvite ~1%، cystine ~1%. البيلة الدموية موجودة في 85% من الحالات.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-044]
+Q: A 42-year-old man presents with right flank discomfort and hypertension. His renal ultrasound is shown above. What is the most likely pattern of inheritance related to this diagnosis?
+A: Autosomal dominant
+EXPLANATION: Polycystic kidney disease (PKD) is the most common genetic cause of chronic kidney disease, accounting for up to 10% of end stage renal disease (ESRD) cases in the US and Europe. The majority of cases follow an autosomal dominant pattern of inheritance caused by a mutation on either the PKD1 gene (85–90% of patients) or PKD2 gene. The main feature of PKD is bilateral progressive cystic formation in the kidneys, although abnormalities such as hepatic and pancreatic cysts, cerebral aneurysms and cardiac valve abnormalities may also be present. PKD causes progressive renal dysfunction and results in ESRD requiring dialysis in nearly half of patients by age 60 years.
+
+### [PEER-PHYS | PEER-renal-q-45]
+Q: A 34-year-old man with family history of kidney problems and painless hematuria. US shows multiple cysts. Which serious complication is he at risk for?
+A: Ruptured cerebral aneurysm
+EXPLANATION: ADPKD (autosomal dominant polycystic kidney disease) - most common inherited cause of ESRD. Associated with 4x increased risk of cerebral aneurysms. Classic presentation: thunderclap headache + meningismus.
+ARABIC: داء الكلى المتعدد الكيسات الوراثي السائد (ADPKD): أكثر سبب وراثي للفشل الكلوي النهائي. يترافق مع 4 أضعاف خطر أم الدم الدماغية (cerebral aneurysm). العرض: صداع رعدي + تصلب رقبي.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-045]
+Q: A 55-year-old man presents to the emergency department with 3 days of left-sided scrotal pain and redness. He reports no trauma or fever. He reports mild dysuria and is sexually active with one short-term partner without protection. He reports no medical problems, but does have a bit of difficulty starting his stream of urine lately.
+A: Intramuscular ceftriaxone plus oral levofloxacin
+EXPLANATION: This patient is presenting with signs and symptoms that are characteristic of acute epididymitis. Epididymitis is the most common cause of scrotal pain in adults. It is most commonly caused by infectious etiologies but can be caused by trauma and autoimmune disease. The diagnosis of epididymitis is made presumptively based on clinical features of pain and swelling on palpation of the epididymis, which is located posteriorly on the testis. Some patients will have fevers and urinary symptoms. Management is based on the severity and patient risk factors. Patients can usually be treated on an outpatient basis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-046]
+Q: A 67-year-old man presents to the ED with testicular pain that started a few days ago. The patient has a medical history of diabetes, and he reports no recent sexual activity. His temperature is 99.7°F (37.6°C) and HR is 100 bpm. Physical exam reveals pain upon palpation of the posterior aspect of the left testicle. Pain is relieved with elevation of the scrotum.
+A: Escherichia coli
+EXPLANATION: Epididymitis is the most common cause of intrascrotal inflammation affecting male patients between 18 and 35 years, though it can occur at any age. It results from infection ascending retrograde through the vas deferens, often from urinary or sexually transmitted pathogens. Sexually active men are commonly infected with Chlamydia trachomatis or Neisseria gonorrhoeae, while others are more likely to have infections from urinary tract bacteria (Escherichia coli) due to conditions like benign prostatic hypertrophy or recent instrumentation. Rare causes include tuberculosis, syphilis, fungal infections, and medications like amiodarone.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-047]
+Q: A 42-year-old man presents to the ED with penile pain for 1 week. A physical exam reveals an uncircumcised penis, and with retraction of the foreskin, the glans appears erythematous and edematous (as shown above). There are no signs of cellulitis, foul-smelling drainage, or inguinal lymphadenopathy, and he reports no unprotected sexual intercourse or concern for sexually transmitted infections.
+A: Twice-daily cleansing with saline solution and topical antifungal cream
+EXPLANATION: Balanitis is defined as inflammation of the glans of the penis and posthitis is an inflammation of the foreskin. Balanoposthitis is inflammation of the glans and the foreskin in uncircumcised male patients, but these terms are often used interchangeably. The most common cause of balanitis is inadequate hygiene. It occurs most often in uncircumcised male patients, as rubbing of the foreskin against the glans leads to irritation and inflammation, and the warm environment beneath the foreskin leads to overgrowth of fungi, and at times, bacteria.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-048]
+Q: A 46-year-old man with a history of chronic kidney disease is brought to the ED from the hemodialysis unit in the hospital due to the development of a headache, nausea, and general malaise while undergoing hemodialysis. He felt well prior to the initiation of hemodialysis. Currently, he reports no fevers, chills, coughing, or chest pain.
+A: Disequilibrium syndrome
+EXPLANATION: Dialysis disequilibrium syndrome (DDS) is characterized by headache, malaise, nausea, disorientation, and, in severe but rare cases, confusion, seizures, coma, and death. It occurs during hemodialysis (HD) or shortly after. By most accounts, it is attributed to the rapid removal of urea during HD, leading to transient cerebral edema. Treatment is largely supportive, in addition to ruling out more serious etiologies of the symptoms. Meningitis (B) is less likely than DDS, given this patient’s symptom onset during HD, his normal mental status, and lack of fever or neck pain.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-049]
+Q: What is the most common cause of drug-induced ischemic (low-flow) priapism in adults?
+A: Intracorporeal penile injections
+EXPLANATION: Ischemic (low-flow) priapism is the most common form of priapism. Ischemic priapism is a prolonged erection with failure of detumescence due to impaired relaxation and paralysis of cavernosal smooth muscle. Mixed venous blood becomes trapped from a derangement of vasoregulatory mechanisms and endothelial adhesion, leading to a compartment syndrome that requires emergent medical or surgical intervention. The most common cause of medication-related ischemic priapism in adults is intracorporeal penile injections (such as alprostadil).
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-050]
+Q: Which of the following represents a reason for emergent dialysis in a patient with end-stage kidney disease and on dialysis?
+A: Pulmonary edema responsive to nitroglycerin
+EXPLANATION: Although the decision to institute dialysis in a patient with chronic kidney disease (CKD) is complicated, the indications for emergent dialysis in the emergency department are not. Pulmonary edema represents one of the most common problems patients with CKD present to the emergency department with. Patients will typically have worsening dyspnea on exertion or shortness of breath, but body weight significantly greater than dry weight may be the best indicator. Initial emergency treatment of pulmonary edema in the dialysis patient is similar to that in the nondialysis patient, but the dialysis patient is less likely to respond to diuretic therapy.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-051]
+Q: An 83-year-old man presents to the emergency department for lower abdominal discomfort. His symptoms have been progressively worsening for the past few hours and are associated with urinary urgency. He has not had any urine output today. He reports no recent dysuria, hematuria, flank pain, or fevers.
+A: Enlarged prostate
+EXPLANATION: This patient has an obstructive acute kidney injury (AKI) due to urinary retention caused by benign prostatic hyperplasia (BPH). Obstructive AKI causes increased pressure in the kidney tubules, thereby impairing glomerular filtration. BPH is the most common cause of obstructive AKI in the older population. Other causes of urinary retention include neoplasm, hematuria (clots), infection, trauma, extraurinary compression, medications, and neurogenic causes. Diagnosis of obstructive AKI can be made based on clinical presentation, the presence of urinary retention, and a BMP. A CBC may be obtained if there is a concern for hematuria or infection.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-052]
+Q: A 20-year-old man presents to the ED for a penile lesion. He is sexually active. Examination is significant for a painless, well-demarcated, flat ulcerative lesion on the dorsal surface of the penis and painless inguinal lymphadenopathy. Which of the following is the most appropriate treatment for this patient’s condition?
+A: Intramuscular penicillin G once
+EXPLANATION: This patient’s presentation is most consistent with primary syphilis, an STI caused by Treponema pallidum. Infection is spread by direct contact with mucous membranes or broken skin, leading to the primary stage of the disease, defined by the presence of a single, painless chancre that occurs several weeks following infection. Patients may also have associated painless lymphadenopathy. Diagnosis can be confirmed with rapid plasma reagin or Venereal Disease Research Laboratory testing. However, these antibody tests may not reveal positive results until up to 1 month after the chancre appears.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-053]
+Q: A 16-year-old boy presents to the emergency department after being woken from sleep from severe right lower quadrant abdominal pain and vomiting. He reports no trauma, fevers, or recent ill symptoms. He is sexually active but reports no pain with urination or penile discharge. He reports his pain is severe and does not improve with changing position.
+A: Testicular torsion
+EXPLANATION: Testicular torsion results from inadequate fixation of the testicle to the tunica vaginalis, allowing for increased testicular motion within the scrotum. When the testicle spins on the axis of the spermatic cord, it interrupts the vascular supply resulting in ischemia and can result in a necrotic testicle within 4–6 hours of presentation. It is most common in teenagers but also is frequently seen in neonates. It usually presents with severe testicular pain. However, inguinal or lower abdominal pain may be the presenting concern, as in this patient. Most patients with acute torsion report vomiting unless the testicle is torsing and detorsing.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-054]
+Q: A 24-year-old G3P2 woman at 10 weeks gestation presents to the ED for evaluation of nausea, vomiting, and suprapubic abdominal pain. Her vital signs include an HR of 128 bpm, a BP of 98/70 mm Hg, an RR of 16/min, an SpO2 of 98% on room air, and a T of 38.9°C. She has dry mucous membranes and tenderness to palpation over the right costovertebral angle. An intravenous crystalloid bolus is started.
+A: Piperacillin-tazobactam
+EXPLANATION: Acute pyelonephritis is more common in pregnancy due to physiologic changes of the urinary tract, including smooth muscle relaxation, urethral dilation, and pressure on the urinary tract from an enlarging uterus. Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, and group B Streptococcus are among the most common microbial causes in women. Signs and symptoms include fever, nausea, vomiting, dysuria, hematuria, and flank pain. The diagnosis is made based on signs and symptoms, in addition to a urinalysis with bacteriuria, pyuria, positive urine leukocyte esterase, positive urine nitrites, or positive urine culture.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-055]
+Q: A 29-year-old woman presents to the ED with severe, sudden-onset flank pain. She reports no fevers or chills but reports nausea and two episodes of emesis today. She has no significant medical history other than a single-term pregnancy with a normal vaginal delivery.
+A: Ureterorenoscopy
+EXPLANATION: Obstructive uropathy refers to urinary tract obstruction leading to impaired urinary organ function. Urinary tract stones (or calculi) are a commonly encountered cause of urinary tract obstruction. The evaluation and management of urinary tract calculi in the emergency department rest on assessing kidney function, controlling pain, and estimating the probability of spontaneous stone passage. When dissolved, stone-forming salts in the urine become supersaturated, and calculi are formed. Calcium, oxalic acid, and uric acid are the most common solutes and, thus, the most common types of urinary stones. Calcium oxalate and calcium phosphate calculi make up about 80% of cases.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-056]
+Q: A 7-year-old boy presents to the emergency department with 2 days of dark urine, headache, and fatigue. On exam, he has periorbital and peripheral edema. His vital signs are significant for a blood pressure of 130/83 mm Hg. His parents report a honey-crusted rash around the child’s face that resolved spontaneously 1 month ago. A urinalysis shows proteinuria and hematuria.
+A: Type III hypersensitivity
+EXPLANATION: This patient most likely has poststreptococcal glomerulonephritis, a type III hypersensitivity in which IgM-containing immune complexes deposit in membranes, fix complement, and cause tissue damage. Other examples of type III hypersensitivities include serum sickness, systemic lupus erythematosus, Arthus reaction, polyarteritis nodosa, and hypersensitivity pneumonitis. Poststreptococcal glomerulonephritis is most often caused by prior group A beta-hemolytic streptococcal pharyngeal or skin infection. This patient’s glomerulonephritis was most likely triggered by impetigo, which presents as a “honey-crusted” skin rash.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-057]
+Q: What organism is the most frequent cause of hemolytic uremic syndrome in children?
+A: Shiga toxin-producing Escherichia coli
+EXPLANATION: Hemolytic uremic syndrome is a microangiopathic hemolytic anemia that is one of the most common causes of acute kidney insufficiency in children. The triad, which only occurs in approximately 10% of patients, includes hemolytic anemia, thrombocytopenia, and acute kidney insufficiency that can progress to kidney failure. It generally occurs in children < 5 years. The most common cause is Shiga toxin-producing Escherichia coli, specifically serotype O157:H7. Other infectious causes include Streptococcus pneumoniae, Aeromonas, and human immunodeficiency virus. Treatment is supportive with normal saline and early dialysis as needed.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-058]
+Q: A 45-year-old premenopausal woman presents to the ED with diffuse weakness and shortness of breath. She has a medical history of type 2 diabetes mellitus and chronic kidney disease. She is currently taking glipizide and over-the-counter medications to manage a recent flare of her osteoarthritis. Her ECG is seen above. A fingerstick blood glucose is 284 mg/dL.
+A: Calcium gluconate
+EXPLANATION: This patient is presenting with signs of hyperkalemia on ECG (peaked T waves and a wide QRS) with a history of diabetes and recent over-the-counter treatment of osteoarthritis (likely with NSAIDs), suggesting a diagnosis of acute on chronic kidney disease. Possible etiologies of kidney injury include diabetes, hypertension, vascular disease, toxins, and congenital abnormalities of the urinary system. Acute kidney injury can be diagnosed with rapid changes in kidney function including an increase in serum creatinine by ≥ 0.3 mg/dL within 48 hours, an increase in serum creatinine to ≥ 1.5 times baseline within the prior 7 days, or urine output < 0.5 mL/kg/hour for at least 6 hours.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-059]
+Q: A 25-year-old man presents to the ED with acute onset of left flank pain that began 2 hours ago. He reports hematuria, difficulty urinating, and radiation of pain into his left lower quadrant. Vital signs include a BP of 124/76 mm Hg, HR of 102 bpm, RR of 16/min, and T of 37.1℃. On examination, he has left costovertebral angle tenderness and left lower quadrant tenderness.
+A: Discharge with outpatient urology follow-up, pain control therapy, tamsulosin, and ciprofloxacin
+EXPLANATION: This patient is presenting with pain from a ureteral stone. The lifetime risk for developing a ureteral or kidney stone is 10–15%, so it is relatively common. Obesity and diabetes are strongly associated with kidney stones. Emergency medicine management is directed at making a diagnosis, relieving pain, assessing kidney function, treating infection, and determining the likelihood of spontaneous stone passage. The classic presentation of nephrolithiasis is the acute onset of cramping flank pain that radiates toward the groin and can be accompanied by nausea and vomiting. Hematuria is present in most patients. Workup includes evaluating kidney function and assessing for signs of infection.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-060]
+Q: Which of the following best describes the genital findings in primary syphilis?
+A: Single 1–2 cm painless ulcer with a raised border
+EXPLANATION: Syphilis is a sexually acquired infection caused by the spirochete Treponema pallidum. The characteristic lesion of primary syphilis, the chancre, appears after an incubation period of 10–90 days. It is described as a single papule that develops into a 1–2 cm painless ulceration with a raised border and a clean base. It appears at the site of inoculation which is typically on the genitalia or the mucous membranes of the mouth. It lasts about 3–12 weeks and then resolves spontaneously. It may become painful if there is a superimposed bacterial infection.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-061]
+Q: A 40-year-old man presents to the emergency department with 2 days of severe scrotal pain and redness. He reports no trauma. He says the pain was initially colicky but now has become more constant and severe. He reports a subjective fever and mild dysuria, and he is sexually active. Vital signs show HR 116 bpm, BP 114/68 mm Hg, RR 16/min, and T 37.9℃.
+A: Begin antibiotic treatment with intravenous piperacillin-tazobactam and vancomycin and consult urology for surgical debridement
+EXPLANATION: This patient is presenting with scrotal pain, swelling, and redness and has a physical examination that is concerning for necrotizing fasciitis or Fournier gangrene. Necrotizing fasciitis of the perineum and scrotum usually begins as a benign infection or simple abscess that quickly becomes virulent. Those with diabetes and immunocompromised patients are particularly at risk. It is usually a mixed aerobic and anaerobic infection that presents with edema, redness, blisters, and crepitus and is frequently associated with fever, tachycardia, and hypotension.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-062]
+Q: A 61-year-old woman presents to the ED with abdominal pain. She has a history of end-stage kidney disease, for which she undergoes peritoneal dialysis at home nightly. Vital signs are within normal limits. A peritoneal fluid sample appears cloudy, and analysis shows a WBC count of 160/µL with 75% neutrophils.
+A: Intraperitoneal vancomycin and cefepime
+EXPLANATION: Peritonitis is the most common complication of peritoneal dialysis (PD) and is associated with increased rates of catheter loss and the need for transition to hemodialysis. Most cases occur via bacterial inoculation through the catheter or from an infection at the exit site, but secondary bacterial peritonitis due to a concomitant intra-abdominal infection can occur. In contrast to spontaneous bacterial peritonitis, in which most cases are caused by enteric, gram-negative organisms, PD-associated peritonitis is most commonly caused by gram-positive organisms that are normal skin flora (e.g., Staphylococcus aureus, Staphylococcus epidermidis).
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-063]
+Q: A 37-year-old man presents with a painful penile erection for 5 hours. He has no medical history. Which of the following is the appropriate management?
+A: Intracavernosal phenylephrine
+EXPLANATION: Priapism is a prolonged erection of the penis due to engorgement of the dorsal corpora cavernosa. Priapism is either low flow or high flow. In low flow priapism, venous outflow is impaired, causing painful engorgement. This occurs in patients with sickle cell disease, malignancy (leukemia, lymphoma, bladder or prostate cancer), or as a result of medication side effects. High flow priapism is rare, usually painless, and caused by arterial injury or an arteriovenous fistula, or secondary to spinal cord injuries. Patients with low flow priapism require hydration, analgesia, and treatment aimed at improving venous outflow.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-064]
+Q: A 58-year-old woman presents to the ED by ambulance for lethargy. EMS personnel report that she was nearing the end of a scheduled dialysis session when she gradually became less responsive. She had missed her previous three dialysis sessions. Her medical history includes end-stage kidney disease due to type 2 diabetes mellitus. Vital signs are within normal limits.
+A: Administer 5 mL of 23% sodium chloride
+EXPLANATION: Hemodialysis is associated with many complications, and these may occur acutely during or shortly after completing sessions. While hypotension due to fluid removal is the most common, dialysis disequilibrium syndrome (DDS) is a serious complication that can progress from mild symptoms (such as nausea, vomiting, and hypertension) to severe neurologic complications (such as seizure, coma, and even death). Dialysis disequilibrium occurs when there are large solute shifts during hemodialysis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-065]
+Q: An 18-year-old patient presents with dysuria, hematuria, fever, and flank pain. Physical examination reveals a well-appearing woman with moderate costovertebral angle tenderness. Urinalysis is positive for leukocyte esterase, nitrites, and 25–50 WBC/hpf. What treatment is indicated?
+A: Oral ciprofloxacin
+EXPLANATION: This patient presents with acute, uncomplicated pyelonephritis, which can be treated as an outpatient with oral ciprofloxacin. UTI is a common condition affecting all age groups and is more common in female than male patients. Patients with an upper UTI or pyelonephritis often present with fever, malaise, nausea, vomiting, and back and flank pain in addition to the dysuria, frequency, and hematuria seen in lower UTI. Urinalysis in UTI typically shows leukocyte esterase and nitrites. Microscopy will show at least 10 WBC/hpf. Escherichia coli is the most common bacterium causing UTI, particularly in outpatients.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-066]
+Q: A 67-year-old woman with no significant medical history presents with nausea, vomiting, and diarrhea for 3 days. Vital signs are a T of 98°F (36.7°C), BP of 95/70 mm Hg, HR of 110 bpm, RR of 16/min, and SpO2 of 98% on room air. Her mucous membranes are dry, but the remainder of her exam is within normal limits.
+A: Urine sodium of 10 mEq/L
+EXPLANATION: This patient presents with a newly elevated creatinine consistent with acute kidney injury (AKI). The etiology of AKI can be divided into three main categories: prerenal (decreased renal blood flow), intrarenal (renal parenchymal injury), and postrenal (urinary obstruction). History, physical exam, and laboratory data are used to determine the most likely cause. This patient has gastrointestinal losses, and she is hypotensive and tachycardic and appears dry, all of which suggest volume depletion and likely prerenal AKI.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-067]
+Q: A 69-year-old man presents to the ED with acute onset lower abdominal pain and decreased urine output. He reports no fever, emesis, constipation, or bloody stool. His surgical history includes bilateral vasectomies and a right inguinal hernia repair, both in 1998. He takes hydrochlorothiazide, simvastatin, glyburide, and topical minoxidil. His vital signs are within normal limits for his age.
+A: Obstructive
+EXPLANATION: The most common cause of acute urinary retention in men is benign prostatic hyperplasia. As the more central prostatic tissues undergo hyperplastic changes with time and age, this creates bladder outlet obstruction. Patients may present with an inability to void or may report lower abdominal pain or distension. They may describe antecedent symptoms of urinary urgency, frequency, dribbling, incontinence, straining, or decreased force or caliber of the urinary stream. A digital rectal exam may reveal an enlarged, firm prostate.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-068]
+Q: Which of the following is the most sensitive imaging modality in a child with classic symptoms of nephrolithiasis who presents to a tertiary pediatric care center in an urban setting?
+A: Computed tomography
+EXPLANATION: Children with nephrolithiasis usually present with severe flank or abdominal pain and will typically have gross or microscopic hematuria. The younger the patient, the more likely they are to have an atypical presentation such as a urinary tract infection or an incidental finding of urinary calculi. Patients with cystic fibrosis are at especially high risk of developing nephrolithiasis. The most common metabolic abnormality that causes nephrolithiasis is excessive urinary calcium excretion. As such, the large majority of urinary calculi are radiopaque, and most have some amount of calcification.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-069]
+Q: A 12-year-old boy presents with testicular pain and nausea. Which of the following physical exam findings is most consistent with testicular torsion?
+A: Transverse lie of the testicle
+EXPLANATION: Testicular torsion is a urologic emergency and is the result of abnormal fixation of the testis within the tunica vaginalis which allows the testis to twist. It can occur at any age although the peak incidence is at age 13 years. Testicular salvage is time-dependent with excellent salvage rates if symptoms are present for < 6 hours. Patients present with acute onset of scrotal pain, lower abdominal pain, and nausea and vomiting. On examination, the testicle is tender and firm with a higher, transverse lie when compared to the contralateral testicle. There may be induration, edema, and erythema of the hemiscrotum.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-070]
+Q: A 56-year-old woman with a history of hypertension presents to the emergency department with back pain. She reports having intermittent back pain for months, usually relieved with ibuprofen. Today, she is concerned because the pain is more severe and she has hematuria. On examination, she does not appear in acute distress.
+A: Magnetic resonance angiography of the head
+EXPLANATION: This patient’s evaluation is concerning for polycystic kidney disease, an autosomal dominant disorder characterized by cysts in the kidneys that eventually lead to chronic kidney insufficiency and hypertension, at the very least. This condition is the underlying cause of kidney failure in 5% of dialysis patients. Due to its genetic factors, polycystic kidney disease is more often diagnosed after screening individuals with a known family history of the illness. However, sometimes the family history is unknown or new mutations develop later in life. Patients are at risk for a variety of extrarenal manifestations.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-071]
+Q: A 68-year-old man with chronic kidney disease is sent to the ED following hemodialysis due to bleeding from the dialysis puncture site of his arteriovenous fistula. An emergency clinician applies local pressure for several minutes, and the bleeding stops. The patient then notices that the thrill over the puncture site is gone. Which of the following is the best next step in management?
+A: Vascular surgery consultation
+EXPLANATION: When applying local pressure to a bleeding puncture site, care must be taken to not occlude the arteriovenous fistula because this can cause thrombosis. For this reason, it is important to check for and document the presence of a thrill after applying pressure. In the event that a suspected thrombotic event has occurred, it is pertinent to consult a vascular surgeon immediately because definitive treatment often involves surgical revision. The access device should not be irrigated (A) or manipulated (B) because this may cause venous embolization or vessel rupture.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-072]
+Q: An 4-year-old boy presents to the emergency department via EMS with exertional shortness of breath. He has no significant medical problems and is fully vaccinated. His parent states that over the last 4 days, he has not been able to perform his typical daily activities without becoming short of breath.
+A: Volume expansion with aggressive fluid resuscitation
+EXPLANATION: Hemolytic uremic syndrome (HUS) is a multisystem disorder resulting in acute kidney injury (AKI), thrombocytopenia, and microangiopathic hemolytic anemia. It typically occurs in children 80 mg/dL, symptomatic uremia, severe fluid overload, or electrolyte abnormalities such as hyperkalemia are indications for hemodialysis. Plasmapheresis (C) is the treatment of choice for patients with thrombotic thrombocytopenic purpura (TTP). Although TTP can have a similar presentation to HUS, TTP often occurs in adults and has neurologic dysfunction with fever. Plasmapheresis can also be used in HUS, but fluid expansion is the mainstay of treatment.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-073]
+Q: A parent brings her 1-year-old uncircumcised boy to the emergency department after realizing while bathing the child that his foreskin was not retractile. He has no fever and is still having copious wet diapers. Examination reveals a normal, intact foreskin overriding the glans, and urine can be seen coming out of the meatus. Which of the following is the most appropriate next step?
+A: Reassurance and discharge
+EXPLANATION: This patient’s presentation is consistent with physiologic phimosis. Phimosis is the inability to retract the foreskin proximal to the glans. It is important to differentiate phimosis from paraphimosis (inability to reduce the foreskin back over the glans), as paraphimosis is a medical emergency that can lead to necrosis of the glans due to the obstruction of venous flow. Phimosis is due to adhesions between the prepuce and glans, which lyse over time, leading to the ability to retract the foreskin.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-074]
+Q: A 3-year-old boy presents with his parents for lethargy, fever, cough, and facial swelling. His parents state his symptoms started 3 days ago with a fever and cough which have continued to worsen. He has also been more tired than usual. Today, his parents noticed that he appears more pale than usual with some increased swelling around his eyes.
+A: Streptococcus pneumoniae
+EXPLANATION: Hemolytic uremic syndrome (HUS) is defined as the simultaneous occurrence of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury (AKI). It remains one of the most common causes of acute kidney injury in children under the age of 3 years. HUS was previously classified as diarrheal-positive versus diarrheal-negative, but this classification has recently been changed to hereditary versus acquired. Acquired cases make up the majority, with Shiga toxin-producing Escherichia coli representing the most common cause of HUS. However, neuraminidase-producing Streptococcus pneumoniae can also cause HUS, usually concurrently with pneumonia with or without empyema.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-075]
+Q: A 45-year-old man is found to have a thrombus of his inferior vena cava. Which of the following may be discovered on further evaluation?
+A: Right scrotal “bag of worms” mass
+EXPLANATION: A varicocele is a collection of dilated spermatic veins of the pampiniform plexus surrounding the spermatic cord in the scrotum. It is classically described as a “bag of worms” in feel and appearance. Like other varicose veins in the body, varicoceles are caused by incomplete drainage due to high downstream venous pressures with retrograde flow from incompetent venous valve leaflets. They much more commonly occur on the left side due to the length of the left spermatic vein and the perpendicular angle in which it enters the renal vein.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-076]
+Q: A 33-year-old woman with a history of frequent urinary tract infections presents to the ED with right flank pain and dysuria that started acutely today. The pain is associated with a low-grade fever, nausea, and vomiting. Urinalysis is positive for leukocyte esterase and nitrites. Microscopic examination reveals 26 WBC/hpf and 2+ bacteria.
+A: Magnesium, ammonium, and phosphate
+EXPLANATION: Urologic stone formation is the result of the supersaturation of dissolved salts in the urine, which then condense into a solid. Struvite (magnesium-ammonium-phosphate) stones account for about 10–15% of all stones. They occur almost exclusively in patients with urinary tract infections caused by urea-splitting bacteria such as Proteus, Klebsiella, Providencia, Pseudomonas, and Staphylococcus species. They are also the most common cause of staghorn calculi (large stones that cause a cast of the renal pelvis). Treatment of staghorn calculi is difficult as antibiotic penetration of the stone is poor and the risk for urosepsis exists as long as the stone remains.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-077]
+Q: What is the most common presenting sign or symptom of pediatric nephroblastoma?
+A: Painless abdominal mass
+EXPLANATION: Wilms tumor, or nephroblastoma, is the most common childhood abdominal malignancy. The median age at diagnosis of Wilms tumor is approximately 3.5 years. The most common presenting sign is a painless abdominal mass, which is seen in 80% of children at presentation. Other signs and symptoms include abdominal pain, hematuria, urinary tract infection, hypertension, fever, anemia, and respiratory symptoms in patients with lung metastases. Laboratory testing should be performed to evaluate renal function and electrolyte status. A CBC should also be performed to evaluate for significant anemia. The initial imaging study of choice is renal ultrasound.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-078]
+Q: A 50-year-old man presents to the emergency department with testicular pain. He states his symptoms started yesterday and have progressively worsened. He reports no new sexual activity. On physical exam, his right testicle and epididymis are edematous and tender to palpation. Which of the following is the most appropriate therapy?
+A: Levofloxacin
+EXPLANATION: Levofloxacin is recommended for the treatment of acute epididymo-orchitis in nonsexually active patients who are low-risk for sexually transmitted infections. Acute epididymo-orchitis is one of the most common causes of scrotal pain in male patients. It is characterized by testicular pain, swelling, and tenderness. In rare cases, patients may present with fever, rigors, and lower urinary tract symptoms, including increased frequency, urgency, and dysuria. Epididymo-orchitis is commonly caused by bacterial infections but can occur secondary to trauma or autoimmune diseases. The most common infectious etiologies vary by age and risk factors.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-079]
+Q: A 34-year-old man with a history of obesity and diabetes presents to the ED with a swollen penis and inability to retract the foreskin. He reports no pain and is still able to urinate normally. Examination shows uncircumcised male genitalia with a swollen foreskin that will not retract past the tip of the penis.
+A: Discharge with outpatient referral to urology
+EXPLANATION: This patient is presenting with phimosis, a condition of the uncircumcised penis in which constriction of the foreskin prevents retraction of the prepuce from the glans. It can result in pain, hematuria, urinary outlet obstruction, and sometimes glans ischemia, depending on the severity of swelling. Phimosis may result from trauma, infections, chemical irritation, poor hygiene, and congenital abnormalities. Most cases do not require intervention. Patients who are able to urinate and have no evidence of severe infection or ischemia can be discharged to follow up with urology for elective circumcision.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-080]
+Q: A 30-year-old sex worker presents to the ED with groin pain that started 1 week ago. On physical exam, he is noted to have large tender inguinal lymphadenopathy with purulent drainage. Which of the following is the most likely diagnosis?
+A: Lymphogranuloma venereum
+EXPLANATION: Lymphogranuloma venereum is a sexually transmitted infection caused by Chlamydia trachomatis L1, L2, and L3 serotypes. Patients typically present with enlarged inguinal lymph nodes several weeks after the development of a painless genital ulcer, which often goes unrecognized. The lymphadenitis associated with lymphogranuloma venereum is initially discrete but can progress to a suppurative periadenitis. Lymphogranuloma venereum is a rare sexually transmitted disease in the United States but is endemic around the world. Diagnosis is often difficult in the ED, but a lymph node culture or nucleic acid amplification test may be helpful.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-081]
+Q: A 65-year-old man presents with dysuria and urinary urgency. He has a history of hypertension, chronic kidney disease, and hyperlipidemia. He states over the past 6 months, he has had difficulty with urination and wakes up frequently to go to the bathroom. He relates there has been some associated back and perineal pain, and he has not had any penile discharge.
+A: Ciprofloxacin twice daily for 28 days
+EXPLANATION: Acute prostatitis is a bacterial infection resulting in inflammation of the prostate gland. Patients often report irritative or obstructive symptoms such as fevers, chills, dysuria, urinary urgency, low back pain, and perineal, suprapubic, or genital discomfort. Risk factors include anatomic or neurophysiologic lower urinary tract obstruction, acute epididymitis or urethritis, anal receptive intercourse, phimosis, and the use of an indwelling urethral catheter. Physical exam findings include perineal tenderness, rectal sphincter spasm, and prostatic tenderness or bogginess. The diagnosis is clinical because urinalysis and urine culture may both be negative.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-082]
+Q: A 6-year-old girl is brought to the emergency department by her parent for abdominal pain, vomiting, and diarrhea for 5 days. This morning, the patient’s parents noticed blood in her diarrhea. She spent the last week on vacation with her aunt and cousins and multiple family members have similar symptoms.
+A: Antibiotics
+EXPLANATION: Hemolytic-uremic syndrome (HUS) is a multi-system disorder that results in acute kidney injury or failure, thrombus formation leading to consumptive thrombocytopenia, and microangiopathic hemolytic anemia. In children, HUS is most commonly caused by infection with a Shiga-toxin producing strain of Escherichia coli (such as E. coli O157:H7). Other potential etiologies include Streptococcus pneumoniae infection, genetic disorders, medications, and malignancy. HUS associated with E. coli enteritis typically presents with nausea, vomiting, and inflammatory (bloody) diarrhea.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-083]
+Q: Which of the following is the most frequent complication to occur during hemodialysis?
+A: Hypotension
+EXPLANATION: Hypotension is the most frequent complication that occurs during hemodialysis, affecting patients during 50% of treatments. It is typically the result of a reduction in circulating intravascular volume and the patient’s inability to compensate for such changes by shifting fluid from the interstitial and intracellular compartments to the vascular spaces. Antihypertensive medications, especially beta-blockers, can contribute to the development of hypotension as well. The majority of cases of hypotension during dialysis are transient and resolve with simple measures such as decreasing the filtration rate or giving a small bolus of intravenous saline.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-084]
+Q: A 25-year-old man who is sexually active with other men presents to the ED with a painful right-sided inguinal lymph node. On examination, there is a tender, fluctuant lymph node both above and below the inguinal ligament, creating a groove between the enlarged nodes. He reports no fever, rectal pain, or discharge.
+A: Painless ulcer lasting 2 days
+EXPLANATION: Lymphogranuloma venereum (LGV) is a sexually transmitted infection caused by invasive serovars L1, L2, and L3 of Chlamydia trachomatis, a gram-negative intracellular bacterium. It is more common in tropical regions but has reemerged in high-income countries, particularly among men who have sexual intercourse with men, often with HIV co-infection. Transmission occurs through direct sexual contact with infected secretions. LGV progresses in three stages. The primary stage appears 3–21 days after exposure as a small, painless genital or rectal ulcer that heals spontaneously in 2–3 days and often goes unnoticed.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-085]
+Q: A 24-year-old man presents to the emergency department with an erection that has lasted for the past 6 hours and has not been improving. His vital signs are within normal limits, and physical exam is notable for an erect penis that the patient states is painful. Which of the following is the best initial treatment for this patient?
+A: Aspiration of the corpora cavernosa
+EXPLANATION: Priapism is defined as a persistent erection of the penis or clitoris that is not associated with sexual stimulation or desire. Priapism typically occurs in male individuals with an erection that lasts ≥ 4 hours and is commonly associated with sickle cell disease. The condition can be classified as ischemic and nonischemic, with ischemic priapism being a urologic emergency. The cause of priapism is related to smooth muscle relaxation of the cavernosal arteries, which leads to increased blood entry to the penis with decreased venous outflow. Ischemic priapism is when increased blood entry ultimately leads to a compartment syndrome with increased hypoxia and acidosis in the cavernous tissue.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-086]
+Q: A 17-year-old boy presents to the ED after noticing an enlarged mass on the left side of his scrotum. He has no pain and reports being asymptomatic, with no dysuria, frequency, urgency, penile discharge, or weight loss. He has not undergone any trauma to the area and is not sexually active. On exam, a firm, hard, nontender mass is palpated on the left side of the scrotum abutting a testis.
+A: Testicular tumor
+EXPLANATION: Testicular cancer primarily affects adolescents and young adult patients, with the highest incidence in those aged 15–35 years. Testicular tumors are the most common malignancy in teenage boys and young men. The vast majority (95%) are germ cell tumors (50% seminomas and 50% mixed types, including teratomas, choriocarcinomas, and yolk sac tumors), and a small number (5%) are sex cord-stromal tumors. Risk factors include a history of cryptorchidism, family history of testicular cancer, and certain genetic conditions. Clinically, it often presents as a painless unilateral testicular mass or swelling. Physical examination may reveal a firm, nontender mass palpated discretely from the testis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-087]
+Q: A 56-year-old man without any reported medical history and without a primary care clinician for over 20 years presents to the emergency department with 4 days of worsening pain and tenderness over the head of his penis and foreskin, as well as a thick, white discharge in the region of his pain. The patient has no fevers, dysuria, hematuria, urethral discharge, or difficulty urinating.
+A: Fingerstick glucose
+EXPLANATION: Inflammation of the glans of the penis, which is termed balanitis, affects up to 3% of uncircumcised men worldwide. This incidence increases when cases of balanoposthitis, or inflammation of both the glans and foreskin, are also included. In patients in which an etiology is clearly identified, the most common cause of both balanitis and balanoposthitis is candidal infection, with a predisposition for infection related to poor hygiene or overcleaning of the glans and foreskin.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-088]
+Q: A patient is being treated for an acute overdose. For which of the following toxins would hemodialysis be ineffective?
+A: Diltiazem
+EXPLANATION: Hemodialysis (HD), hemofiltration, and hemoperfusion are extracorporeal treatments sometimes used to augment the elimination of certain toxic substances from the circulatory system of patients. They are called extracorporeal because the actual toxin removal occurs within a filtration circuit outside the patient’s body. During HD, the patient’s blood passes through an extracorporeal circuit, within which toxic compounds diffuse across a semipermeable membrane into a dialysate. This can quickly correct electrolyte disturbances and metabolic acidosis associated with overdoses of certain medications.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-089]
+Q: A 56-year-old woman with a history of diabetes and hypertension presents to the emergency department with fever and left-sided flank pain that has progressively worsened over 5 days. Vital signs show heart rate 122 bpm, blood pressure 94/61 mm Hg, and temperature 39°C. On exam, she has left costovertebral angle and left upper quadrant abdominal tenderness.
+A: Begin empiric antibiotic therapy and intravenous fluid administration and consult interventional radiology for percutaneous drainage of the abscess
+EXPLANATION: Renal and perinephric abscesses can be a complication of a urinary tract infection with concomitant pyelonephritis or can occur from hematogenous seeding. A renal abscess is defined by lobar necrosis and infection, whereas a perinephric abscess is located between the renal capsule and Gerota fascia. Renal abscesses more commonly occur as a complication of pyelonephritis, particularly if patients have additional obstruction from a ureteral stone or vesicoureteral reflux. Perinephric abscesses more often occur through local or hematogenous spread. Hematogenous sources of infection often include staphylococcal endocarditis in patients who use intravenous drugs.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-090]
+Q: A 55-year-old man presents to the ED reporting 2 days of fevers, chills, dysuria, urinary frequency, and dribbling. His temperature is 102.2°F (39°C), blood pressure is 100/65 mm Hg, heart rate is 120 bpm, respiratory rate is 18/min, and oxygen saturation is 100% on room air. On physical exam, he exhibits mild suprapubic tenderness, no peritoneal signs, and a firm, exquisitely tender prostate.
+A: Admit the patient on levofloxacin 750 mg intravenously daily
+EXPLANATION: Acute prostatitis is a common condition most often seen in middle-aged male patients. The usual presenting symptoms are fevers, chills, dysuria, urinary frequency and urgency, pelvic and lower back pain, and cloudy urine. Prostate swelling can also lead to symptoms of urinary hesitancy and retention. On physical exam, a swollen and tender prostate is often noted, and tenderness of the prostate is not typically found in other causes of dysuria. Often, acute prostatitis occurs in the setting of urinary tract infections. However, prior surgical intervention or biopsy and bladder catheterization are also risk factors.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-091]
+Q: A 20-year-old man presents to the emergency department with dysuria. He is sexually active and does not use barrier contraception. On physical exam, there is mucopurulent discharge at the urethral meatus. Which of the following is the most appropriate therapy?
+A: Ceftriaxone and doxycycline
+EXPLANATION: Ceftriaxone and doxycycline is the recommended treatment for urethritis. A one-time dose of ceftriaxone 500 mg IM is given as well as doxycycline 100 mg twice a day for 7 days. Urethritis is commonly caused by an infection that leads to inflammation of the urethra. Infectious causes can be categorized into gonococcal urethritis and nongonococcal urethritis. The two most common causes of nongonococcal urethritis are Chlamydia trachomatis and Mycoplasma genitalium. The most common presenting symptom of urethritis is dysuria, but clinical manifestations can include penile discharge characterized as watery, purulent, or mucopurulent.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-092]
+Q: A 58-year-old man with a history of end-stage kidney disease presents to the ED via EMS with shortness of breath, fatigue, and malaise for several days that has worsened over the past 2 hours. He reports no other symptoms such as a fever, cough, or chest pain. He has a T of 37.3°C (99.14 °F), BP of 172/90 mm Hg, HR of 114 bpm, RR of 26/min, and SpO2 of 94% on a 10 L/min nonrebreather mask.
+A: Dialysis
+EXPLANATION: This patient has chronic kidney disease (CKD) and is presenting with acute pulmonary edema due to intravascular volume overload. Initial treatment focuses on stabilizing oxygenation and reducing cardiopulmonary stress, and several adjunctive therapies may be used to temporarily improve symptoms. Bilevel positive airway pressure improves oxygenation and decreases preload and afterload, while nitroglycerin provides rapid venodilation and symptomatic relief, particularly in patients with hypertension. Loop diuretics such as furosemide may be considered only in patients with preserved residual kidney function who continue to make urine, as their effectiveness is limited in advanced CKD.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-093]
+Q: A 33-year-old woman presents to the emergency department with hemoptysis. She has had these symptoms before. However, her symptoms are now worse, thus prompting her presentation. A review of systems is notable for fever, chills, and arthralgias.
+A: Goodpasture syndrome
+EXPLANATION: Goodpasture syndrome is an autoimmune condition that occurs when IgG is produced and targets type IV collagen, which is found in the basement membrane of the kidney and lung. This can cause both pulmonary and kidney symptoms. Patients may present initially with constitutional symptoms, hemoptysis, tachypnea, shortness of breath, hypertension, hematuria, and signs of impaired kidney function on laboratory testing. The treatment of Goodpasture syndrome is plasmapheresis, prednisone, and cyclophosphamide. Plasmapheresis removes the pathological antibodies, while prednisone and cyclophosphamide decrease the production of these antibodies.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-094]
+Q: A 21-year-old man presents to the emergency department for a penile lesion that has been present for 1 week. He is sexually active with multiple partners and is inconsistent with condom use. Examination reveals a painless 2 cm ulcerative lesion on his dorsal penis and painless inguinal lymphadenopathy. Which of the following is the appropriate treatment for this patient?
+A: Single dose of intramuscular penicillin
+EXPLANATION: This patient’s presentation is most consistent with a diagnosis of primary syphilis. This sexually transmitted disease is caused by Treponema pallidum, a spirochete organism that enters the affected individual via direct contact. At the site of primary contact, a painless chancre will present 2–3 weeks after initial contact. The chancre can present at any site of direct contact, including the penis, vagina, rectum, and mouth. Patients may also have painless regional lymphadenopathy. Diagnosis for primary syphilis is typically made clinically. Darkfield microscopy can be used to directly visualize the organism, but its sensitivity is not sufficient as a rule-out test.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-095]
+Q: A 21-year-old man presents to the emergency department for a penile lesion. He is sexually active and reports unprotected intercourse with multiple women over the last few months. He reports no fever, testicular pain, penile discharge, or extremity rash. On physical examination, he has a painless ulcerative lesion on the shaft of his penis with no inguinal adenopathy.
+A: Benzathine penicillin G
+EXPLANATION: Syphilis is a sexually transmitted infection caused by the spirochete Treponema pallidum and is characterized by painless, indurated genital ulcers with a clean base, referred to as a chancre. These are found on the penis, vulva, or other areas of sexual contact. Nontender, firm regional adenopathy may be present. Lesions typically appear after an incubation period of approximately 21 days. These chancres usually resolve spontaneously. Positive screening tests for syphilis such as the Venereal Disease Research Laboratory (VDRL) test or rapid plasma reagin (RPR) test should be confirmed with a treponemal antibody-specific immunoassay.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-096]
+Q: An 18-year-old woman presents to the ED with dark-colored urine and malaise for the past 3 days. She has been ill with an upper respiratory infection. Her vital signs are a BP of 155/85 mm Hg, HR of 80 bpm, RR of 16/min, and T of 36.7°C. On exam, you note 1+ pretibial edema. Urinalysis reveals proteinuria, hematuria, and red blood cell casts. Which of the following is the most likely diagnosis?
+A: Acute glomerulonephritis
+EXPLANATION: Patients with acute glomerulonephritis present with a spectrum of clinical signs and symptoms. The presence of hematuria, proteinuria, and red blood cell casts are highly suggestive of the diagnosis. The presence of red blood cell casts alone is highly specific for acute glomerulonephritis. Conversely, if hematuria, proteinuria, and red blood cell casts are absent, glomerulonephritis is highly unlikely. In addition to the urinary findings, patients may present with hypertension, edema, or congestive heart failure secondary to volume overload. Acute interstitial nephritis (B) is an intrinsic cause of acute kidney injury commonly caused by medications (e.g., antibiotics, NSAIDs) or infection.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-097]
+Q: A 3-year-old boy presents to the ED with irritation to his penis. He has been potty training, and today his parent noticed some redness of the skin at the tip of the penis and an inability to retract the foreskin. The child is happy, playful, and well-appearing. Vital signs are within normal limits.
+A: Give parents reassurance and provide good hygiene instructions
+EXPLANATION: This child presents with physiologic phimosis, a normal condition in uncircumcised boys in which the foreskin is nonretractable due to natural adhesions between the foreskin and glans. This is extremely common in young children, particularly under age 5, and is considered a normal developmental variant, not a pathological condition. Mild redness and swelling are likely due to irritation from potty training or hygiene practices, and the child is otherwise well-appearing, afebrile, and playful, indicating no infection or urinary obstruction. In such cases, the best treatment is parental reassurance and guidance on appropriate hygiene.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-098]
+Q: A 25-year-old man presents with right-sided testicular pain, swelling, and dysuria. He reports that he has had unprotected sexual intercourse with multiple female partners. On physical exam, he has tenderness and swelling of the posterior testicle, which has a normal lie within the scrotum, and a positive cremasteric reflex.
+A: Chlamydia trachomatis and Neisseria gonorrhoeae
+EXPLANATION: Acute epididymitis presents with unilateral testicular pain localized over the epididymis, which is located posteriorly. Often, associated symptoms such as dysuria, urinary frequency, and penile discharge may also be present. It is important to distinguish it from testicular torsion, which is a much more serious diagnosis characterized by the sudden onset of severe pain, global testicular swelling, an abnormal testicular lie on exam, and often constitutional symptoms such as vomiting. Diagnosis can often be made based on physical exam, but if performed, a testicular ultrasound will show an enlarged epididymis with increased blood flow.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-099]
+Q: A patient presents with small-volume bleeding from an arteriovenous fistula used for dialysis. Which of the following is the most appropriate first step in managing the bleeding?
+A: Hold direct pressure with a finger for 5–10 minutes
+EXPLANATION: Hemodialysis depends upon reliable vascular access, but the devices used to achieve this access are associated with a variety of complications, some of which are life-threatening. The most common complications are inadequate flow, infections, and bleeding. Bleeding from the site of an arteriovenous fistula (AVF) may occur during dialysis or several hours after and can originate from aneurysms, rupture of anastomoses, or supratherapeutic anticoagulation. Massive, life-threatening hemorrhage is rare but serious and can be very difficult to control. The first step in the management of a bleeding AVF is to hold firm pressure over the bleeding site with a finger for 5–10 minutes.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-100]
+Q: Which of the following clinical presentations would be most concerning for underlying bladder cancer?
+A: A 72-year-old man with painless, gross hematuria and a history of prior pelvic irradiation for prostate cancer
+EXPLANATION: While malignancies can originate from any part of the urinary tract, the urinary bladder is the most common site. In the United States, urothelial cell carcinoma accounts for 90% of cases of bladder cancer, which totals nearly 83,000 cases and 17,000 deaths annually. The majority occur in patients > 65 years, and the incidence is four times higher in men. The most important environmental risk factor is cigarette smoking, though other implicated factors include exposure to arsenic, chlorine, opium, and various other chemicals, including those contained in hair dye, paints, diesel exhaust, and certain plastics and cements.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-101]
+Q: A 59-year-old man presents with 2 days of dysuria, frequency, lower abdominal pain, and chills. He has been eating and drinking normally and is able to urinate, though he has general malaise. He reports no penile discharge, testicular pain, sexual activity, a history of sexually transmitted infections, prior urinary symptoms, or weight loss. The patient’s abdomen is soft and nontender.
+A: Escherichia coli
+EXPLANATION: This is a patient with acute bacterial prostatitis, as evidenced by the development of acute urinary symptoms (e.g., dysuria), malaise, chills, and a boggy, tender prostate. Most of the causative organisms are the same as those that cause urinary tract infections, and Escherichia coli is responsible for > 80% of cases. The treatment for acute bacterial prostatitis involves appropriate antibiotic therapy. A fluoroquinolone or trimethoprim-sulfamethoxazole administered orally for 4–6 weeks is appropriate for most individuals with infection due to E. coli. In patients with a suspected STI, intramuscular ceftriaxone and a course of oral doxycycline should be provided.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-102]
+Q: A 52-year-old man presents with flank pain and hematuria. Which of the following ultrasound findings would be most indicative of renal cell carcinoma?
+A: Single 4 cm thick-walled mass with calcified septations in the right renal cortex
+EXPLANATION: Renal cell carcinoma is overwhelmingly the most common primary malignancy of the kidney, accounting for approximately 85% of renal-derived neoplasms. Symptoms at presentation vary widely, depending on the extent of disease, and can include hematuria, cachexia, flank pain at the site of the tumor, and paraneoplastic findings related to kidney dysfunction and disseminated disease, such as anemia and hypercalcemia. Severity of findings on presentation correlates with the extent of disease, evidenced by 25% of patients having metastatic or late-stage local disease once they are symptomatic.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-103]
+Q: Which of the following is a cause of high flow priapism?
+A: Arteriovenous fistula
+EXPLANATION: Priapism is defined as a prolonged sustained erection of the penis. Pathologic engorgement of the corpora cavernosa occurs either by occlusion of the corpora cavernosa, known as low flow or ischemic priapism (most common form) or by uncontrolled arterial inflow, known as high flow or nonischemic priapism. Causes of low flow priapism include medications (e.g., sildenafil, intracavernosal injection of papaverine or prostaglandin E1), sickle cell disease, and malignancy. Patients present with a painful, sustained erection. This is a urologic emergency as irreversible damage can occur in ≤ 24 hours.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-104]
+Q: What is the most common cause of acute interstitial nephritis?
+A: Hypersensitivity drug reaction
+EXPLANATION: Acute interstitial nephritis is a disorder that affects the tubules or interstitium of the kidney, but spares the glomeruli. The result is a decline in creatinine clearance, and the disorder is manifested by signs and symptoms of acute kidney injury. The majority of cases are due to a hypersensitivity drug reaction. Antibiotics (e.g., penicillins, cephalosporins, ciprofloxacin, and rifampin) are responsible for the majority of these cases, while nonsteroidal anti-inflammatory drugs, diuretics, and cimetidine have also been implicated. The development of nephritis is not due to direct drug toxicity, is not dose dependent, and can recur with reintroduction of the same medication.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-105]
+Q: A 4-year-old boy presents to the emergency department for evaluation of edema. His parent notes that his face started looking puffy 5 days ago, and now his legs also seem swollen. He has had mild shortness of breath when he runs but has otherwise been feeling well.
+A: Hyperlipidemia
+EXPLANATION: Nephrotic syndrome results from the permeability of the glomerular capillary wall that allows for urinary loss of protein. Primary nephrotic syndrome (representing the vast majority of cases) primarily affects young children ( 3.5 g per day or 3+ to 4+ on urine dipstick, is the hallmark of the disease. Urinalysis may show microscopic hematuria; kidney failure is uncommon. Other laboratory findings include hyponatremia, hypoalbuminemia, and hyperlipidemia. Patients presumed to have primary nephrotic syndrome are treated with corticosteroids in consultation with a pediatric nephrologist. Patients with primary nephrotic syndrome have normal complement levels (A).
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-106]
+Q: What test is used to differentiate low-flow priapism from high-flow priapism?
+A: Cavernosal blood gas
+EXPLANATION: There are three main types of priapism: ischemic (low flow), nonischemic (high flow), and recurrent ischemic. Ischemic priapism results from trapping of mixed venous blood within the corpus cavernosum. Nonischemic priapism is caused by unregulated arterial flow into the cavernosal sinusoids. Ischemic priapism is a true urologic emergency, whereas nonischemic priapism is less urgent and can be further evaluated in a urology clinic. The two types can be differentiated by blood gas analysis of cavernosal blood. Ischemic cavernosal blood is dark, hypoxemic, and acidemic. Nonischemic cavernosal blood would be more consistent with an arterial blood gas with a normal pH and PO2 > 90 mm Hg.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-107]
+Q: A 3-year-old boy presents with a painful swelling in his groin area. The mass has been there previously and often goes away on its own, but this time it is more painful than usual. The patient’s vital signs are within normal limits, and physical exam is notable for a nontender, soft mass in the inguinal region without overlying erythema.
+A: Manual reduction
+EXPLANATION: Inguinal hernias present with a mass in the groin area. Hernias can be divided into reducible, incarcerated, or strangulated, which changes management. An inguinal hernia can present with a mass in the groin area that may come and go. A reducible hernia is one that is not associated with peritoneal signs, fever, intestinal obstruction, erythema, or an ill-appearing patient and can be easily reduced with manual pressure. An incarcerated hernia presents similarly but manual reduction is unsuccessful. Surgical consultation is required for reduction in the operating room.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-108]
+Q: A 75-year-old man presents with lower abdominal pain and difficulty with urination. He has a history of hypertension, hyperlipidemia, and diabetes. He states his symptoms have been progressively worsening over the course of months, but after using over-the-counter medication for his upper respiratory infection, he has noticed a significant increase in difficulty with urination and now lower abdomi …
+A: Benign prostatic hyperplasia
+EXPLANATION: Benign prostatic hyperplasia (BPH) is a common disorder that increases with age with about 50% of men at the age of 50 and 80% at the age of 80 having lower urinary tract symptoms attributed to BPH. The patient above has acute urinary retention, which is the inability to voluntarily pass urine and is the most common urological emergency in men. Obstruction is the most common cause of acute urinary retention, with the most common cause being related to BPH, especially when BPH is left untreated. Men who are untreated have a 2.5% risk of developing acute urinary retention each year. Medications are also a known risk, especially in patients who have near obstruction secondary to BPH.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-109]
+Q: A 4-year-old girl presents to the ED with her parent for abdominal pain and diarrhea for 1 week and bloody stool for the last 3 days. The parent reports that she has only urinated once in the past 24 hours. Vital signs are within normal limits. Physical examination shows dry oral mucosa with a delayed capillary refill time. Her neurologic exam is appropriate for her age.
+A: IV normal saline bolus
+EXPLANATION: The classic triad of hemolytic uremic syndrome (HUS) is acute kidney injury, thrombocytopenia, and microangiopathic hemolytic anemia (as evidenced by schistocytes on the peripheral smear). In the setting of acute bloody diarrhea, these findings are highly suspicious for HUS secondary to Shiga toxin-producing Escherichia coli (STEC). HUS is classified as either diarrhea positive (typical) or diarrhea negative (atypical), and 90% of cases are typical, resulting from Shigella, STEC (including Escherichia coli O157:H7), or Streptococcus pneumoniae. The remaining 10% are atypical and result from hereditary complement-mediated disease, malignancies, medications, or pregnancy.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-110]
+Q: A patient presents with a painless lump in his left testicle. Which of the following in this patient’s medical history represents the highest risk for testicular cancer?
+A: Undescended testicle
+EXPLANATION: Cryptorchidism, or undescended testicle, is the most commonly identified risk for germ cell neoplasm after inborn genetic error. Germ cell tumors make up the overwhelming majority of testicular cancers. Since most testicular cancers occur in young men, it is believed the largest predisposition to testicular cancer is the result of in utero changes. Those with abdominal cryptorchidism should have prophylactic orchiectomy because of the significantly higher risk for cancer formation.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-111]
+Q: Which of the following is a common finding in patients with polycystic kidney disease?
+A: Hypertension
+EXPLANATION: Polycystic kidney disease is an autosomal dominant disorder that results in progressive cyst formation of the kidneys and accounts for up to 10% of all cases of end-stage kidney disease in the United States and Europe. Other anomalies associated with the disease include pancreatic and hepatic cysts, cardiac valve abnormalities, and cerebral aneurysms. Common presenting concerns include hematuria and flank pain due to hemorrhage into the cysts, infection, or nephrolithiasis. The majority of patients with polycystic kidney disease over age 40 have hypertension and it is nearly universal in patients with advanced disease and evidence of kidney insufficiency.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-112]
+Q: A 4-year-old boy presents to the ED with a painless abdominal mass. On physical exam, you palpate a unilateral left-sided abdominal mass inferior to the spleen. The initial urinalysis is negative for significant urine catecholamines. What is the most common cause of this presentation in children?
+A: Wilms tumor
+EXPLANATION: Wilms tumor, or nephroblastoma, is one of the most common childhood abdominal malignancies. With current multimodality therapy, approximately 80–90% of children with a diagnosis of Wilms tumor survive. The most common presenting sign is a painless abdominal mass, which is seen in ~80% of children at presentation. Other signs and symptoms include abdominal pain, hematuria, urinary tract infection, hypertension, fever, anemia, and respiratory symptoms in patients with lung metastases. Laboratory testing should be performed to evaluate kidney function and electrolyte status. A CBC should also be done to evaluate for significant anemia. The initial imaging study of choice is kidney ultrasound.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-113]
+Q: An 18-year-old man presents with testicular pain for 3 hours. He reports no trauma. The pain is constant, sharp, and severe and is accompanied by nausea and vomiting. His vital signs are a BP of 118/76 mm Hg, HR of 110 bpm, SpO2 of 99%, and T of 98.7°F. On examination, there is no swelling but the left testicle is extremely tender to palpation. The cremasteric reflex is absent.
+A: Immediate urology consultation followed by scrotal ultrasound
+EXPLANATION: This patient has signs and symptoms concerning for testicular torsion, one of the few true urologic emergencies. Testicular torsion results from an extravaginal or intravaginal defect leading to twisting of the spermatic cord and resultant ischemia of the testicle. Although most torsion occurs in the absence of trauma, motor vehicle collisions and straddle injuries have been associated with this disorder. Initially, twisting causes decreased venous return, but eventually, arterial obstruction occurs. The physical exam often reveals a tender swollen testicle with a transverse lie that may be higher than the unaffected testicle due to shortening of the spermatic cord with twisting.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-114]
+Q: Which organism is the primary cause of epididymitis in patients < 35 years of age?
+A: Chlamydia trachomatis
+EXPLANATION: In adolescents and adults < 35 years, Chlamydia trachomatis (along with Neisseria gonorrhoeae) is the primary cause of epididymitis. Chlamydia can spread from the urethra to the epididymis, causing epididymitis in patients with a sexually transmitted infection. In contrast, in older patients, particularly those who are not sexually active, complicated urinary tract infection with uropathogens is a more common cause, especially in those with prostate disorders. Signs and symptoms include testicular pain, scrotal erythema, and swelling that is typically unilateral.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-115]
+Q: A 3-year-old girl was seen 2 days prior by your colleague for dysuria and urinary retention. Urinary catheterization was performed, and a urinalysis and culture were sent. The procedure led to relief of symptoms. The urinalysis was entirely normal, and the patient was discharged without antibiotics. You now see the urine culture is growing > 100,000 CFUs/mL of Enterococcus faecalis.
+A: Amoxicillin
+EXPLANATION: Clinical features of lower urinary tract infections vary greatly by age. The most common presentations of a urinary tract infection in infants and young children are a febrile illness without an obvious source, and in verbal and older children concerns of urinary frequency, hesitancy, urgency, and dysuria. Urinary retention in young children can occur when the patient is holding the urine in, either due to pain from a urinary tract infection or if there is an obstruction of the urinary outflow tract, which in this age group can be seen with constipation, a fairly common condition in early childhood.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-116]
+Q: A 45-year-old woman presents to the emergency department for severe left flank pain and vomiting. A noncontrast CT demonstrates an 8 mm obstructing urinary calculus with hydronephrosis. The findings on her urinalysis are notable for 23 RBCs/hpf. Laboratory results are notable for a WBC count of 12,400/µL, potassium of 3.5 mEq/L, chloride of 90 mEq/L, and creatinine of 2.6 mg/dL.
+A: Consult urology and admit to the hospital
+EXPLANATION: Many patients with urinary calculi can be treated with supportive care on an outpatient basis, depending on the size and location of the stones and the presence of complications. Up to 90% of stones ≤ 5 mm can be expected to pass spontaneously, whereas those ≥ 10 mm are unlikely to pass without intervention. Patients with stones between 5 and 10 mm can receive tamsulosin to facilitate their passage. Patients whose stones are > 5 mm or who do not pass the stone within 4 weeks should follow up with a urologist on an outpatient basis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-117]
+Q: A 7-year-old girl presents to the emergency department with generalized weakness and fatigue. The patient is generally healthy and recently recovered from a self-limited bout of abdominal pain, vomiting, and diarrhea 1 week ago. She has a heart rate of 115 bpm, and her physical exam is unremarkable other than mild pallor.
+A: Hemolytic uremic syndrome
+EXPLANATION: Hemolytic uremic syndrome (HUS) typically occurs after an Escherichia coli O157:H7 infection related to undercooked beef consumption and presents with microangiopathic hemolytic anemia, acute kidney injury, and thrombocytopenia. Hemolysis occurs secondary to microthrombi, which form and shear red blood cells causing schistocytes to form. However, these clots do not use up clotting factors, thus the PT and PTT are normal in the setting of low platelets. Hemolysis can lead to a low haptoglobin, which scavenges free hemoglobin. Microthrombi in the renal vasculature can subsequently lead to kidney impairment, causing uremia. The treatment of hemolytic uremic syndrome is typically supportive.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-118]
+Q: A 65-year-old man is admitted to the hospital for intravenous antibiotics for fungal pneumonia. He is being treated with amphotericin B. On day 3 of hospitalization, his creatinine is 1.8 mg/dL. Previously it was 0.9 mg/dL. Which urine microscopy finding is most consistent with the likely etiology of this patient’s creatinine rise?
+A: Muddy granular casts
+EXPLANATION: This patient likely has acute tubular necrosis (ATN) due to amphotericin B use. ATN is a form of intrinsic acute kidney injury (AKI) and may be caused by nephrotoxins, sepsis, or prolonged ischemia. It is the most common etiology of in-hospital AKI. Commonly implicated nephrotoxic medications include aminoglycosides, amphotericin B, cisplatin, foscarnet, tenofovir, and mannitol. ATN causes necrosis and sloughing of the tubular epithelial cells and occlusion of kidney tubules. Laboratory testing will demonstrate AKI, defined as a rise in serum creatinine > 0.3 mg/dL over a 48-hour period or ≥ 1.5 times a baseline value from within the prior 7 days.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-119]
+Q: A 50-year-old man presents to the emergency department for fever and nausea. He has a history of focal segmental glomerulonephritis and received a kidney transplant 10 years ago. His vital signs are a BP of 135/85 mm Hg, HR of 90 bpm, RR of 16/min, T of 38°C, and SpO2 of 96% on room air. A urinalysis demonstrates 30 WBCs/hpf and is positive for leukocyte esterase and nitrites.
+A: Administer piperacillin-tazobactam and admit
+EXPLANATION: Pyelonephritis typically presents as fever, flank pain, and nausea or vomiting, along with UTI symptoms. However, the presentation may be variable for patients who are older, have significant comorbidities, or are immunocompromised. These groups may exhibit less specific symptoms, including fever, rigor, altered mental status, malaise, or lethargy with no other identified cause, which can delay diagnosis and treatment. Cases of acute pyelonephritis may often be treated on an outpatient basis if pain is controlled and the patient is tolerating oral fluids and medications.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-120]
+Q: A 28-year-old man presents with dysuria. He reports no associated penile discharge or any other symptoms. He also reports having had two new sexual partners in the last 3 weeks. Vital signs and physical examination are unremarkable, with a negative genitourinary exam. Urinalysis shows 2 WBC/hpf with 1+ bacteria. Which of the following antibiotic regimens represents the most appropriate treatment?
+A: Ceftriaxone 500 mg IM and doxycycline 100 mg PO twice daily for 7 days
+EXPLANATION: In male patients, dysuria with a urethral discharge indicates urethritis. Urinary tract infections are uncommon in healthy young adult male patients, and thus unless the clinical presentation strongly argues against urethritis, a male patient with dysuria is considered to have urethritis due to a sexually transmitted infection (STI) until proven otherwise. In male patients, even 1 WBC per high-power field on microscopy can be significant for pyuria, especially in the presence of bacteria. Patients can present with discharge, lesions, irritation, and dysuria and urinary urgency. However, not all patients have discharge. Treatment is similar to that of female patients presenting with STIs.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-121]
+Q: A 62-year-old man presents to the emergency department with right-sided flank pain radiating into the right abdomen for 1 day that seems characteristic of a ureteral stone. He has a history of kidney stones and hypertension. After completing the workup, you diagnose the patient with a 6 mm distal ureteral stone with mild hydronephrosis on the right side.
+A: Tamsulosin
+EXPLANATION: Kidney and ureteral stones are common problems in the emergency department. The classic presentation of renal colic is flank pain, abdominal pain, hematuria, and urinary urgency. Most stones are composed of calcium. Diet and lack of fluid intake can affect a patient’s risk for developing calcium stones. When the clinician suspects a patient is presenting with a ureteral stone, tests should be performed to evaluate renal function and to look for urinary tract infection. Diagnosis of ureteral stone is confirmed with imaging, preferably with noncontrast computed tomography of the abdomen and pelvis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-122]
+Q: A 34-year-old woman with no significant medical history presents with 3 days of right abdominal and back pain with vomiting. She reports no vaginal discharge or dysuria. Her last menstrual period was 3 weeks ago. Her surgical history includes a tubal ligation.
+A: Urinalysis
+EXPLANATION: Pyelonephritis is an infection of the upper tract of the urinary tract system, including the ureter and kidney. There is a clinical continuum from simple cystitis to pyelonephritis based on the severity of symptoms and systemic signs. Fever, chills, nausea, vomiting, and flank pain are common signs of pyelonephritis. Urinalysis will indicate pyuria and bacteriuria. Urine culture can help in drug-resistant cases, especially in patients with comorbid conditions. Fluoroquinolones are recommended as first-line outpatient treatment.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-123]
+Q: A 63-year-old woman presents to the emergency department with 3 days of nausea, vomiting up to 10 episodes daily, and right upper quadrant abdominal pain. Vital signs include a BP of 82/42 mm Hg, HR of 125 bpm, RR of 22/min, and SpO2 of 96% on room air. She has dry mucous membranes, weak peripheral pulses, and right upper quadrant abdominal tenderness.
+A: Gastrointestinal fluid losses
+EXPLANATION: Acute kidney injury can be classified into three broad classifications: prerenal (secondary to hypoperfusion of the kidney), intrinsic (primary failure of the kidney parenchyma not due to another cause), and postrenal (secondary to urinary outflow obstruction). Prerenal etiologies include a hypovolemic state (e.g., hemorrhage, diarrhea, insensible losses) and reduced effective circulating volume (e.g., reduced ejection fraction, portal hypertension).
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-124]
+Q: A 55-year-old man is sent to the ED from his family clinician's office for evaluation of a mass. He is an inventory manager at a local warehouse and is in charge of loading and unloading daily deliveries of boxes. He describes intermittent left lower abdominal pain and fullness that improves with lying down. On examination, you observe a left indirect inguinal hernia.
+A: Inferior epigastric vessels
+EXPLANATION: Inguinal hernias may be direct or indirect, depending on the location of bowel extrusion through the abdominal wall defect. Direct inguinal hernias occur through a weakened transversalis fascia and are bordered laterally by the inferior epigastric vessels, medially by the rectus sheath, and inferiorly by the inguinal ligament. These structures compose the Hesselbach triangle. Indirect inguinal hernias pass from the internal to the external inguinal ring through a patent processus vaginalis. The medial border of this tract is the inferior epigastric vessels.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-125]
+Q: A 3-year-old girl presents to the ED with bloody diarrhea and a rash. On physical exam, you note scattered petechiae. Stool culture is positive for Shiga toxin. Serum creatinine is elevated. Which of the following is occasionally needed as temporary supportive therapy in these patients?
+A: Hemodialysis
+EXPLANATION: This patient is presenting with signs and symptoms consistent with hemolytic uremic syndrome (HUS). HUS is defined as the triad of microangiopathic hemolytic anemia (MAHA), thrombocytopenia, and progressive kidney failure. Management of HUS is primarily supportive. Many patients require temporary hemodialysis. However, most make a full recovery. Antibiotics are not indicated for these patients as the disease is primarily toxin-mediated, and antibiotics may increase the release of the toxin, causing the disease process to worsen. HUS is primarily seen in children aged 6 months to 5 years, although there have been rare cases reported in adults.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-126]
+Q: A 65-year-old man with a history of hypertension presents with gradual right testicular pain over the past 3 days. He is monogamous with his spouse of 30 years. His vital signs are within normal limits. On exam, he has tenderness and firmness at the posterolateral aspect of the right testicle. His pain is somewhat relieved with elevation of the right testicle.
+A: Levofloxacin
+EXPLANATION: This patient’s presentation is consistent with epididymitis, most often caused by bacterial infection. Patients present with gradual-onset testicular, lower abdominal, inguinal, or scrotal pain. On exam, patients may have tenderness to palpation of the epididymis, located at the posterolateral pole of the testicle. If epididymitis remains untreated, the infection may progress to involve the testes, resulting in epididymo-orchitis, which presents as a tender scrotal mass. Relief of pain with elevation of the affected testicle is known as Prehn sign. Urinalysis is useful in diagnosis and reveals pyuria in about 50% of patients with epididymitis or epididymo-orchitis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-127]
+Q: A 12-year-old boy presents with foamy, pink-tinged urine. On exam he has periorbital edema and leg swelling. His vital signs are HR 80 bpm, BP 140/90 mm Hg, RR 18/min, and T 98.8℉ (37.1ºC). He had a sore throat and fever 2 weeks ago but did not seek medical attention, and the symptoms resolved. Which of the following is most specific for the presumed diagnosis?
+A: Decreased serum C3
+EXPLANATION: This patient’s clinical presentation is consistent with poststreptococcal glomerulonephritis. Glomerulonephritis is a disease in which there is damage to the filtration system of the kidneys, leading to loss of protein and blood through the urine. Poststreptococcal glomerulonephritis is the most common cause of glomerulonephritis in children and typically presents after a streptococcal infection (1–2 weeks after streptococcal pharyngitis and 3–6 weeks after streptococcal skin infection). Immune complexes form secondary to the infection and deposit in the kidneys. These complexes activate complement system proteins, which also deposit in the glomeruli, thereby decreasing serum C3 level.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-128]
+Q: A 14-year-old boy presents to the ED with his parent due to penile pain for the past 6 hours. He reports no preceding trauma or other inciting factors. His medical history includes sickle cell disease, for which he takes hydroxyurea daily. Vital signs are within normal limits. Physical examination shows a rigid, erect penis with tenderness to palpation.
+A: Needle aspiration and saline irrigation of the corpus cavernosum
+EXPLANATION: Priapism is a clinical condition characterized by a painful penile erection lasting > 4 hours that is not related to sexual stimulation. It is important to distinguish each case of priapism by its underlying etiology, which can be classified as ischemic (low-flow), nonischemic (high-flow), or recurrent (stuttering). Low-flow priapism is responsible for > 90% of cases in patients with sickle cell disease (SCD) and should be considered a urologic emergency due to the risk of permanent damage to penile tissue. The incidence of priapism in male patients with SCD is estimated to be 35–45% but may be underreported.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-129]
+Q: Which of the following findings on urinalysis is most consistent with a diagnosis of acute interstitial nephritis?
+A: Eosinophiluria
+EXPLANATION: Acute interstitial nephritis (AIN), most often due to a hypersensitivity drug reaction, presents abruptly with signs and symptoms of acute kidney injury. Patients may have malaise, nausea and vomiting, and oliguria. Classic symptoms of rash, fever, and eosinophilia can be seen in cases due to drug reaction, although most patients do not have all three cardinal symptoms. Cases caused by nonsteroidal anti-inflammatory drugs are also less likely to present with classic symptoms compared with other agents. Urinalysis findings include pyuria, microscopic or gross hematuria, eosinophiluria, and mild proteinuria. Urinalysis findings alone can not confirm or rule out the diagnosis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-130]
+Q: A 9-year-old boy presents with weakness and bloody diarrhea. His parent reports he has had diarrhea for several days with a fever. His laboratory testing is notable for a hemoglobin of 8.3 g/dL and a creatinine of 2.4 mg/dL. Which of the following will be helpful to confirm the diagnosis?
+A: Peripheral smear
+EXPLANATION: Most cases of hemolytic uremic syndrome (HUS) occur in children after a diarrheal illness caused by Escherichia coli O157:H7. In these cases, the E. coli produces a toxin that damages the endothelial cells, especially those in the colon and kidneys. The first symptoms of the illness are related to the diarrheal illness and may involve a hemorrhagic colitis as a result of the bacterial invasion of the intestinal wall. The clinical syndrome involves the development of a microangiopathic hemolytic anemia and kidney failure. The peripheral smear demonstrates a decreased number of red blood cells (anemia) and fragmented red blood cells due to the microangiopathic hemolytic anemia.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-131]
+Q: A 21-year-old woman presents with urinary frequency and dysuria for 2 days. Vital signs are within normal limits. Examination reveals mild suprapubic tenderness with no costovertebral angle tenderness. What is the most appropriate next step for this patient?
+A: Nitrofurantoin
+EXPLANATION: This patient presents with uncomplicated acute cystitis and can be treated with nitrofurantoin. Urinary tract infection (UTI) is an inflammatory response to microorganisms in the urinary tract. Patients will present with dysuria, frequency, urgency, hematuria, and suprapubic pain when an infection is in the bladder. Cystitis represents an infection of the lower urinary tract (pyelonephritis is an infection of the upper urinary tract) and is common in women of all age groups but relatively uncommon among young men. Uncomplicated cystitis is defined as inflammation of the bladder in patients in the absence of pregnancy, medical comorbidities, and toxic appearance.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-132]
+Q: A 40-year-old woman with a history of hypothyroidism, hypertension, and nephrolithiasis presents with left-sided flank pain for the past day that feels similar to when she has had kidney stones. She reports that the pain comes in waves and radiates toward the groin. Throughout the past day, she reports vomiting but has not had fevers, chills, vaginal bleeding, or diarrhea.
+A: Discharge with pain relief and a strainer
+EXPLANATION: This patient presents with nephrolithiasis. Nephrolithiasis, or kidney stones, are collections of crystal formations that generally start in the kidneys and then begin to cause pain as they move down the ureters. These patients often present with an abrupt onset of pain, which comes and goes and is often described as colicky. The pain will typically involve the flank and radiate to the groin, including the testicles in men and labia in women. Only one-third of all patients will have gross hematuria. This patient’s history and story are consistent with nephrolithiasis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-133]
+Q: A 3-year-old boy presents to the ED with decreased activity. He was diagnosed with gastroenteritis a little over a week ago with fevers, vomiting, diarrhea, and abdominal pain. His earlier symptoms are improving but have not resolved. His heart rate is 170 bpm, his blood pressure is 122/74 mm Hg, and he appears pale.
+A: Hemolytic uremic syndrome
+EXPLANATION: Hemolytic uremic syndrome (HUS) usually affects children < 5 years of age. It is almost always caused by Shiga toxin-producing Escherichia coli, the most common strain being 0157:H7, and is transmitted through ingestion of contaminated water, fruits, vegetables, undercooked meat, or unpasteurized milk. It is also uncommonly seen with complement gene mutations and infections by Shigella, Streptococcus pneumoniae, or human immunodeficiency virus. HUS usually presents with a prodromal illness with fever, abdominal pain, vomiting, and diarrhea, followed by the classic triad of hemolytic anemia, thrombocytopenia, and acute kidney injury, as seen in this patient.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-134]
+Q: A healthy 19-year-old pregnant woman at 12 weeks gestation presents to the emergency department with acute onset of pain on urination associated with urinary frequency. She reports no fever, flank pain, or vaginal discharge. Vital signs are within normal limits. Dipstick urinalysis is positive for nitrites and leukocyte esterase, and the sample is sent for urine culture.
+A: Amoxicillin-clavulanate PO x 5–7 days
+EXPLANATION: Cystitis is an infection of the bladder, most often presenting with dysuria and urinary frequency or urgency. This is an important diagnosis to recognize and treat quickly in pregnancy, as cystitis and bacteriuria have been associated with adverse outcomes, including preterm birth. Laboratory findings to support a diagnosis of cystitis include pyuria (WBCs) on microscopic analysis or leukocyte esterase and nitrites on urinalysis. As in nonpregnant female patients, Escherichia coli is the most predominant bacteria and treatment is typically directed against this pathogen.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-135]
+Q: A 2-year-old boy develops progressive pallor and fatigue. He was discharged from the hospital a week earlier following treatment of pneumonia and parapneumonic effusion with intravenous antibiotics and chest tube drainage. Cultures of the pleural fluid at that time revealed the growth of Streptococcus pneumoniae.
+A: Hemolytic uremic syndrome
+EXPLANATION: Schistocytes are RBC fragments indicative of RBC destruction within the circulation by various mechanisms, including thrombotic microangiopathy. The triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury (serum creatinine ≥ 1.5 times appropriate for age) is consistent with hemolytic uremic syndrome (HUS). Most cases of HUS are associated with infection due to shiga-like toxin-producing bacteria, including enterohemorrhagic Escherichia coli, principally serotype 0157:H7. While 5% of cases of HUS are associated with infection due to Streptococcus pneumoniae (Sp-HUS), it accounts for 40% of nondiarrheal HUS.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-136]
+Q: An 18-year-old man presents with penile discharge after unprotected intercourse. A urine gonorrhea and chlamydia test is ordered. He has no known drug allergies. Which of the following is an appropriate treatment regimen?
+A: Ceftriaxone 500 mg IM once and doxycycline 100 mg PO twice a day for 7 days
+EXPLANATION: The patient has urethritis, which is likely caused by either Chlamydia trachomatis or Neisseria gonorrhoeae. Chlamydia and gonorrhea, the two most common nonulcerative sexually transmitted infections, can cause vaginal discharge, especially in the setting of mucopurulent cervicitis, and both tend to cause urethral discharge in men. These two infections commonly occur concurrently, and clinical manifestations are clinically indistinguishable. Thus, they should be simultaneously treated in all patients. Ceftriaxone 500 mg IM will treat the vast majority of N. gonorrhoeae strains, and doxycycline 100 mg PO twice a day for 7 days will treat C. trachomatis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-137]
+Q: A 52-year-old man presents to the ED for 3 days of dizziness and lightheadedness upon standing. His medical history includes hyperlipidemia, peripheral arterial disease, and end-stage kidney disease, for which he undergoes intermittent hemodialysis three times weekly. He takes aspirin 81 mg and rosuvastatin 40 mg daily. He has missed his last two dialysis sessions due to transportation issues.
+A: Dialysis-associated autonomic dysfunction
+EXPLANATION: Autonomic dysfunction, also known as dysautonomia, is a prominent feature of many polyneuropathies that result from metabolic disorders, including advanced chronic kidney disease (CKD), especially in patients with end-stage kidney disease who undergo dialysis. The exact mechanism has not been entirely described but is thought to relate to polyneuropathy due to chronic uremia. It can also be seen in advanced stages of CKD in patients not on dialysis.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-138]
+Q: A 21-year-old woman presents to the ED with flank pain. A urinalysis shows hematuria, and a kidney ultrasound reveals multiple bilateral cysts, consistent with polycystic kidney disease. Which of the following treatment options is most likely to slow the progression of her underlying condition?
+A: Benazepril
+EXPLANATION: Autosomal dominant polycystic kidney disease (ADPKD) is a common hereditary kidney disorder that occurs in approximately 0.1% of live births, with > 75% due to abnormalities at the PKD1 locus on chromosome 16 and another 14% from genetic abnormalities at the PKD2 locus on chromosome 4. Though the phenotypes are similar, cyst formation and progression to end-stage kidney disease (ESKD) develop earlier in those with PKD1-related disease (54.3 years versus 74 years). Flank pain is the most common symptom, which can result from renal hemorrhage, obstructive calculi, or urinary tract infection.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-139]
+Q: A 45-year-old man presents to the ED with low back pain and pelvic pain with dysuria and subjective fever and chills. He initially had mild urinary symptoms yesterday, but today feels much worse with fever and chills. Vital signs show HR 122 bpm, BP 136/80 mm Hg, RR 16/min, and T 38.6℃. On examination, he has mild suprapubic tenderness without rebound or guarding.
+A: Escherichia coli
+EXPLANATION: Acute prostatitis is a bacterial inflammation of the prostate gland. Patients generally present with low back pain; perineal, suprapubic, or genital pain; obstructive urinary symptoms; frequency or dysuria; and fever or chills. Prostatitis shares many similarities in clinical presentation with typical urinary tract infections or cystitis. However, patients with prostatitis are generally more acutely ill with fever, and the diagnosis can be clinched by digital rectal exam findings of prostate tenderness. The most frequent organism that is found to cause acute prostatitis is Escherichia coli, particularly in older patients and those with recent urologic instrumentation.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-140]
+Q: Which of the following causes of intrinsic kidney failure is the most common?
+A: Tubular
+EXPLANATION: Acute kidney injury (AKI) is defined as a decline in kidney function over a period of hours to days. This leads to azotemia (“azot-” means “nitrogen”), the accumulation of creatinine and urea in the blood. Patients with AKI may present with one of its life-threatening complications (pulmonary edema, hyperkalemia, severe hypertension, uremic pericarditis, or tamponade) or asymptomatic azotemia on a routine blood screening. The goal is to recognize the condition, halt further decline, and correct any reversible underlying causes.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-141]
+Q: A 17-year-old boy presents with a penile erection that has lasted for 4 hours. He sustained a straddle injury the day before while riding his bicycle but did not seek medical attention at that time. On physical exam, his penis is erect without any obvious deformity or external trauma. What is the best next step in care?
+A: Obtain a cavernosal blood gas
+EXPLANATION: This patient most likely has high-flow priapism, which is a type of nonischemic priapism primarily occurring in patients with prior penile trauma or instrumentation. It may also occur secondary to certain congenital conditions. High-flow priapism results secondary to a fistula formation between the cavernosal artery and the corpus cavernosum. This leads to a high-flow state, causing an influx of well-oxygenated blood. There is no ischemia in high-flow state situations, and patients typically report no pain. Most cases of high-flow priapism resolve spontaneously within a few days.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-142]
+Q: Which of the following is the most common cause of death in individuals with a history of autosomal dominant polycystic kidney disease?
+A: Cardiac causes
+EXPLANATION: Autosomal dominant polycystic kidney disease is a common disease that affects approximately 1 in 1,000 live births, with less than half ever being diagnosed, as the disease is often clinically silent. Patients typically present with hypertension, hematuria, proteinuria, or impaired kidney function, most of which are detected incidentally on routine checkups or laboratory examinations. Flank pain is the most common reported symptom and is often due to kidney hemorrhage, calculi, or urinary tract infection. Most patients with autosomal dominant polycystic kidney disease die from cardiac causes, with cardiac hypertrophy and coronary artery disease most commonly found.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-143]
+Q: An 11-year-old boy presents with right testicular pain that started yesterday. He reports mild nausea, but no vomiting or dysuria. On examination, a tender, firm nodule is palpated in the upper pole of the right testicle and the cremasteric reflex is present. Which of the following is the most likely diagnosis?
+A: Appendageal torsion
+EXPLANATION: The appendix testis, located on the superior aspect of the testicle, is a remnant of the paramesonephric duct. Due to its pedunculated shape, it is prone to torsion resulting in ischemia and eventual infarct. Appendageal torsion occurs most commonly in boys between the ages of 4 and 10 years, and is uncommon in adolescents. Patients present with symptoms similar to testicular torsion (scrotal pain, nausea, and vomiting), but the symptoms are typically less severe with a more gradual onset. Because of this, patients tend to present later in the course of their symptoms. Also, unlike testicular torsion, the area of pain is usually more localized.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-144]
+Q: A 16-year-old boy presents to the ED with blood in his urine. He noticed pink-tinged urine in the last few days but no blood clots or difficulty urinating. He feels more fatigued and has a history of microscopic hematuria and hearing difficulty. On exam, he has mild periorbital edema and vital signs show HR 80 bpm, BP 140/90 mm Hg, RR 18/min, T 98.8°F (37.1°C).
+A: Alport syndrome
+EXPLANATION: This patient’s clinical presentation is consistent with Alport syndrome, a hereditary disease that causes kidney injury and sensorineural hearing loss. Alport syndrome causes glomerulonephritis by damaging the filtration system of the kidneys, leading to loss of protein and blood through the urine. In this case, the elevated creatinine, hematuria, and protein in the urine indicate a glomerulonephritic process. The hereditary pattern in Alport syndrome is heterogeneous but mainly affects male patients via an X-linked gene. This gene is responsible for collagen and basement membrane formation.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-145]
+Q: A 10-year-old boy is brought to the emergency department by his parent for abdominal pain, vomiting, and diarrhea for 5 days. The patient’s parent became concerned when she noticed blood in the patient’s stool this morning. Physical examination reveals dry mucous membranes and sluggish capillary refill, a nonblanching macular rash on the child’s lower extremities, and hepatosplenomegaly.
+A: Azotemia
+EXPLANATION: Hemolytic-uremic syndrome (HUS) is a multisystem disorder that results in acute kidney insufficiency, consumptive thrombocytopenia, and microangiopathic hemolytic anemia. Typical HUS is caused by infection with a Shiga toxin-producing strain of Escherichia coli (such as E. coli O157:H7), which is the predominant etiology in children. Causes of atypical (nondiarrheal) HUS include Streptococcus pneumoniae infection, genetic disorders, medications, and malignancy. HUS associated with E. coli enteritis typically presents with nausea, vomiting, and inflammatory (bloody) diarrhea. Thrombocytopenia with a petechial rash, anemia, oliguria, seizures, and encephalopathy may develop.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-146]
+Q: A patient presents with scrotal swelling suspicious for hydrocele. Which of the following is the most appropriate intervention at this time?
+A: Ultrasonography
+EXPLANATION: As the testicle descends during fetal development, an outpocketing of the peritoneum follows. This is known as the processus vaginalis testis, which normally pinches off after complete descent to form the tunica vaginalis testis. Any fluid accumulation in the tunic vaginalis testis or in a persistent processus vaginalis testis is called a hydrocele. Hydroceles, although commonly self-limited in newborns, can occur at any age and almost always present as painless, unilateral scrotal swelling of acute or insidious onset. Typical examination findings include a fluctuant, ovoid, nontender mass about the testicle, making direct palpation of the testicle difficult.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-147]
+Q: A 32-year-old woman presents to the emergency department for vaginal discharge. Laboratory testing and urinalysis were ordered from triage. Upon evaluation, the patient reports no dysuria, hematuria, urinary frequency, suprapubic pain, flank pain, or fevers. Her blood tests demonstrate normal kidney function and no leukocytosis.
+A: Prescribe cephalexin and discharge
+EXPLANATION: For most patients, there is minimal benefit in treating asymptomatic bacteriuria. However, certain populations warrant treatment, including pregnant patients, kidney transplant patients, and patients undergoing urologic instrumentation. In the outpatient setting, pregnant patients should be routinely screened with urine culture in early pregnancy and treatment should ensue if the culture grows > 100,000 CFUs/mL. In the acute care setting, clinicians do not have the luxury of obtaining expeditious urine culture results. Thus, a urinalysis is often performed in patients with pelvic concerns and substitutes as the diagnostic tool for asymptomatic bacteriuria while awaiting culture results.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-148]
+Q: A 65-year-old man on peritoneal dialysis presents because his dialysis effluent is cloudy. You send it for culture and Gram staining, which returns a preliminary result of gram-positive cocci in clusters. Vital signs are BP 125/70 mm Hg, HR 80 bpm, RR 14/min, and T 98.5°F (37°C). Other than abdominal ascites, the physical exam is unremarkable.
+A: Outpatient management with intraperitoneal antibiotics
+EXPLANATION: This patient has peritonitis, the most common complication of peritoneal dialysis. Although a true infection, it is much less severe than other forms of peritonitis and can be managed as an outpatient even with the continued instrumentation of the dialysis catheter into the peritoneal cavity. Most commonly, the infection is caused by bacterial contamination of the dialysate or tubing. The majority of cases are caused by S. aureus or S. epidermidis, with the remaining 30% caused by enteric gram-negative organisms. The diagnosis is made by noting cloudiness of the dialysis effluent.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-149]
+Q: A 19-year-old man with diabetes presents with penile pain and dysuria. Physical examination of the penis reveals the image above. The patient states he has had similar episodes in the past. What management is indicated for this patient?
+A: Topical clotrimazole
+EXPLANATION: This patient presents with balanitis, which results from inflammation of the glans penis or the glans and foreskin (balanoposthitis). The primary cause is infection, most commonly Candida. Balanitis can also be caused by bacterial agents such as group A beta-hemolytic streptococci. Additionally, it may be secondary to irritation, trauma, or contact dermatitis. Recurrent balanitis is seen most often in those with diabetes from Candida albicans. Patients typically report pain, discharge, and itching. The glans may appear erythematous and tender to palpation. Systemic symptoms may be present but are unusual.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-150]
+Q: A 4-year-old boy presents with vague abdominal pain, diarrhea, and vomiting. He was away at his grandparents’ last week and returned today feeling ill. He appears uncomfortable. His vital signs are within normal limits for his age. His laboratory values include blood urea nitrogen 42 mg/dL, creatinine 3.6 mg/dL, potassium 6.1 mmol/L, hemoglobin 8 g/dL, and platelet count 80 cells/mm3.
+A: Hemolytic uremic syndrome
+EXPLANATION: This patient has hemolytic uremic syndrome (HUS), characterized by the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury. It most commonly occurs in children ages 6 months to 4 years. It is one of the most common causes of acute kidney injury in childhood. Typical symptoms include crampy abdominal pain, watery diarrhea, and fever. Within 5–10 days, patients may have bloody stools, anemia, thrombocytopenia, and acute kidney injury. Hypertension, edema, seizures, lethargy, and petechiae may also be present. Most cases are caused by the Shiga toxin-producing Escherichia coli serotype 0157:H7.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-151]
+Q: What history or exam finding is most sensitive in excluding the diagnosis of testicular torsion?
+A: Presence of the cremasteric reflex
+EXPLANATION: Testicular torsion occurs when the testis twists on the spermatic cord, leading to decreased flow from the testicular artery. Abnormal anatomy is the largest risk factor and includes horizontal lie and a long spermatic cord. The gold standard of diagnosis is testicular ultrasound with Doppler. Sensitivity ranges from 88–100% and specificity is approximately 90%. Testicles that are detorsed within 6 hours of onset have a 90% likelihood of full recovery of function, while patients detorsed after 24 hours of onset have no likelihood of salvageability. Those with testicular torsion have a significantly increased risk of infertility.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-152]
+Q: A 62-year-old man presents to the emergency department with a fever and lower back pain. His symptoms started yesterday and have been gradually worsening. His temperature is 102°F (38.9ºC), and his physical exam is notable for severe pain when examining the prostate. Which of the following is the most appropriate treatment for this patient?
+A: Ciprofloxacin
+EXPLANATION: Prostatitis occurs when bacteria from sexual transmission or hematogenous/lymphatic spread penetrate the prostate. Patients will typically present with fever, chills, dysuria, increased urinary frequency, lower back pain, and the sensitive and specific exam finding of an exquisitely tender prostate on rectal exam. Patients who are reliable without comorbidities such as immunosuppression can be treated with a prolonged course of oral antibiotics including trimethoprim-sulfamethoxazole, ciprofloxacin, or levofloxacin. Otherwise, patients with severe symptoms or medical comorbidities will often require hospitalization and IV antibiotics.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-153]
+Q: Which of the following is the most common presenting sign of a nephroblastoma?
+A: Abdominal mass
+EXPLANATION: Wilms tumor (i.e., nephroblastoma) is the most common primary kidney malignancy in children, causing more than 95% of childhood primary kidney tumors. It is a disease of childhood, most commonly presenting in patients ages 1–5 years. Remember that the retroperitoneal space does not have strict anatomic boundaries and is difficult to examine, so masses or bleeding that fill this space are usually not found until very large or symptomatic (e.g., retroperitoneal hemorrhage). Despite this, Wilms tumors are usually found incidentally when an abdominal mass is palpated by parents while bathing their children or on routine abdominal examination at a well-child visit.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-154]
+Q: A healthy 30-year-old woman presents to the emergency department for frequency and burning on urination. She reports no vaginal discharge, fever, nausea, or back pain, and on exam, she has normal vital signs and does not have vaginal discharge, cervical motion tenderness, or costovertebral angle tenderness.
+A: Oral trimethoprim-sulfamethoxazole for 5 days
+EXPLANATION: This patient’s presentation and lab findings are consistent with uncomplicated acute cystitis. Cystitis is a bacterial infection of the bladder that is more common in the female population due to a shorter urethra and migration of gastrointestinal pathogens. Symptoms of acute cystitis include frequency, urgency, or hesitancy with urination. On exam, suprapubic tenderness may be noted, but patients should not have systemic symptoms, such as fever, vomiting, or costovertebral angle tenderness. Additionally, vaginal symptoms, such as discharge or irritation, would be more suggestive of vaginitis or cervicitis. In the majority of patients, Escherichia coli is the causative bacteria.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-155]
+Q: A 43-year-old man presents with generalized abdominal pain, fevers, and cloudy peritoneal fluid for the last 2 days. He has a history of hypertension, diabetes, and kidney failure and is on peritoneal dialysis. His temperature is 101.3°F (38.5°C), blood pressure is 120/80 mm Hg, heart rate is 110 bpm, respiratory rate is 18/min, and oxygen saturation is 96% on room air.
+A: Peritoneal fluid WBC count of 150 cells/µL with 60% neutrophils
+EXPLANATION: Peritonitis is a common complication of patients undergoing peritoneal dialysis (PD) and is responsible for > 15% of deaths in this patient population. This diagnosis can lead to decreased filtration rates in PD, necessitating conversion to hemodialysis. The most common symptoms of peritonitis in these patients are abdominal pain, fever, and cloudy dialysis effluent. Any patient with cloudy dialysis effluent should be suspected to have peritonitis, and effluent should be sent to the laboratory for cell count, differential, Gram stain, and culture.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-156]
+Q: A 4-year-old boy presents to the ED with extreme scrotal pain and discoloration. He is difficult to console. He has an absent cremasteric reflex on the right with an erythematous right hemiscrotum. The right testis appears to be in a horizontal lie. Which of the following is the most appropriate next step to take?
+A: Administer parenteral analgesia
+EXPLANATION: This patient’s clinical presentation is concerning for testicular torsion. This is a urologic emergency in which delaying diagnosis and treatment can lead to testicular infarction, loss of the testis, or infertility. When the testis is abnormally fixed to the tunica vaginalis within the scrotum, the testis or spermatic cord are at risk for torsion. Other causes of acute scrotal pain include epididymitis, incarcerated hernia, testicular trauma, and torsion of testicular appendages. Minor trauma, periods of growth (e.g., puberty), and sleep (during which unilateral cremasteric contraction occurs) may lead to testicular twisting.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-157]
+Q: A 32-year-old woman presents with 3 days of dysuria and lower abdominal discomfort. She is sexually active with one male partner and uses condoms inconsistently. She reports no vaginal bleeding or discharge. Her medical history is unremarkable. Vital signs show a BP of 118/65 mm Hg, HR of 67 bpm, T of 98.3°F, RR of 16 breaths/min, and SpO2 of 99%.
+A: Escherichia coli
+EXPLANATION: Acute cystitis is an isolated bladder infection. Female individuals are more likely than male individuals to have lower UTIs due to shorter urethral length. UTIs typically result from ascending bacteria from the urethra. Symptomatic patients with a urine culture that grows > 102 CFU/mL are considered infected. The concentration of bacteria in the bladder can increase exponentially in female patients after sexual intercourse. Escherichia coli is the most common causative organism and is responsible for > 80% of UTIs. E. coli converts nitrates to nitrite, which is a very useful test to confirm the diagnosis of a UTI. The urine nitrate reaction has > 90% specificity.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-158]
+Q: An 11-year-old boy presents to the ED with a gradual onset of right-sided testicular pain. He reports no penile discharge or pain with urination. He is fully vaccinated and has had no recent travel or animal exposure. On exam, his vital signs are within normal limits for age, he is prepubertal, and he has a normal-appearing penis and testis with bilateral cremasteric reflexes.
+A: Supportive care
+EXPLANATION: Epididymitis is inflammation of the epididymis, most commonly from ascending infection. It often but not always presents with a gradual onset of scrotal pain compared to testicular torsion, which is more frequently acute. Reports of painful urination, fevers, and penile discharge may be present, suggesting a bacterial cause of epididymitis. Antecedent trauma suggests a traumatic cause. Patients may have some scrotal edema and erythema but have normal cremasteric reflexes on exam.
+
+### [ROSH | rosh-em-initial-2026-renal-and-urogenital-disorders-q-159]
+Q: A 12-year-old boy presents to the ED with swelling and pain in his penis. He reports that, over the past 6 hours, he has been unable to reduce his foreskin over the glans, and the area has become progressively more swollen. He does not report dysuria, discharge, testicular pain, or any other symptoms prior to his foreskin being retracted earlier today.
+A: Paraphimosis
+EXPLANATION: Paraphimosis is the inability to reduce the foreskin back to its anatomic position over the glans of the penis. It has several causes, including infection, trauma, hair tourniquets, and sexual activity. Distal venous congestion develops and can lead to arterial compromise, necrosis, and gangrene. It is a urologic emergency. This patient’s absence of penile discharge and testicular symptoms, along with the sudden development of symptoms after not being able to reduce his foreskin, strongly point to paraphimosis as the diagnosis.

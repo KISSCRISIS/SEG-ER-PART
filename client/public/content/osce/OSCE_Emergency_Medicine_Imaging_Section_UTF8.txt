@@ -1,0 +1,323 @@
+================================================================================
+EMERGENCY MEDICINE OSCE IMAGING SECTION
+Bilingual Station-Based Study Guide
+================================================================================
+
+Purpose
+This section converts selected clinical diagrams and image-rich pages from CopyofEmergency-Medicine-FULL.pdf into practical emergency-medicine OSCE stations. Each station is designed for image interpretation, focused clinical reasoning, initial management, and examiner-style follow-up questions.
+
+Important educational note
+The images are study assets extracted from the supplied source PDF. The station explanations are an educational synthesis and should be checked against current local protocols, institutional guidelines, and the supervising emergency-medicine educator before clinical use.
+
+================================================================================
+STATION 1 — INFECTIVE ENDOCARDITIS: PERIPHERAL SIGNS
+IMAGE: images/013_endocarditis.png
+SOURCE PAGE: 13
+================================================================================
+
+Station task
+The candidate is shown a clinical summary/diagram of infective endocarditis. Describe the important peripheral findings and state the next diagnostic steps.
+
+Expected observations
+Look for fever, a new or changing murmur, Roth spots, Osler nodes, Janeway lesions, nail-bed hemorrhages, anemia, and evidence of embolic disease. In an intravenous drug user, right-sided disease—especially tricuspid involvement—commonly involves Staphylococcus aureus.
+
+Most likely diagnosis
+Infective endocarditis, with the diagnosis supported by compatible clinical findings, positive blood cultures, and echocardiographic evidence.
+
+Focused investigations
+Obtain multiple blood-culture sets before antibiotics when this does not delay resuscitation. Request CBC, renal and liver function, inflammatory markers, urinalysis, ECG, and echocardiography. Apply the modified Duke framework using microbiology, echocardiographic findings, predisposition, fever, vascular phenomena, and immunologic phenomena.
+
+Emergency management
+Assess for sepsis, heart failure, conduction abnormality, embolization, and intracranial complications. Start empiric intravenous antibiotics after cultures when the patient is unstable or septic, following local antimicrobial guidance and involving infectious-disease/cardiology teams. Urgent surgical input is needed for acute valve failure, uncontrolled infection, large embolizing vegetations, abscess, or persistent bacteremia.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Janeway lesions are classically painless, whereas Osler nodes are painful. Do not wait for echocardiography before treating septic shock. In an IV drug user, pulmonary septic emboli and tricuspid disease are important complications.
+
+================================================================================
+STATION 2 — FIRST-DEGREE AV BLOCK
+IMAGE: images/016_first_degree_heart_block.png
+SOURCE PAGE: 16
+================================================================================
+
+Station task
+Interpret the ECG and explain the rhythm, the key measurement, and the immediate management.
+
+Expected ECG description
+The rhythm is regular. Every P wave is followed by a QRS complex, but the PR interval is prolonged and constant, greater than 200 milliseconds. There is no dropped beat.
+
+Diagnosis
+First-degree atrioventricular block.
+
+Causes and assessment
+Consider aging-related conduction disease, ischemia, myocarditis, cardiomyopathy, beta-blockers, calcium-channel blockers, digoxin, and other medications. Assess symptoms, blood pressure, ischemic features, electrolyte abnormalities, and drug toxicity.
+
+Management
+An asymptomatic patient usually requires observation, medication review, and follow-up rather than emergency pacing. Treat reversible causes. Escalate urgently if there is syncope, hemodynamic compromise, progression to higher-grade block, or associated acute coronary syndrome.
+
+OSCE examiner pearls / الملاحظات الذهبية
+The defining feature is a prolonged, fixed PR interval with 1:1 AV conduction. Do not confuse first-degree block with Mobitz I, in which the PR interval progressively lengthens before a dropped QRS.
+
+================================================================================
+STATION 3 — SECOND-DEGREE AV BLOCK, MOBITZ I / WENCKEBACH
+IMAGE: images/017_mobitz_one_wenckebach.png
+SOURCE PAGE: 17
+================================================================================
+
+Station task
+Describe the ECG pattern, localize the likely level of block, and state the clinical significance.
+
+Expected ECG description
+The PR interval progressively lengthens until a P wave is not followed by a QRS complex. The pattern often produces grouped beating, and the block is usually at the AV-node level.
+
+Diagnosis
+Second-degree AV block, Mobitz I (Wenckebach phenomenon).
+
+Management
+Assess perfusion and symptoms. Correct ischemia, hypoxia, electrolyte disturbance, and medication effects. Atropine may be considered for symptomatic bradycardia when appropriate; prepare pacing if the patient is unstable or the rhythm deteriorates. Inferior myocardial infarction is a relevant clinical association.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Progressive PR prolongation followed by a dropped beat indicates Mobitz I. A fixed PR interval with intermittent dropped QRS complexes suggests Mobitz II, which carries a greater risk of progression and usually requires pacing evaluation.
+
+================================================================================
+STATION 4 — ACUTE DECOMPENSATED HEART FAILURE
+IMAGE: images/051_acute_decompensated_heart_failure.png
+SOURCE PAGE: 51
+================================================================================
+
+Station task
+A patient presents with severe dyspnea and the supplied diagram summarizes acute heart failure. State the clinical findings, investigations, and initial treatment.
+
+Key clinical features
+Expect exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea, pulmonary congestion, peripheral edema, and possibly an S3 gallop. Search for acute coronary syndrome, arrhythmia, hypertensive emergency, valvular disease, infection, and medication nonadherence.
+
+Investigations
+Perform ECG, chest radiography, blood gas when severely ill, CBC, electrolytes, renal function, troponin when indicated, and natriuretic peptide testing as an adjunct. Bedside echocardiography is highly useful for ventricular function, pulmonary edema, pericardial effusion, and volume assessment.
+
+Emergency management
+Provide oxygen only when hypoxemic. Noninvasive positive-pressure ventilation is useful for significant respiratory distress and pulmonary edema. In a hypertensive or normotensive patient, nitrates reduce preload and afterload. Use diuresis when there is clinically significant fluid overload. In shock, prioritize perfusion, identify the cause, and use vasopressor/inotropic support according to the hemodynamic profile and local protocol.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Do not give routine large-volume fluid boluses to a patient with cardiogenic pulmonary edema. Hypotension with signs of shock is different from hypertensive acute heart failure and requires a perfusion-focused strategy.
+
+================================================================================
+STATION 5 — CARDIOGENIC SHOCK
+IMAGE: images/056_cardiogenic_shock.png
+SOURCE PAGE: 56
+================================================================================
+
+Station task
+Recognize the shock state and outline the first five management priorities.
+
+Recognition
+Cardiogenic shock may present with hypotension, weak peripheral pulses, tachycardia, confusion, lethargy, cool extremities, oliguria, and evidence of pulmonary or systemic congestion. Acute myocardial infarction is a common precipitant.
+
+Immediate priorities
+Use an ABCDE approach, place the patient on continuous monitoring, obtain large-bore intravenous or intraosseous access, perform a 12-lead ECG, assess glucose and electrolytes, and obtain urgent bedside ultrasound. Give oxygen for hypoxemia and treat life-threatening arrhythmias. Avoid indiscriminate fluid loading; use a carefully assessed small fluid challenge only when appropriate. Involve cardiology early for reperfusion and mechanical-circulatory-support decisions.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Shock is a clinical diagnosis supported by hypotension and inadequate tissue perfusion. A normal blood pressure does not exclude early cardiogenic shock, especially when vasoconstriction is maintaining pressure.
+
+================================================================================
+STATION 6 — AORTIC STENOSIS MURMUR
+IMAGE: images/066_aortic_stenosis.png
+SOURCE PAGE: 66
+================================================================================
+
+Station task
+Describe the murmur and identify the diagnosis and dangerous complications.
+
+Expected findings
+Aortic stenosis produces a crescendo-decrescendo systolic ejection murmur, usually radiating to the carotids. Important symptoms are exertional dyspnea, angina, and syncope. An S4 may be present, and the second heart sound may be paradoxically split in severe disease.
+
+Diagnosis and investigation
+The definitive assessment is transthoracic echocardiography, which evaluates valve area, gradients, ventricular function, and associated disease. Obtain ECG and chest imaging when clinically indicated.
+
+Emergency considerations
+Treat pulmonary edema, arrhythmia, hypotension, and ischemia carefully. Severe symptomatic disease requires cardiology evaluation for valve intervention. Avoid sudden reductions in preload or systemic vascular resistance in a patient who depends on adequate filling and perfusion pressure.
+
+OSCE examiner pearls / الملاحظات الذهبية
+The classic triad is angina, syncope, and dyspnea. The murmur radiates to the carotids; this helps distinguish aortic stenosis from many other systolic murmurs.
+
+================================================================================
+STATION 7 — RADIAL HEAD FRACTURE AFTER FOOSH
+IMAGE: images/094_radial_head_fracture.png
+SOURCE PAGE: 94
+================================================================================
+
+Station task
+Interpret the orthopedic image/diagram and explain the next steps.
+
+Clinical pattern
+An adult has a fall on an outstretched hand, localized elbow pain, swelling, reduced range of motion, and pain with pronation and supination. An elbow radiograph may show a fat-pad or sail sign even when the fracture line is subtle.
+
+Diagnosis
+Radial head fracture until proven otherwise in the appropriate clinical context.
+
+Management
+Assess neurovascular status, skin integrity, and associated injuries. Provide analgesia, sling support or appropriate immobilization, and early orthopedic follow-up. Avoid prolonged immobilization because elbow stiffness is common. Refer urgently for open injury, neurovascular compromise, mechanical block, major displacement, or associated dislocation.
+
+OSCE examiner pearls / الملاحظات الذهبية
+A posterior fat-pad sign on a lateral elbow radiograph is abnormal in an adult and should raise concern for an occult fracture. Always document radial, median, and ulnar nerve function and distal perfusion.
+
+================================================================================
+STATION 8 — NURSEMAID ELBOW
+IMAGE: images/096_nursemaid_elbow.png
+SOURCE PAGE: 96
+================================================================================
+
+Station task
+Identify the injury from the age, mechanism, and limb position, then demonstrate the management plan verbally.
+
+Clinical pattern
+A child, usually 1–4 years old, develops refusal to use the arm after longitudinal traction on a pronated forearm while the elbow is extended. The arm is held close to the body, slightly flexed and pronated.
+
+Diagnosis
+Radial head subluxation, commonly called nursemaid elbow.
+
+Management
+If the history and examination are typical without deformity, swelling, or focal bony tenderness, reduction may be performed using hyperpronation or supination-flexion. Reassess spontaneous use of the arm. Obtain radiographs when the mechanism is atypical, reduction fails, or fracture is suspected.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Do not force reduction when there is significant swelling, deformity, or concern for nonaccidental injury. A child who resumes normal arm use shortly after reduction supports the diagnosis.
+
+================================================================================
+STATION 9 — ACUTE CHOLECYSTITIS
+IMAGE: images/142_acute_cholecystitis.png
+SOURCE PAGE: 142
+================================================================================
+
+Station task
+Use the clinical diagram to identify the diagnosis and state the first imaging test.
+
+Clinical pattern
+Steady right-upper-quadrant or epigastric pain, often after fatty food, with fever, nausea, vomiting, anorexia, and a positive Murphy sign suggests acute cholecystitis. Boas sign may be present as hyperesthesia below the right scapula.
+
+Investigations
+Right-upper-quadrant ultrasound is the initial study. Look for gallstones, gallbladder-wall thickening, pericholecystic fluid, and a sonographic Murphy sign. A HIDA scan can help when ultrasound is nondiagnostic.
+
+Management
+Provide analgesia, antiemetics, fluids as indicated, and antimicrobial therapy when infection or complicated disease is suspected. Involve surgery early because definitive treatment is generally cholecystectomy. Look for sepsis, perforation, gangrene, and cholangitis.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Differentiate uncomplicated biliary colic from cholecystitis by the duration of pain, fever, inflammatory features, and gallbladder findings. Jaundice and systemic toxicity should raise concern for common-bile-duct obstruction or cholangitis.
+
+================================================================================
+STATION 10 — ACUTE PANCREATITIS
+IMAGE: images/149_acute_pancreatitis.png
+SOURCE PAGE: 149
+================================================================================
+
+Station task
+Recognize the syndrome and identify signs suggesting severe or hemorrhagic disease.
+
+Clinical pattern
+Typical pancreatitis causes severe epigastric pain radiating to the back with nausea and vomiting. Grey-Turner flank ecchymosis and Cullen periumbilical ecchymosis suggest hemorrhagic pancreatitis but are late and uncommon findings.
+
+Investigations
+Serum lipase is generally more useful than amylase. Assess CBC, electrolytes, renal function, glucose, calcium, liver tests, triglycerides when appropriate, and ECG/troponin when the presentation could mimic acute coronary syndrome. Ultrasound evaluates gallstones; CT is reserved for selected diagnostic or complication-related situations.
+
+Management
+Provide early analgesia, antiemetics, and appropriately guided intravenous fluid resuscitation. Treat the cause, such as biliary disease or alcohol-related illness. Monitor for shock, respiratory failure, renal injury, hypocalcemia, infection, and evolving necrosis.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Do not use the presence or absence of Grey-Turner or Cullen signs to rule pancreatitis in or out. The diagnosis is clinical and biochemical; severity assessment and organ-failure monitoring determine disposition.
+
+================================================================================
+STATION 11 — ACUTE CHOLANGITIS
+IMAGE: images/159_acute_cholangitis.png
+SOURCE PAGE: 159
+================================================================================
+
+Station task
+Recognize biliary sepsis and describe the definitive source-control step.
+
+Clinical pattern
+Charcot triad consists of right-upper-quadrant pain, fever, and jaundice. Hypotension and altered mental status indicate severe disease and are classically added to form Reynolds pentad.
+
+Investigations
+Obtain blood cultures, CBC, renal and liver function, coagulation profile, lactate when septic, and urgent biliary imaging. Ultrasound or CT may demonstrate obstruction; ERCP is both a diagnostic and therapeutic modality when ductal decompression is required.
+
+Emergency management
+Resuscitate sepsis with appropriate fluids, cultures, broad-spectrum intravenous antibiotics, monitoring, and early specialist involvement. The definitive treatment of obstructed infected bile ducts is urgent biliary drainage, commonly by ERCP, according to local availability and patient stability.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Antibiotics alone may be insufficient when obstruction persists. The combination of jaundice, sepsis, and altered mental status should trigger urgent escalation for source control.
+
+================================================================================
+STATION 12 — INTUSSUSCEPTION
+IMAGE: images/190_intussusception.png
+SOURCE PAGE: 190
+================================================================================
+
+Station task
+Identify the pediatric abdominal emergency and interpret the characteristic imaging sign.
+
+Clinical pattern
+A young child has intermittent colicky abdominal pain, vomiting, episodic distress, and possibly bloody “currant-jelly” stool. A sausage-shaped abdominal mass may be palpable. In children older than two years, consider a pathological lead point such as a tumor, polyp, Meckel diverticulum, or other lesion.
+
+Diagnosis and management
+Ultrasound may show the target or doughnut sign. In a stable child without perforation or peritonitis, air or contrast enema is diagnostic and therapeutic. Surgical consultation is required for peritonitis, perforation, shock, failed reduction, or a suspected pathological lead point.
+
+OSCE examiner pearls / الملاحظات الذهبية
+The classic triad is not always present. Do not delay imaging while waiting for currant-jelly stool; early disease may have no blood in the stool.
+
+================================================================================
+STATION 13 — SMALL-BOWEL OBSTRUCTION
+IMAGE: images/192_small_bowel_obstruction.png
+SOURCE PAGE: 192
+================================================================================
+
+Station task
+Describe the radiographic pattern and outline initial stabilization.
+
+Clinical pattern
+Prior abdominal or pelvic surgery suggests adhesions. Typical findings include colicky pain, bilious vomiting, abdominal distension, dehydration, and high-pitched bowel sounds. Peritonitis, continuous severe pain, fever, tachycardia, metabolic acidosis, or rising lactate suggest strangulation or ischemia.
+
+Imaging and management
+Plain radiography may show dilated loops, air-fluid levels, a “stack of coins,” or “string of pearls” appearance. Provide analgesia, antiemetics, intravenous fluids, electrolyte correction, surgical consultation, and nasogastric decompression when indicated. CT is useful when the diagnosis or complication is uncertain.
+
+OSCE examiner pearls / الملاحظات الذهبية
+A patient with obstruction and peritonitis or suspected ischemia needs urgent surgical management, not prolonged conservative observation. Always assess for an incarcerated external hernia.
+
+================================================================================
+STATION 14 — LARGE-BOWEL OBSTRUCTION
+IMAGE: images/193_large_bowel_obstruction.png
+SOURCE PAGE: 193
+================================================================================
+
+Station task
+Differentiate large-bowel obstruction from small-bowel obstruction and state the major causes.
+
+Clinical pattern
+Large-bowel obstruction commonly causes progressive abdominal distension, constipation or obstipation, and vomiting that may be later in the course. Colorectal cancer and sigmoid volvulus are important causes. A plain radiograph may show peripheral colonic dilation and haustra.
+
+Management
+Resuscitate with intravenous fluids and electrolyte correction, provide analgesia and antiemetics, keep the patient nil by mouth, and obtain early surgical consultation. CT is often required to identify the level, cause, ischemia, perforation, or an obstructing mass. Decompression or endoscopic treatment may be appropriate for selected volvulus cases, while perforation or ischemia requires urgent surgery.
+
+OSCE examiner pearls / الملاحظات الذهبية
+Distension with systemic toxicity, peritonitis, or free air indicates a complicated obstruction. Do not treat suspected mechanical obstruction with laxatives before excluding ischemia or perforation.
+
+================================================================================
+STANDARD OSCE ANSWER FRAMEWORK
+================================================================================
+
+For any emergency image station, use the following sequence:
+
+1. Confirm the task and describe only what is visible.
+2. State the most likely diagnosis and one or two important differentials.
+3. Identify immediate threats to airway, breathing, circulation, neurologic status, or limb viability.
+4. Request focused investigations and explain what each test will answer.
+5. Give immediate stabilization and definitive management.
+6. State disposition, escalation, and safety-net advice.
+7. Mention one high-yield discriminator or examination trap.
+
+Arabic framework / القاعدة العملية
+ابدأ بوصف الصورة دون القفز إلى التشخيص، ثم اذكر التشخيص الأرجح والتشخيصات الخطرة البديلة، وحدد عدم الاستقرار الحيوي، واطلب الفحوصات الموجهة، ثم اشرح العلاج الإسعافي والعلاج النهائي ومتى تحتاج إلى استدعاء الاختصاصي أو إدخال المريض.
+
+================================================================================
+SOURCE REFERENCES
+================================================================================
+
+[1] CopyofEmergency-Medicine-FULL.pdf, supplied source file, selected pages 13, 16, 17, 51, 56, 66, 94, 96, 142, 149, 159, 190, 192, and 193.
+[2] Local emergency-medicine OSCE teaching framework: ABCDE assessment, focused image description, differential diagnosis, immediate stabilization, definitive management, and disposition.
+================================================================================

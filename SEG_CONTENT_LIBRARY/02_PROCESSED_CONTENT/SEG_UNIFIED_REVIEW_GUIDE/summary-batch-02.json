@@ -1,0 +1,186 @@
+{
+  "guideId": "seg-unified-review-guide",
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "sample-shock",
+      "title": "Therapeutic Approach to the Hypotensive Patient",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 60,
+        "end": 64
+      },
+      "highYieldSummary": [
+        "Confirm the blood-pressure signal while assessing perfusion, mental status, skin findings, urine output, and the trajectory of illness.",
+        "Classify likely mechanisms—hypovolemic, distributive, cardiogenic, or obstructive—without delaying treatment of immediately reversible threats.",
+        "Use repeated examination and targeted bedside tests to guide fluids, vasoactive support, source control, and escalation.",
+        "Reassess response and harm risk after each intervention; hypotension with shock physiology requires timely senior involvement."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Shock is a clinical syndrome, not a blood-pressure number."
+      ],
+      "examTraps": [
+        "Do not give repeated empiric fluid boluses without reassessing response and overload risk."
+      ],
+      "arabicExplanation": "الصدمة لا تُعرّف برقم الضغط فقط. قيّم التروية والوعي والجلد والبول، حدّد الآلية المحتملة، ثم أعد التقييم بعد كل تدخل مع تجنب السوائل العشوائية.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 60,
+        "end": 64
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-anaphylaxis",
+      "title": "Anaphylaxis, Acute Allergic Reactions, and Angioedema",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 64,
+        "end": 67
+      },
+      "highYieldSummary": [
+        "Recognize anaphylaxis from acute airway, breathing, or circulatory compromise with or without skin findings.",
+        "Prioritize immediate treatment and airway planning; supportive therapies are adjuncts and must not delay first-line management.",
+        "Observe for recurrence according to severity, treatment response, comorbidity, and local protocol.",
+        "Document the suspected trigger, treatment, discharge education, and follow-up or referral plan."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Absence of rash does not exclude anaphylaxis."
+      ],
+      "examTraps": [
+        "Do not wait for laboratory confirmation before treating a compatible, unstable presentation."
+      ],
+      "arabicExplanation": "التأق قد يحدث دون طفح جلدي. الأولوية لمجرى الهواء والتنفس والدوران والعلاج الفوري، ثم المراقبة والتعليم وتوثيق العامل المحفز.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 64,
+        "end": 67
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-pneumothorax",
+      "title": "Spontaneous and Iatrogenic Pneumothorax",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 208,
+        "end": 213
+      },
+      "highYieldSummary": [
+        "Suspect pneumothorax from sudden respiratory or pleuritic symptoms and integrate examination, physiology, and imaging.",
+        "Treat suspected tension physiology immediately when unstable; diagnostic imaging must not delay life-saving decompression.",
+        "Select observation, aspiration, tube drainage, or specialist management according to size, symptoms, physiology, cause, and local pathway.",
+        "Reassess respiratory status and confirm resolution or a safe follow-up plan before discharge."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Tension pneumothorax is a physiologic diagnosis."
+      ],
+      "examTraps": [
+        "Do not delay emergency treatment for a portable chest radiograph in a crashing patient."
+      ],
+      "arabicExplanation": "الاسترواح الضاغط تشخيص سريري في المريض غير المستقر. عالج الخطر الفوري أولًا، ثم استخدم التصوير لتوجيه الخطة عند استقرار المريض.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 208,
+        "end": 213
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-seizure",
+      "title": "Seizures and Status Epilepticus",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 0,
+        "end": 0
+      },
+      "highYieldSummary": [
+        "Stabilize airway, breathing, circulation, glucose, temperature, and injury while determining whether seizure activity is ongoing.",
+        "Search for reversible precipitants and medication or toxicologic causes; obtain collateral history when possible.",
+        "Persistent or recurrent seizures without recovery require an escalation pathway and time-critical specialist support.",
+        "After control, reassess neurologic status, complications, disposition, and recurrence prevention."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Time the seizure from the first observed abnormal movement."
+      ],
+      "examTraps": [
+        "Do not assume ongoing unresponsiveness is postictal without reassessment for nonconvulsive activity or another cause."
+      ],
+      "arabicExplanation": "ثبّت الوظائف الحيوية وافحص السكر ووقت النوبة. استمرار النوبات أو تكررها دون استعادة الوعي يحتاج مسار تصعيد سريع وتقييمًا للأسباب القابلة للعكس.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 0,
+        "end": 0
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-pediatric-resuscitation",
+      "title": "Resuscitation of Children and Neonates",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {
+        "start": 29,
+        "end": 37
+      },
+      "highYieldSummary": [
+        "Use a structured pediatric assessment with age-appropriate equipment, weight-based references, and early team role allocation.",
+        "Prioritize oxygenation, ventilation, perfusion, temperature, and glucose while looking for reversible causes.",
+        "Reassess frequently because pediatric deterioration can be rapid and clinical signs may be subtle.",
+        "Document weight, interventions, response, caregiver communication, and the handover plan."
+      ],
+      "diagnosis": [],
+      "management": [],
+      "algorithms": [],
+      "tables": [],
+      "examPearls": [
+        "Preparation and equipment sizing prevent avoidable delays."
+      ],
+      "examTraps": [
+        "Do not use adult assumptions for airway equipment, physiology, or medication calculations."
+      ],
+      "arabicExplanation": "إنعاش الطفل يحتاج معدات ومراجع مناسبة للعمر والوزن، مع إعادة تقييم متكرر لأن التدهور قد يكون سريعًا. وثّق الوزن والاستجابة وخطة التسليم.",
+      "references": [
+        "Tintinalli's Emergency Medicine Manual 8e"
+      ],
+      "pages": {
+        "start": 29,
+        "end": 37
+      },
+      "clinicalReview": "pending",
+      "reviewStatus": "UNDER_REVIEW",
+      "status": "draft"
+    }
+  ]
+}

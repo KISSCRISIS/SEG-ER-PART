@@ -1,0 +1,72 @@
+{
+  "guideId": "seg-unified-review-guide",
+  "status": "under-review",
+  "items": [
+    {
+      "unitId": "sample-airway-support",
+      "title": "Advanced Airway Support",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {"start": 1, "end": 10},
+      "diagnosis": ["Assess airway patency, oxygenation, ventilation, mental status, and anticipated difficulty."],
+      "management": ["Optimize oxygenation and ventilation, prepare backup and rescue plans, confirm placement with waveform capnography when available, and reassess continuously."],
+      "algorithms": ["ABCDE → basic maneuvers/non-invasive support → definitive airway when indicated → rescue pathway → post-placement confirmation."],
+      "tables": [],
+      "summary": [
+        "Begin with oxygenation, ventilation, monitoring, suction, backup equipment, and an explicit rescue plan.",
+        "Choose the least invasive effective support, escalating from basic maneuvers and noninvasive support to a definitive airway when physiology or clinical course requires it.",
+        "Before rapid sequence intubation, optimize physiology, anticipate difficult mask ventilation and rescue, assign team roles, and prepare a surgical-airway pathway.",
+        "After placement, confirm tube position with continuous waveform capnography when available, reassess oxygenation and ventilation, and document the plan for sedation and ongoing care."
+      ],
+      "examPearls": ["Preparation and rescue planning are part of the procedure, not optional extras.", "Repeated attempts increase risk; change the plan early when the first approach fails."],
+      "examTraps": ["Do not treat a tube depth number as confirmation of tracheal placement.", "Do not allow a difficult airway plan to delay oxygenation and ventilation."],
+      "arabicExplanation": "الفكرة الأساسية: ابدأ بالأكسجة والتهوية والتحضير الجيد، ثم صعّد التدخل تدريجيًا. قبل التنبيب جهّز خطة إنقاذ واضحة، وبعده تأكد من مكان الأنبوب وأعد تقييم المريض باستمرار.",
+      "linkedQuestionIds": [],
+      "clinicalReview": "pending",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-acs",
+      "title": "Acute Coronary Syndromes",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {"start": 131, "end": 138},
+      "diagnosis": ["Use focused history, serial ECGs when indicated, biomarkers interpreted in timing context, and assessment for alternative lethal diagnoses."],
+      "management": ["Treat as time-sensitive, escalate unstable or ischemic presentations urgently, and follow the current local antithrombotic and reperfusion pathway."],
+      "algorithms": ["Stability check → ECG/monitoring → serial assessment → reperfusion or risk pathway → reassessment."],
+      "tables": [],
+      "summary": [
+        "Treat suspected acute coronary syndrome as a time-sensitive diagnosis while obtaining a focused history, serial ECGs when indicated, and appropriately timed cardiac biomarkers.",
+        "Separate immediate reperfusion decisions from later risk stratification; persistent ischemic changes, instability, or shock require urgent senior and cardiology escalation.",
+        "Use bleeding risk, renal function, drug interactions, and the local pathway when selecting antithrombotic therapy; never copy a dose without checking a current protocol.",
+        "Reassess for alternative lethal diagnoses such as aortic dissection, pulmonary embolism, and tension pneumothorax when the presentation is atypical or unstable."
+      ],
+      "examPearls": ["A single nondiagnostic ECG does not exclude evolving ischemia.", "Stability and ECG findings drive urgency before a complete biomarker series is available."],
+      "examTraps": ["Do not anchor on troponin without interpreting timing and clinical context.", "Do not administer antithrombotic therapy before considering dissection when its features are present."],
+      "arabicExplanation": "تعامل مع المتلازمة التاجية الحادة كحالة حساسة للوقت. تخطيط القلب المتكرر والسياق السريري مهمان، ويجب التفكير بتشخيصات قاتلة أخرى قبل إعطاء مضادات التخثر أو الصفيحات.",
+      "linkedQuestionIds": [],
+      "clinicalReview": "pending",
+      "status": "draft"
+    },
+    {
+      "unitId": "sample-respiratory-distress",
+      "title": "Respiratory Distress",
+      "source": "Tintinalli's Emergency Medicine Manual 8e",
+      "sourcePages": {"start": 191, "end": 199},
+      "diagnosis": ["Integrate work of breathing, mental status, oxygenation, ventilation, examination, and focused bedside testing to identify reversible causes."],
+      "management": ["Treat life threats immediately, provide oxygen or ventilatory support matched to physiology, and escalate early for fatigue or refractory hypoxemia."],
+      "algorithms": ["ABCDE → reversible threat → targeted support → reassess response → escalate when failing."],
+      "tables": [],
+      "summary": [
+        "Use an immediate ABC assessment with work of breathing, mental status, oxygenation, ventilation, and perfusion; treat life threats while diagnosing the cause.",
+        "Look for rapidly reversible causes including bronchospasm, pulmonary edema, pneumothorax, upper-airway obstruction, opioid toxicity, and severe infection.",
+        "Choose oxygen and ventilatory support according to the physiology and response, with early escalation when fatigue, altered consciousness, or refractory hypoxemia develops.",
+        "Reassess after every intervention and use bedside imaging, blood gas interpretation, and focused ultrasound only as components of the clinical picture."
+      ],
+      "examPearls": ["A normal oxygen saturation can coexist with dangerous work of breathing or hypercapnia.", "The trajectory after treatment is diagnostically informative."],
+      "examTraps": ["Do not delay decompression of suspected tension pneumothorax for imaging.", "Do not use a single pulse-oximeter reading to decide that the patient is safe."],
+      "arabicExplanation": "ابدأ بتقييم مجرى الهواء والتنفس والدوران، وعالج الأسباب القابلة للعكس فورًا. راقب جهد التنفس والوعي والاتجاه العام، لأن تحسن أو تدهور المريض بعد التدخل يحمل قيمة تشخيصية.",
+      "linkedQuestionIds": [],
+      "clinicalReview": "pending",
+      "status": "draft"
+    }
+  ]
+}

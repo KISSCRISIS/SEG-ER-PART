@@ -1,0 +1,86 @@
+/home/ubuntu/seg-manus-status/SEG_PHASE_7_8_5_LEGACY_METADATA_ANALYSIS.txt
+FILE appFlashcards.json
+RECORD_COUNT 128
+TOP_LEVEL_TYPE list
+MATCHED_SEG_SOURCE_IDS NONE
+FIELD cardId UNIQUE_VALUES 128 TOP_VALUES [('FC_001', 1), ('NC_001', 1), ('FC_002', 1), ('NC_002', 1), ('FC_003', 1), ('TC_rosen_c2_t1', 1), ('TC_rosen_c2_t2', 1), ('TC_rosen_c3_t1', 1), ('TC_rosen_c3_t2', 1), ('TC_rosen_c4_t1', 1), ('TC_rosen_c6_t1', 1), ('TC_rosen_c7_t1', 1)]
+FIELD source UNIQUE_VALUES 83 TOP_VALUES [('Tintinalli Ch 25', 5), ('Tintinalli Ch 2', 4), ('Tintinalli Ch 1', 3), ('Tintinalli Ch 5', 3), ('Tintinalli Ch 10', 3), ('Tintinalli Ch 11', 3), ('Tintinalli Ch 21', 3), ('Tintinalli Ch 22', 3), ('Tintinalli Ch 24', 3), ('Rosen Ch 173', 2), ('Rosen Ch 156', 2), ('Rosen Ch 4', 2)]
+FIELD type UNIQUE_VALUES 3 TOP_VALUES [('Topic', 123), ('Fact', 3), ('Numerical', 2)]
+FIELD yield UNIQUE_VALUES 3 TOP_VALUES [('High', 102), ('Needs verification', 25), ('Critical', 1)]
+FIELD referenceId UNIQUE_VALUES 123 TOP_VALUES [('rosen_c2_t1', 1), ('rosen_c2_t2', 1), ('rosen_c3_t1', 1), ('rosen_c3_t2', 1), ('rosen_c4_t1', 1), ('rosen_c6_t1', 1), ('rosen_c7_t1', 1), ('rosen_c9_t1', 1), ('rosen_c10_t1', 1), ('rosen_c14_t1', 1), ('rosen_c22_t1', 1), ('rosen_c25_t1', 1)]
+FIELD_UNION ['answer', 'cardId', 'question', 'referenceId', 'source', 'type', 'yield']
+PRESENCE answer 128/128
+PRESENCE cardId 128/128
+PRESENCE question 128/128
+PRESENCE referenceId 123/128
+PRESENCE source 128/128
+PRESENCE type 128/128
+PRESENCE yield 128/128
+
+FILE fullReferenceLibrary.json
+RECORD_COUNT 126
+TOP_LEVEL_TYPE list
+MATCHED_SEG_SOURCE_IDS NONE
+FIELD id UNIQUE_VALUES 126 TOP_VALUES [('rosen_c2_t1', 1), ('rosen_c2_t2', 1), ('rosen_c3_t1', 1), ('rosen_c3_t2', 1), ('rosen_c4_t1', 1), ('rosen_c6_t1', 1), ('rosen_c7_t1', 1), ('rosen_c9_t1', 1), ('rosen_c10_t1', 1), ('rosen_c14_t1', 1), ('rosen_c22_t1', 1), ('rosen_c25_t1', 1)]
+FIELD source UNIQUE_VALUES 4 TOP_VALUES [('Tintinalli', 65), ('Rosen', 57), ('Tintinalli?', 3), ('Patch', 1)]
+FIELD topic UNIQUE_VALUES 125 TOP_VALUES [('Retinal Detachment POCUS', 2), ('Lung-Protective Ventilation in the ED', 1), ('Sepsis-3 Definitions', 1), ('Cardiogenic Shock and Fluids', 1), ('Balanced Crystalloids vs. Normal Saline', 1), ('Targeted Temperature Management (TTM) and Prognosis', 1), ('Pain Transmission and Assessment', 1), ('Ketamine Complications and Contraindications', 1), ('Botulism Pathophysiology', 1), ('Methemoglobinemia Clinical Presentation', 1), ('Eclamptic Seizures Management', 1), ('Tension Pneumothorax and Ventilation', 1)]
+FIELD chapterNumber UNIQUE_VALUES 73 TOP_VALUES [('2', 6), ('25', 6), ('3', 4), ('10', 4), ('22', 4), ('4', 3), ('6', 3), ('7', 3), ('9', 3), ('14', 3), ('17', 3), ('1', 3)]
+FIELD chapterTitle UNIQUE_VALUES 82 TOP_VALUES [('Point-of-Care Ultrasound in the Emergency Department', 5), ('Resuscitation', 4), ('Eye, Ear, Nose, Throat, and Oral Disorders', 3), ('Renal and Genitourinary Disorders', 3), ('Prehospital Care and Disaster Management', 3), ('Cardiovascular Disorders', 3), ('Pediatrics', 3), ('Systemic Infectious Disorders', 3), ('Musculoskeletal Disorders (Non-Traumatic)', 3), ('Psychosocial Disorders', 3), ('Special Situations', 3), ('Airway and Resuscitation', 2)]
+FIELD needsVerification UNIQUE_VALUES 2 TOP_VALUES [(False, 98), (True, 28)]
+FIELD_UNION ['_batchFile', 'algorithms', 'arabicMentorExplanation', 'boardSafeLogic', 'chapterNumber', 'chapterTitle', 'id', 'keyPoints', 'needsVerification', 'relatedFocusedQuestionFamilies', 'relatedKeywords', 'relatedTraps', 'source', 'tables', 'topic', 'visuals']
+PRESENCE _batchFile 103/126
+PRESENCE algorithms 8/126
+PRESENCE arabicMentorExplanation 103/126
+PRESENCE boardSafeLogic 103/126
+PRESENCE chapterNumber 126/126
+PRESENCE chapterTitle 126/126
+PRESENCE id 126/126
+PRESENCE keyPoints 123/126
+PRESENCE needsVerification 126/126
+PRESENCE relatedFocusedQuestionFamilies 125/126
+PRESENCE relatedKeywords 124/126
+PRESENCE relatedTraps 125/126
+PRESENCE source 126/126
+PRESENCE tables 9/126
+PRESENCE topic 126/126
+PRESENCE visuals 19/126
+
+FILE chapterStudyMap.json
+RECORD_COUNT 85
+TOP_LEVEL_TYPE list
+MATCHED_SEG_SOURCE_IDS NONE
+FIELD source UNIQUE_VALUES 4 TOP_VALUES [('Rosen', 51), ('Tintinalli', 30), ('Tintinalli?', 3), ('Patch', 1)]
+FIELD chapterNumber UNIQUE_VALUES 73 TOP_VALUES [('2', 2), ('3', 2), ('4', 2), ('6', 2), ('7', 2), ('9', 2), ('10', 2), ('14', 2), ('17', 2), ('22', 2), ('25', 2), ('E15', 2)]
+FIELD_UNION ['chapterNumber', 'count', 'entries', 'source']
+PRESENCE chapterNumber 85/85
+PRESENCE count 85/85
+PRESENCE entries 85/85
+PRESENCE source 85/85
+
+FILE masterTopicFamilyIndex.json
+RECORD_COUNT 38
+TOP_LEVEL_TYPE list
+MATCHED_SEG_SOURCE_IDS NONE
+FIELD family UNIQUE_VALUES 38 TOP_VALUES [('Trauma', 1), ('Social / Ethics / Systems', 1), ('Infectious Disease / Sepsis', 1), ('Ultrasound Signs / Views', 1), ('Toxicology / Antidotes', 1), ('HEENT / Eye Emergencies', 1), ('Pregnancy / OB', 1), ('Airway Failure / Intubation', 1), ('Cardiac Arrest / ROSC / TTM', 1), ('Endocrine / DKA / Electrolytes', 1), ('GI / Abdominal Pain', 1), ('Paediatrics / Neonatal', 1)]
+FIELD_UNION ['count', 'entries', 'family']
+PRESENCE count 38/38
+PRESENCE entries 38/38
+PRESENCE family 38/38
+
+FILE masterTrapIndex.json
+RECORD_COUNT 126
+TOP_LEVEL_TYPE list
+MATCHED_SEG_SOURCE_IDS NONE
+FIELD source UNIQUE_VALUES 3 TOP_VALUES [('Tintinalli', 65), ('Rosen', 58), ('Tintinalli?', 3)]
+FIELD topic UNIQUE_VALUES 124 TOP_VALUES [('Targeted Temperature Management (TTM) and Prognosis', 2), ('Retinal Detachment POCUS', 2), ('Lung-Protective Ventilation in the ED', 1), ('Sepsis-3 Definitions', 1), ('Cardiogenic Shock and Fluids', 1), ('Balanced Crystalloids vs. Normal Saline', 1), ('Pain Transmission and Assessment', 1), ('Ketamine Complications and Contraindications', 1), ('Botulism Pathophysiology', 1), ('Methemoglobinemia Clinical Presentation', 1), ('Eclamptic Seizures Management', 1), ('Tension Pneumothorax and Ventilation', 1)]
+FIELD chapterNumber UNIQUE_VALUES 72 TOP_VALUES [('2', 6), ('25', 6), ('3', 4), ('4', 4), ('10', 4), ('22', 4), ('6', 3), ('7', 3), ('9', 3), ('14', 3), ('17', 3), ('1', 3)]
+FIELD chapterTitle UNIQUE_VALUES 81 TOP_VALUES [('Point-of-Care Ultrasound in the Emergency Department', 5), ('Resuscitation', 4), ('Eye, Ear, Nose, Throat, and Oral Disorders', 3), ('Renal and Genitourinary Disorders', 3), ('Prehospital Care and Disaster Management', 3), ('Cardiovascular Disorders', 3), ('Pediatrics', 3), ('Systemic Infectious Disorders', 3), ('Musculoskeletal Disorders (Non-Traumatic)', 3), ('Psychosocial Disorders', 3), ('Special Situations', 3), ('Airway and Resuscitation', 2)]
+FIELD referenceId UNIQUE_VALUES 125 TOP_VALUES [('rosen_c4_t1', 2), ('rosen_c2_t1', 1), ('rosen_c2_t2', 1), ('rosen_c3_t1', 1), ('rosen_c3_t2', 1), ('rosen_c6_t1', 1), ('rosen_c7_t1', 1), ('rosen_c9_t1', 1), ('rosen_c10_t1', 1), ('rosen_c14_t1', 1), ('rosen_c22_t1', 1), ('rosen_c25_t1', 1)]
+FIELD_UNION ['chapterNumber', 'chapterTitle', 'referenceId', 'source', 'topic', 'trap']
+PRESENCE chapterNumber 126/126
+PRESENCE chapterTitle 126/126
+PRESENCE referenceId 126/126
+PRESENCE source 126/126
+PRESENCE topic 126/126
+PRESENCE trap 126/126
+

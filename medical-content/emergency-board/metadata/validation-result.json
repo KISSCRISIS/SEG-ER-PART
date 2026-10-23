@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "blueprintId": "JEM_BOARD_MASTER_V1",
+  "validatedAt": "2026-09-14",
+  "sourceFile": "C:/Users/USER/Downloads/jordan-em-board-topic-master-v1.json",
+  "checks": [
+    {
+      "name": "source-json-readable",
+      "status": "passed"
+    },
+    {
+      "name": "topicId-primary-key-declared",
+      "status": "passed"
+    },
+    {
+      "name": "registry-controls-preserved",
+      "status": "passed"
+    },
+    {
+      "name": "topic-records-present",
+      "status": "passed"
+    },
+    {
+      "name": "duplicate-topicIds",
+      "status": "passed",
+      "message": "No duplicate topicIds found."
+    },
+    {
+      "name": "required-topic-fields",
+      "status": "passed",
+      "message": "Every imported topic has topicId, topicName, system, priority, requiredAlgorithms, requiredExamPearls, requiredTables, and mcqTarget."
+    },
+    {
+      "name": "metadata-link-contracts",
+      "status": "passed"
+    }
+  ],
+  "summary": {
+    "totalTopicsImported": 4,
+    "duplicateTopicsFound": 0,
+    "missingRequiredFields": 0,
+    "mappingStatus": "topic-data-layer-ready",
+    "validationResult": "valid"
+  }
+}
