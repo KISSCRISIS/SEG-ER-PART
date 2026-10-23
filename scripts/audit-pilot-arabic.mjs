@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 
 const lines = readFileSync('./pilot-edic-arabic.jsonl', 'utf8').trim().split('\n');
-const data = lines.map(l => { try { return JSON.parse(l) } catch(e) { return null } }).filter(Boolean);
+const data = lines.map(l => { try { return JSON.parse(l) } catch { return null } }).filter(Boolean);
 
 console.log('Valid entries:', data.length);
 console.log('');
@@ -13,7 +13,6 @@ let totalLen = 0;
 
 for (let i = 0; i < data.length; i++) {
   const ar = data[i].arabicExplanation;
-  const en = data[i].englishExplanation;
   const q = data[i].question;
   
   const prefix = ar.match(/^[^:]+:/);
