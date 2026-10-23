@@ -1,4 +1,4 @@
-import { readFile, mkdir, writeFile, readdir } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 import { gradeSelectedAnswer, resolveCorrectAnswerKey } from "@shared/qbank-answer";
 import { calculateTopicProgress } from "@shared/study-plan-intelligence";
@@ -129,7 +129,7 @@ async function load() {
           })
       );
     // Load imported questions from separate user store (separate from original banks)
-    let importedQuestions: Question[] = [];
+    const importedQuestions: Question[] = [];
     try {
       const importDir = process.env.SEG_LOCAL_DATA_DIR ? path.join(process.env.SEG_LOCAL_DATA_DIR, "imported-questions") : path.join(root, "user-imported");
       const files = await readdir(importDir, { withFileTypes: true }).catch(() => []);

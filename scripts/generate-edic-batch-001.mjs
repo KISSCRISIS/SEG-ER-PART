@@ -36,7 +36,6 @@ const approvedPrefixes = [
 const P = 'علم الأمراض:';
 const M = 'المقدمة:';
 const T = 'التعريف والطبقات:';
-const A = 'الأهمية السريرية:';
 const F = 'الفيزيولوجيا:';
 const H = 'حماية الكظرية:';
 const R = 'السمات الإشعاعية:';
@@ -199,8 +198,8 @@ const output = results.map(q => JSON.stringify(q)).join('\n') + '\n';
 writeFileSync(OUTPUT_PATH, output);
 
 const reRead = readFileSync(OUTPUT_PATH, 'utf8').trim().split('\n');
-const data = reRead.map(l => { try { return JSON.parse(l) } catch(e) { return null } }).filter(Boolean);
-const sourceMap = new Map(lines.map(l => { try { return [JSON.parse(l).id, JSON.parse(l)] } catch(e) { return [null, null] } }).filter(([k]) => k));
+const data = reRead.map(l => { try { return JSON.parse(l) } catch { return null } }).filter(Boolean);
+const sourceMap = new Map(lines.map(l => { try { return [JSON.parse(l).id, JSON.parse(l)] } catch { return [null, null] } }).filter(([k]) => k));
 let crossIssues = [];
 for (const q of data) {
   const orig = sourceMap.get(q.id);

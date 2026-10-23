@@ -51,7 +51,7 @@ function getTrustProxySetting() {
 }
 
 function getBodyLimit() {
-  return process.env.BODY_SIZE_LIMIT ?? "10mb";
+  return process.env.BODY_SIZE_LIMIT ?? "52mb";
 }
 
 async function startServer() {
@@ -73,7 +73,10 @@ async function startServer() {
     })
   );
 
-  // Configure body parser with an explicit production limit.
+  // Rate-limit PDF imports before parsing their potentially large JSON bodies.
+  app.use("/api/trpc/pdfLibrary.import", createApiRateLimiter());
+
+  // Configure body parser with an explicit limit (35 MiB PDF + Base64/JSON overhead).
   app.use(express.json({ limit: getBodyLimit() }));
   app.use(express.urlencoded({ limit: getBodyLimit(), extended: true }));
   registerLocalLogin(app);
@@ -124,6 +127,33 @@ async function startServer() {
     })
   );
 
+  // Serve only the authenticated user's PDFs before the generic API 404 handler.
+  app.get("/api/pdf-library/file/:pdfId", async (req, res) => {
+    let user: { id: number };
+    try {
+      const { sdk } = await import("./sdk");
+      user = await sdk.authenticateRequest(req);
+    } catch {
+      res.status(401).send("Unauthorized");
+      return;
+    }
+    const { getOwnedPdfPath } = await import("../pdfLibrary");
+    const fp = await getOwnedPdfPath(user.id, req.params.pdfId ?? "");
+    if (!fp) { res.status(404).send("Not found"); return; }
+    try {
+      const fs = await import("node:fs");
+      const info = await fs.promises.stat(fp);
+      res.setHeader("Content-Type", "application/pdf");
+      res.setHeader("Content-Length", info.size);
+      res.setHeader("X-Content-Type-Options", "nosniff");
+      const stream = fs.createReadStream(fp);
+      stream.on("error", () => { if (!res.headersSent) res.status(500).end(); else res.destroy(); });
+      stream.pipe(res);
+    } catch {
+      if (!res.headersSent) res.status(404).end(); else res.destroy();
+    }
+  });
+
   // API paths never fall through to the SPA shell.
   app.use("/api", notFoundHandler);
 
@@ -132,32 +162,7 @@ async function startServer() {
     const { setupVite } = await import("./vite");
     await setupVite(app, server);
   } else {
-  // Serve imported PDFs from local store (authenticated; basename only to prevent path traversal)
-  app.get("/api/pdf-library/file/:pdfId", async (req, res) => {
-    try {
-      const { sdk } = await import("./_core/sdk");
-      await sdk.authenticateRequest(req); // require a valid session
-    } catch {
-      res.status(401).send("Unauthorized");
-      return;
-    }
-    const dir = process.env.SEG_LOCAL_DATA_DIR ? path.resolve(process.env.SEG_LOCAL_DATA_DIR, "pdf-library") : null;
-    if (!dir) { res.status(404).json({ error: "Local PDF store unavailable." }); return; }
-    const safeId = path.basename(req.params.pdfId ?? "");
-    if (!safeId || safeId.includes("..") || safeId.includes("/") || safeId.includes("\\")) { res.status(400).send("Invalid pdfId."); return; }
-    const fp = path.join(dir, safeId);
-    try {
-      const fs = await import("node:fs");
-      if (!fs.existsSync(fp)) { res.status(404).send("Not found"); return; }
-      res.setHeader("Content-Type", "application/pdf");
-      res.setHeader("Content-Length", fs.statSync(fp).size);
-      const stream = fs.createReadStream(fp);
-      stream.on("error", () => { res.status(500).end(); });
-      stream.pipe(res);
-    } catch { res.status(500).end(); }
-  });
-
-  serveStatic(app);
+    serveStatic(app);
   }
 
   app.use(errorHandler);

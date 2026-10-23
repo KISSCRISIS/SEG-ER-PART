@@ -15,7 +15,6 @@ function normalize(t) {
 const first500 = srcLines.slice(0, 500);
 const rest = srcLines.slice(500);
 
-let exactDupOfFirst500 = 0;
 let dupOfCovered = 0;
 const uniqueUnseen = [];
 

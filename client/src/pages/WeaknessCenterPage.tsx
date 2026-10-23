@@ -2,7 +2,7 @@ import Bi from "@/components/Bi";
 import DashboardLayout from "@/components/DashboardLayout";
 import { trpc } from "@/lib/trpc";
 import { useState } from "react";
-import { Link, useSearch } from "wouter";
+import { Link } from "wouter";
 
 export default function WeaknessCenterPage() {
   const [filterFamily, setFilterFamily] = useState<string>("all");

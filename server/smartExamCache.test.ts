@@ -66,11 +66,6 @@ afterAll(() => {
   localStore().close();
 });
 
-function makeIds(count: number): string[] {
-  // Use real IDs from the bank to guarantee gradeSelectedAnswer works
-  return Array.from({ length: count }, (_, i) => `rosh-em-initial-2026-cardiovascular-disorders-q-${String((i % 10) + 1).padStart(3, "0")}`);
-}
-
 describe("Smart Exam Cache - server batch APIs", () => {
   it("questionsBatch returns only requested window for 500/1000/2000", async () => {
     const catalog = await listResidentQuestions({ page: 1, pageSize: 100 });

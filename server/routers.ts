@@ -32,7 +32,6 @@ import {
   listResidentChapters,
   listResidentQuestionCatalog,
   listResidentQuestions,
-  listAllQuestionIds,
   listImportedQuestionIds,
   regradeResidentAttempts,
   resetResidentContentCache,
@@ -122,12 +121,13 @@ async function generateArabicExplanation(question: {
     choices?: { message?: { content?: unknown } }[];
   };
   const content = payload.choices?.[0]?.message?.content;
-  let parsed: { arabicExplanation?: unknown } = {};
-  try {
-    parsed = JSON.parse(typeof content === "string" ? content : "{}");
-  } catch {
-    parsed = {};
-  }
+  const parsed: { arabicExplanation?: unknown } = (() => {
+    try {
+      return JSON.parse(typeof content === "string" ? content : "{}") as { arabicExplanation?: unknown };
+    } catch {
+      return {};
+    }
+  })();
   const explanation =
     typeof parsed.arabicExplanation === "string"
       ? parsed.arabicExplanation.trim()

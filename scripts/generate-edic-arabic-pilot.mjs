@@ -69,7 +69,7 @@ writeFileSync('./pilot-edic-arabic.jsonl', output);
 
 // --- Full Audit ---
 const reRead = readFileSync('./pilot-edic-arabic.jsonl', 'utf8').trim().split('\n');
-const data = reRead.map(l => { try { return JSON.parse(l) } catch(e) { return null } }).filter(Boolean);
+const data = reRead.map(l => { try { return JSON.parse(l) } catch { return null } }).filter(Boolean);
 
 let allValid = true;
 let auditIssues = [];
