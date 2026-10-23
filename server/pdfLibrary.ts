@@ -113,7 +113,6 @@ export function isValidOwnedPdfId(userId: number, pdfId: string): boolean {
     && typeof pdfId === "string"
     && pdfId.length > 0
     && pdfId.length <= 240
-    && !pdfId.includes("..")
     && !pdfId.includes("/")
     && !pdfId.includes("\\")
     && !pdfId.includes("\0")
